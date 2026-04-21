@@ -1,0 +1,655 @@
+<div id="enb-root"></div>
+
+<style>
+  :root{
+    --bg:#f7f4ee;
+    --card:#fffdfa;
+    --line:#e6dfd2;
+    --text:#2a241b;
+    --muted:#6e665b;
+    --point:#7a4b1f;
+    --point-soft:#f0e3d2;
+    --green:#2e6b4f;
+    --red:#9b3d2f;
+    --amber:#a56b00;
+    --blue:#245b8f;
+    --shadow:0 10px 28px rgba(42,36,27,.08);
+    --radius:18px;
+  }
+
+  #enb-root{
+    font-family:"Pretendard","Noto Sans KR",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+    color:var(--text);
+    line-height:1.65;
+  }
+
+  #enb-root *{box-sizing:border-box}
+
+  .enb-wrap{
+    max-width:1100px;
+    margin:0 auto;
+    background:var(--bg);
+    border:1px solid var(--line);
+    border-radius:28px;
+    padding:28px;
+    box-shadow:var(--shadow);
+  }
+
+  .enb-header{
+    display:flex;
+    justify-content:space-between;
+    gap:16px;
+    align-items:flex-start;
+    flex-wrap:wrap;
+    margin-bottom:22px;
+  }
+
+  .enb-title{
+    margin:0;
+    font-size:30px;
+    font-weight:800;
+    letter-spacing:-0.03em;
+  }
+
+  .enb-sub{
+    margin-top:8px;
+    color:var(--muted);
+    font-size:14px;
+  }
+
+  .enb-pill{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    padding:10px 14px;
+    border-radius:999px;
+    background:#fff;
+    border:1px solid var(--line);
+    color:var(--point);
+    font-size:13px;
+    font-weight:700;
+    white-space:nowrap;
+  }
+
+  .enb-hero{
+    background:linear-gradient(135deg,#fffdf8 0%,#f5ede1 100%);
+    border:1px solid var(--line);
+    border-radius:24px;
+    padding:22px;
+    margin-bottom:18px;
+  }
+
+  .enb-label{
+    display:inline-block;
+    font-size:12px;
+    font-weight:800;
+    color:var(--point);
+    background:var(--point-soft);
+    border-radius:999px;
+    padding:6px 10px;
+    margin-bottom:10px;
+  }
+
+  .enb-one{
+    margin:0;
+    font-size:22px;
+    font-weight:800;
+    line-height:1.5;
+    letter-spacing:-0.02em;
+  }
+
+  .enb-market{
+    margin-top:14px;
+    display:grid;
+    grid-template-columns:1.2fr 1fr 1fr;
+    gap:14px;
+  }
+
+  .enb-box{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:18px;
+    padding:16px;
+  }
+
+  .enb-box h4{
+    margin:0 0 8px;
+    font-size:14px;
+    font-weight:800;
+    color:var(--point);
+  }
+
+  .enb-box p,
+  .enb-box li{
+    margin:0;
+    color:var(--text);
+    font-size:14px;
+  }
+
+  .enb-box ul{
+    margin:0;
+    padding-left:18px;
+  }
+
+  .enb-grid{
+    display:grid;
+    grid-template-columns:repeat(5,minmax(0,1fr));
+    gap:14px;
+    margin:18px 0 26px;
+  }
+
+  .enb-brief{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:18px;
+    padding:16px;
+    min-height:140px;
+  }
+
+  .enb-brief h3{
+    margin:0 0 10px;
+    font-size:16px;
+    font-weight:800;
+    color:var(--point);
+  }
+
+  .enb-brief p{
+    margin:0;
+    font-size:14px;
+    color:var(--text);
+  }
+
+  .enb-sec-title{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    margin:28px 0 14px;
+  }
+
+  .enb-sec-title h2{
+    margin:0;
+    font-size:24px;
+    font-weight:800;
+    letter-spacing:-0.03em;
+  }
+
+  .enb-news-list{
+    display:grid;
+    gap:16px;
+  }
+
+  .enb-card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:20px;
+    padding:20px;
+  }
+
+  .enb-top{
+    display:flex;
+    align-items:flex-start;
+    justify-content:space-between;
+    gap:14px;
+    margin-bottom:12px;
+  }
+
+  .enb-rank{
+    width:42px;
+    height:42px;
+    border-radius:14px;
+    background:var(--point);
+    color:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:18px;
+    font-weight:900;
+    flex:0 0 auto;
+  }
+
+  .enb-title-wrap{
+    flex:1 1 auto;
+    min-width:0;
+  }
+
+  .enb-news-title{
+    margin:4px 0 8px;
+    font-size:20px;
+    font-weight:800;
+    line-height:1.45;
+    letter-spacing:-0.02em;
+  }
+
+  .enb-meta{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:10px;
+  }
+
+  .enb-badge{
+    display:inline-flex;
+    align-items:center;
+    padding:6px 10px;
+    border-radius:999px;
+    font-size:12px;
+    font-weight:700;
+    border:1px solid var(--line);
+    background:#fff;
+    color:var(--muted);
+  }
+
+  .badge-cat{color:var(--blue); background:#eef5fb; border-color:#d4e5f5;}
+  .badge-view-good{color:var(--green); background:#edf7f1; border-color:#cfe7d8;}
+  .badge-view-mid{color:var(--amber); background:#fff6e6; border-color:#f2dfb4;}
+  .badge-view-bad{color:var(--red); background:#fbefed; border-color:#ebd0ca;}
+
+  .enb-summary{
+    margin:0;
+    padding-left:18px;
+  }
+
+  .enb-summary li{
+    margin:0 0 6px;
+    font-size:15px;
+    color:var(--text);
+  }
+
+  .enb-split{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:14px;
+    margin-top:14px;
+  }
+
+  .enb-mini{
+    background:#fff;
+    border:1px solid var(--line);
+    border-radius:16px;
+    padding:14px;
+  }
+
+  .enb-mini h5{
+    margin:0 0 8px;
+    font-size:13px;
+    color:var(--point);
+    font-weight:800;
+  }
+
+  .enb-mini p{
+    margin:0;
+    font-size:14px;
+  }
+
+  .enb-keywords,
+  .enb-stocks{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-top:10px;
+  }
+
+  .enb-chip{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    padding:7px 10px;
+    border-radius:999px;
+    background:#fff;
+    border:1px solid var(--line);
+    font-size:12px;
+    color:var(--muted);
+    font-weight:700;
+  }
+
+  .enb-link{
+    display:inline-block;
+    margin-top:12px;
+    color:var(--point);
+    text-decoration:none;
+    font-weight:800;
+  }
+
+  .enb-link:hover{text-decoration:underline}
+
+  .enb-watchlist{
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:16px;
+  }
+
+  .enb-watch{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:20px;
+    padding:18px;
+  }
+
+  .enb-watch h3{
+    margin:0 0 6px;
+    font-size:20px;
+    font-weight:800;
+  }
+
+  .enb-watch .sector{
+    color:var(--muted);
+    font-size:13px;
+    margin-bottom:10px;
+  }
+
+  .enb-watch p{
+    margin:0 0 10px;
+    font-size:14px;
+  }
+
+  .enb-footer{
+    margin-top:24px;
+    padding-top:16px;
+    border-top:1px dashed var(--line);
+    color:var(--muted);
+    font-size:13px;
+  }
+
+  .enb-loading,
+  .enb-error{
+    border:1px solid var(--line);
+    background:#fff;
+    border-radius:18px;
+    padding:22px;
+    text-align:center;
+    color:var(--muted);
+  }
+
+  .enb-stars{
+    letter-spacing:2px;
+    color:#c28b2f;
+    font-size:15px;
+    font-weight:900;
+  }
+
+  @media (max-width:980px){
+    .enb-market,
+    .enb-grid,
+    .enb-watchlist,
+    .enb-split{
+      grid-template-columns:1fr;
+    }
+  }
+
+  @media (max-width:640px){
+    .enb-wrap{padding:18px}
+    .enb-title{font-size:24px}
+    .enb-one{font-size:18px}
+    .enb-news-title{font-size:18px}
+    .enb-top{align-items:flex-start}
+  }
+</style>
+
+<script>
+(function () {
+  const DATA_URL = "https://jediydc-cloud.github.io/Economic_News/data.json";
+
+  const root = document.getElementById("enb-root");
+  if (!root) return;
+
+  const BAD_TEXT_PATTERNS = [
+    "[번역 필요]",
+    "[번역 대기]",
+    "자동 fallback",
+    "fallback",
+    "분석 대기",
+    "요약 대기"
+  ];
+
+  function escapeHtml(value) {
+    return String(value ?? "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
+  function cleanText(value) {
+    let text = String(value ?? "").trim();
+    BAD_TEXT_PATTERNS.forEach(pattern => {
+      text = text.replaceAll(pattern, "");
+    });
+    text = text.replace(/\s+/g, " ").trim();
+    return text;
+  }
+
+  function safeText(value, fallback = "-") {
+    const cleaned = cleanText(value);
+    return cleaned ? cleaned : fallback;
+  }
+
+  function safeArray(value) {
+    if (Array.isArray(value)) return value;
+    if (typeof value === "string" && value.trim()) return [value.trim()];
+    return [];
+  }
+
+  function stanceBadgeClass(view) {
+    const v = safeText(view, "").toLowerCase();
+    if (v.includes("긍정") || v.includes("관심")) return "badge-view-good";
+    if (v.includes("중립")) return "badge-view-mid";
+    if (v.includes("주의") || v.includes("경계") || v.includes("부정")) return "badge-view-bad";
+    return "badge-view-mid";
+  }
+
+  function renderStars(score) {
+    const n = Math.max(0, Math.min(5, Number(score || 0)));
+    return "★".repeat(n) + "☆".repeat(5 - n);
+  }
+
+  function renderSummary(summary, fallbackText) {
+    const items = safeArray(summary)
+      .map(v => safeText(v, ""))
+      .filter(Boolean)
+      .slice(0, 3);
+
+    if (!items.length) {
+      const fb = safeText(fallbackText, "");
+      if (!fb) return "<li>요약 정보가 아직 없습니다.</li>";
+      return `<li>${escapeHtml(fb)}</li>`;
+    }
+
+    return items.map(item => `<li>${escapeHtml(item)}</li>`).join("");
+  }
+
+  function renderBriefSections(list) {
+    const items = Array.isArray(list) ? list : [];
+    if (!items.length) return "";
+
+    return `
+      <div class="enb-sec-title">
+        <h2>오늘의 핵심 브리프</h2>
+      </div>
+      <div class="enb-grid">
+        ${items.map(item => `
+          <div class="enb-brief">
+            <h3>${escapeHtml(safeText(item.title, "브리프"))}</h3>
+            <p>${escapeHtml(safeText(item.summary, "-"))}</p>
+          </div>
+        `).join("")}
+      </div>
+    `;
+  }
+
+  function renderNews(list) {
+    const items = Array.isArray(list) ? list : [];
+    if (!items.length) {
+      return `<div class="enb-error">표시할 주요 뉴스가 없습니다.</div>`;
+    }
+
+    return `
+      <div class="enb-sec-title">
+        <h2>오늘의 주요 뉴스 TOP ${items.length}</h2>
+      </div>
+      <div class="enb-news-list">
+        ${items.map(item => {
+          const title = safeText(item.title, "제목 없음");
+          const category = safeText(item.category, "경제");
+          const stance = safeText(item.stance, "중립");
+          const sector = safeText(item.related_sector, "-");
+          const impact = safeText(item.investment_impact, "-");
+          const keywords = safeArray(item.keywords).map(k => safeText(k, "")).filter(Boolean);
+          const stocks = safeArray(item.related_stocks).map(s => safeText(s, "")).filter(Boolean);
+          const sourceUrl = safeText(item.source_url, "");
+          const publishedAt = safeText(item.published_at, "-");
+          const source = safeText(item.source, "원문 보기");
+
+          return `
+            <article class="enb-card">
+              <div class="enb-top">
+                <div class="enb-rank">${escapeHtml(item.rank ?? "-")}</div>
+                <div class="enb-title-wrap">
+                  <div class="enb-meta">
+                    <span class="enb-badge badge-cat">${escapeHtml(category)}</span>
+                    <span class="enb-badge ${stanceBadgeClass(stance)}">${escapeHtml(stance)}</span>
+                    <span class="enb-badge">중요도 <span class="enb-stars">${escapeHtml(renderStars(item.importance_score))}</span></span>
+                    <span class="enb-badge">${escapeHtml(publishedAt)}</span>
+                  </div>
+                  <h3 class="enb-news-title">${escapeHtml(title)}</h3>
+                </div>
+              </div>
+
+              <ol class="enb-summary">
+                ${renderSummary(item.summary, item.summary_text || item.investment_impact)}
+              </ol>
+
+              <div class="enb-split">
+                <div class="enb-mini">
+                  <h5>투자 영향</h5>
+                  <p>${escapeHtml(impact)}</p>
+                </div>
+                <div class="enb-mini">
+                  <h5>관련 섹터</h5>
+                  <p>${escapeHtml(sector)}</p>
+                </div>
+              </div>
+
+              ${keywords.length ? `
+                <div class="enb-keywords">
+                  ${keywords.map(k => `<span class="enb-chip"># ${escapeHtml(k)}</span>`).join("")}
+                </div>
+              ` : ""}
+
+              ${stocks.length ? `
+                <div class="enb-stocks">
+                  ${stocks.map(s => `<span class="enb-chip">관련 종목 · ${escapeHtml(s)}</span>`).join("")}
+                </div>
+              ` : ""}
+
+              ${sourceUrl ? `<a class="enb-link" href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">원문 보기 · ${escapeHtml(source)}</a>` : ""}
+            </article>
+          `;
+        }).join("")}
+      </div>
+    `;
+  }
+
+  function renderWatchlist(list) {
+    const items = Array.isArray(list) ? list : [];
+    if (!items.length) return "";
+
+    return `
+      <div class="enb-sec-title">
+        <h2>오늘의 관심 종목</h2>
+      </div>
+      <div class="enb-watchlist">
+        ${items.map(item => `
+          <article class="enb-watch">
+            <div class="enb-meta">
+              <span class="enb-badge ${stanceBadgeClass(item.view)}">${escapeHtml(safeText(item.view, "중립"))}</span>
+            </div>
+            <h3>${escapeHtml(safeText(item.name, "종목명"))}</h3>
+            <div class="sector">${escapeHtml(safeText(item.sector, "-"))}</div>
+            <p><strong>이유</strong><br>${escapeHtml(safeText(item.reason, "-"))}</p>
+            <p><strong>리스크</strong><br>${escapeHtml(safeText(item.risk, "-"))}</p>
+          </article>
+        `).join("")}
+      </div>
+    `;
+  }
+
+  function renderView(data) {
+    const overview = data.project_overview || {};
+    const market = data.market_view || {};
+    const risks = safeArray(market.risks);
+    const opportunities = safeArray(market.opportunities);
+
+    root.innerHTML = `
+      <section class="enb-wrap">
+        <header class="enb-header">
+          <div>
+            <h1 class="enb-title">${escapeHtml(safeText(overview.project_name, "경제 뉴스 브리프"))}</h1>
+            <div class="enb-sub">
+              ${escapeHtml(safeText(data.analysis_date, "-"))} 기준 · ${escapeHtml(safeText(data.generated_at, "-"))} 생성
+            </div>
+          </div>
+          <div class="enb-pill">매일 아침 시장의 맥을 짚는 자동 브리프</div>
+        </header>
+
+        <section class="enb-hero">
+          <div class="enb-label">오늘의 한 줄</div>
+          <p class="enb-one">${escapeHtml(safeText(data.one_liner, "오늘의 요약이 준비되지 않았습니다."))}</p>
+
+          <div class="enb-market">
+            <div class="enb-box">
+              <h4>시장 시각</h4>
+              <p><strong>${escapeHtml(safeText(market.stance, "중립"))}</strong></p>
+              <p style="margin-top:8px;">${escapeHtml(safeText(market.summary, "-"))}</p>
+            </div>
+            <div class="enb-box">
+              <h4>주요 리스크</h4>
+              <ul>
+                ${risks.length ? risks.map(v => `<li>${escapeHtml(safeText(v, "-"))}</li>`).join("") : "<li>-</li>"}
+              </ul>
+            </div>
+            <div class="enb-box">
+              <h4>주요 기회</h4>
+              <ul>
+                ${opportunities.length ? opportunities.map(v => `<li>${escapeHtml(safeText(v, "-"))}</li>`).join("") : "<li>-</li>"}
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        ${renderBriefSections(data.brief_sections)}
+        ${renderNews(data.top_news)}
+        ${renderWatchlist(data.watchlist)}
+
+        <footer class="enb-footer">
+          <div>${escapeHtml(safeText(data.disclaimer, "본 자료는 정보 제공용입니다."))}</div>
+        </footer>
+      </section>
+    `;
+  }
+
+  async function init() {
+    root.innerHTML = `<div class="enb-loading">경제 뉴스 브리프를 불러오는 중입니다…</div>`;
+
+    try {
+      const res = await fetch(DATA_URL, { cache: "no-store" });
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status}`);
+      }
+      const data = await res.json();
+      renderView(data);
+    } catch (err) {
+      root.innerHTML = `
+        <div class="enb-error">
+          데이터를 불러오지 못했습니다.<br>
+          잠시 후 다시 시도해 주세요.<br><br>
+          <small>${escapeHtml(String(err && err.message ? err.message : err))}</small>
+        </div>
+      `;
+    }
+  }
+
+  init();
+})();
+</script>
