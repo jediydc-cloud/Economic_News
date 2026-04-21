@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21 10:01",
-  "analysis_date": "2026-04-21",
+  "generated_at": "2026-04-22 07:39",
+  "analysis_date": "2026-04-22",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,49 +13,90 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 지정학적 리스크와 미국 금융 시스템 불확실성, 국내 고환율 심화로 전반적인 시장 불안이 고조되고 있습니다. 투자 심리 위축에 대비하며, 일부 금리 인하 기대감은 긍정적인 요인이 될 수 있습니다.",
-    "국내거시경제": "원·달러 환율이 1500원에 근접하며 한국은행이 시장 안정화 의사를 표명했습니다. 고환율은 수입 물가 상승 및 외국인 자금 유출 우려를 심화시킵니다.",
-    "글로벌경제": "IMF가 이란 전쟁 확전 시 세계 경기 침체를 경고하며 지정학적 리스크가 유가 및 공급망에 부정적 영향을 미칠 수 있다고 강조했습니다.",
-    "증시금리": "미 연준에 대한 수사 소식으로 미국 증시의 '셀 아메리카' 흐름이 재개되고 코스피도 급락했습니다. 다만, 연준 금리 인하 기대감은 월스트리트 지수를 끌어올리며 국내 증시에도 긍정적 영향을 줄 수 있습니다. 금융당국은 시장 안정화 방안을 모색 중입니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "전력 반도체 강자 인피니언 테크놀로지스의 AI 및 전기차 시장 경쟁력 유무가 주목됩니다. 이는 국내 관련 반도체 기업에 대한 투자 심리에도 영향을 줄 수 있습니다.",
-    "오늘의투자시사점": "글로벌 지정학적 긴장 및 금융 시스템 불확실성으로 시장 변동성이 커질 수 있으니 위험 관리가 중요합니다. 방어적 포트폴리오 전략을 고려하고 국내외 정책 당국의 개입 효과를 주시해야 합니다. 한편, 금리 인하 기대감은 성장주에 긍정적으로 작용할 수 있습니다.",
-    "오늘의한줄": "대외 리스크와 국내 고환율로 불안정한 시장, 금리 인하 기대감과 정책 당국의 대응을 주시하며 신중한 접근이 필요합니다."
+    "총평": "국내 증시는 이틀 연속 폭락하며 서킷브레이커가 발동되는 등 불안정한 모습을 보였습니다. 반면, 미국 증시는 연준의 금리 인하 기대감으로 상승했으나, 연준 수사 소식에 다시 불안감이 고조되는 등 국내외 시장의 불확실성이 커지고 있습니다.",
+    "국내거시경제": "원·달러 환율이 1499.2원까지 급등하며 한국은행이 외환 시장 안정화 조치를 발표했습니다. 고환율은 수입 물가 상승 및 외화 부채 부담을 가중시키나, 수출 기업에는 단기적 이점이 될 수 있습니다.",
+    "글로벌경제": "IMF는 이란 전쟁 확전 시 글로벌 경기 침체를 경고하며 중동 지정학적 리스크가 유가 상승 및 공급망 교란을 야기할 수 있다고 밝혔습니다. 투자자들은 중동 정세와 국제유가 동향을 주시해야 합니다.",
+    "증시금리": "국내 코스피·코스닥 지수는 이틀 연속 폭락하여 서킷브레이커가 발동되었습니다. 미국 증시는 연준의 금리 인하 기대감으로 S&P 500이 사상 최고치를 기록했으나, 미 법무부의 연준 수사 소식에 투자 심리가 위축되며 매도세가 나타났습니다.",
+    "부동산정책": "관련 뉴스 없음.",
+    "기업산업": "관련 뉴스 없음.",
+    "오늘의투자시사점": "국내 증시의 폭락은 과매도 구간에서의 저가 매수 기회를 제공할 수 있으나, 추가 하락 가능성에 대비한 방어적인 투자 전략도 필요합니다. 중동 정세 불안정과 미국 금융 시장의 불확실성을 고려하여 포트폴리오의 안정성을 점검하고 방어적 자산 비중을 고려할 것을 권고합니다.",
+    "오늘의한줄": "국내외 복합적인 불확실성이 증폭되는 시기, 위험 관리를 최우선으로 두며 신중한 시장 접근이 요구됩니다."
   },
   "top_news": [
     {
       "rank": 1,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "이틀 연속 폭락에 코스피·코스닥 '서킷브레이커' 발동",
+      "display_title": "이틀 연속 폭락에 코스피·코스닥 '서킷브레이커' 발동",
+      "original_title": "이틀째 폭락에‥코스피·코스닥 '서킷브레이커' - MBC 뉴스",
+      "summary": [
+        "코스피와 코스닥 지수가 이틀 연속 폭락하여 시장 안정화를 위해 서킷브레이커가 발동되었다.",
+        "서킷브레이커는 주식 시장의 과도한 변동성을 일시적으로 제한하여 투자자들의 냉철한 판단을 유도하는 제도이다.",
+        "시장 폭락의 원인을 파악하고, 과매도 구간에서의 저가 매수 기회 또는 추가 하락에 대비하는 방어적인 투자 전략을 고려해야 한다."
+      ],
+      "summary_text": "코스피와 코스닥 지수가 이틀 연속 폭락하여 시장 안정화를 위해 서킷브레이커가 발동되었다. 서킷브레이커는 주식 시장의 과도한 변동성을 일시적으로 제한하여 투자자들의 냉철한 판단을 유도하는 제도이다. 시장 폭락의 원인을 파악하고, 과매도 구간에서의 저가 매수 기회 또는 추가 하락에 대비하는 방어적인 투자 전략을 고려해야 한다.",
+      "description": "이틀째 증시가 폭락하면서 코스피와 코스닥 시장에 서킷브레이커가 발동되었다.",
+      "category": "증시·금리",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "증권",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "서킷브레이커 발동은 시장의 극심한 불안정성을 의미하며, 투자 심리가 최악인 상황에서 신중한 접근이 필요하기 때문이다.",
+      "key_signal": "시장 폭락의 근본적인 원인(글로벌 경기 침체, 금리 인상, 지정학적 리스크 등)을 분석하고, 국내외 경제 지표 및 기업 실적 발표를 통해 추가적인 하락 여부를 판단해야 한다.",
+      "keywords": [
+        "서킷브레이커",
+        "코스피",
+        "코스닥",
+        "시장폭락",
+        "투자심리"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYMDExMlRZVGxNM090RDNwUVVvUnl4dVF4WkVSdXVlVlhnNXpUTTU1TUpxOGhDV2VfUVNlVVp1eDh0Y0dVaW0xSlR3cEV2OFphM1dZYi1FdjJLSEx2WC1hVVdHV2dXLW9CZEc0U09IanVVaERnX2l1Q9IBeEFVX3lxTE9vMks2bDNvZkRQRUV5cnlxdEwwQ1QxNlNpTDdvYk0yUW8tN1JyNl9ycWVnNGZya2FNclJmMlJQZ25ORWNQbHY1bnY0ZWZkblNfT20tTmRqZjRKOXgyRnNPQzlpWGpHN2hPaVFrNVdXdGx2WF9jaXJyZg?oc=5",
+      "published": "2026-03-04 17:00",
+      "quality": {
+        "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 2,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "IMF, 이란 전쟁 확전 시 세계 경기 침체 경고",
-      "display_title": "IMF, 이란 전쟁 확전 시 세계 경기 침체 경고",
+      "title": "IMF, 이란 전쟁 확대 시 글로벌 경기 침체 경고",
+      "display_title": "IMF, 이란 전쟁 확대 시 글로벌 경기 침체 경고",
       "original_title": "Iran War Escalation Could Trigger Global Recession, IMF Warns - Republic World",
       "summary": [
-        "IMF가 이란 전쟁 확전이 전 세계 경기 침체로 이어질 수 있다고 경고하며 지정학적 리스크를 강조했다.",
-        "중동 지역의 지정학적 긴장은 유가 상승, 공급망 교란 등을 야기하여 글로벌 경제에 부정적인 영향을 미칠 수 있다.",
-        "전쟁 확전 시 투자 심리 위축, 원자재 가격 급등 등으로 국내 증시 및 경제에 큰 변동성이 예상되므로 위험 관리에 유의해야 한다."
+        "IMF는 이란 전쟁 확전이 전 세계적인 경기 침체로 이어질 수 있다고 경고했다.",
+        "중동 지역의 지정학적 리스크는 유가 상승, 공급망 교란 등을 통해 세계 경제에 부정적 영향을 미칠 수 있다.",
+        "투자자들은 중동 정세 변화와 국제유가 동향을 주시하며 방어적 자산 비중을 고려할 필요가 있다."
       ],
-      "summary_text": "IMF가 이란 전쟁 확전이 전 세계 경기 침체로 이어질 수 있다고 경고하며 지정학적 리스크를 강조했다. 중동 지역의 지정학적 긴장은 유가 상승, 공급망 교란 등을 야기하여 글로벌 경제에 부정적인 영향을 미칠 수 있다. 전쟁 확전 시 투자 심리 위축, 원자재 가격 급등 등으로 국내 증시 및 경제에 큰 변동성이 예상되므로 위험 관리에 유의해야 한다.",
-      "description": "국제통화기금(IMF)이 이란과 관련된 전쟁이 확대될 경우 전 세계 경제에 심각한 경기 침체를 유발할 수 있다고 경고했다.",
+      "summary_text": "IMF는 이란 전쟁 확전이 전 세계적인 경기 침체로 이어질 수 있다고 경고했다. 중동 지역의 지정학적 리스크는 유가 상승, 공급망 교란 등을 통해 세계 경제에 부정적 영향을 미칠 수 있다. 투자자들은 중동 정세 변화와 국제유가 동향을 주시하며 방어적 자산 비중을 고려할 필요가 있다.",
+      "description": "국제통화기금(IMF)이 이란 전쟁 확대가 글로벌 경기 침체를 유발할 수 있다고 경고했다.",
       "category": "글로벌 경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "에너지, 정유, 방산, 해운",
+      "related_sector": "에너지, 방산, 해운",
       "related_stocks": [
-        "한국항공우주",
-        "현대중공업",
-        "대한해운"
+        "S-Oil",
+        "한화에어로스페이스"
       ],
       "investment_view": "주의",
-      "investment_reason": "중동발 지정학적 리스크는 유가와 글로벌 공급망에 직접적인 영향을 미쳐 국내외 경제 및 증시에 심각한 하방 압력을 가할 수 있기 때문이다.",
-      "key_signal": "중동 정세의 변화, 특히 이란과 주변국의 군사적 충돌 여부 및 유가 동향을 면밀히 주시해야 한다.",
+      "investment_reason": "지정학적 리스크가 글로벌 경제에 심각한 하방 압력을 가할 수 있어 전반적인 투자 전략에 큰 영향을 미치기 때문이다.",
+      "key_signal": "중동 지역의 긴장 완화 또는 심화 여부, 국제유가 변동성, IMF의 추가 경제 전망 발표에 주목해야 한다.",
       "keywords": [
-        "IMF",
         "이란",
         "전쟁",
+        "IMF",
         "경기침체",
-        "지정학적리스크"
+        "지정학적 리스크"
       ],
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTZBM240aFk4dWltSnlfWjNJZmdDbnJCYlVIMVdOWDVURnRna2prU0x0ZEFlM3NmWUpISVh6eFkxR3pNRnVtNVhnMkpMQ25Bem1rOW1YVHdhVFZSTkR5TGpZSjdOU2hCNXhtQ3ozRFRDcDluM2cxZUJTWk9MVHZSdEwzWUtmbWozSGVDaWJseWtaa0h1Vmx2SmdYYjQ5Q3lB0gGmAUFVX3lxTE11cmZKQ050MV9UeHpsbFN5MmZDNVpHdG0yemViSnZvS3lHb05oUjVhVkpJa3pzWEtWN1Z4aVlYUUJDak5LejJJN1JTSmxRMG1WVlpGRlhpZXZITU1fYlhkNkk2NHFkV1JKNzFQSnJCTFFEYWhhM1ZHd3dfUjNFUkxMTzQ1eHRORFdUZFRyZVlPejgyUnVHWVktNktHdm5FT1NoZGQ1b0E?oc=5",
       "published": "2026-04-15 01:45",
@@ -66,200 +107,32 @@
       }
     },
     {
-      "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미 법무부의 연준 수사 소식에 투자자들 불안, '셀 아메리카' 시장 재개",
-      "display_title": "미 법무부의 연준 수사 소식에 투자자들 불안, '셀 아메리카' 시장 재개",
-      "original_title": "The 'Sell America' market returns after DOJ's criminal probe of the Fed spooks investors - NBC News",
-      "summary": [
-        "미 법무부의 연준(Fed)에 대한 형사 수사 착수 소식으로 미국 시장에서 투자 심리가 급격히 위축되며 매도세가 강화되고 있다.",
-        "연준의 독립성과 신뢰성에 대한 의구심은 금융 시스템 전반의 불안정을 야기하여 시장 전반의 위험 회피 심리를 자극한다.",
-        "미국 금융 시스템의 불확실성은 글로벌 증시의 하방 압력으로 작용하며 국내 증시에도 부정적인 영향을 미칠 수 있으므로 포트폴리오 점검이 필요하다."
-      ],
-      "summary_text": "미 법무부의 연준(Fed)에 대한 형사 수사 착수 소식으로 미국 시장에서 투자 심리가 급격히 위축되며 매도세가 강화되고 있다. 연준의 독립성과 신뢰성에 대한 의구심은 금융 시스템 전반의 불안정을 야기하여 시장 전반의 위험 회피 심리를 자극한다. 미국 금융 시스템의 불확실성은 글로벌 증시의 하방 압력으로 작용하며 국내 증시에도 부정적인 영향을 미칠 수 있으므로 포트폴리오 점검이 필요하다.",
-      "description": "미 법무부(DOJ)가 연방준비제도(Fed)에 대한 형사 수사를 시작하면서 투자자들의 불안감이 커져 '셀 아메리카' 장세가 다시 나타나고 있다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 증권, 은행",
-      "related_stocks": [
-        "삼성증권",
-        "미래에셋증권",
-        "KB금융"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "미국 중앙은행에 대한 수사는 금융 시장의 불확실성을 극대화하고 위험 자산 회피를 부추겨 국내외 증시에 심각한 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "미 법무부의 연준 수사 진행 상황과 연준의 대응을 면밀히 주시하며 글로벌 금융 시장의 변동성에 대비해야 한다.",
-      "keywords": [
-        "연준",
-        "법무부",
-        "형사수사",
-        "투자심리",
-        "셀아메리카"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemhQMk92WnhCUzZlZkJra0tXSkktU0VjT3BxbzRmQ1dxXzdBaU9EYVJUOExuemRyUUpjcEdLb1NXRDFDc3NqOXBxa2gxamVJM3o3N2NzQXh5dGExalhkZnpadjhvNmZtX1JjS2w0dDZPLVhGQmdhT0lnelgydWN2MUNoM3FDaTV5SjV0Z2hxT2ktQQ?oc=5",
-      "published": "2026-01-12 17:00",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "원·달러 환율 1499.2원 도달, 한국은행 \"과도한 변동성 안정화 조치 시행\"",
-      "display_title": "원·달러 환율 1499.2원 도달, 한국은행 \"과도한 변동성 안정화 조치 시행\"",
-      "original_title": "원·달러 환율 1499.2원까지…한은 \"과도한 변동성 안정화 조치 실시\" - 지디넷코리아",
-      "summary": [
-        "원·달러 환율이 심리적 저항선인 1500원에 근접한 1499.2원까지 치솟자 한국은행이 시장 안정화 조치 의사를 표명했다.",
-        "글로벌 고금리 기조, 국내 경제 불확실성, 혹은 미국의 강한 경제 지표 등으로 인해 달러 강세가 지속되면서 원화 약세가 심화되고 있다.",
-        "고환율은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승으로 인한 인플레이션 압력과 외국인 자금 유출 우려를 키워 국내 증시에 부정적인 영향을 미칠 수 있다."
-      ],
-      "summary_text": "원·달러 환율이 심리적 저항선인 1500원에 근접한 1499.2원까지 치솟자 한국은행이 시장 안정화 조치 의사를 표명했다. 글로벌 고금리 기조, 국내 경제 불확실성, 혹은 미국의 강한 경제 지표 등으로 인해 달러 강세가 지속되면서 원화 약세가 심화되고 있다. 고환율은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승으로 인한 인플레이션 압력과 외국인 자금 유출 우려를 키워 국내 증시에 부정적인 영향을 미칠 수 있다.",
-      "description": "원·달러 환율이 1499.2원까지 급등하자 한국은행이 과도한 시장 변동성을 안정화하기 위한 조치를 실시하겠다고 밝혔다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "수출주, 수입주, 항공, 정유",
-      "related_stocks": [
-        "삼성전자",
-        "현대차",
-        "대한항공"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "높은 원·달러 환율은 국내 물가와 기업 실적에 큰 영향을 미치고 외국인 투자 심리에도 부정적 요인이 될 수 있어 면밀한 대응이 필요하기 때문이다.",
-      "key_signal": "한국은행의 구체적인 시장 안정화 조치와 글로벌 달러 강세 요인 변화, 그리고 수출 기업들의 실적 개선 여부를 주시해야 한다.",
-      "keywords": [
-        "원달러환율",
-        "환율변동성",
-        "한국은행",
-        "외환시장",
-        "인플레이션"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SkdGTHBDcEJabzJPODVTaFAyTUdNX05HSDlpVmdkdjVRUGVrRkpPVjE5dEhLaGgtU3cwb2dkV1lpRjdWbkhYVEY0TTMzSEZ4d05rVlFB?oc=5",
-      "published": "2026-03-09 16:00",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피 급락 및 환율 변동성 심화에 금융당국 대책 마련 고심",
-      "display_title": "코스피 급락 및 환율 변동성 심화에 금융당국 대책 마련 고심",
-      "original_title": "코스피 급락·커지는 환율 변동성에…금융당국도 대책 마련 고심 - 매일경제",
-      "summary": [
-        "국내 증시인 코스피가 급락하고 원·달러 환율 변동성이 확대되면서 금융당국이 시장 안정화 방안을 모색 중이다.",
-        "글로벌 경기 둔화 우려, 고금리 지속, 지정학적 리스크 등 복합적인 요인이 국내 금융 시장의 불안을 가중시키고 있다.",
-        "국내 증시의 하방 압력과 환율 변동성 확대는 투자 불확실성을 높이므로, 방어적인 포트폴리오 전략과 함께 정부 및 중앙은행의 시장 개입 효과를 지켜봐야 한다."
-      ],
-      "summary_text": "국내 증시인 코스피가 급락하고 원·달러 환율 변동성이 확대되면서 금융당국이 시장 안정화 방안을 모색 중이다. 글로벌 경기 둔화 우려, 고금리 지속, 지정학적 리스크 등 복합적인 요인이 국내 금융 시장의 불안을 가중시키고 있다. 국내 증시의 하방 압력과 환율 변동성 확대는 투자 불확실성을 높이므로, 방어적인 포트폴리오 전략과 함께 정부 및 중앙은행의 시장 개입 효과를 지켜봐야 한다.",
-      "description": "코스피 지수가 급락하고 원·달러 환율 변동성이 커지자 금융당국이 시장 안정을 위한 대책 마련에 고심하고 있다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "증권, 금융, 전 업종",
-      "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "셀트리온"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "코스피 급락과 환율 변동성 심화는 국내 경제의 취약성을 드러내고 투자 심리를 위축시키므로 전반적인 시장 위험 관리가 필요하기 때문이다.",
-      "key_signal": "금융당국이 내놓을 구체적인 시장 안정화 정책과 그 효과, 그리고 외국인 투자자 동향을 면밀히 관찰하여 투자 전략을 수립해야 한다.",
-      "keywords": [
-        "코스피",
-        "환율변동성",
-        "금융당국",
-        "증시하락",
-        "시장안정"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xR1NRWnhHVVozM1I3LXc3TTl2TEhYUmU0UWlYTzNjMTZLaGxmYjRLWnE5eUx0aDFZeHdxSzEyQjFkR1AzckZTUU1fMHEwSWI3WHBWdA?oc=5",
-      "published": "2026-03-04 17:00",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 5,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "인피니언 테크놀로지스, AI 및 전기차 시장에서 반도체 경쟁력 충분한가?",
-      "display_title": "인피니언 테크놀로지스, AI 및 전기차 시장에서 반도체 경쟁력 충분한가?",
-      "original_title": "Infineon Technologies stock (DE0006231004): Is its semiconductor edge strong enough for AI and EV up - AD HOC NEWS",
-      "summary": [
-        "인피니언 테크놀로지스가 AI 및 전기차 산업에서 반도체 경쟁력을 유지할 수 있을지 관심이 집중되고 있다.",
-        "인피니언은 전력 반도체 강자로 AI 데이터센터와 전기차 핵심 부품 공급사로서 시장의 기대와 우려가 공존한다.",
-        "AI 및 EV 시장 성장에 따른 인피니언의 기술력과 시장 지배력 변화가 국내 관련 반도체 기업에 미칠 영향을 주시해야 한다."
-      ],
-      "summary_text": "인피니언 테크놀로지스가 AI 및 전기차 산업에서 반도체 경쟁력을 유지할 수 있을지 관심이 집중되고 있다. 인피니언은 전력 반도체 강자로 AI 데이터센터와 전기차 핵심 부품 공급사로서 시장의 기대와 우려가 공존한다. AI 및 EV 시장 성장에 따른 인피니언의 기술력과 시장 지배력 변화가 국내 관련 반도체 기업에 미칠 영향을 주시해야 한다.",
-      "description": "인피니언 테크놀로지스(DE0006231004)의 반도체 기술력이 AI와 전기차 시장 성장에 충분히 강한지 여부에 대한 분석.",
-      "category": "기업·산업",
-      "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "반도체, 전력 반도체, 전기차 부품",
-      "related_stocks": [
-        "SK하이닉스",
-        "삼성전자",
-        "현대차"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "인피니언의 AI 및 EV 시장에서의 반도체 경쟁력은 전 세계 반도체 산업의 방향성과 국내 관련 기업에 중요한 영향을 미치기 때문이다.",
-      "key_signal": "인피니언의 차세대 전력 반도체 기술 발전과 AI 및 전기차 기업들과의 협력 소식을 주시하여 글로벌 반도체 시장 동향을 파악해야 한다.",
-      "keywords": [
-        "인피니언",
-        "반도체",
-        "AI",
-        "전기차",
-        "전력반도체"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmdzY3NJcEtsQmR3ak9XOUc0UFJFcWl4dEwtdm4yb3BnYkl4RnVxb0lyLWRtMHdJMXBFXzl2ckhKMlJseXZCVjNqNVpWTTYwa0N5bm92Ry05ZUN3TXhWYVJNVmdEQWE0dFdFSHdFTUloMlNUR2FNQXBTZDY3X1poSFZkQUtjNThVX0dWMlVySi1YcnRHdUxERkZMMEZNVGZGaS1COU9rcFk1U2ZwSkVGWmxhbEY5bFFodkRsdw?oc=5",
-      "published": "2026-04-20 13:27",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "연준 금리 인하 후 월스트리트 지수 급등",
-      "display_title": "연준 금리 인하 후 월스트리트 지수 급등",
+      "title": "연준 금리 인하 후 월스트리트 지수 상승",
+      "display_title": "연준 금리 인하 후 월스트리트 지수 상승",
       "original_title": "Wall Street indexes rally after Fed cuts interest rates - Reuters",
       "summary": [
-        "연방준비제도(Fed)의 금리 인하 발표 이후 월스트리트 주요 지수들이 큰 폭으로 상승하며 시장에 긍정적인 신호를 보냈다.",
-        "금리 인하는 기업의 자금 조달 비용을 낮추고 소비와 투자를 촉진하여 경제 성장과 증시 상승에 기여하는 경향이 있다.",
-        "글로벌 주요 중앙은행의 금리 인하 기조는 국내 증시에도 긍정적인 투자 심리를 형성할 수 있으며, 특히 성장주에 대한 관심이 높아질 수 있다."
+        "미국 연방준비제도(Fed)의 금리 인하 결정 이후 뉴욕 증시 주요 지수가 상승세를 보였다.",
+        "금리 인하는 기업의 자금 조달 비용을 낮추고 소비를 촉진하여 경제 활동에 긍정적인 영향을 미칠 수 있다.",
+        "글로벌 유동성 확대 기대감은 국내 증시에도 긍정적인 영향을 미칠 수 있으며, 성장주에 대한 투자심리가 개선될 가능성이 있다."
       ],
-      "summary_text": "연방준비제도(Fed)의 금리 인하 발표 이후 월스트리트 주요 지수들이 큰 폭으로 상승하며 시장에 긍정적인 신호를 보냈다. 금리 인하는 기업의 자금 조달 비용을 낮추고 소비와 투자를 촉진하여 경제 성장과 증시 상승에 기여하는 경향이 있다. 글로벌 주요 중앙은행의 금리 인하 기조는 국내 증시에도 긍정적인 투자 심리를 형성할 수 있으며, 특히 성장주에 대한 관심이 높아질 수 있다.",
-      "description": "연방준비제도(Fed)의 금리 인하 결정 이후 뉴욕 증시 주요 지수들이 일제히 상승세를 보였다.",
+      "summary_text": "미국 연방준비제도(Fed)의 금리 인하 결정 이후 뉴욕 증시 주요 지수가 상승세를 보였다. 금리 인하는 기업의 자금 조달 비용을 낮추고 소비를 촉진하여 경제 활동에 긍정적인 영향을 미칠 수 있다. 글로벌 유동성 확대 기대감은 국내 증시에도 긍정적인 영향을 미칠 수 있으며, 성장주에 대한 투자심리가 개선될 가능성이 있다.",
+      "description": "연방준비제도(Fed)가 금리를 인하한 후 월스트리트 주요 지수들이 랠리를 펼쳤다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "기술주, 성장주, 금융",
+      "related_sector": "증권, 기술주, 성장주",
       "related_stocks": [
         "카카오",
         "네이버",
         "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "연준의 금리 인하는 전 세계 금융 시장의 유동성 개선과 투자 심리 회복을 가져와 국내 증시에도 상승 모멘텀을 제공할 수 있기 때문이다.",
-      "key_signal": "연준의 추가적인 금리 인하 가능성과 그에 따른 글로벌 유동성 변화, 그리고 국내 시장의 반응을 계속 주시해야 한다.",
+      "investment_reason": "연준의 금리 인하는 글로벌 유동성을 확대하고 투자 심리를 개선하여 국내 증시에도 긍정적인 영향을 미치기 때문이다.",
+      "key_signal": "연준의 추가적인 금리 인하 스탠스, 미국 물가 및 고용 지표, 그리고 금리 인하가 실제 기업 실적에 미치는 영향을 면밀히 추적해야 한다.",
       "keywords": [
         "연준",
         "금리인하",
@@ -274,6 +147,132 @@
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
+    },
+    {
+      "rank": 4,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "S&P 500 사상 최고치 마감, 연준 발표 후 달러 및 국채 수익률 하락",
+      "display_title": "S&P 500 사상 최고치 마감, 연준 발표 후 달러 및 국채 수익률 하락",
+      "original_title": "S&P 500 posts record closing high, US dollar and yields decline in wake of Fed - Reuters",
+      "summary": [
+        "S&P 500 지수가 사상 최고치를 기록했으며, 미 달러와 국채 수익률은 하락하는 움직임을 보였다.",
+        "이는 연준의 정책 기조 변화(금리 인하 가능성 등)에 대한 시장의 긍정적인 반응과 유동성 확대 기대를 반영한다.",
+        "글로벌 금융 시장의 위험 선호 심리 강화는 국내 증시에도 우호적인 환경을 조성할 수 있으나, 달러 약세는 국내 수출 기업에 단기적인 부담이 될 수 있다."
+      ],
+      "summary_text": "S&P 500 지수가 사상 최고치를 기록했으며, 미 달러와 국채 수익률은 하락하는 움직임을 보였다. 이는 연준의 정책 기조 변화(금리 인하 가능성 등)에 대한 시장의 긍정적인 반응과 유동성 확대 기대를 반영한다. 글로벌 금융 시장의 위험 선호 심리 강화는 국내 증시에도 우호적인 환경을 조성할 수 있으나, 달러 약세는 국내 수출 기업에 단기적인 부담이 될 수 있다.",
+      "description": "연방준비제도(Fed) 발표 이후 S&P 500 지수가 사상 최고치를 기록했으며, 미국 달러 가치와 국채 수익률은 하락했다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "증권, 기술주, 반도체",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "미국 증시의 사상 최고치 경신은 글로벌 투자 심리에 긍정적인 영향을 미치며 국내 증시에도 상승 모멘텀을 제공할 수 있기 때문이다.",
+      "key_signal": "미국 증시의 추가 상승 동력 여부, 달러 약세 심화 정도, 그리고 국내 수출 기업의 환율 민감도를 지속적으로 확인해야 한다.",
+      "keywords": [
+        "S&P500",
+        "증시상승",
+        "달러약세",
+        "국채수익률",
+        "연준"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYm5IN3hDa0Z2OW5OZlEwWWFPalJWc0Z1ZF80ekMxSEdGNzhhd3p1bTBoSVdIVDEtMHZUVWlVRElBR1NxQmJuQm1nTF9adlEtV0ZPR25waDhQWmxkYWxuTFNZY0wyTnd6OExiWVlhUlJpY2hvMHVxLTdqem9leUFlRg?oc=5",
+      "published": "2025-12-10 17:00",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 5,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "원·달러 환율 1499.2원 기록, 한국은행 \"과도한 변동성 안정화 조치\"",
+      "display_title": "원·달러 환율 1499.2원 기록, 한국은행 \"과도한 변동성 안정화 조치\"",
+      "original_title": "원·달러 환율 1499.2원까지…한은 \"과도한 변동성 안정화 조치 실시\" - 지디넷코리아",
+      "summary": [
+        "원·달러 환율이 1499.2원까지 급등하자 한국은행이 외환 시장의 과도한 변동성을 안정화하기 위한 조치를 발표했다.",
+        "고환율은 수입 물가 상승을 유발하고 외화 부채 상환 부담을 가중시키지만, 수출 기업에는 단기적으로 유리할 수 있다.",
+        "환율 안정화 조치의 실효성과 글로벌 달러 강세 요인을 주시하며, 외환 시장의 변동성이 국내 증시 및 기업 실적에 미칠 영향을 파악해야 한다."
+      ],
+      "summary_text": "원·달러 환율이 1499.2원까지 급등하자 한국은행이 외환 시장의 과도한 변동성을 안정화하기 위한 조치를 발표했다. 고환율은 수입 물가 상승을 유발하고 외화 부채 상환 부담을 가중시키지만, 수출 기업에는 단기적으로 유리할 수 있다. 환율 안정화 조치의 실효성과 글로벌 달러 강세 요인을 주시하며, 외환 시장의 변동성이 국내 증시 및 기업 실적에 미칠 영향을 파악해야 한다.",
+      "description": "원·달러 환율이 1499.2원까지 치솟자 한국은행이 과도한 변동성 안정을 위한 조치를 실시하겠다고 밝혔다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "수출주, 수입주, 항공, 여행",
+      "related_stocks": [
+        "삼성전자",
+        "현대차",
+        "대한항공"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "급격한 환율 변동은 국내 기업들의 수익성과 투자 심리에 직접적인 영향을 미치며, 거시경제 불안정성을 증폭시킬 수 있기 때문이다.",
+      "key_signal": "한국은행의 외환 시장 개입 강도 및 효과, 미국 금리 인하 기대감 변화, 그리고 주요 수출입 기업들의 환율 방어 전략을 면밀히 관찰해야 한다.",
+      "keywords": [
+        "원달러환율",
+        "고환율",
+        "한국은행",
+        "외환시장",
+        "변동성"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SkdGTHBDcEJabzJPODVTaFAyTUdNX05HSDlpVmdkdjVRUGVrRkpPVjE5dEhLaGgtU3cwb2dkV1lpRjdWbkhYVEY0TTMzSEZ4d05rVlFB?oc=5",
+      "published": "2026-03-09 16:00",
+      "quality": {
+        "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 6,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 법무부의 연준 수사 소식에 투자자 불안, '미국 팔자' 장세 재연",
+      "display_title": "미국 법무부의 연준 수사 소식에 투자자 불안, '미국 팔자' 장세 재연",
+      "original_title": "The 'Sell America' market returns after DOJ's criminal probe of the Fed spooks investors - NBC News",
+      "summary": [
+        "미국 법무부의 연준에 대한 형사 수사 소식으로 투자 심리가 위축되어 미국 시장에서 매도세가 나타났다.",
+        "정치적 불확실성이 중앙은행의 독립성과 정책 신뢰성에 대한 의문을 제기하며 금융 시장의 변동성을 키우고 있다.",
+        "미국 시장의 불안정성은 글로벌 증시에도 파급될 수 있으므로, 관련 리스크를 평가하고 포트폴리오의 안정성을 점검해야 한다."
+      ],
+      "summary_text": "미국 법무부의 연준에 대한 형사 수사 소식으로 투자 심리가 위축되어 미국 시장에서 매도세가 나타났다. 정치적 불확실성이 중앙은행의 독립성과 정책 신뢰성에 대한 의문을 제기하며 금융 시장의 변동성을 키우고 있다. 미국 시장의 불안정성은 글로벌 증시에도 파급될 수 있으므로, 관련 리스크를 평가하고 포트폴리오의 안정성을 점검해야 한다.",
+      "description": "미국 법무부(DOJ)의 연방준비제도(Fed)에 대한 형사 수사 소식이 투자자들을 불안하게 만들면서 '미국 팔자' 장세가 다시 나타났다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "금융, 증권",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "연준의 신뢰도 하락은 글로벌 금융 시장의 불확실성을 증폭시켜 투자 환경에 부정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "미국 법무부의 수사 진행 상황, 연준의 대응, 그리고 이로 인한 미국 달러화 및 채권 시장의 반응을 면밀히 관찰해야 한다.",
+      "keywords": [
+        "연준",
+        "법무부",
+        "미국증시",
+        "투자심리",
+        "시장변동성"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemhQMk92WnhCUzZlZkJra0tXSkktU0VjT3BxbzRmQ1dxXzdBaU9EYVJUOExuemRyUUpjcEdLb1NXRDFDc3NqOXBxa2gxamVJM3o3N2NzQXh5dGExalhkZnpadjhvNmZtX1JjS2w0dDZPLVhGQmdhT0lnelgydWN2MUNoM3FDaTV5SjV0Z2hxT2ktQQ?oc=5",
+      "published": "2026-01-12 17:00",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
     }
   ],
   "watchlist": [
@@ -283,16 +282,16 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "연준의 금리 인하 기대감으로 기술주 전반에 대한 투자 심리가 개선될 수 있으며, AI 및 전기차 반도체 경쟁력 강화 이슈가 긍정적 요인으로 작용할 수 있습니다. 다만, 높은 원·달러 환율과 코스피 급락에 대한 우려도 공존하여 시장의 주요 변동성 요인을 모두 반영하고 있습니다.",
+      "reason": "연준의 금리 인하 기대감 및 S&P 500 사상 최고치 마감 등 글로벌 증시의 긍정적 흐름이 국내 반도체 및 기술주 투자 심리 개선에 기여할 수 있습니다. 다만, 원·달러 환율 급등에 따른 수출 기업 실적 영향 가능성도 함께 주목해야 할 핵심 종목입니다.",
       "check_points": [
-        "연준의 금리 인하 시기 및 폭",
-        "글로벌 AI/EV 반도체 시장 동향",
-        "원·달러 환율 추이 및 한국은행 대응"
+        "미국 금리 인하 시점 및 강도",
+        "글로벌 반도체 업황 개선 여부",
+        "원/달러 환율 변동성"
       ],
       "related_news_titles": [
-        "원·달러 환율 1499.2원 도달, 한국은행 \"과도한 변동성 안정화 조치 시행\"",
-        "코스피 급락 및 환율 변동성 심화에 금융당국 대책 마련 고심",
-        "인피니언 테크놀로지스, AI 및 전기차 시장에서 반도체 경쟁력 충분한가?"
+        "연준 금리 인하 후 월스트리트 지수 상승",
+        "S&P 500 사상 최고치 마감, 연준 발표 후 달러 및 국채 수익률 하락",
+        "원·달러 환율 1499.2원 기록, 한국은행 \"과도한 변동성 안정화 조치\""
       ]
     },
     {
@@ -301,47 +300,47 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 및 전기차 시장의 핵심 부품인 반도체 경쟁력 이슈에 직접적인 영향을 받는 종목으로, 글로벌 반도체 산업의 방향성과 함께 주목해야 합니다. 연준의 금리 인하 기대감 또한 기술주 전반에 긍정적인 영향을 미칠 수 있습니다.",
+      "reason": "미국 증시의 사상 최고치 경신과 함께 글로벌 기술주 및 반도체 업종에 대한 긍정적 투자 심리가 확산되고 있어 국내 반도체 대형주인 SK하이닉스에 대한 지속적인 관심이 필요합니다.",
       "check_points": [
-        "글로벌 반도체 수요 및 가격 동향",
-        "AI 반도체 관련 기술 발전 및 신규 투자 소식",
-        "외국인 투자자 매매 동향"
+        "글로벌 D램/낸드 가격 추이",
+        "주요 고객사 재고 수준",
+        "미국 필라델피아 반도체 지수"
       ],
       "related_news_titles": [
-        "코스피 급락 및 환율 변동성 심화에 금융당국 대책 마련 고심",
-        "인피니언 테크놀로지스, AI 및 전기차 시장에서 반도체 경쟁력 충분한가?"
+        "S&P 500 사상 최고치 마감, 연준 발표 후 달러 및 국채 수익률 하락"
       ]
     },
     {
       "rank": 3,
-      "name": "카카오",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "인터넷 서비스",
+      "sector": "기술주",
       "opinion": "관심",
-      "reason": "연준의 금리 인하로 인한 글로벌 유동성 개선은 성장주와 기술주에 대한 투자 심리를 회복시킬 수 있습니다. 국내 대표적인 기술 성장주로서 금리 인하 기대감에 민감하게 반응할 것으로 예상됩니다.",
+      "reason": "연준의 금리 인하 기대감으로 인한 글로벌 유동성 확대 및 투자 심리 개선은 국내 기술주 및 성장주에 긍정적인 영향을 미칠 수 있으며, 네이버는 이와 관련하여 주목해 볼 만한 종목입니다.",
       "check_points": [
-        "연준의 통화정책 스탠스 변화",
-        "글로벌 기술주 시장 분위기",
-        "기업의 실적 개선 및 신규 성장 동력 확보 여부"
+        "글로벌 기술주 흐름",
+        "국내 온라인 광고 시장 동향",
+        "플랫폼 사업 성장성"
       ],
       "related_news_titles": [
-        "연준 금리 인하 후 월스트리트 지수 급등"
+        "연준 금리 인하 후 월스트리트 지수 상승",
+        "S&P 500 사상 최고치 마감, 연준 발표 후 달러 및 국채 수익률 하락"
       ]
     },
     {
       "rank": 4,
-      "name": "한국항공우주",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "항공우주 및 방위산업",
+      "sector": "자동차",
       "opinion": "주의",
-      "reason": "IMF의 경고처럼 이란 전쟁 확전 시 중동발 지정학적 리스크가 심화될 경우 방산 관련주에 대한 시장의 관심이 커질 수 있습니다. 이는 동시에 시장 전반의 위험 회피 심리를 자극할 수 있어 양방향 변동성에 주의가 필요합니다.",
+      "reason": "원·달러 환율의 급격한 상승은 수출 비중이 높은 현대차와 같은 기업의 원가 부담을 가중시키거나 환차손 발생 가능성을 높여 수익성에 부정적인 영향을 미칠 수 있습니다. 환율 변동성 관점에서 면밀한 모니터링이 필요합니다.",
       "check_points": [
-        "중동 정세 변화 및 확전 여부",
-        "글로벌 국방 예산 및 수출 동향",
-        "환율 변동성으로 인한 실적 영향"
+        "원/달러 환율 추이",
+        "글로벌 자동차 판매량",
+        "주요 수출 시장 경쟁 환경"
       ],
       "related_news_titles": [
-        "IMF, 이란 전쟁 확전 시 세계 경기 침체 경고"
+        "원·달러 환율 1499.2원 기록, 한국은행 \"과도한 변동성 안정화 조치\""
       ]
     }
   ],
