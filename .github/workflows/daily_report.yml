@@ -1,0 +1,44 @@
+name: 📦 Daily Economic News Brief
+
+on:
+  # 매일 오전 7시 KST (UTC 전날 22:00)
+  schedule:
+    - cron: "0 22 * * *"
+
+  # 수동 실행
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: 📦 Install dependencies
+        run: |
+          python -V
+          pip -V
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🚀 Run economic news brief
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
