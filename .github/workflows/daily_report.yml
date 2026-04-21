@@ -1,7 +1,7 @@
-name: 📦 Daily Economic News Brief
+name: 📈 Daily Economic News Brief
 
 on:
-  # 매일 오전 7시 KST (UTC 전날 22:00)
+  # 매일 오전 7시 KST = 전날 22:00 UTC
   schedule:
     - cron: "0 22 * * *"
 
@@ -18,7 +18,7 @@ permissions:
 jobs:
   generate-report:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: 📥 Checkout repository
@@ -34,11 +34,35 @@ jobs:
 
       - name: 📦 Install dependencies
         run: |
-          python -V
-          pip -V
-          pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: 🚀 Run economic news brief
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
+        run: |
+          python main.py
+
+      - name: ✅ Verify output files
+        run: |
+          test -f docs/data.json
+          echo "docs/data.json 생성 확인 완료"
+
+      - name: 💾 Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add docs/data.json
+
+          if git diff --staged --quiet; then
+            echo "변경 사항이 없어 커밋을 생략합니다."
+            exit 0
+          fi
+
+          COMMIT_TIME=$(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M KST')
+          git commit -m "📈 Daily economic brief - ${COMMIT_TIME}"
+
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin HEAD:"${GITHUB_REF_NAME}"
