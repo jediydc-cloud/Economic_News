@@ -14,7 +14,6 @@
     --amber:#a56b00;
     --blue:#245b8f;
     --shadow:0 10px 28px rgba(42,36,27,.08);
-    --radius:18px;
   }
 
   #enb-root{
@@ -131,6 +130,51 @@
     padding-left:18px;
   }
 
+  .enb-overview{
+    display:grid;
+    grid-template-columns:1.3fr 1fr;
+    gap:14px;
+    margin:18px 0 26px;
+  }
+
+  .enb-overview-card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:18px;
+    padding:16px;
+  }
+
+  .enb-overview-card h3{
+    margin:0 0 10px;
+    font-size:16px;
+    font-weight:800;
+    color:var(--point);
+  }
+
+  .enb-overview-card p{
+    margin:0;
+    font-size:14px;
+  }
+
+  .enb-feature-list{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+
+  .enb-chip{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    padding:7px 10px;
+    border-radius:999px;
+    background:#fff;
+    border:1px solid var(--line);
+    font-size:12px;
+    color:var(--muted);
+    font-weight:700;
+  }
+
   .enb-grid{
     display:grid;
     grid-template-columns:repeat(5,minmax(0,1fr));
@@ -143,7 +187,7 @@
     border:1px solid var(--line);
     border-radius:18px;
     padding:16px;
-    min-height:140px;
+    min-height:160px;
   }
 
   .enb-brief h3{
@@ -241,9 +285,9 @@
   }
 
   .badge-cat{color:var(--blue); background:#eef5fb; border-color:#d4e5f5;}
-  .badge-view-good{color:var(--green); background:#edf7f1; border-color:#cfe7d8;}
-  .badge-view-mid{color:var(--amber); background:#fff6e6; border-color:#f2dfb4;}
-  .badge-view-bad{color:var(--red); background:#fbefed; border-color:#ebd0ca;}
+  .badge-good{color:var(--green); background:#edf7f1; border-color:#cfe7d8;}
+  .badge-mid{color:var(--amber); background:#fff6e6; border-color:#f2dfb4;}
+  .badge-bad{color:var(--red); background:#fbefed; border-color:#ebd0ca;}
 
   .enb-summary{
     margin:0;
@@ -288,19 +332,6 @@
     flex-wrap:wrap;
     gap:8px;
     margin-top:10px;
-  }
-
-  .enb-chip{
-    display:inline-flex;
-    align-items:center;
-    gap:6px;
-    padding:7px 10px;
-    border-radius:999px;
-    background:#fff;
-    border:1px solid var(--line);
-    font-size:12px;
-    color:var(--muted);
-    font-weight:700;
   }
 
   .enb-link{
@@ -370,6 +401,7 @@
 
   @media (max-width:980px){
     .enb-market,
+    .enb-overview,
     .enb-grid,
     .enb-watchlist,
     .enb-split{
@@ -399,7 +431,8 @@
     "자동 fallback",
     "fallback",
     "분석 대기",
-    "요약 대기"
+    "요약 대기",
+    "요약 생성 실패"
   ];
 
   function escapeHtml(value) {
@@ -431,17 +464,24 @@
     return [];
   }
 
-  function stanceBadgeClass(view) {
-    const v = safeText(view, "").toLowerCase();
-    if (v.includes("긍정") || v.includes("관심")) return "badge-view-good";
-    if (v.includes("중립")) return "badge-view-mid";
-    if (v.includes("주의") || v.includes("경계") || v.includes("부정")) return "badge-view-bad";
-    return "badge-view-mid";
-  }
-
   function renderStars(score) {
     const n = Math.max(0, Math.min(5, Number(score || 0)));
     return "★".repeat(n) + "☆".repeat(5 - n);
+  }
+
+  function badgeClassByView(view) {
+    const v = safeText(view, "").toLowerCase();
+    if (v.includes("긍정") || v.includes("관심")) return "badge-good";
+    if (v.includes("중립")) return "badge-mid";
+    if (v.includes("주의") || v.includes("경계") || v.includes("부정")) return "badge-bad";
+    return "badge-mid";
+  }
+
+  function badgeClassByImpact(impact) {
+    const v = safeText(impact, "").toLowerCase();
+    if (v.includes("긍정")) return "badge-good";
+    if (v.includes("부정")) return "badge-bad";
+    return "badge-mid";
   }
 
   function renderSummary(summary, fallbackText) {
@@ -459,8 +499,40 @@
     return items.map(item => `<li>${escapeHtml(item)}</li>`).join("");
   }
 
-  function renderBriefSections(list) {
-    const items = Array.isArray(list) ? list : [];
+  function getBriefCards(brief) {
+    if (!brief || typeof brief !== "object") return [];
+    return [
+      { title: "국내 거시경제", summary: brief["국내거시경제"] },
+      { title: "글로벌 경제", summary: brief["글로벌경제"] },
+      { title: "증시·금리", summary: brief["증시금리"] },
+      { title: "부동산·정책", summary: brief["부동산정책"] },
+      { title: "기업·산업", summary: brief["기업산업"] }
+    ].filter(item => cleanText(item.summary));
+  }
+
+  function renderProjectOverview(overview) {
+    if (!overview || typeof overview !== "object") return "";
+
+    const features = safeArray(overview.main_features).map(v => safeText(v, "")).filter(Boolean);
+
+    return `
+      <div class="enb-overview">
+        <div class="enb-overview-card">
+          <h3>브리프 소개</h3>
+          <p>${escapeHtml(safeText(overview.purpose, "경제 뉴스와 투자 시사점을 자동으로 정리하는 브리프입니다."))}</p>
+        </div>
+        <div class="enb-overview-card">
+          <h3>핵심 기능</h3>
+          <div class="enb-feature-list">
+            ${features.length ? features.map(v => `<span class="enb-chip">${escapeHtml(v)}</span>`).join("") : `<span class="enb-chip">경제 뉴스 자동 수집</span>`}
+          </div>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderBriefSections(brief) {
+    const items = getBriefCards(brief);
     if (!items.length) return "";
 
     return `
@@ -490,16 +562,20 @@
       </div>
       <div class="enb-news-list">
         ${items.map(item => {
-          const title = safeText(item.title, "제목 없음");
-          const category = safeText(item.category, "경제");
-          const stance = safeText(item.stance, "중립");
+          const title = safeText(item.display_title || item.title, "제목 없음");
+          const category = safeText(item.category || item.classification, "경제");
+          const stance = safeText(item.investment_view || item.stance, "중립");
+          const impact = safeText(item.market_impact || item.investment_impact, "중립");
+          const reason = safeText(item.investment_reason || item.investment_impact, "-");
+          const keySignal = safeText(item.key_signal, "-");
           const sector = safeText(item.related_sector, "-");
-          const impact = safeText(item.investment_impact, "-");
           const keywords = safeArray(item.keywords).map(k => safeText(k, "")).filter(Boolean);
           const stocks = safeArray(item.related_stocks).map(s => safeText(s, "")).filter(Boolean);
-          const sourceUrl = safeText(item.source_url, "");
-          const publishedAt = safeText(item.published_at, "-");
-          const source = safeText(item.source, "원문 보기");
+          const sourceUrl = safeText(item.source_url || item.link, "");
+          const publishedAt = safeText(item.published_at || item.published, "-");
+          const source = safeText(item.source, "원문");
+          const importanceScore = Number(item.importance_score || item.importance || 0);
+          const region = safeText(item.region, "");
 
           return `
             <article class="enb-card">
@@ -508,8 +584,10 @@
                 <div class="enb-title-wrap">
                   <div class="enb-meta">
                     <span class="enb-badge badge-cat">${escapeHtml(category)}</span>
-                    <span class="enb-badge ${stanceBadgeClass(stance)}">${escapeHtml(stance)}</span>
-                    <span class="enb-badge">중요도 <span class="enb-stars">${escapeHtml(renderStars(item.importance_score))}</span></span>
+                    ${region ? `<span class="enb-badge">${escapeHtml(region)}</span>` : ""}
+                    <span class="enb-badge ${badgeClassByView(stance)}">${escapeHtml(stance)}</span>
+                    <span class="enb-badge ${badgeClassByImpact(impact)}">${escapeHtml(impact)}</span>
+                    <span class="enb-badge">중요도 <span class="enb-stars">${escapeHtml(renderStars(importanceScore))}</span></span>
                     <span class="enb-badge">${escapeHtml(publishedAt)}</span>
                   </div>
                   <h3 class="enb-news-title">${escapeHtml(title)}</h3>
@@ -517,17 +595,28 @@
               </div>
 
               <ol class="enb-summary">
-                ${renderSummary(item.summary, item.summary_text || item.investment_impact)}
+                ${renderSummary(item.summary, item.summary_text || item.description)}
               </ol>
 
               <div class="enb-split">
                 <div class="enb-mini">
-                  <h5>투자 영향</h5>
-                  <p>${escapeHtml(impact)}</p>
+                  <h5>투자 해석</h5>
+                  <p>${escapeHtml(reason)}</p>
                 </div>
+                <div class="enb-mini">
+                  <h5>핵심 시그널</h5>
+                  <p>${escapeHtml(keySignal)}</p>
+                </div>
+              </div>
+
+              <div class="enb-split">
                 <div class="enb-mini">
                   <h5>관련 섹터</h5>
                   <p>${escapeHtml(sector)}</p>
+                </div>
+                <div class="enb-mini">
+                  <h5>원문 출처</h5>
+                  <p>${escapeHtml(source)}</p>
                 </div>
               </div>
 
@@ -563,7 +652,7 @@
         ${items.map(item => `
           <article class="enb-watch">
             <div class="enb-meta">
-              <span class="enb-badge ${stanceBadgeClass(item.view)}">${escapeHtml(safeText(item.view, "중립"))}</span>
+              <span class="enb-badge ${badgeClassByView(item.view)}">${escapeHtml(safeText(item.view, "중립"))}</span>
             </div>
             <h3>${escapeHtml(safeText(item.name, "종목명"))}</h3>
             <div class="sector">${escapeHtml(safeText(item.sector, "-"))}</div>
@@ -577,9 +666,19 @@
 
   function renderView(data) {
     const overview = data.project_overview || {};
-    const market = data.market_view || {};
-    const risks = safeArray(market.risks);
-    const opportunities = safeArray(market.opportunities);
+    const brief = data.brief || {};
+    const oneLiner = safeText(
+      data.one_liner || brief["오늘의한줄"],
+      "오늘의 핵심 요약이 아직 준비되지 않았습니다."
+    );
+    const totalComment = safeText(
+      brief["총평"],
+      "오늘 시장 총평이 아직 준비되지 않았습니다."
+    );
+    const implication = safeText(
+      brief["오늘의투자시사점"],
+      "오늘의 투자 시사점이 아직 준비되지 않았습니다."
+    );
 
     root.innerHTML = `
       <section class="enb-wrap">
@@ -590,40 +689,40 @@
               ${escapeHtml(safeText(data.analysis_date, "-"))} 기준 · ${escapeHtml(safeText(data.generated_at, "-"))} 생성
             </div>
           </div>
-          <div class="enb-pill">매일 아침 시장의 맥을 짚는 자동 브리프</div>
+          <div class="enb-pill">매일 아침 시장의 결을 정리하는 자동 브리프</div>
         </header>
 
         <section class="enb-hero">
           <div class="enb-label">오늘의 한 줄</div>
-          <p class="enb-one">${escapeHtml(safeText(data.one_liner, "오늘의 요약이 준비되지 않았습니다."))}</p>
+          <p class="enb-one">${escapeHtml(oneLiner)}</p>
 
           <div class="enb-market">
             <div class="enb-box">
-              <h4>시장 시각</h4>
-              <p><strong>${escapeHtml(safeText(market.stance, "중립"))}</strong></p>
-              <p style="margin-top:8px;">${escapeHtml(safeText(market.summary, "-"))}</p>
+              <h4>오늘의 총평</h4>
+              <p>${escapeHtml(totalComment)}</p>
             </div>
             <div class="enb-box">
-              <h4>주요 리스크</h4>
-              <ul>
-                ${risks.length ? risks.map(v => `<li>${escapeHtml(safeText(v, "-"))}</li>`).join("") : "<li>-</li>"}
-              </ul>
+              <h4>투자 시사점</h4>
+              <p>${escapeHtml(implication)}</p>
             </div>
             <div class="enb-box">
-              <h4>주요 기회</h4>
+              <h4>운영 정보</h4>
               <ul>
-                ${opportunities.length ? opportunities.map(v => `<li>${escapeHtml(safeText(v, "-"))}</li>`).join("") : "<li>-</li>"}
+                <li>기준일: ${escapeHtml(safeText(data.analysis_date, "-"))}</li>
+                <li>생성시각: ${escapeHtml(safeText(data.generated_at, "-"))}</li>
+                <li>출력물: ${escapeHtml(safeText(overview.final_deliverable, "data.json"))}</li>
               </ul>
             </div>
           </div>
         </section>
 
-        ${renderBriefSections(data.brief_sections)}
+        ${renderProjectOverview(overview)}
+        ${renderBriefSections(brief)}
         ${renderNews(data.top_news)}
         ${renderWatchlist(data.watchlist)}
 
         <footer class="enb-footer">
-          <div>${escapeHtml(safeText(data.disclaimer, "본 자료는 정보 제공용입니다."))}</div>
+          <div>${escapeHtml(safeText(data.disclaimer, "본 자료는 정보 제공용이며 특정 종목의 매수·매도 추천이 아닙니다."))}</div>
         </footer>
       </section>
     `;
