@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27 07:39",
-  "analysis_date": "2026-04-27",
+  "generated_at": "2026-04-28 07:53",
+  "analysis_date": "2026-04-28",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 지정학적 리스크(중동 확전 우려, 미 연준 수사)와 국내외 금리 정책 및 산업 성장 모멘텀(AI 투자)이 교차하며 시장의 혼조세가 예상됩니다. 미국 증시는 강세를 보였으나, 불확실성 요인에 대한 지속적인 모니터링이 필요합니다.",
-    "국내거시경제": "한국은행이 기준금리를 7회 연속 동결하며 신중한 스탠스를 유지했습니다. 중동 평화 협상 기대감은 국내 증시에는 긍정적이나, 가계부채와 부동산 시장 불안정 등 잠재적 리스크에 대한 주의가 요구됩니다.",
-    "글로벌경제": "IMF는 중동 전쟁 확전 시 글로벌 경기 침체를 경고했지만, 중동 평화 협상 기대감에 글로벌 지정학적 긴장 완화 조짐도 나타나고 있습니다. 유가 및 공급망 동향을 주시해야 합니다.",
-    "증시금리": "S&P 500 지수가 사상 최고치를 경신했으며, 연준 발표 후 미 달러 및 국채 수익률 하락은 금리 인하 기대감을 지지했습니다. 다만, 미 법무부의 연준 수사 소식은 투자 심리 불안을 가중시킬 수 있습니다.",
-    "부동산정책": "해당 내용 없음.",
-    "기업산업": "엔비디아가 추론용 AI 칩 핵심 기술 확보에 29조 원을 투자하며 AI 반도체 리더십을 강화했습니다. 이는 국내외 AI 반도체 및 후공정 기업들에게 새로운 성장 기회를 제공할 것으로 예상됩니다.",
-    "오늘의투자시사점": "AI 반도체 관련 밸류체인에 대한 지속적인 관심이 필요하며, 지정학적 리스크 완화 기대감과 금리 인하 전망 사이에서 전략적인 접근이 중요합니다. 미 연준 관련 이슈는 시장 변동성을 확대시킬 수 있으므로 면밀히 주시해야 합니다.",
-    "오늘의한줄": "글로벌 불확실성 속 AI 산업 성장 모멘텀은 유효하나, 주요 리스크 요인에 대한 신중한 접근이 필요한 시기입니다."
+    "총평": "지정학적 리스크와 유가 변동성이 시장 불안을 키우는 가운데, AI 반도체 산업의 강력한 성장세는 긍정적 모멘텀으로 작용하며 혼조세를 보이고 있습니다.",
+    "국내거시경제": "뉴욕발 유가 쇼크로 국내 코스피가 급락하며 반도체, 자동차 등 주요 수출 업종이 동반 약세를 보였습니다.",
+    "글로벌경제": "IMF는 이란 전쟁 확전 시 세계 경기 침체를 경고했으며, 중동 지정학적 긴장과 고유가 우려는 글로벌 경제에 지속적인 부담으로 작용하고 있습니다.",
+    "증시금리": "미 연준의 금리 인하 결정으로 월스트리트가 급등했으나, 유가 쇼크와 미 법무부의 연준 수사 소식은 투자 심리를 위축시키며 시장 변동성을 확대하고 있습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "SK하이닉스의 1분기 낸드 매출이 248% 급증하며 메모리 업황 회복을 주도하고 있으며, 엔비디아는 추론용 AI칩에 29조 원을 투자하며 AI 반도체 시장의 성장을 가속화할 전망입니다.",
+    "오늘의투자시사점": "글로벌 지정학적 불안정과 유가 급등에 따른 시장 변동성 확대에 유의해야 합니다. 그러나 AI 반도체 산업의 구조적인 성장은 여전히 유효하므로, 펀더멘털이 견고한 관련 기업에 대한 선별적인 접근이 필요합니다.",
+    "오늘의한줄": "지정학적 리스크와 유가 변동성으로 시장 전반의 불확실성이 크지만, AI 반도체 업종의 강한 모멘텀은 지속될 것으로 보입니다."
   },
   "top_news": [
     {
@@ -28,33 +28,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "IMF, 이란 전쟁 확전 시 글로벌 경기 침체 경고",
-      "display_title": "IMF, 이란 전쟁 확전 시 글로벌 경기 침체 경고",
-      "original_title": "Iran War Escalation Could Trigger Global Recession, IMF Warns - Republic World",
+      "title": "SK하이닉스 1분기 낸드 매출 11조 원 돌파, 248% 급증",
+      "display_title": "SK하이닉스 1분기 낸드 매출 11조 원 돌파, 248% 급증",
+      "original_title": "SK hynix Q1 NAND Revenue Tops 11 Trillion Won, Surging 248% - Seoul Economic Daily",
       "summary": [
-        "IMF가 중동 지역의 전쟁이 확전될 경우 전 세계적인 경기 침체로 이어질 수 있다고 경고했습니다.",
-        "특히 유가 급등과 공급망 교란은 글로벌 경제에 심각한 타격을 줄 수 있습니다.",
-        "이러한 지정학적 리스크는 투자 시장의 불확실성을 증폭시키므로 상황 전개에 대한 지속적인 모니터링이 필요합니다."
+        "SK하이닉스의 1분기 낸드플래시 매출이 11조 원을 초과하며 전년 대비 248% 급증했습니다.",
+        "AI 수요 증가와 메모리 반도체 업황 회복에 힘입어 낸드 시장의 강한 반등세를 보여주고 있습니다.",
+        "SK하이닉스의 실적 개선은 반도체 업종 전반에 긍정적인 신호이며, 특히 낸드 가격 상승이 추가적인 실적 모멘텀으로 작용할 수 있습니다."
       ],
-      "summary_text": "IMF가 중동 지역의 전쟁이 확전될 경우 전 세계적인 경기 침체로 이어질 수 있다고 경고했습니다. 특히 유가 급등과 공급망 교란은 글로벌 경제에 심각한 타격을 줄 수 있습니다. 이러한 지정학적 리스크는 투자 시장의 불확실성을 증폭시키므로 상황 전개에 대한 지속적인 모니터링이 필요합니다.",
-      "description": "국제통화기금(IMF)은 이란과 관련된 전쟁이 확대될 경우 전 세계적인 경기 침체를 촉발할 수 있다고 경고했습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "SK하이닉스의 1분기 낸드플래시 매출이 11조 원을 초과하며 전년 대비 248% 급증했습니다. AI 수요 증가와 메모리 반도체 업황 회복에 힘입어 낸드 시장의 강한 반등세를 보여주고 있습니다. SK하이닉스의 실적 개선은 반도체 업종 전반에 긍정적인 신호이며, 특히 낸드 가격 상승이 추가적인 실적 모멘텀으로 작용할 수 있습니다.",
+      "description": "SK하이닉스의 1분기 낸드 매출이 11조 원을 넘어서며 전년 대비 248% 급증했습니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "에너지",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "지정학적 리스크 증가는 유가 급등, 공급망 교란 등을 야기하여 글로벌 경제 성장 둔화 및 기업 실적 악화로 이어질 수 있기 때문입니다.",
-      "key_signal": "중동 지역의 긴장 상황과 국제 유가 변동 추이를 면밀히 주시하며 투자 포트폴리오의 방어적 전략을 고려해야 합니다.",
-      "keywords": [
-        "이란",
-        "전쟁",
-        "글로벌 경기 침체",
-        "IMF",
-        "유가"
+      "market_impact": "긍정",
+      "related_sector": "반도체",
+      "related_stocks": [
+        "SK하이닉스",
+        "삼성전자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTZBM240aFk4dWltSnlfWjNJZmdDbnJCYlVIMVdOWDVURnRna2prU0x0ZEFlM3NmWUpISVh6eFkxR3pNRnVtNVhnMkpMQ25Bem1rOW1YVHdhVFZSTkR5TGpZSjdOU2hCNXhtQ3ozRFRDcDluM2cxZUJTWk9MVHZSdEwzWUtmbWozSGVDaWJseWtaa0h1Vmx2SmdYYjQ5Q3lB0gGmAUFVX3lxTE11cmZKQ050MV9UeHpsbFN5MmZDNVpHdG0yemViSnZvS3lHb05oUjVhVkpJa3pzWEtWN1Z4aVlYUUJDak5LejJJN1JTSmxRMG1WVlpGRlhpZXZITU1fYlhkNkk2NHFkV1JKNzFQSnJCTFFEYWhhM1ZHd3dfUjNFUkxMTzQ1eHRORFdUZFRyZVlPejgyUnVHWVktNktHdm5FT1NoZGQ1b0E?oc=5",
-      "published": "2026-04-14 16:00",
+      "investment_view": "관심",
+      "investment_reason": "주요 반도체 기업의 실적 회복은 국내 증시 전반의 투자 심리 개선과 업종 강세로 이어질 수 있기 때문입니다.",
+      "key_signal": "2분기 낸드 가격 추이 및 전체 메모리 반도체 시장 수요 지속 여부를 확인해야 합니다.",
+      "keywords": [
+        "SK하이닉스",
+        "낸드",
+        "반도체",
+        "실적",
+        "AI"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdG9uZlV2Y1kzT0ZyU3pJSmRRWDhPeFhDdnRZN2VCSjY5RklibnVkOHNDVzhUN3BzUi04ZllGZTludzFFVjhHcFRLdFpseVRENXB5b3VqNGNkU3c2NG81MzhCdWFmTHp4YlR5eU1BZndOZWRMRnF0Vm1ZQnpRWHVoV3RzNDBoaVU5Y05CZV9HMTloYkNIdllVbGRZUWxHX2NX?oc=5",
+      "published": "2026-04-28 07:09",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -63,37 +66,117 @@
     },
     {
       "rank": 2,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "IMF, 이란 전쟁 확전 시 세계 경기 침체 유발 가능성 경고",
+      "display_title": "IMF, 이란 전쟁 확전 시 세계 경기 침체 유발 가능성 경고",
+      "original_title": "Iran war escalation could trigger global recession, IMF warns - The Guardian",
+      "summary": [
+        "IMF가 이란 전쟁의 확전이 세계 경제 침체를 초래할 수 있다고 경고했습니다.",
+        "중동 지역의 지정학적 긴장은 유가 상승 및 공급망 교란을 야기하여 글로벌 경제에 심각한 부정적 영향을 미칠 수 있습니다.",
+        "지정학적 리스크 증가는 안전자산 선호 심리를 강화하고 주식 시장의 변동성을 키울 수 있으므로 투자에 유의해야 합니다."
+      ],
+      "summary_text": "IMF가 이란 전쟁의 확전이 세계 경제 침체를 초래할 수 있다고 경고했습니다. 중동 지역의 지정학적 긴장은 유가 상승 및 공급망 교란을 야기하여 글로벌 경제에 심각한 부정적 영향을 미칠 수 있습니다. 지정학적 리스크 증가는 안전자산 선호 심리를 강화하고 주식 시장의 변동성을 키울 수 있으므로 투자에 유의해야 합니다.",
+      "description": "국제통화기금(IMF)이 이란과의 전쟁이 격화될 경우 세계 경제에 경기 침체를 유발할 수 있다고 경고했습니다.",
+      "category": "글로벌 경제",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "에너지",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "중동 리스크 증가는 국제 유가 상승, 공급망 불안정을 야기하여 전반적인 경제 불확실성을 높이기 때문입니다.",
+      "key_signal": "이란과 관련한 지정학적 긴장 완화 또는 심화 여부, 국제 유가 변동성을 면밀히 주시해야 합니다.",
+      "keywords": [
+        "이란",
+        "전쟁",
+        "IMF",
+        "경기침체",
+        "유가"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWlXSVhZclg5OURId1YyZzEzbl9iYkJoYUlfVzBBd3lUNXRyVndGS1dzWHVpbGhSVjhpM1VaQ1pTd1k1ajNmRTVDU29WeEdad0k0UnhfVUxvdVdzMTAzOTg4eUlCa1ZwLU16cUx4aDFVcXR0ZDlTcTFGbUtQS0pqUjExUjY3MExWejZTUDk0ejRVNnFPTm82M25KM1IxRXFXbndzR3oyamVUMEQyZWc?oc=5",
+      "published": "2026-04-14 16:00",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 3,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "연준 금리 인하 후 월스트리트 지수 급등",
+      "display_title": "연준 금리 인하 후 월스트리트 지수 급등",
+      "original_title": "Wall Street indexes rally after Fed cuts interest rates - Reuters",
+      "summary": [
+        "미국 연준(Fed)의 금리 인하 결정 이후 월스트리트 주요 지수들이 강한 랠리를 보였습니다.",
+        "금리 인하는 기업의 자금 조달 비용을 낮추고 소비와 투자를 촉진하여 경제 활동을 활성화하는 경향이 있습니다.",
+        "연준의 금리 인하는 유동성 증가와 위험자산 선호 심리 회복으로 이어져 국내 증시에도 긍정적인 영향을 미칠 수 있습니다."
+      ],
+      "summary_text": "미국 연준(Fed)의 금리 인하 결정 이후 월스트리트 주요 지수들이 강한 랠리를 보였습니다. 금리 인하는 기업의 자금 조달 비용을 낮추고 소비와 투자를 촉진하여 경제 활동을 활성화하는 경향이 있습니다. 연준의 금리 인하는 유동성 증가와 위험자산 선호 심리 회복으로 이어져 국내 증시에도 긍정적인 영향을 미칠 수 있습니다.",
+      "description": "연방준비제도(Fed)가 금리를 인하하자 월스트리트 주요 지수들이 급등했습니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "전반적",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "미국 연준의 금리 인하는 글로벌 유동성 확대와 위험자산 선호 심리를 자극하여 국내 증시에도 전반적인 상승 모멘텀을 제공할 수 있기 때문입니다.",
+      "key_signal": "금리 인하 속도 및 추가 인하 가능성에 대한 연준의 향후 가이던스 변화를 주목해야 합니다.",
+      "keywords": [
+        "연준",
+        "금리인하",
+        "월스트리트",
+        "증시",
+        "유동성"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTW9waWQ2NVppNWM4eTBTZlNOakQ1T3VsQlVDVDc0bjBUbXVyQW5MQTdLZHZGZkpoQXM0eEZ1d21zal9xYVV4bXpKTkppR2VpOUEyWGt0dlJieTl4X09ZTzlnalpyeVVGcGRwQkhKUHZxQmVKTzZJRmZsRkVqV2E3TFY0SmdXWHBkZEdOcEpuNndxSlNPdV94aVhsdl9xWlRO?oc=5",
+      "published": "2025-12-10 17:00",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 4,
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[주간 기업 소식] 엔비디아, '추론용 AI칩 핵심기술 확보' 위해 29조원 대규모 투자",
-      "display_title": "[주간 기업 소식] 엔비디아, '추론용 AI칩 핵심기술 확보' 위해 29조원 대규모 투자",
+      "title": "엔비디아, 추론용 AI칩 핵심기술 확보에 29조원 투자",
+      "display_title": "엔비디아, 추론용 AI칩 핵심기술 확보에 29조원 투자",
       "original_title": "[한눈에 보는 Weekly 기업 소식] 엔비디아, ‘추론용 AI칩 핵심기술 확보’ 29조원 통큰 투자 - KIPOST",
       "summary": [
-        "엔비디아가 추론용 AI 칩 핵심 기술 확보를 위해 무려 29조 원을 투자하며 AI 반도체 시장에서의 리더십을 강화하고 있습니다.",
-        "이는 생성형 AI 시대에 추론용 칩의 중요성이 더욱 부각되고 있음을 보여주는 사례입니다.",
-        "엔비디아의 대규모 투자는 관련 국내외 AI 반도체 및 후공정 기업들에게 새로운 기회와 경쟁 환경을 조성할 수 있으므로 면밀한 분석이 필요합니다."
+        "엔비디아가 추론용 AI칩 핵심 기술 확보를 위해 29조 원이라는 대규모 투자를 발표했습니다.",
+        "이는 AI 시장의 급격한 성장에 따라 데이터센터 및 엣지 디바이스에서의 추론 AI 수요가 폭발적으로 증가하고 있음을 반영합니다.",
+        "엔비디아의 공격적인 투자는 AI 반도체 산업 전반의 성장을 촉진하며, 관련 국내 AI 반도체, 디자인하우스, 후공정 기업들에게도 긍정적인 영향을 줄 것입니다."
       ],
-      "summary_text": "엔비디아가 추론용 AI 칩 핵심 기술 확보를 위해 무려 29조 원을 투자하며 AI 반도체 시장에서의 리더십을 강화하고 있습니다. 이는 생성형 AI 시대에 추론용 칩의 중요성이 더욱 부각되고 있음을 보여주는 사례입니다. 엔비디아의 대규모 투자는 관련 국내외 AI 반도체 및 후공정 기업들에게 새로운 기회와 경쟁 환경을 조성할 수 있으므로 면밀한 분석이 필요합니다.",
-      "description": "KIPOST 주간 기업 소식에 따르면 엔비디아가 추론용 AI칩 핵심기술 확보를 위해 29조원에 달하는 대규모 투자를 단행했습니다.",
+      "summary_text": "엔비디아가 추론용 AI칩 핵심 기술 확보를 위해 29조 원이라는 대규모 투자를 발표했습니다. 이는 AI 시장의 급격한 성장에 따라 데이터센터 및 엣지 디바이스에서의 추론 AI 수요가 폭발적으로 증가하고 있음을 반영합니다. 엔비디아의 공격적인 투자는 AI 반도체 산업 전반의 성장을 촉진하며, 관련 국내 AI 반도체, 디자인하우스, 후공정 기업들에게도 긍정적인 영향을 줄 것입니다.",
+      "description": "엔비디아가 추론용 AI칩 핵심 기술을 확보하기 위해 29조 원 규모의 대규모 투자를 단행했습니다.",
       "category": "기업·산업",
       "importance": 9,
       "market_impact": "긍정",
       "related_sector": "AI 반도체",
       "related_stocks": [
-        "엔비디아",
+        "SK하이닉스",
         "삼성전자",
-        "SK하이닉스"
+        "한미반도체"
       ],
       "investment_view": "관심",
-      "investment_reason": "엔비디아의 추론용 AI 칩 투자는 AI 반도체 시장의 폭발적인 성장 잠재력을 시사하며, 관련 기술력을 가진 국내외 반도체 기업들에게 중요한 투자 기회가 될 수 있습니다.",
-      "key_signal": "엔비디아의 기술 개발 로드맵과 투자 파트너십을 주시하며, 국내 AI 반도체 및 후공정 기업들의 수혜 여부를 분석해야 합니다.",
+      "investment_reason": "AI 반도체 시장의 선두 주자인 엔비디아의 대규모 투자는 관련 국내 기업들의 기술 개발 및 성장에 대한 기대감을 높이기 때문입니다.",
+      "key_signal": "엔비디아의 투자에 따른 국내 반도체 생태계 내 파트너십 강화 및 기술 협력 동향을 주목해야 합니다.",
       "keywords": [
         "엔비디아",
-        "AI 칩",
-        "추론용 AI",
-        "반도체",
-        "대규모 투자"
+        "AI칩",
+        "추론AI",
+        "반도체투자",
+        "기술확보"
       ],
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1TXJNR2pDRWNwWW84RUxGRFhHeTJZUzRfNktYV2xaLUZzM2NtcHFnVGd2YUdCYzBXWkYtNnMzNXRBNTIxYzg2aF9DMW0wTUJnemFlTkViaEM1SG5Xd25aQTd6LWRUTnNX0gFsQVVfeXFMT1ZNTzlPZkNGTElGMnFrMU90RDVjMFRjMXM0MjlFZU5NZDdhUWQyaHhWcDY1ME1TbU9JcHAyNDEyRkxaY2VGTm5acmhIWnVtbUhPQVM2VHJZM1V4el84Z2NhSXZTV2JLYmdkSm9z?oc=5",
       "published": "2025-12-26 17:00",
@@ -104,20 +187,62 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "뉴욕발 유가 쇼크에 코스피 급락…반도체·자동차 동반 약세",
+      "display_title": "뉴욕발 유가 쇼크에 코스피 급락…반도체·자동차 동반 약세",
+      "original_title": "뉴욕發 유가 쇼크에 코스피 급락…반도체·車 동반 약세 - mstoday.co.kr",
+      "summary": [
+        "뉴욕발 유가 쇼크로 국내 코스피 지수가 급락했으며, 반도체 및 자동차 등 주요 수출 업종이 동반 약세를 보였습니다.",
+        "고유가는 기업들의 생산 비용 증가와 소비 심리 위축을 야기하며, 이는 글로벌 경기 둔화 우려로 이어져 증시에 부정적입니다.",
+        "국제 유가 변동성은 국내 경제 및 수출 중심 산업에 직접적인 영향을 미치므로, 에너지 시장 동향을 주의 깊게 살펴야 합니다."
+      ],
+      "summary_text": "뉴욕발 유가 쇼크로 국내 코스피 지수가 급락했으며, 반도체 및 자동차 등 주요 수출 업종이 동반 약세를 보였습니다. 고유가는 기업들의 생산 비용 증가와 소비 심리 위축을 야기하며, 이는 글로벌 경기 둔화 우려로 이어져 증시에 부정적입니다. 국제 유가 변동성은 국내 경제 및 수출 중심 산업에 직접적인 영향을 미치므로, 에너지 시장 동향을 주의 깊게 살펴야 합니다.",
+      "description": "뉴욕에서 발생한 유가 충격으로 코스피가 급락했으며, 특히 반도체와 자동차 업종이 동반 약세를 보였습니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "에너지",
+      "related_stocks": [
+        "현대차",
+        "기아",
+        "삼성전자"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "국제 유가 급등은 국내 기업의 원가 부담을 가중시키고 소비 심리를 위축시켜 국내 증시 전반에 부정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "중동 지역 지정학적 리스크 완화 여부와 글로벌 경기 둔화 우려 해소 여부를 주시해야 합니다.",
+      "keywords": [
+        "유가",
+        "코스피",
+        "급락",
+        "반도체",
+        "자동차"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGQTF3bDRoZVF4Ul9QTUFtUEpWNlNpdFdmbnJNUS1hNHR4RnNsTkxfQjljMHNqc1RLOUNuZV90VUNnSE96YnBaR3hwcFRPRTRLZVppZTBFZjlndWpLYTYwamVGcGZmLTc1Q0o4cA?oc=5",
+      "published": "2026-03-13 16:00",
+      "quality": {
+        "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 6,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미 법무부의 연준 수사 소식에 투자자 불안 심화, 미국 시장 매도세 전환",
-      "display_title": "미 법무부의 연준 수사 소식에 투자자 불안 심화, 미국 시장 매도세 전환",
+      "title": "미 법무부의 연준 수사 소식에 투자자들 불안, '미국 매도' 시장 재현",
+      "display_title": "미 법무부의 연준 수사 소식에 투자자들 불안, '미국 매도' 시장 재현",
       "original_title": "The 'Sell America' market returns after DOJ's criminal probe of the Fed spooks investors - NBC News",
       "summary": [
-        "미국 법무부(DOJ)의 연방준비제도(Fed)에 대한 형사 수사 소식이 투자자들 사이에서 큰 불안감을 조성하고 있습니다.",
-        "이로 인해 미국 시장에 대한 매도 심리가 확산되며 '셀 아메리카' 현상이 다시 나타나고 있습니다.",
-        "연준의 독립성 및 신뢰도에 대한 의구심은 금융 시장 전반의 변동성을 키울 수 있으므로 투자 심리 변화에 유의해야 합니다."
+        "미 법무부의 연준(Fed)에 대한 형사 수사 소식이 전해지며 미국 증시에서 투자자 불안이 커지고 매도세가 나타났습니다.",
+        "연준의 독립성과 신뢰성에 대한 의구심은 시장 불확실성을 증폭시키고, 이는 글로벌 금융 시장에도 영향을 미칠 수 있습니다.",
+        "미국의 통화 정책 신뢰도 하락은 글로벌 투자 심리에 부정적 영향을 주어 국내 증시에도 간접적인 하락 압력으로 작용할 수 있습니다."
       ],
-      "summary_text": "미국 법무부(DOJ)의 연방준비제도(Fed)에 대한 형사 수사 소식이 투자자들 사이에서 큰 불안감을 조성하고 있습니다. 이로 인해 미국 시장에 대한 매도 심리가 확산되며 '셀 아메리카' 현상이 다시 나타나고 있습니다. 연준의 독립성 및 신뢰도에 대한 의구심은 금융 시장 전반의 변동성을 키울 수 있으므로 투자 심리 변화에 유의해야 합니다.",
-      "description": "NBC 뉴스에 따르면 미 법무부의 연방준비제도(Fed)에 대한 형사 수사 소식이 투자자들을 불안하게 만들며 '미국 시장 매도' 현상이 재연되고 있습니다.",
+      "summary_text": "미 법무부의 연준(Fed)에 대한 형사 수사 소식이 전해지며 미국 증시에서 투자자 불안이 커지고 매도세가 나타났습니다. 연준의 독립성과 신뢰성에 대한 의구심은 시장 불확실성을 증폭시키고, 이는 글로벌 금융 시장에도 영향을 미칠 수 있습니다. 미국의 통화 정책 신뢰도 하락은 글로벌 투자 심리에 부정적 영향을 주어 국내 증시에도 간접적인 하락 압력으로 작용할 수 있습니다.",
+      "description": "미국 법무부(DOJ)가 연방준비제도(Fed)에 대한 형사 수사를 개시했다는 소식이 투자자들을 불안하게 만들며 '미국 매도' 장세가 다시 나타났습니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
@@ -128,14 +253,14 @@
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 중앙은행의 독립성과 신뢰도에 대한 논란은 금융 시장의 불확실성을 증대시키고 글로벌 투자 심리에 부정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "미 법무부의 연준 수사 진행 상황과 연준의 대응을 주시하며, 시장의 변동성에 대비한 포트폴리오 관리 전략을 검토해야 합니다.",
+      "investment_reason": "세계 경제의 핵심인 미국 연준의 신뢰성 문제는 글로벌 금융 시장의 불안정성을 높여 국내 증시에도 직접적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "미 법무부 수사의 진행 상황과 연준의 대응, 그리고 이에 따른 미국 금융 시장의 반응을 면밀히 주시해야 합니다.",
       "keywords": [
         "연준",
-        "법무부",
+        "미법무부",
         "수사",
-        "미국 증시",
-        "투자 심리"
+        "미국증시",
+        "금융시장"
       ],
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemhQMk92WnhCUzZlZkJra0tXSkktU0VjT3BxbzRmQ1dxXzdBaU9EYVJUOExuemRyUUpjcEdLb1NXRDFDc3NqOXBxa2gxamVJM3o3N2NzQXh5dGExalhkZnpadjhvNmZtX1JjS2w0dDZPLVhGQmdhT0lnelgydWN2MUNoM3FDaTV5SjV0Z2hxT2ktQQ?oc=5",
       "published": "2026-01-12 17:00",
@@ -144,194 +269,70 @@
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
-    },
-    {
-      "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "S&P 500 사상 최고치 마감, 연준 발표 후 미 달러 및 국채 수익률 하락",
-      "display_title": "S&P 500 사상 최고치 마감, 연준 발표 후 미 달러 및 국채 수익률 하락",
-      "original_title": "S&P 500 posts record closing high, US dollar and yields decline in wake of Fed - Reuters",
-      "summary": [
-        "S&P 500 지수가 사상 최고치를 경신하며 마감했으며, 이는 견조한 기업 실적과 낙관적인 경제 전망을 반영한 결과입니다.",
-        "연방준비제도(Fed)의 발표 이후 미국 달러 가치와 국채 수익률이 하락하여, 시장이 금리 인하에 대한 기대감을 유지하고 있음을 시사합니다.",
-        "미국 증시의 강세와 금리 하락 추세는 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있으므로 주요 경제 지표 발표에 주목해야 합니다."
-      ],
-      "summary_text": "S&P 500 지수가 사상 최고치를 경신하며 마감했으며, 이는 견조한 기업 실적과 낙관적인 경제 전망을 반영한 결과입니다. 연방준비제도(Fed)의 발표 이후 미국 달러 가치와 국채 수익률이 하락하여, 시장이 금리 인하에 대한 기대감을 유지하고 있음을 시사합니다. 미국 증시의 강세와 금리 하락 추세는 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있으므로 주요 경제 지표 발표에 주목해야 합니다.",
-      "description": "로이터 통신에 따르면 S&P 500 지수가 사상 최고치를 기록하며 마감했으며, 연방준비제도(Fed)의 발표 이후 미국 달러와 국채 수익률이 하락했습니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "증시",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "S&P 500의 사상 최고치 경신과 금리 하락은 투자 심리를 개선하고 위험 자산에 대한 매력을 높여 주식 시장 전반에 긍정적인 투자 기회를 제공할 수 있습니다.",
-      "key_signal": "연준의 향후 통화 정책 방향과 주요 경제 지표(특히 물가 및 고용) 발표를 면밀히 분석하여 시장의 금리 인하 기대감이 유지될지 확인해야 합니다.",
-      "keywords": [
-        "S&P 500",
-        "연준",
-        "금리",
-        "달러",
-        "증시"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYm5IN3hDa0Z2OW5OZlEwWWFPalJWc0Z1ZF80ekMxSEdGNzhhd3p1bTBoSVdIVDEtMHZUVWlVRElBR1NxQmJuQm1nTF9adlEtV0ZPR25waDhQWmxkYWxuTFNZY0wyTnd6OExiWVlhUlJpY2hvMHVxLTdqem9leUFlRg?oc=5",
-      "published": "2025-12-10 17:00",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 증시, 긴장 완화 기대감에 상승",
-      "display_title": "미국 증시, 긴장 완화 기대감에 상승",
-      "original_title": "Market Movers blog: US stocks edge up amid hopes of de-escalation - Investment Week",
-      "summary": [
-        "미국 증시가 지정학적 긴장 완화 기대감에 힘입어 소폭 상승 마감했습니다.",
-        "이는 투자자들이 현재 시장의 불확실성이 줄어들 것이라는 희망을 반영한 것으로 보입니다.",
-        "글로벌 증시 전반에 긍정적인 영향을 미칠 수 있으므로 향후 긴장 완화 관련 소식에 주목해야 합니다."
-      ],
-      "summary_text": "미국 증시가 지정학적 긴장 완화 기대감에 힘입어 소폭 상승 마감했습니다. 이는 투자자들이 현재 시장의 불확실성이 줄어들 것이라는 희망을 반영한 것으로 보입니다. 글로벌 증시 전반에 긍정적인 영향을 미칠 수 있으므로 향후 긴장 완화 관련 소식에 주목해야 합니다.",
-      "description": "투자 주간지 마켓 무버스 블로그에 따르면 미국 증시가 긴장 완화에 대한 기대감으로 소폭 상승했습니다.",
-      "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "증시",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "지정학적 긴장 완화는 투자 심리를 개선하고 위험 자산 선호도를 높여 증시 전반에 긍정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "지정학적 리스크 관련 실제 완화 조치나 합의 도출 여부를 지속적으로 확인해야 합니다.",
-      "keywords": [
-        "미국 증시",
-        "긴장 완화",
-        "시장 심리",
-        "상승"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-      "published": "2026-04-24 16:00",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[클릭 증시] 중동 평화 협상 기대감... 한국은행 기준금리 7연속 동결",
-      "display_title": "[클릭 증시] 중동 평화 협상 기대감... 한국은행 기준금리 7연속 동결",
-      "original_title": "[‘클릭’ 증시] 중동 평화 협상 기대감...한은 금리는 7연속 동결 - 공공뉴스",
-      "summary": [
-        "중동 지역의 평화 협상에 대한 기대감이 형성되면서 글로벌 지정학적 불확실성이 다소 완화될 조짐을 보이고 있습니다.",
-        "한국은행은 기준금리를 7회 연속 동결하며 국내 물가와 경제 성장 간의 균형을 유지하려는 스탠스를 이어갔습니다.",
-        "국내 증시에는 긍정적인 요인이 될 수 있지만, 여전히 높은 가계부채와 부동산 시장 불안정 등 잠재적 리스크에 대한 주의가 필요합니다."
-      ],
-      "summary_text": "중동 지역의 평화 협상에 대한 기대감이 형성되면서 글로벌 지정학적 불확실성이 다소 완화될 조짐을 보이고 있습니다. 한국은행은 기준금리를 7회 연속 동결하며 국내 물가와 경제 성장 간의 균형을 유지하려는 스탠스를 이어갔습니다. 국내 증시에는 긍정적인 요인이 될 수 있지만, 여전히 높은 가계부채와 부동산 시장 불안정 등 잠재적 리스크에 대한 주의가 필요합니다.",
-      "description": "공공뉴스 '[클릭' 증시]에 따르면 중동 평화 협상에 대한 기대감이 높아지는 가운데 한국은행이 기준금리를 7회 연속 동결했습니다.",
-      "category": "국내 거시경제",
-      "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "금융",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "중립",
-      "investment_reason": "중동 평화 협상 기대감은 긍정적이나, 국내 금리 동결은 물가와 경제 상황을 지켜보는 신중한 입장이며 시장에 미치는 영향이 복합적이기 때문입니다.",
-      "key_signal": "중동 평화 협상 진전 여부와 국내 물가 및 경기 지표를 주시하며, 한은의 다음 통화정책 방향을 예측해야 합니다.",
-      "keywords": [
-        "한국은행",
-        "금리 동결",
-        "중동 평화",
-        "국내 증시",
-        "물가"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZUQ1azRNcGJfQXdwbUxXVzlrZ3ZfYWJFem4wYVEwZEZ4d1hDRzJBT2hwaWRvRFBTeXNHNG1VSW0yel9tNlhlTUhQSHpUU1p6ckpUY3lHTVNPWF9pdG1ZeGF1bHkyVkMzelHSAW5BVV95cUxOcnRCcVl6NVpkQ3VxV0tEclp4amtLR2dfV3VIandsY21keU5La0FxUmJDazVjbW1qOVNyTFdjanZjVDNjaWFOdnI2LVQ3cElGdmFtN0ZNSlBiZHJMOU8xY3MzQTI2VlpzeFU3dEs5dw?oc=5",
-      "published": "2026-04-10 16:00",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
     }
   ],
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "엔비디아의 추론용 AI칩 대규모 투자는 AI 반도체 시장의 폭발적인 성장을 예고하며, AI칩 및 파운드리 기술력을 가진 삼성전자에 중요한 투자 기회가 될 수 있습니다.",
-      "check_points": [
-        "AI 칩 관련 신기술 개발 및 파운드리 수주 동향",
-        "글로벌 반도체 수요 변화 및 HBM 경쟁력 강화"
-      ],
-      "related_news_titles": [
-        "[주간 기업 소식] 엔비디아, '추론용 AI칩 핵심기술 확보' 위해 29조원 대규모 투자"
-      ]
-    },
-    {
-      "rank": 2,
       "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "엔비디아의 추론용 AI칩 투자는 AI 반도체 시장 성장에 대한 강한 신호이며, 고대역폭 메모리(HBM) 분야의 선두 주자인 SK하이닉스는 관련 수요 증가에 따른 직접적인 수혜가 기대됩니다.",
+      "reason": "1분기 낸드 매출 급증으로 메모리 반도체 시장의 회복세가 뚜렷하며, 엔비디아의 AI 반도체 투자 확대는 동사의 고대역폭 메모리(HBM) 경쟁력에 대한 기대감을 높이기 때문입니다.",
       "check_points": [
-        "HBM 생산 능력 확대 및 고객사 확보",
-        "AI 서버 시장 성장률 및 메모리 반도체 업황 개선"
+        "글로벌 메모리 반도체 수요 및 가격 동향",
+        "HBM 생산 능력 확대 및 공급 계약 현황"
       ],
       "related_news_titles": [
-        "[주간 기업 소식] 엔비디아, '추론용 AI칩 핵심기술 확보' 위해 29조원 대규모 투자"
+        "SK하이닉스 1분기 낸드 매출 11조 원 돌파, 248% 급증",
+        "엔비디아, 추론용 AI칩 핵심기술 확보에 29조원 투자"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "한미반도체",
+      "market": "KOSPI",
+      "sector": "AI 반도체 장비",
+      "opinion": "관심",
+      "reason": "AI 반도체 시장 선두주자인 엔비디아의 대규모 투자 발표는 HBM 생산에 필수적인 TC 본더 등 AI 반도체 장비 수요 증가로 이어져 동사의 수혜가 기대되기 때문입니다.",
+      "check_points": [
+        "엔비디아 및 주요 고객사의 투자 집행 구체화 여부",
+        "TC 본더 등 핵심 장비의 시장 지배력 유지"
+      ],
+      "related_news_titles": [
+        "엔비디아, 추론용 AI칩 핵심기술 확보에 29조원 투자"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "반도체, IT",
       "opinion": "관심",
-      "reason": "S&P 500 사상 최고치 경신 및 미국 증시의 긴장 완화 기대감 상승은 투자 심리를 개선하고 거래대금 증가로 이어져 국내 증권사의 실적 개선에 긍정적인 영향을 미칠 수 있습니다.",
+      "reason": "SK하이닉스 발 메모리 시장 회복 소식은 동사의 실적 개선 기대감을 높이며, 엔비디아의 AI 반도체 투자 확대는 파운드리 및 HBM 등 AI 관련 사업 부문의 성장 모멘텀으로 작용할 수 있기 때문입니다.",
       "check_points": [
-        "국내외 증시 거래대금 추이",
-        "시장 변동성 지수 및 투자심리 개선 여부"
+        "메모리 반도체 업황 개선 지속 및 파운드리 고객 확보",
+        "HBM 기술 경쟁력 강화 및 시장 점유율 확대"
       ],
       "related_news_titles": [
-        "S&P 500 사상 최고치 마감, 연준 발표 후 미 달러 및 국채 수익률 하락",
-        "미국 증시, 긴장 완화 기대감에 상승"
+        "SK하이닉스 1분기 낸드 매출 11조 원 돌파, 248% 급증",
+        "엔비디아, 추론용 AI칩 핵심기술 확보에 29조원 투자"
       ]
     },
     {
       "rank": 4,
-      "name": "한국금융지주",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "금융지주",
+      "sector": "금융",
       "opinion": "관심",
-      "reason": "글로벌 증시의 긍정적인 흐름과 투자 심리 회복은 증권 자회사 실적 개선에 대한 기대감을 높여 한국금융지주를 비롯한 금융지주사들의 가치 상승에 기여할 수 있습니다.",
+      "reason": "미국 연준의 금리 인하 기대감이 높아지면서 글로벌 유동성 확대와 위험자산 선호 심리가 국내 증시 거래 활성화 및 증권사 수익성 개선으로 이어질 가능성이 있기 때문입니다.",
       "check_points": [
-        "자회사별 실적 동향 및 시장 점유율",
-        "국내외 금리 및 유동성 환경, 주주환원 정책"
+        "미국 연준의 금리 인하 시점 및 강도",
+        "국내외 증시 거래대금 및 투자 심리 변화",
+        "연준 수사 관련 시장 불확실성 해소 여부"
       ],
       "related_news_titles": [
-        "S&P 500 사상 최고치 마감, 연준 발표 후 미 달러 및 국채 수익률 하락",
-        "미국 증시, 긴장 완화 기대감에 상승"
+        "연준 금리 인하 후 월스트리트 지수 급등"
       ]
     }
   ],
