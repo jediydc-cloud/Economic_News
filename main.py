@@ -57,7 +57,7 @@ OUTPUT_PATH = "docs/data.json"
 # Google News 검색형 RSS 중심
 # ──────────────────────────────────────────
 def build_google_news_rss(query: str, hl: str, gl: str, ceid: str) -> str:
-    return f"https://news.google.com/rss/search?q={quote(query)}&hl={hl}&gl={gl}&ceid={ceid}"
+    return f"https://news.google.com/rss/search?q={quote(query + ' when:1d')}&hl={hl}&gl={gl}&ceid={ceid}"
 
 RSS_FEEDS = [
     {
