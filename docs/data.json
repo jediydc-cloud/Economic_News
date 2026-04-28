@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28 19:49",
-  "analysis_date": "2026-04-28",
+  "generated_at": "2026-04-29 07:58",
+  "analysis_date": "2026-04-29",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,136 +13,178 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 증시는 글로벌 기술주 강세와 기업 실적 기대감에 힘입어 사상 최고치를 경신했으나, 한국은행은 중동발 지정학적 리스크로 금리를 동결했습니다. 글로벌 증시도 기술주 중심의 상승세를 이어갔습니다.",
-    "국내거시경제": "한국은행은 중동발 지정학적 리스크와 물가, 성장 불확실성을 이유로 4월 기준금리를 만장일치 동결했습니다. 금리 인하에 대한 신중한 입장을 재확인하며, 향후 유가 및 환율 변동성 확대 가능성을 시사했습니다.",
-    "글로벌경제": "미국 S&P 500 및 나스닥 지수가 기술 대기업 주도로 사상 최고치를 경신하며 글로벌 증시 강세를 이끌었습니다. AI 성장 기대감과 기업 실적 견조함이 바탕이나, 중동발 지정학적 리스크는 유가 및 상품 시장에 불확실성을 더하고 있습니다.",
-    "증시금리": "코스피는 글로벌 기술주 강세와 국내 기업 실적 기대감, 외국인 매수세에 힘입어 사상 최고치를 경신하고 시가총액 세계 8위로 올랐습니다. 아시아 증시 혼조세 속에서도 국내 증시의 독자적 강세가 두드러졌습니다.",
-    "부동산정책": "특이사항 없음",
-    "기업산업": "글로벌 기술주 강세가 지속되며 국내 반도체 및 IT 기업들의 실적 개선과 주가 상승 기대감이 커지고 있습니다. AI 산업 성장은 관련 기업들의 긍정적 모멘텀으로 작용하고 있습니다.",
-    "오늘의투자시사점": "글로벌 기술주 랠리가 국내 증시 강세를 견인하는 만큼, 반도체 및 IT 성장주에 대한 관심을 유지해야 합니다. 동시에 중동 리스크발 유가 및 환율 변동성 확대에 따른 시장 불확실성에 대비하는 보수적인 관점도 필요합니다.",
-    "오늘의한줄": "국내 증시의 독자적 강세 속 기술주 랠리는 긍정적이나, 중동발 리스크에 따른 불확실성 증대에 유의해야 합니다."
+    "총평": "미국 증시가 기술주 조정과 유가 상승 압력으로 하락했습니다. 국내에서는 삼성SDI의 대형 수주 기대와 반도체 산업의 장기 경쟁력 강화가 주요 이슈로 부각됩니다. 고물가로 인한 소비 심리 위축도 지속되고 있습니다.",
+    "국내거시경제": "고물가 지속으로 국내 소비 심리가 위축된 상황이며, 내수 경기 회복을 위해서는 정부의 물가 안정 및 가계 소득 증대 정책이 중요합니다. 이는 유통 및 소비재 기업들의 실적에 영향을 미칠 전망입니다.",
+    "글로벌경제": "미국 증시가 AI 기술주의 하락과 국제 유가 상승의 압박을 받으며 전반적인 하락세를 보였습니다. 중동발 지정학적 긴장이 유가 상승을 부추기며 인플레이션 우려를 심화시키고 있습니다.",
+    "증시금리": "오늘 미국 나스닥 지수가 300포인트 이상 급락하며 기술주 중심의 시장 조정이 나타났고, S&P 500과 다우 지수도 하락했습니다. AI 관련주 변동성 확대와 유가 상승이 시장에 하방 압력을 가했습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "삼성SDI가 아마존 데이터센터 배터리 공급 최종 협상을 진행하며 이차전지 및 ESS 시장 성장에 대한 기대감을 높이고 있습니다. 한편, 국내 반도체 산업은 중국의 기술 추격에 대비한 체질 개선과 초격차 기술 확보가 시급하다는 지적이 나왔습니다.",
+    "오늘의투자시사점": "미국 기술주 조정에 대비해 국내 기술주/성장주 비중을 점검하고 방어 전략을 고려하십시오. 삼성SDI의 협상 진전 여부와 이차전지/ESS 관련 기업에 대한 관심을 유지하고, 반도체 기업들의 장기 기술 투자 전략을 면밀히 살펴보십시오. 유가 상승으로 인한 인플레이션 우려와 AI 관련주 변동성에 주의가 필요합니다.",
+    "오늘의한줄": "미국 기술주 조정과 유가 상승 압력 속, 국내 기업별 이슈와 산업 구조 변화에 주목하며 포트폴리오 방어 전략을 강화할 때입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "한국은행, 4월 기준금리 만장일치 동결... '중동 불확실성 증대'",
-      "display_title": "한국은행, 4월 기준금리 만장일치 동결... '중동 불확실성 증대'",
-      "original_title": "4월 금리 만장일치로 동결한 금통위원들... “중동 전쟁 불확실성 매우 크다” - 조선비즈 - Chosunbiz",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 미국 증시: 나스닥 300포인트 이상 급락, S&P 500과 다우도 하락",
+      "display_title": "오늘 미국 증시: 나스닥 300포인트 이상 급락, S&P 500과 다우도 하락",
+      "original_title": "US stock market today: Why is Nasdaq crashing big today? Dow and S&P 500 slip as Nasdaq plunges over 300 p - The Economic Times",
       "summary": [
-        "한국은행 금융통화위원회가 4월 기준금리를 만장일치로 동결하며 현 수준을 유지하기로 결정했다.",
-        "금통위원들은 중동 지역의 지정학적 긴장 고조로 인한 경제 불확실성이 매우 크다고 판단, 금리 인하에 대한 신중한 입장을 재확인했다.",
-        "금리 동결은 시장의 예상에 부합하나, 중동 리스크가 장기화될 경우 국내 경제와 금융 시장에 미칠 영향을 면밀히 주시해야 한다."
+        "미국 나스닥 지수가 300포인트 이상 급락하며 기술주 중심의 시장 조정이 발생했고, 다우 및 S&P 500 또한 하락했습니다.",
+        "이는 인플레이션 우려, 금리 인상 가능성, 또는 특정 기술 기업의 실적 부진 등 여러 요인이 복합적으로 작용한 결과로 분석됩니다.",
+        "국내 기술주 및 성장주에 대한 투자 심리 위축 가능성이 있으므로, 투자 포트폴리오의 방어 전략을 고려하고 저가 매수 기회를 탐색해야 합니다."
       ],
-      "summary_text": "한국은행 금융통화위원회가 4월 기준금리를 만장일치로 동결하며 현 수준을 유지하기로 결정했다. 금통위원들은 중동 지역의 지정학적 긴장 고조로 인한 경제 불확실성이 매우 크다고 판단, 금리 인하에 대한 신중한 입장을 재확인했다. 금리 동결은 시장의 예상에 부합하나, 중동 리스크가 장기화될 경우 국내 경제와 금융 시장에 미칠 영향을 면밀히 주시해야 한다.",
-      "description": "한국은행 금융통화위원회 위원들이 4월 정례회의에서 기준금리를 만장일치로 동결했으며, 중동 전쟁으로 인한 경제 불확실성이 매우 크다는 점을 주요 동결 배경으로 언급했다.",
-      "category": "국내 거시경제",
+      "summary_text": "미국 나스닥 지수가 300포인트 이상 급락하며 기술주 중심의 시장 조정이 발생했고, 다우 및 S&P 500 또한 하락했습니다. 이는 인플레이션 우려, 금리 인상 가능성, 또는 특정 기술 기업의 실적 부진 등 여러 요인이 복합적으로 작용한 결과로 분석됩니다. 국내 기술주 및 성장주에 대한 투자 심리 위축 가능성이 있으므로, 투자 포트폴리오의 방어 전략을 고려하고 저가 매수 기회를 탐색해야 합니다.",
+      "description": "오늘 미국 증시에서 나스닥이 300포인트 이상 급락했으며, 다우와 S&P 500 지수도 하락세를 보였습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 증권, 건설",
+      "market_impact": "부정",
+      "related_sector": "IT, 반도체, 기술주",
       "related_stocks": [
-        "카카오뱅크",
-        "우리금융지주",
-        "삼성생명"
+        "삼성전자",
+        "SK하이닉스",
+        "카카오"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 금리 동결 기조 유지와 중동발 불확실성 증대는 향후 경제 및 기업 실적에 영향을 줄 수 있으므로 지속적인 관심이 필요하다.",
-      "key_signal": "중동 사태의 전개와 국제 유가 및 환율 변동이 향후 한은의 통화정책 방향에 어떤 영향을 미칠지 주목해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 나스닥의 급락은 국내 기술주 및 성장주에 대한 투자 심리에 직접적인 악영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "나스닥 급락의 원인 파악과 기술주의 반등 여부, 그리고 국내 증시의 외국인 매도세 동향을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "한국은행",
-        "기준금리",
-        "금통위",
-        "중동 전쟁",
-        "금리 동결"
+        "나스닥 급락",
+        "미국 증시",
+        "기술주 조정",
+        "투자 심리",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1hLUjR2cWZaUTdLM2Nwd1o1U21IQnBpWlRyUFMxS3JtSFU0YjE3Z3JPWVY2ejI0cGlnSmQ2VFdyN2wyMWpCaVJyaGxKT2ZiZkNPb0ZDeHQ1eUpjNVYySnpsYVFuMDVGM0pfejA4SHR3MUVYajR6QW5hQ2dFS0hPdmFaVWYwd9IBmgFBVV95cUxQZ1BkT0FZS2JyN0FJSXhLMnF4aXdxSjVwSXg1WktSSUd4QXRIY1NncUVOOVAtS0phM1VOanBEVUNZRks5RDF2SnIxNTlOZjY0WTBudzJETl8wVGhIVG55d1hMaXZSanpEYW5Ma0QyV3pOaWtyNGttdW9rWVJPd3RLMjg1VkU1TjhEdGdqQzJOSVZsbDFiX2FDV3pn?oc=5",
-      "published": "2026-04-28 17:18",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOanA3SFJzSzRlTXpkaDctcXVhbVRfSExFNXVzTmgtcU5WZlJXLXdMLURKZldSWnhIZXZzc0ZPZGZYTG1WLUhMV3VOb0lnb1luQ3VLUk13dGZsVXBCOHJBQU9mdnJJR0VackdTUU1KTFNhNmJWc0pZUmRqTU9OY3dDMFhFV1VOWUotVnNlcFZzNmx0U2M4NDM5Wk1KRkZqRW1TTXNxcERBZGZ6QTR5a2VuWlE3V3g4QTBObTh4NVhXZVBzZEVaMkVkNjJ1dngwWTZ3dDJvUjNXTHo4M2MyVUdDY1pjLXo3amhXM3FQVWp5elR5NWstcTFSR09LMTVzM2EtMHBSazhLYWpQdWJ6S2VvbkNMMjY4czhTUG1yMnVHZTBpU1VfSDdNVThvajRhVjdiMVhYYVZrTUxGS0tUaThB0gHEAkFVX3lxTE10VzRPWkhuVElJMEF5Q3ZoN0xhYVBVQUJ6Si0yUFBGVDM5TTVIV3VQV0tFTFRDMU5ZYUo3SV9kc01PUTdmOUFRU2RwLUVnaFFOeEpZTUU1eWFqdkFDdzN0RGY5T3pTTTBqVGNYamU0TDNVaDVDLUE5dEN3MWU0MFJkWGZuV2RVcHA3aU81Rkpud2RFOVlZTUlNU2FfVWVKX1d3RjBneFRmU0ZHOFpJNzlCX0NtalZXV2hENFlJYm81ekZoUUx0Y3B1YXVLZXQ4WGZfVHMtdGNiWjRGYU9xdDc0NUphZktSOWFDRmdEOFZCb25QcW1PdnVmTlkwdnd5S0NyQnB0QWpNeHJua1JqazBLZUl0MEFrM1JpTUNMOWZsYXZHenhPbDZVMExkcnNWcmFVeWlTVzZMYTNWX1dDWkVKZ3FENQ?oc=5",
+      "published": "2026-04-28 23:44",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피, 장중 6,700선 돌파하며 시가총액 세계 8위 기록",
-      "display_title": "코스피, 장중 6,700선 돌파하며 시가총액 세계 8위 기록",
-      "original_title": "코스피, 장중 6,700선도 돌파…\"시총 세계 8위\" - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "[단독] 삼성SDI, 아마존 데이터센터 배터리 공급 최종 협상 중",
+      "display_title": "[단독] 삼성SDI, 아마존 데이터센터 배터리 공급 최종 협상 중",
+      "original_title": "[Exclusive] Samsung SDI, Amazon in final talks for data center battery supply - upi.com",
       "summary": [
-        "코스피 지수가 장중 6,700선을 돌파하며 새로운 역사적 고점을 기록, 시가총액 기준 세계 8위로 올라섰다.",
-        "글로벌 기술주 강세와 반도체 등 국내 주력 산업의 실적 기대감, 그리고 외국인 투자자들의 매수세가 코스피 상승을 견인하는 주요 요인으로 분석된다.",
-        "코스피의 연이은 최고치 경신은 국내 증시의 긍정적인 흐름을 시사하며, 주요 섹터 및 선도 기업에 대한 지속적인 관심을 요구한다."
+        "삼성SDI가 글로벌 클라우드 기업인 아마존의 데이터센터에 배터리를 공급하기 위한 최종 협상을 진행하고 있습니다.",
+        "이는 인공지능(AI) 및 클라우드 산업 성장에 따른 데이터센터 구축 확대로 에너지 저장 시스템(ESS) 시장이 확대되고 있음을 보여줍니다.",
+        "삼성SDI의 협상 성공 시 국내 이차전지 및 ESS 관련 기업들의 동반 성장이 기대되며, 새로운 성장 동력을 확보할 수 있습니다."
       ],
-      "summary_text": "코스피 지수가 장중 6,700선을 돌파하며 새로운 역사적 고점을 기록, 시가총액 기준 세계 8위로 올라섰다. 글로벌 기술주 강세와 반도체 등 국내 주력 산업의 실적 기대감, 그리고 외국인 투자자들의 매수세가 코스피 상승을 견인하는 주요 요인으로 분석된다. 코스피의 연이은 최고치 경신은 국내 증시의 긍정적인 흐름을 시사하며, 주요 섹터 및 선도 기업에 대한 지속적인 관심을 요구한다.",
-      "description": "코스피 지수가 장중 6,700선을 돌파하며 사상 최고치를 경신했고, 이로 인해 국내 증시의 시가총액이 세계 8위 수준에 도달했다.",
-      "category": "증시·금리",
+      "summary_text": "삼성SDI가 글로벌 클라우드 기업인 아마존의 데이터센터에 배터리를 공급하기 위한 최종 협상을 진행하고 있습니다. 이는 인공지능(AI) 및 클라우드 산업 성장에 따른 데이터센터 구축 확대로 에너지 저장 시스템(ESS) 시장이 확대되고 있음을 보여줍니다. 삼성SDI의 협상 성공 시 국내 이차전지 및 ESS 관련 기업들의 동반 성장이 기대되며, 새로운 성장 동력을 확보할 수 있습니다.",
+      "description": "삼성SDI가 글로벌 클라우드 기업 아마존 웹 서비스(AWS) 데이터센터에 공급할 배터리에 대한 최종 협상을 진행 중인 것으로 알려졌습니다.",
+      "category": "기업·산업",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "반도체, IT, 2차전지, 금융",
+      "related_sector": "이차전지, ESS, 데이터센터",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "NAVER"
+        "삼성SDI",
+        "LG에너지솔루션",
+        "SK이노베이션"
       ],
       "investment_view": "관심",
-      "investment_reason": "코스피가 최고치를 경신하며 국내 증시의 펀더멘털 개선과 성장 기대감이 반영되고 있어, 주요 성장 섹터에 대한 투자 기회를 탐색할 필요가 있다.",
-      "key_signal": "코스피의 추가 상승 동력을 확인하기 위해 외국인 및 기관 투자자의 매매 동향과 주요 기업의 실적 발표를 면밀히 주시해야 한다.",
+      "investment_reason": "삼성SDI의 아마존 데이터센터 배터리 공급은 이차전지 산업의 새로운 성장 동력을 제시하며, 국내 관련 기업들에 대한 기대감을 높이기 때문입니다.",
+      "key_signal": "삼성SDI와 아마존 간의 최종 계약 체결 여부 및 계약 규모, 그리고 데이터센터용 ESS 시장의 성장 속도를 주목해야 합니다.",
       "keywords": [
-        "코스피",
-        "사상 최고치",
-        "시가총액",
-        "국내 증시",
-        "외국인 투자"
+        "삼성SDI",
+        "아마존",
+        "데이터센터",
+        "배터리",
+        "ESS"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zQzA1cUZqLWI2WUtnVFowemdRMDBzbGR5NThidmV0QzZkblJhdTZwaXZ1UzNTc0JCZWF6a1RFOXhvQmtFa0RiUTd4VjBqeXNyaHRncXE0TE45NUNyTVAzbjZEZDVnR0hnNlE?oc=5",
-      "published": "2026-04-28 17:58",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbExvcHBIRWd6N05rT0dlQXJlYnFFekd0M0tsWnJjSlJER2hfQkNsVGtNODR3cnFYLWEtNnk5TmFPTGxaWTl6X1dPZzZGX1VNUVZDLXpPS0k0NThYR3pfQl9oRzlDWi01WmhZU2lzX2E5dlZPaEVjVFpCTGh4ZExOM19xQVlHS3BpWk5haGtCbmdMNENNRjIxM0pQNVRXVjc2SFRBWEpfNlBjaFlwRllV0gG0AUFVX3lxTE1zM3R4S0ZOOGtFNmZWMXJ0WENtZXNkNmluUFNCUk5laVBkRnJJcVUzbEUxVWtVMnljcjhqYlotWGZLWFM5bUVxWnhodDhsRUNtMFBUQm5TTjBseHBrTDAxQzYtNFZrX0FzWUJ2UktIbDBsMDJCUGxSZUFkUmlsUXFFXzZwRXZvWTFrYWhORFhDc0lSdW5XeHpGdWQ5LTJmTFJqTGpJT043VGRHM0IyYkpUTWRDbA?oc=5",
+      "published": "2026-04-29 05:28",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "AI 주식 하락과 유가 상승, 미국 증시 압박",
+      "display_title": "AI 주식 하락과 유가 상승, 미국 증시 압박",
+      "original_title": "Sinking AI stocks and rising oil prices weigh on Wall Street - WRAL",
+      "summary": [
+        "최근 AI 관련 기술주들의 하락세와 국제 유가 상승이 미국 증시에 하방 압력을 가하고 있습니다.",
+        "기술주 전반의 조정 가능성과 인플레이션 우려가 투자 심리를 위축시키고 있으며, 특히 AI 관련주의 변동성이 확대되고 있습니다.",
+        "AI 관련주 비중이 높은 투자자들은 포트폴리오 점검이 필요하며, 유가 변동성이 국내 증시에 미칠 영향에 주의해야 합니다."
+      ],
+      "summary_text": "최근 AI 관련 기술주들의 하락세와 국제 유가 상승이 미국 증시에 하방 압력을 가하고 있습니다. 기술주 전반의 조정 가능성과 인플레이션 우려가 투자 심리를 위축시키고 있으며, 특히 AI 관련주의 변동성이 확대되고 있습니다. AI 관련주 비중이 높은 투자자들은 포트폴리오 점검이 필요하며, 유가 변동성이 국내 증시에 미칠 영향에 주의해야 합니다.",
+      "description": "인공지능(AI) 관련 주식의 하락세와 국제 유가 상승이 월스트리트 투자 심리에 부담을 주고 있습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "반도체, IT, 정유",
+      "related_stocks": [
+        "SK하이닉스",
+        "삼성전자",
+        "S-Oil"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "AI 기술주 조정과 유가 상승은 글로벌 증시 전반에 부정적 영향을 미치며 국내 관련 업종에도 파급될 수 있기 때문입니다.",
+      "key_signal": "AI 기술주의 추가 조정 여부와 국제 유가 흐름을 주시해야 합니다.",
+      "keywords": [
+        "AI 주식",
+        "유가 상승",
+        "월스트리트",
+        "증시 압박",
+        "기술주"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeERaOXhWaE1OdmtuSGd5TGhxd1I2bXN2SDZCZTJBNnBiRFJ4dG9FQlo0Y29Mb3RTQ2xWVTE3LVBfa000dTdmQmxZZDN2ek83WmIwd25GYTNvYTVUQzBRMnJ5eDJoSzFPd0JsMEh1YWxTa3dzQnIwOWRYYUtFRUhGSzFRR0pwbXZ6R1JxREdlVHJoUG1IaFpjYmFTT3FQWnJ3emFwRHRPQW5fNVc2WFA2SHloOA?oc=5",
+      "published": "2026-04-29 07:09",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 4,
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "한국은행, 중동 리스크로 기준금리 동결 결정... '물가 및 성장 불확실성 재확인'",
-      "display_title": "한국은행, 중동 리스크로 기준금리 동결 결정... '물가 및 성장 불확실성 재확인'",
-      "original_title": "금통위, 중동 리스크에 금리 동결 선택…“물가·성장 불확실성 확인 필요” - 산경투데이",
+      "title": "5년 뒤 중국 반도체 기술 한국 추격... 슈퍼 사이클 안주 말고 체질 개선해야",
+      "display_title": "5년 뒤 중국 반도체 기술 한국 추격... 슈퍼 사이클 안주 말고 체질 개선해야",
+      "original_title": "\"반도체 기술 5년 뒤 중국 다 쫓아온다…슈퍼 사이클 안주 말고 체질 개선을\" - 네이트",
       "summary": [
-        "한국은행 금융통화위원회가 중동 지역의 지정학적 리스크 증대를 이유로 기준금리 동결을 결정했다.",
-        "고유가 및 공급망 불안정성 증가로 인한 물가 상승 압력과 국내외 경기 회복 불확실성이 복합적으로 작용하여 금리 인하에 대한 신중론이 우세했다.",
-        "금리 동결 기조는 유지되겠지만, 중동 정세에 따라 국제 유가 및 환율 변동성이 커질 수 있어 국내 시장의 불확실성이 증대될 수 있다."
+        "국내 반도체 기술이 5년 내 중국에 추격당할 수 있다는 경고와 함께, 현재의 슈퍼 사이클에 안주하지 말고 체질 개선이 시급하다는 지적이 나왔습니다.",
+        "이는 장기적인 관점에서 한국 반도체 산업의 경쟁력 유지를 위한 기술 초격차 확보와 신사업 발굴의 중요성을 강조합니다.",
+        "국내 반도체 기업들은 기술 투자와 인력 양성에 더욱 집중하고, 정부의 적극적인 지원 정책이 필요하며, 투자자들은 기업들의 장기 전략을 면밀히 살펴야 합니다."
       ],
-      "summary_text": "한국은행 금융통화위원회가 중동 지역의 지정학적 리스크 증대를 이유로 기준금리 동결을 결정했다. 고유가 및 공급망 불안정성 증가로 인한 물가 상승 압력과 국내외 경기 회복 불확실성이 복합적으로 작용하여 금리 인하에 대한 신중론이 우세했다. 금리 동결 기조는 유지되겠지만, 중동 정세에 따라 국제 유가 및 환율 변동성이 커질 수 있어 국내 시장의 불확실성이 증대될 수 있다.",
-      "description": "한국은행 금융통화위원회는 중동 지역의 지정학적 리스크를 고려하여 기준금리를 동결했으며, 물가와 성장에 대한 불확실성을 추가적으로 확인할 필요가 있다고 밝혔다.",
-      "category": "국내 거시경제",
+      "summary_text": "국내 반도체 기술이 5년 내 중국에 추격당할 수 있다는 경고와 함께, 현재의 슈퍼 사이클에 안주하지 말고 체질 개선이 시급하다는 지적이 나왔습니다. 이는 장기적인 관점에서 한국 반도체 산업의 경쟁력 유지를 위한 기술 초격차 확보와 신사업 발굴의 중요성을 강조합니다. 국내 반도체 기업들은 기술 투자와 인력 양성에 더욱 집중하고, 정부의 적극적인 지원 정책이 필요하며, 투자자들은 기업들의 장기 전략을 면밀히 살펴야 합니다.",
+      "description": "국내 반도체 전문가들은 현재의 슈퍼 사이클에 안주하지 않고 5년 내 중국 반도체 기술이 한국을 상당 부분 추격할 것에 대비해 체질 개선이 시급하다고 경고했습니다.",
+      "category": "기업·산업",
       "importance": 9,
       "market_impact": "중립",
-      "related_sector": "금융, 에너지, 물류, 건설",
+      "related_sector": "반도체, 반도체 장비, 소재",
       "related_stocks": [
-        "KB금융",
-        "GS",
-        "HMM"
+        "삼성전자",
+        "SK하이닉스",
+        "DB하이텍"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 금리 동결 기조와 함께 중동발 지정학적 리스크가 물가와 경제 성장에 미칠 영향을 지속적으로 모니터링하여 투자 전략에 반영해야 하기 때문이다.",
-      "key_signal": "중동 사태의 추가적인 전개 양상과 국제 유가, 그리고 원/달러 환율 변동이 향후 한은의 스탠스에 어떤 변화를 가져올지 주목해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 핵심 산업인 반도체 기술의 장기적인 경쟁력 약화 우려는 국내 증시의 투자 매력도를 낮출 수 있기 때문입니다.",
+      "key_signal": "국내 반도체 기업들의 연구 개발 투자 현황, 정부의 반도체 산업 지원 정책, 그리고 중국 반도체 기술 발전 속도를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "금통위",
-        "금리 동결",
-        "중동 리스크",
-        "물가 불확실성",
-        "한국은행"
+        "반도체 기술",
+        "중국 추격",
+        "슈퍼 사이클",
+        "체질 개선",
+        "기술 초격차"
       ],
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xV194S21Ba0RTc1BqRE12Mm1sNkZJWkxabmExZnBsZ3JDQnlsZW5RS0lEZkU5cF9GWk1fdUN2OHBYSnZ3b2ZUWk9vVFVoUzRnMURNbEJRbWgydjFEMEE4VVotNGQzS2w0TFhCdWsybTHSAXRBVV95cUxQbmJRUVBYNHQ0MlRmNE9JUWVKMXlRc3JOMzFRNWxWb0lBUFotYjFzOERIamR6ZFdIbTAyYlZRbGVKSVU2MHBsN3MtSGE1S1VMejBJaG9LeGJRLTRYN3h2OVdzdHB5OEJIa0RTMzJSeU5DREZyWQ?oc=5",
-      "published": "2026-04-28 17:10",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EckRPUTJ0UkVMR2FQbmZwM0hKNmVCVDBvbkxTaFQ5N1RMTGxVTUk5M3A2S0h2WWZrblAtR1BGWmNRQ2pGMGhkUzlSNjlyRnlYVmVtemgyYXhxTGFRQjFsT3FMcjkxU2JqdFVSYlp6Z0lJTWdvd2JCbA?oc=5",
+      "published": "2026-04-29 04:30",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -150,38 +192,38 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시, S&P 500 사상 최고치 경신하며 강보합 마감; 기술 대기업 강세",
-      "display_title": "미국 증시, S&P 500 사상 최고치 경신하며 강보합 마감; 기술 대기업 강세",
+      "title": "월요일 미국 증시, S&P 500 사상 최고치 마감 속 기술 대기업 강세; 호르무즈 해협 긴장으로 유가 상승",
+      "display_title": "월요일 미국 증시, S&P 500 사상 최고치 마감 속 기술 대기업 강세; 호르무즈 해협 긴장으로 유가 상승",
       "original_title": "U.S. stocks fluctuated narrowly at record highs on Monday; S&P 500 edged up 0.12% to close at a new record high, with the Tech Giants outperforming the broader market. The Hormuz Strait standoff pushed oil prices higher, putting pressure on gold. - Bitget",
       "summary": [
-        "S&P 500 지수가 0.12% 상승하며 또 다시 사상 최고치를 경신했고, 기술 대기업들이 시장을 주도했다.",
-        "미국 경제의 견조함과 기업 실적 기대감 속에서 기술주 중심의 상승세가 지속되고 있으나, 호르무즈 해협 긴장으로 유가 상승 및 금 가격 압박 등 지정학적 리스크도 상존한다.",
-        "글로벌 증시 강세 흐름 속 기술주 중심의 투심은 긍정적이나, 중동발 지정학적 리스크가 상품 시장에 미치는 영향을 주시해야 한다."
+        "월요일 미국 증시에서 S&P 500 지수가 소폭 상승하며 사상 최고치를 경신했고, 기술 대기업들이 시장 상승을 견인했습니다.",
+        "중동 호르무즈 해협의 지정학적 긴장이 고조되며 국제 유가 상승세가 이어졌고, 이는 금 가격에 부담을 주었습니다.",
+        "기술주 강세는 긍정적이나, 유가 상승 압력은 인플레이션 우려를 지속시키며 시장 변동성을 키울 수 있으므로 투자 시 두 가지 요소를 종합적으로 고려해야 합니다."
       ],
-      "summary_text": "S&P 500 지수가 0.12% 상승하며 또 다시 사상 최고치를 경신했고, 기술 대기업들이 시장을 주도했다. 미국 경제의 견조함과 기업 실적 기대감 속에서 기술주 중심의 상승세가 지속되고 있으나, 호르무즈 해협 긴장으로 유가 상승 및 금 가격 압박 등 지정학적 리스크도 상존한다. 글로벌 증시 강세 흐름 속 기술주 중심의 투심은 긍정적이나, 중동발 지정학적 리스크가 상품 시장에 미치는 영향을 주시해야 한다.",
-      "description": "월요일 미국 증시는 사상 최고치 부근에서 좁은 폭으로 등락했으며, S&P 500 지수는 0.12% 상승하며 새로운 기록을 세웠습니다. 기술 대기업들이 시장 전반을 상회하는 성과를 보였습니다. 호르무즈 해협의 긴장은 유가를 상승시키고 금 가격에 압박을 가했습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "월요일 미국 증시에서 S&P 500 지수가 소폭 상승하며 사상 최고치를 경신했고, 기술 대기업들이 시장 상승을 견인했습니다. 중동 호르무즈 해협의 지정학적 긴장이 고조되며 국제 유가 상승세가 이어졌고, 이는 금 가격에 부담을 주었습니다. 기술주 강세는 긍정적이나, 유가 상승 압력은 인플레이션 우려를 지속시키며 시장 변동성을 키울 수 있으므로 투자 시 두 가지 요소를 종합적으로 고려해야 합니다.",
+      "description": "월요일 미국 증시가 사상 최고치 부근에서 좁게 등락했으며, S&P 500 지수는 0.12% 상승해 신고가를 경신했고, 기술 대기업들이 시장을 주도했습니다. 호르무즈 해협 긴장으로 유가는 상승했으며 금 가격에 압박을 가했습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "기술, 반도체, 에너지",
+      "market_impact": "중립",
+      "related_sector": "IT, 기술주, 정유, 방산",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
-        "SK이노베이션"
+        "S-Oil"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 증시의 사상 최고치 경신과 기술주 강세는 국내 관련 섹터에 대한 투자 심리에 긍정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "중동 정세에 따른 유가 변동이 인플레이션 및 금리 인하 기대감에 미칠 영향을 지속적으로 모니터링해야 한다.",
+      "investment_reason": "기술 대기업의 지속적인 강세는 관련 국내 기업에도 긍정적인 영향을 줄 수 있으나, 지정학적 리스크로 인한 유가 상승은 시장 전반에 부담을 줄 수 있기 때문입니다.",
+      "key_signal": "미국 기술주 대기업의 실적 발표와 호르무즈 해협을 포함한 중동 지역의 지정학적 상황 변화를 면밀히 주시해야 합니다.",
       "keywords": [
         "미국 증시",
         "S&P 500",
-        "기술주",
-        "사상 최고치",
-        "유가"
+        "기술 대기업",
+        "유가 상승",
+        "지정학적 리스크"
       ],
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKNXdtMFZRR0QtalAxZm9MOWFWU3NlczRFbDBTc291WU0yMGw4Q25ybS0xOHY4YW9kaXN5NDRMcENfZ1lqaGFGNl9uQ2VVeVFmQzZKMUVYN1M4eVVjd3hnTWlnONIBY0FVX3lxTFBKNXdtMFZRR0QtalAxZm9MOWFWU3NlczRFbDBTc291WU0yMGw4Q25ybS0xOHY4YW9kaXN5NDRMcENfZ1lqaGFGNl9uQ2VVeVFmQzZKMUVYN1M4eVVjd3hnTWlnOA?oc=5",
       "published": "2026-04-28 09:36",
@@ -192,85 +234,43 @@
       }
     },
     {
-      "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "나스닥, S&P 500 또다시 사상 최고치 경신... 마이크론, 엔비디아, 알파벳 등 기술주 강세",
-      "display_title": "나스닥, S&P 500 또다시 사상 최고치 경신... 마이크론, 엔비디아, 알파벳 등 기술주 강세",
-      "original_title": "Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners - Investor's Business Daily",
-      "summary": [
-        "나스닥과 S&P 500 지수가 연이어 사상 최고치를 경신했으며, 마이크론, 엔비디아, 알파벳 등 주요 기술주가 강세를 보였다.",
-        "AI 산업의 성장 기대감과 기업들의 견조한 실적 발표가 기술주 중심의 시장 상승을 이끌고 있으며, 이는 글로벌 투자 심리에 긍정적 영향을 미치고 있다.",
-        "글로벌 기술주 랠리가 지속됨에 따라 국내 관련 반도체 및 IT 기업들의 실적 개선과 주가 상승 기대감이 커질 수 있다."
-      ],
-      "summary_text": "나스닥과 S&P 500 지수가 연이어 사상 최고치를 경신했으며, 마이크론, 엔비디아, 알파벳 등 주요 기술주가 강세를 보였다. AI 산업의 성장 기대감과 기업들의 견조한 실적 발표가 기술주 중심의 시장 상승을 이끌고 있으며, 이는 글로벌 투자 심리에 긍정적 영향을 미치고 있다. 글로벌 기술주 랠리가 지속됨에 따라 국내 관련 반도체 및 IT 기업들의 실적 개선과 주가 상승 기대감이 커질 수 있다.",
-      "description": "나스닥과 S&P 500 지수가 또다시 사상 최고치를 경신했으며, 마이크론, 엔비디아, 샌디스크, 알파벳과 같은 주요 기술 기업들이 큰 폭으로 상승하며 시장을 주도했다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, 클라우드",
-      "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 기술주, 특히 AI 관련 기업들의 강세는 국내 반도체 및 IT 기업들의 실적과 주가에 긍정적인 영향을 미칠 가능성이 크기 때문이다.",
-      "key_signal": "주요 기술 기업들의 실적 발표와 AI 산업의 최신 트렌드, 그리고 이에 따른 국내 관련 기업들의 수혜 여부를 지속적으로 파악해야 한다.",
-      "keywords": [
-        "나스닥",
-        "S&P 500",
-        "사상 최고치",
-        "기술주",
-        "AI"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUwyMm44ZUQ2bkpGc1IzelF4QW10WVJFZ2JxdGM3bVRpbzd5WWhlNGl2a25Vd0Nkc004TFRsd2lkY0UtUTVqaS1tRXhYS2ZqaHE1dkItTTRnNzRPbG9SclNfeE9SZHdTcWZ2V2hJVnZiNFNLYktJSVVNb2MtbjF2VkZKUUlrODBPWnZrakw1UWRUaVdjWXpjZDBzVDhjM3NIUmx2T09nT21qUTQ?oc=5",
-      "published": "2026-04-28 11:13",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "아시아-태평양 증시 혼조세 속 코스피 또 다시 사상 최고치 경신",
-      "display_title": "아시아-태평양 증시 혼조세 속 코스피 또 다시 사상 최고치 경신",
-      "original_title": "Asia-Pacific Markets Mixed; KOSPI Hits New High Again While Nikkei Pulls Back Funds - News Content - AASTOCKS.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "고물가 시대, 위축된 소비 심리 회복 가능성은?",
+      "display_title": "고물가 시대, 위축된 소비 심리 회복 가능성은?",
+      "original_title": "고물가 시대, 위축된 소비 심리 회복될까? : 경제 - 재경일보",
       "summary": [
-        "코스피 지수가 또다시 사상 최고치를 경신하며 강세를 보였으나, 아시아-태평양 전반의 증시는 혼조 양상을 나타냈다.",
-        "글로벌 기술주 강세와 국내 기업 실적 기대감이 코스피 상승을 견인하는 것으로 보이며, 닛케이 지수 조정은 차익 실현 매물 또는 투자 심리 변화 때문으로 해석된다.",
-        "국내 증시의 독자적인 강세는 긍정적이나, 주변국 증시와의 차별화 양상과 외국인 자금 흐름을 면밀히 관찰해야 한다."
+        "지속되는 고물가로 인해 국내 소비 심리가 위축되고 있으며, 그 회복 여부에 대한 논의가 활발합니다.",
+        "소비 심리 회복은 국내 내수 경기 활성화와 밀접한 관련이 있어 경제 전반에 중요한 영향을 미칩니다.",
+        "정부의 물가 안정화 정책과 가계 소득 증대 방안 등이 소비 심리 개선의 핵심 요소가 될 것이며, 관련 유통 및 소비재 기업들의 실적에 영향을 줄 것입니다."
       ],
-      "summary_text": "코스피 지수가 또다시 사상 최고치를 경신하며 강세를 보였으나, 아시아-태평양 전반의 증시는 혼조 양상을 나타냈다. 글로벌 기술주 강세와 국내 기업 실적 기대감이 코스피 상승을 견인하는 것으로 보이며, 닛케이 지수 조정은 차익 실현 매물 또는 투자 심리 변화 때문으로 해석된다. 국내 증시의 독자적인 강세는 긍정적이나, 주변국 증시와의 차별화 양상과 외국인 자금 흐름을 면밀히 관찰해야 한다.",
-      "description": "아시아-태평양 증시는 혼조세를 보인 가운데, 한국의 코스피 지수는 다시 한번 새로운 고점을 기록한 반면 일본 닛케이 지수는 자금이 이탈하며 조정을 받았다.",
-      "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 2차전지, 기술주",
+      "summary_text": "지속되는 고물가로 인해 국내 소비 심리가 위축되고 있으며, 그 회복 여부에 대한 논의가 활발합니다. 소비 심리 회복은 국내 내수 경기 활성화와 밀접한 관련이 있어 경제 전반에 중요한 영향을 미칩니다. 정부의 물가 안정화 정책과 가계 소득 증대 방안 등이 소비 심리 개선의 핵심 요소가 될 것이며, 관련 유통 및 소비재 기업들의 실적에 영향을 줄 것입니다.",
+      "description": "고물가 기조가 지속되는 가운데 위축된 국내 소비 심리가 과연 회복될 수 있을지에 대한 경제계의 관심이 높아지고 있습니다.",
+      "category": "국내 거시경제",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "유통, 소비재, 서비스",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "LG에너지솔루션"
+        "신세계",
+        "롯데쇼핑",
+        "이마트"
       ],
-      "investment_view": "관심",
-      "investment_reason": "코스피 사상 최고치 경신은 국내 주식 시장에 대한 투자 심리를 높이고 주요 성장 산업에 대한 기대를 반영하기 때문이다.",
-      "key_signal": "외국인 및 기관 투자자의 코스피 매매 동향과 주요 산업 섹터의 실적 발표를 주시해야 한다.",
+      "investment_view": "중립",
+      "investment_reason": "국내 소비 심리 회복은 내수 기업들의 실적과 직결되지만, 고물가 상황이 지속될 경우 투자 심리에 부정적인 영향을 줄 수 있기 때문입니다.",
+      "key_signal": "소비자물가지수, 소비자심리지수, 소매판매액 등 관련 지표의 변화와 정부의 물가 안정 정책을 주시해야 합니다.",
       "keywords": [
-        "코스피",
-        "아시아 증시",
-        "사상 최고치",
-        "닛케이",
-        "기술주"
+        "고물가",
+        "소비 심리",
+        "내수 경기",
+        "물가 안정",
+        "소비재"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdmZLdlpZeVF2OGJjTW93ZmJvZUlYd0owei1XYjVIVC1FNU9mdkZ0S2NORkZCTlpleEcwV1ViUDdadXRSS0NUYWpkbERaQjhjRkl1M2I2aEVENzRSZGJrcFJKczRxdk51bl9GTlhUM1BxSHRkamhjd2JzUTBVNmpQa0Y1aFZxaERjZVE?oc=5",
-      "published": "2026-04-28 13:54",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtV29PNTlnNEYyV0c5YlQxVE5WNTlQUmRzWnJCX2NzeDMwalB2WDZQaUVUVUlGU0dYQ2Zoa3BBb3doR2ZheTYtSE5B?oc=5",
+      "published": "2026-04-29 07:02",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -279,71 +279,69 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "삼성SDI",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "이차전지",
       "opinion": "관심",
-      "reason": "코스피 사상 최고치 경신과 미국 및 글로벌 증시의 기술주 강세가 국내 반도체 및 IT 기업들의 실적과 주가에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "reason": "아마존 데이터센터 배터리 공급 최종 협상 소식은 이차전지 산업의 새로운 성장 동력을 제시하며, 국내 관련 기업들에 대한 기대감을 높일 수 있습니다.",
       "check_points": [
-        "글로벌 반도체 수요 동향 및 재고 변화",
-        "AI 관련 기술 투자 및 신제품 출시 일정",
-        "환율 변동성 및 수출 환경 변화"
+        "아마존과의 최종 계약 체결 여부 및 계약 규모",
+        "글로벌 데이터센터 시장의 배터리 수요 동향",
+        "전반적인 이차전지 산업의 투자 심리 변화"
       ],
       "related_news_titles": [
-        "코스피, 장중 6,700선 돌파하며 시가총액 세계 8위 기록",
-        "미국 증시, S&P 500 사상 최고치 경신하며 강보합 마감; 기술 대기업 강세",
-        "나스닥, S&P 500 또다시 사상 최고치 경신... 마이크론, 엔비디아, 알파벳 등 기술주 강세"
+        "[단독] 삼성SDI, 아마존 데이터센터 배터리 공급 최종 협상 중"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "코스피의 사상 최고치 경신과 더불어 미국 증시에서 AI 관련 기술주, 특히 반도체 기업들의 강세가 국내 반도체 섹터 전반에 긍정적인 투자 심리를 유도하고 있습니다.",
+      "reason": "미국 S&P 500 사상 최고치 마감과 기술 대기업 강세 소식은 국내 대표 기술주에도 긍정적인 영향을 줄 수 있습니다. 다만, 나스닥 급락 및 AI 주식 조정, 중국 반도체 추격 우려 등 복합적인 요인으로 변동성에 유의해야 합니다.",
       "check_points": [
-        "고대역폭 메모리(HBM) 시장 내 경쟁력 및 점유율 변화",
-        "전방 산업(서버, 모바일)의 메모리 수요 회복 속도",
-        "주요 고객사의 반도체 주문량 및 재고 정책"
+        "미국 주요 기술 기업들의 주가 및 실적 발표",
+        "글로벌 반도체 시장의 수요 회복세 지속 여부",
+        "환율 변동 및 외국인 투자자 동향"
       ],
       "related_news_titles": [
-        "코스피, 장중 6,700선 돌파하며 시가총액 세계 8위 기록",
-        "미국 증시, S&P 500 사상 최고치 경신하며 강보합 마감; 기술 대기업 강세",
-        "나스닥, S&P 500 또다시 사상 최고치 경신... 마이크론, 엔비디아, 알파벳 등 기술주 강세"
+        "오늘 미국 증시: 나스닥 300포인트 이상 급락, S&P 500과 다우도 하락",
+        "AI 주식 하락과 유가 상승, 미국 증시 압박",
+        "5년 뒤 중국 반도체 기술 한국 추격... 슈퍼 사이클 안주 말고 체질 개선해야"
       ]
     },
     {
       "rank": 3,
-      "name": "NAVER",
+      "name": "S-Oil",
       "market": "KOSPI",
-      "sector": "IT",
+      "sector": "정유",
       "opinion": "관심",
-      "reason": "코스피 사상 최고치 경신과 함께 글로벌 증시에서 기술 및 AI 관련 기업들이 강세를 지속하는 흐름은 국내 대표 IT 플랫폼 기업인 NAVER에게도 긍정적인 투자 기회로 작용할 수 있습니다.",
+      "reason": "호르무즈 해협 긴장 고조로 인한 유가 상승은 정유 기업의 실적에 긍정적인 영향을 미칠 수 있습니다. 국제 유가의 상승 기조가 유지될 경우 실적 개선 기대감이 높아질 수 있습니다.",
       "check_points": [
-        "AI 기술 상용화 및 신규 서비스의 시장 반응",
-        "국내외 이커머스 시장 경쟁 심화 및 성장 전략",
-        "클라우드 및 콘텐츠 등 신사업 부문의 성장성"
+        "국제 유가(WTI, 브렌트유)의 추가 상승 여부",
+        "중동 지역의 지정학적 리스크 변화 추이",
+        "글로벌 정제마진 추이 및 공급망 안정성"
       ],
       "related_news_titles": [
-        "코스피, 장중 6,700선 돌파하며 시가총액 세계 8위 기록",
-        "나스닥, S&P 500 또다시 사상 최고치 경신... 마이크론, 엔비디아, 알파벳 등 기술주 강세"
+        "AI 주식 하락과 유가 상승, 미국 증시 압박",
+        "월요일 미국 증시, S&P 500 사상 최고치 마감 속 기술 대기업 강세; 호르무즈 해협 긴장으로 유가 상승"
       ]
     },
     {
       "rank": 4,
-      "name": "LG에너지솔루션",
+      "name": "신세계",
       "market": "KOSPI",
-      "sector": "2차전지",
-      "opinion": "관심",
-      "reason": "국내 코스피가 사상 최고치를 경신하며 증시 전반의 성장 기대감이 높아지는 가운데, 2차전지 산업은 미래 핵심 성장 동력으로 지속적인 시장의 관심을 받을 것으로 예상됩니다.",
+      "sector": "유통",
+      "opinion": "중립",
+      "reason": "고물가로 인해 위축되었던 소비 심리가 점진적으로 회복될 가능성을 주시해야 합니다. 국내 소비 심리 회복은 유통 업체의 실적에 직접적인 영향을 주지만, 고물가 상황의 지속 여부가 주요 변수가 될 수 있습니다.",
       "check_points": [
-        "글로벌 전기차 판매량 추이 및 완성차 업체의 배터리 수주 동향",
-        "배터리 소재 가격 변동성 및 원가 절감 노력",
-        "해외 생산기지 증설 계획 및 가동률 변화"
+        "국내 소비자 물가 지수 및 가계 소비 동향",
+        "정부의 내수 활성화 정책 발표 여부",
+        "주요 오프라인 유통 채널(백화점, 대형마트 등)의 매출 회복세"
       ],
       "related_news_titles": [
-        "아시아-태평양 증시 혼조세 속 코스피 또 다시 사상 최고치 경신"
+        "고물가 시대, 위축된 소비 심리 회복 가능성은?"
       ]
     }
   ],
