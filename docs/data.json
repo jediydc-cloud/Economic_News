@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29 07:58",
-  "analysis_date": "2026-04-29",
+  "generated_at": "2026-04-30 07:58",
+  "analysis_date": "2026-04-30",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 증시가 기술주 조정과 유가 상승 압력으로 하락했습니다. 국내에서는 삼성SDI의 대형 수주 기대와 반도체 산업의 장기 경쟁력 강화가 주요 이슈로 부각됩니다. 고물가로 인한 소비 심리 위축도 지속되고 있습니다.",
-    "국내거시경제": "고물가 지속으로 국내 소비 심리가 위축된 상황이며, 내수 경기 회복을 위해서는 정부의 물가 안정 및 가계 소득 증대 정책이 중요합니다. 이는 유통 및 소비재 기업들의 실적에 영향을 미칠 전망입니다.",
-    "글로벌경제": "미국 증시가 AI 기술주의 하락과 국제 유가 상승의 압박을 받으며 전반적인 하락세를 보였습니다. 중동발 지정학적 긴장이 유가 상승을 부추기며 인플레이션 우려를 심화시키고 있습니다.",
-    "증시금리": "오늘 미국 나스닥 지수가 300포인트 이상 급락하며 기술주 중심의 시장 조정이 나타났고, S&P 500과 다우 지수도 하락했습니다. AI 관련주 변동성 확대와 유가 상승이 시장에 하방 압력을 가했습니다.",
+    "총평": "미 증시는 연준의 불확실한 통화정책과 유가 급등, 지정학적 리스크 속 혼조세를 보이며 전반적인 하락 압력을 받았습니다. 국내 증시는 AI 기대감에 힘입어 상승했으나, 반도체 편중 성장과 막대한 AI 투자 비용 등 구조적 과제도 부각되었습니다.",
+    "국내거시경제": "반도체 산업의 호황이 증시를 이끌고 있지만, 실물 경제 및 체감 경기는 여전히 냉랭하여 '반도체 착시' 현상이 심화되고 있습니다. 특정 산업에 편중된 성장으로 인한 불균형을 경계해야 합니다.",
+    "글로벌경제": "연방준비제도(Fed)의 정책 불확실성과 국제 유가 상승 압력, 이란 핵협상 지연 등 지정학적 리스크가 글로벌 경제의 주요 불안 요인으로 작용하고 있습니다.",
+    "증시금리": "미 증시는 연준의 입장 차이와 유가 급등, 혼조된 기업 실적 등으로 다우지수가 하락하며 혼조세를 보였습니다. 국내 코스피는 AI 기대감에 상승했으나, AI 기술의 막대한 투자 비용 부담도 함께 부각되었습니다.",
     "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "삼성SDI가 아마존 데이터센터 배터리 공급 최종 협상을 진행하며 이차전지 및 ESS 시장 성장에 대한 기대감을 높이고 있습니다. 한편, 국내 반도체 산업은 중국의 기술 추격에 대비한 체질 개선과 초격차 기술 확보가 시급하다는 지적이 나왔습니다.",
-    "오늘의투자시사점": "미국 기술주 조정에 대비해 국내 기술주/성장주 비중을 점검하고 방어 전략을 고려하십시오. 삼성SDI의 협상 진전 여부와 이차전지/ESS 관련 기업에 대한 관심을 유지하고, 반도체 기업들의 장기 기술 투자 전략을 면밀히 살펴보십시오. 유가 상승으로 인한 인플레이션 우려와 AI 관련주 변동성에 주의가 필요합니다.",
-    "오늘의한줄": "미국 기술주 조정과 유가 상승 압력 속, 국내 기업별 이슈와 산업 구조 변화에 주목하며 포트폴리오 방어 전략을 강화할 때입니다."
+    "기업산업": "해외 암호화폐 관련주 실적 부진이 있었으며, AI 산업은 미래 성장 동력이지만 고성능 반도체 및 인프라 구축에 따르는 막대한 투자 비용이 기업의 재정 부담으로 작용할 수 있습니다. 국내 반도체 산업은 여전히 견조합니다.",
+    "오늘의투자시사점": "글로벌 통화정책 방향과 유가 변동성, 지정학적 리스크를 면밀히 주시해야 합니다. 국내 AI 관련주는 단순한 성장 기대감보다는 실제 수익성과 투자 효율성을 바탕으로 선별적 접근이 중요합니다. 반도체 외 다른 산업의 동반 성장 가능성도 주목해야 합니다.",
+    "오늘의한줄": "글로벌 불확실성 속 국내 증시는 AI 기대감과 함께 '반도체 착시' 및 투자 비용 부담이라는 이면을 동시에 보여주고 있습니다."
   },
   "top_news": [
     {
@@ -28,37 +28,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 미국 증시: 나스닥 300포인트 이상 급락, S&P 500과 다우도 하락",
-      "display_title": "오늘 미국 증시: 나스닥 300포인트 이상 급락, S&P 500과 다우도 하락",
-      "original_title": "US stock market today: Why is Nasdaq crashing big today? Dow and S&P 500 slip as Nasdaq plunges over 300 p - The Economic Times",
+      "title": "미 증시 마감: 연준의 34년 만의 입장 차이와 유가 급등 속 다우 5거래일 연속 하락, 나스닥 소폭 상승; 암호화폐 관련주 실적 부진",
+      "display_title": "미 증시 마감: 연준의 34년 만의 입장 차이와 유가 급등 속 다우 5거래일 연속 하락, 나스닥 소폭 상승; 암호화폐 관련주 실적 부진",
+      "original_title": "U.S. Stock Market Close | The Fed’s biggest divergence in 34 years, coupled with surging oil prices, led to a marginal increase in the Nasdaq while the Dow fell for the fifth consecutive day; post-earnings declines were seen across cryptocurrency-related - 富途牛牛",
       "summary": [
-        "미국 나스닥 지수가 300포인트 이상 급락하며 기술주 중심의 시장 조정이 발생했고, 다우 및 S&P 500 또한 하락했습니다.",
-        "이는 인플레이션 우려, 금리 인상 가능성, 또는 특정 기술 기업의 실적 부진 등 여러 요인이 복합적으로 작용한 결과로 분석됩니다.",
-        "국내 기술주 및 성장주에 대한 투자 심리 위축 가능성이 있으므로, 투자 포트폴리오의 방어 전략을 고려하고 저가 매수 기회를 탐색해야 합니다."
+        "미 증시에서 다우지수는 연준의 입장 차이와 유가 급등 영향으로 5거래일 연속 하락했고, 나스닥은 소폭 상승하며 혼조세를 보였다.",
+        "연방준비제도(Fed)의 34년 만에 나타난 정책적 입장 차이가 시장에 불확실성을 가중시켰고, 국제 유가 상승은 인플레이션 압력을 높였다. 암호화폐 관련주는 실적 발표 이후 투자 심리가 위축되며 하락했다.",
+        "연준의 향후 통화정책 방향과 유가 변동성이 시장에 미치는 영향을 주시하며, 실적 발표가 집중되는 시기에는 개별 기업 실적에 대한 면밀한 분석이 필요하다."
       ],
-      "summary_text": "미국 나스닥 지수가 300포인트 이상 급락하며 기술주 중심의 시장 조정이 발생했고, 다우 및 S&P 500 또한 하락했습니다. 이는 인플레이션 우려, 금리 인상 가능성, 또는 특정 기술 기업의 실적 부진 등 여러 요인이 복합적으로 작용한 결과로 분석됩니다. 국내 기술주 및 성장주에 대한 투자 심리 위축 가능성이 있으므로, 투자 포트폴리오의 방어 전략을 고려하고 저가 매수 기회를 탐색해야 합니다.",
-      "description": "오늘 미국 증시에서 나스닥이 300포인트 이상 급락했으며, 다우와 S&P 500 지수도 하락세를 보였습니다.",
+      "summary_text": "미 증시에서 다우지수는 연준의 입장 차이와 유가 급등 영향으로 5거래일 연속 하락했고, 나스닥은 소폭 상승하며 혼조세를 보였다. 연방준비제도(Fed)의 34년 만에 나타난 정책적 입장 차이가 시장에 불확실성을 가중시켰고, 국제 유가 상승은 인플레이션 압력을 높였다. 암호화폐 관련주는 실적 발표 이후 투자 심리가 위축되며 하락했다. 연준의 향후 통화정책 방향과 유가 변동성이 시장에 미치는 영향을 주시하며, 실적 발표가 집중되는 시기에는 개별 기업 실적에 대한 면밀한 분석이 필요하다.",
+      "description": "미 증시 마감에서 연준의 34년 만의 입장 차이와 급등하는 유가가 다우지수를 5거래일 연속 하락시켰으며, 나스닥은 소폭 상승했습니다. 암호화폐 관련주들은 실적 발표 후 하락세를 보였습니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "IT, 반도체, 기술주",
+      "related_sector": "기술주, 에너지, 암호화폐",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "카카오"
+        "코인베이스"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 나스닥의 급락은 국내 기술주 및 성장주에 대한 투자 심리에 직접적인 악영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "나스닥 급락의 원인 파악과 기술주의 반등 여부, 그리고 국내 증시의 외국인 매도세 동향을 면밀히 관찰해야 합니다.",
+      "investment_reason": "연준의 정책 불확실성과 유가 상승 압력이 지속될 경우 전반적인 증시 하방 압력이 커질 수 있기 때문에 신중한 접근이 필요하다.",
+      "key_signal": "연준의 다음 통화정책 회의 결과와 국제 유가 동향을 통해 시장의 방향성을 예측해야 한다.",
       "keywords": [
-        "나스닥 급락",
-        "미국 증시",
-        "기술주 조정",
-        "투자 심리",
-        "인플레이션"
+        "미 증시",
+        "연준",
+        "유가 급등",
+        "나스닥",
+        "암호화폐"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOanA3SFJzSzRlTXpkaDctcXVhbVRfSExFNXVzTmgtcU5WZlJXLXdMLURKZldSWnhIZXZzc0ZPZGZYTG1WLUhMV3VOb0lnb1luQ3VLUk13dGZsVXBCOHJBQU9mdnJJR0VackdTUU1KTFNhNmJWc0pZUmRqTU9OY3dDMFhFV1VOWUotVnNlcFZzNmx0U2M4NDM5Wk1KRkZqRW1TTXNxcERBZGZ6QTR5a2VuWlE3V3g4QTBObTh4NVhXZVBzZEVaMkVkNjJ1dngwWTZ3dDJvUjNXTHo4M2MyVUdDY1pjLXo3amhXM3FQVWp5elR5NWstcTFSR09LMTVzM2EtMHBSazhLYWpQdWJ6S2VvbkNMMjY4czhTUG1yMnVHZTBpU1VfSDdNVThvajRhVjdiMVhYYVZrTUxGS0tUaThB0gHEAkFVX3lxTE10VzRPWkhuVElJMEF5Q3ZoN0xhYVBVQUJ6Si0yUFBGVDM5TTVIV3VQV0tFTFRDMU5ZYUo3SV9kc01PUTdmOUFRU2RwLUVnaFFOeEpZTUU1eWFqdkFDdzN0RGY5T3pTTTBqVGNYamU0TDNVaDVDLUE5dEN3MWU0MFJkWGZuV2RVcHA3aU81Rkpud2RFOVlZTUlNU2FfVWVKX1d3RjBneFRmU0ZHOFpJNzlCX0NtalZXV2hENFlJYm81ekZoUUx0Y3B1YXVLZXQ4WGZfVHMtdGNiWjRGYU9xdDc0NUphZktSOWFDRmdEOFZCb25QcW1PdnVmTlkwdnd5S0NyQnB0QWpNeHJua1JqazBLZUl0MEFrM1JpTUNMOWZsYXZHenhPbDZVMExkcnNWcmFVeWlTVzZMYTNWX1dDWkVKZ3FENQ?oc=5",
-      "published": "2026-04-28 23:44",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1pqcHo5bjBkdHZFWVU2Ri13TmZWMnY3S0JDNjNkYWNNTm1oNUNDZ29tcS1qSkkwS3BYYXBqWmNUeFI0ZkJfVWFTS0h0U2swd3lQZ0hNNWRFeHZFdzV0cUc1d0tFalhpN0dOS3VCZDNIQ0VfYWtMbHpHSlFoalF5UzROREE3NHppNTNLZVhFVDZaSFFmS19BUmZ3?oc=5",
+      "published": "2026-04-30 07:52",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +68,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "[단독] 삼성SDI, 아마존 데이터센터 배터리 공급 최종 협상 중",
-      "display_title": "[단독] 삼성SDI, 아마존 데이터센터 배터리 공급 최종 협상 중",
-      "original_title": "[Exclusive] Samsung SDI, Amazon in final talks for data center battery supply - upi.com",
+      "title": "연준 회의 및 유가 인플레이션 우려 속 다우지수 큰 폭 하락",
+      "display_title": "연준 회의 및 유가 인플레이션 우려 속 다우지수 큰 폭 하락",
+      "original_title": "Dow slides nearly 800 points after Fed meeting amid oil inflation - AOL.com",
       "summary": [
-        "삼성SDI가 글로벌 클라우드 기업인 아마존의 데이터센터에 배터리를 공급하기 위한 최종 협상을 진행하고 있습니다.",
-        "이는 인공지능(AI) 및 클라우드 산업 성장에 따른 데이터센터 구축 확대로 에너지 저장 시스템(ESS) 시장이 확대되고 있음을 보여줍니다.",
-        "삼성SDI의 협상 성공 시 국내 이차전지 및 ESS 관련 기업들의 동반 성장이 기대되며, 새로운 성장 동력을 확보할 수 있습니다."
+        "연방준비제도(Fed) 회의가 진행된 이후 유가 인플레이션 우려가 고조되면서 다우지수가 한때 큰 폭으로 하락하는 모습을 보였다.",
+        "연준의 통화정책 기조가 예상보다 매파적일 수 있다는 우려와 지속적인 유가 상승 압력이 복합적으로 작용하여 시장의 하방 압력을 높였다.",
+        "연준의 공식 발표 내용과 시장의 반응 간의 괴리를 주시하며, 유가 상승이 기업 실적 및 소비심리에 미치는 영향을 장기적인 관점에서 평가해야 한다."
       ],
-      "summary_text": "삼성SDI가 글로벌 클라우드 기업인 아마존의 데이터센터에 배터리를 공급하기 위한 최종 협상을 진행하고 있습니다. 이는 인공지능(AI) 및 클라우드 산업 성장에 따른 데이터센터 구축 확대로 에너지 저장 시스템(ESS) 시장이 확대되고 있음을 보여줍니다. 삼성SDI의 협상 성공 시 국내 이차전지 및 ESS 관련 기업들의 동반 성장이 기대되며, 새로운 성장 동력을 확보할 수 있습니다.",
-      "description": "삼성SDI가 글로벌 클라우드 기업 아마존 웹 서비스(AWS) 데이터센터에 공급할 배터리에 대한 최종 협상을 진행 중인 것으로 알려졌습니다.",
-      "category": "기업·산업",
+      "summary_text": "연방준비제도(Fed) 회의가 진행된 이후 유가 인플레이션 우려가 고조되면서 다우지수가 한때 큰 폭으로 하락하는 모습을 보였다. 연준의 통화정책 기조가 예상보다 매파적일 수 있다는 우려와 지속적인 유가 상승 압력이 복합적으로 작용하여 시장의 하방 압력을 높였다. 연준의 공식 발표 내용과 시장의 반응 간의 괴리를 주시하며, 유가 상승이 기업 실적 및 소비심리에 미치는 영향을 장기적인 관점에서 평가해야 한다.",
+      "description": "연방준비제도(Fed) 회의 이후 유가 인플레이션 우려가 커지면서 다우지수가 거의 800포인트 가까이 큰 폭으로 하락했습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "이차전지, ESS, 데이터센터",
+      "market_impact": "부정",
+      "related_sector": "금융, 에너지, 산업재",
       "related_stocks": [
-        "삼성SDI",
-        "LG에너지솔루션",
-        "SK이노베이션"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "관심",
-      "investment_reason": "삼성SDI의 아마존 데이터센터 배터리 공급은 이차전지 산업의 새로운 성장 동력을 제시하며, 국내 관련 기업들에 대한 기대감을 높이기 때문입니다.",
-      "key_signal": "삼성SDI와 아마존 간의 최종 계약 체결 여부 및 계약 규모, 그리고 데이터센터용 ESS 시장의 성장 속도를 주목해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 통화정책 불확실성과 유가 인플레이션이라는 두 가지 핵심 리스크 요인이 시장에 강력한 하방 압력을 가할 수 있기 때문이다.",
+      "key_signal": "연준의 최종 발표 내용과 이에 대한 시장의 장기적인 해석, 그리고 유가 안정화 여부가 증시의 변동성을 결정할 것이다.",
       "keywords": [
-        "삼성SDI",
-        "아마존",
-        "데이터센터",
-        "배터리",
-        "ESS"
+        "다우지수",
+        "연준 회의",
+        "유가 인플레이션",
+        "미 증시 하락",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbExvcHBIRWd6N05rT0dlQXJlYnFFekd0M0tsWnJjSlJER2hfQkNsVGtNODR3cnFYLWEtNnk5TmFPTGxaWTl6X1dPZzZGX1VNUVZDLXpPS0k0NThYR3pfQl9oRzlDWi01WmhZU2lzX2E5dlZPaEVjVFpCTGh4ZExOM19xQVlHS3BpWk5haGtCbmdMNENNRjIxM0pQNVRXVjc2SFRBWEpfNlBjaFlwRllV0gG0AUFVX3lxTE1zM3R4S0ZOOGtFNmZWMXJ0WENtZXNkNmluUFNCUk5laVBkRnJJcVUzbEUxVWtVMnljcjhqYlotWGZLWFM5bUVxWnhodDhsRUNtMFBUQm5TTjBseHBrTDAxQzYtNFZrX0FzWUJ2UktIbDBsMDJCUGxSZUFkUmlsUXFFXzZwRXZvWTFrYWhORFhDc0lSdW5XeHpGdWQ5LTJmTFJqTGpJT043VGRHM0IyYkpUTWRDbA?oc=5",
-      "published": "2026-04-29 05:28",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ySkQ4Q1NYLXYzandrWm1Ic3Q1S285RFJsbmxhaFh0anRYNHNPaVBiaWN5bkZRTm12RExFakdIam13UlE4WDYyaFdPMGNMMVcxNXVGLS0xSEJzNENaVUo1NS1tNHN5NUtfZlUzemY1cEc?oc=5",
+      "published": "2026-04-30 05:08",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -112,37 +110,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 주식 하락과 유가 상승, 미국 증시 압박",
-      "display_title": "AI 주식 하락과 유가 상승, 미국 증시 압박",
-      "original_title": "Sinking AI stocks and rising oil prices weigh on Wall Street - WRAL",
+      "title": "유가 랠리와 연준 결정 속 미 증시 혼조세 마감",
+      "display_title": "유가 랠리와 연준 결정 속 미 증시 혼조세 마감",
+      "original_title": "US stocks end midweek mixed amid oil rally, Fed decision - Anadolu Ajansı",
       "summary": [
-        "최근 AI 관련 기술주들의 하락세와 국제 유가 상승이 미국 증시에 하방 압력을 가하고 있습니다.",
-        "기술주 전반의 조정 가능성과 인플레이션 우려가 투자 심리를 위축시키고 있으며, 특히 AI 관련주의 변동성이 확대되고 있습니다.",
-        "AI 관련주 비중이 높은 투자자들은 포트폴리오 점검이 필요하며, 유가 변동성이 국내 증시에 미칠 영향에 주의해야 합니다."
+        "미국 증시가 유가 상승세와 연방준비제도(Fed)의 정책 결정 발표 속에서 주중 혼조세를 보이며 마감했다.",
+        "유가 상승은 인플레이션 압력을 높여 연준의 긴축 우려를 키웠으나, 연준의 결정 내용에 대한 해석이 엇갈리면서 시장 방향성에 대한 불확실성이 증대되었다.",
+        "유가 변동성과 연준의 통화정책 기조가 시장에 미치는 영향을 종합적으로 분석하여 투자 전략을 수립해야 한다."
       ],
-      "summary_text": "최근 AI 관련 기술주들의 하락세와 국제 유가 상승이 미국 증시에 하방 압력을 가하고 있습니다. 기술주 전반의 조정 가능성과 인플레이션 우려가 투자 심리를 위축시키고 있으며, 특히 AI 관련주의 변동성이 확대되고 있습니다. AI 관련주 비중이 높은 투자자들은 포트폴리오 점검이 필요하며, 유가 변동성이 국내 증시에 미칠 영향에 주의해야 합니다.",
-      "description": "인공지능(AI) 관련 주식의 하락세와 국제 유가 상승이 월스트리트 투자 심리에 부담을 주고 있습니다.",
+      "summary_text": "미국 증시가 유가 상승세와 연방준비제도(Fed)의 정책 결정 발표 속에서 주중 혼조세를 보이며 마감했다. 유가 상승은 인플레이션 압력을 높여 연준의 긴축 우려를 키웠으나, 연준의 결정 내용에 대한 해석이 엇갈리면서 시장 방향성에 대한 불확실성이 증대되었다. 유가 변동성과 연준의 통화정책 기조가 시장에 미치는 영향을 종합적으로 분석하여 투자 전략을 수립해야 한다.",
+      "description": "국제 유가 랠리와 연방준비제도의 결정이 발표된 가운데, 미국 증시는 주중 혼조세로 마감했습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "반도체, IT, 정유",
+      "market_impact": "중립",
+      "related_sector": "에너지, 금융",
       "related_stocks": [
-        "SK하이닉스",
-        "삼성전자",
-        "S-Oil"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "주의",
-      "investment_reason": "AI 기술주 조정과 유가 상승은 글로벌 증시 전반에 부정적 영향을 미치며 국내 관련 업종에도 파급될 수 있기 때문입니다.",
-      "key_signal": "AI 기술주의 추가 조정 여부와 국제 유가 흐름을 주시해야 합니다.",
+      "investment_view": "중립",
+      "investment_reason": "유가와 연준 정책이라는 거시경제 핵심 변수가 동시에 작용하여 시장의 방향성을 예측하기 어렵게 만들고 있기 때문이다.",
+      "key_signal": "연준의 구체적인 메시지와 유가 안정화 여부가 향후 증시의 주요 변곡점이 될 것이다.",
       "keywords": [
-        "AI 주식",
-        "유가 상승",
-        "월스트리트",
-        "증시 압박",
-        "기술주"
+        "미 증시",
+        "유가 랠리",
+        "연준 결정",
+        "혼조세",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeERaOXhWaE1OdmtuSGd5TGhxd1I2bXN2SDZCZTJBNnBiRFJ4dG9FQlo0Y29Mb3RTQ2xWVTE3LVBfa000dTdmQmxZZDN2ek83WmIwd25GYTNvYTVUQzBRMnJ5eDJoSzFPd0JsMEh1YWxTa3dzQnIwOWRYYUtFRUhGSzFRR0pwbXZ6R1JxREdlVHJoUG1IaFpjYmFTT3FQWnJ3emFwRHRPQW5fNVc2WFA2SHloOA?oc=5",
-      "published": "2026-04-29 07:09",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjE0SDNVSTNqX3NnZzJOMlNwNVFsX21YTW9FbEZMZjd0VUhlMjBrR1A4a0VGQTFHbTV0SWczUHBKRnF2akl2WmZ1aHJaV3Zwc2d0NFNBbDQ1SWJfQ1RDT0EwVzlJdjRZRzhBWWtreGhyVnFzVnlMR0pkVTJQa2I1NU9qdGRob05IeDJkbDRkUGIwcWl6c0lMQjd1a1c?oc=5",
+      "published": "2026-04-30 05:46",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -151,84 +149,83 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "5년 뒤 중국 반도체 기술 한국 추격... 슈퍼 사이클 안주 말고 체질 개선해야",
-      "display_title": "5년 뒤 중국 반도체 기술 한국 추격... 슈퍼 사이클 안주 말고 체질 개선해야",
-      "original_title": "\"반도체 기술 5년 뒤 중국 다 쫓아온다…슈퍼 사이클 안주 말고 체질 개선을\" - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "이란 핵협상 기대감 약화 및 혼조된 기업 실적에 증시 하락 마감",
+      "display_title": "이란 핵협상 기대감 약화 및 혼조된 기업 실적에 증시 하락 마감",
+      "original_title": "Stocks close lower on fading hopes for quick Iran deal, mixed earnings - AOL.com",
       "summary": [
-        "국내 반도체 기술이 5년 내 중국에 추격당할 수 있다는 경고와 함께, 현재의 슈퍼 사이클에 안주하지 말고 체질 개선이 시급하다는 지적이 나왔습니다.",
-        "이는 장기적인 관점에서 한국 반도체 산업의 경쟁력 유지를 위한 기술 초격차 확보와 신사업 발굴의 중요성을 강조합니다.",
-        "국내 반도체 기업들은 기술 투자와 인력 양성에 더욱 집중하고, 정부의 적극적인 지원 정책이 필요하며, 투자자들은 기업들의 장기 전략을 면밀히 살펴야 합니다."
+        "이란 핵협상 타결에 대한 희망이 약해지고 기업들의 실적이 혼조세를 보이면서 미국 증시가 전반적으로 하락 마감했다.",
+        "이란 핵협상 지연은 국제 유가 상승 압력을 가중시키고 지정학적 불확실성을 높이는 요인으로 작용하며 시장에 부담을 주었다. 또한, 기업 실적이 일부 긍정적이었지만 전반적으로는 투자자들의 기대에 미치지 못했다.",
+        "지정학적 리스크가 유가 및 글로벌 경제에 미치는 영향을 주시하고, 개별 기업의 실적 발표 내용을 통해 시장의 방향성을 가늠해야 한다."
       ],
-      "summary_text": "국내 반도체 기술이 5년 내 중국에 추격당할 수 있다는 경고와 함께, 현재의 슈퍼 사이클에 안주하지 말고 체질 개선이 시급하다는 지적이 나왔습니다. 이는 장기적인 관점에서 한국 반도체 산업의 경쟁력 유지를 위한 기술 초격차 확보와 신사업 발굴의 중요성을 강조합니다. 국내 반도체 기업들은 기술 투자와 인력 양성에 더욱 집중하고, 정부의 적극적인 지원 정책이 필요하며, 투자자들은 기업들의 장기 전략을 면밀히 살펴야 합니다.",
-      "description": "국내 반도체 전문가들은 현재의 슈퍼 사이클에 안주하지 않고 5년 내 중국 반도체 기술이 한국을 상당 부분 추격할 것에 대비해 체질 개선이 시급하다고 경고했습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, 반도체 장비, 소재",
+      "summary_text": "이란 핵협상 타결에 대한 희망이 약해지고 기업들의 실적이 혼조세를 보이면서 미국 증시가 전반적으로 하락 마감했다. 이란 핵협상 지연은 국제 유가 상승 압력을 가중시키고 지정학적 불확실성을 높이는 요인으로 작용하며 시장에 부담을 주었다. 또한, 기업 실적이 일부 긍정적이었지만 전반적으로는 투자자들의 기대에 미치지 못했다. 지정학적 리스크가 유가 및 글로벌 경제에 미치는 영향을 주시하고, 개별 기업의 실적 발표 내용을 통해 시장의 방향성을 가늠해야 한다.",
+      "description": "빠른 이란 핵협상 타결에 대한 기대감이 약화되고 기업 실적이 혼조세를 보인 가운데, 주식 시장이 하락 마감했습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "에너지, 방산, 기술주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "DB하이텍"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "국내 핵심 산업인 반도체 기술의 장기적인 경쟁력 약화 우려는 국내 증시의 투자 매력도를 낮출 수 있기 때문입니다.",
-      "key_signal": "국내 반도체 기업들의 연구 개발 투자 현황, 정부의 반도체 산업 지원 정책, 그리고 중국 반도체 기술 발전 속도를 지속적으로 모니터링해야 합니다.",
+      "investment_reason": "지정학적 리스크와 기업 실적 불확실성이 증시의 하방 압력으로 작용할 수 있으며, 이는 투자 심리를 위축시킬 수 있기 때문이다.",
+      "key_signal": "이란 핵협상 재개 가능성과 주요 기업들의 다음 실적 전망에 대한 발표를 면밀히 분석해야 한다.",
       "keywords": [
-        "반도체 기술",
-        "중국 추격",
-        "슈퍼 사이클",
-        "체질 개선",
-        "기술 초격차"
+        "미 증시",
+        "이란 핵협상",
+        "유가",
+        "기업 실적",
+        "지정학적 리스크"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EckRPUTJ0UkVMR2FQbmZwM0hKNmVCVDBvbkxTaFQ5N1RMTGxVTUk5M3A2S0h2WWZrblAtR1BGWmNRQ2pGMGhkUzlSNjlyRnlYVmVtemgyYXhxTGFRQjFsT3FMcjkxU2JqdFVSYlp6Z0lJTWdvd2JCbA?oc=5",
-      "published": "2026-04-29 04:30",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9talpMR3d3eUZaTjNYbTJkRTdKSDZ2TlQyZHFPaXdvTDNmLWdBX01kQ3phMlVaRjluRDhEeUF2X2R4SkJwSEs0LXJNNzhtTFBWNkJ2bllEU0NNeGswZWloT3U5djFONUZ4OGhjdTdlVU1TVGN4MW85LQ?oc=5",
+      "published": "2026-04-30 04:07",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "월요일 미국 증시, S&P 500 사상 최고치 마감 속 기술 대기업 강세; 호르무즈 해협 긴장으로 유가 상승",
-      "display_title": "월요일 미국 증시, S&P 500 사상 최고치 마감 속 기술 대기업 강세; 호르무즈 해협 긴장으로 유가 상승",
-      "original_title": "U.S. stocks fluctuated narrowly at record highs on Monday; S&P 500 edged up 0.12% to close at a new record high, with the Tech Giants outperforming the broader market. The Hormuz Strait standoff pushed oil prices higher, putting pressure on gold. - Bitget",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[시선+]반도체 다음은 무엇? 증시 폭등과 냉랭한 체감경기 속 '반도체 착시' 한국 경제",
+      "display_title": "[시선+]반도체 다음은 무엇? 증시 폭등과 냉랭한 체감경기 속 '반도체 착시' 한국 경제",
+      "original_title": "[시선+]반도체 다음은 무엇? 증시는 폭등, 체감경기는 냉랭…'반도체 착시' 속 한국경제 - 시사의창",
       "summary": [
-        "월요일 미국 증시에서 S&P 500 지수가 소폭 상승하며 사상 최고치를 경신했고, 기술 대기업들이 시장 상승을 견인했습니다.",
-        "중동 호르무즈 해협의 지정학적 긴장이 고조되며 국제 유가 상승세가 이어졌고, 이는 금 가격에 부담을 주었습니다.",
-        "기술주 강세는 긍정적이나, 유가 상승 압력은 인플레이션 우려를 지속시키며 시장 변동성을 키울 수 있으므로 투자 시 두 가지 요소를 종합적으로 고려해야 합니다."
+        "반도체 산업의 호황이 증시 폭등을 이끌고 있지만, 실물 경제 및 일반 국민의 체감 경기는 여전히 좋지 않아 '반도체 착시' 현상이 한국 경제에 나타나고 있다.",
+        "특정 산업(반도체)에 편중된 성장으로 인한 불균형은 경제 전반의 활력을 저해하고, 고용 창출 및 소득 분배 개선에 한계를 노출할 수 있다.",
+        "반도체 업종의 강세는 유효하나, 경제 전반의 건전성과 타 업종의 동반 성장을 위한 정부 정책 및 기업 투자의 변화를 주시해야 한다."
       ],
-      "summary_text": "월요일 미국 증시에서 S&P 500 지수가 소폭 상승하며 사상 최고치를 경신했고, 기술 대기업들이 시장 상승을 견인했습니다. 중동 호르무즈 해협의 지정학적 긴장이 고조되며 국제 유가 상승세가 이어졌고, 이는 금 가격에 부담을 주었습니다. 기술주 강세는 긍정적이나, 유가 상승 압력은 인플레이션 우려를 지속시키며 시장 변동성을 키울 수 있으므로 투자 시 두 가지 요소를 종합적으로 고려해야 합니다.",
-      "description": "월요일 미국 증시가 사상 최고치 부근에서 좁게 등락했으며, S&P 500 지수는 0.12% 상승해 신고가를 경신했고, 기술 대기업들이 시장을 주도했습니다. 호르무즈 해협 긴장으로 유가는 상승했으며 금 가격에 압박을 가했습니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "IT, 기술주, 정유, 방산",
+      "summary_text": "반도체 산업의 호황이 증시 폭등을 이끌고 있지만, 실물 경제 및 일반 국민의 체감 경기는 여전히 좋지 않아 '반도체 착시' 현상이 한국 경제에 나타나고 있다. 특정 산업(반도체)에 편중된 성장으로 인한 불균형은 경제 전반의 활력을 저해하고, 고용 창출 및 소득 분배 개선에 한계를 노출할 수 있다. 반도체 업종의 강세는 유효하나, 경제 전반의 건전성과 타 업종의 동반 성장을 위한 정부 정책 및 기업 투자의 변화를 주시해야 한다.",
+      "description": "반도체 산업의 호황으로 증시가 폭등하고 있지만, 일반 국민의 체감 경기는 여전히 냉랭하여 '반도체 착시' 현상 속 한국 경제의 불균형이 심화되고 있다는 분석입니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "반도체, 제조업, 내수산업",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "S-Oil"
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "기술 대기업의 지속적인 강세는 관련 국내 기업에도 긍정적인 영향을 줄 수 있으나, 지정학적 리스크로 인한 유가 상승은 시장 전반에 부담을 줄 수 있기 때문입니다.",
-      "key_signal": "미국 기술주 대기업의 실적 발표와 호르무즈 해협을 포함한 중동 지역의 지정학적 상황 변화를 면밀히 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "특정 산업 편중 성장이 장기적으로 경제 전반의 리스크로 작용할 수 있으며, 이는 다양한 산업 섹터에 대한 투자 전략에 영향을 미치기 때문이다.",
+      "key_signal": "반도체 외 다른 산업의 성장 모멘텀과 정부의 내수 활성화 정책 방향을 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "미국 증시",
-        "S&P 500",
-        "기술 대기업",
-        "유가 상승",
-        "지정학적 리스크"
+        "반도체 착시",
+        "한국 경제",
+        "증시 폭등",
+        "체감 경기",
+        "경제 불균형"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKNXdtMFZRR0QtalAxZm9MOWFWU3NlczRFbDBTc291WU0yMGw4Q25ybS0xOHY4YW9kaXN5NDRMcENfZ1lqaGFGNl9uQ2VVeVFmQzZKMUVYN1M4eVVjd3hnTWlnONIBY0FVX3lxTFBKNXdtMFZRR0QtalAxZm9MOWFWU3NlczRFbDBTc291WU0yMGw4Q25ybS0xOHY4YW9kaXN5NDRMcENfZ1lqaGFGNl9uQ2VVeVFmQzZKMUVYN1M4eVVjd3hnTWlnOA?oc=5",
-      "published": "2026-04-28 09:36",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xM1U4VWw5YUtzbjdyUzNYLU9wcE1pOFhCQzFqUUZtYkRXeU5zODZMZ25rNl92U3A0YjEzYmIxMGRhd1A2aFZmTTJBWkY5VVpxVjVMcA?oc=5",
+      "published": "2026-04-29 10:52",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -238,37 +235,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "고물가 시대, 위축된 소비 심리 회복 가능성은?",
-      "display_title": "고물가 시대, 위축된 소비 심리 회복 가능성은?",
-      "original_title": "고물가 시대, 위축된 소비 심리 회복될까? : 경제 - 재경일보",
+      "title": "코스피 6690선 회복...AI 기대감 이면에 숨겨진 '비용 청구서'",
+      "display_title": "코스피 6690선 회복...AI 기대감 이면에 숨겨진 '비용 청구서'",
+      "original_title": "코스피 6690선 회복…AI 기대 뒤에 숨은 ‘비용 청구서’ - 이코노미사이언스",
       "summary": [
-        "지속되는 고물가로 인해 국내 소비 심리가 위축되고 있으며, 그 회복 여부에 대한 논의가 활발합니다.",
-        "소비 심리 회복은 국내 내수 경기 활성화와 밀접한 관련이 있어 경제 전반에 중요한 영향을 미칩니다.",
-        "정부의 물가 안정화 정책과 가계 소득 증대 방안 등이 소비 심리 개선의 핵심 요소가 될 것이며, 관련 유통 및 소비재 기업들의 실적에 영향을 줄 것입니다."
+        "코스피 지수가 6690선을 회복했으나, AI 기술의 발전과 상용화에 따르는 막대한 투자 비용과 잠재적 재정 부담이 주목받고 있다.",
+        "AI 산업의 성장에 대한 기대감이 증시를 견인하고 있지만, 고성능 반도체 및 인프라 구축, 연구 개발 등에 필요한 막대한 투자는 기업들의 재정 부담으로 이어질 수 있다.",
+        "AI 관련 기업 투자 시 단순한 성장 기대감보다는 실제 수익성과 투자 대비 효율성을 면밀히 분석하여 옥석 가리기가 필요하다."
       ],
-      "summary_text": "지속되는 고물가로 인해 국내 소비 심리가 위축되고 있으며, 그 회복 여부에 대한 논의가 활발합니다. 소비 심리 회복은 국내 내수 경기 활성화와 밀접한 관련이 있어 경제 전반에 중요한 영향을 미칩니다. 정부의 물가 안정화 정책과 가계 소득 증대 방안 등이 소비 심리 개선의 핵심 요소가 될 것이며, 관련 유통 및 소비재 기업들의 실적에 영향을 줄 것입니다.",
-      "description": "고물가 기조가 지속되는 가운데 위축된 국내 소비 심리가 과연 회복될 수 있을지에 대한 경제계의 관심이 높아지고 있습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "코스피 지수가 6690선을 회복했으나, AI 기술의 발전과 상용화에 따르는 막대한 투자 비용과 잠재적 재정 부담이 주목받고 있다. AI 산업의 성장에 대한 기대감이 증시를 견인하고 있지만, 고성능 반도체 및 인프라 구축, 연구 개발 등에 필요한 막대한 투자는 기업들의 재정 부담으로 이어질 수 있다. AI 관련 기업 투자 시 단순한 성장 기대감보다는 실제 수익성과 투자 대비 효율성을 면밀히 분석하여 옥석 가리기가 필요하다.",
+      "description": "코스피 지수가 6690선을 회복했지만, 인공지능(AI) 기술에 대한 기대감 뒤에는 막대한 투자 비용과 그에 따른 부담이 숨어있다는 분석입니다.",
+      "category": "증시·금리",
       "importance": 8,
       "market_impact": "중립",
-      "related_sector": "유통, 소비재, 서비스",
+      "related_sector": "인공지능, 반도체, 소프트웨어",
       "related_stocks": [
-        "신세계",
-        "롯데쇼핑",
-        "이마트"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
-      "investment_view": "중립",
-      "investment_reason": "국내 소비 심리 회복은 내수 기업들의 실적과 직결되지만, 고물가 상황이 지속될 경우 투자 심리에 부정적인 영향을 줄 수 있기 때문입니다.",
-      "key_signal": "소비자물가지수, 소비자심리지수, 소매판매액 등 관련 지표의 변화와 정부의 물가 안정 정책을 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 산업의 성장과 비용 부담이라는 양면성을 이해하고, 실제 기업 가치에 기반한 현명한 투자 전략을 수립하는 데 중요하기 때문이다.",
+      "key_signal": "AI 관련 기업들의 실제 투자 비용과 수익성 지표를 지속적으로 모니터링하여 지속 가능한 성장 여부를 판단해야 한다.",
       "keywords": [
-        "고물가",
-        "소비 심리",
-        "내수 경기",
-        "물가 안정",
-        "소비재"
+        "코스피",
+        "AI",
+        "인공지능",
+        "투자 비용",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtV29PNTlnNEYyV0c5YlQxVE5WNTlQUmRzWnJCX2NzeDMwalB2WDZQaUVUVUlGU0dYQ2Zoa3BBb3doR2ZheTYtSE5B?oc=5",
-      "published": "2026-04-29 07:02",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkS2dCa1NrdWRIQWJ0YTBvYlh1RzJuZS1iX0tVYnRLdEx2eE1ITjg1VVFkREdKNkM4R25BRU4tVVVIZ2M2dGZzYWRWSTdsQ1VmY29aMmh1VWZ2LXQ3N3h0RjdXQV9JZFFmaWN4b3pkRQ?oc=5",
+      "published": "2026-04-29 16:31",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -279,18 +276,20 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성SDI",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "이차전지",
-      "opinion": "관심",
-      "reason": "아마존 데이터센터 배터리 공급 최종 협상 소식은 이차전지 산업의 새로운 성장 동력을 제시하며, 국내 관련 기업들에 대한 기대감을 높일 수 있습니다.",
+      "sector": "정유 및 에너지",
+      "opinion": "중립",
+      "reason": "유가 랠리가 지속되며 에너지 관련주에 대한 관심은 여전하나, 연준의 통화정책 불확실성 및 유가 인플레이션 우려가 동시에 존재하여 유가 변동성에 대한 주의 깊은 관찰이 필요합니다.",
       "check_points": [
-        "아마존과의 최종 계약 체결 여부 및 계약 규모",
-        "글로벌 데이터센터 시장의 배터리 수요 동향",
-        "전반적인 이차전지 산업의 투자 심리 변화"
+        "국제 유가 동향 및 OPEC+ 생산량 결정",
+        "연준의 금리 인상 스탠스 변화",
+        "환율 변동이 원가에 미치는 영향"
       ],
       "related_news_titles": [
-        "[단독] 삼성SDI, 아마존 데이터센터 배터리 공급 최종 협상 중"
+        "연준 회의 및 유가 인플레이션 우려 속 다우지수 큰 폭 하락",
+        "유가 랠리와 연준 결정 속 미 증시 혼조세 마감",
+        "이란 핵협상 기대감 약화 및 혼조된 기업 실적에 증시 하락 마감"
       ]
     },
     {
@@ -299,49 +298,48 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 S&P 500 사상 최고치 마감과 기술 대기업 강세 소식은 국내 대표 기술주에도 긍정적인 영향을 줄 수 있습니다. 다만, 나스닥 급락 및 AI 주식 조정, 중국 반도체 추격 우려 등 복합적인 요인으로 변동성에 유의해야 합니다.",
+      "reason": "AI 산업 성장에 대한 기대감이 여전히 유효하나, 그 이면에 숨겨진 비용 부담과 한국 경제의 반도체 편중 성장에 대한 우려가 상존하므로, AI 관련 투자 및 비용 효율성을 중심으로 점검이 필요합니다.",
       "check_points": [
-        "미국 주요 기술 기업들의 주가 및 실적 발표",
-        "글로벌 반도체 시장의 수요 회복세 지속 여부",
-        "환율 변동 및 외국인 투자자 동향"
+        "AI 반도체 수요 및 실제 수익성 개선 여부",
+        "신규 투자 계획 및 파운드리 사업 확장",
+        "글로벌 반도체 시장 전반의 회복 속도"
       ],
       "related_news_titles": [
-        "오늘 미국 증시: 나스닥 300포인트 이상 급락, S&P 500과 다우도 하락",
-        "AI 주식 하락과 유가 상승, 미국 증시 압박",
-        "5년 뒤 중국 반도체 기술 한국 추격... 슈퍼 사이클 안주 말고 체질 개선해야"
+        "[시선+]반도체 다음은 무엇? 증시 폭등과 냉랭한 체감경기 속 '반도체 착시' 한국 경제",
+        "코스피 6690선 회복...AI 기대감 이면에 숨겨진 '비용 청구서'"
       ]
     },
     {
       "rank": 3,
-      "name": "S-Oil",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "정유",
+      "sector": "인터넷 및 소프트웨어",
       "opinion": "관심",
-      "reason": "호르무즈 해협 긴장 고조로 인한 유가 상승은 정유 기업의 실적에 긍정적인 영향을 미칠 수 있습니다. 국제 유가의 상승 기조가 유지될 경우 실적 개선 기대감이 높아질 수 있습니다.",
+      "reason": "AI 기술 경쟁 심화와 서비스 확장에 대한 기대감으로 주목받고 있으나, AI 개발 및 운영에 수반되는 '비용 청구서'가 실제 기업 가치와 수익성에 어떤 영향을 미칠지 면밀한 분석이 필요합니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유)의 추가 상승 여부",
-        "중동 지역의 지정학적 리스크 변화 추이",
-        "글로벌 정제마진 추이 및 공급망 안정성"
+        "AI 서비스 도입 및 시장 반응",
+        "AI 관련 연구개발 및 인프라 투자 비용 구조",
+        "글로벌 빅테크 기업들과의 AI 경쟁 구도"
       ],
       "related_news_titles": [
-        "AI 주식 하락과 유가 상승, 미국 증시 압박",
-        "월요일 미국 증시, S&P 500 사상 최고치 마감 속 기술 대기업 강세; 호르무즈 해협 긴장으로 유가 상승"
+        "코스피 6690선 회복...AI 기대감 이면에 숨겨진 '비용 청구서'"
       ]
     },
     {
       "rank": 4,
-      "name": "신세계",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "유통",
-      "opinion": "중립",
-      "reason": "고물가로 인해 위축되었던 소비 심리가 점진적으로 회복될 가능성을 주시해야 합니다. 국내 소비 심리 회복은 유통 업체의 실적에 직접적인 영향을 주지만, 고물가 상황의 지속 여부가 주요 변수가 될 수 있습니다.",
+      "sector": "증권",
+      "opinion": "주의",
+      "reason": "연준의 통화정책 불확실성, 지정학적 리스크, 그리고 전반적인 기업 실적 혼조세가 증시 하방 압력으로 작용할 경우 증권업계의 투자 심리 위축 및 실적에 부정적인 영향을 줄 수 있어 주의 깊은 관찰이 필요합니다.",
       "check_points": [
-        "국내 소비자 물가 지수 및 가계 소비 동향",
-        "정부의 내수 활성화 정책 발표 여부",
-        "주요 오프라인 유통 채널(백화점, 대형마트 등)의 매출 회복세"
+        "국내외 증시 거래량 및 변동성 추이",
+        "금리 및 통화 정책 변화가 자산 시장에 미치는 영향",
+        "부동산 프로젝트파이낸싱(PF) 관련 리스크 관리 현황"
       ],
       "related_news_titles": [
-        "고물가 시대, 위축된 소비 심리 회복 가능성은?"
+        "이란 핵협상 기대감 약화 및 혼조된 기업 실적에 증시 하락 마감",
+        "연준 회의 및 유가 인플레이션 우려 속 다우지수 큰 폭 하락"
       ]
     }
   ],
