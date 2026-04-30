@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30 07:58",
-  "analysis_date": "2026-04-30",
+  "generated_at": "2026-05-01 07:54",
+  "analysis_date": "2026-05-01",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미 증시는 연준의 불확실한 통화정책과 유가 급등, 지정학적 리스크 속 혼조세를 보이며 전반적인 하락 압력을 받았습니다. 국내 증시는 AI 기대감에 힘입어 상승했으나, 반도체 편중 성장과 막대한 AI 투자 비용 등 구조적 과제도 부각되었습니다.",
-    "국내거시경제": "반도체 산업의 호황이 증시를 이끌고 있지만, 실물 경제 및 체감 경기는 여전히 냉랭하여 '반도체 착시' 현상이 심화되고 있습니다. 특정 산업에 편중된 성장으로 인한 불균형을 경계해야 합니다.",
-    "글로벌경제": "연방준비제도(Fed)의 정책 불확실성과 국제 유가 상승 압력, 이란 핵협상 지연 등 지정학적 리스크가 글로벌 경제의 주요 불안 요인으로 작용하고 있습니다.",
-    "증시금리": "미 증시는 연준의 입장 차이와 유가 급등, 혼조된 기업 실적 등으로 다우지수가 하락하며 혼조세를 보였습니다. 국내 코스피는 AI 기대감에 상승했으나, AI 기술의 막대한 투자 비용 부담도 함께 부각되었습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "해외 암호화폐 관련주 실적 부진이 있었으며, AI 산업은 미래 성장 동력이지만 고성능 반도체 및 인프라 구축에 따르는 막대한 투자 비용이 기업의 재정 부담으로 작용할 수 있습니다. 국내 반도체 산업은 여전히 견조합니다.",
-    "오늘의투자시사점": "글로벌 통화정책 방향과 유가 변동성, 지정학적 리스크를 면밀히 주시해야 합니다. 국내 AI 관련주는 단순한 성장 기대감보다는 실제 수익성과 투자 효율성을 바탕으로 선별적 접근이 중요합니다. 반도체 외 다른 산업의 동반 성장 가능성도 주목해야 합니다.",
-    "오늘의한줄": "글로벌 불확실성 속 국내 증시는 AI 기대감과 함께 '반도체 착시' 및 투자 비용 부담이라는 이면을 동시에 보여주고 있습니다."
+    "총평": "AI 및 반도체 산업의 강력한 성장이 글로벌 증시를 견인하는 가운데, 중동 지정학적 리스크와 이로 인한 주요국 금리 인하 지연 우려가 시장에 혼재된 영향을 주고 있습니다. 국내 기업들은 AI 전략과 주주 환원 정책에 주목해야 합니다.",
+    "국내거시경제": "삼성전자의 막대한 이익 배분 흐름은 국내 기업들의 투자 및 주주 환원 정책의 방향성을 가늠하는 중요한 지표로 작용할 것입니다.",
+    "글로벌경제": "이란 전쟁 리스크로 영란은행이 금리 인하를 동결하며 글로벌 고금리 기조가 예상보다 장기화될 수 있다는 우려가 커지고 있습니다. 이는 기업 자금 조달에 부담으로 작용할 수 있습니다.",
+    "증시금리": "미국 주요 증시는 국채금리 상승 압력으로 사상 최고치에서 소폭 후퇴했지만, 지정학적 리스크에도 불구하고 펀더멘털 기대감으로 2020년 이후 최고의 월간 실적을 달성할 것으로 전망됩니다. 금리 동향과 기업 실적에 대한 복합적 시각이 필요합니다.",
+    "부동산정책": "관련 뉴스 없음.",
+    "기업산업": "엔비디아의 사상 최고가 경신은 AI 및 반도체 산업의 폭발적인 성장을 보여주며, 글로벌 AI 투자 확산 속에서 개별 기업의 AI 전략과 실행력이 중요해지고 있습니다. 삼성전자의 대규모 이익은 국내 기업의 투자와 주주 환원 정책의 방향성을 제시합니다.",
+    "오늘의투자시사점": "AI 및 반도체 관련 기술 선도 기업에 대한 지속적인 관심이 필요하며, 글로벌 고금리 장기화 가능성에 대비해 자금 조달 비용과 금리 민감 섹터에 대한 주의가 요구됩니다. 국내에서는 삼성전자 등 대기업의 투자 및 주주 환원 전략이 시장에 미칠 영향을 주시해야 합니다.",
+    "오늘의한줄": "AI 주도 성장 기대와 글로벌 고금리 장기화 우려가 공존하는 가운데, 기업 실적과 금리 동향에 주목해야 할 시점입니다."
   },
   "top_news": [
     {
@@ -28,35 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미 증시 마감: 연준의 34년 만의 입장 차이와 유가 급등 속 다우 5거래일 연속 하락, 나스닥 소폭 상승; 암호화폐 관련주 실적 부진",
-      "display_title": "미 증시 마감: 연준의 34년 만의 입장 차이와 유가 급등 속 다우 5거래일 연속 하락, 나스닥 소폭 상승; 암호화폐 관련주 실적 부진",
-      "original_title": "U.S. Stock Market Close | The Fed’s biggest divergence in 34 years, coupled with surging oil prices, led to a marginal increase in the Nasdaq while the Dow fell for the fifth consecutive day; post-earnings declines were seen across cryptocurrency-related - 富途牛牛",
+      "title": "엔비디아 주가 사상 최고치로 마감, 시가총액 다시 5조 달러 돌파",
+      "display_title": "엔비디아 주가 사상 최고치로 마감, 시가총액 다시 5조 달러 돌파",
+      "original_title": "Nvidia stock clinches record close, pushing market cap over $5 trillion once again - AOL.com",
       "summary": [
-        "미 증시에서 다우지수는 연준의 입장 차이와 유가 급등 영향으로 5거래일 연속 하락했고, 나스닥은 소폭 상승하며 혼조세를 보였다.",
-        "연방준비제도(Fed)의 34년 만에 나타난 정책적 입장 차이가 시장에 불확실성을 가중시켰고, 국제 유가 상승은 인플레이션 압력을 높였다. 암호화폐 관련주는 실적 발표 이후 투자 심리가 위축되며 하락했다.",
-        "연준의 향후 통화정책 방향과 유가 변동성이 시장에 미치는 영향을 주시하며, 실적 발표가 집중되는 시기에는 개별 기업 실적에 대한 면밀한 분석이 필요하다."
+        "엔비디아 주가가 사상 최고치를 기록하며 시가총액이 다시 5조 달러를 돌파했습니다.",
+        "AI 기술의 폭발적인 성장과 데이터 센터 수요 증가가 엔비디아의 그래픽 처리 장치(GPU) 수요를 견인하며 주가 상승을 이끌고 있습니다.",
+        "AI 및 반도체 산업의 지속적인 성장을 보여주는 지표로, 관련 국내 기업들에도 긍정적인 투자 심리를 형성할 수 있습니다."
       ],
-      "summary_text": "미 증시에서 다우지수는 연준의 입장 차이와 유가 급등 영향으로 5거래일 연속 하락했고, 나스닥은 소폭 상승하며 혼조세를 보였다. 연방준비제도(Fed)의 34년 만에 나타난 정책적 입장 차이가 시장에 불확실성을 가중시켰고, 국제 유가 상승은 인플레이션 압력을 높였다. 암호화폐 관련주는 실적 발표 이후 투자 심리가 위축되며 하락했다. 연준의 향후 통화정책 방향과 유가 변동성이 시장에 미치는 영향을 주시하며, 실적 발표가 집중되는 시기에는 개별 기업 실적에 대한 면밀한 분석이 필요하다.",
-      "description": "미 증시 마감에서 연준의 34년 만의 입장 차이와 급등하는 유가가 다우지수를 5거래일 연속 하락시켰으며, 나스닥은 소폭 상승했습니다. 암호화폐 관련주들은 실적 발표 후 하락세를 보였습니다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "기술주, 에너지, 암호화폐",
+      "summary_text": "엔비디아 주가가 사상 최고치를 기록하며 시가총액이 다시 5조 달러를 돌파했습니다. AI 기술의 폭발적인 성장과 데이터 센터 수요 증가가 엔비디아의 그래픽 처리 장치(GPU) 수요를 견인하며 주가 상승을 이끌고 있습니다. AI 및 반도체 산업의 지속적인 성장을 보여주는 지표로, 관련 국내 기업들에도 긍정적인 투자 심리를 형성할 수 있습니다.",
+      "description": "엔비디아 주가가 사상 최고치를 기록하며 마감했고, 이에 따라 시가총액이 다시 5조 달러를 넘어섰다.",
+      "category": "기업·산업",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI, 기술주",
       "related_stocks": [
-        "코인베이스"
+        "SK하이닉스",
+        "삼성전자",
+        "한미반도체"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준의 정책 불확실성과 유가 상승 압력이 지속될 경우 전반적인 증시 하방 압력이 커질 수 있기 때문에 신중한 접근이 필요하다.",
-      "key_signal": "연준의 다음 통화정책 회의 결과와 국제 유가 동향을 통해 시장의 방향성을 예측해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "엔비디아의 주가와 시가총액은 글로벌 AI 및 반도체 시장의 바로미터이며, 국내 관련 기업들의 투자 심리에 직접적인 영향을 미칩니다.",
+      "key_signal": "엔비디아의 실적 발표와 AI 기술 로드맵, 경쟁사 동향을 지속적으로 주시해야 합니다.",
       "keywords": [
-        "미 증시",
-        "연준",
-        "유가 급등",
-        "나스닥",
-        "암호화폐"
+        "엔비디아",
+        "AI",
+        "반도체",
+        "시가총액",
+        "GPU"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1pqcHo5bjBkdHZFWVU2Ri13TmZWMnY3S0JDNjNkYWNNTm1oNUNDZ29tcS1qSkkwS3BYYXBqWmNUeFI0ZkJfVWFTS0h0U2swd3lQZ0hNNWRFeHZFdzV0cUc1d0tFalhpN0dOS3VCZDNIQ0VfYWtMbHpHSlFoalF5UzROREE3NHppNTNLZVhFVDZaSFFmS19BUmZ3?oc=5",
-      "published": "2026-04-30 07:52",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYSGtnTlRTWEJfUXIzWUdYaFNJSHA4UExwZ2JlZ1JlVTk1Yk1QWWI3YUtocVQ4aFhlT3ZIS3ZPRlBYUTQ1cUtRZnRpazNwOVczZGM0cGlFNjBJQnBMNnl1ZGQ1aHhuNy1LYjZyRWhQcU5fN05sNW9VSFpGZlAzeWs?oc=5",
+      "published": "2026-05-01 00:04",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -68,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 회의 및 유가 인플레이션 우려 속 다우지수 큰 폭 하락",
-      "display_title": "연준 회의 및 유가 인플레이션 우려 속 다우지수 큰 폭 하락",
-      "original_title": "Dow slides nearly 800 points after Fed meeting amid oil inflation - AOL.com",
+      "title": "영란은행, 이란 전쟁으로 글로벌 경제 혼란 가중되며 다른 중앙은행들과 금리 인하 동결에 동참",
+      "display_title": "영란은행, 이란 전쟁으로 글로벌 경제 혼란 가중되며 다른 중앙은행들과 금리 인하 동결에 동참",
+      "original_title": "Bank of England joins other central banks in freezing rate cuts as Iran war upends global economy - KTVN",
       "summary": [
-        "연방준비제도(Fed) 회의가 진행된 이후 유가 인플레이션 우려가 고조되면서 다우지수가 한때 큰 폭으로 하락하는 모습을 보였다.",
-        "연준의 통화정책 기조가 예상보다 매파적일 수 있다는 우려와 지속적인 유가 상승 압력이 복합적으로 작용하여 시장의 하방 압력을 높였다.",
-        "연준의 공식 발표 내용과 시장의 반응 간의 괴리를 주시하며, 유가 상승이 기업 실적 및 소비심리에 미치는 영향을 장기적인 관점에서 평가해야 한다."
+        "영란은행이 이란 전쟁으로 인한 글로벌 경제 불확실성을 이유로 금리 인하를 동결하며 다른 중앙은행들의 추세에 합류했습니다.",
+        "중동 지정학적 리스크가 고조되면서 인플레이션 압력이 다시 증가하고, 주요국 중앙은행들이 금리 인하 시점을 연기하거나 동결하는 경향을 보입니다.",
+        "글로벌 고금리 기조가 예상보다 길어질 수 있음을 시사하며, 이는 기업의 자금 조달 비용과 전반적인 투자 심리에 부정적인 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "연방준비제도(Fed) 회의가 진행된 이후 유가 인플레이션 우려가 고조되면서 다우지수가 한때 큰 폭으로 하락하는 모습을 보였다. 연준의 통화정책 기조가 예상보다 매파적일 수 있다는 우려와 지속적인 유가 상승 압력이 복합적으로 작용하여 시장의 하방 압력을 높였다. 연준의 공식 발표 내용과 시장의 반응 간의 괴리를 주시하며, 유가 상승이 기업 실적 및 소비심리에 미치는 영향을 장기적인 관점에서 평가해야 한다.",
-      "description": "연방준비제도(Fed) 회의 이후 유가 인플레이션 우려가 커지면서 다우지수가 거의 800포인트 가까이 큰 폭으로 하락했습니다.",
-      "category": "증시·금리",
+      "summary_text": "영란은행이 이란 전쟁으로 인한 글로벌 경제 불확실성을 이유로 금리 인하를 동결하며 다른 중앙은행들의 추세에 합류했습니다. 중동 지정학적 리스크가 고조되면서 인플레이션 압력이 다시 증가하고, 주요국 중앙은행들이 금리 인하 시점을 연기하거나 동결하는 경향을 보입니다. 글로벌 고금리 기조가 예상보다 길어질 수 있음을 시사하며, 이는 기업의 자금 조달 비용과 전반적인 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+      "description": "이란 전쟁으로 글로벌 경제가 혼란스러워지면서 영란은행이 다른 중앙은행들과 함께 금리 인하를 동결하기로 결정했다.",
+      "category": "글로벌 경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 에너지, 산업재",
+      "related_sector": "금융, 에너지",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준의 통화정책 불확실성과 유가 인플레이션이라는 두 가지 핵심 리스크 요인이 시장에 강력한 하방 압력을 가할 수 있기 때문이다.",
-      "key_signal": "연준의 최종 발표 내용과 이에 대한 시장의 장기적인 해석, 그리고 유가 안정화 여부가 증시의 변동성을 결정할 것이다.",
+      "investment_reason": "주요국 금리 정책 방향과 중동 지정학적 리스크가 글로벌 경제 및 국내 시장의 유동성과 투자 심리에 직접적인 영향을 미칩니다.",
+      "key_signal": "중동 정세 변화와 주요국 중앙은행들의 금리 인하 스탠스 변화 여부를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "다우지수",
-        "연준 회의",
-        "유가 인플레이션",
-        "미 증시 하락",
-        "통화정책"
+        "영란은행",
+        "금리 인하 동결",
+        "이란 전쟁",
+        "지정학적 리스크",
+        "글로벌 경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ySkQ4Q1NYLXYzandrWm1Ic3Q1S285RFJsbmxhaFh0anRYNHNPaVBiaWN5bkZRTm12RExFakdIam13UlE4WDYyaFdPMGNMMVcxNXVGLS0xSEJzNENaVUo1NS1tNHN5NUtfZlUzemY1cEc?oc=5",
-      "published": "2026-04-30 05:08",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdkV1ZkNCOG1xVl9RWUVUZXdMbEw1bUlGVF9sTGRTQ3pCVFpvQ09GVVVBVjVORmw4algxUGhEY0xjWkRjbThiLVlQdHY4dWtKUzlnOVZDT2xaUTM4SGptTjhRcjdZczZVd2hnRU9nVFV6dmpBWUhfdXNiZVRPdlV4RDFfcnY0cmktY3M4STRkcmVZWXBCOWl4T3RFTVZXMDdXTmd2bmNKVWM3enp4aUJOZ1RQWjB4dU5BWjI2TXRGczNWRzRzdGsxQVlRVXU5dFdXdHF5VjJVZ1dzNHgzX1VyZF9RQkNXZVFIOXRBTGNDblhEUQ?oc=5",
+      "published": "2026-05-01 00:16",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -107,42 +109,42 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 랠리와 연준 결정 속 미 증시 혼조세 마감",
-      "display_title": "유가 랠리와 연준 결정 속 미 증시 혼조세 마감",
-      "original_title": "US stocks end midweek mixed amid oil rally, Fed decision - Anadolu Ajansı",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "\"AI 투자 더 쓴다, 올해 7100억 달러\" 구글은 되고 메타는 안 되는 이유",
+      "display_title": "\"AI 투자 더 쓴다, 올해 7100억 달러\" 구글은 되고 메타는 안 되는 이유",
+      "original_title": "\"AI 투자 더 쓴다, 올해 $7100억\" 구글은 되고 메타는 안되는 이유 [빈난새의 개장전요것만] - 네이트",
       "summary": [
-        "미국 증시가 유가 상승세와 연방준비제도(Fed)의 정책 결정 발표 속에서 주중 혼조세를 보이며 마감했다.",
-        "유가 상승은 인플레이션 압력을 높여 연준의 긴축 우려를 키웠으나, 연준의 결정 내용에 대한 해석이 엇갈리면서 시장 방향성에 대한 불확실성이 증대되었다.",
-        "유가 변동성과 연준의 통화정책 기조가 시장에 미치는 영향을 종합적으로 분석하여 투자 전략을 수립해야 한다."
+        "올해 전 세계 AI 투자액이 7100억 달러에 달할 것으로 전망되며, 구글과 메타의 AI 투자 성과에 대한 상반된 평가가 제시되었습니다.",
+        "AI 시장의 폭발적인 성장을 보여주며, 기업별 AI 전략과 실행 능력에 따라 성패가 갈릴 수 있음을 시사합니다. 구글은 AI 인프라 및 서비스 통합에 강점을, 메타는 비전 실현에 어려움을 겪는 것으로 분석됩니다.",
+        "AI 관련 투자는 지속적으로 확대될 것이므로, 국내 기업들도 AI 전략의 구체성과 실행력을 면밀히 평가하여 투자 기회를 모색해야 합니다."
       ],
-      "summary_text": "미국 증시가 유가 상승세와 연방준비제도(Fed)의 정책 결정 발표 속에서 주중 혼조세를 보이며 마감했다. 유가 상승은 인플레이션 압력을 높여 연준의 긴축 우려를 키웠으나, 연준의 결정 내용에 대한 해석이 엇갈리면서 시장 방향성에 대한 불확실성이 증대되었다. 유가 변동성과 연준의 통화정책 기조가 시장에 미치는 영향을 종합적으로 분석하여 투자 전략을 수립해야 한다.",
-      "description": "국제 유가 랠리와 연방준비제도의 결정이 발표된 가운데, 미국 증시는 주중 혼조세로 마감했습니다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "올해 전 세계 AI 투자액이 7100억 달러에 달할 것으로 전망되며, 구글과 메타의 AI 투자 성과에 대한 상반된 평가가 제시되었습니다. AI 시장의 폭발적인 성장을 보여주며, 기업별 AI 전략과 실행 능력에 따라 성패가 갈릴 수 있음을 시사합니다. 구글은 AI 인프라 및 서비스 통합에 강점을, 메타는 비전 실현에 어려움을 겪는 것으로 분석됩니다. AI 관련 투자는 지속적으로 확대될 것이므로, 국내 기업들도 AI 전략의 구체성과 실행력을 면밀히 평가하여 투자 기회를 모색해야 합니다.",
+      "description": "올해 AI 투자액이 7100억 달러에 달할 것으로 예상되는 가운데, 구글은 AI 투자로 성공하고 메타는 어려움을 겪는 이유를 분석한다.",
+      "category": "기업·산업",
+      "importance": 9,
       "market_impact": "중립",
-      "related_sector": "에너지, 금융",
+      "related_sector": "AI, 소프트웨어, 반도체",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "중립",
-      "investment_reason": "유가와 연준 정책이라는 거시경제 핵심 변수가 동시에 작용하여 시장의 방향성을 예측하기 어렵게 만들고 있기 때문이다.",
-      "key_signal": "연준의 구체적인 메시지와 유가 안정화 여부가 향후 증시의 주요 변곡점이 될 것이다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 시장의 성장 규모와 주요 기업의 전략을 이해하는 것은 국내 AI 관련 기업들의 투자 가치를 평가하는 데 핵심적인 인사이트를 제공합니다.",
+      "key_signal": "국내 AI 관련 기업들이 어떤 전략으로 글로벌 경쟁에 참여하며, 구체적인 투자 성과를 창출하고 있는지 확인해야 합니다.",
       "keywords": [
-        "미 증시",
-        "유가 랠리",
-        "연준 결정",
-        "혼조세",
-        "통화정책"
+        "AI 투자",
+        "구글",
+        "메타",
+        "AI 전략",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjE0SDNVSTNqX3NnZzJOMlNwNVFsX21YTW9FbEZMZjd0VUhlMjBrR1A4a0VGQTFHbTV0SWczUHBKRnF2akl2WmZ1aHJaV3Zwc2d0NFNBbDQ1SWJfQ1RDT0EwVzlJdjRZRzhBWWtreGhyVnFzVnlMR0pkVTJQa2I1NU9qdGRob05IeDJkbDRkUGIwcWl6c0lMQjd1a1c?oc=5",
-      "published": "2026-04-30 05:46",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Dbm02QWNqZURlelY5UTVfdk50eFhIcXRJZmdsUWZKVUxRSVRVb250ZzNpYUhfMUYxWk1YZUN1UTRyUjFSMEc2d0x6VXVZc29xQk1qSm1SaU1xOUtYemFKSlNXaG5VMEVIX0VHVDg5bWw5ZFhxU2hHcA?oc=5",
+      "published": "2026-05-01 00:20",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -152,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이란 핵협상 기대감 약화 및 혼조된 기업 실적에 증시 하락 마감",
-      "display_title": "이란 핵협상 기대감 약화 및 혼조된 기업 실적에 증시 하락 마감",
-      "original_title": "Stocks close lower on fading hopes for quick Iran deal, mixed earnings - AOL.com",
+      "title": "나스닥, S&P 500 지수, 국채금리 상승에 사상 최고치에서 후퇴",
+      "display_title": "나스닥, S&P 500 지수, 국채금리 상승에 사상 최고치에서 후퇴",
+      "original_title": "Nasdaq and S&P 500 Retreated from Record Highs as Treasury Yields Climbed - HarianBasis.co",
       "summary": [
-        "이란 핵협상 타결에 대한 희망이 약해지고 기업들의 실적이 혼조세를 보이면서 미국 증시가 전반적으로 하락 마감했다.",
-        "이란 핵협상 지연은 국제 유가 상승 압력을 가중시키고 지정학적 불확실성을 높이는 요인으로 작용하며 시장에 부담을 주었다. 또한, 기업 실적이 일부 긍정적이었지만 전반적으로는 투자자들의 기대에 미치지 못했다.",
-        "지정학적 리스크가 유가 및 글로벌 경제에 미치는 영향을 주시하고, 개별 기업의 실적 발표 내용을 통해 시장의 방향성을 가늠해야 한다."
+        "미국 주요 증시(나스닥, S&P 500)가 국채금리 상승 압력으로 인해 사상 최고치에서 소폭 하락했습니다.",
+        "국채금리 상승은 기업의 자금 조달 비용 증가 및 증시 매력도 하락으로 이어질 수 있어 증시 전반에 부담을 줍니다.",
+        "금리 움직임이 증시 조정의 주요 원인이 될 수 있으므로, 향후 국채금리 동향을 면밀히 주시하며 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "이란 핵협상 타결에 대한 희망이 약해지고 기업들의 실적이 혼조세를 보이면서 미국 증시가 전반적으로 하락 마감했다. 이란 핵협상 지연은 국제 유가 상승 압력을 가중시키고 지정학적 불확실성을 높이는 요인으로 작용하며 시장에 부담을 주었다. 또한, 기업 실적이 일부 긍정적이었지만 전반적으로는 투자자들의 기대에 미치지 못했다. 지정학적 리스크가 유가 및 글로벌 경제에 미치는 영향을 주시하고, 개별 기업의 실적 발표 내용을 통해 시장의 방향성을 가늠해야 한다.",
-      "description": "빠른 이란 핵협상 타결에 대한 기대감이 약화되고 기업 실적이 혼조세를 보인 가운데, 주식 시장이 하락 마감했습니다.",
+      "summary_text": "미국 주요 증시(나스닥, S&P 500)가 국채금리 상승 압력으로 인해 사상 최고치에서 소폭 하락했습니다. 국채금리 상승은 기업의 자금 조달 비용 증가 및 증시 매력도 하락으로 이어질 수 있어 증시 전반에 부담을 줍니다. 금리 움직임이 증시 조정의 주요 원인이 될 수 있으므로, 향후 국채금리 동향을 면밀히 주시하며 투자 전략을 수립해야 합니다.",
+      "description": "국채금리 상승으로 나스닥과 S&P 500 지수가 사상 최고치에서 하락했다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "에너지, 방산, 기술주",
+      "related_sector": "증권, 채권",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "지정학적 리스크와 기업 실적 불확실성이 증시의 하방 압력으로 작용할 수 있으며, 이는 투자 심리를 위축시킬 수 있기 때문이다.",
-      "key_signal": "이란 핵협상 재개 가능성과 주요 기업들의 다음 실적 전망에 대한 발표를 면밀히 분석해야 한다.",
+      "investment_reason": "미국 증시의 방향성과 국채금리 동향이 국내 시장에도 영향을 미치므로 투자 전략 수립에 중요합니다.",
+      "key_signal": "미국 국채금리 변동이 국내외 증시에 미칠 영향을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "미 증시",
-        "이란 핵협상",
-        "유가",
-        "기업 실적",
-        "지정학적 리스크"
+        "미국 증시",
+        "국채금리",
+        "나스닥",
+        "S&P 500",
+        "금리인상"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9talpMR3d3eUZaTjNYbTJkRTdKSDZ2TlQyZHFPaXdvTDNmLWdBX01kQ3phMlVaRjluRDhEeUF2X2R4SkJwSEs0LXJNNzhtTFBWNkJ2bllEU0NNeGswZWloT3U5djFONUZ4OGhjdTdlVU1TVGN4MW85LQ?oc=5",
-      "published": "2026-04-30 04:07",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wdjhDNmE1VXdWc3RZNUVPbXdNWU1CSVAxZWpyR1NxNTJzUm4tdEpaMkxOd2FrT216Wll5Zlllc0dSUzFYazVpeHN4eXdvd0ttaUJaTjdGWl9fbDhrTEdzLVItSWh4LTZsb01jeFR3OHpKWlU?oc=5",
+      "published": "2026-05-01 05:27",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -194,36 +196,35 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[시선+]반도체 다음은 무엇? 증시 폭등과 냉랭한 체감경기 속 '반도체 착시' 한국 경제",
-      "display_title": "[시선+]반도체 다음은 무엇? 증시 폭등과 냉랭한 체감경기 속 '반도체 착시' 한국 경제",
-      "original_title": "[시선+]반도체 다음은 무엇? 증시는 폭등, 체감경기는 냉랭…'반도체 착시' 속 한국경제 - 시사의창",
+      "title": "삼성전자 300조 이익은 어떻게 흐르나",
+      "display_title": "삼성전자 300조 이익은 어떻게 흐르나",
+      "original_title": "삼성전자 300조 이익은 어떻게 흐르나 - 한국경제",
       "summary": [
-        "반도체 산업의 호황이 증시 폭등을 이끌고 있지만, 실물 경제 및 일반 국민의 체감 경기는 여전히 좋지 않아 '반도체 착시' 현상이 한국 경제에 나타나고 있다.",
-        "특정 산업(반도체)에 편중된 성장으로 인한 불균형은 경제 전반의 활력을 저해하고, 고용 창출 및 소득 분배 개선에 한계를 노출할 수 있다.",
-        "반도체 업종의 강세는 유효하나, 경제 전반의 건전성과 타 업종의 동반 성장을 위한 정부 정책 및 기업 투자의 변화를 주시해야 한다."
+        "삼성전자의 막대한 300조 원 이익이 어떤 방식으로 투자되고 주주에게 환원되는지 그 흐름에 대한 분석이 제시되었습니다.",
+        "삼성전자는 국내 시가총액 1위 기업으로, 막대한 이익은 연구개발, 시설투자, M&A, 배당 및 자사주 매입 등 다양한 방식으로 재투자되거나 주주에게 환원됩니다.",
+        "삼성전자의 이익 배분 전략은 국내 주요 기업들의 투자 및 주주 환원 정책의 방향성을 가늠하는 중요한 지표이며, 국내 증시 전반에 영향을 미칩니다."
       ],
-      "summary_text": "반도체 산업의 호황이 증시 폭등을 이끌고 있지만, 실물 경제 및 일반 국민의 체감 경기는 여전히 좋지 않아 '반도체 착시' 현상이 한국 경제에 나타나고 있다. 특정 산업(반도체)에 편중된 성장으로 인한 불균형은 경제 전반의 활력을 저해하고, 고용 창출 및 소득 분배 개선에 한계를 노출할 수 있다. 반도체 업종의 강세는 유효하나, 경제 전반의 건전성과 타 업종의 동반 성장을 위한 정부 정책 및 기업 투자의 변화를 주시해야 한다.",
-      "description": "반도체 산업의 호황으로 증시가 폭등하고 있지만, 일반 국민의 체감 경기는 여전히 냉랭하여 '반도체 착시' 현상 속 한국 경제의 불균형이 심화되고 있다는 분석입니다.",
-      "category": "국내 거시경제",
+      "summary_text": "삼성전자의 막대한 300조 원 이익이 어떤 방식으로 투자되고 주주에게 환원되는지 그 흐름에 대한 분석이 제시되었습니다. 삼성전자는 국내 시가총액 1위 기업으로, 막대한 이익은 연구개발, 시설투자, M&A, 배당 및 자사주 매입 등 다양한 방식으로 재투자되거나 주주에게 환원됩니다. 삼성전자의 이익 배분 전략은 국내 주요 기업들의 투자 및 주주 환원 정책의 방향성을 가늠하는 중요한 지표이며, 국내 증시 전반에 영향을 미칩니다.",
+      "description": "삼성전자의 막대한 이익 300조 원이 어떻게 사용되고 배분되는지 분석하는 기사.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "반도체, 제조업, 내수산업",
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT 하드웨어, 전자제품",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "특정 산업 편중 성장이 장기적으로 경제 전반의 리스크로 작용할 수 있으며, 이는 다양한 산업 섹터에 대한 투자 전략에 영향을 미치기 때문이다.",
-      "key_signal": "반도체 외 다른 산업의 성장 모멘텀과 정부의 내수 활성화 정책 방향을 지속적으로 모니터링해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "삼성전자의 이익 활용 방안은 국내 기업들의 투자 및 주주 환원 정책에 대한 기대치를 설정하며, 국내 증시의 방향성을 판단하는 데 중요합니다.",
+      "key_signal": "삼성전자의 향후 실적 발표 시 투자 계획(CAPEX), M&A 전략, 그리고 주주 환원 정책 변화 여부를 집중적으로 확인해야 합니다.",
       "keywords": [
-        "반도체 착시",
-        "한국 경제",
-        "증시 폭등",
-        "체감 경기",
-        "경제 불균형"
+        "삼성전자",
+        "이익 활용",
+        "주주환원",
+        "시설투자",
+        "MA"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xM1U4VWw5YUtzbjdyUzNYLU9wcE1pOFhCQzFqUUZtYkRXeU5zODZMZ25rNl92U3A0YjEzYmIxMGRhd1A2aFZmTTJBWkY5VVpxVjVMcA?oc=5",
-      "published": "2026-04-29 10:52",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SM19aRkFGSmhSUWF2eFpCbms5ajNBVzhvYzZOLUQ4OS1sQlVYZVpCYnE2d21VeUt3cGdfV2VCV2Q1dHNneTdqYkR2elA5ampzZk55X3p0TkctUdIBVEFVX3lxTFBtdmliYmhxbllUX0ZXZ2gyZEh6NDliZGNYbXRiNWY1OGN1LUtoUUVVaGFReFE5S2dta0RFTmd5MHBMZXBJVkVyS1hjbkxmRmVYRE8xWg?oc=5",
+      "published": "2026-05-01 06:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -232,42 +233,42 @@
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피 6690선 회복...AI 기대감 이면에 숨겨진 '비용 청구서'",
-      "display_title": "코스피 6690선 회복...AI 기대감 이면에 숨겨진 '비용 청구서'",
-      "original_title": "코스피 6690선 회복…AI 기대 뒤에 숨은 ‘비용 청구서’ - 이코노미사이언스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "이란 리스크에도 불구하고 S&P 500, 나스닥 지수 2020년 이후 최고 월간 실적 달성 전망",
+      "display_title": "이란 리스크에도 불구하고 S&P 500, 나스닥 지수 2020년 이후 최고 월간 실적 달성 전망",
+      "original_title": "S&P 500, Nasdaq on course for best month since 2020 despite Iran risks - AOL.com",
       "summary": [
-        "코스피 지수가 6690선을 회복했으나, AI 기술의 발전과 상용화에 따르는 막대한 투자 비용과 잠재적 재정 부담이 주목받고 있다.",
-        "AI 산업의 성장에 대한 기대감이 증시를 견인하고 있지만, 고성능 반도체 및 인프라 구축, 연구 개발 등에 필요한 막대한 투자는 기업들의 재정 부담으로 이어질 수 있다.",
-        "AI 관련 기업 투자 시 단순한 성장 기대감보다는 실제 수익성과 투자 대비 효율성을 면밀히 분석하여 옥석 가리기가 필요하다."
+        "이란 리스크에도 불구하고 S&P 500과 나스닥 지수가 2020년 이후 최고의 월간 실적을 기록할 것으로 전망됩니다.",
+        "지정학적 우려가 존재함에도 불구하고 기업 실적 기대감, 기술주 강세 등 펀더멘털 요인이 증시 상승을 견인하고 있는 것으로 풀이됩니다.",
+        "시장이 지정학적 리스크를 비교적 잘 소화하며 펀더멘털에 집중하고 있음을 보여주며, 이는 특정 위험에도 불구하고 강세장이 유지될 수 있다는 기대를 줍니다."
       ],
-      "summary_text": "코스피 지수가 6690선을 회복했으나, AI 기술의 발전과 상용화에 따르는 막대한 투자 비용과 잠재적 재정 부담이 주목받고 있다. AI 산업의 성장에 대한 기대감이 증시를 견인하고 있지만, 고성능 반도체 및 인프라 구축, 연구 개발 등에 필요한 막대한 투자는 기업들의 재정 부담으로 이어질 수 있다. AI 관련 기업 투자 시 단순한 성장 기대감보다는 실제 수익성과 투자 대비 효율성을 면밀히 분석하여 옥석 가리기가 필요하다.",
-      "description": "코스피 지수가 6690선을 회복했지만, 인공지능(AI) 기술에 대한 기대감 뒤에는 막대한 투자 비용과 그에 따른 부담이 숨어있다는 분석입니다.",
+      "summary_text": "이란 리스크에도 불구하고 S&P 500과 나스닥 지수가 2020년 이후 최고의 월간 실적을 기록할 것으로 전망됩니다. 지정학적 우려가 존재함에도 불구하고 기업 실적 기대감, 기술주 강세 등 펀더멘털 요인이 증시 상승을 견인하고 있는 것으로 풀이됩니다. 시장이 지정학적 리스크를 비교적 잘 소화하며 펀더멘털에 집중하고 있음을 보여주며, 이는 특정 위험에도 불구하고 강세장이 유지될 수 있다는 기대를 줍니다.",
+      "description": "이란 관련 지정학적 리스크에도 불구하고 S&P 500과 나스닥 지수가 2020년 이후 가장 좋은 월간 성적을 기록할 것으로 예상된다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "인공지능, 반도체, 소프트웨어",
+      "market_impact": "긍정",
+      "related_sector": "기술주, 증권",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 산업의 성장과 비용 부담이라는 양면성을 이해하고, 실제 기업 가치에 기반한 현명한 투자 전략을 수립하는 데 중요하기 때문이다.",
-      "key_signal": "AI 관련 기업들의 실제 투자 비용과 수익성 지표를 지속적으로 모니터링하여 지속 가능한 성장 여부를 판단해야 한다.",
+      "investment_reason": "지정학적 리스크에도 불구하고 미국 증시가 강세를 보이는 배경을 이해하는 것은 국내외 시장의 투자 심리 분석에 중요합니다.",
+      "key_signal": "시장이 지정학적 리스크를 얼마나 지속적으로 흡수할 수 있는지와 증시 강세의 근본적인 동력을 파악해야 합니다.",
       "keywords": [
-        "코스피",
-        "AI",
-        "인공지능",
-        "투자 비용",
-        "반도체"
+        "S&P 500",
+        "나스닥",
+        "증시 강세",
+        "이란 리스크",
+        "펀더멘털"
       ],
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkS2dCa1NrdWRIQWJ0YTBvYlh1RzJuZS1iX0tVYnRLdEx2eE1ITjg1VVFkREdKNkM4R25BRU4tVVVIZ2M2dGZzYWRWSTdsQ1VmY29aMmh1VWZ2LXQ3N3h0RjdXQV9JZFFmaWN4b3pkRQ?oc=5",
-      "published": "2026-04-29 16:31",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqZWJ1ckRPRFZzbDA1SUtCdVBtTEpfMkdHdWtKNFRmWndXWl9GMHJHYlBpZ2NaMl9hQWRmNnBrc2tSMmNVTS1ENDc4QlpENW9DSGhQZllwWHlvR2x0eks4RF9Wa2gtdnc1ZksyMWVlSm16dw?oc=5",
+      "published": "2026-05-01 01:38",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -276,70 +277,68 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "SK이노베이션",
-      "market": "KOSPI",
-      "sector": "정유 및 에너지",
-      "opinion": "중립",
-      "reason": "유가 랠리가 지속되며 에너지 관련주에 대한 관심은 여전하나, 연준의 통화정책 불확실성 및 유가 인플레이션 우려가 동시에 존재하여 유가 변동성에 대한 주의 깊은 관찰이 필요합니다.",
-      "check_points": [
-        "국제 유가 동향 및 OPEC+ 생산량 결정",
-        "연준의 금리 인상 스탠스 변화",
-        "환율 변동이 원가에 미치는 영향"
-      ],
-      "related_news_titles": [
-        "연준 회의 및 유가 인플레이션 우려 속 다우지수 큰 폭 하락",
-        "유가 랠리와 연준 결정 속 미 증시 혼조세 마감",
-        "이란 핵협상 기대감 약화 및 혼조된 기업 실적에 증시 하락 마감"
-      ]
-    },
-    {
-      "rank": 2,
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 산업 성장에 대한 기대감이 여전히 유효하나, 그 이면에 숨겨진 비용 부담과 한국 경제의 반도체 편중 성장에 대한 우려가 상존하므로, AI 관련 투자 및 비용 효율성을 중심으로 점검이 필요합니다.",
+      "reason": "엔비디아의 사상 최고치 기록 및 글로벌 AI 투자 확대 흐름 속에서 국내 반도체 산업의 핵심이자 AI 투자의 직접적인 수혜 기업으로 부각되고 있으며, 대규모 이익 활용 방안에 대한 기대감도 유효합니다.",
       "check_points": [
-        "AI 반도체 수요 및 실제 수익성 개선 여부",
-        "신규 투자 계획 및 파운드리 사업 확장",
-        "글로벌 반도체 시장 전반의 회복 속도"
+        "HBM 경쟁력 및 첨단 파운드리 수율 개선 여부",
+        "주주환원 정책 구체화",
+        "글로벌 IT 수요 회복세"
       ],
       "related_news_titles": [
-        "[시선+]반도체 다음은 무엇? 증시 폭등과 냉랭한 체감경기 속 '반도체 착시' 한국 경제",
-        "코스피 6690선 회복...AI 기대감 이면에 숨겨진 '비용 청구서'"
+        "엔비디아 주가 사상 최고치로 마감, 시가총액 다시 5조 달러 돌파",
+        "\"AI 투자 더 쓴다, 올해 7100억 달러\" 구글은 되고 메타는 안 되는 이유",
+        "삼성전자 300조 이익은 어떻게 흐르나"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "엔비디아의 주가 급등은 AI 반도체 시장의 강력한 성장세를 시사하며, SK하이닉스는 고대역폭 메모리(HBM) 시장의 선두 주자로서 직접적인 수혜가 예상되어 지속적인 관심이 필요합니다.",
+      "check_points": [
+        "HBM 생산 능력 및 신기술 개발 현황",
+        "AI 서버 수요 증가세",
+        "경쟁사와의 HBM 기술 격차"
+      ],
+      "related_news_titles": [
+        "엔비디아 주가 사상 최고치로 마감, 시가총액 다시 5조 달러 돌파"
       ]
     },
     {
       "rank": 3,
-      "name": "네이버",
+      "name": "한미반도체",
       "market": "KOSPI",
-      "sector": "인터넷 및 소프트웨어",
+      "sector": "반도체장비",
       "opinion": "관심",
-      "reason": "AI 기술 경쟁 심화와 서비스 확장에 대한 기대감으로 주목받고 있으나, AI 개발 및 운영에 수반되는 '비용 청구서'가 실제 기업 가치와 수익성에 어떤 영향을 미칠지 면밀한 분석이 필요합니다.",
+      "reason": "엔비디아 발 AI 반도체 시장의 강세는 HBM 생산에 필수적인 장비 기업들에게도 긍정적인 영향을 미치며, 한미반도체는 HBM 제조 공정의 핵심 장비 공급사로서 지속적인 관심이 필요합니다.",
       "check_points": [
-        "AI 서비스 도입 및 시장 반응",
-        "AI 관련 연구개발 및 인프라 투자 비용 구조",
-        "글로벌 빅테크 기업들과의 AI 경쟁 구도"
+        "주요 고객사향 HBM 장비 수주 상황",
+        "신규 장비 개발 및 양산 적용 여부",
+        "글로벌 반도체 장비 투자 동향"
       ],
       "related_news_titles": [
-        "코스피 6690선 회복...AI 기대감 이면에 숨겨진 '비용 청구서'"
+        "엔비디아 주가 사상 최고치로 마감, 시가총액 다시 5조 달러 돌파"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "주의",
-      "reason": "연준의 통화정책 불확실성, 지정학적 리스크, 그리고 전반적인 기업 실적 혼조세가 증시 하방 압력으로 작용할 경우 증권업계의 투자 심리 위축 및 실적에 부정적인 영향을 줄 수 있어 주의 깊은 관찰이 필요합니다.",
+      "sector": "소프트웨어",
+      "opinion": "관심",
+      "reason": "글로벌 AI 투자 확대 기조 속에서, AI 소프트웨어 및 플랫폼 분야의 성장이 강조되고 있으며, 네이버는 국내 대표 AI 기술 및 플랫폼 기업으로서 관련 시장 변화에 주목할 필요가 있습니다.",
       "check_points": [
-        "국내외 증시 거래량 및 변동성 추이",
-        "금리 및 통화 정책 변화가 자산 시장에 미치는 영향",
-        "부동산 프로젝트파이낸싱(PF) 관련 리스크 관리 현황"
+        "자체 AI 모델 개발 및 상용화 성과",
+        "AI 기반 신규 서비스 출시 여부",
+        "클라우드 및 광고 사업 성장성"
       ],
       "related_news_titles": [
-        "이란 핵협상 기대감 약화 및 혼조된 기업 실적에 증시 하락 마감",
-        "연준 회의 및 유가 인플레이션 우려 속 다우지수 큰 폭 하락"
+        "\"AI 투자 더 쓴다, 올해 7100억 달러\" 구글은 되고 메타는 안 되는 이유"
       ]
     }
   ],
