@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04 07:42",
-  "analysis_date": "2026-05-04",
+  "generated_at": "2026-05-05 07:58",
+  "analysis_date": "2026-05-05",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 불확실성 증대와 고유가발 인플레이션 압력으로 시장 전반의 신중론이 확산되는 가운데, 국내 증시는 저평가 매력을 바탕으로 숨 고르기 장세를 보일 전망입니다. AI 테마는 산업 지형을 재편하며 새로운 기회를 창출하고 있습니다.",
-    "국내거시경제": "고유가로 인한 물가 상승 압력이 국내 경제에 부담을 주며 주식시장에 신중론이 확산되고 있습니다.",
-    "글로벌경제": "고유가로 인한 전 세계적 인플레이션 압력이 가중되며 글로벌 경제 성장을 위협하고 있습니다. 또한, 트럼프 강세장에 대한 새로운 위협 요인과 연준 통화정책 기조 변화 가능성이 글로벌 시장의 변동성을 키울 전망입니다.",
-    "증시금리": "코스피는 7천 포인트 문턱에서 단기 조정을 겪고 있으나 국내 증시의 저평가 매력이 하방을 지지할 것으로 보입니다. 다만, 트럼프 강세장 위협 요인과 연준 통화정책 변화 가능성은 글로벌 증시에 변동성을 야기할 수 있으며, 고유가로 인한 물가 상승 압력은 금리 인하 기대감을 낮추는 요인으로 작용하고 있습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "AI 테마가 시가총액 순위를 재편하며 AI 인프라 구축에 필수적인 '부품 및 전력' 산업의 강세가 두드러지고 있습니다. 반면, 바이오 및 금융 섹터는 상대적으로 하락세를 보입니다.",
-    "오늘의투자시사점": "대외 불확실성과 물가 상승 압력에 대비하여 포트폴리오의 방어적 성격을 강화하고, 인플레이션 헤지 자산에 관심을 가질 필요가 있습니다. 국내 저평가 우량주에 대한 중장기적 접근은 유효하며, AI 인프라 관련 핵심 부품 및 전력 기업의 투자 기회를 모색할 것을 권합니다. 특히 5월 15일 전후 해외 시장 변동성에 유의해야 합니다.",
-    "오늘의한줄": "대외 불확실성 심화와 고유가발 인플레이션 압력 속, AI 테마와 국내 저평가 우량주에 주목하며 방어적 전략을 고려해야 합니다."
+    "총평": "미국 금리 정책 불확실성에도 불구하고 중동 리스크 완화와 외국인 매수세에 힘입어 국내 증시는 강세를 보이며 환율은 급락했습니다.",
+    "국내거시경제": "외국인 주식 순매수와 중동 지정학적 리스크 완화로 원·달러 환율이 20원 이상 급락하며 국내 증시 강세에 긍정적인 영향을 미쳤습니다.",
+    "글로벌경제": "연준 의장 교체 논의와 트럼프 전 대통령의 비판으로 미국 통화 정책의 불확실성이 증대되고 있으며, 이는 글로벌 금융 시장의 변동성을 키울 수 있습니다.",
+    "증시금리": "국내 코스피가 사상 첫 6,900선을 돌파하고 7,000선에 근접하는 강세를 보이며, 코스닥 시장으로도 유동성 유입이 기대됩니다. 한편, 미국 금리 정책 관련 정치적 발언에 따른 불확실성은 지속되고 있습니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "온세미컨덕터의 시장 예상치 상회 실적은 전력/아날로그 반도체 시장의 견조한 수요를 반영하며 글로벌 반도체 산업 회복세 및 국내 관련 기업 투자 심리에 긍정적입니다.",
+    "오늘의투자시사점": "미 연준의 정책 불확실성 확대에 따른 금리 및 환율 변동성에 대비하면서도, 국내 증시의 외국인 수급 강세와 환율 하락에 주목하여 수출주 및 대형주, 그리고 코스닥 유망 종목에 대한 관심이 유효합니다.",
+    "오늘의한줄": "국내 증시는 외국인 매수세로 강세, 환율은 급락했으나 미 연준 정책의 불확실성은 여전합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "관세는 잊어라! 이것이 트럼프 강세장에 대한 가장 큰 위협이며, 5월 15일에 현실이 될 것으로 예상된다.",
-      "display_title": "관세는 잊어라! 이것이 트럼프 강세장에 대한 가장 큰 위협이며, 5월 15일에 현실이 될 것으로 예상된다.",
-      "original_title": "Forget Tariffs! This Is the Single Greatest Threat to the Trump Bull Market, and It's Expected to Become a Reality on May 15. - AOL.com",
+      "title": "연준 의장 지명자 케빈 워시, 파월 의장 비판하며 중앙은행의 중대 변화 시사",
+      "display_title": "연준 의장 지명자 케빈 워시, 파월 의장 비판하며 중앙은행의 중대 변화 시사",
+      "original_title": "Fed Chair Nominee Kevin Warsh Just Threw Jerome Powell Under the Bus and Signaled a Major Shift at the Central Bank - AOL.com",
       "summary": [
-        "트럼프 강세장에 대한 가장 큰 위협 요인이 5월 15일 현실화될 가능성이 제기되었다.",
-        "관세보다 더 큰 위협으로, 시장 전반에 영향을 미칠 수 있는 새로운 요인이 부각되고 있어 투자자들의 주의가 요구된다.",
-        "투자자들은 5월 15일 전후로 발생할 수 있는 주요 시장 변동성에 대비하고, 관련 경제 지표 및 정책 발표를 주시해야 한다."
+        "연준 의장 지명 후보 케빈 워시가 현 제롬 파월 의장의 정책을 비판하며 연준의 정책 방향 전환 가능성을 제기했습니다.",
+        "연준 의장 교체 논의와 함께 미국 통화 정책의 불확실성이 증대되고 있으며, 이는 글로벌 금융 시장에 영향을 미칠 수 있습니다.",
+        "향후 연준 의장 인선 및 정책 기조 변화 가능성에 주목하여 금리 및 환율 변동성 확대에 대비해야 합니다."
       ],
-      "summary_text": "트럼프 강세장에 대한 가장 큰 위협 요인이 5월 15일 현실화될 가능성이 제기되었다. 관세보다 더 큰 위협으로, 시장 전반에 영향을 미칠 수 있는 새로운 요인이 부각되고 있어 투자자들의 주의가 요구된다. 투자자들은 5월 15일 전후로 발생할 수 있는 주요 시장 변동성에 대비하고, 관련 경제 지표 및 정책 발표를 주시해야 한다.",
-      "description": "관세는 잊어라! 이것이 트럼프 강세장에 대한 가장 큰 위협이며, 5월 15일에 현실이 될 것으로 예상된다.",
+      "summary_text": "연준 의장 지명 후보 케빈 워시가 현 제롬 파월 의장의 정책을 비판하며 연준의 정책 방향 전환 가능성을 제기했습니다. 연준 의장 교체 논의와 함께 미국 통화 정책의 불확실성이 증대되고 있으며, 이는 글로벌 금융 시장에 영향을 미칠 수 있습니다. 향후 연준 의장 인선 및 정책 기조 변화 가능성에 주목하여 금리 및 환율 변동성 확대에 대비해야 합니다.",
+      "description": "연준 의장 지명자 케빈 워시가 제롬 파월 현 의장을 강하게 비판하며 중앙은행의 정책에 큰 변화가 있을 수 있음을 시사했습니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "광범위한 시장",
+      "related_sector": "금융",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "카카오뱅크",
+        "신한지주",
+        "한국금융지주"
       ],
       "investment_view": "주의",
-      "investment_reason": "특정 날짜에 현실화될 수 있는 시장의 가장 큰 위협으로 지목되어 투자 전략에 신중한 접근이 필요하기 때문이다.",
-      "key_signal": "5월 15일에 발표될 경제/정책 관련 내용을 주시하며 시장의 반응을 면밀히 분석해야 한다.",
+      "investment_reason": "미국 연준의 리더십 변화 가능성은 글로벌 통화 정책의 방향을 바꿀 수 있으며, 이는 한국 증시의 금리 민감주 및 환율에 직접적인 영향을 미치기 때문입니다.",
+      "key_signal": "향후 연준 의장 지명 관련 소식과 케빈 워시의 발언을 지속적으로 주시해야 합니다.",
       "keywords": [
-        "트럼프 강세장",
-        "시장 위협",
-        "불확실성",
-        "5월 15일",
-        "정책 변화"
+        "연준",
+        "금리",
+        "파월",
+        "케빈 워시",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDhOM1U4Z2R1Y05sYmpYYVlCRnZycy1oSk9YMDhILXFCa0g2RXA5X1dvbFMtOVVWc3h1MUdlRkxwYk1LMkVUejRwWjVyWTMxR0N3eDUycXY2bFZVVVdkMUNmQ052Mml4d2ExU1pIQ0VkcHV5ZDRGMGZ3ejlQUV9DNUlOZHJPdEFV?oc=5",
-      "published": "2026-05-04 01:52",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vNW9ON1ptbUtOV1hPbTJLdHRad0pXZjZCeHpPS2dNLVBNeTVmcldwdjNNVV9zcXNTZUk2S3d3dGFxV0t4SmNnWFA3LVlfSXhLSUhacEF0WG05bm9BbUpyeDlsM0hzWU8wRFNnUU5DcHJwWGlTR2t4Z2VNaEFCUQ?oc=5",
+      "published": "2026-05-05 06:27",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,38 +67,42 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "연준 의장 지명자 케빈 워시, 제롬 파월을 비판하며 중앙은행의 중대한 변화를 시사했다.",
-      "display_title": "연준 의장 지명자 케빈 워시, 제롬 파월을 비판하며 중앙은행의 중대한 변화를 시사했다.",
-      "original_title": "Fed Chair Nominee Kevin Warsh Just Threw Jerome Powell Under the Bus and Signaled a Major Shift at the Central Bank - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "원·달러 환율 20원 이상 급락하며 '중동전쟁 이후 최저치', 코스피 사상 첫 6,900선 돌파",
+      "display_title": "원·달러 환율 20원 이상 급락하며 '중동전쟁 이후 최저치', 코스피 사상 첫 6,900선 돌파",
+      "original_title": "원·달러 환율, 20원 넘게 급락 '중동전쟁 이후 최저치'...코스피는 사상 첫 6,900선 돌파 - 베타뉴스",
       "summary": [
-        "연준 의장 지명자인 케빈 워시가 제롬 파월 전 의장의 정책을 비판하며, 연준의 정책 기조에 큰 변화가 있을 것을 예고했다.",
-        "이는 연준의 통화정책 방향이 기존 파월 시대와는 다른 길로 갈 수 있음을 강력히 시사하며, 시장에 예상치 못한 변동성을 야기할 수 있다.",
-        "새로운 연준 리더십의 통화정책 스탠스 변화 가능성에 대비하여 포트폴리오를 조정하고, 관련 시장 변동성에 유의해야 한다."
+        "원·달러 환율이 중동전쟁 이후 최저치로 20원 이상 급락했으며, 동시에 코스피 지수는 사상 최초로 6,900선을 돌파했습니다.",
+        "이는 중동 지정학적 리스크 완화, 미국 금리 인하 기대감, 그리고 외국인 투자자들의 국내 주식 대규모 순매수세가 복합적으로 작용한 결과로 보입니다.",
+        "환율 하락은 외국인 자금 유입을 촉진하고 국내 증시에 긍정적인 영향을 미치므로, 수출주 및 외국인 선호 대형주에 대한 관심이 유효합니다."
       ],
-      "summary_text": "연준 의장 지명자인 케빈 워시가 제롬 파월 전 의장의 정책을 비판하며, 연준의 정책 기조에 큰 변화가 있을 것을 예고했다. 이는 연준의 통화정책 방향이 기존 파월 시대와는 다른 길로 갈 수 있음을 강력히 시사하며, 시장에 예상치 못한 변동성을 야기할 수 있다. 새로운 연준 리더십의 통화정책 스탠스 변화 가능성에 대비하여 포트폴리오를 조정하고, 관련 시장 변동성에 유의해야 한다.",
-      "description": "연준 의장 지명자 케빈 워시가 제롬 파월을 비판하며 중앙은행의 중대한 정책 변화를 시사했다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 경제 전반",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "연준의 통화 정책 기조 변화는 시장의 유동성과 기업 실적에 중대한 영향을 미치므로 면밀히 관찰해야 한다.",
-      "key_signal": "케빈 워시의 향후 발언과 연준의 정책 변화 방향을 집중적으로 모니터링해야 한다.",
+      "summary_text": "원·달러 환율이 중동전쟁 이후 최저치로 20원 이상 급락했으며, 동시에 코스피 지수는 사상 최초로 6,900선을 돌파했습니다. 이는 중동 지정학적 리스크 완화, 미국 금리 인하 기대감, 그리고 외국인 투자자들의 국내 주식 대규모 순매수세가 복합적으로 작용한 결과로 보입니다. 환율 하락은 외국인 자금 유입을 촉진하고 국내 증시에 긍정적인 영향을 미치므로, 수출주 및 외국인 선호 대형주에 대한 관심이 유효합니다.",
+      "description": "원·달러 환율이 20원 넘게 급락하여 중동전쟁 이후 최저치를 기록했으며, 코스피는 역사상 처음으로 6,900선을 돌파했습니다.",
+      "category": "국내 거시경제",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "전 업종",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스",
+        "현대차"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "환율 급락과 코스피 사상 최고치 경신은 외국인 투자자의 국내 증시 유입 가속화 및 전반적인 시장 심리 개선을 의미하며, 이는 장기적인 증시 상승 동력이 될 수 있기 때문입니다.",
+      "key_signal": "외국인 투자자의 국내 주식 순매수 기조 지속 여부와 글로벌 환율 시장 동향을 면밀히 주시해야 합니다.",
       "keywords": [
-        "연준",
-        "케빈 워시",
-        "제롬 파월",
-        "통화 정책 변화",
-        "중앙은행"
+        "원달러 환율",
+        "코스피",
+        "외국인 매수",
+        "환율 급락",
+        "증시 상승"
       ],
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vNW9ON1ptbUtOV1hPbTJLdHRad0pXZjZCeHpPS2dNLVBNeTVmcldwdjNNVV9zcXNTZUk2S3d3dGFxV0t4SmNnWFA3LVlfSXhLSUhacEF0WG05bm9BbUpyeDlsM0hzWU8wRFNnUU5DcHJwWGlTR2t4Z2VNaEFCUQ?oc=5",
-      "published": "2026-05-03 23:13",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhYW1ZaTJEZE9QaklVR1ZNcU13YnpxaGZNRi1yTTlSMHJCUG5xTDdzY1M3M09ybUd4WnNaYzdPWkxkbGVUOGVjOE02NWhoN0U2U1FGQzJoNnMtRVVWWk9rc0ktenM?oc=5",
+      "published": "2026-05-04 18:49",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -108,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 테마가 시가총액 순위를 뒤흔들다…'부품 및 전력' 상승, '바이오 및 금융' 하락.",
-      "display_title": "AI 테마가 시가총액 순위를 뒤흔들다…'부품 및 전력' 상승, '바이오 및 금융' 하락.",
-      "original_title": "AI Theme Shakes Up Market Cap Rankings… ‘Components and Power’ Rise as ‘Biotech and Finance’ Fall - IT조선",
+      "title": "트럼프, 모기지 금리 6.5% 이상 유지 및 10년물 국채수익률 상승에 파월 연준 의장 '재앙'이라 비난",
+      "display_title": "트럼프, 모기지 금리 6.5% 이상 유지 및 10년물 국채수익률 상승에 파월 연준 의장 '재앙'이라 비난",
+      "original_title": "Trump slams Fed Chair Jerome Powell as ‘Disaster’ as Mortgage rates Stay above 6.5% and 10-year yield near - The Economic Times",
       "summary": [
-        "인공지능(AI) 테마가 전 세계 시가총액 순위를 재편하며, AI 관련 '부품 및 전력' 산업의 강세가 두드러지고 있다.",
-        "AI 기술의 발전과 상용화가 가속화되면서 AI 인프라 구축에 필수적인 반도체, 전력, 냉각 시스템 등 관련 부품 산업의 수요가 급증하고 있다.",
-        "AI 산업의 장기적인 성장 가능성에 주목하고, AI 인프라 구축에 필수적인 핵심 부품 및 전력 관련 기업에 대한 투자 기회를 모색해야 한다."
+        "트럼프 전 대통령이 높은 모기지 금리와 국채수익률을 이유로 제롬 파월 연준 의장을 비난하며, 통화 정책에 대한 불만을 표출했습니다.",
+        "미국 대선이 다가오면서 정치권의 연준 정책 개입 압력이 커지고 있으며, 이는 연준의 독립성과 향후 금리 정책에 대한 시장의 불확실성을 가중시킵니다.",
+        "정치적 발언이 연준의 통화 정책 결정에 미칠 수 있는 영향과 금리 인하 기대감 변화 가능성을 주시해야 합니다."
       ],
-      "summary_text": "인공지능(AI) 테마가 전 세계 시가총액 순위를 재편하며, AI 관련 '부품 및 전력' 산업의 강세가 두드러지고 있다. AI 기술의 발전과 상용화가 가속화되면서 AI 인프라 구축에 필수적인 반도체, 전력, 냉각 시스템 등 관련 부품 산업의 수요가 급증하고 있다. AI 산업의 장기적인 성장 가능성에 주목하고, AI 인프라 구축에 필수적인 핵심 부품 및 전력 관련 기업에 대한 투자 기회를 모색해야 한다.",
-      "description": "AI 테마가 시장 시가총액 순위를 변화시키며, 부품 및 전력 관련 산업은 상승하고 바이오 및 금융 산업은 하락세를 보이고 있다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 전력, AI 인프라, IT 하드웨어",
+      "summary_text": "트럼프 전 대통령이 높은 모기지 금리와 국채수익률을 이유로 제롬 파월 연준 의장을 비난하며, 통화 정책에 대한 불만을 표출했습니다. 미국 대선이 다가오면서 정치권의 연준 정책 개입 압력이 커지고 있으며, 이는 연준의 독립성과 향후 금리 정책에 대한 시장의 불확실성을 가중시킵니다. 정치적 발언이 연준의 통화 정책 결정에 미칠 수 있는 영향과 금리 인하 기대감 변화 가능성을 주시해야 합니다.",
+      "description": "도널드 트럼프 전 대통령이 높은 모기지 금리와 10년물 국채수익률 상승을 이유로 제롬 파월 연준 의장을 '재앙'이라고 강력히 비난했습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "LS ELECTRIC"
+        "신한지주",
+        "KB금융",
+        "미래에셋증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 기술 발전이 가져오는 산업 구조 변화에 따라 새로운 투자 기회가 명확하게 부각되고 있기 때문이다.",
-      "key_signal": "AI 관련 부품 및 전력 산업의 기술 발전 동향과 시장 수요 변화를 지속적으로 관찰하여 선별적 투자를 고려해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 대선을 앞두고 연준의 독립성 논란과 금리 정책 불확실성이 커지며 글로벌 금융 시장 변동성이 확대될 수 있기 때문입니다.",
+      "key_signal": "향후 미국 대선 후보들의 연준 및 통화 정책 관련 발언에 주목하며 금리 인하 기대감 변화를 모니터링해야 합니다.",
       "keywords": [
-        "AI 테마",
-        "시가총액",
-        "부품 산업",
-        "전력 산업",
-        "산업 재편"
+        "트럼프",
+        "파월",
+        "연준",
+        "금리",
+        "모기지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSURLaDVzWG9rWm5zU1EyeGNEaWsxMVdlcnNsZUFMVjVtaUxTTjNIcGJ1RlVrdVpqSXhXeG1fb2FlSDFUeU1rRG5WVk1LMS1Hd081VWtwLXNUbEN6cWNmNUlLZEdFSXFJdlJRRzVhcy1sNnIz0gF0QVVfeXFMT1ZJREtoNXNYb2tabnNTUTJ4Y0RpazExV2Vyc2xlQUxWNW1pTFNOM0hwYnVGVWt1WmpJeFd4bV9vYWVIMVR5TWtEblZWTUsxLUd3TzVVa3Atc1RsQ3pxY2Y1SUtkR0VJcUl2UlFHNWFzLWw2cjM?oc=5",
-      "published": "2026-05-04 04:46",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPLUxyeG9ubmdNLUYwSDJzN3V6UEpuUmYyMmtGVTJmODdmSXlfeDBPQXhELUJDSDBLWkdFTWVHV2RwRS02TEp0VUcwckVlSlVTdTlZMmRRNXE2ZU10YlBlUUs4Vk1tMmFRQXdMTDVWdWdSUGljZDhmdWoxeVdJOFFlaGlqcTNkWlNJSGFQQV91UDI0Q3g0UkFfN00xUU1aRGstYXNldDdXNHhwSXh3MHZVQmFyemZPMWpYMXJDWVFsSXlCSkZudm1venFsMDNJZVVzYWZpSnpwSnp1RXF6MzlrVFNmQUlFc0U0R244V1ZkOVNSVk1WUkxYLTZvYmRwR3daTUhWUVMyR1JpM3p0aHNHcmh30gGXAkFVX3lxTFBCemNrRGxTUTIxWnppY1R6YTR4Wkt5TFRmVkE1WjlfR2Iwdl9JVzduNWg1ZGdkR2NsVDRnZHN3dm5Cdkd0b0JkSTc3Q3dMNWhwWkZiT1NNSlhfTjJCMjU0aFJueF9rV1ZHWlpGMmh1b2luREV5R2tRb1pBR210aWxaWHQ2RVdsaEpqMGVvQ3FaeEJ0dGZ5ZTdfUVl1aUFjWjFON1pZbWI0X2VubkNQUnctaXVXRWxEZ3piTXpvbG4xZlVrelM5SlZBOS1UNGVMRjl6SUcxRHd0ZUxWb1d3ZFdWcjRaaVhic3VVa1JiQmJBTW9FVlF3TUNxYndzT0c2R0tJVUFTaTQ4VkNHdV9zMGYxRi1MSXdhMA?oc=5",
+      "published": "2026-05-05 04:34",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -147,84 +151,84 @@
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 급등, 전 세계적 긴장 유발 및 연료, 식료품, 운송 비용 상승의 도미노 효과로 세계 경제 위협, 여러 국가에서 인플레이션 압력 가중.",
-      "display_title": "유가 급등, 전 세계적 긴장 유발 및 연료, 식료품, 운송 비용 상승의 도미노 효과로 세계 경제 위협, 여러 국가에서 인플레이션 압력 가중.",
-      "original_title": "Oil price surge triggers global tension and threatens the world economy with a domino effect that drives up the cost of fuels, food, and transport, and puts pressure on inflation in several countries. - CPG Click Petróleo e Gás",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[외환-마감] 외국인 주식 폭풍 매수로 원·달러 환율 20원 급락…이란 사태 이후 최저치",
+      "display_title": "[외환-마감] 외국인 주식 폭풍 매수로 원·달러 환율 20원 급락…이란 사태 이후 최저치",
+      "original_title": "[외환-마감] 外人 주식 폭풍매수로 20원 털썩…이란戰 이후 최저 - 연합인포맥스",
       "summary": [
-        "유가 급등이 전 세계적인 긴장을 유발하고 연료, 식료품, 운송 비용을 상승시켜 인플레이션 압력을 가중시키고 있다.",
-        "고유가는 실물 경제 전반에 걸쳐 생산 및 소비 비용을 증가시키고, 이는 글로벌 경제 성장을 저해하며 각국의 통화 정책에도 영향을 미친다.",
-        "인플레이션 헤지 자산에 대한 관심이 높아질 수 있으며, 에너지 관련 기업의 실적 변동성과 고유가로 인한 소비 위축 가능성을 고려해야 한다."
+        "외국인 투자자들의 대규모 국내 주식 매수세로 인해 원·달러 환율이 20원 이상 급락하며 이란 사태 이후 최저 수준을 기록했습니다.",
+        "중동 지정학적 리스크 완화와 한국 증시에 대한 외국인 투자 매력이 높아지면서 자금 유입이 가속화되는 시장 상황을 반영합니다.",
+        "외국인 수급은 국내 증시의 중요한 상승 동력이므로, 환율 하락과 외국인 순매수세가 지속될 경우 국내 주식 시장의 추가적인 강세가 기대됩니다."
       ],
-      "summary_text": "유가 급등이 전 세계적인 긴장을 유발하고 연료, 식료품, 운송 비용을 상승시켜 인플레이션 압력을 가중시키고 있다. 고유가는 실물 경제 전반에 걸쳐 생산 및 소비 비용을 증가시키고, 이는 글로벌 경제 성장을 저해하며 각국의 통화 정책에도 영향을 미친다. 인플레이션 헤지 자산에 대한 관심이 높아질 수 있으며, 에너지 관련 기업의 실적 변동성과 고유가로 인한 소비 위축 가능성을 고려해야 한다.",
-      "description": "유가 급등은 전 세계적 긴장을 유발하고 연료, 식료품, 운송 비용 상승의 도미노 효과로 세계 경제를 위협하며, 여러 국가에서 인플레이션 압력을 가중시키고 있다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "정유, 운송, 식료품, 항공",
+      "summary_text": "외국인 투자자들의 대규모 국내 주식 매수세로 인해 원·달러 환율이 20원 이상 급락하며 이란 사태 이후 최저 수준을 기록했습니다. 중동 지정학적 리스크 완화와 한국 증시에 대한 외국인 투자 매력이 높아지면서 자금 유입이 가속화되는 시장 상황을 반영합니다. 외국인 수급은 국내 증시의 중요한 상승 동력이므로, 환율 하락과 외국인 순매수세가 지속될 경우 국내 주식 시장의 추가적인 강세가 기대됩니다.",
+      "description": "마감된 외환 시장에서 외국인 투자자들의 대규모 주식 순매수로 인해 원·달러 환율이 20원 급락하며 이란 사태 이후 최저치를 기록했습니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "전 업종",
       "related_stocks": [
-        "SK이노베이션",
-        "대한항공",
-        "CJ제일제당"
+        "삼성전자",
+        "현대차",
+        "POSCO홀딩스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "고유가로 인한 인플레이션 압력과 글로벌 경기 둔화 가능성이 높아져 투자 위험 관리가 필요하다.",
-      "key_signal": "국제 유가 동향과 각국의 물가 지표, 중앙은행의 금리 인상 스탠스 변화를 면밀히 모니터링해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "외국인 매수세에 힘입은 환율 하락과 증시 상승은 국내 시장에 대한 긍정적인 투자 심리를 나타내며, 이는 앞으로도 지속적인 외국인 자금 유입을 기대하게 합니다.",
+      "key_signal": "외국인 투자자의 국내 증시 순매수 강도와 달러화 대비 원화의 추가 강세 여부를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "유가 급등",
-        "인플레이션",
-        "글로벌 경제",
-        "비용 상승",
-        "금리 압력"
+        "외환",
+        "환율",
+        "외국인 투자",
+        "원달러",
+        "증시 강세"
       ],
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONl93MUdWMnhKdlpmVTBQblBBS3hsZXhucjdEZGg1dHhMd0lFRjR1U3c2TGx3TEtYX2dJMDVDN3RsUHpFYXVCai1wVERvWDNQYjU5b244aXZIU1VBeUx0dVNPYWNrTzhNZ3RoOWdxdnNwWFNOalNpcGFfV3FTZmRSQ09iY1RUZmJOX0wzREN3TkVCY01iOVE3QmFuUmFXSGVCWnRIT01HSndyQ2syNnJmZW4zV2EtejRTeDNzRHd1aDJzVXpjeGh5ZFhTc09VYTFkbTZLWnliWEdFOVV5dC1EaWhLa2hrMF85OUNJVERBMVFqc21NbXhYcFY2b2RMQlZQYVRYVzZXLVRrY05XUzBPXw?oc=5",
-      "published": "2026-05-04 00:25",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lNWVHOXQ4YXBLYkNaMl9UVEFGWXNGY2E0dml2YlBGNXg3VUxBSlZlODdBNVd0ZUNtVW0tS0hFZU95QUFhVWd3VzlNQkxYMWREYURqX1FPTTlkV3J4cXlsdkN4T2h3dVdkcTVzcDdnbGRaeVdD0gF0QVVfeXFMTmU1ZUc5dDhhcEtiQ1oyX1RUQUZZc0ZjYTR2aXZiUEY1eDdVTEFKVmU4N0E1V3RlQ21VbS1LSEVlT3lBQWFVZ3dXOU1CTFgxZERhRGpfUU9NOWRXcnhxeWx2Q3hPaHd1V2RxNXNwN2dsZFp5V0M?oc=5",
+      "published": "2026-05-04 18:38",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "'고유가 부담' 곧 다가올 물가 상승…주식시장 드리운 '신중론'",
-      "display_title": "'고유가 부담' 곧 다가올 물가 상승…주식시장 드리운 '신중론'",
-      "original_title": "'고유가 부담' 곧 다가올 물가 상승…주식시장 드리운 '신중론' - 뉴스1",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "온세미컨덕터, 2026년 1분기 예상치 상회하는 실적 발표, 주가 상승",
+      "display_title": "온세미컨덕터, 2026년 1분기 예상치 상회하는 실적 발표, 주가 상승",
+      "original_title": "Earnings call transcript: ON Semiconductor beats Q1 2026 forecasts, stock up - Investing.com",
       "summary": [
-        "고유가로 인한 물가 상승 압력이 커지면서 주식 시장 전반에 신중론이 대두되고 있다.",
-        "국제 유가 상승은 생산 비용 증가와 소비 위축으로 이어져 기업 실적에 부정적인 영향을 미치고, 이는 금리 인하 기대감을 낮춰 시장의 하방 압력을 높이는 요인이 된다.",
-        "물가 상승 압력에 강하거나 방어적인 성격의 업종에 관심을 가지고, 고유가와 고물가에 취약한 소비재 및 성장주 투자에는 신중해야 한다."
+        "온세미컨덕터가 2026년 1분기 실적 발표에서 시장 전망치를 웃도는 매출과 이익을 기록하며 주가가 상승했습니다.",
+        "이는 전력 반도체 및 아날로그 반도체 시장의 견조한 수요, 특히 자동차 및 산업 부문의 성장에 힘입은 것으로 분석됩니다.",
+        "온세미컨덕터의 호실적은 글로벌 반도체 산업의 회복세와 전력/아날로그 반도체 분야의 성장 가능성을 시사하며, 관련 국내 기업 투자 심리에 긍정적인 영향을 줄 수 있습니다."
       ],
-      "summary_text": "고유가로 인한 물가 상승 압력이 커지면서 주식 시장 전반에 신중론이 대두되고 있다. 국제 유가 상승은 생산 비용 증가와 소비 위축으로 이어져 기업 실적에 부정적인 영향을 미치고, 이는 금리 인하 기대감을 낮춰 시장의 하방 압력을 높이는 요인이 된다. 물가 상승 압력에 강하거나 방어적인 성격의 업종에 관심을 가지고, 고유가와 고물가에 취약한 소비재 및 성장주 투자에는 신중해야 한다.",
-      "description": "고유가로 인한 부담과 물가 상승 가능성이 커지면서 주식 시장에 신중론이 확산되고 있다.",
-      "category": "증시·금리",
+      "summary_text": "온세미컨덕터가 2026년 1분기 실적 발표에서 시장 전망치를 웃도는 매출과 이익을 기록하며 주가가 상승했습니다. 이는 전력 반도체 및 아날로그 반도체 시장의 견조한 수요, 특히 자동차 및 산업 부문의 성장에 힘입은 것으로 분석됩니다. 온세미컨덕터의 호실적은 글로벌 반도체 산업의 회복세와 전력/아날로그 반도체 분야의 성장 가능성을 시사하며, 관련 국내 기업 투자 심리에 긍정적인 영향을 줄 수 있습니다.",
+      "description": "온세미컨덕터가 2026년 1분기 실적 발표에서 시장 예상치를 뛰어넘는 호실적을 기록하며 주가가 상승했습니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "에너지, 방산, 인프라, 소비재",
+      "market_impact": "긍정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "한국전력",
-        "현대로템",
-        "S-Oil"
+        "SK하이닉스",
+        "DB하이텍",
+        "LX세미콘"
       ],
-      "investment_view": "주의",
-      "investment_reason": "고유가로 인한 물가 상승은 국내 기업의 비용 부담을 가중시키고 소비 심리를 위축시켜 증시에 부정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "국제 유가 동향과 국내 소비자 물가 지수 발표, 한국은행의 통화 정책 스탠스 변화를 면밀히 주시해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "온세미컨덕터의 실적 호조는 글로벌 반도체 시장의 회복 및 특정 반도체 분야의 견고한 수요를 반영하며, 이는 국내 반도체 관련 기업들의 실적 기대감을 높일 수 있기 때문입니다.",
+      "key_signal": "글로벌 전력 반도체 및 아날로그 반도체 수요 추이와 관련 기업들의 추가 실적 발표를 주시해야 합니다.",
       "keywords": [
-        "고유가",
-        "물가 상승",
-        "신중론",
-        "주식 시장",
-        "인플레이션"
+        "온세미컨덕터",
+        "반도체",
+        "실적",
+        "전력반도체",
+        "자동차"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSX3JnNHgyUWEzR2dNcGoxWmZFR1pIQTNzVFhvUFR4NXFka2hNVmdDZjNjMFpvQ0hzb2kzN0JOWU5QNXhISkNEV3NrRFp5RWY1RndnaGY0N2U4TlAyU0pZ?oc=5",
-      "published": "2026-05-04 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3ZrOU11RjJVczJNX2ppdUgydWFmV1g4V0loV2VjNHBQWlNRT3AzanR6LWNUZkFsR2VlWnU4aWJtRmVfZFI3SkhDenF3RFVHTmZQd1l0bEVfY0pkbE1lN29UcXhiX0pCZk9NSU5ETDJibVVpdGJPVWhyTndDcXpSbW9UVnZ6VlZZaE1SckhsZzNVTDZOOVpoNzdkSDlCNVdNRHZ4SUw5bzhRZVhTeGVib3JXNmxBNzd2QWR4Q1FtdjBnbjlnZnJyZU9R?oc=5",
+      "published": "2026-05-05 07:30",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -234,37 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[주간증시전망] 코스피, '7천p' 문턱에서 숨 고르기…저평가 매력이 버팀목.",
-      "display_title": "[주간증시전망] 코스피, '7천p' 문턱에서 숨 고르기…저평가 매력이 버팀목.",
-      "original_title": "[주간증시전망] 코스피, ‘7천피’ 문턱서 숨 고르기…저평가 매력이 버팀목 - 브릿지경제",
+      "title": "코스피 7000선 눈앞, 코스닥 투자 유망 종목 분석",
+      "display_title": "코스피 7000선 눈앞, 코스닥 투자 유망 종목 분석",
+      "original_title": "코스피 7000선 눈앞, 코스닥은 어떤 종목을 봐야 하나 - christiandaily.co.kr",
       "summary": [
-        "코스피 지수가 7천 포인트 문턱에서 단기 조정을 겪고 있으나, 국내 증시의 저평가 매력이 하방을 지지할 것으로 전망된다.",
-        "최근 상승세 이후 차익 실현 매물 출회와 외부 불확실성 요인으로 숨 고르기 장세가 예상되지만, 기업 밸류업 프로그램 등 저평가 해소 기대감이 시장의 급락을 제한할 것으로 보인다.",
-        "저평가된 우량주 중심의 투자 전략을 유지하며, 단기 변동성보다는 중장기적인 관점에서 접근하는 것이 유효하다."
+        "코스피가 사상 최고치에 근접하는 강세장 속에서 코스닥 시장의 투자 유망 종목들에 대한 관심이 커지고 있습니다.",
+        "코스피 대형주 랠리에 이어 중소형주 및 성장주 중심의 코스닥 시장으로도 유동성 유입이 기대되는 상황을 반영합니다.",
+        "국내 증시의 전반적인 강세 속에서 코스닥 시장의 특정 섹터 및 종목의 상승 잠재력을 파악하고 투자 기회를 모색해야 합니다."
       ],
-      "summary_text": "코스피 지수가 7천 포인트 문턱에서 단기 조정을 겪고 있으나, 국내 증시의 저평가 매력이 하방을 지지할 것으로 전망된다. 최근 상승세 이후 차익 실현 매물 출회와 외부 불확실성 요인으로 숨 고르기 장세가 예상되지만, 기업 밸류업 프로그램 등 저평가 해소 기대감이 시장의 급락을 제한할 것으로 보인다. 저평가된 우량주 중심의 투자 전략을 유지하며, 단기 변동성보다는 중장기적인 관점에서 접근하는 것이 유효하다.",
-      "description": "이번 주 코스피 지수가 7천 포인트를 앞두고 숨 고르기에 들어가지만, 국내 증시의 저평가 매력이 하방을 지지할 것이라는 전망이다.",
+      "summary_text": "코스피가 사상 최고치에 근접하는 강세장 속에서 코스닥 시장의 투자 유망 종목들에 대한 관심이 커지고 있습니다. 코스피 대형주 랠리에 이어 중소형주 및 성장주 중심의 코스닥 시장으로도 유동성 유입이 기대되는 상황을 반영합니다. 국내 증시의 전반적인 강세 속에서 코스닥 시장의 특정 섹터 및 종목의 상승 잠재력을 파악하고 투자 기회를 모색해야 합니다.",
+      "description": "코스피 지수가 7000선 돌파를 눈앞에 둔 상황에서, 코스닥 시장에서 주목해야 할 투자 유망 종목들을 분석했습니다.",
       "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "저평가 대형주, 금융, 지주사",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "코스닥",
       "related_stocks": [
-        "KB금융",
-        "삼성물산",
-        "현대차"
+        "에코프로비엠",
+        "HLB",
+        "카카오게임즈"
       ],
       "investment_view": "관심",
-      "investment_reason": "저평가 매력이 하방 경직성을 제공하며, 기업 밸류업 프로그램 등 정책 기대감이 여전히 유효하여 장기적 관점에서 긍정적이다.",
-      "key_signal": "외국인 및 기관의 수급 동향과 기업 밸류업 프로그램 관련 후속 조치 발표에 주목해야 한다.",
+      "investment_reason": "국내 증시 전반의 강세가 이어질 경우, 코스피 대비 잠재 성장률이 높은 코스닥 시장 내 유망 종목 발굴을 통해 추가 수익을 기대할 수 있기 때문입니다.",
+      "key_signal": "코스닥 시장의 수급 변화와 업종별 상승 동력을 지속적으로 관찰하며 유망 종목을 선별해야 합니다.",
       "keywords": [
         "코스피",
-        "7천포인트",
-        "저평가",
-        "밸류업 프로그램",
-        "주간 증시"
+        "코스닥",
+        "증시 전망",
+        "성장주",
+        "투자 전략"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84TFFXa3dWcjRoNFZISDBZMjdMbXB5YzlCQS10T2RwMG1fV2Z1OU5JVlprUlVvamozMzF6bEJvMWowS1ZBVTRtOVpzMUM2YjdBY1JMb3F4bjlPUQ?oc=5",
-      "published": "2026-05-03 10:27",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwMEw3bFdyeHVvNmdEYUxDamR4S1daYlRhRVRwRlZkbkM0LU1xZ1JoWEpya080THVJaDdFQWU4WF80bDlOQ2VZaUtjRjYwd05RcHc1Z2R5NNIBXEFVX3lxTE5XRnYzdlBoVkctWktKTnhMMDlWYXZHNkpaaldfMjV5X3hicVQtUUU1eTNhY3NoZUtXWWJ5dUxlWjNCYzh2RHRTZHpnSy1LODR0OTlIemN5cTQ3akUy?oc=5",
+      "published": "2026-05-05 00:43",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -279,59 +283,61 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 기술 발전이 가속화됨에 따라 고대역폭 메모리(HBM) 등 고성능 반도체 부품 수요 증가가 기대되며, AI 산업 구조 변화의 핵심 수혜주로 부각되고 있습니다.",
+      "reason": "원·달러 환율 급락과 외국인 투자자 순매수세가 강화되며 국내 증시 전반에 긍정적인 영향을 미치고 있으며, 삼성전자는 외국인 매수의 대표적인 수혜주로 꼽힙니다.",
       "check_points": [
-        "글로벌 AI 기술 투자 동향 및 신규 HBM 제품 개발 및 양산 일정",
-        "주요 고객사의 AI 반도체 주문량 변화"
+        "외국인 투자자 매수세 지속 여부",
+        "글로벌 반도체 시장의 추가 회복 신호"
       ],
       "related_news_titles": [
-        "AI 테마가 시가총액 순위를 뒤흔들다…'부품 및 전력' 상승, '바이오 및 금융' 하락."
+        "원·달러 환율 20원 이상 급락하며 '중동전쟁 이후 최저치', 코스피 사상 첫 6,900선 돌파",
+        "[외환-마감] 외국인 주식 폭풍 매수로 원·달러 환율 20원 급락…이란 사태 이후 최저치"
       ]
     },
     {
       "rank": 2,
-      "name": "KB금융",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "금융",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "국내 증시의 저평가 매력이 부각되고 있는 가운데, 기업 밸류업 프로그램에 대한 정책 기대감이 지속되며 금융주의 매력도가 높아지고 있습니다.",
+      "reason": "글로벌 반도체 기업 온세미컨덕터의 예상치 상회 실적 발표는 글로벌 반도체 시장 회복 기대감을 높이며 국내 반도체 기업에 긍정적인 영향을 줄 수 있습니다.",
       "check_points": [
-        "금융당국의 밸류업 프로그램 구체화 방안 및 주주 환원 정책 변화",
-        "금리 인하 시점 및 은행의 순이자마진(NIM) 추이"
+        "글로벌 반도체 수요 (특히 AI 반도체) 동향",
+        "원·달러 환율의 추가적인 안정세"
       ],
       "related_news_titles": [
-        "[주간증시전망] 코스피, '7천p' 문턱에서 숨 고르기…저평가 매력이 버팀목."
+        "온세미컨덕터, 2026년 1분기 예상치 상회하는 실적 발표, 주가 상승",
+        "원·달러 환율 20원 이상 급락하며 '중동전쟁 이후 최저치', 코스피 사상 첫 6,900선 돌파"
       ]
     },
     {
       "rank": 3,
-      "name": "LS ELECTRIC",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "전력설비",
+      "sector": "자동차",
       "opinion": "관심",
-      "reason": "AI 데이터센터 확산에 따른 전력 수요 급증이 예상되며, AI 인프라 구축에 필수적인 전력 설비 및 부품 공급사로서 수혜가 기대됩니다.",
+      "reason": "환율 하락과 코스피 사상 최고치 경신에 따른 외국인 투자자의 국내 증시 유입 가속화는 수출 비중이 높은 국내 주요 완성차 기업에 긍정적인 투자 환경을 제공합니다.",
       "check_points": [
-        "국내외 전력 인프라 투자 확대 정책 및 AI 데이터센터 신규 건설 계획",
-        "글로벌 전력기기 시장의 수주 잔고 및 경쟁 환경"
+        "외국인 투자자의 국내 자동차 섹터 선호도 변화",
+        "글로벌 자동차 시장의 경쟁 상황 및 판매량 추이"
       ],
       "related_news_titles": [
-        "AI 테마가 시가총액 순위를 뒤흔들다…'부품 및 전력' 상승, '바이오 및 금융' 하락."
+        "원·달러 환율 20원 이상 급락하며 '중동전쟁 이후 최저치', 코스피 사상 첫 6,900선 돌파",
+        "[외환-마감] 외국인 주식 폭풍 매수로 원·달러 환율 20원 급락…이란 사태 이후 최저치"
       ]
     },
     {
       "rank": 4,
-      "name": "S-Oil",
-      "market": "KOSPI",
-      "sector": "정유",
-      "opinion": "주의",
-      "reason": "국제 유가 급등세가 지속될 경우 정유 부문의 실적에 긍정적인 영향을 줄 수 있으나, 고유가로 인한 전반적인 경기 둔화 가능성과 물가 상승 압력에 대한 지속적인 관찰이 필요합니다.",
+      "name": "에코프로비엠",
+      "market": "KOSDAQ",
+      "sector": "2차전지",
+      "opinion": "관심",
+      "reason": "코스피 7000선 돌파를 앞두고 증시 전반의 강세가 이어질 경우, 코스피 대비 잠재 성장률이 높은 코스닥 시장 내 유망 종목에 대한 관심이 커질 수 있습니다.",
       "check_points": [
-        "국제 유가 추이 및 정제마진 변동성",
-        "글로벌 경기 둔화 가능성과 수요 위축 여부"
+        "코스닥 시장 전반의 거래량 및 수급 동향",
+        "글로벌 2차전지 산업의 수요 및 공급 균형"
       ],
       "related_news_titles": [
-        "유가 급등, 전 세계적 긴장 유발 및 연료, 식료품, 운송 비용 상승의 도미노 효과로 세계 경제 위협, 여러 국가에서 인플레이션 압력 가중.",
-        "'고유가 부담' 곧 다가올 물가 상승…주식시장 드리운 '신중론'"
+        "코스피 7000선 눈앞, 코스닥 투자 유망 종목 분석"
       ]
     }
   ],
