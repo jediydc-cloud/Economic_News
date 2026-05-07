@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07 07:54",
-  "analysis_date": "2026-05-07",
+  "generated_at": "2026-05-08 08:01",
+  "analysis_date": "2026-05-08",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 AI 반도체 붐과 중동 리스크 완화 기대감에 힘입어 국내외 증시 전반에 강한 긍정적 흐름이 나타났습니다. 특히 외국인 매수세와 반도체 업황 개선 기대가 시장을 주도하고 있습니다.",
-    "국내거시경제": "외국인 코스피 순매수 유입으로 원달러 환율이 1450원대로 급락하며 원화 강세 기조가 뚜렷해졌습니다. 이는 국내 증시의 추가 상승 동력을 제공할 수 있습니다.",
-    "글로벌경제": "미국 증시는 미-이란 평화 회담 기대감과 AMD 호실적에 힘입어 주요 지수들이 급등했습니다. 국제 유가는 폭락하며 중동 리스크 완화와 위험 선호 심리가 확산되는 모습입니다.",
-    "증시금리": "외국인 투자자들의 3조 원 규모 코스피 순매수와 원달러 환율 급락은 국내 증시에 긍정적 신호입니다. 미국 증시 역시 AMD 실적 발표와 중동 리스크 완화 기대감으로 기술주 중심의 강세장을 연출했습니다.",
-    "부동산정책": "관련 주요 뉴스는 없습니다.",
-    "기업산업": "삼성전자는 AI 칩 시장 성장에 힘입어 사상 최고가와 시가총액 1조 달러를 달성하며 AI 반도체 산업의 강력한 모멘텀을 입증했습니다. 국내에서는 HBM, 방산, 배터리 등 신성장 산업이 K-500대 기업 순위 변화를 주도하며 산업 구조 재편을 이끌고 있습니다.",
-    "오늘의투자시사점": "AI 반도체 붐과 외국인 매수세에 힘입어 반도체, IT 섹터 전반에 대한 긍정적 투자 관점을 유지해야 합니다. 원화 강세 기조 속 수출주 및 금융주에도 주목하고, HBM, 방산, 배터리 등 국내 신성장 동력 산업에 대한 장기적 관심을 가질 필요가 있습니다. 다만, 유가 변동성 및 지정학적 상황 변화가 원자재 시장에 미칠 영향을 지속적으로 모니터링해야 합니다.",
-    "오늘의한줄": "글로벌 AI 반도체 훈풍과 외국인 귀환에 국내 증시의 강한 상승 동력이 기대됩니다."
+    "총평": "글로벌 증시는 미 다우지수 5만 돌파와 유가 급등 속 혼조세를 보였고, 국내는 반도체 주도 경제성장 기대와 함께 K자형 양극화 우려가 제기되었습니다. 미 국채 금리 상승 압박과 빅테크 실적 발표가 주요 변수로 작용하며 시장 전반에 관망세가 짙습니다.",
+    "국내거시경제": "올해 한국 경제성장률은 3%대 견조한 흐름을 보일 전망이나, 반도체 산업 의존도가 높아 'K자형 양극화' 심화 가능성에 유의해야 합니다.",
+    "글로벌경제": "미-이란 원유 합의로 국제유가가 급등하며 에너지 섹터 강세를 이끌었고, 이는 글로벌 인플레이션 압력을 높일 수 있습니다. 미 국채 금리 상승은 기업의 차입 비용 증가로 이어져 경제 성장에 부담을 줄 수 있습니다.",
+    "증시금리": "미국 다우지수가 5만 포인트를 돌파하는 등 증시 강세가 있었으나, 미 국채 금리 5% 돌파 압박과 연준 불확실성으로 시장은 혼조세를 보였습니다. 주요 기술 기업들의 실적 발표가 단기 시장 방향성을 결정할 중요 변수입니다.",
+    "부동산정책": "서울시장 선거의 핵심 이슈로 부동산 정책이 부상했으며, 한강벨트가 주요 승부처입니다. 주택 가격 안정화, 공급 확대, 재개발/재건축 규제 완화 등 선거 결과에 따른 정책 변화가 부동산 시장에 큰 영향을 미칠 것입니다.",
+    "기업산업": "국내에서는 반도체 산업의 회복세가 경제 성장을 견인하고 있으며, 글로벌 시장에서는 국제유가 급등에 따른 에너지 관련주 강세와 빅테크 기업 실적에 대한 기대가 높습니다. 금리 상승 환경에서도 성장 동력을 유지할 수 있는 기술주에 선별적 접근이 필요합니다.",
+    "오늘의투자시사점": "글로벌 인플레이션 압력과 금리 인상 가능성에 대비하여 에너지, 금 등 인플레이션 헤지 자산에 대한 관심을 유지하고, 국내외 반도체 및 핵심 기술 기업의 실적과 성장성에 주목해야 합니다. 부동산 정책 변화를 주시하며 균형 잡힌 포트폴리오 전략을 고려해야 합니다.",
+    "오늘의한줄": "글로벌 증시의 금리 불확실성과 국내 K자형 성장 속, 핵심 산업과 인플레이션 헤지 자산에 주목하는 선별적 전략이 필요한 시점입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "외국인 코스피 3조 '폭풍 매수'에 원달러 환율 1450원대로 급락",
-      "display_title": "외국인 코스피 3조 '폭풍 매수'에 원달러 환율 1450원대로 급락",
-      "original_title": "외국인 코스피 3조 ‘폭풍 매수’에…원달러 환율 1450원대로 뚝 - v.daum.net",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시, 다우 5만 돌파 및 국제유가 급등 (미-이란 합의)",
+      "display_title": "미국 증시, 다우 5만 돌파 및 국제유가 급등 (미-이란 합의)",
+      "original_title": "US Stock Market Today [07 May, 2026]: Dow Crosses 50,000, Nasdaq & S&P 500 Edge Higher as Oil Surges $100 on US-Iran Deal; Gold & Silver Climb, Bitcoin Retreats $82k | What Investors Should Watch - The Sunday Guardian",
       "summary": [
-        "외국인 투자자들이 코스피 시장에서 3조 원 규모의 대규모 순매수를 기록했습니다.",
-        "외국인 매수세 유입에 힘입어 원달러 환율이 1450원대까지 급락하며 강세를 보였습니다.",
-        "이는 국내 증시의 상승세를 지지하고 원화 강세 기조를 강화할 수 있는 긍정적인 신호로, 반도체 등 수출주와 금융주에 대한 투자 관점을 가져야 합니다."
+        "5월 7일 미국 증시에서 다우존스가 사상 처음으로 5만 포인트를 돌파했으며, S&P 500과 나스닥도 소폭 상승했다.",
+        "미국과 이란의 원유 관련 합의 소식에 국제유가가 배럴당 100달러를 넘어서며 에너지 관련주에 긍정적인 영향을 미쳤고, 금과 은 가격도 상승했다.",
+        "에너지 섹터 강세와 인플레이션 압력 증가 가능성에 주목하며, 비트코인 하락세는 위험 자산 선호도 변화를 시사할 수 있다."
       ],
-      "summary_text": "외국인 투자자들이 코스피 시장에서 3조 원 규모의 대규모 순매수를 기록했습니다. 외국인 매수세 유입에 힘입어 원달러 환율이 1450원대까지 급락하며 강세를 보였습니다. 이는 국내 증시의 상승세를 지지하고 원화 강세 기조를 강화할 수 있는 긍정적인 신호로, 반도체 등 수출주와 금융주에 대한 투자 관점을 가져야 합니다.",
-      "description": "외국인 투자자들이 코스피 시장에서 3조 원에 달하는 대규모 매수세를 보이자, 원달러 환율이 1450원대로 급락했습니다.",
+      "summary_text": "5월 7일 미국 증시에서 다우존스가 사상 처음으로 5만 포인트를 돌파했으며, S&P 500과 나스닥도 소폭 상승했다. 미국과 이란의 원유 관련 합의 소식에 국제유가가 배럴당 100달러를 넘어서며 에너지 관련주에 긍정적인 영향을 미쳤고, 금과 은 가격도 상승했다. 에너지 섹터 강세와 인플레이션 압력 증가 가능성에 주목하며, 비트코인 하락세는 위험 자산 선호도 변화를 시사할 수 있다.",
+      "description": "2026년 5월 7일 미국 증시에서 다우존스 지수가 50,000을 돌파했으며, 나스닥과 S&P 500 지수도 상승했습니다. 이는 미-이란 합의로 국제유가가 배럴당 100달러를 넘어서며 급등한 영향으로 보이며, 금과 은은 올랐지만 비트코인은 8만 2천 달러대로 하락했습니다.",
       "category": "증시·금리",
-      "importance": 10,
-      "market_impact": "긍정",
-      "related_sector": "증시 전반, 반도체, 금융, 수출주",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "에너지, 정유, 증권, 자산운용",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "카카오"
+        "엑슨모빌",
+        "셰브론",
+        "SK이노베이션"
       ],
       "investment_view": "관심",
-      "investment_reason": "외국인의 대규모 순매수와 원달러 환율 하락은 국내 증시의 투자 심리를 크게 개선하며, 특히 수출 기업의 매력을 높일 수 있습니다.",
-      "key_signal": "외국인 투자자들의 매수 추이와 환율 변동성을 지속적으로 관찰하며 국내 증시의 추가 상승 여력을 판단해야 합니다.",
+      "investment_reason": "국제유가 급등이 인플레이션 압력과 에너지 관련 기업 실적에 미칠 영향을 파악하고 투자 전략을 세워야 하기 때문입니다.",
+      "key_signal": "국제유가 상승이 국내 에너지 기업과 전체 물가에 미칠 영향, 연준의 금리 인상 스탠스 변화 여부를 주시해야 합니다.",
       "keywords": [
-        "외국인매수",
-        "코스피",
-        "환율",
-        "원달러",
-        "증시"
+        "미국 증시",
+        "다우 5만",
+        "국제유가",
+        "인플레이션",
+        "에너지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HbEVRcFZlS2gzdno5SXNVQVF4UklDQmhTbnJlV19LWVgyQURzOTB3NFVpMUd1bG1GMHluc0hwcHgxRGFUOEZwUC12MDkwd21PNngyMw?oc=5",
-      "published": "2026-05-06 20:43",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNNFNqckhKNVZxeHQ1N0RtVl9xbmpGWTFjRUhHajhhUDJ1NnpYWk5rX011cmI2MnY3eUM1anhQR1RQalJHT2s2UjhBeTM0VVFuY2FTVEd6OVBVUG80cDRDQzlpVWpVd3Y4Q3NzdlMtT0ZtR2QyMl95X05pUGstSjVva1A5djNaVDA1SmdiMm1jTi1rYl9rRlBfbWJfeW95ZHBGU01jMnlXaWJUbDRVU21tMXloWXZBOFBNYTRTOTVmcFpWOUhzaWEyX3JTYVpJYUgzQzFmLU5wd0tZaGI2bFZyaUF1YzgtMERJUWl3TmpRSVFLZnJCMnZ2al83YXA3LWZSdm50X2ZRY25hMVotNFp5UHA4RGc1YjZLdFBLNkxNSnlzR3BlM0FEUGx2aTliWlMxOHByWVVtTk5fV3BheGZqdkdBZlVXNG1oVVE?oc=5",
+      "published": "2026-05-08 00:48",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "삼성, AI 칩 붐에 힘입어 사상 최고치 급등하며 1조 달러 클럽 가입",
-      "display_title": "삼성, AI 칩 붐에 힘입어 사상 최고치 급등하며 1조 달러 클럽 가입",
-      "original_title": "Samsung Joins $1 Trillion Club as AI Chip Boom Powers Record Surge - Indianweb2.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "한국 올해 경제성장률 3%대 전망, 반도체 편중 'K자형 양극화' 우려",
+      "display_title": "한국 올해 경제성장률 3%대 전망, 반도체 편중 'K자형 양극화' 우려",
+      "original_title": "[심층진단]한국 올해 경제성장률 3%대 '껑충'...반도체 편중 'K자형 양극화' 우려 - 통일경제뉴스",
       "summary": [
-        "삼성전자가 AI 칩 시장의 폭발적인 성장세에 힘입어 주가가 사상 최고치를 기록하며 시가총액 1조 달러 클럽에 진입했습니다.",
-        "이는 AI 반도체 산업의 강력한 성장 모멘텀과 삼성전자의 핵심적인 역할을 보여주는 상징적인 사건입니다.",
-        "삼성전자의 이러한 강세는 국내 반도체 및 IT 섹터 전반에 긍정적인 투자 심리를 형성하고, 관련 기업들의 추가 상승을 견인할 수 있습니다."
+        "한국의 올해 경제성장률이 3%대를 기록하며 견조한 성장세를 보일 것으로 전망된다.",
+        "이러한 성장은 주로 반도체 산업의 회복과 수출 증가에 기인하며, 반도체를 제외한 다른 산업 부문의 성장세는 미미하여 'K자형 양극화' 우려가 커지고 있다.",
+        "반도체 산업의 지속적인 성장은 긍정적이나, 특정 섹터 편중에 따른 리스크와 내수 부진 가능성을 고려한 균형 잡힌 투자 전략이 필요하다."
       ],
-      "summary_text": "삼성전자가 AI 칩 시장의 폭발적인 성장세에 힘입어 주가가 사상 최고치를 기록하며 시가총액 1조 달러 클럽에 진입했습니다. 이는 AI 반도체 산업의 강력한 성장 모멘텀과 삼성전자의 핵심적인 역할을 보여주는 상징적인 사건입니다. 삼성전자의 이러한 강세는 국내 반도체 및 IT 섹터 전반에 긍정적인 투자 심리를 형성하고, 관련 기업들의 추가 상승을 견인할 수 있습니다.",
-      "description": "삼성전자가 AI 칩 수요 급증에 힘입어 주가가 사상 최고치를 기록하며 시가총액 1조 달러 클럽에 가입했습니다.",
-      "category": "기업·산업",
-      "importance": 10,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, IT 하드웨어",
+      "summary_text": "한국의 올해 경제성장률이 3%대를 기록하며 견조한 성장세를 보일 것으로 전망된다. 이러한 성장은 주로 반도체 산업의 회복과 수출 증가에 기인하며, 반도체를 제외한 다른 산업 부문의 성장세는 미미하여 'K자형 양극화' 우려가 커지고 있다. 반도체 산업의 지속적인 성장은 긍정적이나, 특정 섹터 편중에 따른 리스크와 내수 부진 가능성을 고려한 균형 잡힌 투자 전략이 필요하다.",
+      "description": "한국의 올해 경제성장률이 3%대를 기록하며 크게 성장할 것으로 전망되지만, 반도체 산업에 성장세가 편중되어 'K자형 양극화'가 심화될 수 있다는 우려가 제기되고 있습니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "반도체, IT, 내수 산업, 소비재",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
-        "한미반도체"
+        "카카오"
       ],
       "investment_view": "관심",
-      "investment_reason": "삼성전자의 1조 달러 클럽 가입은 AI 반도체 시장의 폭발적인 성장을 증명하며, 국내 반도체 생태계 전반의 투자 매력을 높입니다.",
-      "key_signal": "삼성전자의 AI 칩 관련 사업 전략과 향후 실적 발표, 그리고 글로벌 AI 반도체 시장의 경쟁 구도를 면밀히 주시해야 합니다.",
+      "investment_reason": "한국 경제의 전반적인 성장률과 구조적인 문제점을 동시에 파악하여, 특정 산업에 대한 과도한 집중 투자를 경계하고 포트폴리오의 다양성을 고려해야 하기 때문입니다.",
+      "key_signal": "반도체 외 다른 산업의 회복 속도와 정부의 내수 활성화 정책이 'K자형 양극화'를 완화할 수 있을지 지속적으로 지켜봐야 합니다.",
       "keywords": [
-        "삼성전자",
-        "AI칩",
-        "반도체",
-        "시가총액",
-        "기술주"
+        "한국 경제",
+        "경제성장률",
+        "반도체 편중",
+        "K자형 양극화",
+        "수출 증가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzVPdFBEbzNpb3NfTTh1a0dHeHVnLVB6SV9PR0JkcHlWb2V0VkhDc283YVFiUlFLX1Q0WVBocnItS0lpRHpqR1UtajhMb0pJNjhEOFIzUXVnRndmVDA1NjVuT3RaUGFISng1QURxWUpseXBBOHQ5cWl5cXd2akpIXw?oc=5",
-      "published": "2026-05-07 04:05",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEMHdaSU5vRDdVcHp3UG5Ubk1CVDZZWlhQcDZvT0lDeDZ0VTZwaS1pM2ZzQXBkYzJDWFQtbzBGQWVuZzc3cVBKZ0NjMFRHdTJqQ1dWQU5KamhsOXNHUk55MGFTdzA2RkZBS3JpRQ?oc=5",
+      "published": "2026-05-08 06:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 마감 | 미-이란 평화 회담 기대감에 3대 지수 모두 상승; 나스닥 골든 드래곤 중국 지수 3.45% 급등, 바이두 11% 이상, 알리바바 7% 상승; 국제 유가 폭락, 금은 급등",
-      "display_title": "미국 증시 마감 | 미-이란 평화 회담 기대감에 3대 지수 모두 상승; 나스닥 골든 드래곤 중국 지수 3.45% 급등, 바이두 11% 이상, 알리바바 7% 상승; 국제 유가 폭락, 금은 급등",
-      "original_title": "U.S. Stock Market Close | Rising Expectations of U.S.-Iran Peace Talks Drive All Three Major Indices Higher; Nasdaq Golden Dragon China Index Surges 3.45%, Baidu Soars Over 11%, Alibaba Climbs 7%; Crude Oil Plummets, Gold and Silver Surge - 富途牛牛",
+      "title": "미국 국채 금리와 차입 비용을 높이는 새로운 우려 요인 부상",
+      "display_title": "미국 국채 금리와 차입 비용을 높이는 새로운 우려 요인 부상",
+      "original_title": "There's a New Worry Keeping Treasury Yields and Borrowing Costs Higher - 富途牛牛",
       "summary": [
-        "미국 증시 3대 주요 지수가 미-이란 평화 회담 기대감에 힘입어 일제히 상승했습니다.",
-        "나스닥 골든 드래곤 중국 지수가 3.45% 급등하며 바이두와 알리바바 등 중국 기술주가 큰 폭으로 올랐고, 국제 유가는 폭락했습니다.",
-        "중동 리스크 완화에 따른 시장 전반의 위험 선호 심리 회복과 유가 하락이 증시에 긍정적이나, 지정학적 상황 변화가 원자재 시장에 미칠 영향을 주시해야 합니다."
+        "시장에 미국 국채 금리와 기업들의 차입 비용을 상승시키는 새로운 우려 요인이 발생했다.",
+        "높은 국채 금리는 기업의 투자 비용 증가로 이어져 경제 성장과 기업 실적에 부정적인 영향을 미칠 수 있다.",
+        "금리 상승 압박 요인을 파악하고, 고금리 환경에 강한 기업이나 섹터를 중심으로 투자 전략을 재고할 필요가 있다."
       ],
-      "summary_text": "미국 증시 3대 주요 지수가 미-이란 평화 회담 기대감에 힘입어 일제히 상승했습니다. 나스닥 골든 드래곤 중국 지수가 3.45% 급등하며 바이두와 알리바바 등 중국 기술주가 큰 폭으로 올랐고, 국제 유가는 폭락했습니다. 중동 리스크 완화에 따른 시장 전반의 위험 선호 심리 회복과 유가 하락이 증시에 긍정적이나, 지정학적 상황 변화가 원자재 시장에 미칠 영향을 주시해야 합니다.",
-      "description": "미국 증시 마감 소식입니다. 미-이란 평화 회담에 대한 기대감이 고조되면서 뉴욕 3대 주요 지수가 모두 상승했습니다. 특히 나스닥 골든 드래곤 중국 지수가 3.45% 급등했으며, 바이두가 11% 이상, 알리바바가 7% 상승했습니다. 반면 국제 유가는 급락했고, 금과 은은 급등했습니다.",
+      "summary_text": "시장에 미국 국채 금리와 기업들의 차입 비용을 상승시키는 새로운 우려 요인이 발생했다. 높은 국채 금리는 기업의 투자 비용 증가로 이어져 경제 성장과 기업 실적에 부정적인 영향을 미칠 수 있다. 금리 상승 압박 요인을 파악하고, 고금리 환경에 강한 기업이나 섹터를 중심으로 투자 전략을 재고할 필요가 있다.",
+      "description": "미국 국채 금리와 기업들의 차입 비용을 계속해서 높이는 새로운 불안 요소가 시장에 나타나고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "인터넷 서비스, 유가 관련 산업",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "금융, 채권, 기술주",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "중동 지정학적 리스크 완화는 글로벌 경제 및 증시 전반에 긍정적인 영향을 미칠 수 있으며, 유가 하락은 소비 및 산업 비용 부담을 줄여줍니다.",
-      "key_signal": "미-이란 평화 회담의 구체적인 진전 상황과 국제 유가 및 원자재 시장의 추가 반응을 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "높아진 국채 금리와 차입 비용이 기업 투자 및 수익성에 부정적 영향을 미치고, 전반적인 시장의 투자 심리를 위축시킬 수 있기 때문입니다.",
+      "key_signal": "해당 우려 요인이 무엇인지 정확히 파악하고, 연준의 통화 정책 스탠스에 변화가 있는지 지속적으로 관찰해야 합니다.",
       "keywords": [
-        "미중 관계",
-        "유가",
-        "평화회담",
-        "나스닥",
-        "원자재"
+        "국채 금리",
+        "차입 비용",
+        "고금리",
+        "시장 우려",
+        "통화 정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTUzRER1WWVKSWdhZ0htcUYzWTM5YWc5czdqLS1RcVV0TlI3LTZpNU40ODIyWnhsWU10d3l4SVFta0JDdFpQQTZxMmlSSVhqYnJfanlpanJ4ZjVBeXowSHVOR252V0E1X3NiYVFjamNZeEZ2bjBuazBfckNDdXE5NGxaVzJHNHZJZ2JJaVV1aUswbklQNm0wLS1leTBsS0JB?oc=5",
-      "published": "2026-05-07 07:15",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblVuUUM2cFlia0Vlb0JiMDN5RTA4ODNfV1F3T3ZrWUpoYmI2Zk9NRGNxSWx5dlZ6MHhYWWpXNE9YbWNtOEpKN25LZ2cycUdSdGJxRWlDN21HeG91ZHlKWWdjWVNIOEtVMldTUVJHX204cDRuRmszNDFjN0NxVkhlRUxCVTM2cE90dnI3d3FybXc2emlLSlRTMzZDcHA0YWM?oc=5",
+      "published": "2026-05-08 07:45",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500 및 나스닥 100 급등: AMD 실적 발표가 시장의 이목을 집중시키다",
-      "display_title": "S&P 500 및 나스닥 100 급등: AMD 실적 발표가 시장의 이목을 집중시키다",
-      "original_title": "S&P 500 and Nasdaq-100 Surge: AMD Earnings Steal the Show at Midday - AOL.com",
+      "title": "연준 결정 후 혼조세 마감한 월스트리트, 빅테크 실적 발표 주목",
+      "display_title": "연준 결정 후 혼조세 마감한 월스트리트, 빅테크 실적 발표 주목",
+      "original_title": "Wall Street ends mixed after Fed decision, big tech earnings on tap - AOL.com",
       "summary": [
-        "S&P 500과 나스닥 100 지수가 급등했으며, 그 중심에는 AMD의 호실적 발표가 있었습니다.",
-        "기술 기업의 실적 호조는 시장 전반의 투자 심리를 개선하고, 특히 반도체 및 AI 관련 산업에 대한 기대를 높입니다.",
-        "이는 국내 반도체 기업들의 실적 전망에도 긍정적인 신호로 작용하며 관련 주식에 대한 투자 관점을 가져야 합니다."
+        "연방준비제도(Fed)의 결정 발표 이후 뉴욕 증시가 혼조세로 마감했으며, 이번 주 예정된 주요 기술 기업들의 실적 발표를 앞두고 있다.",
+        "연준의 통화 정책 방향에 대한 불확실성과 다가오는 빅테크 실적 발표가 시장에 관망세를 형성하며 변동성을 키우는 요인으로 작용했다.",
+        "빅테크 기업들의 실적은 시장 전반의 방향성을 제시할 수 있으므로, 실적 발표 내용과 가이던스를 면밀히 분석해야 한다."
       ],
-      "summary_text": "S&P 500과 나스닥 100 지수가 급등했으며, 그 중심에는 AMD의 호실적 발표가 있었습니다. 기술 기업의 실적 호조는 시장 전반의 투자 심리를 개선하고, 특히 반도체 및 AI 관련 산업에 대한 기대를 높입니다. 이는 국내 반도체 기업들의 실적 전망에도 긍정적인 신호로 작용하며 관련 주식에 대한 투자 관점을 가져야 합니다.",
-      "description": "S&P 500과 나스닥 100 지수가 급등세를 보였으며, 이는 AMD의 실적 발표가 시장의 주목을 받은 영향이 컸습니다.",
+      "summary_text": "연방준비제도(Fed)의 결정 발표 이후 뉴욕 증시가 혼조세로 마감했으며, 이번 주 예정된 주요 기술 기업들의 실적 발표를 앞두고 있다. 연준의 통화 정책 방향에 대한 불확실성과 다가오는 빅테크 실적 발표가 시장에 관망세를 형성하며 변동성을 키우는 요인으로 작용했다. 빅테크 기업들의 실적은 시장 전반의 방향성을 제시할 수 있으므로, 실적 발표 내용과 가이던스를 면밀히 분석해야 한다.",
+      "description": "연방준비제도(Fed)의 결정 이후 월스트리트 증시가 혼조세로 마감했으며, 곧 발표될 주요 기술 기업들의 실적에 시장의 이목이 집중되고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT 하드웨어",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "기술주, 소프트웨어, 반도체, IT",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "애플",
+        "마이크로소프트",
+        "엔비디아"
       ],
       "investment_view": "관심",
-      "investment_reason": "AMD와 같은 주요 기술 기업의 호실적은 반도체 산업의 회복세와 AI 관련 수요 증가를 입증하며, 국내 반도체 기업들에게도 긍정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "주요 반도체 기업들의 실적 발표와 AI 산업 동향을 지속적으로 모니터링하여 국내 반도체 섹터의 투자 기회를 포착해야 합니다.",
+      "investment_reason": "빅테크 기업들의 실적은 미국 증시뿐만 아니라 글로벌 기술주 전반에 큰 영향을 미치므로 국내 관련 기업들의 투자 심리에도 영향을 줄 수 있기 때문입니다.",
+      "key_signal": "주요 빅테크 기업들의 실적 발표 내용과 가이던스, 특히 AI 관련 투자 및 수요 변화에 대한 언급을 주의 깊게 살펴봐야 합니다.",
       "keywords": [
-        "AMD",
-        "반도체",
-        "실적",
-        "나스닥",
-        "AI"
+        "연준 결정",
+        "빅테크 실적",
+        "월스트리트",
+        "증시 혼조",
+        "통화 정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WZThsalFubGJSSEZJSlhSMTlJVFQtZTRUdXc1WXMzYjVDcDBRRFNmZGExaDdSWUhkWHZIRU8xUmxpb0dTa1FMV0tVX0YydDRndVpseXV4ZF9xRHpmLVh3ZzVhTUNBLWlFWlRyUXpoSDJEbmJo?oc=5",
-      "published": "2026-05-07 04:56",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XT3RndDhHcWVTalJrV19OQXBtbEUzaERBTllZbGZvMVRnMFdMQ0VlbGtYSlFzQUlyQUVvT1ZxRS1lWl85emxZRmZSYU96VWZOUHp4MnhVT0NmcTJQOVB5MnQ3REVwMVhaZzhmSFlQckJXVTFENm11bQ?oc=5",
+      "published": "2026-05-08 02:07",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -196,37 +196,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 미국 증시: AMD 주가 폭등과 유가 변동 속에서 다우존스, S&P 500, 나스닥이 급등하는 이유",
-      "display_title": "오늘 미국 증시: AMD 주가 폭등과 유가 변동 속에서 다우존스, S&P 500, 나스닥이 급등하는 이유",
-      "original_title": "US stock market today: Why are Dow Jones, S&P 500, and Nasdaq surging as AMD stock explodes and oil prices - The Economic Times",
+      "title": "미국 10년물 국채 금리 5% 돌파 후 나스닥, S&P 500 소폭 상승",
+      "display_title": "미국 10년물 국채 금리 5% 돌파 후 나스닥, S&P 500 소폭 상승",
+      "original_title": "Nasdaq, S&P 500 Edge Up After 10-year Treasury Yield Briefly Tops 5%: Stock Market News Today (P5pnfqnOds) - fathomjournal.org",
       "summary": [
-        "미국 증시 주요 지수인 다우존스, S&P 500, 나스닥이 AMD 주가 폭등에 힘입어 급등세를 보였습니다.",
-        "AMD의 강세는 반도체 및 기술주의 전반적인 상승세를 이끌었으며, 유가 변동성 속에서도 시장의 투자 심리를 개선했습니다.",
-        "이는 글로벌 반도체 및 기술 섹터에 대한 긍정적인 신호로, 국내 관련 산업 및 기업의 투자 전망에도 주목해야 합니다."
+        "미국 10년물 국채 금리가 단기적으로 5%를 넘어섰지만, 나스닥과 S&P 500 지수는 소폭 상승하며 마감했다.",
+        "일반적으로 고금리는 증시에 부담으로 작용하지만, 국채 금리 상승에도 불구하고 기술주 중심의 나스닥이 상승한 것은 기업 실적에 대한 기대감이 작용한 것으로 풀이된다.",
+        "금리 변동성에 대한 시장의 내성 강화 여부를 주목하고, 금리 상승 환경에서도 성장 동력을 유지할 수 있는 기술주에 대한 선별적 접근이 필요하다."
       ],
-      "summary_text": "미국 증시 주요 지수인 다우존스, S&P 500, 나스닥이 AMD 주가 폭등에 힘입어 급등세를 보였습니다. AMD의 강세는 반도체 및 기술주의 전반적인 상승세를 이끌었으며, 유가 변동성 속에서도 시장의 투자 심리를 개선했습니다. 이는 글로벌 반도체 및 기술 섹터에 대한 긍정적인 신호로, 국내 관련 산업 및 기업의 투자 전망에도 주목해야 합니다.",
-      "description": "AMD 주가가 폭등하고 유가에 변동이 있는 상황에서 다우존스, S&P 500, 나스닥 지수가 오늘 급등한 배경을 분석합니다.",
+      "summary_text": "미국 10년물 국채 금리가 단기적으로 5%를 넘어섰지만, 나스닥과 S&P 500 지수는 소폭 상승하며 마감했다. 일반적으로 고금리는 증시에 부담으로 작용하지만, 국채 금리 상승에도 불구하고 기술주 중심의 나스닥이 상승한 것은 기업 실적에 대한 기대감이 작용한 것으로 풀이된다. 금리 변동성에 대한 시장의 내성 강화 여부를 주목하고, 금리 상승 환경에서도 성장 동력을 유지할 수 있는 기술주에 대한 선별적 접근이 필요하다.",
+      "description": "미국 10년물 국채 금리가 일시적으로 5%를 넘어선 후, 나스닥과 S&P 500 지수가 소폭 상승했습니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT 하드웨어",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "기술주, 채권, 증시",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "엔비디아",
+        "마이크로소프트",
+        "테슬라"
       ],
       "investment_view": "관심",
-      "investment_reason": "AMD의 폭발적인 주가 상승은 반도체 시장의 강력한 수요와 성장 잠재력을 보여주며, 국내 반도체 관련주에 대한 투자 매력을 높입니다.",
-      "key_signal": "주요 기술 기업들의 실적 발표와 반도체 업황 개선 추세를 지속적으로 확인하여 국내 관련 종목의 투자 타이밍을 모색해야 합니다.",
+      "investment_reason": "금리 상승 압력 속에서도 기술주 중심의 증시가 강세를 보이는 것은 시장의 강한 저력을 보여주며, 투자 포트폴리오의 방향 설정에 중요한 지표가 될 수 있기 때문입니다.",
+      "key_signal": "10년물 국채 금리가 다시 5% 이상으로 오를 경우 시장이 어떻게 반응하는지, 그리고 기술주 실적과 향후 가이던스가 금리 부담을 상쇄할 수 있을지 관찰해야 합니다.",
       "keywords": [
-        "AMD",
-        "반도체",
-        "기술주",
+        "10년물 국채 금리",
         "나스닥",
-        "유가"
+        "S&P 500",
+        "기술주",
+        "금리 변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOOEdKX1hvNVF0N2ppUDUwVUdyeF9YSFFUYXk0VzRHb3VwcHlvTnVuOEhwd2o3bVlENmFYTWhkZ2FiOS14MlV5aXZFQXRJZkFQcDJlTkg4aFZCdHhOUW9pV1dGbXlOSVF6cjdOTmhHeXl1Ri1lcjJRcl9SMHktU2tEek00YXgyRndCUi1td0NEYmNjMktYMXp2VTRGUkF0c2IydVpubGhJQjdlZWJQVVNKOGNEODR5M2Z6NGM0XzM5VlFHYUVORVY1eEZTSGQ1RnNpY1FaN01zVkIzS2M4RWRWTFRsMjY4SXZDM3VlYXRyRlJsa2wwb1VYVlVWWjB0N2t2d2lBb2Zva0I0TThaUlFiRjhKdF84VTZLdVZYQkI3cklDMGRrdjVfelZPOU_SAbICQVVfeXFMTXNkTDFuU2QxdWRJQUx1NGgwd2JlU2lfaFpFNi1lUHprQ3ExVjBmc1ppdWY0NzNVa284Tm4zeVN0bGJYanlZV3pXOGFZYTVyUnE1ZVhGVUJ0Wl9pa3JQWjBnNi1FaFRzZHlsVXRXTDl0Nk1mcHJzbVl5RVBhSk02dlFhMDNYS3BiQVVhWjR5OHcxSlkyM0N1RWV0M0xIQzhvRUZWR05nQTZDSjR5b0VudnZuRzU2eGhIa3BKZXczb2psTWZNS0hRNXVSblZlNy1KTW8wazVXQURQeXN1Y0JEZnYzcEhYblpHWU1jTnVCdVNoQUVFOWI3UXkwVnpyNXZqSTQ1SWxrMG9Vb3VNTklkcGxPQkJQZFdaaWVPMURYc1RVRjRZcnVQQkpJU3NrdE9WVlB3?oc=5",
-      "published": "2026-05-07 00:24",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1YTgtbkwxSlZZVkp1dF9icDVmNXpQbnJpU1plSkpSTmxiT0tKRUdxOTBQU2dta0l4VzQ4cHNLdWZIMVNFelYwV0FnMXhaLUxTNm1oVFVMQ0tuZDB1RHNMczRRbGZfYVoyV3BGY1lybEM?oc=5",
+      "published": "2026-05-07 22:52",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -238,37 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[뉴스 앤 데이터] HBM·방산·배터리…K-500대 기업 순위 변화 이끌다",
-      "display_title": "[뉴스 앤 데이터] HBM·방산·배터리…K-500대 기업 순위 변화 이끌다",
-      "original_title": "[뉴스 앤 데이터] HBM·방산·배터리…K-500大 기업 순위 바꿨다 - 서울타임즈뉴스",
+      "title": "서울시장 선거 최대 이슈는 부동산, 한강벨트가 승부처",
+      "display_title": "서울시장 선거 최대 이슈는 부동산, 한강벨트가 승부처",
+      "original_title": "\"서울시장 선거 최대 이슈는 부동산\" … 한강벨트가 승부처 - Queen 이코노미퀸",
       "summary": [
-        "HBM, 방산, 배터리 산업의 성장이 국내 K-500대 기업들의 순위를 크게 바꾸고 있습니다.",
-        "AI 반도체 수요 증가에 따른 HBM의 부상, 지정학적 리스크 확대로 인한 방산 산업의 성장, 그리고 전기차 시장 성장에 따른 배터리 산업의 강세가 주요 요인입니다.",
-        "이는 국내 산업 구조 변화를 반영하며, 투자자들은 이러한 신성장 동력을 가진 섹터와 기업에 주목해야 합니다."
+        "다가오는 서울시장 선거에서 부동산 정책이 가장 큰 이슈로 부각될 예정이며, 특히 한강벨트 지역이 주요 승부처로 지목되고 있다.",
+        "서울의 주택 가격 안정화, 공급 확대, 재개발/재건축 규제 완화 등 부동산 관련 정책 방향이 유권자의 표심을 크게 좌우할 것으로 보인다.",
+        "선거 결과에 따라 서울시의 부동산 정책 방향이 크게 달라질 수 있으므로, 관련 정책 변화가 부동산 시장에 미칠 영향을 면밀히 분석해야 한다."
       ],
-      "summary_text": "HBM, 방산, 배터리 산업의 성장이 국내 K-500대 기업들의 순위를 크게 바꾸고 있습니다. AI 반도체 수요 증가에 따른 HBM의 부상, 지정학적 리스크 확대로 인한 방산 산업의 성장, 그리고 전기차 시장 성장에 따른 배터리 산업의 강세가 주요 요인입니다. 이는 국내 산업 구조 변화를 반영하며, 투자자들은 이러한 신성장 동력을 가진 섹터와 기업에 주목해야 합니다.",
-      "description": "최근 HBM(고대역폭 메모리), 방산, 배터리 산업의 성장이 국내 K-500대 기업들의 시가총액 및 실적 순위를 크게 변화시켰습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체(HBM), 방위산업, 2차전지",
+      "summary_text": "다가오는 서울시장 선거에서 부동산 정책이 가장 큰 이슈로 부각될 예정이며, 특히 한강벨트 지역이 주요 승부처로 지목되고 있다. 서울의 주택 가격 안정화, 공급 확대, 재개발/재건축 규제 완화 등 부동산 관련 정책 방향이 유권자의 표심을 크게 좌우할 것으로 보인다. 선거 결과에 따라 서울시의 부동산 정책 방향이 크게 달라질 수 있으므로, 관련 정책 변화가 부동산 시장에 미칠 영향을 면밀히 분석해야 한다.",
+      "description": "다가오는 서울시장 선거에서 부동산 정책이 최대 쟁점으로 부상했으며, 특히 한강변 지역(한강벨트)이 선거의 주요 승부처가 될 것이라는 분석입니다.",
+      "category": "부동산·정책",
+      "importance": 7,
+      "market_impact": "중립",
+      "related_sector": "건설, 부동산 개발, 건자재, 인테리어",
       "related_stocks": [
-        "SK하이닉스",
-        "한화에어로스페이스",
-        "삼성SDI"
+        "현대건설",
+        "GS건설",
+        "대우건설"
       ],
       "investment_view": "관심",
-      "investment_reason": "HBM, 방산, 배터리 등 신성장 산업의 부상은 국내 경제의 새로운 성장 동력이자 고수익 투자 기회를 제공합니다.",
-      "key_signal": "각 산업별 글로벌 경쟁력과 정부 정책 지원, 그리고 관련 기업들의 투자 및 기술 개발 현황을 지속적으로 모니터링해야 합니다.",
+      "investment_reason": "서울시장 선거 결과에 따른 부동산 정책 변화는 서울 및 수도권 부동산 시장에 직접적인 영향을 미치며, 건설 및 부동산 관련 기업들의 실적에 중요한 변수가 될 수 있기 때문입니다.",
+      "key_signal": "각 후보의 구체적인 부동산 공약을 비교 분석하고, 선거 결과 발표 이후 새롭게 수립될 서울시의 부동산 정책 방향을 주시해야 합니다.",
       "keywords": [
-        "HBM",
-        "방산",
-        "배터리",
-        "K-500",
-        "산업트렌드"
+        "서울시장 선거",
+        "부동산 정책",
+        "한강벨트",
+        "재개발",
+        "재건축"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPR1VnMlpfU1RRZGVKMVF5SEdzcVd2NWNKdnd0cjk3NkQzczM5QS1uTFg3MllVbnU2VUpNNzRub05jd1ltR2M1LVVyRmtUTkhlOGs2YlAyRzdwVDFTbjlnZ2oyVUFZcGhqTm40?oc=5",
-      "published": "2026-05-07 06:58",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMHQ5Umh2X2h4QTNLSG12TG81NHJfT01fUnZ0a3BYR2RqMEx4QW9PX2NDSTRGMWFiaUkySDlIcVRNZERaMnJlN2U1Q184RUlYWU9yWDRyS0FIM2Fta3ZHOG1RVUo3ejE3cGc?oc=5",
+      "published": "2026-05-08 07:25",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -281,70 +281,66 @@
       "rank": 1,
       "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체, IT 하드웨어, 수출주",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "외국인의 대규모 순매수와 원달러 환율 하락으로 국내 증시의 투자심리가 개선되는 가운데, 삼성전자는 AI 칩 시장의 핵심 주체이자 글로벌 반도체 및 IT 산업 성장의 수혜주로 부각되고 있습니다.",
+      "reason": "한국 경제성장률의 핵심 동력인 반도체 산업을 대표하며, 글로벌 빅테크 기업들의 실적 발표와 미국 증시 흐름이 국내 기술주 투자 심리에 큰 영향을 미치므로 주요 지표들을 함께 살펴봐야 합니다.",
       "check_points": [
-        "외국인 순매수 추이",
-        "환율 변동성",
-        "AI 반도체 수주 및 출하량"
+        "글로벌 반도체 수요 및 가격 동향",
+        "주요 빅테크 기업들의 분기 실적 발표 내용",
+        "미국 국채 금리 변화 및 기술주에 미치는 영향"
       ],
       "related_news_titles": [
-        "외국인 코스피 3조 '폭풍 매수'에 원달러 환율 1450원대로 급락",
-        "삼성, AI 칩 붐에 힘입어 사상 최고치 급등하며 1조 달러 클럽 가입",
-        "S&P 500 및 나스닥 100 급등: AMD 실적 발표가 시장의 이목을 집중시키다"
+        "한국 올해 경제성장률 3%대 전망, 반도체 편중 'K자형 양극화' 우려",
+        "연준 결정 후 혼조세 마감한 월스트리트, 빅테크 실적 발표 주목",
+        "미국 10년물 국채 금리 5% 돌파 후 나스닥, S&P 500 소폭 상승"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "반도체, HBM",
+      "sector": "에너지, 정유",
       "opinion": "관심",
-      "reason": "AI 반도체 시장의 폭발적 성장과 HBM(고대역폭 메모리) 기술 선도 기업으로서의 입지가 강화되고 있으며, 글로벌 주요 기술 기업의 호실적에 따른 반도체 업황 회복 기대감이 지속적으로 커지고 있습니다.",
+      "reason": "미국과 이란 간 합의로 인한 국제유가 급등 소식은 국내 에너지 및 정유 관련 기업의 실적에 직접적인 영향을 미칠 수 있으므로 유가 동향과 연관된 투자 전략을 세울 필요가 있습니다.",
       "check_points": [
-        "HBM 생산 및 공급 확대",
-        "메모리 반도체 가격 동향",
-        "글로벌 AI 서버 투자 증가"
+        "글로벌 원유 수급 상황 및 국제유가 변동성",
+        "정제마진 개선 여부",
+        "지정학적 리스크 변화"
       ],
       "related_news_titles": [
-        "외국인 코스피 3조 '폭풍 매수'에 원달러 환율 1450원대로 급락",
-        "삼성, AI 칩 붐에 힘입어 사상 최고치 급등하며 1조 달러 클럽 가입",
-        "S&P 500 및 나스닥 100 급등: AMD 실적 발표가 시장의 이목을 집중시키다"
+        "미국 증시, 다우 5만 돌파 및 국제유가 급등 (미-이란 합의)"
       ]
     },
     {
       "rank": 3,
-      "name": "한미반도체",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "반도체 장비",
-      "opinion": "관심",
-      "reason": "AMD의 폭발적인 주가 상승과 AI 반도체 시장의 강력한 수요 증가는 HBM 생산에 필수적인 반도체 장비 공급 기업인 한미반도체에 대한 높은 투자 매력을 부여하고 있습니다.",
+      "sector": "금융, 증권",
+      "opinion": "주의",
+      "reason": "미국 국채 금리 상승과 이에 따른 차입 비용 증가는 금융 시장 전반의 투자 심리 및 증권사의 수익성에 부정적 영향을 미칠 수 있으므로, 관련 금리 및 시장 환경 변화를 면밀히 관찰해야 합니다.",
       "check_points": [
-        "글로벌 HBM 시장 투자 확대",
-        "주요 고객사 CAPEX 투자 계획",
-        "신규 장비 수주 현황"
+        "미국 국채 금리 추이 및 국내 금리 연동성",
+        "증권사 실적에 미치는 금리 인상 영향",
+        "주식 시장 거래대금 변동성"
       ],
       "related_news_titles": [
-        "삼성, AI 칩 붐에 힘입어 사상 최고치 급등하며 1조 달러 클럽 가입",
-        "S&P 500 및 나스닥 100 급등: AMD 실적 발표가 시장의 이목을 집중시키다",
-        "오늘 미국 증시: AMD 주가 폭등과 유가 변동 속에서 다우존스, S&P 500, 나스닥이 급등하는 이유"
+        "미국 국채 금리와 차입 비용을 높이는 새로운 우려 요인 부상"
       ]
     },
     {
       "rank": 4,
-      "name": "한화에어로스페이스",
+      "name": "현대건설",
       "market": "KOSPI",
-      "sector": "방위산업, 항공우주",
+      "sector": "건설",
       "opinion": "관심",
-      "reason": "HBM, 방산, 배터리 등 신성장 산업의 부상 속에서 방위산업은 국내 경제의 새로운 성장 동력이자 고수익 투자 기회로 주목받고 있으며, 한화에어로스페이스는 K-방산 수출 확대의 핵심적인 역할을 하고 있습니다.",
+      "reason": "서울시장 선거의 주요 이슈로 부각된 부동산 정책 변화는 건설 및 부동산 개발 기업들의 수주 환경과 실적에 직접적인 영향을 줄 수 있어, 선거 결과 및 정책 방향성을 예의주시할 필요가 있습니다.",
       "check_points": [
-        "글로벌 방산 수출 계약 현황",
-        "우주항공 산업 투자 및 기술 개발",
-        "미국 및 유럽 시장 진출 확대"
+        "서울시장 선거 결과 및 부동산 공약 이행 여부",
+        "부동산 규제 완화 또는 강화 정책 동향",
+        "건설 프로젝트 수주 및 착공 지연 여부"
       ],
       "related_news_titles": [
-        "[뉴스 앤 데이터] HBM·방산·배터리…K-500대 기업 순위 변화 이끌다"
+        "서울시장 선거 최대 이슈는 부동산, 한강벨트가 승부처"
       ]
     }
   ],
