@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10 07:44",
-  "analysis_date": "2026-05-10",
+  "generated_at": "2026-05-11 07:48",
+  "analysis_date": "2026-05-11",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 지정학적 리스크와 연준의 매파적 스탠스 가능성으로 시장 불안감이 고조되는 가운데, AI 및 대형 기술주 중심의 랠리는 지속되며 나스닥은 사상 최고치를 경신했습니다. 국내에서는 서울시장 후보들의 부동산 정책 공방이 심화되고 있습니다.",
-    "국내거시경제": "서울시장 후보들의 주택 공급 전략 대결은 향후 수도권 부동산 시장의 방향성을 결정하며, 이는 국내 건설 경기 및 관련 산업에 간접적인 영향을 미칠 수 있습니다. 정책 변화에 따른 거시경제적 파급 효과를 주시해야 합니다.",
-    "글로벌경제": "트럼프 행정부의 이란 관련 정책이 글로벌 경제 및 금융 위기를 촉발할 수 있다는 분석이 제기되었습니다. 중동 지정학적 리스크 증가는 유가 상승, 안전 자산 선호 심리 자극, 무역 경로 교란 등으로 글로벌 경기 둔화 우려를 심화시킬 것입니다.",
-    "증시금리": "파월 연준 의장의 긴급 경고 발언으로 연준의 긴축 기조 유지 가능성에 대한 시장의 불안감이 커졌습니다. 반면, AI 및 대형 기술주 랠리가 심화되며 나스닥 종합지수는 또다시 사상 최고치를 기록했습니다. 다음 주에는 차세대 기술 기업 실적 발표와 미중 회담이 예정되어 있어 시장 변동성이 예상됩니다.",
-    "부동산정책": "서울시장 후보 정원오와 오세훈이 각각 '착착개발'과 '31만호 공급'을 내세우며 부동산 정책에 대해 치열하게 공방했습니다. 두 후보의 공급 전략 차이는 향후 서울 부동산 시장의 구체적인 개발 방향 및 재건축·재개발 규제 완화 정도에 직접적인 영향을 미칠 것입니다.",
-    "기업산업": "AI 기술 발전 기대감과 빅테크 기업들의 견조한 실적 및 성장성에 대한 긍정적 평가가 지속되며 AI 및 대형 기술주가 시장을 주도하고 있습니다. 다음 주에는 AI, 양자, 우주, 드론 등 차세대 기술 기업들의 실적 발표가 집중되어 해당 산업의 성장 동력을 확인할 중요한 시기가 될 것입니다.",
-    "오늘의투자시사점": "글로벌 지정학적 리스크와 연준의 매파적 스탠스 가능성으로 인한 시장 하방 압력에 대비하며 보수적인 접근이 필요합니다. 동시에 AI 및 차세대 기술주 중심의 시장 주도 흐름을 면밀히 관찰하고, 실적 발표에 따른 개별 기업의 투자 매력을 신중히 판단해야 합니다. 국내 부동산 정책 변화가 건설 및 재건축 관련 섹터에 미칠 영향을 주시하십시오.",
-    "오늘의한줄": "글로벌 리스크와 연준 경고 속 AI 기술주 랠리 지속, 보수적 접근과 개별 기업 실적, 국내 정책 변화에 주목."
+    "총평": "국내외 금리 인상 압력과 미국 연준의 정책 불확실성이 증폭되며 시장 전반의 투자 심리 위축이 우려됩니다.",
+    "국내거시경제": "예상 상회 성장률이 물가 압력을 키워 한국은행의 금리 인상 가능성이 제기됩니다. 국내 은행권도 하반기 금리 인상을 전망하며 시장에 부담을 주고 있습니다.",
+    "글로벌경제": "연준의 향후 1년 내 금리 인상 가능성이 부각되며, 매파적 성향의 차기 연준 의장 후보(케빈 워시) 거론은 정책 불확실성을 키우고 있습니다. 이란 휴전 협상 모멘텀도 주시해야 합니다.",
+    "증시금리": "국내외 동반 금리 인상 전망은 증시 유동성을 위축시키고 성장주에 부담을 줄 수 있습니다. 연준 의장 인선은 향후 통화 정책의 중요한 변수입니다.",
+    "부동산정책": "국내 금리 인상 가능성 확대는 부동산 시장에도 추가적인 부담으로 작용할 수 있습니다.",
+    "기업산업": "이란 휴전 협상 추이에 따라 유가 및 방산 관련 섹터의 단기 모멘텀 변동성이 클 것으로 예상됩니다.",
+    "오늘의투자시사점": "금리 인상 압력과 정책 불확실성 확대로 고위험 자산 비중을 줄이고 현금 확보 및 방어적 분산 투자를 통해 포트폴리오 재조정이 필요한 시점입니다.",
+    "오늘의한줄": "국내외 금리 인상 우려와 연준 불확실성 증대로 시장 보수적 접근이 요구됩니다."
   },
   "top_news": [
     {
@@ -28,36 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "트럼프의 이란 전쟁이 글로벌 경제 및 금융 위기를 촉발했다",
-      "display_title": "트럼프의 이란 전쟁이 글로벌 경제 및 금융 위기를 촉발했다",
-      "original_title": "Trump's Iran war has triggered a global economic and financial crisis - The Financial Express",
+      "title": "시장, 연준의 향후 1년간 금리 인상 가능성에 주목",
+      "display_title": "시장, 연준의 향후 1년간 금리 인상 가능성에 주목",
+      "original_title": "Markets are suddenly eyeing the possibility that the Fed could hike interest rates in the next year - AOL.com",
       "summary": [
-        "트럼프 행정부의 이란 관련 정책이 글로벌 경제 및 금융 위기를 촉발했다는 분석이 제기되었다.",
-        "지정학적 리스크가 고조될 경우 원유 공급 불안정, 무역 경로 교란 등으로 인해 전 세계 경제에 부정적인 파급 효과를 미칠 수 있다.",
-        "중동 지정학적 리스크 증가는 유가 상승 및 안전 자산 선호 심리를 자극하고, 글로벌 경기 둔화 우려를 심화시켜 투자 시장에 부정적인 영향을 줄 수 있다."
+        "시장 참가자들이 연준의 향후 1년 내 금리 인상 가능성을 주시하기 시작했다.",
+        "최근 경제 지표 및 연준 인사 발언 등으로 금리 인하 기대감이 후퇴하고, 인상 가능성까지 거론되는 상황이다.",
+        "예상치 못한 금리 인상은 주식 시장 전반에 부정적이며, 특히 성장주에 부담으로 작용할 수 있다."
       ],
-      "summary_text": "트럼프 행정부의 이란 관련 정책이 글로벌 경제 및 금융 위기를 촉발했다는 분석이 제기되었다. 지정학적 리스크가 고조될 경우 원유 공급 불안정, 무역 경로 교란 등으로 인해 전 세계 경제에 부정적인 파급 효과를 미칠 수 있다. 중동 지정학적 리스크 증가는 유가 상승 및 안전 자산 선호 심리를 자극하고, 글로벌 경기 둔화 우려를 심화시켜 투자 시장에 부정적인 영향을 줄 수 있다.",
-      "description": "트럼프의 이란 전쟁이 전 세계적인 경제 및 금융 위기를 야기했다.",
-      "category": "글로벌 경제",
-      "importance": 10,
+      "summary_text": "시장 참가자들이 연준의 향후 1년 내 금리 인상 가능성을 주시하기 시작했다. 최근 경제 지표 및 연준 인사 발언 등으로 금리 인하 기대감이 후퇴하고, 인상 가능성까지 거론되는 상황이다. 예상치 못한 금리 인상은 주식 시장 전반에 부정적이며, 특히 성장주에 부담으로 작용할 수 있다.",
+      "description": "시장이 갑자기 미국 연방준비제도(Fed)가 향후 1년 내 금리를 인상할 가능성에 주목하기 시작했다는 내용입니다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "에너지, 방산, 국제유가",
+      "related_sector": "전반적인 시장, 금융, 기술",
       "related_stocks": [
-        "한국항공우주",
-        "현대로템"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "중동 지역의 지정학적 불안정은 유가 변동성 확대, 공급망 교란 등 전 세계 경제에 심각한 타격을 줄 수 있어 투자 포트폴리오의 방어적 재편을 고려해야 한다.",
-      "key_signal": "이란 사태의 진전 상황, 국제유가 추이, 그리고 주요국들의 대응을 면밀히 모니터링해야 한다.",
+      "investment_reason": "연준의 금리 인상 가능성은 증시 전반의 유동성을 위축시키고 기업의 자금 조달 비용을 증가시켜 투자 심리에 부정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "다음 연준 FOMC 회의록 및 연준 위원들의 발언을 통해 금리 정책 방향에 대한 단서를 포착해야 한다.",
       "keywords": [
-        "지정학적 리스크",
-        "이란",
-        "글로벌 위기",
-        "유가",
-        "안전자산"
+        "연준",
+        "금리 인상",
+        "시장 전망",
+        "유동성",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGJGY0FTYjl1OFFsQjlLdTRabkNKX2xfN1A2TnljcmprUDI1NndjWlhLWXp2OElSdHk3MlZFRi1CQmlWZkZWXzNPdjZRQVQwZ1M3YWRreWpXQlNuLUY2S3NhSEx6YVZBMkUwMk1tN2xuTUxnOHg4M05oYkl0NHhmQUVwcUlOTnFPVl8yMWl2V0w0TDVTczZZNVhKN0hTcmRjRllIT1B4UXFNMmt1R0FiWC1LS3d6N3Uw?oc=5",
-      "published": "2026-05-10 02:15",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTko4NG80TmJ3azBfSXE5QWFtMjFoekpkaDFhaGZ2NGpVbGluQUxPUkJwT2hpbGhTNXljY0pjQXhvYjhfcEMzdWt3QUJUZ0VkVjVVUGp0TE5Sa2k2cVVfWE8ydkROekZURmY0Q0hhal9PaUNfMG5PZnNGc3djYmVuelNzZmoza3FvTVRv?oc=5",
+      "published": "2026-05-11 05:38",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -66,42 +67,42 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "파월 연준 의장, 주식 시장 투자자들에게 긴급 경고 메시지 전달",
-      "display_title": "파월 연준 의장, 주식 시장 투자자들에게 긴급 경고 메시지 전달",
-      "original_title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[기자의 눈] 깜짝 성장의 대가, 이제 남은 것은 금리 인상",
+      "display_title": "[기자의 눈] 깜짝 성장의 대가, 이제 남은 것은 금리 인상",
+      "original_title": "[기자의 눈] 깜짝 성장의 청구서, 이제 남은 건 금리 인상 - 아주경제",
       "summary": [
-        "파월 연준 의장이 주식 시장 투자자들에게 긴급 경고를 발언했다.",
-        "연준의 통화 정책 방향, 특히 금리 인상 또는 긴축 기조 유지 가능성에 대한 시장의 불안감이 반영된 것으로 보인다.",
-        "연준의 매파적 스탠스가 강화될 경우 주식 시장에 하방 압력으로 작용할 수 있으므로 보수적인 접근이 필요하다."
+        "최근 예상치를 웃도는 경제 성장률이 발표되면서, 이에 대한 대가로 금리 인상 가능성이 높아지고 있다는 분석이다.",
+        "견조한 성장세가 물가 상승 압력으로 이어질 수 있어 한국은행의 금리 인상 카드를 고려할 수 있다는 시각이다.",
+        "국내 금리 인상은 주식 시장의 유동성을 위축시키고 부동산 시장에도 부담을 줄 수 있어 투자 전략 재조정이 필요하다."
       ],
-      "summary_text": "파월 연준 의장이 주식 시장 투자자들에게 긴급 경고를 발언했다. 연준의 통화 정책 방향, 특히 금리 인상 또는 긴축 기조 유지 가능성에 대한 시장의 불안감이 반영된 것으로 보인다. 연준의 매파적 스탠스가 강화될 경우 주식 시장에 하방 압력으로 작용할 수 있으므로 보수적인 접근이 필요하다.",
-      "description": "파월 연준 의장이 주식 시장 투자자들에게 긴급 경고를 보냈다.",
-      "category": "증시·금리",
+      "summary_text": "최근 예상치를 웃도는 경제 성장률이 발표되면서, 이에 대한 대가로 금리 인상 가능성이 높아지고 있다는 분석이다. 견조한 성장세가 물가 상승 압력으로 이어질 수 있어 한국은행의 금리 인상 카드를 고려할 수 있다는 시각이다. 국내 금리 인상은 주식 시장의 유동성을 위축시키고 부동산 시장에도 부담을 줄 수 있어 투자 전략 재조정이 필요하다.",
+      "description": "예상 밖의 경제 성장에 대한 대가로 이제는 금리 인상이 남아있다는 기자의 분석을 담은 기사입니다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전반적인 시장, 금융",
+      "related_sector": "금융, 건설, 전반적인 시장",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준 의장의 발언은 글로벌 유동성과 금리 방향에 직접적인 영향을 미쳐 투자 심리와 시장 전반의 변동성을 키울 수 있기 때문이다.",
-      "key_signal": "연준의 정확한 경고 내용과 시장 반응, 특히 금리 관련 지표 변화를 주시해야 한다.",
+      "investment_reason": "국내 금리 인상은 가계 및 기업의 이자 부담을 가중시키고 주식, 부동산 등 자산 시장 전반의 투자 심리를 냉각시킬 수 있기 때문이다.",
+      "key_signal": "한국은행의 다음 금융통화위원회 회의 결과와 총재의 발언을 통해 금리 인상 시그널이 강화되는지 확인해야 한다.",
       "keywords": [
-        "연준",
-        "파월",
-        "금리",
-        "주식시장",
-        "긴축"
+        "국내 경제",
+        "금리 인상",
+        "깜짝 성장",
+        "한국은행",
+        "물가 압력"
       ],
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQW15WndVeTZOV0xFak90Rl84bGUzRTgyMEhCdi1INlBrTTJVeDJxM1BGTVVFZm0xSEdnLVRJQWtybXliNUVwalpIWXhneV9ha2NKSEVKZ3d6YmJtOVItOS1ISEczclJWbHc0WHNibmpqY2dLcmJWWTN1Z0FROEk?oc=5",
-      "published": "2026-05-10 03:15",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Zc0dLSnlmcjd4WXZDYk5xS0lxREtCQUtLMnYxOUR1aDF1bEJSSmxSTUozTm5oSkgxb0pQdGtCdnctWkZpQXJmT3Q0MWVtZnFNWDluRTZKQkJKQdIBWEFVX3lxTFAzWWR6RTBsa0dNbnlWd0MtX0NkZDNfYi15TGlxc0N2V2tOTjF5U3JqV1hqQUNrSDFlb1dOUExFMnMxNEY0cUtLR211WlFWdDZNQllhSkdvZy0?oc=5",
+      "published": "2026-05-11 06:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -111,36 +112,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다음 주 (5월 11일~15일) 실적 및 경제 캘린더: AI, 양자, 우주, 드론 등 차세대 기술 기업 실적 발표와 미중 회담 주목",
-      "display_title": "다음 주 (5월 11일~15일) 실적 및 경제 캘린더: AI, 양자, 우주, 드론 등 차세대 기술 기업 실적 발표와 미중 회담 주목",
-      "original_title": "Next Week's Earnings and Economic Calendar (May 11 - May 15): Rush of earnings from the second wave of next-gen tech in the US including AI, quantum, space, and drones, along with the domestic earnings peak! Focus also on the US-China talks, the visit - Moomoo",
+      "title": "케빈 워시가 제롬 파월을 대체할 경우 증시가 연준 문제에 직면할 수도",
+      "display_title": "케빈 워시가 제롬 파월을 대체할 경우 증시가 연준 문제에 직면할 수도",
+      "original_title": "The Stock Market May Have a Federal Reserve Problem with Kevin Warsh Replacing Jerome Powell - AOL.com",
       "summary": [
-        "다음 주에는 AI, 양자, 우주, 드론 등 미국 차세대 기술 기업들의 실적 발표와 국내 주요 기업들의 실적 피크가 집중된다.",
-        "글로벌 기술 산업의 성장 동력과 기업들의 현재 실적을 평가하는 중요한 시기이며, 미중 관계 변화도 시장에 영향을 미칠 수 있다.",
-        "기술 섹터의 실적 발표는 해당 산업의 성장성과 개별 기업의 투자 매력을 판단하는 중요한 근거가 되며, 미중 회담 결과에 따라 관련 산업에 변동성이 생길 수 있다."
+        "케빈 워시가 제롬 파월을 대신해 연준 의장에 오를 경우 증시에 문제가 발생할 수 있다는 전망이 나온다.",
+        "워시는 파월과 다른 통화 정책 관점을 가지고 있으며, 이는 시장의 기존 기대와 상충될 수 있다.",
+        "차기 연준 의장 인사는 통화 정책의 변화를 야기할 수 있으므로, 연준 의장 후보들의 성향을 파악해야 한다."
       ],
-      "summary_text": "다음 주에는 AI, 양자, 우주, 드론 등 미국 차세대 기술 기업들의 실적 발표와 국내 주요 기업들의 실적 피크가 집중된다. 글로벌 기술 산업의 성장 동력과 기업들의 현재 실적을 평가하는 중요한 시기이며, 미중 관계 변화도 시장에 영향을 미칠 수 있다. 기술 섹터의 실적 발표는 해당 산업의 성장성과 개별 기업의 투자 매력을 판단하는 중요한 근거가 되며, 미중 회담 결과에 따라 관련 산업에 변동성이 생길 수 있다.",
-      "description": "다음 주 (5월 11일~15일)에는 미국 차세대 기술 기업들의 실적 발표와 국내 실적 시즌 피크가 예정되어 있으며, 미중 회담 등 경제 이슈도 주목받을 예정이다.",
+      "summary_text": "케빈 워시가 제롬 파월을 대신해 연준 의장에 오를 경우 증시에 문제가 발생할 수 있다는 전망이 나온다. 워시는 파월과 다른 통화 정책 관점을 가지고 있으며, 이는 시장의 기존 기대와 상충될 수 있다. 차기 연준 의장 인사는 통화 정책의 변화를 야기할 수 있으므로, 연준 의장 후보들의 성향을 파악해야 한다.",
+      "description": "케빈 워시가 제롬 파월 대신 연준 의장이 될 경우 증시가 연방준비제도와 관련한 문제에 직면할 수 있다는 전망을 다루는 기사입니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "인공지능, 반도체, 우주항공, 기술주",
-      "related_stocks": [
-        "엔비디아",
-        "테슬라"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "주요 기술 기업들의 실적은 시장 전체의 방향성을 제시하고, 미중 회담은 글로벌 경제 환경에 영향을 미쳐 투자 전략 수립에 필수적이기 때문이다.",
-      "key_signal": "차세대 기술 기업들의 실적 발표 내용과 미중 회담의 구체적인 결과를 면밀히 분석해야 한다.",
+      "market_impact": "부정",
+      "related_sector": "전반적인 시장",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "연준 의장의 교체는 통화 정책 기조에 중대한 변화를 가져올 수 있으며, 이는 주식 시장의 흐름을 근본적으로 바꿀 수 있는 요인이기 때문이다.",
+      "key_signal": "차기 연준 의장 후보들에 대한 언급 및 그들의 과거 발언과 정책 스탠스를 예의주시해야 한다.",
       "keywords": [
-        "실적발표",
-        "AI",
-        "기술주",
-        "미중관계",
-        "경제지표"
+        "연준 의장",
+        "케빈 워시",
+        "제롬 파월",
+        "통화정책",
+        "시장 영향"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2Z1RGU1VjRpWDRpYjMyZzZGa25aTEZMVVBEaDlHZFJnMmEzZnA3R1pZdDQ1SDdPZGpvNzhqZFAzVmgyYTZDSHZ2TmduWVVqSjhvN0NyUGxsVGMzS3VoeVR6OEFpLXdMY0JTcVgyRTk2MlVPOVN3V0VKd1BmWWlCVGZVNm9MUm9iaENIYzJna3hqYjVibDd2OUJBd1hKN1NkUU8wemJRODdfZw?oc=5",
-      "published": "2026-05-09 15:39",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDhRX1gyOEZILTQwbzNESG5RLUVNbXhvYVJ4YUJOeXRXZVdiOFdEVXZnRGtNZ3BfZk0xcDNLMzB3Vko4TnFNRTFZUzMxLW1INHdGcGNlNmZXaWNTajBTVW93RE5vWmRpMXRqOHEzZnhyYk9uZkhmX2dXZUNoZzNFMw?oc=5",
+      "published": "2026-05-11 05:33",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -149,82 +147,36 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "서울시장 후보 부동산 해법 격돌, 정원오 '착착개발' vs 오세훈 '31만호 공급' 맞대결",
-      "display_title": "서울시장 후보 부동산 해법 격돌, 정원오 '착착개발' vs 오세훈 '31만호 공급' 맞대결",
-      "original_title": "서울시장 후보 부동산 해법 격돌, 정원오 '착착개발' vs 오세훈 '31만호 공급' 맞대결 : 정치/사회 - 재경일보",
-      "summary": [
-        "서울시장 후보 정원오와 오세훈이 각각 '착착개발'과 '31만호 공급'을 내세우며 부동산 정책에 대해 치열한 공방을 벌였다.",
-        "서울의 주택 공급 부족과 높은 집값 문제 해결이 주요 현안으로 부상하며, 후보들마다 다른 공급 확대 및 규제 완화 방안을 제시하고 있다.",
-        "차기 서울시장의 부동산 정책 방향은 서울 및 수도권 부동산 시장에 직접적인 영향을 미치며, 특히 공급 확대 정책은 건설 및 재건축 관련 종목에 긍정적인 영향을 줄 수 있다."
-      ],
-      "summary_text": "서울시장 후보 정원오와 오세훈이 각각 '착착개발'과 '31만호 공급'을 내세우며 부동산 정책에 대해 치열한 공방을 벌였다. 서울의 주택 공급 부족과 높은 집값 문제 해결이 주요 현안으로 부상하며, 후보들마다 다른 공급 확대 및 규제 완화 방안을 제시하고 있다. 차기 서울시장의 부동산 정책 방향은 서울 및 수도권 부동산 시장에 직접적인 영향을 미치며, 특히 공급 확대 정책은 건설 및 재건축 관련 종목에 긍정적인 영향을 줄 수 있다.",
-      "description": "서울시장 후보인 정원오와 오세훈이 부동산 해법을 두고 격돌하며, 정원오는 '착착개발'을, 오세훈은 '31만호 공급'을 내세워 맞대결을 펼쳤다.",
-      "category": "부동산·정책",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "건설, 부동산 개발, 건자재",
-      "related_stocks": [
-        "현대건설",
-        "GS건설",
-        "대림산업"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "서울시장 후보들의 부동산 정책은 서울 및 수도권 부동산 시장의 미래 방향을 결정하는 핵심 요소이며, 이는 건설 및 부동산 관련 기업들의 실적에 중대한 영향을 미치기 때문이다.",
-      "key_signal": "당선될 서울시장 후보의 구체적인 부동산 공약 이행 가능성과 시장의 반응을 지속적으로 관찰해야 한다.",
-      "keywords": [
-        "서울시장",
-        "부동산",
-        "주택공급",
-        "재건축",
-        "도시개발"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsZ0tNV0UxR0NLcHNoUi1qZFA4cEg1LUdRZkhSN2xBVGdIM0Y5WDdDVGpzYXVLbnVTT18wR3ZOSVFoellwVk1hdGdR?oc=5",
-      "published": "2026-05-10 06:32",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 5,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 및 대형 기술주 랠리 심화로 나스닥 종합지수 또다시 사상 최고치 기록",
-      "display_title": "AI 및 대형 기술주 랠리 심화로 나스닥 종합지수 또다시 사상 최고치 기록",
-      "original_title": "Nasdaq Composite Climbs to New Record as AI and Mega-Cap Tech Rally Intensify - AD HOC NEWS",
+      "title": "연준 의장 후보 케빈 워시, 증시를 지지하는 핵심 연준 정책에 대해 파월과 의견 불일치",
+      "display_title": "연준 의장 후보 케빈 워시, 증시를 지지하는 핵심 연준 정책에 대해 파월과 의견 불일치",
+      "original_title": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) - AOL.com",
       "summary": [
-        "AI 및 대형 기술주 랠리에 힘입어 나스닥 종합지수가 다시 사상 최고치를 기록했다.",
-        "AI 기술 발전 기대감과 빅테크 기업들의 견조한 실적 및 성장성에 대한 시장의 긍정적인 평가가 지속적으로 반영되고 있다.",
-        "AI 및 대형 기술주는 여전히 시장을 주도하는 핵심 동력이며, 관련 기업들의 성장성과 혁신에 대한 지속적인 관심이 필요하다."
+        "연준 의장 후보 케빈 워시가 제롬 파월 현 의장과 증시를 지지하는 주요 정책에 대해 의견을 달리한다.",
+        "워시의 이러한 입장은 파월의 현 정책 기조가 주식 시장에 우호적이지 않거나, 워시가 더 매파적인 스탠스를 취할 수 있음을 시사한다.",
+        "차기 연준 의장 인선은 현재의 유동성 환경 및 시장의 기대를 크게 바꿀 수 있는 요인이므로 주의 깊게 살펴야 한다."
       ],
-      "summary_text": "AI 및 대형 기술주 랠리에 힘입어 나스닥 종합지수가 다시 사상 최고치를 기록했다. AI 기술 발전 기대감과 빅테크 기업들의 견조한 실적 및 성장성에 대한 시장의 긍정적인 평가가 지속적으로 반영되고 있다. AI 및 대형 기술주는 여전히 시장을 주도하는 핵심 동력이며, 관련 기업들의 성장성과 혁신에 대한 지속적인 관심이 필요하다.",
-      "description": "인공지능(AI) 관련 주식과 대형 기술주들의 랠리가 심화되면서 나스닥 종합지수가 새로운 사상 최고치를 경신했다.",
+      "summary_text": "연준 의장 후보 케빈 워시가 제롬 파월 현 의장과 증시를 지지하는 주요 정책에 대해 의견을 달리한다. 워시의 이러한 입장은 파월의 현 정책 기조가 주식 시장에 우호적이지 않거나, 워시가 더 매파적인 스탠스를 취할 수 있음을 시사한다. 차기 연준 의장 인선은 현재의 유동성 환경 및 시장의 기대를 크게 바꿀 수 있는 요인이므로 주의 깊게 살펴야 한다.",
+      "description": "연준 의장 후보인 케빈 워시가 제롬 파월과 달리 증시를 지지하는 핵심 연준 정책에 대해 다른 의견을 가지고 있다는 내용 (금리 인하는 아님)의 기사입니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "인공지능, 반도체, 소프트웨어, 대형 기술주",
-      "related_stocks": [
-        "엔비디아",
-        "마이크로소프트",
-        "애플"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "AI 및 대형 기술주가 시장의 상승을 주도하고 있으며, 이는 혁신 기술의 미래 성장 잠재력을 반영하므로 관련 기업 투자는 장기적인 수익률에 긍정적일 수 있다.",
-      "key_signal": "AI 관련 기업들의 실적과 신기술 발표, 그리고 대형 기술주들의 시장 주도력 지속 여부를 면밀히 관찰해야 한다.",
+      "market_impact": "부정",
+      "related_sector": "전반적인 시장",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "케빈 워시의 연준 의장 가능성과 그의 정책 스탠스 차이는 증시의 유동성 환경과 투자 심리에 근본적인 변화를 초래할 수 있기 때문이다.",
+      "key_signal": "워시가 파월과 의견을 달리하는 '핵심 연준 정책'이 무엇인지 구체적으로 파악하고, 그것이 증시에 미칠 영향을 분석해야 한다.",
       "keywords": [
-        "나스닥",
-        "AI",
-        "기술주",
-        "대형주",
-        "랠리"
+        "연준 의장",
+        "케빈 워시",
+        "제롬 파월",
+        "통화정책",
+        "시장 영향"
       ],
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUg5bUIxdFdGUnpEVFM5bnF1Rl90ZXF1S3JWSTRxNmJHZ3YtdEpMaWdOVHJ5bDdZZXBPaDFkRUIzaFM0Qk9CTUZJSmQtSVFtVkxIR2V0Y2x3WkZDaEFHMEstZU1FYXBiSy1VQ0M1Z2kyYko4cDJSUkJVcjFwdGRsMXV3eXZrOC13cVVtQ0FUN2RtZ20wZ1JsTWE0alVjMERsVWQxX19uUm51N2dmU0JRZWI4REo5UjRsMkh4amJEdVlpYi1J?oc=5",
-      "published": "2026-05-09 23:42",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ybktvVTdyMERWOVBSRDM0TjgtZG8wSUY3OS16Tk13cEVjbnl3dzFnOW9tdTJIRmZlNHkyTFdkRDRZQkpQd0VzNjhRdUkzOGhlbjhXN0JNX1lVbzNpWlU2TVZxZG1JU2NFUmpQMjhQbGhHNzJITEdDMFpweDZwQQ?oc=5",
+      "published": "2026-05-10 22:28",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -232,42 +184,85 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "서울시장 부동산 공방: 정원오 vs 오세훈, 공급 전략 대결",
-      "display_title": "서울시장 부동산 공방: 정원오 vs 오세훈, 공급 전략 대결",
-      "original_title": "서울시장 부동산 공방: 정원오 vs 오세훈, 공급 전략 대결 - tokenpost.kr",
+      "title": "은행권, 하반기 금리 인상 전망... '현금 확보·분산 투자' 조언",
+      "display_title": "은행권, 하반기 금리 인상 전망... '현금 확보·분산 투자' 조언",
+      "original_title": "은행권, 하반기 금리인상 전망…\"현금 확보·분산투자\" 조언 - 매일경제 마켓",
       "summary": [
-        "서울시장 후보 정원오와 오세훈이 주택 공급 전략을 두고 첨예한 정책 대결을 펼쳤다.",
-        "서울의 심각한 주택난과 높은 부동산 가격에 대한 유권자들의 불만을 해소하기 위해 후보들이 각기 다른 공급 확대 방안을 제시하고 있다.",
-        "두 후보의 공급 전략 차이는 향후 서울 부동산 시장의 구체적인 개발 방향과 재건축·재개발 규제 완화 정도에 영향을 미칠 것이므로, 관련 투자에 앞서 정책 변화를 주시해야 한다."
+        "국내 은행권이 하반기 금리 인상을 전망하며, 이에 대비해 현금 확보와 분산 투자를 투자 전략으로 제시했다.",
+        "국내 경제의 예상치 못한 성장과 물가 압력으로 인해 한국은행이 금리 인상에 나설 가능성이 점쳐지고 있다.",
+        "금리 인상기에 대비하여 고위험 자산 비중을 줄이고 안전 자산 또는 방어적 성격의 자산으로 포트폴리오를 조정하는 것이 필요하다."
       ],
-      "summary_text": "서울시장 후보 정원오와 오세훈이 주택 공급 전략을 두고 첨예한 정책 대결을 펼쳤다. 서울의 심각한 주택난과 높은 부동산 가격에 대한 유권자들의 불만을 해소하기 위해 후보들이 각기 다른 공급 확대 방안을 제시하고 있다. 두 후보의 공급 전략 차이는 향후 서울 부동산 시장의 구체적인 개발 방향과 재건축·재개발 규제 완화 정도에 영향을 미칠 것이므로, 관련 투자에 앞서 정책 변화를 주시해야 한다.",
-      "description": "서울시장 후보 정원오와 오세훈이 부동산 공급 전략을 두고 치열한 공방을 벌였다.",
-      "category": "부동산·정책",
+      "summary_text": "국내 은행권이 하반기 금리 인상을 전망하며, 이에 대비해 현금 확보와 분산 투자를 투자 전략으로 제시했다. 국내 경제의 예상치 못한 성장과 물가 압력으로 인해 한국은행이 금리 인상에 나설 가능성이 점쳐지고 있다. 금리 인상기에 대비하여 고위험 자산 비중을 줄이고 안전 자산 또는 방어적 성격의 자산으로 포트폴리오를 조정하는 것이 필요하다.",
+      "description": "국내 은행권에서 하반기 금리 인상을 전망하며, 투자자들에게 현금 확보 및 분산 투자를 조언한다는 내용의 기사입니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "건설, 부동산 개발, 재건축, 재개발",
+      "market_impact": "부정",
+      "related_sector": "금융, 전반적인 시장",
       "related_stocks": [
-        "HDC현대산업개발",
-        "DL이앤씨"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "서울시장 선거 결과에 따른 부동산 정책 변화는 서울의 주택 시장 환경과 건설 업계의 사업 기회에 직접적인 영향을 주므로, 장기적인 부동산 투자 전략 수립에 필수적인 정보이다.",
-      "key_signal": "두 후보의 공약 중 어떤 정책이 시장에서 더 현실적으로 받아들여지고, 당선 후 얼마나 빠르게 추진될지 지켜봐야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "은행권의 금리 인상 전망은 투자 환경 변화를 예고하며, 현금 확보와 분산 투자는 변동성 장세에 대응하기 위한 핵심 전략이기 때문이다.",
+      "key_signal": "은행권의 금리 전망이 실제 한국은행의 정책 기조로 이어지는지 여부와 현금성 자산의 수익률 변화를 주시해야 한다.",
       "keywords": [
-        "서울시장",
-        "부동산정책",
-        "주택공급",
-        "재건축",
-        "선거"
+        "금리 인상",
+        "은행권",
+        "하반기 전망",
+        "현금 확보",
+        "분산 투자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iRmFVM3d6V0pXOXEwQ3Z2V1NLY0ZWQTF1ZlVXNm9qQXFIakJjdk8zNENYejFfNXJFY2c3dTVkckpNVTlFZ0pvWGI2eEY0bllRR3NKVTlR0gFbQVVfeXFMT25VaHhpeDBxZmZXSGxiUUw3TGh2SzBKeEEwdDV4OEFDel9hZmRfdS1JYjRna1NkcmdEN1FGZE5aa0VpLWRnWjYzWjM4ZTdTeS1wM0stS0EtT0dGOA?oc=5",
-      "published": "2026-05-10 07:29",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oTHdyNzE5REJrbEJOSGdiNlZHSXlLUG8teHJUdVFvU2JlN2lmTk1RV3FhYzZ5eWFSMjIzNFFocU9QMnNHVmw1SWpPWnhEQzNPckE?oc=5",
+      "published": "2026-05-11 05:55",
       "quality": {
         "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 6,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "이란 휴전 협상 단서 찾는 모멘텀 투자자들",
+      "display_title": "이란 휴전 협상 단서 찾는 모멘텀 투자자들",
+      "original_title": "Momentum-obsessed traders seek clues on Iran truce - The Business Times",
+      "summary": [
+        "모멘텀 기반 트레이더들이 이란 휴전 관련 정보를 주시하고 있다.",
+        "지정학적 리스크가 시장 변동성에 영향을 미칠 수 있어 관련 소식에 민감하게 반응한다.",
+        "이란 휴전 여부에 따라 유가, 방산 등 관련 섹터의 단기 모멘텀이 크게 달라질 수 있다."
+      ],
+      "summary_text": "모멘텀 기반 트레이더들이 이란 휴전 관련 정보를 주시하고 있다. 지정학적 리스크가 시장 변동성에 영향을 미칠 수 있어 관련 소식에 민감하게 반응한다. 이란 휴전 여부에 따라 유가, 방산 등 관련 섹터의 단기 모멘텀이 크게 달라질 수 있다.",
+      "description": "모멘텀 투자자들이 이란 휴전 협상 관련 단서를 찾고 있다는 내용의 기사입니다.",
+      "category": "증시·금리",
+      "importance": 7,
+      "market_impact": "중립",
+      "related_sector": "에너지, 방산, 국제정세 관련 상품",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "이란 휴전 여부는 유가 등 원자재 가격과 지정학적 리스크에 민감한 섹터의 단기적인 투자 심리에 큰 영향을 줄 수 있기 때문이다.",
+      "key_signal": "이란 휴전 협상 진행 상황과 관련하여 나오는 뉴스 보도를 면밀히 체크해야 한다.",
+      "keywords": [
+        "이란",
+        "휴전",
+        "모멘텀",
+        "지정학적 리스크",
+        "유가"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFUTTAtbTlQdHZ1YmdQckQwUEJLSWxCY1E4ZFljQV85Z3FuRjJKWms2ckQ0U1BRR05IQ29hNkM5OUhXMUFGNXZrME1vUk1WX1hJa0pMNVBjbVdIVkhQelB6VWc5ZExnU0k5Y3ZJQ2FhdlROMWtxOVlhbnNLN2xjczJaUVdia2xGeTJzREMzVHN5WEgwVDdNQVo0TTVRS2NfbkF1VDZJT1ZfRGgwOVlLOVZtbUIzdFFZRWUyQTVmWm9zdEk?oc=5",
+      "published": "2026-05-11 07:17",
+      "quality": {
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -276,33 +271,38 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "한국항공우주",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "항공우주 및 방산",
-      "opinion": "관심",
-      "reason": "중동 지역의 지정학적 긴장 고조는 국제유가 변동성 확대와 공급망 교란을 야기할 수 있으나, 동시에 방위산업에 대한 시장의 관심을 높여 관련 기업의 주가에 영향을 줄 수 있습니다.",
+      "sector": "은행",
+      "opinion": "주의",
+      "reason": "연준의 금리 인상 가능성과 국내 금리 인상 전망은 금융권의 변동성을 높일 수 있습니다. 특히 은행권은 금리 인상기에 '현금 확보와 분산 투자'를 조언하는 등 시장에 대한 신중한 접근을 강조하고 있으며, 가계 및 기업의 이자 부담 증가는 장기적으로 금융 부실로 이어질 가능성도 배제할 수 없습니다.",
       "check_points": [
-        "국제 유가 및 원자재 가격 변동 추이",
-        "주요국의 군사 동향 및 방산 관련 정책 변화"
+        "연준 및 한국은행의 금리 결정 및 통화 정책 스탠스",
+        "가계 및 기업 대출 연체율, 건전성 지표 변화",
+        "은행권의 NIM(순이자마진) 및 대출 성장률 추이"
       ],
       "related_news_titles": [
-        "트럼프의 이란 전쟁이 글로벌 경제 및 금융 위기를 촉발했다"
+        "시장, 연준의 향후 1년간 금리 인상 가능성에 주목",
+        "[기자의 눈] 깜짝 성장의 대가, 이제 남은 것은 금리 인상",
+        "은행권, 하반기 금리 인상 전망... '현금 확보·분산 투자' 조언"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "AI 및 대형 기술주 랠리가 지속되며 글로벌 나스닥 지수가 사상 최고치를 기록한 가운데, 고대역폭 메모리(HBM) 등 AI 반도체 핵심 기업으로서 시장의 지속적인 관심이 예상됩니다. 다음 주 주요 기술 기업들의 실적 발표도 주목해야 합니다.",
+      "sector": "반도체 및 전자제품",
+      "opinion": "주의",
+      "reason": "연준의 금리 인상 가능성은 증시 전반의 유동성을 위축시키고 기업의 자금 조달 비용을 증가시켜 기술주 투자 심리에 부정적인 영향을 미칠 수 있습니다. 또한, 연준 의장 교체 가능성과 그에 따른 통화 정책 기조 변화는 미래 성장 가치에 대한 할인율을 높여 대형 기술주의 밸류에이션에 부담으로 작용할 수 있습니다.",
       "check_points": [
-        "글로벌 AI 시장의 성장세 및 반도체 수요 전망",
-        "주요 고객사들의 AI 투자 확대 여부 및 실적 발표 내용"
+        "연준의 금리 인상 발표 및 향후 가이던스",
+        "글로벌 반도체 수요 및 가격 동향 (메모리, 파운드리)",
+        "삼성전자 분기별 실적 발표 및 가이던스 변화"
       ],
       "related_news_titles": [
-        "AI 및 대형 기술주 랠리 심화로 나스닥 종합지수 또다시 사상 최고치 기록",
-        "다음 주 (5월 11일~15일) 실적 및 경제 캘린더: AI, 양자, 우주, 드론 등 차세대 기술 기업 실적 발표와 미중 회담 주목"
+        "시장, 연준의 향후 1년간 금리 인상 가능성에 주목",
+        "케빈 워시가 제롬 파월을 대체할 경우 증시가 연준 문제에 직면할 수도",
+        "연준 의장 후보 케빈 워시, 증시를 지지하는 핵심 연준 정책에 대해 파월과 의견 불일치"
       ]
     },
     {
@@ -310,31 +310,32 @@
       "name": "현대건설",
       "market": "KOSPI",
       "sector": "건설",
-      "opinion": "관심",
-      "reason": "서울시장 선거를 앞두고 주요 후보들이 주택 공급 확대 등 공격적인 부동산 정책을 제시하고 있어, 서울 및 수도권 부동산 시장의 변화와 건설 및 재건축·재개발 관련 기업들의 수혜 가능성에 주목해야 합니다.",
+      "opinion": "주의",
+      "reason": "국내 경제의 금리 인상 가능성은 가계 및 기업의 이자 부담을 가중시키고 주식, 부동산 등 자산 시장 전반의 투자 심리를 냉각시킬 수 있습니다. 특히 부동산 시장과 밀접하게 연결된 건설 업종은 국내 금리 인상으로 인한 주택 수요 위축과 건설 프로젝트 자금 조달 비용 증가에 주의해야 합니다.",
       "check_points": [
-        "서울시장 후보들의 구체적인 부동산 정책 내용 및 당선 가능성",
-        "정부의 부동산 규제 완화 또는 강화 기조"
+        "한국은행 기준 금리 결정 및 시장 금리 변동성",
+        "국내 부동산 시장 지표 (거래량, 미분양, 주택가격 지수)",
+        "정부의 부동산 정책 변화 및 SOC 투자 계획"
       ],
       "related_news_titles": [
-        "서울시장 후보 부동산 해법 격돌, 정원오 '착착개발' vs 오세훈 '31만호 공급' 맞대결",
-        "서울시장 부동산 공방: 정원오 vs 오세훈, 공급 전략 대결"
+        "[기자의 눈] 깜짝 성장의 대가, 이제 남은 것은 금리 인상",
+        "은행권, 하반기 금리 인상 전망... '현금 확보·분산 투자' 조언"
       ]
     },
     {
       "rank": 4,
-      "name": "삼성전자",
+      "name": "S-Oil",
       "market": "KOSPI",
-      "sector": "반도체 및 전자제품",
-      "opinion": "주의",
-      "reason": "파월 연준 의장의 긴급 경고 메시지로 인한 글로벌 유동성 및 금리 변화, 전반적인 시장 변동성 확대에 주의가 필요합니다. 하지만 동시에 AI 및 대형 기술주 랠리의 주요 수혜주로서 시장의 방향성을 가늠하는 핵심 지표 역할을 할 것입니다.",
+      "sector": "정유",
+      "opinion": "중립",
+      "reason": "이란 휴전 협상 진행 여부는 유가 등 국제 원자재 가격에 중대한 영향을 미칠 수 있습니다. 이는 정유 및 에너지 관련 기업의 실적 변동성을 키울 수 있는 요인이므로, 국제 정세 변화와 유가 동향을 면밀히 관찰하며 투자 전략을 수립할 필요가 있습니다.",
       "check_points": [
-        "연준의 향후 통화 정책 방향 및 금리 전망",
-        "글로벌 AI 시장의 성장 지속 여부 및 반도체 업황 개선 속도"
+        "이란 휴전 협상 관련 외신 보도 및 공식 발표",
+        "국제 유가 (WTI, 브렌트유) 변동성 추이 및 재고량 변화",
+        "글로벌 원유 공급망 및 수요 전망"
       ],
       "related_news_titles": [
-        "파월 연준 의장, 주식 시장 투자자들에게 긴급 경고 메시지 전달",
-        "AI 및 대형 기술주 랠리 심화로 나스닥 종합지수 또다시 사상 최고치 기록"
+        "이란 휴전 협상 단서 찾는 모멘텀 투자자들"
       ]
     }
   ],
