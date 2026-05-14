@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14 08:06",
-  "analysis_date": "2026-05-14",
+  "generated_at": "2026-05-15 07:57",
+  "analysis_date": "2026-05-15",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "AI 및 반도체 강세로 글로벌 증시가 상승했지만, 인플레이션 우려와 연준 의장 교체, 미중 정상회담 등 대외 불확실성이 상존합니다.",
-    "국내거시경제": "미·중 정상회담이 임박하면서 관세, 반도체, 조선 분야의 협력 여부가 국내 산업계에 주요 변수로 작용할 전망입니다. 관련 섹터의 변동성 확대에 유의해야 합니다.",
-    "글로벌경제": "케빈 워시의 연준 의장 인준으로 향후 통화 정책 변화 가능성이 커졌습니다. 그의 인플레이션, 금리 정책 기조를 면밀히 주시할 필요가 있습니다.",
-    "증시금리": "미국 증시 S&P 500과 나스닥은 기술주와 반도체 강세로 사상 최고치를 경신했으나, 높은 PPI가 금리 인하 기대감을 약화시키며 시장 변동성을 키우고 있습니다.",
-    "부동산정책": "부동산 정책 관련 특이사항은 없습니다.",
-    "기업산업": "엔비디아와 IREN의 AI 인프라 메가 딜은 AI 관련 산업 성장을 가속화하며, 국내에서는 로봇과 '피지컬 AI'가 반도체 다음의 새로운 주도주로 부상할 가능성이 있습니다.",
-    "오늘의투자시사점": "AI 인프라 및 로봇 등 신기술 성장 섹터에 대한 관심은 유효하나, 고금리 장기화 가능성과 미중 정상회담 결과를 주시하며 실적 기반의 성장주에 집중하고 리스크 관리에 만전을 기해야 합니다.",
-    "오늘의한줄": "AI 훈풍 속 증시가 신고가를 경신했지만, 인플레이션과 미중 관계 등 불확실성 변수에 대한 신중한 접근이 필요한 시점입니다."
+    "총평": "신임 연준 의장의 매파적 스탠스와 글로벌 금리 인상 압박으로 고금리 장기화 우려가 커진 가운데, 국내는 반도체 업황 개선이라는 긍정적 요인도 상존합니다.",
+    "국내거시경제": "국내 성장률 개선에도 불구하고 물가 상승 압력으로 한국은행의 금리 인상 가능성이 제기됩니다. 하지만 반도체 가격 상승에 힘입어 4월 수출물가가 크게 올라 교역조건이 개선된 점은 국내 경제에 긍정적입니다.",
+    "글로벌경제": "오늘 발표될 PPI 등 글로벌 인플레이션 압력이 각국 중앙은행의 조기 금리 인상으로 이어질 수 있다는 우려가 커지고 있습니다.",
+    "증시금리": "신임 연준 의장의 매파적 스탠스로 올해 금리 인하 기대감이 후퇴하며 고금리 장기화 우려가 심화되고 있습니다. 전 세계적인 금리 인상 압박과 유가 급등이 인플레이션 우려를 키우는 가운데, 미국 증시는 기술주 강세와 특정 기업 랠리로 혼조세를 보이며 신고가를 경신하는 등 엇갈린 흐름을 나타냈습니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "반도체 가격 상승으로 4월 수출물가가 크게 오르며 국내 반도체 관련 기업들의 수익성 개선 기대감이 높아지고 있습니다. 이는 국내 경제에 긍정적인 영향을 미칠 것으로 전망됩니다.",
+    "오늘의투자시사점": "고금리 장기화 가능성에 대비하여 포트폴리오 내 가치주 및 경기 방어주 비중을 고려할 필요가 있습니다. 국내적으로는 반도체 업황 개선에 따른 관련 기업들의 실적 개선 여부를 주시하며 투자 기회를 모색해야 합니다. 주요국 중앙은행의 정책 스탠스 변화와 인플레이션 지표 발표에 촉각을 세워야 합니다.",
+    "오늘의한줄": "고금리 장기화 우려 속 국내 반도체 업황 개선이 상존하나, 글로벌 통화정책 방향과 인플레이션 지표를 주시하며 신중한 포트폴리오 전략이 요구됩니다."
   },
   "top_news": [
     {
@@ -28,33 +28,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "케빈 워시, 상원 54대 45표로 연준 의장 인준",
-      "display_title": "케빈 워시, 상원 54대 45표로 연준 의장 인준",
-      "original_title": "Kevin Warsh Confirmed as Fed Chair in 54-45 Senate Vote - bloomingbit",
+      "title": "케빈 워시 신임 연준 의장 임명, 올해 금리 인하 없을 듯: 포트폴리오 영향은?",
+      "display_title": "케빈 워시 신임 연준 의장 임명, 올해 금리 인하 없을 듯: 포트폴리오 영향은?",
+      "original_title": "Kevin Warsh Is the New Fed Chair and Rates May Not Drop This Year. Here's What That Means for Your Portfolio. - The Globe and Mail",
       "summary": [
-        "케빈 워시가 상원 인준을 통해 미국 연방준비제도(Fed)의 새로운 의장으로 공식 임명되었다.",
-        "연준 의장 교체는 통화 정책의 방향성에 중대한 변화를 가져올 수 있으며, 이는 글로벌 경제와 금융 시장에 광범위한 영향을 미친다.",
-        "새 연준 의장의 통화 정책 기조를 파악하고, 그가 인플레이션, 금리, 경제 성장에 대해 어떤 입장을 취할지 예의주시하며 투자 전략을 수립해야 한다."
+        "케빈 워시가 신임 연준 의장으로 임명되었으며, 그의 통화정책 스탠스로 인해 올해 기준금리 인하가 어려울 수 있다는 전망이 나옵니다.",
+        "연준 의장의 매파적 성향은 고금리 장기화를 초래하여 시장 전반에 영향을 미칠 수 있습니다.",
+        "금리 인하 기대감 후퇴는 성장주보다 가치주나 경기 방어주에 유리할 수 있으며, 기업 실적과 투자 전략 재점검이 필요합니다."
       ],
-      "summary_text": "케빈 워시가 상원 인준을 통해 미국 연방준비제도(Fed)의 새로운 의장으로 공식 임명되었다. 연준 의장 교체는 통화 정책의 방향성에 중대한 변화를 가져올 수 있으며, 이는 글로벌 경제와 금융 시장에 광범위한 영향을 미친다. 새 연준 의장의 통화 정책 기조를 파악하고, 그가 인플레이션, 금리, 경제 성장에 대해 어떤 입장을 취할지 예의주시하며 투자 전략을 수립해야 한다.",
-      "description": "케빈 워시가 상원 투표에서 54대 45표로 연방준비제도(Fed) 의장으로 인준되었습니다.",
-      "category": "글로벌 경제",
-      "importance": 10,
-      "market_impact": "중립",
-      "related_sector": "금융, 전 산업",
+      "summary_text": "케빈 워시가 신임 연준 의장으로 임명되었으며, 그의 통화정책 스탠스로 인해 올해 기준금리 인하가 어려울 수 있다는 전망이 나옵니다. 연준 의장의 매파적 성향은 고금리 장기화를 초래하여 시장 전반에 영향을 미칠 수 있습니다. 금리 인하 기대감 후퇴는 성장주보다 가치주나 경기 방어주에 유리할 수 있으며, 기업 실적과 투자 전략 재점검이 필요합니다.",
+      "description": "케빈 워시가 신임 연준 의장으로 임명되었고, 올해 금리 인하가 없을 수 있다는 전망이 나오면서 투자 포트폴리오에 미칠 영향에 대한 분석이 제시되었습니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "금융, 기술주",
       "related_stocks": [],
-      "investment_view": "관심",
-      "investment_reason": "새로운 연준 의장의 임명은 향후 통화 정책 방향을 결정하며, 이는 국내외 금리, 환율, 증시 전반에 지대한 영향을 미치므로 반드시 주목해야 한다.",
-      "key_signal": "신임 연준 의장 케빈 워시의 첫 공식 발언 및 정책 방향성 시그널에 촉각을 곤두세워야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "고금리 장기화 가능성이 커져 성장주 투자에 대한 재평가와 전반적인 포트폴리오 점검이 필요하기 때문입니다.",
+      "key_signal": "신임 연준 의장의 향후 발언과 시장의 금리 인하 기대 변화를 면밀히 주시해야 합니다.",
       "keywords": [
-        "연준",
-        "의장",
-        "케빈 워시",
-        "통화정책",
-        "금리"
+        "연준 의장",
+        "금리 인하",
+        "고금리",
+        "통화 정책",
+        "매파"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRMEtaWTdJam1nMjZKSmwzM1NiSDVTV1pKQzloU19EMkNWdlV6MkZkOUFqdkNSSFlUS2xxOTIxU1A4b3RUcm93b2lFS1BsY1V6OW8xTQ?oc=5",
-      "published": "2026-05-14 07:20",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPb3Z6by1mWU1PbW5sSGlNU05LRlhfX2hhR1BPYnpnQ05nY0w5NklYZXRGX1N6LTVDOHdzYmQtVUlpTkNlLWZCblE5NEJQZmhHRHBRM3ZuUENfUjdXald3dzFaUUJaN28tZ1NnS1FyMGdmc0Z5T05OMk1mRWFJM2xjN3RjWlk0QzZFczNtcGV6LTByWUxQc1Eza0pxaUdvOHktVG9heDNUM3Z5a3F6R2ZWME1IekNFRWJKUlFkX0pxZWp0bm42SE9JY3FXU0FpX0daa05FdEVwVUkzSVU3TVhCYVNiak9aeV9Cenp3NFpGTlJYLVNMcEowRlY3V3g1amVFRzlfS01TQTJqcEFJZUxWRUFqeWJWa1FiUXh2VE5lZw?oc=5",
+      "published": "2026-05-15 02:46",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -66,37 +66,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 마감: 기술주 주도로 S&P 500 및 나스닥 신기록 경신, 반도체주 강한 반등; 중국 증시도 상승, PPI 3년 내 최고치",
-      "display_title": "미국 증시 마감: 기술주 주도로 S&P 500 및 나스닥 신기록 경신, 반도체주 강한 반등; 중국 증시도 상승, PPI 3년 내 최고치",
-      "original_title": "U.S. Stocks Close | Tech Giants Drive S&P 500 and Nasdaq to New Highs, Chip Stocks Stage Strong Rebound; China Golden Dragon Index Surges Nearly 4%, Alibaba Jumps 8% Post-Earnings, 21Vianet Soars 25%; PPI Hits Highest Level in 3 Years - 富途牛牛",
+      "title": "젠슨 황, 트럼프와 함께 중국 방문으로 시장 활성화! 각국 중앙은행 조기 금리 인상 압박, 오늘 PPI로 인플레이션 급등 확인될 수도.",
+      "display_title": "젠슨 황, 트럼프와 함께 중국 방문으로 시장 활성화! 각국 중앙은행 조기 금리 인상 압박, 오늘 PPI로 인플레이션 급등 확인될 수도.",
+      "original_title": "Jensen Huang visits China with Trump, stimulating the market! Central banks around the world may be forced to raise interest rates earlier, and today's PPI may confirm a surge in inflation. - Bitget",
       "summary": [
-        "미국 증시에서 S&P 500과 나스닥이 기술주와 반도체주의 강세에 힘입어 사상 최고치를 경신했으며, 중국 증시도 크게 올랐다.",
-        "강력한 기술 및 반도체 섹터의 실적과 기대감이 시장을 주도했으나, 동시에 발표된 PPI는 3년 만에 최고치를 기록하며 인플레이션 우려를 높였다.",
-        "기술 및 반도체 섹터의 견조한 흐름은 긍정적이나, 인플레이션 압력 증가는 향후 금리 인하 기대감을 약화시켜 시장 변동성을 키울 수 있어 주의가 필요하다."
+        "젠슨 황 엔비디아 CEO가 트럼프와 함께 중국을 방문한 것이 시장에 긍정적인 영향을 미쳤으며, 전 세계 중앙은행들이 예상보다 빨리 금리를 인상해야 할 가능성이 제기되었습니다.",
+        "오늘 발표될 생산자물가지수(PPI)는 인플레이션 급등세를 확인할 중요한 지표로, 이는 각국 중앙은행의 긴축 정책을 앞당길 수 있는 요인으로 작용할 것입니다.",
+        "인플레이션 압력과 조기 금리 인상 가능성 증가는 시장 변동성을 확대하고 투자 전략에 변화를 요구할 수 있으므로, PPI 결과와 중앙은행의 스탠스 변화를 예의주시해야 합니다."
       ],
-      "summary_text": "미국 증시에서 S&P 500과 나스닥이 기술주와 반도체주의 강세에 힘입어 사상 최고치를 경신했으며, 중국 증시도 크게 올랐다. 강력한 기술 및 반도체 섹터의 실적과 기대감이 시장을 주도했으나, 동시에 발표된 PPI는 3년 만에 최고치를 기록하며 인플레이션 우려를 높였다. 기술 및 반도체 섹터의 견조한 흐름은 긍정적이나, 인플레이션 압력 증가는 향후 금리 인하 기대감을 약화시켜 시장 변동성을 키울 수 있어 주의가 필요하다.",
-      "description": "기술 대기업이 S&P 500과 나스닥을 사상 최고치로 견인했으며, 반도체 주식도 강하게 반등했습니다. 중국 골든 드래곤 지수도 4% 가까이 급등했으며, 알리바바는 실적 발표 후 8% 상승했습니다. 한편, 생산자물가지수(PPI)는 3년 만에 최고치를 기록했습니다.",
+      "summary_text": "젠슨 황 엔비디아 CEO가 트럼프와 함께 중국을 방문한 것이 시장에 긍정적인 영향을 미쳤으며, 전 세계 중앙은행들이 예상보다 빨리 금리를 인상해야 할 가능성이 제기되었습니다. 오늘 발표될 생산자물가지수(PPI)는 인플레이션 급등세를 확인할 중요한 지표로, 이는 각국 중앙은행의 긴축 정책을 앞당길 수 있는 요인으로 작용할 것입니다. 인플레이션 압력과 조기 금리 인상 가능성 증가는 시장 변동성을 확대하고 투자 전략에 변화를 요구할 수 있으므로, PPI 결과와 중앙은행의 스탠스 변화를 예의주시해야 합니다.",
+      "description": "젠슨 황 엔비디아 CEO가 트럼프 전 대통령과 함께 중국을 방문하여 시장에 활력을 불어넣었다는 소식과 함께, 각국 중앙은행들이 조기에 금리를 인상해야 할 압박에 놓일 수 있으며, 오늘 발표될 생산자물가지수(PPI)를 통해 인플레이션 급등이 확인될 수 있다는 전망입니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "기술, 반도체, 중국 IT",
+      "market_impact": "부정",
+      "related_sector": "기술주, 반도체, 전반적 시장",
       "related_stocks": [
-        "NVIDIA",
-        "TSMC",
-        "알리바바"
+        "엔비디아"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 기술주와 반도체주의 강세는 국내 관련 섹터에 긍정적인 영향을 미칠 수 있으나, 높은 PPI는 인플레이션 우려를 키워 투자 전략에 신중함이 요구된다.",
-      "key_signal": "미국 증시 기술주 및 반도체주의 지속적인 강세 여부와 PPI 상승이 금리 인하 기대감에 미칠 영향을 주시해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "높은 인플레이션 압력과 글로벌 중앙은행의 조기 금리 인상 가능성이 커지면서 시장 전반의 투자 심리가 위축될 수 있기 때문입니다.",
+      "key_signal": "오늘 발표될 생산자물가지수(PPI) 결과와 이후 각국 중앙은행의 통화정책 관련 발언 및 방향성에 주목해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "기술주",
-        "반도체",
+        "인플레이션",
+        "금리 인상",
+        "중앙은행",
         "PPI",
-        "인플레이션"
+        "엔비디아"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3JIXzhQTUhweDRiTUlmTmxqdGR6RXhYdU9vSFdEMnhRNllmSF82Z2k3V0o2WFR3b2Vfa0dyUno2bkt2TkxvRGJkQUJTLXVjMEdhTGVOdEdHTldiRkcweWJXcDVnVGtFQWVFZGRYSUYtYlNkbi04cFlvYzZnOTlpSk1zLW1ZNHB5emFiMjV1dw?oc=5",
-      "published": "2026-05-14 07:28",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuT0N0ZVdtZjllclp3THVma0lyY1pXRjI3TFR0Ui11N3ZDOHo1REpDaWY2STJNN3NJMmFHdGQ5MTF0YVJjZ2MxSzRpV1lTNWtfMTNSV0lzbnAtM29HdFgtNHp5d9IBY0FVX3lxTFBuT0N0ZVdtZjllclp3THVma0lyY1pXRjI3TFR0Ui11N3ZDOHo1REpDaWY2STJNN3NJMmFHdGQ5MTF0YVJjZ2MxSzRpV1lTNWtfMTNSV0lzbnAtM29HdFgtNHp5dw?oc=5",
+      "published": "2026-05-14 08:51",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -105,42 +103,38 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "엔비디아와 IREN, 5GW AI 메가 딜 체결: 인프라 붐으로 양사 주가 폭발 가능성",
-      "display_title": "엔비디아와 IREN, 5GW AI 메가 딜 체결: 인프라 붐으로 양사 주가 폭발 가능성",
-      "original_title": "NVIDIA IREN 5GW AI Mega-Deal: Why Both Stocks Could Explode on Infrastructure Boom - International Business Times Australia",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "성장률 개선에도 금리 인상 압박…한국은행 5월 금통위 '인상 카드' 만지작거리나",
+      "display_title": "성장률 개선에도 금리 인상 압박…한국은행 5월 금통위 '인상 카드' 만지작거리나",
+      "original_title": "성장률 좋아졌는데 금리도 '쑥'…한은, 5월 금통위서 '인상 카드' 만지나 - 데일리안",
       "summary": [
-        "엔비디아가 IREN과 5GW 규모의 대규모 AI 인프라 공급 계약을 체결하며, 양사 주가의 폭발적 성장이 기대된다.",
-        "AI 기술 발전과 함께 데이터 센터 및 관련 인프라 투자가 급증하면서, 고성능 컴퓨팅 및 전력 솔루션 수요가 폭발적으로 증가하는 추세다.",
-        "AI 인프라 관련 기업들은 장기적인 성장 동력을 확보하고 있으며, 국내외 AI 반도체 및 데이터센터 관련 주식에 대한 관심이 더욱 높아질 수 있다."
+        "국내 경제 성장률이 개선되었음에도 불구하고 물가 상승 압력으로 인해 한국은행이 5월 금융통화위원회에서 기준금리 인상 카드를 만지작거릴 수 있다는 전망이 나옵니다.",
+        "성장과 물가라는 두 가지 상충되는 목표 사이에서 한국은행의 고민이 깊어지고 있으며, 인플레이션 억제를 위해 긴축 기조를 유지할 가능성이 높습니다.",
+        "국내 기준금리 인상은 주식 시장의 유동성 위축과 기업 이자 부담 증가로 이어질 수 있으므로, 한국은행의 금통위 결정에 주목하고 포트폴리오를 점검해야 합니다."
       ],
-      "summary_text": "엔비디아가 IREN과 5GW 규모의 대규모 AI 인프라 공급 계약을 체결하며, 양사 주가의 폭발적 성장이 기대된다. AI 기술 발전과 함께 데이터 센터 및 관련 인프라 투자가 급증하면서, 고성능 컴퓨팅 및 전력 솔루션 수요가 폭발적으로 증가하는 추세다. AI 인프라 관련 기업들은 장기적인 성장 동력을 확보하고 있으며, 국내외 AI 반도체 및 데이터센터 관련 주식에 대한 관심이 더욱 높아질 수 있다.",
-      "description": "엔비디아와 IREN이 5GW 규모의 AI 메가 딜을 체결하며, 인프라 붐 속에서 양사의 주가가 크게 상승할 수 있다는 전망이 나왔습니다.",
-      "category": "기업·산업",
+      "summary_text": "국내 경제 성장률이 개선되었음에도 불구하고 물가 상승 압력으로 인해 한국은행이 5월 금융통화위원회에서 기준금리 인상 카드를 만지작거릴 수 있다는 전망이 나옵니다. 성장과 물가라는 두 가지 상충되는 목표 사이에서 한국은행의 고민이 깊어지고 있으며, 인플레이션 억제를 위해 긴축 기조를 유지할 가능성이 높습니다. 국내 기준금리 인상은 주식 시장의 유동성 위축과 기업 이자 부담 증가로 이어질 수 있으므로, 한국은행의 금통위 결정에 주목하고 포트폴리오를 점검해야 합니다.",
+      "description": "국내 경제 성장률이 개선되었음에도 불구하고 물가 상승 압력으로 인해 기준금리 인상에 대한 기대감이 커지면서, 한국은행이 5월 금융통화위원회에서 금리 인상을 고려할 가능성이 제기되었습니다.",
+      "category": "국내 거시경제",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "AI, 반도체, 데이터센터, 클라우드 인프라",
-      "related_stocks": [
-        "엔비디아",
-        "SK하이닉스",
-        "삼성전자"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "엔비디아의 대규모 AI 인프라 계약은 국내 AI 반도체 및 관련 공급망 기업들에게도 긍정적인 영향을 미칠 수 있는 중요한 산업 동향이다.",
-      "key_signal": "엔비디아와 같은 AI 핵심 기업들의 추가적인 대규모 계약 여부 및 국내 관련 기업들의 수혜 폭을 주시해야 한다.",
+      "market_impact": "부정",
+      "related_sector": "금융, 건설, 부동산, 성장주",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "한국은행의 기준금리 인상 가능성이 높아지면서 국내 주식시장 유동성 및 기업 실적에 부정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "한국은행 5월 금융통화위원회의 금리 결정과 이주열 총재의 발언 내용을 통해 향후 통화정책 방향을 예측해야 합니다.",
       "keywords": [
-        "엔비디아",
-        "AI 인프라",
-        "5GW",
-        "데이터센터",
-        "반도체"
+        "한국은행",
+        "기준금리",
+        "금통위",
+        "인플레이션",
+        "성장률"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTk1lRWFFZVNUby1EU1VodFQyLXc0U3NXaDJPa2dXMkdEemxxSEZLRHpOelpmVUVSamFwd2hScVBfSW5HWlhXelhfRXYzTklUWkszd1NPNnZRQTdDemN0U0x1REtqazRHTFhrTmxvN3lHdGx4S1BfZm1JcWtvWXE1MGVzOFNOUk82TlZvdGkzNA?oc=5",
-      "published": "2026-05-13 21:24",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VMkdDU1BWZFlhSXRYUkpNNU5MaUdFNjREdE9FQVdvU3JsTDNCSG5ZR3pjdlpXc1dLblZvUG1WQ2ZZa0NkZWVYQU1lVTRxRVdCUjVCSkZDONIBjwJBVV95cUxPUDJqUmoxWWtGRnBaVEpuZi1tNU1QSVlVQVZPYXh4VUo3aGFTOVJWc0R5eERlRGhkYkhGa2hZMFR2Z2g4SDlNTGJkZHluOTdBRVRfYlBpQ00xNTN1N1NwbklRNUdCZjlLY2kwNjhmZTd6YUNyNm03MEotQ01RVllZbHFzbjhkQjcwMkVMeUl6eTMxUnh3dWl3c1BGS1ZzVTA3aEdCYzNrQkdULTZfOWNZRERXVEpWMTZXLXRCZEVRcFEtM296cHl5eXhFa1NVNGtiRlBuYUpHeEp2UWlCclhhTi14MDR3TEZnajFndF9XN1ZnWHpIVGhnT1hENGhXOFRLRWdad1ZQTjctTmdEMGt3?oc=5",
+      "published": "2026-05-15 07:03",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -150,36 +144,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500, 나스닥 반도체 강세로 상승; 뜨거운 인플레이션 보고서는 금리 인하 기대감 소멸시켜",
-      "display_title": "S&P 500, 나스닥 반도체 강세로 상승; 뜨거운 인플레이션 보고서는 금리 인하 기대감 소멸시켜",
-      "original_title": "S&P 500, Nasdaq rise on chip strength; hot inflation report kills rate-cut hopes - AOL.com",
+      "title": "2026년 5월 14일 미국 증시: 다우 하락, 나스닥·S&P 500 상승, 시스코 랠리, 유가 107달러 급등, 비트코인 8.1만 달러 하락",
+      "display_title": "2026년 5월 14일 미국 증시: 다우 하락, 나스닥·S&P 500 상승, 시스코 랠리, 유가 107달러 급등, 비트코인 8.1만 달러 하락",
+      "original_title": "US Stock Market Today [14 May, 2026]: Dow Dips, Nasdaq & S&P 500 Edge Higher as Cisco Rally, Oil Surges $107 on US-Iran Deal; Gold & Silver Hit, Bitcoin Retreats $81k | What Investors Should Watch - The Sunday Guardian",
       "summary": [
-        "S&P 500과 나스닥이 반도체주의 강세에 힘입어 상승했으나, 높은 인플레이션 보고서로 인해 금리 인하 기대감은 약화되었다.",
-        "기술 및 반도체 섹터의 펀더멘털 강세가 시장을 지지하는 반면, 지속적인 인플레이션 압력은 연방준비제도(Fed)의 긴축 기조 유지 가능성을 높인다.",
-        "반도체 등 성장 섹터의 투자 매력은 여전하나, 고금리 장기화 가능성에 대비하여 리스크 관리에 신중해야 하며, 금리 민감주보다는 실적 기반 성장주에 집중하는 전략이 유효하다."
+        "다우존스 하락에도 불구하고 기술주 강세로 나스닥과 S&P 500 지수는 소폭 상승했으며, 시스코 주가 랠리가 눈에 띄었습니다.",
+        "미-이란 협상으로 국제 유가가 급등(배럴당 107달러)하며 인플레이션 우려를 키웠고, 안전자산인 금은은 하락, 비트코인은 8.1만 달러로 후퇴하는 등 자산별 흐름이 엇갈렸습니다.",
+        "특정 기술주의 강세와 유가 급등에 따른 인플레이션 압력 증가가 향후 시장의 주요 변수가 될 수 있으므로 관련 동향을 면밀히 주시해야 합니다."
       ],
-      "summary_text": "S&P 500과 나스닥이 반도체주의 강세에 힘입어 상승했으나, 높은 인플레이션 보고서로 인해 금리 인하 기대감은 약화되었다. 기술 및 반도체 섹터의 펀더멘털 강세가 시장을 지지하는 반면, 지속적인 인플레이션 압력은 연방준비제도(Fed)의 긴축 기조 유지 가능성을 높인다. 반도체 등 성장 섹터의 투자 매력은 여전하나, 고금리 장기화 가능성에 대비하여 리스크 관리에 신중해야 하며, 금리 민감주보다는 실적 기반 성장주에 집중하는 전략이 유효하다.",
-      "description": "S&P 500과 나스닥 지수는 반도체주의 강세로 상승했지만, 뜨거운 인플레이션 보고서는 금리 인하에 대한 희망을 꺾었습니다.",
+      "summary_text": "다우존스 하락에도 불구하고 기술주 강세로 나스닥과 S&P 500 지수는 소폭 상승했으며, 시스코 주가 랠리가 눈에 띄었습니다. 미-이란 협상으로 국제 유가가 급등(배럴당 107달러)하며 인플레이션 우려를 키웠고, 안전자산인 금은은 하락, 비트코인은 8.1만 달러로 후퇴하는 등 자산별 흐름이 엇갈렸습니다. 특정 기술주의 강세와 유가 급등에 따른 인플레이션 압력 증가가 향후 시장의 주요 변수가 될 수 있으므로 관련 동향을 면밀히 주시해야 합니다.",
+      "description": "2026년 5월 14일 미국 증시는 다우존스 하락 속 나스닥과 S&P 500 지수가 상승했고, 시스코 주가 랠리와 미-이란 협상에 따른 유가 급등(107달러), 금은 하락, 비트코인 8.1만 달러 후퇴 등의 다양한 움직임을 보였습니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "중립",
-      "related_sector": "반도체, 기술",
+      "related_sector": "에너지, IT 하드웨어, 암호화폐",
       "related_stocks": [
-        "TSMC",
-        "NVIDIA"
+        "시스코"
       ],
       "investment_view": "관심",
-      "investment_reason": "반도체 섹터의 강세는 긍정적이나, 인플레이션 지속으로 인한 금리 인하 기대 약화는 시장의 변동성을 키울 수 있으므로 종합적인 관점에서 접근해야 한다.",
-      "key_signal": "반도체 섹터의 추가 상승 여부와 인플레이션 지표 변화가 금리 인하 시점에 미칠 영향을 지속적으로 모니터링해야 한다.",
+      "investment_reason": "유가 급등에 따른 인플레이션 압력과 기술주 강세가 국내외 시장에 미칠 영향을 파악하고 투자 전략에 반영해야 하기 때문입니다.",
+      "key_signal": "국제 유가 추가 상승 여부, 기술주 실적 발표, 그리고 미국-이란 관계의 향방이 주요 체크 포인트입니다.",
       "keywords": [
-        "반도체",
+        "미국 증시",
+        "유가",
         "인플레이션",
-        "금리 인하",
-        "S&P 500",
-        "나스닥"
+        "기술주",
+        "비트코인"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yRVJqdm04UGVZQ0k2bXBjMG85dktKWEpDZHp0TUlQZG9QZGV3MkpxaDYydjZxaTNhTTAwX1BHSVJmMmVEcVEtVUlEZXAzNUM5ZzJEQWVBeHp0SXlBdDJTZ3IteTB5TWFvVS1xQnliazZlNHFZbEE?oc=5",
-      "published": "2026-05-14 03:43",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPS3pMejlfLXdGVHRLMEhWbVRuUVc5VHByMklJaGZvVnQxNHN4blgxcVdCRzdranM5TVMtSS1uVUpSa2FaSVIwOUowVnE2cDdmZ3lpS0JxaEtmck95UXJoNl9vaFJZMFV5NVZJWFBMZUhLdkpyZUhjWm0ya09MSHF1M2FVQkJKMUxyd2xCZW1uV1NsbGtzaGZpU1diU3ZFOWhoMWdUa0VhUmZTb2lhS3lxV3BfbDJqRUtlVmNSN1NjTWIxS25zeUlkSUtDYnJUZWJPU2I2WFp0LUNwTUZIS2dYSGpZeHMzcWFKZWlleDNJeXNfZkc1YktYSGlvSzc3M1F4SEE4dUR5Y0taMU9WdjdVV19xaG13dW9KclR3Tzcwc2JGWTNjUDAxdzB5M21Vd2ZoNzBfNGZnZ3NFcXZ6UEFoOHNYeFV6VE1VbmZN?oc=5",
+      "published": "2026-05-15 00:09",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -188,42 +181,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "반도체 다음은 ‘피지컬 AI’…로봇, 증시 새 주도주로 부상",
-      "display_title": "반도체 다음은 ‘피지컬 AI’…로봇, 증시 새 주도주로 부상",
-      "original_title": "반도체 다음은 ‘피지컬 AI’…로봇, 증시 새 주도주로 부상 - 재외동포신문",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "연준의 다음 행보를 논의하는 가운데 시장은 신고가를 경신",
+      "display_title": "연준의 다음 행보를 논의하는 가운데 시장은 신고가를 경신",
+      "original_title": "Markets hit new highs as the Fed debates its next move. - CME Group",
       "summary": [
-        "반도체에 이어 '피지컬 AI'가 차세대 성장 동력으로 부상하며 로봇 관련주가 증시의 새로운 주도주가 될 것이라는 전망이 나왔다.",
-        "AI 기술이 물리적 세계와 결합하며 자율주행, 제조 자동화, 서비스 로봇 등 다양한 분야에서 혁신을 이끌고 있어 관련 산업의 성장 기대감이 높다.",
-        "로봇 및 피지컬 AI 관련 기술을 보유한 기업들은 장기적인 성장 잠재력을 가지며, 미래 먹거리 산업으로 부상할 가능성이 있어 선별적인 투자 기회를 모색해야 한다."
+        "연방준비제도(Fed)가 향후 통화 정책 방향을 고심하는 동안에도 주요 시장 지수는 사상 최고치를 경신했습니다.",
+        "이는 견조한 기업 실적, 경제 지표 개선, 혹은 특정 기술주의 강세 등 복합적인 요인에 기인할 수 있으며, 연준의 신중한 태도도 반영됩니다.",
+        "연준의 정책 결정이 시장에 미칠 영향이 크므로, 매파적 또는 비둘기파적 신호에 따라 시장의 변동성이 확대될 가능성에 대비해야 합니다."
       ],
-      "summary_text": "반도체에 이어 '피지컬 AI'가 차세대 성장 동력으로 부상하며 로봇 관련주가 증시의 새로운 주도주가 될 것이라는 전망이 나왔다. AI 기술이 물리적 세계와 결합하며 자율주행, 제조 자동화, 서비스 로봇 등 다양한 분야에서 혁신을 이끌고 있어 관련 산업의 성장 기대감이 높다. 로봇 및 피지컬 AI 관련 기술을 보유한 기업들은 장기적인 성장 잠재력을 가지며, 미래 먹거리 산업으로 부상할 가능성이 있어 선별적인 투자 기회를 모색해야 한다.",
-      "description": "반도체 이후에는 '피지컬 AI'가 주목받으며 로봇 관련주가 증시의 새로운 주도주로 떠오르고 있다는 분석입니다.",
-      "category": "기업·산업",
+      "summary_text": "연방준비제도(Fed)가 향후 통화 정책 방향을 고심하는 동안에도 주요 시장 지수는 사상 최고치를 경신했습니다. 이는 견조한 기업 실적, 경제 지표 개선, 혹은 특정 기술주의 강세 등 복합적인 요인에 기인할 수 있으며, 연준의 신중한 태도도 반영됩니다. 연준의 정책 결정이 시장에 미칠 영향이 크므로, 매파적 또는 비둘기파적 신호에 따라 시장의 변동성이 확대될 가능성에 대비해야 합니다.",
+      "description": "연방준비제도(Fed)가 다음 통화 정책 방향을 논의하는 시점에서 주식 시장이 새로운 고점을 기록했습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "로봇, 피지컬 AI, 자동화, 스마트 팩토리",
+      "market_impact": "중립",
+      "related_sector": "전반적 시장",
       "related_stocks": [
-        "레인보우로보틱스",
-        "두산로보틱스",
-        "현대차"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "피지컬 AI와 로봇 산업은 반도체 다음의 핵심 성장 동력으로 부각되며, 국내 증시에서 새로운 주도주가 될 잠재력이 크므로 장기적인 관점에서 주목해야 한다.",
-      "key_signal": "로봇 및 피지컬 AI 기술 개발 동향과 실제 산업 적용 사례, 그리고 관련 기업들의 수주 및 실적 발표를 면밀히 살펴봐야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "시장이 최고가를 기록하고 있지만 연준의 향후 통화 정책 방향에 따라 급격한 조정이 발생할 수 있기 때문입니다.",
+      "key_signal": "연준 관계자들의 발언, 경제 지표 발표, 그리고 다음 FOMC 회의 결과에 대한 시장의 반응을 예의주시해야 합니다.",
       "keywords": [
-        "로봇",
-        "피지컬 AI",
-        "차세대 주도주",
-        "자동화",
-        "스마트팩토리"
+        "연준",
+        "금리",
+        "증시",
+        "신고가",
+        "FOMC"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40bmF6ZnA2TlVfUmVCeHlzMy1zQUlPLUtIU1hYLTdYT21WeXp3X2xoT3RFdVVNRlgyMXNZd1RURHUxb3ZPTE16NUI4VGNUQnRZRm1Wa05Sa3dXRkJaYzhxTTFsZThKcWMzT2JMZA?oc=5",
-      "published": "2026-05-13 22:34",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHU2NVpkTnh4TVczeHNUdFJUaU5ORHZndDNnZzlqOUJ1LWk4VjMtamZKbUJRY3VCaXl6MGlzZXVCUXZ5clJwQjV1QzZLaEIzbkJjQWREV0drNE5hbUU0QmZMejdUYlpaLUVIWjJjQVctTTFucWhlOTE2eEZhQjNpUFk0UXdMQW9SOGFXa2tJZ1FtcmdlcVgyV0tTeG84eXZ1SjZCcXhuUVNucExia1lZ?oc=5",
+      "published": "2026-05-15 02:36",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -233,37 +226,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "미·중 정상회담 앞두고 국내 산업계 촉각…관세·반도체·조선 협력이 변수",
-      "display_title": "미·중 정상회담 앞두고 국내 산업계 촉각…관세·반도체·조선 협력이 변수",
-      "original_title": "미·중 정상회담 앞두고 국내 산업계 촉각…관세·반도체·조선 협력이 변수 - 폴리뉴스 Polinews",
+      "title": "반도체 가격 상승으로 4월 수출물가 7.1%↑, 수입물가는 2.3%↓",
+      "display_title": "반도체 가격 상승으로 4월 수출물가 7.1%↑, 수입물가는 2.3%↓",
+      "original_title": "반도체 가격 상승에 4월 수출물가 7.1%↑…수입물가는 2.3%↓ - 매일경제 마켓",
       "summary": [
-        "미·중 정상회담이 임박한 가운데, 국내 산업계는 양국 간 관세, 반도체, 조선 분야 협력 여부에 촉각을 세우고 있다.",
-        "미·중 갈등은 글로벌 공급망과 특정 산업에 직접적인 영향을 미치며, 양국 정상회담 결과에 따라 국내 기업들의 수출 환경과 투자 전략에 큰 변화가 있을 수 있다.",
-        "정상회담 결과에 따라 변동성이 커질 수 있는 관련 섹터(반도체, 조선 등)의 기업에 대한 투자 전략을 신중하게 검토하고, 대외 불확실성 관리에 집중해야 한다."
+        "4월 수출물가는 반도체 가격 급등에 힘입어 전월 대비 7.1% 상승한 반면, 수입물가는 2.3% 하락하며 교역조건이 개선되었습니다.",
+        "반도체 경기 회복세가 수출 물가 상승을 견인하고 있으며, 이는 국내 기업들의 수익성 개선에 긍정적인 영향을 미칠 수 있습니다.",
+        "반도체 업황 개선은 관련 기업들의 실적 기대감을 높이고 수출 중심의 국내 경제에 활력을 불어넣을 수 있으므로, 반도체 관련주에 대한 관심이 필요합니다."
       ],
-      "summary_text": "미·중 정상회담이 임박한 가운데, 국내 산업계는 양국 간 관세, 반도체, 조선 분야 협력 여부에 촉각을 세우고 있다. 미·중 갈등은 글로벌 공급망과 특정 산업에 직접적인 영향을 미치며, 양국 정상회담 결과에 따라 국내 기업들의 수출 환경과 투자 전략에 큰 변화가 있을 수 있다. 정상회담 결과에 따라 변동성이 커질 수 있는 관련 섹터(반도체, 조선 등)의 기업에 대한 투자 전략을 신중하게 검토하고, 대외 불확실성 관리에 집중해야 한다.",
-      "description": "미·중 정상회담을 앞두고 국내 산업계가 촉각을 곤두세우고 있으며, 관세, 반도체, 조선 산업 관련 협력 여부가 주요 변수로 떠오르고 있습니다.",
+      "summary_text": "4월 수출물가는 반도체 가격 급등에 힘입어 전월 대비 7.1% 상승한 반면, 수입물가는 2.3% 하락하며 교역조건이 개선되었습니다. 반도체 경기 회복세가 수출 물가 상승을 견인하고 있으며, 이는 국내 기업들의 수익성 개선에 긍정적인 영향을 미칠 수 있습니다. 반도체 업황 개선은 관련 기업들의 실적 기대감을 높이고 수출 중심의 국내 경제에 활력을 불어넣을 수 있으므로, 반도체 관련주에 대한 관심이 필요합니다.",
+      "description": "4월 수출물가는 반도체 가격 상승에 힘입어 7.1% 상승했으며, 수입물가는 2.3% 하락한 것으로 나타났습니다.",
       "category": "국내 거시경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, 조선, 무역",
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT 하드웨어",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "HD현대중공업"
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미·중 정상회담 결과는 국내 핵심 산업에 직접적인 영향을 미치며, 특히 반도체와 조선 등 수출 주도 산업의 투자 심리와 실적에 큰 불확실성을 제공하므로 주의 깊게 살펴야 한다.",
-      "key_signal": "미·중 정상회담에서 발표될 구체적인 협력 또는 갈등 해결 방안, 특히 관세 및 특정 산업 규제 완화 여부를 집중적으로 확인해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "반도체 가격 상승이 국내 수출 물가를 견인하며 관련 기업들의 실적 개선과 국내 경제 전반에 긍정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "글로벌 반도체 시장의 수급 동향, 주요 반도체 기업들의 실적 발표, 그리고 원/달러 환율 추이를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "미중 정상회담",
-        "관세",
+        "수출물가",
+        "수입물가",
         "반도체",
-        "조선",
-        "공급망"
+        "교역조건",
+        "경제 성장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pZnQ3QVZpOV9udVkwbXN3UUNNM1JTU193dzRhM2taV3NnQjFzUHV1UWJzTlJmdTVwbVNFdGw0ZlZMZ21qVC1Ob1ZPcW1hUFdCREh2dnFfM0IxY29zbGttRFRXNEVLM0UwSDd2d1R4UDR2Z9IBckFVX3lxTE9pZnQ3QVZpOV9udVkwbXN3UUNNM1JTU193dzRhM2taV3NnQjFzUHV1UWJzTlJmdTVwbVNFdGw0ZlZMZ21qVC1Ob1ZPcW1hUFdCREh2dnFfM0IxY29zbGttRFRXNEVLM0UwSDd2d1R4UDR2Zw?oc=5",
-      "published": "2026-05-13 20:07",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fQkMtSzZjNGxhZ2tNWVVMMmRwcVZUUzJOWm1OR2hoYXZ6R0lNNkgwWkotMTlBZGV1REhIalRvTFhsN09NTU5nbnJZMHJPUGVsbVN1NWRaNGVqUkpGbGFqOA?oc=5",
+      "published": "2026-05-15 06:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -278,16 +270,14 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 증시에서 기술주와 반도체 섹터의 강세가 이어지고 있으며, 특히 엔비디아의 대규모 AI 인프라 계약 소식은 국내 AI 반도체 및 관련 공급망에 긍정적인 영향을 미칠 것으로 예상됩니다. 삼성전자는 메모리 반도체뿐만 아니라 파운드리 사업에서도 AI 관련 수요 증가의 수혜를 기대할 수 있습니다.",
+      "reason": "반도체 가격 상승이 국내 수출 물가를 견인하며 관련 기업들의 실적 개선에 긍정적인 영향을 미칠 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "글로벌 AI 반도체 수요 동향",
-        "미·중 정상회담 결과 및 반도체 산업 규제 방향",
-        "환율 변동성 및 인플레이션 지표"
+        "글로벌 반도체 시장의 수급 상황 및 가격 동향",
+        "AI 반도체 등 신규 수요 증가 여부",
+        "주요 고객사의 주문량 변화"
       ],
       "related_news_titles": [
-        "미국 증시 마감: 기술주 주도로 S&P 500 및 나스닥 신기록 경신, 반도체주 강한 반등; 중국 증시도 상승, PPI 3년 내 최고치",
-        "엔비디아와 IREN, 5GW AI 메가 딜 체결: 인프라 붐으로 양사 주가 폭발 가능성",
-        "S&P 500, 나스닥 반도체 강세로 상승; 뜨거운 인플레이션 보고서는 금리 인하 기대감 소멸시켜"
+        "반도체 가격 상승으로 4월 수출물가 7.1%↑, 수입물가는 2.3%↓"
       ]
     },
     {
@@ -296,48 +286,47 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "엔비디아의 대규모 AI 인프라 계약은 고대역폭 메모리(HBM) 등 AI 반도체 수요 증가로 직결되며, HBM 시장의 선두 주자인 SK하이닉스에 직접적인 긍정적 영향을 미칠 것으로 기대됩니다. 글로벌 기술주 강세 흐름 속에서 AI 반도체 공급망의 핵심 역할을 주목할 필요가 있습니다.",
+      "reason": "메모리 반도체 가격 상승세가 뚜렷하며, 이는 SK하이닉스의 실적 개선에 직접적인 영향을 줄 것으로 기대되어 면밀한 관찰이 필요합니다.",
       "check_points": [
-        "HBM 등 고부가 메모리 반도체 수주 및 생산 계획",
-        "글로벌 AI 데이터센터 투자 확대 추이",
-        "미·중 기술 패권 경쟁 심화 여부"
+        "DRAM 및 낸드플래시 등 주요 제품의 가격 추이",
+        "HBM(고대역폭 메모리) 등 고부가 제품의 경쟁력",
+        "글로벌 IT 기업들의 투자 동향"
       ],
       "related_news_titles": [
-        "엔비디아와 IREN, 5GW AI 메가 딜 체결: 인프라 붐으로 양사 주가 폭발 가능성",
-        "미국 증시 마감: 기술주 주도로 S&P 500 및 나스닥 신기록 경신, 반도체주 강한 반등; 중국 증시도 상승, PPI 3년 내 최고치",
-        "S&P 500, 나스닥 반도체 강세로 상승; 뜨거운 인플레이션 보고서는 금리 인하 기대감 소멸시켜"
+        "반도체 가격 상승으로 4월 수출물가 7.1%↑, 수입물가는 2.3%↓"
       ]
     },
     {
       "rank": 3,
-      "name": "두산로보틱스",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "로봇",
+      "sector": "에너지",
       "opinion": "관심",
-      "reason": "'반도체 다음은 피지컬 AI'라는 뉴스에서 보듯이 로봇 산업은 미래 핵심 성장 동력으로 부각되고 있으며, 국내 증시에서 새로운 주도주가 될 잠재력이 큽니다. 협동 로봇 분야의 선두 주자로서 인공지능 기술과의 융합을 통한 성장 기대감이 높습니다.",
+      "reason": "국제 유가가 107달러까지 급등했다는 소식은 정유 및 에너지 관련 기업들의 실적 개선 기대로 이어질 수 있어 관련 종목의 움직임을 주시해야 합니다.",
       "check_points": [
-        "산업용 및 서비스 로봇 시장 확대 속도",
-        "피지컬 AI 기술 개발 및 상용화 진전",
-        "정부의 로봇 산업 육성 정책"
+        "국제 유가의 변동성 및 중동 정세 불안정성",
+        "정제마진의 추이 및 석유화학 제품 가격 동향",
+        "전기차 배터리 사업의 성장성 및 수익성"
       ],
       "related_news_titles": [
-        "반도체 다음은 ‘피지컬 AI’…로봇, 증시 새 주도주로 부상"
+        "2026년 5월 14일 미국 증시: 다우 하락, 나스닥·S&P 500 상승, 시스코 랠리, 유가 107달러 급등, 비트코인 8.1만 달러 하락"
       ]
     },
     {
       "rank": 4,
-      "name": "HD현대중공업",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "조선",
-      "opinion": "중립",
-      "reason": "미·중 정상회담을 앞두고 관세, 반도체와 함께 조선업 협력 방안이 변수로 언급되며, 국내 핵심 수출 산업인 조선업에 대한 투자 심리가 영향을 받을 수 있습니다. 현재까지의 긍정적 업황에도 불구하고, 미·중 관계 변화에 따른 불확실성을 주시할 필요가 있습니다.",
+      "sector": "금융",
+      "opinion": "관심",
+      "reason": "연준과 한국은행의 금리 인상 압박 및 고금리 장기화 가능성은 은행권의 순이자마진(NIM) 개선에 긍정적으로 작용할 수 있어 관심을 가져볼 만합니다.",
       "check_points": [
-        "미·중 정상회담 결과 및 해운·조선 관련 정책 변화",
-        "글로벌 신조선 발주량 및 선가 추이",
-        "환율 변동에 따른 실적 영향"
+        "한국은행 금융통화위원회(금통위)의 기준금리 결정",
+        "대출 성장률 및 가계부채 관리 정책 변화",
+        "배당 정책 등 주주환원 관련 소식"
       ],
       "related_news_titles": [
-        "미·중 정상회담 앞두고 국내 산업계 촉각…관세·반도체·조선 협력이 변수"
+        "케빈 워시 신임 연준 의장 임명, 올해 금리 인하 없을 듯: 포트폴리오 영향은?",
+        "성장률 개선에도 금리 인상 압박…한국은행 5월 금통위 '인상 카드' 만지작거리나"
       ]
     }
   ],
