@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16 07:55",
-  "analysis_date": "2026-05-16",
+  "generated_at": "2026-05-17 07:44",
+  "analysis_date": "2026-05-17",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 증시 급락과 국제 유가 급등, 지정학적 불확실성 증대 등 복합적인 악재가 국내외 증시를 강타하며 투자 심리를 극도로 위축시켰습니다. 인플레이션 우려와 연준의 긴축 장기화 가능성이 시장을 지배하고 있습니다.",
-    "국내거시경제": "정부는 중동 전쟁 장기화로 국내 경기 하방 위험이 지속되며 소비 심리 둔화와 물가 부담 확대가 우려된다고 진단했습니다. 고유가와 불안정한 국제 정세가 국내 경제에 미치는 부정적 영향이 공식화되었습니다.",
-    "글로벌경제": "트럼프 전 대통령의 중국 방문, 미-이란 협상, 중동 전쟁 등 지정학적 리스크가 고조되고 국제 유가가 109달러까지 치솟으며 글로벌 인플레이션 압력이 가중되고 있습니다. 이는 세계 경제의 불확실성을 높이는 핵심 요인입니다.",
-    "증시금리": "미국 다우, 나스닥, S&P 500 지수가 일제히 급락했으며, 기술주 약세와 국채 금리 급등이 두드러졌습니다. 유가 충격으로 연준의 금리 인상 공포가 재점화되며 국내 증시도 '검은 금요일'을 맞았습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
-    "오늘의투자시사점": "대외 불확실성 해소 전까지 보수적인 접근이 필요하며, 글로벌 지정학적 리스크, 유가, 금리 변동성에 유의해야 합니다. 유가 관련주 및 금리 민감주에 대한 투자 전략 재검토가 권고됩니다.",
-    "오늘의한줄": "글로벌 악재 동시다발 발생, 인플레이션과 긴축 우려 속 시장 전반의 경계심 확대."
+    "총평": "글로벌 증시는 고유가와 채권금리 상승 부담 속에서도 AI 및 소프트웨어 섹터의 강세가 돋보였습니다. 국내는 경제 회복 기대감과 더불어 삼성전자 파업 등 내부 변수에 주목해야 합니다.",
+    "국내거시경제": "한국 경제 회복세는 삼성전자 파업 가능성, 중동 리스크, 고물가 압력으로 인한 복합적 불확실성에 직면했습니다. 한미 금리차 축소로 원화 강세 전환 기대감이 형성되고 있습니다.",
+    "글로벌경제": "국제 유가 급등과 인플레이션 우려로 글로벌 채권 수익률이 수십 년 만에 최고치를 기록하며 증시에 하방 압력을 가하고 있습니다. 중동 지정학적 불안정은 유가 변동성 확대 요인입니다.",
+    "증시금리": "미국 증시 주요 지수는 고유가 및 채권 매도세로 하락했으나, AI와 금리 인하 기대감에 힘입어 나스닥 기술주는 선방했습니다. 채권 금리 상승은 주식 밸류에이션에 부담을 주고 있습니다.",
+    "부동산정책": "정보 없음",
+    "기업산업": "피그마 실적 호조에 소프트웨어주가 급등했으며, 스페이스X 상장 가능성도 주목됩니다. AI 기술주 강세가 지속되는 가운데, 엔비디아 실적 발표와 삼성전자 파업 변수가 주요 기업 이슈로 부상했습니다.",
+    "오늘의투자시사점": "글로벌 고유가 및 고금리 환경 지속에 따른 시장 변동성 확대 가능성에 대비해야 합니다. AI, 소프트웨어 등 성장주 중심의 선별적 접근과 함께, 엔비디아 실적 및 삼성전자 파업 등 개별 기업/국내 이슈에 대한 면밀한 분석이 중요합니다. 원화 강세 전환이 국내 증시에 미칠 영향을 주시하십시오.",
+    "오늘의한줄": "고유가와 금리 부담 속 AI 기술주 강세가 지속되나, 국내외 주요 변수에 대한 신중한 접근이 필요한 하루입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "2026년 5월 15일 미국 증시: 트럼프 중국 방문 후 다우, 나스닥, S&P 500 급락, 미-이란 협상에 유가 $109 급등; 금은 및 비트코인도 하락",
-      "display_title": "2026년 5월 15일 미국 증시: 트럼프 중국 방문 후 다우, 나스닥, S&P 500 급락, 미-이란 협상에 유가 $109 급등; 금은 및 비트코인도 하락",
-      "original_title": "US Stock Market Today [15 May, 2026]: Dow Falls, Nasdaq & S&P 500 Crash After Trump China Visit, Oil Surges $109 on US-Iran Deal; Gold & Silver Hit, Bitcoin Retreats $82k | What Investors Should Watch - The Sunday Guardian",
+      "title": "미국 증시 마감 | 유가 급등에 채권 시장 매도세 촉발, 주요 지수 1% 이상 하락; 소프트웨어 주식은 역행 상승, 피그마 실적 발표 후 13% 급등; 스페이스X 6월 12일 상장 가능성; 금은 가격 하락",
+      "display_title": "미국 증시 마감 | 유가 급등에 채권 시장 매도세 촉발, 주요 지수 1% 이상 하락; 소프트웨어 주식은 역행 상승, 피그마 실적 발표 후 13% 급등; 스페이스X 6월 12일 상장 가능성; 금은 가격 하락",
+      "original_title": "U.S. Stock Market Close | Surge in Crude Oil Prices Triggers Bond Market Selloff, Indexes Fall Over 1%; Software Stocks Rally Against the Trend, Figma Surges 13% Post-Earnings; SpaceX May Go Public on June 12; Gold and Silver Plummet as Global Long- - 富途牛牛",
       "summary": [
-        "미국 증시가 트럼프 전 대통령의 중국 방문과 미-이란 협상으로 인한 유가 급등(109달러) 등 복합적 요인으로 다우, 나스닥, S&P 500 지수 모두 급락했다.",
-        "정치적 불확실성 증대와 원자재 가격 급등은 인플레이션 압력을 가중시키고 투자 심리를 위축시키는 주요 원인으로 작용했다.",
-        "글로벌 지정학적 리스크와 유가 변동성이 국내 증시에 미칠 영향을 주시하고, 안전자산 선호 심리 변화에 유의해야 한다."
+        "유가 급등과 채권 시장 매도세로 미국 증시 주요 지수가 1% 이상 하락했으나, 소프트웨어주는 역행 상승했다.",
+        "고유가는 인플레이션 우려를 키워 채권 금리 상승(채권 가격 하락)을 유발하고, 이는 주식 시장에 부정적인 영향을 미친다. 특정 섹터는 실적 개선 기대감으로 선전하기도 한다.",
+        "거시경제 변수(유가, 금리)의 영향력이 큰 가운데, 개별 기업 실적 및 신규 상장 이슈가 시장의 주목을 받을 수 있다."
       ],
-      "summary_text": "미국 증시가 트럼프 전 대통령의 중국 방문과 미-이란 협상으로 인한 유가 급등(109달러) 등 복합적 요인으로 다우, 나스닥, S&P 500 지수 모두 급락했다. 정치적 불확실성 증대와 원자재 가격 급등은 인플레이션 압력을 가중시키고 투자 심리를 위축시키는 주요 원인으로 작용했다. 글로벌 지정학적 리스크와 유가 변동성이 국내 증시에 미칠 영향을 주시하고, 안전자산 선호 심리 변화에 유의해야 한다.",
-      "description": "트럼프 전 대통령의 중국 방문 이후 미국 증시가 급락했으며, 미-이란 협상으로 유가가 109달러로 급등했다. 금, 은, 비트코인도 하락세를 보였다.",
+      "summary_text": "유가 급등과 채권 시장 매도세로 미국 증시 주요 지수가 1% 이상 하락했으나, 소프트웨어주는 역행 상승했다. 고유가는 인플레이션 우려를 키워 채권 금리 상승(채권 가격 하락)을 유발하고, 이는 주식 시장에 부정적인 영향을 미친다. 특정 섹터는 실적 개선 기대감으로 선전하기도 한다. 거시경제 변수(유가, 금리)의 영향력이 큰 가운데, 개별 기업 실적 및 신규 상장 이슈가 시장의 주목을 받을 수 있다.",
+      "description": "유가 급등이 채권 시장 매도세를 촉발하며 미국 주요 지수가 1% 이상 하락했고, 소프트웨어 주식은 시장 흐름에 역행하여 강세를 보였으며, 특히 피그마는 실적 발표 후 13% 급등했다. 스페이스X는 6월 12일 상장될 가능성이 있으며, 금과 은 가격은 전 세계적인 장기 금리 상승 우려로 급락했다.",
       "category": "증시·금리",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "에너지, 기술주, 방산",
+      "related_sector": "소프트웨어, 에너지, 방산·우주",
       "related_stocks": [
-        "SK이노베이션",
-        "HD현대오일뱅크",
-        "한화에어로스페이스"
+        "피그마"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 증시의 급락은 글로벌 투자 심리를 크게 위축시키고, 유가 급등은 인플레이션 압력을 증폭시켜 국내 시장에 광범위한 부정적 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "트럼프의 중국 방문 관련 추가 발언 및 미-이란 협상의 구체적인 내용, 그리고 국제 유가 동향을 면밀히 모니터링해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "유가 및 금리 변동이 시장 전반에 미치는 영향과 특정 기술주의 실적 및 스페이스X 상장 가능성 등 개별 이슈를 동시에 고려해야 하기 때문이다.",
+      "key_signal": "유가 및 채권 금리 동향, 소프트웨어 섹터의 성장 모멘텀, 그리고 스페이스X의 상장 추진 여부를 확인해야 한다.",
       "keywords": [
-        "미국 증시",
-        "유가 급등",
-        "트럼프",
-        "지정학적 리스크",
-        "인플레이션"
+        "유가",
+        "채권",
+        "증시하락",
+        "소프트웨어",
+        "스페이스X"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPR2FGcDE2ZDA5d2JVQjBEcnpRenhiSDhKam4yWmNmZ2QwN0hpbVdzcS1uOFNpaEtTQ0VEU1RuQzB1dDItVkR5WmI3djEyRnhzbGJFYTRVSEdsQUtOQW50cVJfN0JzSVdROS10bEpYTWQwR3hGejVvZ2FuUnRnNW5YRU1QSE8tRzJWT0xaQjFQYWN4U1BIMmJxNldPeGszeXJRdFY3X2dzSm9pVHRZWFpLb0hmMU9jR1R3YXJDZzBIN3dYRDNDSEhRNWdpZkZlZWxCWURWamVSMU8tdWlXTkNoeEpEcnpUNS1PbHA4QVZYbEFqV2lTdTRhMHpISEphbVRQNHROMHhyQ0VCeUd1ZExPTS1mVDlkcHZBbjAyX0lESU94empfOU8xY0s1WnlHN08zaG54eFFYNzBmbUVlUU5IUG1xRmRsQkR0TURzQS1XdmY?oc=5",
-      "published": "2026-05-16 00:16",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHFDd2VyVU9teHQ3aVdiNHBNTkRqaGktSktPVWN5bVEtS3FFcW55cnhKazctcjdXRFZQbDI0dXNpcDdTVkpWWGRkZ0RDUUJNTVNRd3VGb3JOQml1TEdSYUxyT0xvRGJPZ2Y3cjNNclZRa0lCdDU3RllGVUVfc3J4TzJCZzk3eFlUZE05MFpYdXZCTk16UFM5T0Jmd2k3Zw?oc=5",
+      "published": "2026-05-16 07:53",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,42 +65,40 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "다우존스, S&P 500, 나스닥 하락 마감: 기술주 약세, 국채 금리 및 유가 상승",
-      "display_title": "다우존스, S&P 500, 나스닥 하락 마감: 기술주 약세, 국채 금리 및 유가 상승",
-      "original_title": "Dow Jones, S&P 500 and Nasdaq end this week lower as tech stocks slide, Treasury yields and oil prices cli - The Economic Times",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "한국 경제 회복 국면 속 '삼성전자 파업' 변수…중동전쟁과 고물가도 부담",
+      "display_title": "한국 경제 회복 국면 속 '삼성전자 파업' 변수…중동전쟁과 고물가도 부담",
+      "original_title": "韓경제 회복 국면서 '삼전파업' 변수…중동전에 고물가도 부담 - 연합뉴스",
       "summary": [
-        "미국 주요 지수(다우존스, S&P 500, 나스닥)가 기술주 약세와 국채 금리 및 유가 상승 압력으로 인해 주간 하락세를 기록했다.",
-        "이는 인플레이션 우려가 다시 고개를 들고 연준의 긴축 기조 장기화 가능성에 대한 시장의 불안감을 반영한다.",
-        "미국 금리 인상 압력과 기술주 실적 둔화 가능성을 주시하며 국내 증시의 외국인 자금 흐름과 환율 변동성에 대비해야 한다."
+        "한국 경제가 회복세이나, 삼성전자 파업 가능성, 중동 전쟁, 고물가 등 복합적 변수가 부담으로 작용하고 있다.",
+        "삼성전자 파업은 국내 최대 기업의 생산 및 수출에 직접적인 영향을 미쳐 경제 전반에 파급 효과를 미칠 수 있다. 중동 불안은 유가 상승을, 고물가는 소비 위축을 초래한다.",
+        "대외 경제 불확실성과 국내 최대 기업의 노동 이슈는 한국 증시에 하방 압력으로 작용할 수 있으며, 관련 섹터에 대한 주의가 필요하다."
       ],
-      "summary_text": "미국 주요 지수(다우존스, S&P 500, 나스닥)가 기술주 약세와 국채 금리 및 유가 상승 압력으로 인해 주간 하락세를 기록했다. 이는 인플레이션 우려가 다시 고개를 들고 연준의 긴축 기조 장기화 가능성에 대한 시장의 불안감을 반영한다. 미국 금리 인상 압력과 기술주 실적 둔화 가능성을 주시하며 국내 증시의 외국인 자금 흐름과 환율 변동성에 대비해야 한다.",
-      "description": "기술주 하락, 국채 수익률 및 유가 상승으로 다우존스, S&P 500, 나스닥 지수가 이번 주 하락 마감했다.",
-      "category": "증시·금리",
+      "summary_text": "한국 경제가 회복세이나, 삼성전자 파업 가능성, 중동 전쟁, 고물가 등 복합적 변수가 부담으로 작용하고 있다. 삼성전자 파업은 국내 최대 기업의 생산 및 수출에 직접적인 영향을 미쳐 경제 전반에 파급 효과를 미칠 수 있다. 중동 불안은 유가 상승을, 고물가는 소비 위축을 초래한다. 대외 경제 불확실성과 국내 최대 기업의 노동 이슈는 한국 증시에 하방 압력으로 작용할 수 있으며, 관련 섹터에 대한 주의가 필요하다.",
+      "description": "한국 경제가 회복세를 보이는 가운데 삼성전자 파업 가능성이라는 내부 변수와 중동 전쟁, 고물가 지속이라는 외부 악재가 복합적으로 작용하며 부담을 가중시키고 있다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "기술주, 반도체, 에너지",
+      "related_sector": "반도체, IT, 정유, 소비재",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "LG에너지솔루션"
+        "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 증시의 하락 요인(기술주 약세, 금리·유가 상승)은 국내 증시에도 유사한 형태로 영향을 미쳐 시장 전반의 투자 심리 위축을 야기할 수 있기 때문이다.",
-      "key_signal": "주말간 발표될 경제 지표 및 다음 주 기술주 실적 발표를 주시하며, 유가와 국채 금리의 추가 상승 여부를 확인해야 한다.",
+      "investment_reason": "삼성전자 파업은 국내 경제 및 반도체 산업에 큰 영향을 미칠 수 있으며, 중동 전쟁과 고물가는 거시경제 불확실성을 증폭시켜 투자 심리를 위축시키기 때문이다.",
+      "key_signal": "삼성전자 노사 협상 진행 상황, 중동 정세 변화, 국내외 물가 지표를 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "미국 증시",
-        "기술주",
-        "국채 금리",
-        "유가",
-        "인플레이션"
+        "한국경제",
+        "삼성전자파업",
+        "중동전쟁",
+        "고물가",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTWM1Y1B0UGdsYUxtSlN5M0xNb0ZHVFY0U0VXZG95OHEycWRaX0hCTi1NX19OQXppV3IyMTRaS3cwZVg2QXFVNFVLQlNueTZoYU93MnZUUDRBdHMxdGtaRlR3V200MmFLWWRvdjFwc3FxQUVQMlpNVDBtME02YS1lQ1hQOXlkRF9rR3BiUDBpOW9mZGhwd01qV1pNR2U5MDFvMkpXdTMwcUVEeWN4N0JBZXR4R0dKZzgyblRBc1lSSUtpTlpNNEx0VEhuTWxORmxmYUtTbHZ2SzY5eGpPV3JJOGR2QURTZnA0SzA3ZDZpVzFpYmJHcC03aUxCb3dEZDloZ2xvajB3YnhqRlczRTlESXJacjJLN2Rad1cyODFoenhhUGlaakgtN3BsT0tma1NhemZZelVLTDZVaHJIblJUQ0FPXzFXa1lmcGN6blBIdkZSa0EtOXRKbW1ZQ1c3T3VSMlJHYmYtdjllSGNiZHV3NWF0dEJiMzJkSUVSQXJWNTcybnpvNnNN0gGMA0FVX3lxTE1GYm14elVhbEJUTzJGRkktdTUtc09WZHRCdGV4OVhWRHoxOGo3alIxUWY1aTFvS282WHZKN1BmcHNvc2w3S0FRZkxLcldHSXJZZXhfemtHemNUV0cwNWlZalRNUE9yeFdJNDdBRWdXUG96cGw1NEVtQ24zMFlMVWl6UFhucVM3UjdTZ3FJeUY1TmNjV25femRLWTJ3RFVyb1hoMUMwNG8zNDJqMWFVdVhVZ1ZCS2dBMkxsZjY2Wmxyci1pNUVEUGxQR0RJaUFQOWtSb1BqSFo3S3YteHlsdjF1Q1puSEEwMjJzZUFjTHVHU3J6c1BlTVVVM3NFcGVUUjRndmlsYU1FZzdvMWlnVE1haHNLbXNud3VVakpyalhvc25sZGVYeGpxSDZ3SGotRW9aYmd0bk4zM0daS0ltVFhjLVUtUlVoeTkyYjlYbUp0LWFpTDlnV3hVd1NfNVpqTEloRnNNOE1lalNhWmNQMEE3d3dQa3pZZFZlRzVzUU5YY0FpZmY0Nkh5U2pQNg?oc=5",
-      "published": "2026-05-16 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByRWJZOEVrSGl2RUhHZnhZeDNiM1JzRkhnM3BmMmlFNlE4MjBlODNHRlFnX2FpRVlhemxCamRrc20wWGk4U2N2N085dmVhdGQ5Q0h3NFB0Z1huc25wXzc2b9IBYEFVX3lxTFByRWJZOEVrSGl2RUhHZnhZeDNiM1JzRkhnM3BmMmlFNlE4MjBlODNHRlFnX2FpRVlhemxCamRrc20wWGk4U2N2N085dmVhdGQ5Q0h3NFB0Z1huc25wXzc2bw?oc=5",
+      "published": "2026-05-17 05:55",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +108,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 다우존스: 유가 충격으로 연준 금리 인상 공포 재점화되며 406포인트 하락",
-      "display_title": "오늘 다우존스: 유가 충격으로 연준 금리 인상 공포 재점화되며 406포인트 하락",
-      "original_title": "Dow Jones Today: Dow Drops 406 Points as Oil Shock Revives Fed-Hike Fear - TechStock²",
+      "title": "월스트리트 기록적인 상승세, 유가와 채권 부담으로 주춤; 엔비디아 실적 대기",
+      "display_title": "월스트리트 기록적인 상승세, 유가와 채권 부담으로 주춤; 엔비디아 실적 대기",
+      "original_title": "Wall Street’s record streak gives way as oil and bonds weigh; Nvidia on deck - TechStock²",
       "summary": [
-        "다우존스 지수가 유가 충격으로 406포인트 급락하며 연준의 금리 인상 공포를 다시 불러일으켰다.",
-        "국제 유가 상승은 인플레이션 압력을 가중시키고, 이는 연준의 매파적 통화 정책으로 이어질 수 있다는 우려를 키웠다.",
-        "고유가로 인한 인플레이션 부담과 이에 따른 금리 인상 가능성이 국내 증시에 미칠 악영향에 대비하고, 유가 관련주 및 금리 민감주에 대한 투자 전략을 재검토해야 한다."
+        "월스트리트의 기록적인 주가 상승세가 유가 상승과 채권 수익률 압박으로 주춤했다.",
+        "고유가와 높은 채권 수익률은 기업 수익성에 부담을 주고 투자 심리를 위축시키는 요인으로 작용한다.",
+        "시장의 주요 동력이었던 대형 기술주, 특히 엔비디아 실적이 향후 시장 방향성을 결정할 중요한 변수가 될 것이다."
       ],
-      "summary_text": "다우존스 지수가 유가 충격으로 406포인트 급락하며 연준의 금리 인상 공포를 다시 불러일으켰다. 국제 유가 상승은 인플레이션 압력을 가중시키고, 이는 연준의 매파적 통화 정책으로 이어질 수 있다는 우려를 키웠다. 고유가로 인한 인플레이션 부담과 이에 따른 금리 인상 가능성이 국내 증시에 미칠 악영향에 대비하고, 유가 관련주 및 금리 민감주에 대한 투자 전략을 재검토해야 한다.",
-      "description": "유가 충격으로 연방준비제도(Fed)의 금리 인상 공포가 다시 살아나면서 오늘 다우존스 지수가 406포인트 하락했다.",
+      "summary_text": "월스트리트의 기록적인 주가 상승세가 유가 상승과 채권 수익률 압박으로 주춤했다. 고유가와 높은 채권 수익률은 기업 수익성에 부담을 주고 투자 심리를 위축시키는 요인으로 작용한다. 시장의 주요 동력이었던 대형 기술주, 특히 엔비디아 실적이 향후 시장 방향성을 결정할 중요한 변수가 될 것이다.",
+      "description": "유가 상승과 채권 수익률 압박으로 월스트리트의 기록적인 상승세가 꺾이고 있으며, 엔비디아의 실적 발표가 임박했다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "에너지, 화학, 항공, 운송, 금융",
+      "related_sector": "반도체, 에너지",
       "related_stocks": [
-        "SK이노베이션",
-        "대한항공",
-        "KB금융"
+        "엔비디아"
       ],
-      "investment_view": "주의",
-      "investment_reason": "국제 유가 급등이 인플레이션을 재점화하고 연준의 금리 인상 가능성을 높여 글로벌 경제 및 국내 시장의 불확실성을 증대시키기 때문이다.",
-      "key_signal": "중동 정세 및 글로벌 원유 공급망 동향을 면밀히 주시하고, 연준의 통화 정책 스탠스 변화 여부를 확인해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "유가 및 채권 금리 상승이 시장 전반에 미치는 영향과 함께, 대형 기술주의 실적 발표가 향후 시장의 흐름을 좌우할 수 있기 때문이다.",
+      "key_signal": "엔비디아 실적 발표와 유가 및 미국채 금리 추이를 면밀히 주시해야 한다.",
       "keywords": [
-        "다우존스",
-        "유가 급등",
-        "금리 인상",
-        "인플레이션",
-        "연준"
+        "월스트리트",
+        "유가",
+        "채권",
+        "엔비디아",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOTI5X285WXk3bTU5WXRXaG0tWU1MaUtvUEJqakpvV3BfVXJfMHhqaDZCbzkydW1qZnNzeUVEeVZ1Sy1CODFkOU1kYmtzZzRyU3ZhTnIweU5QbXBZckM5X1NMeXFRU3hWa3gtN2pXaHRBT3RlOWlPeXBxMUlhY1k2QUlWMnpxbm9nel9PZDliRFFJNE85R19Z?oc=5",
-      "published": "2026-05-16 05:23",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVndQWG0zVExVMS1ZV1dPQlhHcUkySEtwY29MN0JuLVRNM19SN282eXZRSnVKc1hsNjRQWHNWU3JaSno4RU9sRi14Q1dPb1Etb2JlWENVTUExeEhndXpWUUNQc0EyRnFMSXVYZE9fZzBkaFFVVS1RNGxiR25SQnJwYV9sZGdvYmpQNTUyZkJ0NA?oc=5",
+      "published": "2026-05-17 02:19",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,37 +148,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "'검은 금요일' 폭락의 시작인가, 단기 조정인가?",
-      "display_title": "'검은 금요일' 폭락의 시작인가, 단기 조정인가?",
-      "original_title": "'검은 금요일' 폭락 시작일까 단기 조정일까 - 네이트",
+      "title": "[고금리 온다] 한미 시장금리차 바짝 붙어…원화 가치 오를까",
+      "display_title": "[고금리 온다] 한미 시장금리차 바짝 붙어…원화 가치 오를까",
+      "original_title": "[고금리 온다] 한미 시장금리차 바짝 붙어…원화 가치 오를까 - 매일경제 마켓",
       "summary": [
-        "국내 증시가 미국 증시의 하락세에 동조하며 '검은 금요일'로 마감한 가운데, 시장에서는 이를 폭락의 시작으로 볼지 단기적인 조정으로 볼지에 대한 논의가 활발하다.",
-        "글로벌 인플레이션 우려, 고유가, 미국 금리 인상 압력 등 대외 악재들이 복합적으로 작용하여 국내 투자 심리를 위축시키고 있다.",
-        "단기적인 기술적 반등 가능성도 배제할 수 없으나, 대외 불확실성이 해소되기 전까지는 보수적인 접근이 필요하며 주요 경제 지표와 기업 실적을 면밀히 관찰해야 한다."
+        "한국과 미국의 시장금리 차이가 축소되어 원화 가치 상승에 대한 기대감이 형성되고 있다.",
+        "금리 차이는 자본 흐름과 환율에 큰 영향을 미치며, 금리 역전 현상 해소는 자국 통화 강세 요인으로 작용할 수 있다.",
+        "원화 강세는 국내 수출 기업의 가격 경쟁력에 부정적일 수 있으나, 수입 물가 안정에는 긍정적이며 외국인 자본 유입을 촉진할 수 있다."
       ],
-      "summary_text": "국내 증시가 미국 증시의 하락세에 동조하며 '검은 금요일'로 마감한 가운데, 시장에서는 이를 폭락의 시작으로 볼지 단기적인 조정으로 볼지에 대한 논의가 활발하다. 글로벌 인플레이션 우려, 고유가, 미국 금리 인상 압력 등 대외 악재들이 복합적으로 작용하여 국내 투자 심리를 위축시키고 있다. 단기적인 기술적 반등 가능성도 배제할 수 없으나, 대외 불확실성이 해소되기 전까지는 보수적인 접근이 필요하며 주요 경제 지표와 기업 실적을 면밀히 관찰해야 한다.",
-      "description": "증시가 하락 마감한 '검은 금요일'에 대한 시장의 해석이 폭락의 시작일지 단기 조정일지 의견이 분분하다.",
+      "summary_text": "한국과 미국의 시장금리 차이가 축소되어 원화 가치 상승에 대한 기대감이 형성되고 있다. 금리 차이는 자본 흐름과 환율에 큰 영향을 미치며, 금리 역전 현상 해소는 자국 통화 강세 요인으로 작용할 수 있다. 원화 강세는 국내 수출 기업의 가격 경쟁력에 부정적일 수 있으나, 수입 물가 안정에는 긍정적이며 외국인 자본 유입을 촉진할 수 있다.",
+      "description": "한국과 미국의 시장금리 차이가 급격히 좁혀지면서 원화 가치 상승 가능성에 대한 관심이 높아지고 있다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전체 시장",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "환율 민감주 (수출주, 수입주), 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "POSCO홀딩스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "글로벌 악재가 복합적으로 작용하며 국내 증시의 방향성에 대한 불확실성이 매우 커져 투자자들의 신중한 접근이 필요한 시점이기 때문이다.",
-      "key_signal": "다음 주 국내외 주요 경제 지표 발표와 외국인 및 기관 투자자들의 수급 동향, 그리고 미국 증시의 주간 흐름을 집중적으로 모니터링해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "한미 금리 차이와 원화 강세 여부가 국내 증시의 외국인 수급 및 기업 실적에 중요한 영향을 미치기 때문이다.",
+      "key_signal": "미국 금리 동향과 한국은행의 통화 정책 스탠스 변화를 예의주시하며 원/달러 환율 추이를 확인해야 한다.",
       "keywords": [
-        "검은 금요일",
-        "국내 증시",
-        "증시 조정",
-        "폭락",
-        "투자 심리"
+        "한미금리차",
+        "원화강세",
+        "환율",
+        "외국인투자",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UeVdsUjMyd2ZmTkV4RXBua1ZNMVA4WTd4TFhEOFBFd0xYWUJRVEtCYTV6QnpHSEk2bDgwZDZ6TmZQOFctQ0JhTTlLanpJNE5QTlN5ZHZZaU56dHU2RUZqaG5LMWZfWF9aUFJ5emsxcHY0c21RYkNuUA?oc=5",
-      "published": "2026-05-16 07:36",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vaGY4YmE4QklXa0thZTFTeThRUTA3NndXNHpjclFFcTdZaUVGY0EzcTM4VXV2NmRiNkQ4UVgweXBPRG4tb0Q3WVNUYzlySGJJOEE?oc=5",
+      "published": "2026-05-17 05:45",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -193,42 +187,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "정부 \"중동전쟁으로 경기 하방위험 지속...소비심리 둔화 및 물가 부담 확대\"(종합)",
-      "display_title": "정부 \"중동전쟁으로 경기 하방위험 지속...소비심리 둔화 및 물가 부담 확대\"(종합)",
-      "original_title": "정부 \"중동전쟁에 경기 하방위험 지속…소비심리 둔화·물가부담 확대\"(종합) - 뉴스1",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "인플레이션 우려 고조로 채권 수익률 수십 년 만에 최고치 기록",
+      "display_title": "인플레이션 우려 고조로 채권 수익률 수십 년 만에 최고치 기록",
+      "original_title": "Bond yields hit multi-decade highs as inflation fears mount - MSN",
       "summary": [
-        "정부는 중동 전쟁 장기화로 인해 국내 경기 하방 위험이 지속되고 있으며, 소비 심리 둔화와 물가 부담 확대가 우려된다고 진단했다.",
-        "이는 고유가 및 불안정한 국제 정세가 국내 경제에 미치는 부정적인 영향을 공식적으로 인정한 것으로 풀이된다.",
-        "정부의 추가적인 경기 부양책과 물가 안정화 대책 발표 여부를 주시하며, 중동 정세 변화에 따른 유가 및 환율 변동성 확대에 대비해야 한다."
+        "인플레이션 우려 심화로 인해 채권 수익률이 수십 년 만에 최고치를 경신했다.",
+        "높은 인플레이션은 중앙은행의 금리 인상 기조를 유지하거나 강화하게 만들고, 이는 채권 시장에 반영되어 수익률 상승(채권 가격 하락)을 유발한다.",
+        "채권 금리 상승은 주식 시장의 밸류에이션 부담을 높이고 기업의 차입 비용을 증가시켜 시장 전반에 부정적인 영향을 미칠 수 있다."
       ],
-      "summary_text": "정부는 중동 전쟁 장기화로 인해 국내 경기 하방 위험이 지속되고 있으며, 소비 심리 둔화와 물가 부담 확대가 우려된다고 진단했다. 이는 고유가 및 불안정한 국제 정세가 국내 경제에 미치는 부정적인 영향을 공식적으로 인정한 것으로 풀이된다. 정부의 추가적인 경기 부양책과 물가 안정화 대책 발표 여부를 주시하며, 중동 정세 변화에 따른 유가 및 환율 변동성 확대에 대비해야 한다.",
-      "description": "정부는 중동전쟁의 여파로 경기 하방 위험이 지속되고 있으며, 소비심리 둔화와 물가 부담 확대가 우려된다고 밝혔다.",
-      "category": "국내 거시경제",
-      "importance": 9,
+      "summary_text": "인플레이션 우려 심화로 인해 채권 수익률이 수십 년 만에 최고치를 경신했다. 높은 인플레이션은 중앙은행의 금리 인상 기조를 유지하거나 강화하게 만들고, 이는 채권 시장에 반영되어 수익률 상승(채권 가격 하락)을 유발한다. 채권 금리 상승은 주식 시장의 밸류에이션 부담을 높이고 기업의 차입 비용을 증가시켜 시장 전반에 부정적인 영향을 미칠 수 있다.",
+      "description": "인플레이션에 대한 우려가 커지면서 채권 수익률이 수십 년 만에 최고 수준으로 상승했다.",
+      "category": "증시·금리",
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "필수소비재, 유통, 에너지, 건설",
+      "related_sector": "금융, 기술주(성장주)",
       "related_stocks": [
-        "롯데쇼핑",
-        "신세계",
-        "GS리테일"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "중동 전쟁으로 인한 유가 상승과 글로벌 공급망 불안은 국내 물가 상승 압력을 높이고 소비 심리를 위축시켜 국내 경제 전반에 부정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "정부의 추가적인 경제 정책 방향과 한국은행의 통화 정책 스탠스, 그리고 중동 정세의 변화를 지속적으로 모니터링해야 한다.",
+      "investment_reason": "채권 금리 상승은 주식 시장의 할인율을 높여 특히 성장주의 밸류에이션에 부정적이며, 기업의 자금 조달 비용을 증가시키기 때문이다.",
+      "key_signal": "미국 소비자물가지수(CPI) 등 주요 인플레이션 지표와 연방준비제도(Fed)의 금리 관련 발언을 주시해야 한다.",
       "keywords": [
-        "중동 전쟁",
-        "경기 하방",
-        "소비 심리",
-        "물가 부담",
-        "정부 정책"
+        "채권수익률",
+        "인플레이션",
+        "금리인상",
+        "주식시장",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUzBrYjF0Q0lWbDhFS3pibGRkWVAtbmJMYUZTMHVsOUh0ZnQ3aUU5eEJQbWZJMTdxSWtWOFktNXJYVmNDTTZKQ2xPRFFtZTdiMmlqVQ?oc=5",
-      "published": "2026-05-15 10:33",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0pPX1NWNFF1MXZNcTNFNDNqYTh6SGQ2UGhPZmMxZzNnbnAyakFoX3BUT2NHSVpmeS1Hbl92a280SlpZMG9HLXhkNldDU2N4WjhOaW1HUmNZU0RSVWdkcFo3YVp5YWNjbnJIWk03V0I4bFhLV1pNYjBOaDdYTHpNZjduWHdTVjR6UmIxODdMM1BtT2RVQWVnZllieXBRc3ZVd09sSmczVUhRSHRWX1V2RUFtbExzZUxCdVpMbUhqczZFMmpPbXE3dHBpZ3c4Vnk3UmdCYkFoQzJQNFhwcmR5dDVLRko?oc=5",
+      "published": "2026-05-17 01:11",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -238,37 +232,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥, S&P 500 선물 급락: 인플레이션 우려에 금리 급등",
-      "display_title": "나스닥, S&P 500 선물 급락: 인플레이션 우려에 금리 급등",
-      "original_title": "NASDAQ, S&P 500 futures tumble as yields jump on inflation worries - MSN",
+      "title": "나스닥 종합지수, AI 및 금리 인하 기대감에 힘입어 사상 최고치 부근 유지",
+      "display_title": "나스닥 종합지수, AI 및 금리 인하 기대감에 힘입어 사상 최고치 부근 유지",
+      "original_title": "Nasdaq Composite holds near record territory as AI and rate-cut bets keep tech in focus - AD HOC NEWS",
       "summary": [
-        "나스닥과 S&P 500 선물 지수가 인플레이션 우려로 인한 국채 금리 급등으로 하락세를 보였다.",
-        "이는 시장이 연방준비제도(Fed)의 긴축 정책 장기화 가능성에 민감하게 반응하고 있음을 보여준다.",
-        "미국 금리 상승 압력이 국내 증시의 기술주와 성장주에 미치는 영향을 주시하며, 금리 민감 섹터의 변동성에 대비해야 한다."
+        "나스닥 종합지수가 AI 기술주의 강세와 금리 인하 기대감으로 사상 최고치 수준을 유지하고 있다.",
+        "AI 혁신은 기술주의 성장 동력이며, 연방준비제도(Fed)의 금리 인하 가능성은 기술주에 긍정적인 투자 환경을 제공한다.",
+        "AI 관련 기술주의 지속적인 강세와 금리 인하 베팅이 시장의 주요 테마로 작용하고 있으며, 기술주 중심의 시장 강세가 이어질 수 있다."
       ],
-      "summary_text": "나스닥과 S&P 500 선물 지수가 인플레이션 우려로 인한 국채 금리 급등으로 하락세를 보였다. 이는 시장이 연방준비제도(Fed)의 긴축 정책 장기화 가능성에 민감하게 반응하고 있음을 보여준다. 미국 금리 상승 압력이 국내 증시의 기술주와 성장주에 미치는 영향을 주시하며, 금리 민감 섹터의 변동성에 대비해야 한다.",
-      "description": "인플레이션 우려로 국채 금리가 급등하면서 나스닥과 S&P 500 선물 지수가 하락했다.",
+      "summary_text": "나스닥 종합지수가 AI 기술주의 강세와 금리 인하 기대감으로 사상 최고치 수준을 유지하고 있다. AI 혁신은 기술주의 성장 동력이며, 연방준비제도(Fed)의 금리 인하 가능성은 기술주에 긍정적인 투자 환경을 제공한다. AI 관련 기술주의 지속적인 강세와 금리 인하 베팅이 시장의 주요 테마로 작용하고 있으며, 기술주 중심의 시장 강세가 이어질 수 있다.",
+      "description": "나스닥 종합지수가 인공지능(AI) 관련 성장세와 금리 인하 기대감에 힘입어 사상 최고치 부근에서 강세를 유지하고 있으며, 기술주에 대한 관심이 지속되고 있다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "기술주, 성장주, 금융",
+      "market_impact": "긍정",
+      "related_sector": "기술주, AI, 소프트웨어, 반도체",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "KB금융"
+        "엔비디아",
+        "마이크로소프트"
       ],
-      "investment_view": "주의",
-      "investment_reason": "인플레이션 우려와 이에 따른 금리 상승은 기술주 중심의 국내 증시에 부정적인 영향을 미칠 수 있으며, 특히 성장주에 대한 투자 심리를 위축시킬 수 있기 때문이다.",
-      "key_signal": "미국 국채 금리 동향과 인플레이션 관련 지표 발표를 주시하며, 연준의 추가적인 통화정책 시그널에 주목해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 성장 동력과 금리 인하 기대감이 기술주 중심의 시장 강세를 이끌고 있으며, 관련 기업들의 투자 기회가 여전히 유효하기 때문이다.",
+      "key_signal": "AI 산업의 확장 추세와 연방준비제도(Fed)의 금리 인하 시점에 대한 시장의 기대 변화를 관찰해야 한다.",
       "keywords": [
-        "나스닥 선물",
-        "S&P 500 선물",
-        "금리 급등",
-        "인플레이션",
+        "나스닥",
+        "AI",
+        "금리인하",
+        "기술주",
         "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjZBdm1pT3hVMU0zcHBucmUzX3lENzM1bDZ0eTllaXJWOExFWktrd2hDd2ppVklBbWN5d3kybUczcmloM3BBVzlBUDJQcUdsbm4yTnk3WUdSOVM4MzBFcTJ0dGRoZ25lYXQyNVVHTmJpQjYzSm9Yakd1eGNZRkFxYzVsOXUxdVZfUU1zVU9ucS11N2NFR0hiejU0RzBtaXRYWUZjWDdmLTJ5TE5ZbHZFamgtZllEUGE1?oc=5",
-      "published": "2026-05-15 21:46",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3BYRk1FRXNVLU1fNjRPemJKVU15SzNZUFk2VjFLcElTaTBYWi1MT2RLSTVYMVktcFc5M0xxWV9WVW4xOE4xWVEzWFNKVmZWSnB1UmZwcHVfSHdoWDRKU3lPMGYyb3ZHckdxSERkV1d1X3ZfR0NvV2kxRDd1cGF4djR0S1lGS1RCcTd0N2xHRFNHY3ZaRkhHN3hOY3IwNnIwdGZ3QzcyNmZucEFpSjlieDBtZDkyVnVnSUtuVEczNnROY1ZjTDBKUHRELXM?oc=5",
+      "published": "2026-05-16 23:47",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -282,66 +275,66 @@
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "주의",
-      "reason": "글로벌 증시의 기술주 약세와 미국 금리 상승 우려가 국내 반도체 산업 및 전체 시장에 대한 투자 심리 위축으로 이어질 수 있기 때문입니다. 특히, 삼성전자는 국내 증시의 핵심 종목으로 글로벌 경제 상황 변화에 민감하게 반응합니다.",
+      "opinion": "관심",
+      "reason": "국내 경제의 핵심인 삼성전자의 파업 변수가 국내 반도체 산업 및 전반적인 IT 섹터에 미치는 영향을 면밀히 주시해야 하며, 중동 전쟁과 고물가 등 거시경제 불확실성 속에서 그 파급력이 클 수 있기 때문입니다.",
       "check_points": [
-        "미국 나스닥 및 필라델피아 반도체 지수 동향",
-        "글로벌 IT 수요 변화",
-        "원/달러 환율 추이"
+        "삼성전자 노사 협상 진행 상황 및 파업 수위 변화",
+        "글로벌 반도체 업황 전반의 회복세 지속 여부",
+        "외국인 및 기관 투자자 수급 동향"
       ],
       "related_news_titles": [
-        "다우존스, S&P 500, 나스닥 하락 마감: 기술주 약세, 국채 금리 및 유가 상승",
-        "'검은 금요일' 폭락의 시작인가, 단기 조정인가?"
+        "한국 경제 회복 국면 속 '삼성전자 파업' 변수…중동전쟁과 고물가도 부담"
       ]
     },
     {
       "rank": 2,
-      "name": "SK이노베이션",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "정유",
-      "opinion": "주의",
-      "reason": "국제 유가 급등은 단기적으로 정유 마진에 긍정적일 수 있으나, 전반적인 인플레이션 압력과 연준의 금리 인상 공포를 재점화하여 글로벌 경기 둔화 우려를 심화시키고 수요 위축으로 이어질 수 있습니다.",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "글로벌 AI 산업의 성장 동력과 나스닥 기술주 강세가 국내 대표 반도체 기업에 긍정적인 영향을 미칠 수 있으며, 특히 고대역폭 메모리(HBM) 시장에서의 경쟁력과 엔비디아 실적 발표가 가져올 반도체 업황 전반의 변화를 주목할 필요가 있습니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유) 변동성",
-        "정유 제품 수요 전망",
-        "중동 지역 지정학적 리스크 변화"
+        "엔비디아를 포함한 글로벌 빅테크 기업들의 실적 발표와 가이던스",
+        "고대역폭 메모리(HBM)를 포함한 메모리 반도체 수요 및 가격 동향",
+        "환율 변동이 수출 실적에 미치는 영향"
       ],
       "related_news_titles": [
-        "2026년 5월 15일 미국 증시: 트럼프 중국 방문 후 다우, 나스닥, S&P 500 급락, 미-이란 협상에 유가 $109 급등",
-        "오늘 다우존스: 유가 충격으로 연준 금리 인상 공포 재점화되며 406포인트 하락"
+        "나스닥 종합지수, AI 및 금리 인하 기대감에 힘입어 사상 최고치 부근 유지",
+        "월스트리트 기록적인 상승세, 유가와 채권 부담으로 주춤; 엔비디아 실적 대기"
       ]
     },
     {
       "rank": 3,
-      "name": "KB금융",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "은행",
-      "opinion": "주의",
-      "reason": "인플레이션 우려에 따른 미국 국채 금리 급등과 연준의 금리 인상 재개 가능성은 금융 시장의 변동성을 높이고, 급격한 금리 인상이 경기 둔화로 이어질 경우 금융권의 건전성에 대한 우려가 커질 수 있습니다.",
+      "sector": "증권",
+      "opinion": "관심",
+      "reason": "한미 시장금리차 변동과 원화 가치 움직임이 외국인 투자자 수급 및 국내 증시의 방향성에 중요한 영향을 미칠 수 있으며, 인플레이션 우려로 인한 채권 금리 상승이 증권업 전반의 투자심리와 실적에 미치는 영향을 다각도로 살펴봐야 하기 때문입니다.",
       "check_points": [
-        "한국은행 및 미국 연준의 금리 결정 동향",
-        "국내외 경기 지표 변화",
-        "금융 시장의 유동성 변화"
+        "미국 연방준비제도(Fed)의 금리 인하 기대감 및 정책 방향",
+        "한미 기준금리 차이 및 원/달러 환율 변동성",
+        "국내 증시 거래량 및 투자자 예탁금 추이"
       ],
       "related_news_titles": [
-        "오늘 다우존스: 유가 충격으로 연준 금리 인상 공포 재점화되며 406포인트 하락",
-        "나스닥, S&P 500 선물 급락: 인플레이션 우려에 금리 급등"
+        "[고금리 온다] 한미 시장금리차 바짝 붙어…원화 가치 오를까",
+        "인플레이션 우려 고조로 채권 수익률 수십 년 만에 최고치 기록"
       ]
     },
     {
       "rank": 4,
-      "name": "롯데쇼핑",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "백화점/마트",
-      "opinion": "주의",
-      "reason": "중동 전쟁으로 인한 유가 급등과 물가 상승 압력은 국내 소비 심리를 위축시키고 가계의 실질 구매력을 저하시켜 유통 및 필수소비재 업종의 실적에 부정적인 영향을 미칠 수 있습니다.",
+      "sector": "정유 및 화학",
+      "opinion": "관심",
+      "reason": "국제 유가 급등과 중동 전쟁 등 지정학적 리스크가 에너지 기업의 실적에 직접적인 영향을 미칠 수 있으며, 글로벌 경기 둔화 우려 속에서도 고물가 상황에서의 유가 변동이 정유 및 화학 산업 전반에 미치는 영향을 주시할 필요가 있습니다.",
       "check_points": [
-        "국내 소비자 심리 지수(CSI)",
-        "소비자 물가 지수(CPI) 추이",
-        "정부의 물가 안정 정책 효과 및 가계 소득 동향"
+        "국제 유가(WTI, 브렌트유) 추이 및 정제마진 변동",
+        "중동 지역의 지정학적 리스크 변화 및 생산량 조절 여부",
+        "전기차 배터리 사업 부문의 성장세와 수주 상황"
       ],
       "related_news_titles": [
-        "정부 \"중동전쟁으로 경기 하방위험 지속...소비심리 둔화 및 물가 부담 확대\"(종합)"
+        "미국 증시 마감 | 유가 급등에 채권 시장 매도세 촉발, 주요 지수 1% 이상 하락",
+        "한국 경제 회복 국면 속 '삼성전자 파업' 변수…중동전쟁과 고물가도 부담"
       ]
     }
   ],
