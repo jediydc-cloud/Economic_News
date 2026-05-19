@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19 08:02",
-  "analysis_date": "2026-05-19",
+  "generated_at": "2026-05-20 08:03",
+  "analysis_date": "2026-05-20",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 고금리 장기화, 유가 및 달러 강세가 증시 전반에 부담을 주는 가운데, 국내 원화 약세도 심화되고 있습니다. 다만, AI 관련 산업 성장은 특정 섹터에 긍정적 기회를 제공하며 시장의 상하방을 동시에 주시해야 합니다.",
-    "국내거시경제": "원·달러 환율이 1500원을 돌파하며 고환율 장기화 우려가 증폭되고 있습니다. 이는 수입 물가 상승 압력과 외국인 투자자 이탈 가능성을 높여 국내 경제 전반에 부담으로 작용할 전망입니다.",
-    "글로벌경제": "미국 고금리 환경 지속 우려 속에 국제 유가가 108달러로 급등하며 인플레이션 압력이 가중되고 있습니다. 이는 글로벌 경기 둔화 우려를 심화시키고 위험자산 회피 심리를 자극할 수 있습니다.",
-    "증시금리": "미국 증시는 기술주 매도세와 국채 수익률 상승으로 하락세를 보였습니다. 특히 나스닥 지수는 유가 상승과 높은 차입 비용 우려 속에 1.5% 하락하며 시장 전반의 경계심을 키웠습니다. 국내 증시에도 기술주 비중이 높아 간접적인 영향이 예상됩니다.",
-    "부동산정책": "특이사항 없음",
-    "기업산업": "AI 기술 발전이 배터리 산업의 반등을 이끌며, 삼성SDI는 ESS 사업을 새로운 성장 동력으로 적극 추진 중입니다. AI 데이터센터 확충과 신재생에너지 확대가 ESS 시장 성장을 견인할 것으로 보입니다.",
-    "오늘의투자시사점": "글로벌 고금리, 유가 상승 및 원화 약세 심화로 시장 변동성이 확대될 수 있으므로 보수적인 접근이 필요합니다. 특히 국내 증시 내 비중이 높은 기술주 및 반도체 섹터의 흐름을 주시해야 하며, AI 및 신재생에너지 관련 배터리/ESS 섹터의 성장 가능성에는 관심이 필요합니다.",
-    "오늘의한줄": "글로벌 경제 불확실성과 국내 환율 불안정 속, 기술주 변동성에 주의하며 AI/ESS 관련 성장 섹터에 대한 선별적 관심이 필요한 시점입니다."
+    "총평": "미국 증시가 채권 금리 급등과 지정학적 긴장으로 폭락하며 글로벌 시장 불안감이 고조되었습니다. 국내 증시 또한 외국인 매도세에 급락했으며, 엔비디아 실적 발표에 이목이 쏠리고 있습니다. 중동 지정학 리스크와 고금리 장기화 가능성에 대한 전반적인 위험 관리가 요구됩니다.",
+    "국내거시경제": "외국인 대규모 매도세로 한국 증시가 급락하며 대외 악재에 취약한 모습을 보였습니다. 반도체 및 배터리 핵심 소재의 전략적 중요성이 부각되며 국내 기업들의 공급망 다변화와 기술 자립 역량 강화가 시급합니다.",
+    "글로벌경제": "미국 채권 금리가 19년 만에 최고치를 기록하며 글로벌 고금리 환경 장기화 우려가 커졌습니다. 이란 전쟁 가능성 등 중동 지정학적 긴장은 유가 급등과 공급망 교란을 야기하며 세계 경제에 복합적인 혼란을 가중시키고 있습니다.",
+    "증시금리": "미국 증시(다우, S&P 500, 나스닥)는 채권 금리 급등, 반도체주 폭락, 지정학적 긴장 등 복합 악재로 급락했습니다. 유가는 미-이란 합의로 급등했으나 금, 은, 비트코인 등 안전자산은 후퇴했습니다. 국내 증시는 외국인 매도 폭탄에 급락했으며, 20일 엔비디아 실적 발표가 국내 반도체 및 기술주의 향방을 결정할 주요 변수가 될 것입니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "글로벌 AI 및 반도체 산업의 핵심인 엔비디아의 실적 발표가 임박하여 국내 반도체 및 기술주에 큰 영향을 미칠 전망입니다. 반도체 및 배터리 핵심 소재가 국가 간 전략 무기로 부상함에 따라 관련 국내 기업들은 공급망 안정화와 기술 경쟁력 강화에 주력해야 합니다.",
+    "오늘의투자시사점": "글로벌 고금리 장기화 가능성과 중동발 지정학적 리스크에 대비하여 보수적인 투자 자세와 철저한 위험 관리가 필요합니다. 엔비디아 실적 발표에 따른 국내 반도체 및 기술주의 변동성을 주시하며, 주요 자산별 흐름을 면밀히 분석해야 합니다.",
+    "오늘의한줄": "글로벌 고금리와 지정학적 긴장, 엔비디아 실적이라는 삼중 변수가 국내 증시의 향방을 결정할 한 주가 될 것입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "원·달러 환율 1500원 돌파, 고환율 장기화 우려 증폭",
-      "display_title": "원·달러 환율 1500원 돌파, 고환율 장기화 우려 증폭",
-      "original_title": "1500원 넘어간 원·달러 환율…상승세 이어지나 - 뉴시스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 미국 증시 폭락: 채권 금리 19년 만에 최고치 기록하며 다우존스, S&P 500, 나스닥 급락",
+      "display_title": "오늘 미국 증시 폭락: 채권 금리 19년 만에 최고치 기록하며 다우존스, S&P 500, 나스닥 급락",
+      "original_title": "US stock market crashes today: Dow Jones, S&P 500, and Nasdaq fall hard as bond yields hit 19-year high - - The Economic Times",
       "summary": [
-        "원·달러 환율이 심리적 저항선인 1500원을 넘어섰으며, 환율 상승세 지속 여부에 대한 관심이 집중되고 있다.",
-        "미국의 고금리 장기화, 중동 정세 불안정 등으로 인한 달러 강세와 국내 경기 둔화 우려가 복합적으로 작용하여 원화 약세를 심화시키고 있다.",
-        "고환율은 수출 기업에게 단기적으로 긍정적일 수 있으나, 수입 물가 상승으로 인한 인플레이션 압력과 외국인 투자자 이탈 우려 등 국내 경제 전반에 부정적 영향을 미칠 수 있다."
+        "미국 채권 금리가 19년 만에 최고치를 경신하며 다우존스, S&P 500, 나스닥 등 주요 증시가 급락했습니다.",
+        "금리 급등은 주식 시장의 투자 매력을 감소시키고 기업의 자금 조달 비용을 증가시켜 전반적인 경기 침체 우려를 키웁니다.",
+        "글로벌 고금리 환경의 장기화 가능성에 대비하고, 국내 금융 시장의 연쇄적인 금리 상승 압력을 주시해야 합니다."
       ],
-      "summary_text": "원·달러 환율이 심리적 저항선인 1500원을 넘어섰으며, 환율 상승세 지속 여부에 대한 관심이 집중되고 있다. 미국의 고금리 장기화, 중동 정세 불안정 등으로 인한 달러 강세와 국내 경기 둔화 우려가 복합적으로 작용하여 원화 약세를 심화시키고 있다. 고환율은 수출 기업에게 단기적으로 긍정적일 수 있으나, 수입 물가 상승으로 인한 인플레이션 압력과 외국인 투자자 이탈 우려 등 국내 경제 전반에 부정적 영향을 미칠 수 있다.",
-      "description": "원·달러 환율이 1500원을 넘어서며 급격한 상승세를 보이자 고환율 기조가 장기화될 수 있다는 시장의 우려가 커지고 있다.",
-      "category": "국내 거시경제",
+      "summary_text": "미국 채권 금리가 19년 만에 최고치를 경신하며 다우존스, S&P 500, 나스닥 등 주요 증시가 급락했습니다. 금리 급등은 주식 시장의 투자 매력을 감소시키고 기업의 자금 조달 비용을 증가시켜 전반적인 경기 침체 우려를 키웁니다. 글로벌 고금리 환경의 장기화 가능성에 대비하고, 국내 금융 시장의 연쇄적인 금리 상승 압력을 주시해야 합니다.",
+      "description": "채권 금리가 19년 만에 최고치를 기록하면서 오늘 미국 증시에서 다우존스, S&P 500, 나스닥 지수가 큰 폭으로 하락했습니다.",
+      "category": "증시·금리",
       "importance": 10,
       "market_impact": "부정",
-      "related_sector": "수출주, 수입주, 항공, 정유, 증권, 외국인투자",
+      "related_sector": "금융, 증권",
       "related_stocks": [
         "삼성전자",
-        "현대차",
-        "대한항공"
+        "SK하이닉스",
+        "카카오"
       ],
       "investment_view": "주의",
-      "investment_reason": "고환율은 국내 기업의 실적과 외국인 투자자 동향에 직접적인 영향을 미치며, 국내 거시경제 환경을 불안정하게 만들 수 있어 전반적인 투자 전략에 대한 재검토가 필요합니다.",
-      "key_signal": "한국은행의 환율 방어 개입 여부와 미국의 금리 인하 기대감 변화가 원·달러 환율의 추가 상승 여부를 결정할 것입니다.",
+      "investment_reason": "19년 만에 최고치를 기록한 채권 금리는 주식 시장에 큰 부담으로 작용하며 국내 증시에도 심각한 하방 압력을 가할 수 있습니다.",
+      "key_signal": "미국 연준의 금리 정책 스탠스 변화 가능성과 국채 금리 안정화 여부가 국내 증시 향방을 결정할 핵심 지표입니다.",
       "keywords": [
-        "원달러 환율",
-        "고환율",
-        "달러 강세",
-        "인플레이션",
-        "한국은행"
+        "채권금리",
+        "미국증시",
+        "금리인상",
+        "증시폭락",
+        "고금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wNlkyLUszeVF1cy1Way1rb2xUTkRvUm5QX054Mi1vVkNaVEhqMUFLUGRQS0cxYW9MSURzekVpYWtPN2NYdUE0TEEtZWhwQmZrRXk1T2g1X3Fzd1R0bkYwQnFwcmh5V3RvZWU0RVdDU2FXdDAyaUdrV9IBeEFVX3lxTE1wNlkyLUszeVF1cy1Way1rb2xUTkRvUm5QX054Mi1vVkNaVEhqMUFLUGRQS0cxYW9MSURzekVpYWtPN2NYdUE0TEEtZWhwQmZrRXk1T2g1X3Fzd1R0bkYwQnFwcmh5V3RvZWU0RVdDU2FXdDAyaUdrVw?oc=5",
-      "published": "2026-05-19 06:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOdDFLR3YtUE1FZGtsUXVEa1BXOEhiV3QxY3QxUkUxNkhER2Y0ek1pVlZsUnJQcDZGcGNNR05qVFFSa0c5R3d3bGZNdS02TEhtMFhINXZGVmNYOE5GY1dEa1ZGN2JiN2NBa3lERHh2VUlvUjlEMThhQlRhbGJ1OWZESHk0VE81cTZuNDJsY2RhcjhwZ2gyZjNTUVZlVy1aSzBPbmZvQ3g5QXBIeVdwNl9ob2Z5Y2dacEt4d1lTWFdiVTV1cDRsRkg1VlBOSTJJb3E4QXJ0NU1GeW5Ja0NlMzBXUVk0Z3Ewdy1VcFg0YzNETnJ1V3had3pDTHJjUVdxMEJPUXdRQnZMbmx2S0xSbk8zMEh6ZTdsYzZoc3Y2QW82OWtHM0lobGE3MWJuN2ttSkhfSDY4N2pVUzVRWFdyUTRma0RSblN3UXRGVjZYSHFWZDdjdmhlR25IbHVEQWtvMU1m0gHgAkFVX3lxTE50MUtHdi1QTUVka2xRdURrUFc4SGJXdDFjdDFSRTE2SERHZjR6TWlWVmxSclBwNkZwY01HTmpUUVJrRzlHd3dsZk11LTZMSG0wWEg1dkZWY1g4TkZjV0RrVkY3YmI3Y0FreUREeHZVSW9SOUQxOGFCVGFsYnU5ZkRIeTRUTzVxNm40MmxjZGFyOHBnaDJmM1NRVmVXLVpLME9uZm9DeDlBcEh5V3A2X2hvZnljZ1pwS3h3WVNYV2JVNXVwNGxGSDVWUE5JMklvcThBcnQ1TUZ5bklrQ2UzMFdRWTRncTB3LVVwWDRjM0ROcnVXeFp3ekNMcmNRV3EwQk9Rd1FCdkxubHZLTFJuTzMwSHplN2xjNmhzdjZBbzY5a0czSWhsYTcxYm43a21KSF9INjg3alVTNVFYV3JRNGZrRFJuU3dRdEZWNlhIcVZkN2N2aGVHbkhsdURBa28xTWY?oc=5",
+      "published": "2026-05-20 00:54",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "월가, 반도체주 하락 및 국채 수익률 상승에 손실 확대",
-      "display_title": "월가, 반도체주 하락 및 국채 수익률 상승에 손실 확대",
-      "original_title": "Wall St extends losses as chip stocks slide, Treasury yields climb By Reuters - Investing.com",
+      "title": "G7, 이란 전쟁 발발로 인한 글로벌 공포 확산으로 경제 혼란 직면",
+      "display_title": "G7, 이란 전쟁 발발로 인한 글로벌 공포 확산으로 경제 혼란 직면",
+      "original_title": "G7 Faces Economic Chaos as Iran War Sparks Global Panic - The Eastern Herald",
       "summary": [
-        "월스트리트가 반도체 주식의 하락과 미 국채 수익률 상승으로 인해 손실을 확대했다.",
-        "금리 상승은 기술주 전반에 부담을 주지만, 특히 자본 집약적인 반도체 산업은 높은 금리로 인한 차입 비용 증가 및 투자 위축 우려에 더 민감하게 반응한다.",
-        "국내 증시에서 높은 비중을 차지하는 반도체 산업에 대한 투자 심리 위축은 전체 시장에 부정적인 영향을 미칠 수 있으므로, 관련 기업들의 실적 전망과 금리 환경 변화에 주의해야 한다."
+        "이란 전쟁 발발 가능성으로 인한 글로벌 공포가 확산되며 G7 국가들이 경제적 혼란에 직면하고 있습니다.",
+        "중동 지역의 지정학적 긴장은 유가 급등, 공급망 교란, 투자 심리 위축 등 광범위한 부정적 영향을 초래할 수 있습니다.",
+        "글로벌 지정학적 리스크는 국내 실물 경제와 금융 시장에도 심각한 영향을 미치므로 비상 대비 및 위험 관리가 필요합니다."
       ],
-      "summary_text": "월스트리트가 반도체 주식의 하락과 미 국채 수익률 상승으로 인해 손실을 확대했다. 금리 상승은 기술주 전반에 부담을 주지만, 특히 자본 집약적인 반도체 산업은 높은 금리로 인한 차입 비용 증가 및 투자 위축 우려에 더 민감하게 반응한다. 국내 증시에서 높은 비중을 차지하는 반도체 산업에 대한 투자 심리 위축은 전체 시장에 부정적인 영향을 미칠 수 있으므로, 관련 기업들의 실적 전망과 금리 환경 변화에 주의해야 한다.",
-      "description": "미 국채 수익률이 상승하는 가운데 반도체 관련 주식들이 약세를 보이면서 월스트리트의 손실이 확대되었다.",
-      "category": "증시·금리",
-      "importance": 9,
+      "summary_text": "이란 전쟁 발발 가능성으로 인한 글로벌 공포가 확산되며 G7 국가들이 경제적 혼란에 직면하고 있습니다. 중동 지역의 지정학적 긴장은 유가 급등, 공급망 교란, 투자 심리 위축 등 광범위한 부정적 영향을 초래할 수 있습니다. 글로벌 지정학적 리스크는 국내 실물 경제와 금융 시장에도 심각한 영향을 미치므로 비상 대비 및 위험 관리가 필요합니다.",
+      "description": "이란 전쟁 발발이 글로벌 시장에 공포를 확산시키면서 G7 국가들이 경제적 혼란에 직면하게 되었습니다.",
+      "category": "글로벌 경제",
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "반도체, 기술",
+      "related_sector": "정유, 방산, 해운",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "S-Oil",
+        "한국항공우주",
+        "HMM"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 반도체주의 약세는 글로벌 반도체 사이클 및 국내 반도체 기업들의 주가에 직접적인 영향을 미칠 수 있어 면밀한 분석이 필요합니다.",
-      "key_signal": "미국 반도체 지수의 추가 하락 여부와 미 국채 수익률의 안정화 여부가 국내 반도체 관련주에 핵심적인 영향을 미칠 것입니다.",
+      "investment_reason": "이란 전쟁은 글로벌 경제에 막대한 혼란을 야기하고 유가 폭등 및 공급망 교란을 통해 국내 경제에 치명적인 영향을 줄 수 있습니다.",
+      "key_signal": "이란을 포함한 중동 지역의 군사적 긴장 완화 또는 확전 여부, 그리고 주요 산유국의 대응을 예의주시해야 합니다.",
       "keywords": [
-        "월가",
-        "반도체주",
-        "국채 수익률",
-        "금리 상승",
-        "기술주"
+        "이란전쟁",
+        "지정학적리스크",
+        "글로벌경제",
+        "유가급등",
+        "공급망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajNLMmlPOXEyNDhuTzJma3dKQnBwdXhOOUtnMnFkZzZTcFRqeEV4MGVEdmUzZ3hwU2gtRzItYmhtRE1RMHlxbklwMHFSWGJUd2pvU0VvOENrdXA2Qnk5X1dKNFVkNlNtTDBfeGJub2lLWXY0VXdJcVNIZmJKUkYzQlNlUFpQNVE5bEM5NjgyMVo1cUN4aFc1bkpQZlE0MHJQUlE?oc=5",
-      "published": "2026-05-19 02:49",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2xKWUpQaU00QlFXeVROQzM3X3k2SEVMNndQMGhfVXlZbElmMnoxdkQ3UWhzZjFWbjA3MC1UT25MLVVhem16MTg5ZU1vZ3VybGZxX1JucXNHem1nNFFqbGhUd0pnOFZyT1JrVFdhLTRqUF9WTTExdFprQUFVdFo5OVh3Z0ZQVlhzam5mUDNmbGRWZFU?oc=5",
+      "published": "2026-05-20 02:35",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -112,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 혼조세: 다우 하락, 나스닥·S&P 500 보합, 유가 108달러 급등 (5/18)",
-      "display_title": "미국 증시 혼조세: 다우 하락, 나스닥·S&P 500 보합, 유가 108달러 급등 (5/18)",
-      "original_title": "US Stock Market Today [18 May, 2026]: Dow Falls, Nasdaq & S&P 500 Flat as Bond Yields Shake, Oil Surges $108 on US-Iran Deal; Gold & Silver Hit, Bitcoin Retreats $77k | What Investors Should Watch - The Sunday Guardian",
+      "title": "미국 증시 오늘(5월 19일): 다우 400p 하락, 반도체주 폭락에 나스닥·S&P 500 동반 하락; 미-이란 합의에 유가 112달러 급등, 금·은·비트코인 7만 7천 달러 후퇴",
+      "display_title": "미국 증시 오늘(5월 19일): 다우 400p 하락, 반도체주 폭락에 나스닥·S&P 500 동반 하락; 미-이란 합의에 유가 112달러 급등, 금·은·비트코인 7만 7천 달러 후퇴",
+      "original_title": "US Stock Market Today [19 May, 2026]: Dow Slips 400, Nasdaq & S&P 500 Drop as Chip Stocks Crash, Oil Surges $112 on US-Iran Deal; Gold & Silver, Bitcoin Retreats $77k | What Investors Should Watch - The Sunday Guardian",
       "summary": [
-        "5월 18일 미국 증시는 다우 하락, 나스닥과 S&P 500 보합 마감했으며, 유가가 108달러로 급등했다.",
-        "채권 수익률 변동성과 미-이란 합의에 따른 유가 급등이 시장 전반에 걸쳐 경계심을 키웠고, 안전자산 및 암호화폐도 동반 하락했다.",
-        "유가 상승과 채권 수익률 변동은 인플레이션 우려를 자극하고 기술주에 부담을 주어 국내 증시에도 간접적인 영향을 미칠 수 있으므로 유의해야 한다."
+        "미국 주요 증시 지수(다우, 나스닥, S&P 500)가 반도체주 폭락과 함께 하락했습니다.",
+        "미-이란 합의가 유가 급등을 촉발했으며, 금, 은, 비트코인 등 안전자산은 후퇴하는 모습을 보였습니다.",
+        "글로벌 시장의 복합적인 요인들이 국내 증시에 미칠 파장과 주요 자산별 흐름을 주시해야 합니다."
       ],
-      "summary_text": "5월 18일 미국 증시는 다우 하락, 나스닥과 S&P 500 보합 마감했으며, 유가가 108달러로 급등했다. 채권 수익률 변동성과 미-이란 합의에 따른 유가 급등이 시장 전반에 걸쳐 경계심을 키웠고, 안전자산 및 암호화폐도 동반 하락했다. 유가 상승과 채권 수익률 변동은 인플레이션 우려를 자극하고 기술주에 부담을 주어 국내 증시에도 간접적인 영향을 미칠 수 있으므로 유의해야 한다.",
-      "description": "5월 18일 미국 증시에서 다우존스는 하락하고 나스닥과 S&P 500은 보합세를 보인 가운데, 채권 수익률 변동과 미-이란 합의에 따른 유가 급등(108달러)이 시장에 영향을 미쳤다. 금, 은, 비트코인 또한 하락했다.",
+      "summary_text": "미국 주요 증시 지수(다우, 나스닥, S&P 500)가 반도체주 폭락과 함께 하락했습니다. 미-이란 합의가 유가 급등을 촉발했으며, 금, 은, 비트코인 등 안전자산은 후퇴하는 모습을 보였습니다. 글로벌 시장의 복합적인 요인들이 국내 증시에 미칠 파장과 주요 자산별 흐름을 주시해야 합니다.",
+      "description": "5월 19일 미국 증시에서 다우존스 지수는 400포인트 하락했으며, 반도체주 폭락 여파로 나스닥과 S&P 500 지수도 하락세를 보였습니다. 미-이란 합의로 유가는 배럴당 112달러로 급등했고, 금, 은, 비트코인은 7만 7천 달러 수준으로 후퇴했습니다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "에너지, 기술, 금융",
+      "related_sector": "반도체, 유가, 암호화폐",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "삼성전자",
+        "SK하이닉스",
+        "S-Oil"
       ],
       "investment_view": "주의",
-      "investment_reason": "유가 급등은 인플레이션 압력을 가중시키고 채권 수익률 변동과 함께 국내외 증시 변동성 확대로 이어질 수 있어 투자에 주의가 필요합니다.",
-      "key_signal": "국제 유가 흐름과 채권 수익률 동향이 글로벌 증시 방향성을 결정하는 핵심 요인이 될 것입니다.",
+      "investment_reason": "미국 증시 하락, 특히 반도체주의 폭락은 국내 기술주 및 증시 전반에 부정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "미-이란 합의의 구체적인 내용과 글로벌 에너지 시장 및 반도체 산업에 미칠 파급 효과를 주시해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "유가 급등",
-        "채권 수익률",
-        "인플레이션",
-        "기술주"
+        "미국증시",
+        "반도체",
+        "유가",
+        "국제유가",
+        "비트코인"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPQ3dKMlVPc0dUeTdKU080Yy11YUpaZnk2RkFsNXdRTkpjMUNIOGhTQmdxN1R3N21ONDM5MVNRcmVHbTVCMng0elhraVBBcEV2NTdVNmdNNjVJdTU3UXhxbHAyVV93TEcxUHhab1pQQ1dZa25UdzVfZDRIZXFSS0Jjal8xUXRnWlJXNDFNdkhlNHZtYTJaVTQxRWhWNHVvYlJkUXd1eF9LaVpwYTVtUE9XLTZ0VllnMzEzS09TVnpqQWN6MTlYZW41ZkNPcmhtRXEzOTBrcHNHaldqQkdXSkZsTUdsYzlMVzYycDZMVzJJN0ZKUG43ejAzOEhKdGZhX3FrRlNfZlhFalpkVFNua0tTOXV0VFVObVRqeEdBck9GYXRmZ0NqU2ZpZlc5X1NpUlZkSnVnbDJFRDVsVkpSTnlLYjFCUmJFNTVSV1RV?oc=5",
-      "published": "2026-05-19 00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNMzc2aDVqcE5ld0FtbmdkcW56QkRZSDgyaVltNzFfUW1xSEN6S0c4R0ZCYzRvN1gwT0htLVJGQ3BjejQ3a0ZJb2ZqYjZFOWRXLWxaOVNMOXV4VzI3T0NUMnJWSHlkTVlmako1TVFxNUdZSUZmMmEzZDZuMngyWkplR01GYy0ycURwdF9qZ0xMV2JURFA3ZVJ3X1ZTMmJtU1V1c2RoQnQ1YzN1RXJiOFFlcEx5N1ZiazNBc1JGcFZPNGVuaWhDa2hCMXVRMzJkOGFrLXBBNnBpQ3dISlBXZThSLUltZC1lWlRUVm1scE96NHdKYklOcWdVXzNlR1VSMzJkMnBudHFCek1tMFBzanl6cm43VGg5TlhZYVRCR2J0MzFZOVNLOXROU1lXWGJwTlhqZEpTeU9TZk5HVWx6QjdOUmFYVlAtWXp6UDFBZHd0eWQ?oc=5",
+      "published": "2026-05-20 00:12",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,36 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥 종합지수 기술주 매도세 속 1.5% 하락 마감",
-      "display_title": "나스닥 종합지수 기술주 매도세 속 1.5% 하락 마감",
-      "original_title": "Nasdaq composite falls 1.5% amid tech selloff as market heads toward close - eciks.org",
+      "title": "오늘 미국 증시: S&P 500 및 나스닥, 채권 금리 상승과 지정학적 긴장 속에 후퇴",
+      "display_title": "오늘 미국 증시: S&P 500 및 나스닥, 채권 금리 상승과 지정학적 긴장 속에 후퇴",
+      "original_title": "US Stock Market Today: S&P 500 and NASDAQ Retreat Amid Rising Bond Yields and Geopolitical Tensions - Analytics Insight",
       "summary": [
-        "미국 나스닥 종합지수가 기술주 매도세의 영향으로 1.5% 하락 마감했다.",
-        "고금리 환경 지속에 대한 우려와 채권 수익률 상승이 기술주에 대한 투자 심리를 위축시키며 차익 실현 매물이 출회된 것으로 분석된다.",
-        "국내 증시의 기술주 비중이 높은 점을 고려할 때, 미국 기술주의 약세는 국내 관련 섹터에도 부정적인 영향을 미칠 수 있으므로 주의 깊게 살펴야 한다."
+        "S&P 500과 나스닥 지수가 채권 금리 상승 및 지정학적 긴장이라는 이중 악재로 하락했습니다.",
+        "지정학적 긴장은 시장 불확실성을 증폭시키고 투자 심리를 위축시키는 주요 요인으로 작용합니다.",
+        "글로벌 증시 하락은 국내 시장에도 영향을 미치므로, 지정학적 리스크와 금리 추이를 동시에 고려해야 합니다."
       ],
-      "summary_text": "미국 나스닥 종합지수가 기술주 매도세의 영향으로 1.5% 하락 마감했다. 고금리 환경 지속에 대한 우려와 채권 수익률 상승이 기술주에 대한 투자 심리를 위축시키며 차익 실현 매물이 출회된 것으로 분석된다. 국내 증시의 기술주 비중이 높은 점을 고려할 때, 미국 기술주의 약세는 국내 관련 섹터에도 부정적인 영향을 미칠 수 있으므로 주의 깊게 살펴야 한다.",
-      "description": "마감 직전까지 기술주 매도세가 이어지면서 나스닥 종합지수가 1.5% 하락 마감했다.",
+      "summary_text": "S&P 500과 나스닥 지수가 채권 금리 상승 및 지정학적 긴장이라는 이중 악재로 하락했습니다. 지정학적 긴장은 시장 불확실성을 증폭시키고 투자 심리를 위축시키는 주요 요인으로 작용합니다. 글로벌 증시 하락은 국내 시장에도 영향을 미치므로, 지정학적 리스크와 금리 추이를 동시에 고려해야 합니다.",
+      "description": "오늘 미국 증시에서 S&P 500과 나스닥 지수가 채권 금리 상승과 지정학적 긴장의 복합적인 영향으로 하락했습니다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "기술, 반도체, 소프트웨어",
+      "related_sector": "전반",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "나스닥 기술주의 하락세는 국내 기술 및 반도체 섹터에 직접적인 영향을 미칠 수 있어 관련 투자 종목에 대한 면밀한 검토가 필요합니다.",
-      "key_signal": "미국 기술주의 추가 하락 여부와 국내 반도체 및 IT 기업들의 주가 흐름을 주시해야 합니다.",
+      "investment_reason": "미국 증시가 복합적인 글로벌 악재로 하락하며 국내 증시에도 투자 심리 위축 및 변동성 확대 가능성이 커졌기 때문입니다.",
+      "key_signal": "주요 지정학적 갈등 지역의 정세 변화와 글로벌 채권 시장의 금리 변동 추이를 면밀히 지켜봐야 합니다.",
       "keywords": [
-        "나스닥",
-        "기술주",
-        "매도세",
-        "고금리",
-        "반도체"
+        "미국증시",
+        "채권금리",
+        "지정학적긴장",
+        "S&P500",
+        "나스닥"
       ],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnV5NmlCMEpGaXc3SDBEUTBhTFF2SDFSREQ4QmtUTmpyaHU5dC15N29KNjA3VDhHZERZc1JIU0gwUmp4RzV1bFk5TGs2MkoxVDVPenBfdWRwZDdrMlItS1ZDTXhNZm16d3hLSkthSC00WDBGZVZQWVlZeTEweS1kV1NsTGVyV19ZVm1NVnAzR1pZNTN0dUF1cnFadFNVSm1MUExyaA?oc=5",
-      "published": "2026-05-19 06:36",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekRjdnBPSTBHZ0I1VW1oZ2JPZWI5Ny1yVUlpT2VMWTRXdTlLT2dqWVBoRWRXdUVGRGs5V0FieUNocHJrMGRpTVR4NU12SzExbTdLcGZ2RWN2SkEwUDJMOFhpMndDdG9EX21wSngxUkdMOXZWTFhHTXJyYXlvRG9uaFE0dFlZLTJ0b2FLRGhQVWFZUTJTUUFNSlUwNUxYTFp6Q0Ezb05WcHlqRHBDMzNjRm9SWE5qQnM0YjAyNWsyRk9xUTZkUjhZNWJGSnRmQ0RKWE9J0gHgAUFVX3lxTE9kbUxLVlBGWTFYdWltY1R3MEpLYmpxeWZZUFNTRXlvRWVzdlFjZE1mcmZuQU5sWmhjMzZhd3EzSzU2T1Q1YjhBSHlvU1hiZlpTMTIzZVFjOXI2U1p3NlVQWExpakxFZHBoY2VWbS1xa0ZZMGhBRkpyT1R3Z2RUZWhxODNKNGtraWRZVktDaGtBc1lHT05nS1I0NFM5d2p5aHZsSG44dDhFdXE3QVFhcGNMRlV6VkNrX2ZHWC1oS0VHSGZrWHR3UGRNQ0JWRDk0RUNoWUdfRTJmYTJHMDRsZnpC?oc=5",
+      "published": "2026-05-20 02:30",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -192,41 +193,42 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 및 차입 비용 우려 속 나스닥 증시 하락 주도",
-      "display_title": "유가 및 차입 비용 우려 속 나스닥 증시 하락 주도",
-      "original_title": "Nasdaq leads equity losses with oil, borrowing costs in focus - Reuters",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "한국 증시, 외국인 매도 폭탄에 급락... 20일 엔비디아 실적이 미 증시와 국내 증시를 살릴까?",
+      "display_title": "한국 증시, 외국인 매도 폭탄에 급락... 20일 엔비디아 실적이 미 증시와 국내 증시를 살릴까?",
+      "original_title": "한국증시, 급락 '외국인 매도 폭탄'...20일 엔비디아 실적이 미장 및 국장 살릴까? [이완수의 한국금융시장 핫이슈] - citytimes.co.kr",
       "summary": [
-        "나스닥 지수가 유가 상승과 높은 차입 비용(금리)에 대한 우려로 인해 증시 하락을 주도했다.",
-        "국제 유가의 지속적인 강세는 인플레이션 압력을 높이고 기업들의 비용 부담을 가중시키며, 높은 금리는 기업의 투자 및 기술주의 밸류에이션에 부정적인 영향을 미친다.",
-        "기술주 중심의 국내 증시 역시 글로벌 유가 및 금리 환경 변화에 민감하게 반응할 수 있으므로, 관련 거시경제 지표를 지속적으로 모니터링할 필요가 있다."
+        "한국 증시가 외국인의 대규모 매도세로 급락했으며, 투자자들은 엔비디아 실적 발표에 촉각을 곤두세우고 있습니다.",
+        "엔비디아는 글로벌 AI 및 반도체 산업의 핵심 기업으로, 실적은 관련 섹터 및 전체 증시에 큰 영향을 미칩니다.",
+        "엔비디아 실적 결과에 따라 국내 반도체 및 기술주가 반등의 기회를 맞거나 추가 하락 압력을 받을 수 있습니다."
       ],
-      "summary_text": "나스닥 지수가 유가 상승과 높은 차입 비용(금리)에 대한 우려로 인해 증시 하락을 주도했다. 국제 유가의 지속적인 강세는 인플레이션 압력을 높이고 기업들의 비용 부담을 가중시키며, 높은 금리는 기업의 투자 및 기술주의 밸류에이션에 부정적인 영향을 미친다. 기술주 중심의 국내 증시 역시 글로벌 유가 및 금리 환경 변화에 민감하게 반응할 수 있으므로, 관련 거시경제 지표를 지속적으로 모니터링할 필요가 있다.",
-      "description": "유가 상승과 높은 차입 비용에 대한 투자자들의 우려가 커지면서 나스닥 지수가 전체 주식 시장의 하락을 주도했다.",
+      "summary_text": "한국 증시가 외국인의 대규모 매도세로 급락했으며, 투자자들은 엔비디아 실적 발표에 촉각을 곤두세우고 있습니다. 엔비디아는 글로벌 AI 및 반도체 산업의 핵심 기업으로, 실적은 관련 섹터 및 전체 증시에 큰 영향을 미칩니다. 엔비디아 실적 결과에 따라 국내 반도체 및 기술주가 반등의 기회를 맞거나 추가 하락 압력을 받을 수 있습니다.",
+      "description": "한국 증시가 외국인 매도세로 급락한 가운데, 20일 발표될 엔비디아 실적이 미국 증시와 국내 증시의 반등을 이끌어낼 수 있을지 주목됩니다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "기술, 에너지, 금융",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "반도체, AI",
       "related_stocks": [
-        "네이버",
-        "카카오"
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
       ],
-      "investment_view": "주의",
-      "investment_reason": "유가 및 금리 상승은 기술 성장주의 투자 매력을 감소시키고 기업 이익에 부정적인 영향을 미쳐 투자 심리를 위축시킬 수 있습니다.",
-      "key_signal": "국제 유가 및 미국 장기 금리 동향이 국내 성장주 및 기술주의 투자 방향성을 결정하는 주요 변수입니다.",
+      "investment_view": "관심",
+      "investment_reason": "엔비디아 실적은 글로벌 기술주 센티멘트와 국내 반도체 관련주에 직접적인 영향을 미치므로 투자 전략 수립에 필수적입니다.",
+      "key_signal": "엔비디아의 실적 발표 내용, 특히 매출, 이익, 향후 가이던스 및 주가 반응을 면밀히 분석해야 합니다.",
       "keywords": [
-        "나스닥",
-        "유가",
-        "금리",
-        "차입 비용",
-        "기술주"
+        "한국증시",
+        "외국인매도",
+        "엔비디아",
+        "반도체",
+        "AI반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlh5Y3pEUnpYTGgwMlRpWng4QW9kN0RZQzZTTjFJektBc1B5dmowTEZxaUozYkVmY0xiTlViVkRXblc4dmJsbl93dlQ5ZjVTNlR4TzZWaTRRWkVzTF9fRGR0WTI1Vm9pOVpRUE5tWS1xWHp3eGV1REkwTTl0NkhKSFl3YU16UUtlWnBzbm1LWHVfYmlI?oc=5",
-      "published": "2026-05-19 05:55",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ubm1BaVE3S29TejliV3FRWEJJZlhPR1pra0lBeGxXWDF5TkxMRkFVM1BIUlRfTXEyM3NBRGFTR29GU1QwRC1reHpnSVhkTThnOVczT0tjUWxTdUZFN2h6QzNHR0xWTkFMX21HQkVn0gFyQVVfeXFMT1JKM0tkaXoxMzFVUWhwcW5oc1FwOUI4cUUwUWZZT21FMGxiaFNISS1tajFSNEdZUHhlcm9Oclo4eTU4VE1tZ3RFbkxlM245dVUwVGNhWnRyUE9pZzRUUEJaazZWUFFrVllEaHVoVkVvRlBn?oc=5",
+      "published": "2026-05-19 17:05",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -236,37 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "AI 열풍에 배터리 산업 반등 조짐, 삼성SDI ESS 성장 가속화",
-      "display_title": "AI 열풍에 배터리 산업 반등 조짐, 삼성SDI ESS 성장 가속화",
-      "original_title": "[판 바꾸는 AI] AI가 살린 배터리 반등…삼성SDI, ESS 성장축 본격화 - 한스경제",
+      "title": "[AI로 읽는 경제] ③ 반도체·배터리 소재도 무기가 됐다",
+      "display_title": "[AI로 읽는 경제] ③ 반도체·배터리 소재도 무기가 됐다",
+      "original_title": "[AI로 읽는 경제] ③ ﻿반도체·배터리 소재도 무기가 됐다 - 뉴스핌",
       "summary": [
-        "AI 기술의 발전이 배터리 산업의 반등을 이끌고 있으며, 특히 삼성SDI는 ESS(에너지 저장 시스템) 사업을 새로운 성장 동력으로 적극 추진 중이다.",
-        "AI 데이터센터 확충에 따른 전력 수요 급증과 신재생에너지 확대 정책이 ESS 시장의 폭발적인 성장을 견인하며 배터리 기업들에게 새로운 기회를 제공하고 있다.",
-        "AI 및 신재생에너지 관련 산업의 성장은 배터리 섹터 전반에 긍정적인 영향을 미칠 수 있으며, ESS 시장의 선점은 해당 기업의 장기 성장 동력 확보에 중요하므로 관련 종목에 대한 관심이 필요하다."
+        "반도체와 배터리 핵심 소재가 국가 간 전략적 경쟁의 '무기'로 부상하며 중요성이 커지고 있습니다.",
+        "이는 글로벌 공급망 재편과 자국 중심주의 심화로 인해 첨단 산업의 핵심 소재 확보가 국가 안보와 직결되는 양상입니다.",
+        "관련 국내 기업들은 공급망 다변화 및 기술 자립을 통해 경쟁력을 강화해야 하며, 정부의 지원 정책 또한 중요합니다."
       ],
-      "summary_text": "AI 기술의 발전이 배터리 산업의 반등을 이끌고 있으며, 특히 삼성SDI는 ESS(에너지 저장 시스템) 사업을 새로운 성장 동력으로 적극 추진 중이다. AI 데이터센터 확충에 따른 전력 수요 급증과 신재생에너지 확대 정책이 ESS 시장의 폭발적인 성장을 견인하며 배터리 기업들에게 새로운 기회를 제공하고 있다. AI 및 신재생에너지 관련 산업의 성장은 배터리 섹터 전반에 긍정적인 영향을 미칠 수 있으며, ESS 시장의 선점은 해당 기업의 장기 성장 동력 확보에 중요하므로 관련 종목에 대한 관심이 필요하다.",
-      "description": "인공지능(AI) 기술 발전이 배터리 산업에 새로운 성장 동력을 제공하며 반등 조짐을 보이는 가운데, 삼성SDI가 에너지 저장 시스템(ESS)을 핵심 성장축으로 본격 육성하고 있다.",
+      "summary_text": "반도체와 배터리 핵심 소재가 국가 간 전략적 경쟁의 '무기'로 부상하며 중요성이 커지고 있습니다. 이는 글로벌 공급망 재편과 자국 중심주의 심화로 인해 첨단 산업의 핵심 소재 확보가 국가 안보와 직결되는 양상입니다. 관련 국내 기업들은 공급망 다변화 및 기술 자립을 통해 경쟁력을 강화해야 하며, 정부의 지원 정책 또한 중요합니다.",
+      "description": "AI 분석을 통해 본 경제 시리즈의 세 번째 이야기로, 반도체 및 배터리 핵심 소재들이 국제 관계에서 전략적 무기화되는 현상을 다룹니다.",
       "category": "기업·산업",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "이차전지, 에너지 저장 장치(ESS), 인공지능(AI)",
+      "market_impact": "중립",
+      "related_sector": "반도체 소재, 2차전지 소재, 핵심광물",
       "related_stocks": [
-        "삼성SDI",
-        "LG에너지솔루션",
+        "동진쎄미켐",
+        "포스코퓨처엠",
         "에코프로비엠"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI발 전력 수요 증가와 ESS 시장 확대는 이차전지 기업들의 중장기 성장 모멘텀을 강화할 수 있어 긍정적인 투자 기회가 될 수 있습니다.",
-      "key_signal": "AI 데이터센터 구축 현황과 각 배터리 기업의 ESS 수주 및 capa 증설 계획을 주시하며, 실제 실적 개선으로 이어지는지 확인해야 합니다.",
+      "investment_reason": "핵심 소재의 무기화는 관련 국내 기업들의 경쟁력과 공급망 전략에 큰 영향을 미치므로 투자 기회를 모색할 수 있습니다.",
+      "key_signal": "정부의 핵심 소재 자립화 정책 및 관련 기업들의 R&D 투자 확대와 해외 공급망 확보 노력을 주시해야 합니다.",
       "keywords": [
-        "AI",
+        "핵심소재",
+        "반도체",
         "배터리",
-        "삼성SDI",
-        "ESS",
-        "이차전지"
+        "공급망",
+        "자원안보"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RVkFPNTAwUHJiMHlXVGdiVnlLSHktU2dJOVdZZEdCRFN2dV9GbkhkUDBDazJhQ2tYT05DU0hScmhVU244anlnQzRkd05ENmN5WHR3UEVyTWN3dGNsS0E4U19EdVk4MHpOT2Fz0gFvQVVfeXFMTkJaODVMSE04ZTZiSEFFSXg0c3U2di01RnVIYXZ1aEhIcE10eFR3WUd1UDQ0UDF4YjlPV01xMUdWanV6M3Rfb3RnWEEzMjlZcE5nb0otRUo2ZXBUM3ZkcFB2U3ZEZkRvNzFZMGdaaXFr?oc=5",
-      "published": "2026-05-19 07:30",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qRTNfQkZRLXJBSTYyay1qUnl4TWM0aXJheWduZmFWcDd6Rjh1WnN6OENkRllCWmFlVnBZMnlpaFhCbmtSSWIyRFFkc3ZMYkdiaDUyaDdLTG9nNmNr?oc=5",
+      "published": "2026-05-20 06:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -280,66 +282,66 @@
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "주의",
-      "reason": "고환율 장기화 우려와 글로벌 반도체 및 기술주 약세가 복합적으로 작용하며, 국내 증시 전반과 특히 대표 종목인 삼성전자의 투자 심리 위축이 예상됩니다.",
+      "opinion": "관심",
+      "reason": "엔비디아 실적 발표가 글로벌 기술주 및 국내 반도체 관련주 센티멘트에 직접적인 영향을 미칠 예정이므로, 그 결과에 따라 투자 전략을 수립할 필요가 있습니다. 다만, 미국 증시 반도체주 폭락세와 채권 금리 상승 압력은 여전히 부담입니다.",
       "check_points": [
-        "원·달러 환율 추이 및 외국인 투자자 동향",
-        "글로벌 반도체 업황 지표 및 경쟁사 실적",
-        "나스닥 기술주의 추가 하락 여부"
+        "엔비디아 실적 발표 결과 및 가이던스",
+        "미국 채권 금리 동향 및 달러 인덱스",
+        "외국인 투자자의 국내 반도체주 매매 동향"
       ],
       "related_news_titles": [
-        "원·달러 환율 1500원 돌파, 고환율 장기화 우려 증폭",
-        "월가, 반도체주 하락 및 국채 수익률 상승에 손실 확대",
-        "나스닥 종합지수 기술주 매도세 속 1.5% 하락 마감"
+        "한국 증시, 외국인 매도 폭탄에 급락... 20일 엔비디아 실적이 미 증시와 국내 증시를 살릴까?",
+        "미국 증시 오늘(5월 19일): 다우 400p 하락, 반도체주 폭락에 나스닥·S&P 500 동반 하락"
       ]
     },
     {
       "rank": 2,
-      "name": "삼성SDI",
+      "name": "S-Oil",
       "market": "KOSPI",
-      "sector": "이차전지",
-      "opinion": "관심",
-      "reason": "AI 발 전력 수요 증가에 따른 에너지 저장 장치(ESS) 시장 확대와 이차전지 산업의 중장기 성장 모멘텀이 강화될 것으로 예상되며, 삼성SDI에 긍정적인 투자 기회가 될 수 있습니다.",
+      "sector": "정유",
+      "opinion": "주의",
+      "reason": "이란 전쟁 발발 우려가 고조되며 국제 유가가 급등하는 등 글로벌 경제 혼란이 예상됩니다. 이는 정유 업종의 변동성을 크게 확대시킬 수 있으므로 유가 및 지정학적 리스크 변화에 대한 면밀한 모니터링이 필요합니다.",
       "check_points": [
-        "ESS 신규 수주 및 매출 증가 여부",
-        "글로벌 AI 데이터센터 투자 확대 동향",
-        "유럽/미국 등 주요국의 전력 인프라 투자 계획"
+        "이란 사태 관련 중동 지정학적 리스크 전개 방향",
+        "국제 유가 (WTI, 브렌트유) 변동성",
+        "글로벌 에너지 공급망 교란 여부"
       ],
       "related_news_titles": [
-        "AI 열풍에 배터리 산업 반등 조짐, 삼성SDI ESS 성장 가속화"
+        "G7, 이란 전쟁 발발로 인한 글로벌 공포 확산으로 경제 혼란 직면",
+        "미국 증시 오늘(5월 19일): 다우 400p 하락, 반도체주 폭락에 나스닥·S&P 500 동반 하락; 미-이란 합의에 유가 112달러 급등"
       ]
     },
     {
       "rank": 3,
-      "name": "SK하이닉스",
+      "name": "한국항공우주",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "방산",
       "opinion": "주의",
-      "reason": "미국 반도체주의 약세와 나스닥 기술주 매도세가 글로벌 반도체 사이클 둔화 우려를 가중시키며, 국내 주요 메모리 반도체 기업인 SK하이닉스의 주가에 부정적인 영향을 미칠 수 있습니다.",
+      "reason": "이란 전쟁 우려와 같은 지정학적 긴장이 고조될 경우, 글로벌 경제 전반에 부정적인 영향을 미치는 동시에 방위산업 섹터에 대한 투자 심리가 단기적으로 변동할 수 있습니다. 현재는 시장 전체의 악재가 우세하나, 상황 변화에 따른 모니터링이 필요합니다.",
       "check_points": [
-        "글로벌 반도체 지수(필라델피아 반도체 지수) 추이",
-        "경쟁사 실적 발표 및 D램/낸드 가격 동향",
-        "외국인 및 기관 투자자 매매 동향"
+        "이란 사태 관련 국제 정세 변화 및 주요국 입장",
+        "글로벌 방산 시장 동향 및 정책 변화",
+        "국내 방산 기업의 수주 공시 및 실적"
       ],
       "related_news_titles": [
-        "월가, 반도체주 하락 및 국채 수익률 상승에 손실 확대",
-        "나스닥 종합지수 기술주 매도세 속 1.5% 하락 마감"
+        "G7, 이란 전쟁 발발로 인한 글로벌 공포 확산으로 경제 혼란 직면",
+        "오늘 미국 증시: S&P 500 및 나스닥, 채권 금리 상승과 지정학적 긴장 속에 후퇴"
       ]
     },
     {
       "rank": 4,
-      "name": "대한항공",
+      "name": "포스코퓨처엠",
       "market": "KOSPI",
-      "sector": "항공운수",
-      "opinion": "주의",
-      "reason": "원·달러 환율 1500원 돌파와 고환율 장기화 우려는 항공사의 외화 부채 상환 부담 및 유류비 등 원가 상승으로 이어져 실적에 부정적인 영향을 미칠 수 있으니 투자에 주의가 필요합니다.",
+      "sector": "2차전지 소재",
+      "opinion": "관심",
+      "reason": "반도체 및 배터리 핵심 소재의 '무기화' 경향은 국내 관련 소재 기업들의 장기적인 경쟁력과 글로벌 공급망 전략에 중요한 영향을 미치며, 중장기적 관점에서 새로운 투자 기회로 이어질 수 있습니다.",
       "check_points": [
-        "원·달러 환율 추이 및 정부 외환시장 개입 여부",
-        "국제 유가 변동성",
-        "국제선 여객 및 화물 수요 회복세"
+        "주요국 핵심 광물 및 소재 정책 변화",
+        "글로벌 2차전지 공급망 재편 동향",
+        "기업의 기술 개발 및 생산 능력 확장 계획"
       ],
       "related_news_titles": [
-        "원·달러 환율 1500원 돌파, 고환율 장기화 우려 증폭"
+        "[AI로 읽는 경제] ③ 반도체·배터리 소재도 무기가 됐다"
       ]
     }
   ],
