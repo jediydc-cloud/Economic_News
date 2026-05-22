@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22 08:04",
-  "analysis_date": "2026-05-22",
+  "generated_at": "2026-05-23 08:01",
+  "analysis_date": "2026-05-23",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 소비심리가 수출과 증시 활황에 힘입어 개선되고, 글로벌 증시는 지정학적 긴장 완화 기대감에 강세를 보였습니다.",
-    "국내거시경제": "수출 호조와 증시 활황, 반도체 회복에 힘입어 국내 소비심리가 3개월 만에 낙관적으로 전환되며 내수 회복 기대감을 높였습니다.",
-    "글로벌경제": "미국-이란 회담 기대감이 지정학적 긴장 완화 및 유가 안정 기대를 불러일으키며 글로벌 증시에 긍정적 영향을 주었습니다.",
-    "증시금리": "다우 지수는 이란 협상 기대감에 사상 최고치를 경신했으며, 국내 증시 활황도 소비심리 개선을 견인했습니다.",
-    "부동산정책": "관련 뉴스 없음.",
-    "기업산업": "앰코 테크놀로지가 AI 패키징 및 생산 확대를 통해 대규모 매출 목표를 제시하며 AI 반도체 생태계 및 국내 관련 기업 성장에 대한 기대를 높였습니다.",
-    "오늘의투자시사점": "소비심리 개선에 따른 내수 관련 종목과 AI 반도체 성장에 연계된 국내 후공정 기업에 주목하며, 글로벌 지정학적 리스크 완화 추이를 지속 관찰해야 합니다.",
-    "오늘의한줄": "수출 및 증시 호조, 그리고 지정학적 긴장 완화 기대감 속에 국내외 경제 심리가 동반 개선되고 있습니다."
+    "총평": "미국 증시는 사상 최고치를 경신했으나, 금리 역전 현상과 고환율 등 국내외 복합적인 거시경제 변수에 대한 주의가 요구됩니다. 한편, AI 관련 신기술 분야의 성장 동력은 긍정적인 투자 기회를 제공합니다.",
+    "국내거시경제": "원/달러 환율이 6일 연속 1500원대를 기록하며 고공행진 중이며, 이는 수입 물가 상승과 기업 채산성 악화 우려를 키우고 있습니다. 삼성전자 파업 리스크는 일단락되었으나, 향후 물가 지표와 한국은행 금융통화위원회의 결정이 국내 증시의 주요 변수가 될 것입니다.",
+    "글로벌경제": "중동 정세 개선 기대감은 글로벌 시장에 긍정적인 영향을 미쳤으나, 미국 2년물 국채 금리가 연방 기금 금리를 추월하며 연준의 통화 정책 변화 가능성에 대한 경계심이 고조되고 있습니다.",
+    "증시금리": "미국 다우 지수는 중동 정세 개선 기대감과 금리 완화에 힘입어 사상 최고치를 경신했습니다. 하지만 미국 장단기 금리 역전 현상은 과거 연준의 긴축 전환 신호로 해석될 수 있어 글로벌 금리 동향에 대한 면밀한 관찰이 필요합니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "엔비디아의 실적 발표에서 엣지 컴퓨팅 분야의 2,000억 달러 규모 신규 성장 기회가 부각되었습니다. 이는 AI 및 데이터 처리 수요 증가에 따라 관련 산업 전반에 긍정적인 영향을 미칠 것으로 전망됩니다.",
+    "오늘의투자시사점": "미국 증시의 강세에도 불구하고 장단기 금리 역전 현상과 국내 고환율 지속 등 거시경제 불확실성에 대비해야 합니다. 반면, 엔비디아와 같은 선도 기업이 제시하는 AI 및 엣지 컴퓨팅 분야의 새로운 성장 동력은 국내 관련 기업들에게도 투자 기회를 제공할 수 있습니다.",
+    "오늘의한줄": "글로벌 증시의 긍정적 흐름 속에서도 금리 역전과 고환율에 유의하며, AI 등 신기술 분야의 성장 잠재력에 주목해야 합니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "'수출 호조·증시 활황'에 낙관적 경기 판단, 소비심리 6.9p 상승",
-      "display_title": "'수출 호조·증시 활황'에 낙관적 경기 판단, 소비심리 6.9p 상승",
-      "original_title": "‘수출 호조·증시 활황’ 낙관적 경기판단에…소비심리 6.9p ‘쑥’ - 조세일보",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 미국 증시: 중동 정세 개선 기대감에 다우 지수 사상 최고치 경신, 워시 Fed 의장 취임",
+      "display_title": "오늘 미국 증시: 중동 정세 개선 기대감에 다우 지수 사상 최고치 경신, 워시 Fed 의장 취임",
+      "original_title": "US stocks today: Dow hits record high as Middle East hopes lift sentiment and Warsh takes Fed charge - The Economic Times",
       "summary": [
-        "수출 호조와 증시 활황 등 긍정적인 경기 판단에 힘입어 소비자심리지수(CCSI)가 6.9포인트 상승했다.",
-        "소비자심리 개선은 향후 소비 증가 기대로 이어져 국내 경기 회복에 긍정적인 신호로 작용할 수 있다.",
-        "소비심리 회복이 실물경제 지표 개선으로 이어지는지 지속적으로 관찰하며 내수 관련 종목에 대한 투자 기회를 모색해야 한다."
+        "다우 지수가 중동 정세 개선 기대감에 힘입어 사상 최고치를 경신했으며, 워시가 연준 의장으로 취임했습니다.",
+        "지정학적 리스크 완화와 새로운 연준 의장 취임에 대한 기대감이 복합적으로 작용한 것으로 보입니다.",
+        "지정학적 안정과 통화 정책 변화는 글로벌 증시의 주요 동력으로 작용하며, 국내 증시에도 영향을 줄 수 있습니다."
       ],
-      "summary_text": "수출 호조와 증시 활황 등 긍정적인 경기 판단에 힘입어 소비자심리지수(CCSI)가 6.9포인트 상승했다. 소비자심리 개선은 향후 소비 증가 기대로 이어져 국내 경기 회복에 긍정적인 신호로 작용할 수 있다. 소비심리 회복이 실물경제 지표 개선으로 이어지는지 지속적으로 관찰하며 내수 관련 종목에 대한 투자 기회를 모색해야 한다.",
-      "description": "수출 호조와 증시 활황 등 낙관적인 경기 판단으로 인해 소비심리가 6.9포인트 크게 상승했습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "다우 지수가 중동 정세 개선 기대감에 힘입어 사상 최고치를 경신했으며, 워시가 연준 의장으로 취임했습니다. 지정학적 리스크 완화와 새로운 연준 의장 취임에 대한 기대감이 복합적으로 작용한 것으로 보입니다. 지정학적 안정과 통화 정책 변화는 글로벌 증시의 주요 동력으로 작용하며, 국내 증시에도 영향을 줄 수 있습니다.",
+      "description": "중동 정세 개선에 대한 기대감이 투자 심리를 끌어올리며 다우 지수가 사상 최고치를 경신했고, 워시가 연준 의장으로 취임했습니다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "유통, 소비재, 증권",
+      "related_sector": "전반적 시장, 금융",
       "related_stocks": [
-        "신세계",
-        "카카오",
-        "롯데쇼핑"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "소비심리 개선은 기업 실적에 긍정적인 영향을 미치고 국내 증시 활성화의 기반이 될 수 있는 중요한 경제 지표이기 때문이다.",
-      "key_signal": "소비심리 개선이 실제 소매 판매액 및 서비스업 생산지수 등 실물 경제 지표의 상승으로 이어지는지 확인해야 한다.",
+      "investment_reason": "중동 정세 개선 기대감과 새로운 연준 의장 취임은 글로벌 증시와 금리 정책에 큰 영향을 미칠 수 있는 중요한 변화이기 때문입니다.",
+      "key_signal": "새로운 연준 의장의 향후 통화 정책 방향성과 중동 지역의 실제 안정화 여부를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "소비심리",
-        "수출호조",
-        "증시활황",
-        "경기회복",
-        "내수"
+        "다우존스",
+        "미국 증시",
+        "중동 정세",
+        "Fed 의장",
+        "사상 최고치"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pcTB2Z1pieThCS2NjbVUwc3pDYU0yOWZ5M2F5X1hUaUJoanlBa3ZjUVdSNGtTWGVXUkxaQy1SVWRfWlFwZ1J4S0p2cDI2LUZXcW16dy1zMGx3Y1MyMll3LVpFNmlUcXpEU3RqVEVRdmFpdlR0?oc=5",
-      "published": "2026-05-22 06:30",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbjB2RXctMmhsOUFrdVFrQnhWTkxVU09XQWY1Y0p1bHBHS1Flekc1cjB6SlA2Q2pIQjAwWnZISmZUOHVIT0xRMnd3Y0JKWm1BRzRrbGw4YTRZb2tvLWtuWDZPQlIwbEtVVEVaaHFaZ0RQaGVubVlDdHNRVXAyd0FvMGoxQTIwVGdiRk1Zc1plQ1NldXMxR1hiOG5EcXRyRUNSeEFUUi1BVjQxSFB3dFU3RTlVLVBFNTdlZzE0MENyem85T2xKaWRwSkxTRXo2YlJBM2JPcVJ1WWl0cm5XSVlCZzZZZEhud0I1RjhRZ1Vfa3lQcllXRTJQMkJjQXZ5RndDclRNZ3NmSdIBjAJBVV95cUxPWjNUM2h4SjdralZGRHdualA3U0VwblRYZXowYW0tUkxkUGZldlA3Um51TlU5ZFctX1AtQzdyTkpkRUhNdm91MW9JaGhlMFRIcHdsb2FkYllkYm9VUVBENVZDSC16bTNsb01JbXduNVVkQlVKN1B4ek5ZYkpjckhvWFBNb3k0b09va3RvbV9VMm5DcFR3T3RwUnJGM0hkanBudWFKRjdVTDVTaUxTZDVJSFpacHBnQVRkMGN0Yko0cmNkZ2dCMklXdUNKNTlPd3V4QUhoM3BzWkV6SGdWaVVFd1htSlVZNWlnTnByMmVaT3VmY2ZMdWdmR2FCV2sxY01NOFB6dmdFNThxdlF5?oc=5",
+      "published": "2026-05-23 05:08",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "소비심리, 3개월 만에 '비관'에서 '낙관'으로 전환…반도체 호조 및 정부 대책 영향",
-      "display_title": "소비심리, 3개월 만에 '비관'에서 '낙관'으로 전환…반도체 호조 및 정부 대책 영향",
-      "original_title": "소비심리, 3개월 만에 '비관→낙관'···반도체 호조·정부대책 영향 - 서울파이낸스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 2년물 국채 금리, 연방 기금 금리 추월. 역사적으로 연준은 다음 행동을 준비할 것이다.",
+      "display_title": "미국 2년물 국채 금리, 연방 기금 금리 추월. 역사적으로 연준은 다음 행동을 준비할 것이다.",
+      "original_title": "The 2-Year U.S. Treasury Yield Has Now Blown Past the Federal Funds Rate. History Says the Fed Will Do This Next - The Motley Fool",
       "summary": [
-        "소비자심리가 3개월 만에 비관적 전망에서 벗어나 낙관적으로 전환되었으며, 이는 반도체 수출 호조와 정부의 정책적 노력이 주요 요인이다.",
-        "핵심 산업의 회복세와 정부의 경제 활성화 정책이 복합적으로 작용하여 전반적인 경제 심리 개선에 기여했다.",
-        "소비 심리의 긍정적 전환은 내수 진작과 경기 회복 기대감을 높이므로, 정책 효과와 산업별 회복 속도를 지속적으로 관찰해야 한다."
+        "미국 2년물 국채 금리가 연방 기금 금리를 추월하는 현상이 발생했습니다.",
+        "과거 사례를 비춰볼 때, 이러한 현상은 연준의 통화 정책 변화, 특히 금리 인상 또는 긴축 전환의 신호일 수 있습니다.",
+        "장단기 금리 역전 현상은 경기 침체 우려와 통화 정책 전환 가능성을 시사하므로, 국내외 금리 변동에 대한 면밀한 분석이 필요합니다."
       ],
-      "summary_text": "소비자심리가 3개월 만에 비관적 전망에서 벗어나 낙관적으로 전환되었으며, 이는 반도체 수출 호조와 정부의 정책적 노력이 주요 요인이다. 핵심 산업의 회복세와 정부의 경제 활성화 정책이 복합적으로 작용하여 전반적인 경제 심리 개선에 기여했다. 소비 심리의 긍정적 전환은 내수 진작과 경기 회복 기대감을 높이므로, 정책 효과와 산업별 회복 속도를 지속적으로 관찰해야 한다.",
-      "description": "반도체 산업의 호조와 정부의 경기 부양 대책에 힘입어 소비심리가 3개월 만에 비관적에서 낙관적인 수준으로 전환되었습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "미국 2년물 국채 금리가 연방 기금 금리를 추월하는 현상이 발생했습니다. 과거 사례를 비춰볼 때, 이러한 현상은 연준의 통화 정책 변화, 특히 금리 인상 또는 긴축 전환의 신호일 수 있습니다. 장단기 금리 역전 현상은 경기 침체 우려와 통화 정책 전환 가능성을 시사하므로, 국내외 금리 변동에 대한 면밀한 분석이 필요합니다.",
+      "description": "미국 2년물 국채 금리가 연방 기금 금리를 넘어섰으며, 이는 역사적으로 연준의 다음 정책 변화를 예고하는 신호로 해석됩니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 유통, 소비재",
+      "market_impact": "중립",
+      "related_sector": "금융, 채권",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "이마트"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "반도체 산업의 회복과 정부의 경기 부양 노력으로 인한 소비심리 개선은 국내 증시와 내수 관련 기업 투자에 긍정적인 영향을 미치기 때문이다.",
-      "key_signal": "반도체 수출 지표와 정부의 추가 경제 정책 발표 여부를 주시하며 실제 경제 성장률에 미치는 영향을 파악해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "장단기 금리 역전 현상은 경기 둔화 가능성과 연준의 통화 정책 변화를 예고하며, 이는 주식 및 채권 시장에 중대한 영향을 미치기 때문입니다.",
+      "key_signal": "연준의 공식 발표나 관계자 발언을 통해 향후 금리 정책 방향에 대한 구체적인 신호가 있는지 확인해야 합니다.",
       "keywords": [
-        "소비심리",
-        "반도체호조",
-        "정부대책",
-        "경기전환",
-        "내수진작"
+        "미국 국채",
+        "2년물 금리",
+        "연방 기금 금리",
+        "금리 역전",
+        "연준"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HUkdrLTJ3NVlqT09QX0ZxUW9fVUExZVNIb1R5RWNVbmdaRWw3bHF6bURMWHpRVEYtaGNiQ3ZUaU1sN2kwX3pEeXN2RkpfWGotbjQ1UW9oLU1NMmNCeUY1b0NrRVo0Ykh3Qmc?oc=5",
-      "published": "2026-05-22 06:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdm5PLWQ2RjJzaXlFd1RXVVN3NlZUWkxhQUVJWllxX2RJZVI0ZlljaWMtX1FOT2F1Y01kaE5NTGw5RDRtOGFLYVFsbkF5Rzh4UXFyQWJGU1psV0JvajNKSWJBbEtkS2FMNXRHSUlYN0FuVmpEYlpOMnAzdTdPTnh6QkoxOFhGcVdBMElzOXA0bzEyM0FBRDlWSA?oc=5",
+      "published": "2026-05-23 01:39",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우 지수, 미-이란 회담 속 롤러코스터 장세 끝에 사상 최고치 마감",
-      "display_title": "다우 지수, 미-이란 회담 속 롤러코스터 장세 끝에 사상 최고치 마감",
-      "original_title": "Dow Ends at Record High as U.S.-Iran Talks Send Wall Street on a Roller Coaster - bloomingbit",
+      "title": "테크 다운로드: 엔비디아 실적 발표에서 놓쳤을 수도 있는 2,000억 달러 기회와 엣지 컴퓨팅",
+      "display_title": "테크 다운로드: 엔비디아 실적 발표에서 놓쳤을 수도 있는 2,000억 달러 기회와 엣지 컴퓨팅",
+      "original_title": "The Tech Download: What you might have missed in Nvidia’s earnings — a $200 billion opportunity and edge computing - The Tech Buzz",
       "summary": [
-        "다우존스 산업평균지수가 미국-이란 회담의 영향으로 변동성을 보인 후 사상 최고치를 경신하며 마감했다.",
-        "중동 정세와 관련된 지정학적 이벤트는 국제 유가 및 금융 시장에 민감하게 작용하며 시장의 방향성을 좌우할 수 있다.",
-        "지정학적 리스크 완화 기대감이 증시에 긍정적으로 작용할 수 있으므로 관련 뉴스의 지속적인 팔로우업이 필요하다."
+        "엔비디아의 실적 발표에서 엣지 컴퓨팅 분야에서 2,000억 달러 규모의 새로운 성장 기회가 부각되었습니다.",
+        "AI 및 데이터 처리 수요 증가로 엣지 컴퓨팅의 중요성이 커지고 있으며, 엔비디아가 이 시장에서 핵심적인 역할을 할 것으로 기대됩니다.",
+        "엔비디아와 같은 선도 기업의 새로운 성장 동력은 관련 산업 전반에 긍정적인 영향을 미치며, 국내 AI 및 반도체 관련 기업에도 투자 기회를 제공할 수 있습니다."
       ],
-      "summary_text": "다우존스 산업평균지수가 미국-이란 회담의 영향으로 변동성을 보인 후 사상 최고치를 경신하며 마감했다. 중동 정세와 관련된 지정학적 이벤트는 국제 유가 및 금융 시장에 민감하게 작용하며 시장의 방향성을 좌우할 수 있다. 지정학적 리스크 완화 기대감이 증시에 긍정적으로 작용할 수 있으므로 관련 뉴스의 지속적인 팔로우업이 필요하다.",
-      "description": "미-이란 회담이 월스트리트를 롤러코스터 장세로 이끌었음에도 불구하고 다우 지수가 사상 최고치로 마감했습니다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "엔비디아의 실적 발표에서 엣지 컴퓨팅 분야에서 2,000억 달러 규모의 새로운 성장 기회가 부각되었습니다. AI 및 데이터 처리 수요 증가로 엣지 컴퓨팅의 중요성이 커지고 있으며, 엔비디아가 이 시장에서 핵심적인 역할을 할 것으로 기대됩니다. 엔비디아와 같은 선도 기업의 새로운 성장 동력은 관련 산업 전반에 긍정적인 영향을 미치며, 국내 AI 및 반도체 관련 기업에도 투자 기회를 제공할 수 있습니다.",
+      "description": "엔비디아 실적 발표에서 간과되었을 수 있는 2,000억 달러 규모의 엣지 컴퓨팅 시장 기회에 대해 다룹니다.",
+      "category": "기업·산업",
+      "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "증권, 에너지",
+      "related_sector": "반도체, AI, 엣지 컴퓨팅",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 증시의 사상 최고치 경신은 글로벌 투자 심리에 긍정적인 신호로 작용하며 국내 증시에도 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "미-이란 회담의 구체적인 결과와 추가적인 중동 정세 변화가 국제 유가 및 글로벌 증시에 미치는 영향을 확인해야 한다.",
+      "investment_reason": "엔비디아의 엣지 컴퓨팅 시장 기회는 AI 및 반도체 산업의 지속적인 성장을 시사하며, 관련 국내 기업에도 긍정적인 투자 기회를 제공하기 때문입니다.",
+      "key_signal": "엔비디아의 엣지 컴퓨팅 관련 로드맵과 국내 협력사들의 관련 기술 개발 동향을 주시해야 합니다.",
       "keywords": [
-        "다우지수",
-        "사상최고치",
-        "미이란회담",
-        "글로벌증시",
-        "지정학적"
+        "엔비디아",
+        "엣지 컴퓨팅",
+        "AI",
+        "반도체",
+        "성장 기회"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91ck9yYk9VckxUZ0hEUmpweE1CODBOTEN2Vjk4a3VYQWU1allCYzhIOTFqLTQ5djVfQmdDSkJyWFVacnRKOElDRi1UNGE4US1LZGlBNA?oc=5",
-      "published": "2026-05-22 07:45",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbC11aUJyQmU3dV84NVg4dXdVNUhDVG5NY25zZmdtQzc5THo2WFQ0ZDFFb3FJWFRCVl9YZEREelI4OU1GdHZ2QXNpOXFBaHhkVFpvZFRJMU5uemViMmtVUG83b1BzMndsRjlrSEI2Tmp6VDA5b0pNTF9sckQ1VDRrcVVXQkdfNUYzeXYyUWEtRXBVT2w2bVNuakpSY0VWVE1YU1JCTWo1eU1VMG80R1VkQV9ONTdqTm9FZWRzRXVaTzBWREVJQWNUaUJSbkxMb1lSLVR0S0szZXd1bVU?oc=5",
+      "published": "2026-05-22 20:41",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -151,82 +151,40 @@
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "앰코 테크놀로지, AI 패키징 및 애리조나 생산 확대에 힘입어 2030년까지 매출 110억 달러 목표",
-      "display_title": "앰코 테크놀로지, AI 패키징 및 애리조나 생산 확대에 힘입어 2030년까지 매출 110억 달러 목표",
-      "original_title": "Amkor Technology Targets $11B Revenue by 2030 on AI Packaging, Arizona Ramp - MarketBeat",
-      "summary": [
-        "글로벌 반도체 패키징 및 테스트 기업 앰코 테크놀로지가 AI 패키징과 애리조나 시설 확대를 통해 2030년 매출 110억 달러 달성 목표를 제시했다.",
-        "AI 반도체의 성능 향상에는 첨단 패키징 기술이 필수적이며, 이에 대한 수요 증가가 앰코의 성장 동력으로 작용하고 있다.",
-        "앰코의 성장 전략은 AI 반도체 생태계 전반의 활성화와 국내 후공정 및 패키징 관련 기업들의 동반 성장에 대한 기대를 높인다."
-      ],
-      "summary_text": "글로벌 반도체 패키징 및 테스트 기업 앰코 테크놀로지가 AI 패키징과 애리조나 시설 확대를 통해 2030년 매출 110억 달러 달성 목표를 제시했다. AI 반도체의 성능 향상에는 첨단 패키징 기술이 필수적이며, 이에 대한 수요 증가가 앰코의 성장 동력으로 작용하고 있다. 앰코의 성장 전략은 AI 반도체 생태계 전반의 활성화와 국내 후공정 및 패키징 관련 기업들의 동반 성장에 대한 기대를 높인다.",
-      "description": "앰코 테크놀로지가 AI 패키징 사업과 애리조나 생산 시설 확대를 통해 2030년까지 110억 달러의 매출을 목표로 하고 있습니다.",
-      "category": "기업·산업",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체 후공정, AI",
-      "related_stocks": [
-        "앰코테크놀로지",
-        "하나마이크론",
-        "ISC"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "AI 반도체 시장의 성장에 필수적인 후공정 및 패키징 기술 선두 기업의 목표 상향은 국내 관련 기업의 투자 매력을 높이는 신호이기 때문이다.",
-      "key_signal": "앰코 테크놀로지의 AI 패키징 기술 개발 현황과 주요 고객사 수주 동향을 통해 국내 후공정 시장의 성장세를 예측해야 한다.",
-      "keywords": [
-        "앰코테크놀로지",
-        "AI패키징",
-        "반도체후공정",
-        "애리조나",
-        "반도체"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVnVyWUZaUUg5WkloRnRiWWZpR3NmR0o1V184Mk4xVGNjQkhwdERSdkVWRGF5ODJPdDk5b3NEbzlHZDZtbjVvN25nSmlBY1A3M0txRUUzb2RwaDcxVFRIUkU4ZGRUczlMMlJlSXhOWDM0SUhTVDZSNVhXSEZ4eTQzczI2aDBQc0VMU3BueVFOckRKRmpNZEtMVEl4RWdhbEpsYmhhQnBpVEc4WUtUc0FFd3pNLXVoendqNE9xN2hSeTNTQkZVYmc?oc=5",
-      "published": "2026-05-22 02:09",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 5,
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "수출 호조와 증시 활황에 힘입어 소비심리 개선",
-      "display_title": "수출 호조와 증시 활황에 힘입어 소비심리 개선",
-      "original_title": "수출 호조·증시 활황에 소비심리 개선 - 한겨레",
+      "title": "6일 연속 1500원…환율 고공행진 언제까지?",
+      "display_title": "6일 연속 1500원…환율 고공행진 언제까지?",
+      "original_title": "6일 연속 1500원…환율 고공행진 언제까지? - 헤럴드경제",
       "summary": [
-        "견조한 수출 성장세와 국내 증시의 활황이 맞물려 소비자심리가 개선되었다.",
-        "이러한 긍정적 경제 환경은 가계의 미래 경기에 대한 기대감을 높이고 소비 활동에 활력을 불어넣을 것으로 예상된다.",
-        "소비심리 개선은 내수 관련 산업에 긍정적인 영향을 미칠 수 있으므로, 관련 기업들의 실적 개선 여부를 주의 깊게 살펴봐야 한다."
+        "원/달러 환율이 6일 연속 1500원대를 기록하며 고공행진 중입니다.",
+        "고환율은 수입 물가 상승, 기업 채산성 악화(수입 의존 기업), 외국인 투자자 이탈 우려 등 국내 경제에 부정적 영향을 미칠 수 있습니다.",
+        "환율 상승은 수출 기업에 긍정적일 수 있으나, 전반적인 경제 부담과 외국인 자금 유출 우려를 높여 증시에 부정적 요인으로 작용할 수 있으므로 주의가 필요합니다."
       ],
-      "summary_text": "견조한 수출 성장세와 국내 증시의 활황이 맞물려 소비자심리가 개선되었다. 이러한 긍정적 경제 환경은 가계의 미래 경기에 대한 기대감을 높이고 소비 활동에 활력을 불어넣을 것으로 예상된다. 소비심리 개선은 내수 관련 산업에 긍정적인 영향을 미칠 수 있으므로, 관련 기업들의 실적 개선 여부를 주의 깊게 살펴봐야 한다.",
-      "description": "수출의 지속적인 호조와 증시의 활황으로 인해 전반적인 소비심리가 개선되었다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "증권, 유통, 소비재",
+      "summary_text": "원/달러 환율이 6일 연속 1500원대를 기록하며 고공행진 중입니다. 고환율은 수입 물가 상승, 기업 채산성 악화(수입 의존 기업), 외국인 투자자 이탈 우려 등 국내 경제에 부정적 영향을 미칠 수 있습니다. 환율 상승은 수출 기업에 긍정적일 수 있으나, 전반적인 경제 부담과 외국인 자금 유출 우려를 높여 증시에 부정적 요인으로 작용할 수 있으므로 주의가 필요합니다.",
+      "description": "원/달러 환율이 6일 연속 1500원대를 유지하며 고공행진을 이어가고 있어, 언제까지 이러한 추세가 지속될지 관심이 집중됩니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "수출주, 수입 관련주, 외국인 투자 관련",
       "related_stocks": [
-        "삼성증권",
-        "롯데쇼핑",
-        "신세계"
+        "현대차",
+        "삼성전자",
+        "대한항공"
       ],
-      "investment_view": "관심",
-      "investment_reason": "수출과 증시의 동반 활황이 소비심리 개선으로 이어져 국내 경기 전반에 긍정적 흐름을 형성하고 있기 때문이다.",
-      "key_signal": "소비심리 개선 추세가 유지되는지, 그리고 실제 가계 소비 지출 증가로 이어지는지 확인해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "고환율은 국내 경제의 물가 상승 압력과 기업들의 원가 부담을 가중시키고, 외국인 투자자들의 자금 이탈을 유발할 수 있어 국내 증시에 부정적 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "정부와 한국은행의 환율 안정화 정책 방향, 그리고 글로벌 달러 강세 요인 변화 여부를 면밀히 주시해야 합니다.",
       "keywords": [
-        "수출호조",
-        "증시활황",
-        "소비심리",
-        "경기개선",
-        "내수경제"
+        "환율",
+        "원달러 환율",
+        "고환율",
+        "수출 기업",
+        "물가 상승"
       ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oSmQwT0ZHMVZfNFdGdm85LXJ4dVk4emJWWEtUQ05wMExrNGRubFRGdnJOejhXQXRvandqU3R1X3RscGd4NzVRamRwckZZX29peU03Y1NQVXpWblhyMVFYT3R2SG1NLVBsakxHaUtrN0xmdw?oc=5",
-      "published": "2026-05-22 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZdU5JaXN1RUkxZHZMc1NrNHFFZHBnajM4Wkc0QkVQT2p5dkJTbXZrOEFFcHFNY2ZFaHlOYTFPSlNQZ2UtRXhuSlUwZGRTV2hRbzVVdkxn?oc=5",
+      "published": "2026-05-23 07:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -234,43 +192,83 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우 지수, 이란 협상 기대감에 주식 반등하며 278포인트 상승",
-      "display_title": "다우 지수, 이란 협상 기대감에 주식 반등하며 278포인트 상승",
-      "original_title": "Dow rises 278 Points as stocks rebound on Iran deal hopes - CryptoRank",
+      "title": "다우 지수, 금리 완화에 힘입어 사상 최고치 경신",
+      "display_title": "다우 지수, 금리 완화에 힘입어 사상 최고치 경신",
+      "original_title": "Dow hits record high as easing yields lift Wall Street - Invezz",
       "summary": [
-        "다우존스 지수가 이란과의 협상 기대감에 힘입어 278포인트 상승하며 주식 시장이 반등했다.",
-        "미국-이란 간의 잠재적 합의는 지정학적 긴장 완화 및 유가 안정에 대한 기대를 불러일으켜 투자 심리를 개선시켰다.",
-        "국제 정세의 긍정적인 변화는 글로벌 증시 전반에 긍정적인 영향을 줄 수 있으므로 관련 에너지 및 방산 섹터의 변동성을 주시해야 한다."
+        "다우존스 산업평균지수가 사상 최고치를 경신했습니다.",
+        "채권 금리 하락이 투자 심리를 개선하며 증시 상승을 견인했습니다.",
+        "글로벌 금리 추세가 증시 방향성에 중요한 지표임을 시사하므로 지속적인 관찰이 필요합니다."
       ],
-      "summary_text": "다우존스 지수가 이란과의 협상 기대감에 힘입어 278포인트 상승하며 주식 시장이 반등했다. 미국-이란 간의 잠재적 합의는 지정학적 긴장 완화 및 유가 안정에 대한 기대를 불러일으켜 투자 심리를 개선시켰다. 국제 정세의 긍정적인 변화는 글로벌 증시 전반에 긍정적인 영향을 줄 수 있으므로 관련 에너지 및 방산 섹터의 변동성을 주시해야 한다.",
-      "description": "이란과의 협상에 대한 기대감으로 주식이 반등하면서 다우 지수가 278포인트 상승했습니다.",
+      "summary_text": "다우존스 산업평균지수가 사상 최고치를 경신했습니다. 채권 금리 하락이 투자 심리를 개선하며 증시 상승을 견인했습니다. 글로벌 금리 추세가 증시 방향성에 중요한 지표임을 시사하므로 지속적인 관찰이 필요합니다.",
+      "description": "금리 완화 기조가 월스트리트 전반에 긍정적인 영향을 미치며 다우 지수가 사상 최고치를 기록했습니다.",
       "category": "증시·금리",
-      "importance": 7,
+      "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "증권, 에너지",
+      "related_sector": "전반적 시장",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "이란과의 협상 진전은 지정학적 리스크를 완화하고 유가 안정에 기여하여 글로벌 경제 및 증시에 긍정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "이란 협상의 구체적인 내용과 이에 따른 국제 유가 및 환율 변동을 지속적으로 모니터링해야 한다.",
+      "investment_reason": "미국 증시의 강세는 글로벌 투자 심리 개선에 기여하며 국내 시장에도 긍정적인 파급 효과를 줄 수 있기 때문입니다.",
+      "key_signal": "오늘 국내 증시 개장 전 미국 시장의 마감 동향과 채권 금리 추이를 주시해야 합니다.",
       "keywords": [
-        "다우지수",
-        "이란협상",
-        "주식반등",
-        "지정학적",
-        "유가안정"
+        "다우존스",
+        "미국 증시",
+        "금리 하락",
+        "사상 최고치",
+        "월스트리트"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPck1RYjk5Zllpdi1yT2E0QjAxbDNlNnlYTWhXZWo2Sm92dVgyMTRwbGlMeE1nNkg1UWNqODdxOFBVekZvb1cxc01saGcwYjBnRDRBTVZSTkd2TWtzb2hZUXhsQXlTRmNhQ01taUZ3QXJxWE1iYlRXTEk0WGRkTmtQbjdVM2tzUUx2TU9GbmVBR1g1NExZUTJkRUphaw?oc=5",
-      "published": "2026-05-22 06:06",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1MyNUQzZE9aRDNLU1MtOVpkSks0ZGRkUkNNdWpVRFFCUnBUZFhCaEdHcVdYTkF6Q2xjT2VMQm5OeHZtNUtzZEExbHJzRDZCYUFlNXM1VHQwSm9tUTYtTFBERks2QncwWC01Qnh4Z0RrcVJpWjZtajd4WU9RZVFaWkdXbDRTdzl4T0ZlYWd6SEdBWXhBVk0zeQ?oc=5",
+      "published": "2026-05-23 05:36",
       "quality": {
         "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 6,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[주간증시전망] 삼성전자 파업 고비 넘긴 증시…다음 변수는 물가와 금통위",
+      "display_title": "[주간증시전망] 삼성전자 파업 고비 넘긴 증시…다음 변수는 물가와 금통위",
+      "original_title": "[주간증시전망] 삼성전자 파업 넘긴 증시…다음 변수는 물가와 금통위 - 네이트",
+      "summary": [
+        "국내 증시는 삼성전자 파업 리스크를 일단락하며, 향후 물가 지표와 한국은행 금융통화위원회의 결정에 주목하고 있습니다.",
+        "고물가 기조가 이어질 경우 한국은행의 금리 인상 또는 긴축 기조가 강화될 수 있으며, 이는 증시에 부담으로 작용할 수 있습니다.",
+        "물가 지표와 금통위의 통화 정책은 국내 증시의 향방을 결정하는 핵심 변수이므로 관련 발표와 결정에 촉각을 세워야 합니다."
+      ],
+      "summary_text": "국내 증시는 삼성전자 파업 리스크를 일단락하며, 향후 물가 지표와 한국은행 금융통화위원회의 결정에 주목하고 있습니다. 고물가 기조가 이어질 경우 한국은행의 금리 인상 또는 긴축 기조가 강화될 수 있으며, 이는 증시에 부담으로 작용할 수 있습니다. 물가 지표와 금통위의 통화 정책은 국내 증시의 향방을 결정하는 핵심 변수이므로 관련 발표와 결정에 촉각을 세워야 합니다.",
+      "description": "삼성전자 파업 리스크를 넘긴 국내 증시가 이제는 물가 상승 압력과 한국은행 금융통화위원회의 통화 정책 결정에 주목하고 있습니다.",
+      "category": "국내 거시경제",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "전반적 시장, 금융, 소비재",
+      "related_stocks": [
+        "삼성전자"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "국내 증시의 향방은 물가 안정화 여부와 한국은행 금통위의 통화 정책 결정에 크게 좌우될 것이므로, 이에 대한 지속적인 모니터링이 필수적이기 때문입니다.",
+      "key_signal": "다음 주 발표될 물가 관련 지표와 한국은행 금융통화위원회의 공식 발표 내용을 통해 시장의 방향성을 가늠해야 합니다.",
+      "keywords": [
+        "주간 증시",
+        "삼성전자",
+        "파업",
+        "물가",
+        "한국은행"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpZ3p6WUJ1dEM5c1JsR2JfcDBTNnJ2cEYxQnBNT2lZY1plRzZGNjluTDBXa1VkTnBSSVpENGNOOG5CYl9JbEhSREVXWnY4cmlrTzNN?oc=5",
+      "published": "2026-05-23 06:01",
+      "quality": {
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -283,64 +281,67 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "소비심리 개선의 주요 동력 중 하나로 '반도체 호조'가 지목되었으며, 국내 거시경제 지표에 긍정적 영향을 미치는 반도체 업황 회복 기대감이 높아지고 있습니다.",
+      "reason": "엔비디아의 엣지 컴퓨팅 시장 성장 기회는 AI 및 반도체 산업 전반에 긍정적인 영향을 미치며, 글로벌 반도체 선두 주자인 삼성전자에게 새로운 성장 동력을 제공할 수 있습니다. 다만, 고환율 장기화에 따른 국내 거시경제 불안정성과 한국은행 금통위의 통화 정책 변화는 함께 고려해야 할 변수입니다.",
       "check_points": [
-        "글로벌 반도체 수요 및 가격 동향",
-        "AI 반도체 시장 확대에 따른 수혜",
-        "환율 변동이 수출 실적에 미치는 영향"
+        "엣지 컴퓨팅 관련 기술 개발 및 투자 현황",
+        "D램 및 낸드 가격 추이와 실적 영향",
+        "환율 변동성 및 외국인 투자자 순매수 동향"
       ],
       "related_news_titles": [
-        "소비심리, 3개월 만에 '비관'에서 '낙관'으로 전환…반도체 호조 및 정부 대책 영향"
+        "테크 다운로드: 엔비디아 실적 발표에서 놓쳤을 수도 있는 2,000억 달러 기회와 엣지 컴퓨팅",
+        "6일 연속 1500원…환율 고공행진 언제까지?",
+        "[주간증시전망] 삼성전자 파업 고비 넘긴 증시…다음 변수는 물가와 금통위"
       ]
     },
     {
       "rank": 2,
-      "name": "하나마이크론",
-      "market": "KOSDAQ",
-      "sector": "반도체 후공정",
+      "name": "한미반도체",
+      "market": "KOSPI",
+      "sector": "반도체 장비",
       "opinion": "관심",
-      "reason": "AI 반도체 시장의 가파른 성장과 함께 필수적인 패키징 및 후공정 기술의 중요성이 부각되고 있으며, 관련 국내 기업들의 수혜가 예상됩니다.",
+      "reason": "엔비디아의 엣지 컴퓨팅 시장 확장 기회는 AI 반도체 수요를 증대시키고, 이는 HBM 등 고성능 메모리 제조에 필수적인 후공정 장비 기업인 한미반도체에 직접적인 수혜로 이어질 수 있습니다. AI 기술 발전의 핵심 수혜주로서 지속적인 관심이 필요합니다.",
       "check_points": [
-        "AI 반도체 관련 신규 수주 및 기술 경쟁력",
-        "글로벌 고객사와의 협력 확대 여부",
-        "생산 능력 확충 및 가동률 변화"
+        "엔비디아의 엣지 컴퓨팅 관련 투자 확대 여부",
+        "HBM 시장 성장률 및 점유율 변화",
+        "주요 고객사(파운드리, 메모리 제조사)의 CAPEX(설비투자) 계획"
       ],
       "related_news_titles": [
-        "앰코 테크놀로지, AI 패키징 및 애리조나 생산 확대에 힘입어 2030년까지 매출 110억 달러 목표"
+        "테크 다운로드: 엔비디아 실적 발표에서 놓쳤을 수도 있는 2,000억 달러 기회와 엣지 컴퓨팅"
       ]
     },
     {
       "rank": 3,
-      "name": "신세계",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "유통",
-      "opinion": "관심",
-      "reason": "수출 호조와 증시 활황에 힘입어 소비심리가 긍정적으로 전환되었으며, 이는 백화점 및 유통 채널을 통한 소비 증가로 이어져 실적 개선에 기여할 것으로 보입니다.",
+      "sector": "증권",
+      "opinion": "중립",
+      "reason": "다우 지수의 사상 최고치 경신과 중동 정세 개선 기대감은 글로벌 투자 심리를 개선시켜 국내 증시에도 긍정적인 영향을 줄 수 있으며, 이는 증권사의 브로커리지 및 자산운용 수익 증가로 이어질 수 있습니다. 하지만 미국 2년물 국채 금리가 연방 기금 금리를 추월하는 장단기 금리 역전 현상은 경기 둔화 가능성을 시사하며, 국내 금통위의 통화 정책 방향 또한 불확실성을 더하고 있어 주의 깊은 관찰이 요구됩니다.",
       "check_points": [
-        "국내 소비 지표 및 정부의 내수 부양 정책",
-        "온라인 및 오프라인 매출 성장률",
-        "계절적 요인 및 프로모션 효과"
+        "미국 증시의 추가 상승 동력 여부",
+        "국내 증시 거래량 및 외국인 투자자 순매수 동향",
+        "한국은행 금통위의 금리 인하 기대감 변화 및 장단기 금리차 추이"
       ],
       "related_news_titles": [
-        "'수출 호조·증시 활황'에 낙관적 경기 판단, 소비심리 6.9p 상승",
-        "수출 호조와 증시 활황에 힘입어 소비심리 개선"
+        "오늘 미국 증시: 중동 정세 개선 기대감에 다우 지수 사상 최고치 경신, 워시 Fed 의장 취임",
+        "미국 2년물 국채 금리, 연방 기금 금리 추월. 역사적으로 연준은 다음 행동을 준비할 것이다.",
+        "다우 지수, 금리 완화에 힘입어 사상 최고치 경신"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "관심",
-      "reason": "미국 다우지수의 사상 최고치 경신과 글로벌 투자심리 개선은 국내 증시 활황으로 이어질 가능성이 높으며, 이는 증권사들의 거래대금 및 수수료 수익 증가에 긍정적인 영향을 미칠 것입니다.",
+      "sector": "자동차",
+      "opinion": "주의",
+      "reason": "원/달러 환율의 고공행진은 수출 중심 기업인 현대차에게 단기적으로는 환율 효과에 따른 수익성 개선을 기대할 수 있으나, 원자재 수입 비용 증가 및 국내 물가 상승 압력, 외국인 자금 이탈 가능성 등 국내 거시경제 전반에 미치는 부정적인 영향도 간과할 수 없습니다. 따라서 환율 변동과 국내외 수요 변화에 대한 지속적인 모니터링이 필요합니다.",
       "check_points": [
-        "국내외 증시 거래대금 및 투자심리 동향",
-        "금리 변동에 따른 자산운용 수익성 변화",
-        "해외 투자 및 IB 부문 실적 성장 여부"
+        "원/달러 환율 추가 상승 여부 및 환헤지 전략",
+        "주요 수출 시장의 판매량 및 경쟁 환경",
+        "원자재 가격 변동 추이 및 글로벌 경기 둔화 가능성"
       ],
       "related_news_titles": [
-        "다우 지수, 미-이란 회담 속 롤러코스터 장세 끝에 사상 최고치 마감",
-        "다우 지수, 이란 협상 기대감에 주식 반등하며 278포인트 상승"
+        "6일 연속 1500원…환율 고공행진 언제까지?",
+        "[주간증시전망] 삼성전자 파업 고비 넘긴 증시…다음 변수는 물가와 금통위"
       ]
     }
   ],
