@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23 08:01",
-  "analysis_date": "2026-05-23",
+  "generated_at": "2026-05-24 07:54",
+  "analysis_date": "2026-05-24",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,138 +13,134 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 증시는 사상 최고치를 경신했으나, 금리 역전 현상과 고환율 등 국내외 복합적인 거시경제 변수에 대한 주의가 요구됩니다. 한편, AI 관련 신기술 분야의 성장 동력은 긍정적인 투자 기회를 제공합니다.",
-    "국내거시경제": "원/달러 환율이 6일 연속 1500원대를 기록하며 고공행진 중이며, 이는 수입 물가 상승과 기업 채산성 악화 우려를 키우고 있습니다. 삼성전자 파업 리스크는 일단락되었으나, 향후 물가 지표와 한국은행 금융통화위원회의 결정이 국내 증시의 주요 변수가 될 것입니다.",
-    "글로벌경제": "중동 정세 개선 기대감은 글로벌 시장에 긍정적인 영향을 미쳤으나, 미국 2년물 국채 금리가 연방 기금 금리를 추월하며 연준의 통화 정책 변화 가능성에 대한 경계심이 고조되고 있습니다.",
-    "증시금리": "미국 다우 지수는 중동 정세 개선 기대감과 금리 완화에 힘입어 사상 최고치를 경신했습니다. 하지만 미국 장단기 금리 역전 현상은 과거 연준의 긴축 전환 신호로 해석될 수 있어 글로벌 금리 동향에 대한 면밀한 관찰이 필요합니다.",
-    "부동산정책": "해당 없음",
-    "기업산업": "엔비디아의 실적 발표에서 엣지 컴퓨팅 분야의 2,000억 달러 규모 신규 성장 기회가 부각되었습니다. 이는 AI 및 데이터 처리 수요 증가에 따라 관련 산업 전반에 긍정적인 영향을 미칠 것으로 전망됩니다.",
-    "오늘의투자시사점": "미국 증시의 강세에도 불구하고 장단기 금리 역전 현상과 국내 고환율 지속 등 거시경제 불확실성에 대비해야 합니다. 반면, 엔비디아와 같은 선도 기업이 제시하는 AI 및 엣지 컴퓨팅 분야의 새로운 성장 동력은 국내 관련 기업들에게도 투자 기회를 제공할 수 있습니다.",
-    "오늘의한줄": "글로벌 증시의 긍정적 흐름 속에서도 금리 역전과 고환율에 유의하며, AI 등 신기술 분야의 성장 잠재력에 주목해야 합니다."
+    "총평": "미국 증시 강세와 국내 경제 성장률 상향 조정 기대감 속, 고환율 압력과 빚투 위험이 공존하며 신중한 접근이 요구되는 시장입니다.",
+    "국내거시경제": "한국은행이 반도체 호황에 힘입어 올해 국내 경제 성장률 전망치를 2.0%에서 2.5~2.6%로 상향 조정할 것으로 예상됩니다. 이는 경기 회복에 대한 기대감을 높입니다.",
+    "글로벌경제": "미국 S&P 500 지수가 8주 연속 상승하고 다우존스 지수가 사상 최고치를 경신하며 월스트리트의 견조한 흐름을 이어갔습니다.",
+    "증시금리": "원/달러 환율이 1520원 돌파를 앞두며 상방 압력이 지속되고 있습니다. 미국발 고금리 기조가 이어지며 국내 증시의 '빚투' 규모는 잠재적 위험 요소로 지목됩니다. 한편, 변동성이 높은 시장에서 우선주 ETF를 통한 안정적인 배당 수익 추구 전략도 제시되었습니다.",
+    "부동산정책": "관련된 주요 뉴스 없음.",
+    "기업산업": "한국앤컴퍼니가 자산 27조원으로 재계 30대 대기업에 진입했으며, 미래 모빌리티 및 데이터센터 액침냉각 등 신사업 확장으로 기업 가치 재평가 기대감이 높습니다.",
+    "오늘의투자시사점": "국내 반도체발 성장 모멘텀과 미국 증시 강세는 긍정적이나, 고환율과 미국발 고금리 지속에 따른 국내 빚투 부담을 면밀히 주시해야 합니다. 포트폴리오 다각화 및 안정적 수익 전략을 고려하는 보수적인 접근이 바람직합니다.",
+    "오늘의한줄": "성장 기대감과 함께 고환율 및 빚투 위험이 상존하는 시장, 신중하고 분산된 투자 전략이 중요합니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "오늘 미국 증시: 중동 정세 개선 기대감에 다우 지수 사상 최고치 경신, 워시 Fed 의장 취임",
-      "display_title": "오늘 미국 증시: 중동 정세 개선 기대감에 다우 지수 사상 최고치 경신, 워시 Fed 의장 취임",
-      "original_title": "US stocks today: Dow hits record high as Middle East hopes lift sentiment and Warsh takes Fed charge - The Economic Times",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "한국앤컴퍼니, 자산 27조로 재계 30대 대기업 진입... 미래 모빌리티 및 데이터센터 액침냉각 사업 확장",
+      "display_title": "한국앤컴퍼니, 자산 27조로 재계 30대 대기업 진입... 미래 모빌리티 및 데이터센터 액침냉각 사업 확장",
+      "original_title": "[특보] 한국앤컴퍼니 자산 27조 재계 30대 대기업 진입 => 조현범 회장 10년 집념의 메가딜 완성 -> 타이어 배터리 열관리 미래 모빌리티 삼각 편대 구축 >> 엔비디아 젠슨 황 예고 데이터센터 액침냉각 전격 진출 - 데일리머니",
       "summary": [
-        "다우 지수가 중동 정세 개선 기대감에 힘입어 사상 최고치를 경신했으며, 워시가 연준 의장으로 취임했습니다.",
-        "지정학적 리스크 완화와 새로운 연준 의장 취임에 대한 기대감이 복합적으로 작용한 것으로 보입니다.",
-        "지정학적 안정과 통화 정책 변화는 글로벌 증시의 주요 동력으로 작용하며, 국내 증시에도 영향을 줄 수 있습니다."
+        "한국앤컴퍼니가 자산 27조원을 기록하며 재계 30대 대기업에 진입했습니다.",
+        "조현범 회장의 주도로 타이어, 배터리 열관리, 미래 모빌리티를 아우르는 사업 포트폴리오를 완성했으며, 특히 데이터센터 액침냉각 시장 진출을 발표했습니다.",
+        "이는 전통적인 사업 영역을 넘어 AI 및 데이터센터 인프라 관련 신성장 동력을 확보하려는 노력으로, 기업 가치 재평가 가능성을 시사합니다."
       ],
-      "summary_text": "다우 지수가 중동 정세 개선 기대감에 힘입어 사상 최고치를 경신했으며, 워시가 연준 의장으로 취임했습니다. 지정학적 리스크 완화와 새로운 연준 의장 취임에 대한 기대감이 복합적으로 작용한 것으로 보입니다. 지정학적 안정과 통화 정책 변화는 글로벌 증시의 주요 동력으로 작용하며, 국내 증시에도 영향을 줄 수 있습니다.",
-      "description": "중동 정세 개선에 대한 기대감이 투자 심리를 끌어올리며 다우 지수가 사상 최고치를 경신했고, 워시가 연준 의장으로 취임했습니다.",
-      "category": "증시·금리",
+      "summary_text": "한국앤컴퍼니가 자산 27조원을 기록하며 재계 30대 대기업에 진입했습니다. 조현범 회장의 주도로 타이어, 배터리 열관리, 미래 모빌리티를 아우르는 사업 포트폴리오를 완성했으며, 특히 데이터센터 액침냉각 시장 진출을 발표했습니다. 이는 전통적인 사업 영역을 넘어 AI 및 데이터센터 인프라 관련 신성장 동력을 확보하려는 노력으로, 기업 가치 재평가 가능성을 시사합니다.",
+      "description": "한국앤컴퍼니가 자산 27조 규모로 재계 30대 대기업에 진입하며, 조현범 회장의 10년 집념으로 타이어, 배터리 열관리, 미래 모빌리티 사업 삼각편대를 구축하고 엔비디아의 젠슨 황 예고에 맞춰 데이터센터 액침냉각 사업에 전격 진출한다.",
+      "category": "기업·산업",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "전반적 시장, 금융",
+      "related_sector": "모빌리티, 데이터센터, 반도체 장비",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "한국앤컴퍼니"
       ],
       "investment_view": "관심",
-      "investment_reason": "중동 정세 개선 기대감과 새로운 연준 의장 취임은 글로벌 증시와 금리 정책에 큰 영향을 미칠 수 있는 중요한 변화이기 때문입니다.",
-      "key_signal": "새로운 연준 의장의 향후 통화 정책 방향성과 중동 지역의 실제 안정화 여부를 면밀히 관찰해야 합니다.",
+      "investment_reason": "한국앤컴퍼니의 대기업 진입과 데이터센터 액침냉각 등 신사업 진출은 기업의 미래 성장 동력 확보 및 가치 재평가 기회로 이어질 수 있습니다.",
+      "key_signal": "한국앤컴퍼니의 액침냉각 기술 개발 및 시장 진출 구체화 여부, 그리고 관련 협력사 동향을 주시해야 합니다.",
       "keywords": [
-        "다우존스",
-        "미국 증시",
-        "중동 정세",
-        "Fed 의장",
-        "사상 최고치"
+        "한국앤컴퍼니",
+        "액침냉각",
+        "데이터센터",
+        "미래모빌리티",
+        "대기업"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbjB2RXctMmhsOUFrdVFrQnhWTkxVU09XQWY1Y0p1bHBHS1Flekc1cjB6SlA2Q2pIQjAwWnZISmZUOHVIT0xRMnd3Y0JKWm1BRzRrbGw4YTRZb2tvLWtuWDZPQlIwbEtVVEVaaHFaZ0RQaGVubVlDdHNRVXAyd0FvMGoxQTIwVGdiRk1Zc1plQ1NldXMxR1hiOG5EcXRyRUNSeEFUUi1BVjQxSFB3dFU3RTlVLVBFNTdlZzE0MENyem85T2xKaWRwSkxTRXo2YlJBM2JPcVJ1WWl0cm5XSVlCZzZZZEhud0I1RjhRZ1Vfa3lQcllXRTJQMkJjQXZ5RndDclRNZ3NmSdIBjAJBVV95cUxPWjNUM2h4SjdralZGRHdualA3U0VwblRYZXowYW0tUkxkUGZldlA3Um51TlU5ZFctX1AtQzdyTkpkRUhNdm91MW9JaGhlMFRIcHdsb2FkYllkYm9VUVBENVZDSC16bTNsb01JbXduNVVkQlVKN1B4ek5ZYkpjckhvWFBNb3k0b09va3RvbV9VMm5DcFR3T3RwUnJGM0hkanBudWFKRjdVTDVTaUxTZDVJSFpacHBnQVRkMGN0Yko0cmNkZ2dCMklXdUNKNTlPd3V4QUhoM3BzWkV6SGdWaVVFd1htSlVZNWlnTnByMmVaT3VmY2ZMdWdmR2FCV2sxY01NOFB6dmdFNThxdlF5?oc=5",
-      "published": "2026-05-23 05:08",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iNktpN0JzSU5mSldfR1RaQS1BQ2trMUlUWkVHTHhKRGhxeFJSUW5wbHJhaENwLVF5RTlqNTJ2OE9iTHd3cURUOW5CUU43cnRzc0ppbXY1SnNQSmJVSXRnYTh2RTFRaG55Q0x2WDMyMTlmNjQ?oc=5",
+      "published": "2026-05-24 05:22",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 2년물 국채 금리, 연방 기금 금리 추월. 역사적으로 연준은 다음 행동을 준비할 것이다.",
-      "display_title": "미국 2년물 국채 금리, 연방 기금 금리 추월. 역사적으로 연준은 다음 행동을 준비할 것이다.",
-      "original_title": "The 2-Year U.S. Treasury Yield Has Now Blown Past the Federal Funds Rate. History Says the Fed Will Do This Next - The Motley Fool",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "반도체 호황으로 한국은행 올해 성장률 전망치 2.0%에서 2.5~2.6%로 상향 조정 예상",
+      "display_title": "반도체 호황으로 한국은행 올해 성장률 전망치 2.0%에서 2.5~2.6%로 상향 조정 예상",
+      "original_title": "반도체 호황에…한은 올해 성장 전망 2.0%→2.5∼2.6%로 높일 듯 - 연합뉴스",
       "summary": [
-        "미국 2년물 국채 금리가 연방 기금 금리를 추월하는 현상이 발생했습니다.",
-        "과거 사례를 비춰볼 때, 이러한 현상은 연준의 통화 정책 변화, 특히 금리 인상 또는 긴축 전환의 신호일 수 있습니다.",
-        "장단기 금리 역전 현상은 경기 침체 우려와 통화 정책 전환 가능성을 시사하므로, 국내외 금리 변동에 대한 면밀한 분석이 필요합니다."
+        "한국은행이 반도체 산업의 호황에 힘입어 올해 국내 경제 성장률 전망치를 기존 2.0%에서 2.5~2.6%로 상향 조정할 것으로 예상됩니다.",
+        "이는 최근 반도체 업황 개선이 국내 경제 전반에 긍정적인 영향을 미치고 있음을 시사하며, 경기 회복에 대한 기대감을 높입니다.",
+        "성장률 상향은 기업 투자와 고용에도 긍정적인 영향을 줄 수 있으나, 고금리 지속 및 국제 유가 등 대외 변수도 함께 고려하여 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "미국 2년물 국채 금리가 연방 기금 금리를 추월하는 현상이 발생했습니다. 과거 사례를 비춰볼 때, 이러한 현상은 연준의 통화 정책 변화, 특히 금리 인상 또는 긴축 전환의 신호일 수 있습니다. 장단기 금리 역전 현상은 경기 침체 우려와 통화 정책 전환 가능성을 시사하므로, 국내외 금리 변동에 대한 면밀한 분석이 필요합니다.",
-      "description": "미국 2년물 국채 금리가 연방 기금 금리를 넘어섰으며, 이는 역사적으로 연준의 다음 정책 변화를 예고하는 신호로 해석됩니다.",
-      "category": "증시·금리",
+      "summary_text": "한국은행이 반도체 산업의 호황에 힘입어 올해 국내 경제 성장률 전망치를 기존 2.0%에서 2.5~2.6%로 상향 조정할 것으로 예상됩니다. 이는 최근 반도체 업황 개선이 국내 경제 전반에 긍정적인 영향을 미치고 있음을 시사하며, 경기 회복에 대한 기대감을 높입니다. 성장률 상향은 기업 투자와 고용에도 긍정적인 영향을 줄 수 있으나, 고금리 지속 및 국제 유가 등 대외 변수도 함께 고려하여 투자 전략을 수립해야 합니다.",
+      "description": "반도체 산업의 호황에 힘입어 한국은행이 올해 경제 성장률 전망치를 기존 2.0%에서 2.5~2.6% 수준으로 상향 조정할 것으로 예상됩니다.",
+      "category": "국내 거시경제",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 채권",
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT, 수출주",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "장단기 금리 역전 현상은 경기 둔화 가능성과 연준의 통화 정책 변화를 예고하며, 이는 주식 및 채권 시장에 중대한 영향을 미치기 때문입니다.",
-      "key_signal": "연준의 공식 발표나 관계자 발언을 통해 향후 금리 정책 방향에 대한 구체적인 신호가 있는지 확인해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "한국은행의 성장률 상향은 국내 경제의 펀더멘털 개선을 의미하며, 특히 반도체 산업의 지속적인 성장에 대한 기대를 높여 관련 종목에 대한 투자 매력을 증가시킵니다.",
+      "key_signal": "한국은행의 실제 성장률 발표와 함께 반도체 수출 동향 및 글로벌 IT 수요 변화를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "미국 국채",
-        "2년물 금리",
-        "연방 기금 금리",
-        "금리 역전",
-        "연준"
+        "한국은행",
+        "경제성장률",
+        "반도체호황",
+        "거시경제",
+        "수출"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdm5PLWQ2RjJzaXlFd1RXVVN3NlZUWkxhQUVJWllxX2RJZVI0ZlljaWMtX1FOT2F1Y01kaE5NTGw5RDRtOGFLYVFsbkF5Rzh4UXFyQWJGU1psV0JvajNKSWJBbEtkS2FMNXRHSUlYN0FuVmpEYlpOMnAzdTdPTnh6QkoxOFhGcVdBMElzOXA0bzEyM0FBRDlWSA?oc=5",
-      "published": "2026-05-23 01:39",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VS2cweXVCdGtMc3NmUDBFRl9JMDl2NjFFQ0VJaVlXVWJuSlZvMXgtWWRqTmVlSzZlVGJ4MmRMRmVmMm8wNGVNZUhTSUtRTEpwa2xtY1l1YnJNZmZhQ0JxLdIBYEFVX3lxTE9VS2cweXVCdGtMc3NmUDBFRl9JMDl2NjFFQ0VJaVlXVWJuSlZvMXgtWWRqTmVlSzZlVGJ4MmRMRmVmMm8wNGVNZUhTSUtRTEpwa2xtY1l1YnJNZmZhQ0JxLQ?oc=5",
+      "published": "2026-05-24 06:01",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "테크 다운로드: 엔비디아 실적 발표에서 놓쳤을 수도 있는 2,000억 달러 기회와 엣지 컴퓨팅",
-      "display_title": "테크 다운로드: 엔비디아 실적 발표에서 놓쳤을 수도 있는 2,000억 달러 기회와 엣지 컴퓨팅",
-      "original_title": "The Tech Download: What you might have missed in Nvidia’s earnings — a $200 billion opportunity and edge computing - The Tech Buzz",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "환율 1520원 돌파 임박, 올해만 24차례 1500원선 터치... \"상방 압력 지속\"",
+      "display_title": "환율 1520원 돌파 임박, 올해만 24차례 1500원선 터치... \"상방 압력 지속\"",
+      "original_title": "환율 1520원 돌파 초읽기, 올해만 24차례 1500원선…\"상방 압력 지속\" - 뉴스1",
       "summary": [
-        "엔비디아의 실적 발표에서 엣지 컴퓨팅 분야에서 2,000억 달러 규모의 새로운 성장 기회가 부각되었습니다.",
-        "AI 및 데이터 처리 수요 증가로 엣지 컴퓨팅의 중요성이 커지고 있으며, 엔비디아가 이 시장에서 핵심적인 역할을 할 것으로 기대됩니다.",
-        "엔비디아와 같은 선도 기업의 새로운 성장 동력은 관련 산업 전반에 긍정적인 영향을 미치며, 국내 AI 및 반도체 관련 기업에도 투자 기회를 제공할 수 있습니다."
+        "원/달러 환율이 1520원 돌파를 앞두고 있으며, 올해 이미 1500원선을 24차례나 넘나들 정도로 높은 상방 압력을 받고 있습니다.",
+        "이는 글로벌 경제 불확실성, 미국 금리 인상 가능성, 국내 무역수지 등 복합적인 요인이 작용한 결과로 보입니다.",
+        "고환율은 수출 기업에게는 긍정적일 수 있으나, 수입 물가 상승 압력과 외국인 자금 유출 우려를 키워 국내 증시에 부담으로 작용할 수 있습니다."
       ],
-      "summary_text": "엔비디아의 실적 발표에서 엣지 컴퓨팅 분야에서 2,000억 달러 규모의 새로운 성장 기회가 부각되었습니다. AI 및 데이터 처리 수요 증가로 엣지 컴퓨팅의 중요성이 커지고 있으며, 엔비디아가 이 시장에서 핵심적인 역할을 할 것으로 기대됩니다. 엔비디아와 같은 선도 기업의 새로운 성장 동력은 관련 산업 전반에 긍정적인 영향을 미치며, 국내 AI 및 반도체 관련 기업에도 투자 기회를 제공할 수 있습니다.",
-      "description": "엔비디아 실적 발표에서 간과되었을 수 있는 2,000억 달러 규모의 엣지 컴퓨팅 시장 기회에 대해 다룹니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, 엣지 컴퓨팅",
+      "summary_text": "원/달러 환율이 1520원 돌파를 앞두고 있으며, 올해 이미 1500원선을 24차례나 넘나들 정도로 높은 상방 압력을 받고 있습니다. 이는 글로벌 경제 불확실성, 미국 금리 인상 가능성, 국내 무역수지 등 복합적인 요인이 작용한 결과로 보입니다. 고환율은 수출 기업에게는 긍정적일 수 있으나, 수입 물가 상승 압력과 외국인 자금 유출 우려를 키워 국내 증시에 부담으로 작용할 수 있습니다.",
+      "description": "환율이 1520원 돌파를 눈앞에 두고 있으며, 올해 들어서만 24차례 1500원선을 넘나들며 지속적인 상승 압력을 받고 있는 상황입니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "수출주, 수입 관련주, 항공, 정유",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "현대차"
       ],
-      "investment_view": "관심",
-      "investment_reason": "엔비디아의 엣지 컴퓨팅 시장 기회는 AI 및 반도체 산업의 지속적인 성장을 시사하며, 관련 국내 기업에도 긍정적인 투자 기회를 제공하기 때문입니다.",
-      "key_signal": "엔비디아의 엣지 컴퓨팅 관련 로드맵과 국내 협력사들의 관련 기술 개발 동향을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "고환율은 국내 증시에 외국인 자금 유출 압력을 가하고 수입 기업에 부담을 주어 투자 심리에 부정적인 영향을 미칠 수 있으므로 주의가 필요합니다.",
+      "key_signal": "한국은행의 환율 방어 개입 여부 및 미국 금리 인상 기조 변화 등 환율 방향에 영향을 미칠 주요 경제 지표를 주시해야 합니다.",
       "keywords": [
-        "엔비디아",
-        "엣지 컴퓨팅",
-        "AI",
-        "반도체",
-        "성장 기회"
+        "환율",
+        "고환율",
+        "달러",
+        "수출",
+        "수입물가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbC11aUJyQmU3dV84NVg4dXdVNUhDVG5NY25zZmdtQzc5THo2WFQ0ZDFFb3FJWFRCVl9YZEREelI4OU1GdHZ2QXNpOXFBaHhkVFpvZFRJMU5uemViMmtVUG83b1BzMndsRjlrSEI2Tmp6VDA5b0pNTF9sckQ1VDRrcVVXQkdfNUYzeXYyUWEtRXBVT2w2bVNuakpSY0VWVE1YU1JCTWo1eU1VMG80R1VkQV9ONTdqTm9FZWRzRXVaTzBWREVJQWNUaUJSbkxMb1lSLVR0S0szZXd1bVU?oc=5",
-      "published": "2026-05-22 20:41",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYX2RxVE9TMG5IMlRNTmlWeUxaZVVPN2ZreGktN3ZiVTFMYVRKYlhtV3pYd3hxY2RlbXBJXy1zbGRsZ0lLSHpuWVlwdWdBV29BVHY1OA?oc=5",
+      "published": "2026-05-24 07:10",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,37 +150,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "6일 연속 1500원…환율 고공행진 언제까지?",
-      "display_title": "6일 연속 1500원…환율 고공행진 언제까지?",
-      "original_title": "6일 연속 1500원…환율 고공행진 언제까지? - 헤럴드경제",
+      "title": "[미국발 고금리] 불안한 '빚투'... 질주하는 코스피의 '뇌관' 될 우려",
+      "display_title": "[미국발 고금리] 불안한 '빚투'... 질주하는 코스피의 '뇌관' 될 우려",
+      "original_title": "[미국발 고금리] 불안한 '빚투'…질주하는 코스피 '뇌관' 되나 - 매일경제 마켓",
       "summary": [
-        "원/달러 환율이 6일 연속 1500원대를 기록하며 고공행진 중입니다.",
-        "고환율은 수입 물가 상승, 기업 채산성 악화(수입 의존 기업), 외국인 투자자 이탈 우려 등 국내 경제에 부정적 영향을 미칠 수 있습니다.",
-        "환율 상승은 수출 기업에 긍정적일 수 있으나, 전반적인 경제 부담과 외국인 자금 유출 우려를 높여 증시에 부정적 요인으로 작용할 수 있으므로 주의가 필요합니다."
+        "미국발 고금리 기조가 지속되면서 국내 증시의 '빚투' 규모가 불안 요소로 작용할 수 있다는 경고가 나왔습니다.",
+        "높은 금리는 차입 비용을 증가시켜 개인 투자자들의 부담을 가중시키고, 이는 시장 조정 시 투매를 유발할 수 있는 잠재적 위험 요인으로 지목됩니다.",
+        "투자자들은 현재 시장의 유동성 흐름과 개인 신용잔고 추이를 면밀히 주시하며 과도한 레버리지 투자는 자제하고 보수적인 접근을 고려해야 합니다."
       ],
-      "summary_text": "원/달러 환율이 6일 연속 1500원대를 기록하며 고공행진 중입니다. 고환율은 수입 물가 상승, 기업 채산성 악화(수입 의존 기업), 외국인 투자자 이탈 우려 등 국내 경제에 부정적 영향을 미칠 수 있습니다. 환율 상승은 수출 기업에 긍정적일 수 있으나, 전반적인 경제 부담과 외국인 자금 유출 우려를 높여 증시에 부정적 요인으로 작용할 수 있으므로 주의가 필요합니다.",
-      "description": "원/달러 환율이 6일 연속 1500원대를 유지하며 고공행진을 이어가고 있어, 언제까지 이러한 추세가 지속될지 관심이 집중됩니다.",
-      "category": "국내 거시경제",
-      "importance": 9,
+      "summary_text": "미국발 고금리 기조가 지속되면서 국내 증시의 '빚투' 규모가 불안 요소로 작용할 수 있다는 경고가 나왔습니다. 높은 금리는 차입 비용을 증가시켜 개인 투자자들의 부담을 가중시키고, 이는 시장 조정 시 투매를 유발할 수 있는 잠재적 위험 요인으로 지목됩니다. 투자자들은 현재 시장의 유동성 흐름과 개인 신용잔고 추이를 면밀히 주시하며 과도한 레버리지 투자는 자제하고 보수적인 접근을 고려해야 합니다.",
+      "description": "미국발 고금리 기조가 이어지면서 불안한 '빚투(빚내서 투자)'가 급등하는 코스피의 '뇌관'이 될 수 있다는 우려가 제기되고 있습니다.",
+      "category": "증시·금리",
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "수출주, 수입 관련주, 외국인 투자 관련",
+      "related_sector": "전체 시장, 금융",
       "related_stocks": [
-        "현대차",
-        "삼성전자",
-        "대한항공"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "고환율은 국내 경제의 물가 상승 압력과 기업들의 원가 부담을 가중시키고, 외국인 투자자들의 자금 이탈을 유발할 수 있어 국내 증시에 부정적 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "정부와 한국은행의 환율 안정화 정책 방향, 그리고 글로벌 달러 강세 요인 변화 여부를 면밀히 주시해야 합니다.",
+      "investment_reason": "미국발 고금리와 국내 '빚투' 증가는 증시 전반의 하방 위험을 높일 수 있어 투자자들의 신중한 접근이 요구됩니다.",
+      "key_signal": "미국 연준의 금리 정책 변화, 국내 신용거래융자 잔고 추이, 그리고 금리 민감도가 높은 업종의 동향을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "환율",
-        "원달러 환율",
-        "고환율",
-        "수출 기업",
-        "물가 상승"
+        "고금리",
+        "빚투",
+        "신용융자",
+        "증시위험",
+        "시장불안"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZdU5JaXN1RUkxZHZMc1NrNHFFZHBnajM4Wkc0QkVQT2p5dkJTbXZrOEFFcHFNY2ZFaHlOYTFPSlNQZ2UtRXhuSlUwZGRTV2hRbzVVdkxn?oc=5",
-      "published": "2026-05-23 07:00",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05LTJSTWNHNUVlZnZTdFBrbVVsb1lmbXNxcEwzNzMzcVZkT1NXX3JGRnBZSHIzbDF6MG9obWhfaXByRzB4R0VaVzM0WTJLVjZER1E?oc=5",
+      "published": "2026-05-24 06:01",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -196,37 +192,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우 지수, 금리 완화에 힘입어 사상 최고치 경신",
-      "display_title": "다우 지수, 금리 완화에 힘입어 사상 최고치 경신",
-      "original_title": "Dow hits record high as easing yields lift Wall Street - Invezz",
+      "title": "월스트리트 리뷰: S&P 500 8주 연속 상승, 다우 지수 사상 최고치 경신",
+      "display_title": "월스트리트 리뷰: S&P 500 8주 연속 상승, 다우 지수 사상 최고치 경신",
+      "original_title": "Wall Street Review: S&P 500 Rallies for 8th Week, Dow Hits New Record High - mb.ntd.com",
       "summary": [
-        "다우존스 산업평균지수가 사상 최고치를 경신했습니다.",
-        "채권 금리 하락이 투자 심리를 개선하며 증시 상승을 견인했습니다.",
-        "글로벌 금리 추세가 증시 방향성에 중요한 지표임을 시사하므로 지속적인 관찰이 필요합니다."
+        "미국 S&P 500 지수가 8주 연속 상승세를 기록했고, 다우존스 지수는 사상 최고치를 경신하며 월스트리트의 강세를 이어갔습니다.",
+        "이는 미국 경제의 견조한 흐름과 기업 실적에 대한 긍정적인 기대감이 반영된 결과로, 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있습니다.",
+        "미국 증시의 강세는 국내 증시에도 호재로 작용할 수 있으나, 미국 금리 인상 등 잠재적 위험 요인도 함께 고려해야 합니다."
       ],
-      "summary_text": "다우존스 산업평균지수가 사상 최고치를 경신했습니다. 채권 금리 하락이 투자 심리를 개선하며 증시 상승을 견인했습니다. 글로벌 금리 추세가 증시 방향성에 중요한 지표임을 시사하므로 지속적인 관찰이 필요합니다.",
-      "description": "금리 완화 기조가 월스트리트 전반에 긍정적인 영향을 미치며 다우 지수가 사상 최고치를 기록했습니다.",
-      "category": "증시·금리",
+      "summary_text": "미국 S&P 500 지수가 8주 연속 상승세를 기록했고, 다우존스 지수는 사상 최고치를 경신하며 월스트리트의 강세를 이어갔습니다. 이는 미국 경제의 견조한 흐름과 기업 실적에 대한 긍정적인 기대감이 반영된 결과로, 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있습니다. 미국 증시의 강세는 국내 증시에도 호재로 작용할 수 있으나, 미국 금리 인상 등 잠재적 위험 요인도 함께 고려해야 합니다.",
+      "description": "월스트리트 시장 리뷰에서 S&P 500 지수가 8주 연속 상승했고, 다우존스 지수는 사상 최고치를 경신했다는 내용입니다.",
+      "category": "글로벌 경제",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "전반적 시장",
+      "related_sector": "글로벌 증시, IT, 기술주",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 증시의 강세는 글로벌 투자 심리 개선에 기여하며 국내 시장에도 긍정적인 파급 효과를 줄 수 있기 때문입니다.",
-      "key_signal": "오늘 국내 증시 개장 전 미국 시장의 마감 동향과 채권 금리 추이를 주시해야 합니다.",
+      "investment_reason": "미국 증시의 지속적인 강세는 글로벌 투자 심리를 개선하고 국내 증시의 상승 동력으로 작용할 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "미국 연준의 통화 정책 방향, 기업들의 실적 발표, 그리고 미국의 주요 경제 지표 발표를 주시하여 상승세 지속 여부를 판단해야 합니다.",
       "keywords": [
+        "미국증시",
+        "S&P500",
         "다우존스",
-        "미국 증시",
-        "금리 하락",
-        "사상 최고치",
-        "월스트리트"
+        "신고점",
+        "글로벌경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1MyNUQzZE9aRDNLU1MtOVpkSks0ZGRkUkNNdWpVRFFCUnBUZFhCaEdHcVdYTkF6Q2xjT2VMQm5OeHZtNUtzZEExbHJzRDZCYUFlNXM1VHQwSm9tUTYtTFBERks2QncwWC01Qnh4Z0RrcVJpWjZtajd4WU9RZVFaWkdXbDRTdzl4T0ZlYWd6SEdBWXhBVk0zeQ?oc=5",
-      "published": "2026-05-23 05:36",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakdKNkNOamJNY0JTOTVGWUl4dHowNHZuTUl1Qk56MnU5UU1QdVktUTJBR1JiSTlFS0F5UU5nM1dILXg3blNrUUpyQkowS2Z5WWVWVmd6YjVibVFwVl9sT01zTVd5RTZrc1VfZWRPcjJJcnlDQlgzZUlLM3NZRnd4b2FOYmpadlRIcUxFWUtJa29zV2JUTWN3a2REMVpNaV9JWGlHU0dR?oc=5",
+      "published": "2026-05-24 00:13",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -235,40 +230,38 @@
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[주간증시전망] 삼성전자 파업 고비 넘긴 증시…다음 변수는 물가와 금통위",
-      "display_title": "[주간증시전망] 삼성전자 파업 고비 넘긴 증시…다음 변수는 물가와 금통위",
-      "original_title": "[주간증시전망] 삼성전자 파업 넘긴 증시…다음 변수는 물가와 금통위 - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "주식시장 침체기에도 4개 우선주 ETF에 70만 달러 분산 투자하여 연 4만 2천 달러 수익 창출 방법",
+      "display_title": "주식시장 침체기에도 4개 우선주 ETF에 70만 달러 분산 투자하여 연 4만 2천 달러 수익 창출 방법",
+      "original_title": "How $700,000 Spread Across Four Preferred Stock ETFs Generates $42,000 a Year Even When the Stock Market Stalls - 24/7 Wall St.",
       "summary": [
-        "국내 증시는 삼성전자 파업 리스크를 일단락하며, 향후 물가 지표와 한국은행 금융통화위원회의 결정에 주목하고 있습니다.",
-        "고물가 기조가 이어질 경우 한국은행의 금리 인상 또는 긴축 기조가 강화될 수 있으며, 이는 증시에 부담으로 작용할 수 있습니다.",
-        "물가 지표와 금통위의 통화 정책은 국내 증시의 향방을 결정하는 핵심 변수이므로 관련 발표와 결정에 촉각을 세워야 합니다."
+        "주식시장 정체기에도 우선주 ETF에 분산 투자하여 안정적인 수익을 창출할 수 있는 투자 전략이 제시되었습니다.",
+        "구체적으로 70만 달러를 4개의 우선주 ETF에 투자해 연 4만 2천 달러(연 6% 수익률)를 얻는 방법이 소개되었습니다.",
+        "이는 시장 변동성이 높은 시기에 안정적인 배당 수익을 추구하는 투자자들에게 대안이 될 수 있으며, 포트폴리오 다각화 관점에서 고려해볼 만합니다."
       ],
-      "summary_text": "국내 증시는 삼성전자 파업 리스크를 일단락하며, 향후 물가 지표와 한국은행 금융통화위원회의 결정에 주목하고 있습니다. 고물가 기조가 이어질 경우 한국은행의 금리 인상 또는 긴축 기조가 강화될 수 있으며, 이는 증시에 부담으로 작용할 수 있습니다. 물가 지표와 금통위의 통화 정책은 국내 증시의 향방을 결정하는 핵심 변수이므로 관련 발표와 결정에 촉각을 세워야 합니다.",
-      "description": "삼성전자 파업 리스크를 넘긴 국내 증시가 이제는 물가 상승 압력과 한국은행 금융통화위원회의 통화 정책 결정에 주목하고 있습니다.",
-      "category": "국내 거시경제",
-      "importance": 8,
+      "summary_text": "주식시장 정체기에도 우선주 ETF에 분산 투자하여 안정적인 수익을 창출할 수 있는 투자 전략이 제시되었습니다. 구체적으로 70만 달러를 4개의 우선주 ETF에 투자해 연 4만 2천 달러(연 6% 수익률)를 얻는 방법이 소개되었습니다. 이는 시장 변동성이 높은 시기에 안정적인 배당 수익을 추구하는 투자자들에게 대안이 될 수 있으며, 포트폴리오 다각화 관점에서 고려해볼 만합니다.",
+      "description": "주식시장이 정체될 때에도 70만 달러를 네 개의 우선주 ETF에 분산 투자하여 연 4만 2천 달러의 수익을 창출하는 방법에 대한 내용입니다.",
+      "category": "증시·금리",
+      "importance": 6,
       "market_impact": "중립",
-      "related_sector": "전반적 시장, 금융, 소비재",
-      "related_stocks": [
-        "삼성전자"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "국내 증시의 향방은 물가 안정화 여부와 한국은행 금통위의 통화 정책 결정에 크게 좌우될 것이므로, 이에 대한 지속적인 모니터링이 필수적이기 때문입니다.",
-      "key_signal": "다음 주 발표될 물가 관련 지표와 한국은행 금융통화위원회의 공식 발표 내용을 통해 시장의 방향성을 가늠해야 합니다.",
+      "related_sector": "ETF, 금융",
+      "related_stocks": [],
+      "investment_view": "관심",
+      "investment_reason": "시장 변동성이 커지는 시기에 안정적인 현금흐름을 창출하는 우선주 ETF 투자 전략은 포트폴리오 방어 및 수익률 제고에 도움이 될 수 있습니다.",
+      "key_signal": "국내 우선주 시장 및 관련 ETF 상품의 수익률과 안정성을 해외 사례와 비교하여 분석해 볼 필요가 있습니다.",
       "keywords": [
-        "주간 증시",
-        "삼성전자",
-        "파업",
-        "물가",
-        "한국은행"
+        "우선주",
+        "ETF",
+        "배당",
+        "분산투자",
+        "안정적수익"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpZ3p6WUJ1dEM5c1JsR2JfcDBTNnJ2cEYxQnBNT2lZY1plRzZGNjluTDBXa1VkTnBSSVpENGNOOG5CYl9JbEhSREVXWnY4cmlrTzNN?oc=5",
-      "published": "2026-05-23 06:01",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX201akdudHM0RHlJaGktdnRPR3B6ekZiaTJsT2ZYNzZNWGVpT01RQ1dPVjhaNGdIRGhteVNpallpLXppZUs5cVRRRWxGOGRVN0RLVnpPYUIwWnFaRVBEVXJ4bkt5djBsZHlldDZ5M1hwSy1SR0JhNlRIdEEwam93dlI2OS1hNHlWeXBBREhEQjlQOGYxREJ4TmpGWUFNU0VHeUQ0NnlwTHVzRWFyN0hIcElZaWJUa1NPNmNlNG1Qb05tQTNRQUR1RzEtOG5CUFZFTWd5aUQ5WWFZUnhTTW1wTndjVkRJQmZ1Rjl3RER6RQ?oc=5",
+      "published": "2026-05-23 22:20",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -277,71 +270,70 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "한국앤컴퍼니",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "지주회사/모빌리티/데이터센터",
       "opinion": "관심",
-      "reason": "엔비디아의 엣지 컴퓨팅 시장 성장 기회는 AI 및 반도체 산업 전반에 긍정적인 영향을 미치며, 글로벌 반도체 선두 주자인 삼성전자에게 새로운 성장 동력을 제공할 수 있습니다. 다만, 고환율 장기화에 따른 국내 거시경제 불안정성과 한국은행 금통위의 통화 정책 변화는 함께 고려해야 할 변수입니다.",
+      "reason": "대기업 진입과 미래 모빌리티 및 데이터센터 액침냉각 등 신사업 진출은 기업의 미래 성장 동력 확보 및 가치 재평가 기회로 이어질 수 있습니다.",
       "check_points": [
-        "엣지 컴퓨팅 관련 기술 개발 및 투자 현황",
-        "D램 및 낸드 가격 추이와 실적 영향",
-        "환율 변동성 및 외국인 투자자 순매수 동향"
+        "대기업 진입에 따른 기업 가치 재평가",
+        "신사업(액침냉각)의 구체적인 사업 성과 및 확장 계획",
+        "미래 모빌리티 관련 투자 및 협력 동향"
       ],
       "related_news_titles": [
-        "테크 다운로드: 엔비디아 실적 발표에서 놓쳤을 수도 있는 2,000억 달러 기회와 엣지 컴퓨팅",
-        "6일 연속 1500원…환율 고공행진 언제까지?",
-        "[주간증시전망] 삼성전자 파업 고비 넘긴 증시…다음 변수는 물가와 금통위"
+        "한국앤컴퍼니, 자산 27조로 재계 30대 대기업 진입... 미래 모빌리티 및 데이터센터 액침냉각 사업 확장"
       ]
     },
     {
       "rank": 2,
-      "name": "한미반도체",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체 장비",
+      "sector": "반도체/IT",
       "opinion": "관심",
-      "reason": "엔비디아의 엣지 컴퓨팅 시장 확장 기회는 AI 반도체 수요를 증대시키고, 이는 HBM 등 고성능 메모리 제조에 필수적인 후공정 장비 기업인 한미반도체에 직접적인 수혜로 이어질 수 있습니다. AI 기술 발전의 핵심 수혜주로서 지속적인 관심이 필요합니다.",
+      "reason": "반도체 호황에 따른 한국은행의 성장률 상향 조정 기대와 미국 증시의 지속적인 강세가 글로벌 투자 심리 개선 및 국내 증시의 상승 동력으로 작용할 수 있습니다. 다만, 고환율 장기화 여부는 면밀한 관찰이 필요합니다.",
       "check_points": [
-        "엔비디아의 엣지 컴퓨팅 관련 투자 확대 여부",
-        "HBM 시장 성장률 및 점유율 변화",
-        "주요 고객사(파운드리, 메모리 제조사)의 CAPEX(설비투자) 계획"
+        "반도체 업황 개선 속도 및 실적 발표",
+        "글로벌 IT 및 인공지능(AI) 수요 회복세",
+        "환율 변동성 및 외국인 수급 영향"
       ],
       "related_news_titles": [
-        "테크 다운로드: 엔비디아 실적 발표에서 놓쳤을 수도 있는 2,000억 달러 기회와 엣지 컴퓨팅"
+        "반도체 호황으로 한국은행 올해 성장률 전망치 2.0%에서 2.5~2.6%로 상향 조정 예상",
+        "월스트리트 리뷰: S&P 500 8주 연속 상승, 다우 지수 사상 최고치 경신",
+        "환율 1520원 돌파 임박, 올해만 24차례 1500원선 터치... '상방 압력 지속'"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "중립",
-      "reason": "다우 지수의 사상 최고치 경신과 중동 정세 개선 기대감은 글로벌 투자 심리를 개선시켜 국내 증시에도 긍정적인 영향을 줄 수 있으며, 이는 증권사의 브로커리지 및 자산운용 수익 증가로 이어질 수 있습니다. 하지만 미국 2년물 국채 금리가 연방 기금 금리를 추월하는 장단기 금리 역전 현상은 경기 둔화 가능성을 시사하며, 국내 금통위의 통화 정책 방향 또한 불확실성을 더하고 있어 주의 깊은 관찰이 요구됩니다.",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "한국은행의 성장률 상향 조정 예상 배경에 반도체 호황이 언급되고, 미국 증시의 지속적인 강세가 글로벌 IT 및 기술주에 대한 긍정적인 투자 심리를 형성하며 국내 증시의 상승 동력으로 작용할 수 있습니다.",
       "check_points": [
-        "미국 증시의 추가 상승 동력 여부",
-        "국내 증시 거래량 및 외국인 투자자 순매수 동향",
-        "한국은행 금통위의 금리 인하 기대감 변화 및 장단기 금리차 추이"
+        "AI 반도체(HBM) 시장에서의 경쟁 우위",
+        "메모리 반도체 가격 상승 추이 및 공급 상황",
+        "글로벌 서버 투자 확대에 따른 수요 증가"
       ],
       "related_news_titles": [
-        "오늘 미국 증시: 중동 정세 개선 기대감에 다우 지수 사상 최고치 경신, 워시 Fed 의장 취임",
-        "미국 2년물 국채 금리, 연방 기금 금리 추월. 역사적으로 연준은 다음 행동을 준비할 것이다.",
-        "다우 지수, 금리 완화에 힘입어 사상 최고치 경신"
+        "반도체 호황으로 한국은행 올해 성장률 전망치 2.0%에서 2.5~2.6%로 상향 조정 예상",
+        "월스트리트 리뷰: S&P 500 8주 연속 상승, 다우 지수 사상 최고치 경신"
       ]
     },
     {
       "rank": 4,
-      "name": "현대차",
+      "name": "우선주 ETF",
       "market": "KOSPI",
-      "sector": "자동차",
-      "opinion": "주의",
-      "reason": "원/달러 환율의 고공행진은 수출 중심 기업인 현대차에게 단기적으로는 환율 효과에 따른 수익성 개선을 기대할 수 있으나, 원자재 수입 비용 증가 및 국내 물가 상승 압력, 외국인 자금 이탈 가능성 등 국내 거시경제 전반에 미치는 부정적인 영향도 간과할 수 없습니다. 따라서 환율 변동과 국내외 수요 변화에 대한 지속적인 모니터링이 필요합니다.",
+      "sector": "ETF/금융",
+      "opinion": "관심",
+      "reason": "미국발 고금리 우려와 국내 '빚투' 증가 등 시장 변동성 확대 가능성이 제기되는 시기에, 안정적인 현금흐름 창출이 가능한 우선주 ETF는 포트폴리오 방어 및 수익률 제고에 도움이 될 수 있는 투자 전략입니다.",
       "check_points": [
-        "원/달러 환율 추가 상승 여부 및 환헤지 전략",
-        "주요 수출 시장의 판매량 및 경쟁 환경",
-        "원자재 가격 변동 추이 및 글로벌 경기 둔화 가능성"
+        "시장 변동성 확대 여부 및 방어적 투자 심리",
+        "우선주 ETF의 배당 수익률 및 안정성",
+        "국내외 금리 인하 기대감 변화"
       ],
       "related_news_titles": [
-        "6일 연속 1500원…환율 고공행진 언제까지?",
-        "[주간증시전망] 삼성전자 파업 고비 넘긴 증시…다음 변수는 물가와 금통위"
+        "주식시장 침체기에도 4개 우선주 ETF에 70만 달러 분산 투자하여 연 4만 2천 달러 수익 창출 방법",
+        "[미국발 고금리] 불안한 '빚투'... 질주하는 코스피의 '뇌관' 될 우려"
       ]
     }
   ],
