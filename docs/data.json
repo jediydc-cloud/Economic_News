@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26 08:02",
-  "analysis_date": "2026-05-26",
+  "generated_at": "2026-05-27 08:10",
+  "analysis_date": "2026-05-27",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,94 +13,94 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 인플레이션 우려와 연준의 매파적 스탠스가 증시 전반에 부담을 주는 가운데, 미국 증시는 유가 및 국채 금리 하락에 힘입어 상승했습니다. 국내 증시는 고점 부담과 '빚투' 리스크 속에서 주요 거시 지표를 주시하며 숨고르기 중입니다.",
-    "국내거시경제": "고금리 경고에도 불구하고 국내 신용융자 잔고가 사상 최고치를 기록, 개인 투자자의 '빚투' 리스크가 심화되며 국내 금융 시장의 건전성에 대한 우려가 커지고 있습니다.",
-    "글로벌경제": "호르무즈 해협 사태는 글로벌 인플레이션 급등 우려를 증폭시키며 국제 유가 및 해상 운송 비용 상승 압력으로 작용할 전망입니다. 또한 연준 의사록은 향후 통화정책의 중대한 변화를 시사하며 전 세계 금융 시장에 영향을 미칠 가능성이 있습니다.",
-    "증시금리": "미국 다우지수, S&P 500, 나스닥 등 주요 지수는 유가 및 국채 수익률 하락에 힘입어 동반 상승했습니다. 반면, 연준의 매파적 통화정책 기조와 국내 '빚투' 리스크는 증시 전반의 변동성을 키우고 있습니다. 이번 주 미국 PCE 발표와 코스피 8천P 재도전 여부가 주요 관전 포인트입니다.",
-    "부동산정책": "특이사항 없음",
-    "기업산업": "특이사항 없음",
-    "오늘의투자시사점": "호르무즈 리스크로 인한 원자재 및 에너지 섹터에 대한 단기적 관심은 유효하나, 연준의 매파적 스탠스와 국내 '빚투' 과열은 유동성 축소 및 증시 조정 가능성을 높입니다. 금리 변동성에 취약한 성장주보다는 실적 기반의 가치주, 경기 방어주를 고려하고, 매크로 지표 및 시장 과열 여부를 면밀히 살피며 현금 비중을 확보하는 등 신중한 투자 전략이 요구됩니다.",
-    "오늘의한줄": "글로벌 인플레이션 우려와 연준의 매파적 스탠스 속 국내 '빚투' 리스크까지 겹쳐 시장 변동성이 커지는 만큼, 철저한 리스크 관리와 신중한 투자 전략이 필요한 시점입니다."
+    "총평": "국내 코스피는 사상 최초 8,000선을 돌파하며 역사적인 기록을 세웠고, 글로벌 증시 역시 나스닥과 S&P 500 지수가 최고치를 경신하는 등 전반적인 강세장이 이어졌습니다. 지정학적 긴장 완화 기대감과 대형 기술주 중심의 상승세가 시장을 이끌었습니다.",
+    "국내거시경제": "국내 증시의 사상 최고치 경신은 투자 심리에 매우 긍정적이며, 반도체 등 주요 산업의 견조한 흐름이 국내 경제 전반에 활력을 불어넣을 것으로 기대됩니다.",
+    "글로벌경제": "휴전 기대감 속에 나스닥과 S&P 500 지수가 사상 최고치를 경신하며 글로벌 투자 심리가 개선되었습니다. 지정학적 긴장 완화는 위험 자산 선호 현상을 강화하며 전 세계 증시에 긍정적인 영향을 미치고 있습니다.",
+    "증시금리": "코스피는 삼성전자와 SK하이닉스 주도로 8,000선을 돌파하며 연일 최고치를 경신했습니다. 미국 증시 또한 기술주 중심의 강세가 지속되며 사상 최고점을 갈아치웠습니다. 한편, 채권 수익률 상승에 따른 포트폴리오 조정 필요성에 대한 논의도 부각되었으며, 신중한 장기적 접근이 강조됩니다.",
+    "부동산정책": "관련 뉴스 없음.",
+    "기업산업": "삼성전자와 SK하이닉스가 코스피 8,000선 돌파를 주도하며 국내 반도체 산업의 강력한 성장세를 입증했습니다. 이는 기술주 전반에 대한 긍정적인 전망을 강화하며 시장의 주요 동력으로 작용하고 있습니다.",
+    "오늘의투자시사점": "글로벌 및 국내 증시의 역사적인 강세는 대형 기술주와 지정학적 긴장 완화 기대감에 힘입어 당분간 지속될 수 있습니다. 투자자들은 반도체 섹터의 지속적인 강세 여부와 채권 시장의 변동성에 대한 신중한 대응을 통해 기회를 모색해야 합니다.",
+    "오늘의한줄": "국내외 증시가 대형 기술주와 지정학적 긴장 완화 기대감 속에서 동반 사상 최고치를 경신하며 강력한 상승 모멘텀을 이어갔습니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "호르무즈 해협 사태, 글로벌 인플레이션 급등 우려 증폭",
-      "display_title": "호르무즈 해협 사태, 글로벌 인플레이션 급등 우려 증폭",
-      "original_title": "Hormuz fallout raises fears of global inflation surge - سانا",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피, 사상 최초 8,000선으로 마감…삼성전자·SK하이닉스 강세",
+      "display_title": "코스피, 사상 최초 8,000선으로 마감…삼성전자·SK하이닉스 강세",
+      "original_title": "코스피, 사상 첫 '8천피' 마감…삼전·닉스 '훨훨' - 연합뉴스",
       "summary": [
-        "호르무즈 해협의 불안정으로 인해 국제 유가 상승 및 해상 운송 비용 증가가 예상되며, 이는 글로벌 인플레이션을 부추길 수 있습니다.",
-        "호르무즈 해협은 세계 석유 수송의 핵심 통로로, 이곳의 지정학적 리스크는 에너지 시장에 즉각적인 영향을 미칩니다.",
-        "인플레이션 헤지 자산(원자재) 및 유가 상승 수혜주(정유, 에너지)에 대한 관심이 높아질 수 있으나, 전반적인 경제 성장 둔화 가능성도 고려해야 합니다."
+        "코스피 지수가 사상 최초로 8,000포인트로 장을 마감하는 대기록을 세웠다.",
+        "삼성전자와 SK하이닉스의 주가가 강력한 상승세를 보이며 코스피 지수 8,000선 돌파를 주도했다.",
+        "국내 증시의 역사적인 고점 경신은 투자 심리에 긍정적인 영향을 미치며, 대형 기술주 중심의 시장 강세가 지속될 가능성이 높다."
       ],
-      "summary_text": "호르무즈 해협의 불안정으로 인해 국제 유가 상승 및 해상 운송 비용 증가가 예상되며, 이는 글로벌 인플레이션을 부추길 수 있습니다. 호르무즈 해협은 세계 석유 수송의 핵심 통로로, 이곳의 지정학적 리스크는 에너지 시장에 즉각적인 영향을 미칩니다. 인플레이션 헤지 자산(원자재) 및 유가 상승 수혜주(정유, 에너지)에 대한 관심이 높아질 수 있으나, 전반적인 경제 성장 둔화 가능성도 고려해야 합니다.",
-      "description": "호르무즈 해협에서 발생한 사태가 국제 유가 및 운송 비용 상승으로 이어져 글로벌 인플레이션 급등에 대한 우려를 키우고 있습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "코스피 지수가 사상 최초로 8,000포인트로 장을 마감하는 대기록을 세웠다. 삼성전자와 SK하이닉스의 주가가 강력한 상승세를 보이며 코스피 지수 8,000선 돌파를 주도했다. 국내 증시의 역사적인 고점 경신은 투자 심리에 긍정적인 영향을 미치며, 대형 기술주 중심의 시장 강세가 지속될 가능성이 높다.",
+      "description": "코스피 지수가 사상 처음으로 8,000포인트로 마감하며 역사적인 기록을 세웠고, 삼성전자와 SK하이닉스 주가가 크게 상승했다.",
+      "category": "증시·금리",
       "importance": 10,
-      "market_impact": "부정",
-      "related_sector": "에너지, 정유, 해운, 화학",
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT 대형주",
       "related_stocks": [
-        "한국석유",
-        "흥아해운"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "호르무즈 해협 리스크는 국제 유가 급등과 글로벌 인플레이션 악화로 이어져 전 세계 경제와 증시에 심각한 부정적 영향을 미칠 수 있습니다.",
-      "key_signal": "호르무즈 해협의 지정학적 상황 변화와 국제 유가, 해상 운송료 추이를 면밀히 모니터링하며 인플레이션 헤지 전략을 고려해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "국내 증시의 역사적인 기록 경신과 함께 주요 대형주의 강력한 상승세를 보여주므로, 시장의 핵심 동력을 파악하는 데 매우 중요하다.",
+      "key_signal": "코스피 8,000선 지지 여부와 반도체 업황 개선에 대한 추가적인 지표들을 확인해야 한다.",
       "keywords": [
-        "호르무즈 해협",
-        "글로벌 인플레이션",
-        "유가 급등",
-        "지정학적 리스크",
-        "해상 운송"
+        "코스피",
+        "8000포인트",
+        "사상최고치",
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82SWVybk12bDdGd2hIbGF2TTJVdUlaVEwxOW9aLU9HRC1vb1gtb0VXNWdqblJPVDdQQjQ3cWRsOUU4R0pDTFlHT2V5Vzc?oc=5",
-      "published": "2026-05-26 03:40",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZUdUMV91bC1tTHJ4SmU4eXcxZURQTFE0dy1pYlZhYi11eC1aRHVNaHN0RFhQTkU2QS1iSEhETkhWVERHcUxoREplMnY4Zm94enBjeWhtYWFNbnNMbmNuUNIBYEFVX3lxTE5TZUdUMV91bC1tTHJ4SmU4eXcxZURQTFE0dy1pYlZhYi11eC1aRHVNaHN0RFhQTkU2QS1iSEhETkhWVERHcUxoREplMnY4Zm94enBjeWhtYWFNbnNMbmNuUA?oc=5",
+      "published": "2026-05-26 16:06",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "다우지수 월 최고 상승, S&P 500과 나스닥 동반 상승: 유가 및 국채 수익률 하락",
-      "display_title": "다우지수 월 최고 상승, S&P 500과 나스닥 동반 상승: 유가 및 국채 수익률 하락",
-      "original_title": "Dow clocks best day so far this month, S&P 500 and Nasdaq climb as oil, yields cool off—META, LOW, HAS, NVDA, INTU in focus - MSN",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피 8,000선 사상 최고치 경신, '종전'과 삼성전자·SK하이닉스 주도",
+      "display_title": "코스피 8,000선 사상 최고치 경신, '종전'과 삼성전자·SK하이닉스 주도",
+      "original_title": "종전·삼전닉스 기대에…코스피 8,000선 최고치 - v.daum.net",
       "summary": [
-        "다우지수, S&P 500, 나스닥 등 미국 주요 지수가 유가 및 국채 수익률 하락에 힘입어 일제히 상승했습니다.",
-        "유가와 국채 수익률 하락은 인플레이션 압력 완화 기대를 높여 주식 시장에 긍정적으로 작용했습니다.",
-        "기술주 중심의 상승세가 이어질 수 있으며, 에너지 및 금융 섹터의 동향을 함께 살펴야 합니다."
+        "코스피 지수가 8,000선을 돌파하며 사상 최고치를 경신했다.",
+        "국제 정세의 '종전' 기대감과 삼성전자, SK하이닉스 등 주요 대형주의 상승이 지수 상승을 견인했다.",
+        "국내 증시의 강세가 지속될 가능성이 있으며, 대형 기술주 중심의 시장 흐름에 주목해야 한다."
       ],
-      "summary_text": "다우지수, S&P 500, 나스닥 등 미국 주요 지수가 유가 및 국채 수익률 하락에 힘입어 일제히 상승했습니다. 유가와 국채 수익률 하락은 인플레이션 압력 완화 기대를 높여 주식 시장에 긍정적으로 작용했습니다. 기술주 중심의 상승세가 이어질 수 있으며, 에너지 및 금융 섹터의 동향을 함께 살펴야 합니다.",
-      "description": "유가와 국채 수익률이 하락하면서 다우지수가 월간 최고 상승을 기록했고, S&P 500과 나스닥 지수도 동반 상승했습니다. META, LOW, HAS, NVDA, INTU 등 특정 종목들이 주목받았습니다.",
+      "summary_text": "코스피 지수가 8,000선을 돌파하며 사상 최고치를 경신했다. 국제 정세의 '종전' 기대감과 삼성전자, SK하이닉스 등 주요 대형주의 상승이 지수 상승을 견인했다. 국내 증시의 강세가 지속될 가능성이 있으며, 대형 기술주 중심의 시장 흐름에 주목해야 한다.",
+      "description": "국내 증시 코스피 지수가 8,000선을 돌파하며 사상 최고치를 기록했으며, 이는 '종전' 기대감과 삼성전자 및 SK하이닉스의 강세에 힘입은 결과이다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "기술주, 반도체",
+      "related_sector": "반도체, IT 대형주",
       "related_stocks": [
-        "엔비디아",
-        "메타"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 주요 지수의 상승은 글로벌 투자 심리에 긍정적인 영향을 미치며, 유가 및 금리 하락은 기업 실적 개선 기대를 높일 수 있습니다.",
-      "key_signal": "유가 및 국채 수익률의 추가 하락 여부와 주요 기술 기업들의 실적 발표에 주목하여 투자 전략을 수립해야 합니다.",
+      "investment_reason": "국내 증시의 주요 상승 동력을 이해하고 시장 전반의 투자 심리를 파악하는 데 필수적인 소식이다.",
+      "key_signal": "코스피 8,000선 안착 여부와 삼성전자, SK하이닉스의 주가 흐름을 주시해야 한다.",
       "keywords": [
-        "미국 증시",
-        "S&P 500",
-        "나스닥",
-        "유가 하락",
-        "국채 금리"
+        "코스피",
+        "사상최고치",
+        "삼성전자",
+        "SK하이닉스",
+        "대형주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNd3VXRVVOODZUMFJqNXlNQWVabFdHQXpjOHRNY0VkQmlmNXAtTTNZTzRhUlVSZGk2b190NmJQc0trT2NuRTl2X2NQS0hWTTU3dXl0UDJFQy1nTXZROEZyT2xQR05oR3dDV1FTX0ItSUQtTmFBTHVNY2V3MkcwMzVmRGlRLUxBUkdDcG0xZU0xVDljNVBOSXlNSzVZcngzNERSSVZkRkh2OEpjbVhZNi1kQ2FINVctVFdObjVweUt2Um1BTjBuUFRfQzktQV9Fc0J0eDZfaDROM0QwTl9hVUxvdklkMUhReTBsTGhfN2ZmLS1VcXI5UFdIY3lIdDBKZTdFdDdkNXU5Qmxzd01RRGJGT3JHN3c1Y0ZYMmNyRlBoYnl2RU5Ha3p2eFVmQTh6T19qOG1haENiWVZqWExJUm5oTXdzNTF6OGZuVW9GalZXUUxXVm96eDYzWGFuNmI4dEpyeUJtYUhDdlZRTTBzOUNraEhkbGMzQUExcU5DWDJrMzcxd25mTW8zRWc4MXhTdjRJVnV1R05TLWVjTFY5Mmt1WUdsaGJOWURmUUNZaXBCWEtxZFYxNHZqMzQwa1Ztc3h1WFlHTUY4bjB6QnJOQ2h2OUxDYkc1UQ?oc=5",
-      "published": "2026-05-25 20:15",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDWWlGdXZiSEgyeXpWVnE5MnhQbFVCclRQVTNjcDJMMXVPc1RyZ3QzazFheWRieEt0NWFRRFZ3eTlBSkNTczV0eDlTRm5sME0?oc=5",
+      "published": "2026-05-26 21:11",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -110,36 +110,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "고금리 경고 속 '빚투' 리스크 확대: 신용융자 36조 원 사상 최고치",
-      "display_title": "고금리 경고 속 '빚투' 리스크 확대: 신용융자 36조 원 사상 최고치",
-      "original_title": "고금리 경고등에 다시 커진 ‘빚투’ 리스크…신용융자 36조 사상 최고권[코주부] - 서울경제",
+      "title": "코스피 8,000선 재돌파, 삼성전자와 SK하이닉스 강세 지속",
+      "display_title": "코스피 8,000선 재돌파, 삼성전자와 SK하이닉스 강세 지속",
+      "original_title": "코스피 8,000선 재돌파…'30만전자'·'200만닉스' - 네이트",
       "summary": [
-        "국내 신용융자 잔고가 36조 원을 돌파하며 사상 최고치를 기록, 고금리 환경에서의 '빚투' 리스크에 대한 우려가 커지고 있습니다.",
-        "주식 시장 활황과 금리 인하 기대감이 맞물려 개인 투자자의 공격적인 투자가 늘어났으나, 고금리 기조 유지 시 대출 상환 부담이 가중될 수 있습니다.",
-        "시장의 과열 여부를 판단하는 중요한 지표이며, 금리 인상 또는 하락 지연 시 시장 전체에 부정적인 영향을 미칠 수 있습니다."
+        "코스피 지수가 8,000선을 재돌파하며 상승세를 이어갔다.",
+        "삼성전자와 SK하이닉스의 주가가 상승세를 보이며 지수 상승을 견인했으며, 이는 시장 전반의 긍정적인 투자 심리를 반영한다.",
+        "국내 증시의 주도주인 반도체 대형주의 견고한 흐름이 지속될 경우 시장 전반의 상승 동력이 유지될 수 있다."
       ],
-      "summary_text": "국내 신용융자 잔고가 36조 원을 돌파하며 사상 최고치를 기록, 고금리 환경에서의 '빚투' 리스크에 대한 우려가 커지고 있습니다. 주식 시장 활황과 금리 인하 기대감이 맞물려 개인 투자자의 공격적인 투자가 늘어났으나, 고금리 기조 유지 시 대출 상환 부담이 가중될 수 있습니다. 시장의 과열 여부를 판단하는 중요한 지표이며, 금리 인상 또는 하락 지연 시 시장 전체에 부정적인 영향을 미칠 수 있습니다.",
-      "description": "고금리 상황이 지속되면서 '빚투'(빚내서 투자) 리스크가 다시 커지고 있으며, 신용융자 잔고가 36조 원으로 사상 최고 수준을 기록했습니다.",
+      "summary_text": "코스피 지수가 8,000선을 재돌파하며 상승세를 이어갔다. 삼성전자와 SK하이닉스의 주가가 상승세를 보이며 지수 상승을 견인했으며, 이는 시장 전반의 긍정적인 투자 심리를 반영한다. 국내 증시의 주도주인 반도체 대형주의 견고한 흐름이 지속될 경우 시장 전반의 상승 동력이 유지될 수 있다.",
+      "description": "국내 코스피 지수가 8,000선을 다시 돌파하며 상승세를 이어갔고, 이는 삼성전자와 SK하이닉스 등 주요 대형 기술주의 강세에 기인한다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "증권, 금융",
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT 대형주",
       "related_stocks": [
-        "미래에셋증권",
-        "삼성증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "과도한 신용융자 증가는 시장의 변동성을 키우고 금리 인상 등 외부 충격에 취약하게 만들 수 있어 주의가 필요합니다.",
-      "key_signal": "한국은행의 금리 결정과 신용융자 잔고 추이를 면밀히 주시하며, 시장 과열 여부를 판단하는 주요 지표로 활용해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "국내 증시의 핵심 동력인 반도체 대형주의 지속적인 강세 여부를 파악하는 데 중요한 지표이다.",
+      "key_signal": "삼성전자와 SK하이닉스의 실적 전망과 외국인 투자자 수급 동향을 면밀히 분석해야 한다.",
       "keywords": [
-        "빚투",
-        "신용융자",
-        "고금리",
-        "시장 과열",
-        "투자 리스크"
+        "코스피",
+        "8000선",
+        "삼성전자",
+        "SK하이닉스",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QTjFkRnQwMGN4VUE4WUZUZjUzc01aVTA4MFFTTFlZYzhCSVF6aURnaTFxMVVsa21BYTNneHFfcE9UUGRaU1hucndZcWdqeGVzcFHSAVNBVV95cUxQRDdBc0NaRERya3RWU09kdi1DRVZUZlYxZC16RWczU1N4TjB6aXZKd1dzNERTX29FU2x6aUdQWEhHLVBhQmk5WUJPNEFrNEFQMDJsRQ?oc=5",
-      "published": "2026-05-26 06:41",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZV9RS1g1NElNNnpSVU5xV290cTlhZktDNmpQV1kyc2tiQk5rYUtIOTNvSFoxM2dUNGxkLXNtdUVNZWxXOVo1Qkk4amZYUlBoRzVuTFM1bjFxSGp4aUx3cw?oc=5",
+      "published": "2026-05-26 10:30",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -151,37 +151,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 의사록, 통화정책의 큰 변화 시사: 역사적 고평가 증시 뒤흔들 가능성",
-      "display_title": "연준 의사록, 통화정책의 큰 변화 시사: 역사적 고평가 증시 뒤흔들 가능성",
-      "original_title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - The Motley Fool",
+      "title": "휴전 기대감 속에 나스닥과 S&P 500 지수 사상 최고치 경신",
+      "display_title": "휴전 기대감 속에 나스닥과 S&P 500 지수 사상 최고치 경신",
+      "original_title": "Nasdaq, S&P 500 Hit Record Highs Amid Ceasefire Hopes - 조선일보",
       "summary": [
-        "연방준비제도(Fed)의 회의록이 공개되어 향후 통화정책에 있어 중요한 변화가 있을 수 있음을 암시하며, 이는 고평가된 주식 시장에 큰 영향을 미칠 수 있습니다.",
-        "연준의 매파적 스탠스 강화는 금리 인상 기대감을 높여 유동성 축소 및 기업 실적에 대한 압박으로 작용할 수 있습니다.",
-        "금리 변동성에 취약한 성장주보다는 실적 기반의 가치주나 경기 방어주에 대한 관심이 필요하며, 현금 비중 확대도 고려할 수 있습니다."
+        "나스닥과 S&P 500 지수가 휴전 기대감에 힘입어 사상 최고치를 경신했다.",
+        "지정학적 긴장 완화에 대한 기대가 글로벌 투자 심리에 긍정적으로 작용하며 위험 자산 선호 심리를 높였다.",
+        "국제 정세의 안정화는 글로벌 증시 전반에 긍정적인 영향을 미치며, 국내 증시에도 상승 모멘텀을 제공할 수 있다."
       ],
-      "summary_text": "연방준비제도(Fed)의 회의록이 공개되어 향후 통화정책에 있어 중요한 변화가 있을 수 있음을 암시하며, 이는 고평가된 주식 시장에 큰 영향을 미칠 수 있습니다. 연준의 매파적 스탠스 강화는 금리 인상 기대감을 높여 유동성 축소 및 기업 실적에 대한 압박으로 작용할 수 있습니다. 금리 변동성에 취약한 성장주보다는 실적 기반의 가치주나 경기 방어주에 대한 관심이 필요하며, 현금 비중 확대도 고려할 수 있습니다.",
-      "description": "연방준비제도(Fed)의 의사록이 통화정책의 중대한 변화 가능성을 시사하며, 이는 역사적으로 높은 평가를 받는 주식 시장을 뒤흔들 수 있다는 우려를 제기합니다.",
-      "category": "증시·금리",
+      "summary_text": "나스닥과 S&P 500 지수가 휴전 기대감에 힘입어 사상 최고치를 경신했다. 지정학적 긴장 완화에 대한 기대가 글로벌 투자 심리에 긍정적으로 작용하며 위험 자산 선호 심리를 높였다. 국제 정세의 안정화는 글로벌 증시 전반에 긍정적인 영향을 미치며, 국내 증시에도 상승 모멘텀을 제공할 수 있다.",
+      "description": "국제적인 휴전 기대감이 높아지면서 미국 나스닥과 S&P 500 지수가 사상 최고치를 기록했다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 기술주, 경기 방어주",
+      "market_impact": "긍정",
+      "related_sector": "IT, 기술주",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준의 통화정책 변화는 글로벌 유동성과 금리 환경에 직접적인 영향을 미쳐 주식 시장의 전반적인 방향을 결정하는 핵심 변수입니다.",
-      "key_signal": "연준의 다음 FOMC 회의록 및 주요 인사 발언을 통해 매파적 기조의 강도를 파악하고, 시장 금리 변동에 따른 포트폴리오 조정을 고려해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "지정학적 리스크 완화는 글로벌 투자 심리 개선과 위험 자산 선호도를 높여 국내외 증시에 긍정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "실제 휴전 협상 진전 여부와 이에 따른 국제유가 및 환율 변동을 예의주시해야 한다.",
       "keywords": [
-        "연준 의사록",
-        "통화정책",
-        "금리 인상",
-        "고평가 증시",
-        "유동성 축소"
+        "나스닥",
+        "S&P500",
+        "사상최고치",
+        "휴전기대감",
+        "지정학적위험"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1ZNVEpVZ1FpZ2wzZ2pJMUlHWUsxaGVFamlwSXYxbnZzejBSbXNFVVo1NVQ3VDRxYUt3U3F1d1J6Ymo4V092MXBjLTY2eGctUW02bU5jWjVsUHc1Wm9BWFlNZWFkOHUzNS1TdjhHOXIzUHJtYTdZRHRsN3ZVN2dhYXRiU0FldlBvWnAwdnZBdmdpNDVSR1BXTw?oc=5",
-      "published": "2026-05-25 18:06",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaG9HZGxZeDdwUXprZVl3SnJuZHcwSl9HenVRdHB6WHh0UHMxNjdvckZQSU4tMlhxcnpWVV9namN3UzZZVmJmblh2SnVyOWJ0ZU5qMnctdGtMMzRURmNlWnJxWU9yLVNNNVFsZndwRDBsdWxUQTdDSmRkd1F5eW1fTXhOSWI?oc=5",
+      "published": "2026-05-27 05:16",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -190,84 +190,84 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[증시전략] 고점 부담 속 숨고르기, 美-이란 종전 합의 가능성",
-      "display_title": "[증시전략] 고점 부담 속 숨고르기, 美-이란 종전 합의 가능성",
-      "original_title": "[증시전략] 고점 부담에 숨고르기…美-이란, 드디어 종전 합의하나 - biz.sbs.co.kr.",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "아침 브리핑: S&P 500 및 나스닥 사상 최고치 경신, ASX 200 선물은 보합세",
+      "display_title": "아침 브리핑: S&P 500 및 나스닥 사상 최고치 경신, ASX 200 선물은 보합세",
+      "original_title": "Morning Wrap: ASX 200 futures flat, S&P 500 and Nasdaq notch fresh record high - Market Index",
       "summary": [
-        "국내 증시는 고점 부담으로 인해 조정 국면에 진입했으며, 미국과 이란 간의 종전 합의 가능성이 시장의 주요 변수로 부각되고 있습니다.",
-        "중동 지정학적 리스크 완화 기대감은 유가 하락으로 이어져 인플레이션 압력을 낮추고 증시에 긍정적일 수 있습니다.",
-        "유가 변동성에 민감한 에너지 관련주 및 항공, 해운 등 간접적인 수혜가 예상되는 섹터에 대한 관심이 필요합니다."
+        "S&P 500과 나스닥 지수가 또다시 사상 최고치를 경신하며 강세를 보였다.",
+        "글로벌 증시 전반에 긍정적인 투자 심리가 유지되고 있으며, 미국 기술주 중심의 상승세가 두드러진다.",
+        "미국 증시의 지속적인 상승세는 국내 증시에도 긍정적인 영향을 미칠 수 있으며, 기술주 강세 흐름을 주시해야 한다."
       ],
-      "summary_text": "국내 증시는 고점 부담으로 인해 조정 국면에 진입했으며, 미국과 이란 간의 종전 합의 가능성이 시장의 주요 변수로 부각되고 있습니다. 중동 지정학적 리스크 완화 기대감은 유가 하락으로 이어져 인플레이션 압력을 낮추고 증시에 긍정적일 수 있습니다. 유가 변동성에 민감한 에너지 관련주 및 항공, 해운 등 간접적인 수혜가 예상되는 섹터에 대한 관심이 필요합니다.",
-      "description": "증시가 고점 부담으로 숨고르기에 들어간 가운데, 미국과 이란 간의 종전 합의 가능성이 부상하며 시장에 영향을 미칠 전망입니다.",
+      "summary_text": "S&P 500과 나스닥 지수가 또다시 사상 최고치를 경신하며 강세를 보였다. 글로벌 증시 전반에 긍정적인 투자 심리가 유지되고 있으며, 미국 기술주 중심의 상승세가 두드러진다. 미국 증시의 지속적인 상승세는 국내 증시에도 긍정적인 영향을 미칠 수 있으며, 기술주 강세 흐름을 주시해야 한다.",
+      "description": "미국 증시의 S&P 500과 나스닥 지수가 새로운 사상 최고치를 기록했으며, 호주 ASX 200 선물은 큰 변동 없이 마감했다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "에너지, 정유, 항공, 해운",
-      "related_stocks": [
-        "S-Oil",
-        "대한항공",
-        "HMM"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "미국-이란 종전 합의는 국제 유가 안정화와 지정학적 리스크 완화로 이어져 글로벌 증시에 긍정적인 영향을 줄 수 있습니다.",
-      "key_signal": "미국-이란 간 협상 진행 상황과 국제 유가 변동성을 주시하며, 관련 섹터의 투자 기회를 탐색해야 합니다.",
-      "keywords": [
-        "증시 전략",
-        "미국-이란",
-        "종전 합의",
-        "유가",
-        "지정학적 리스크"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YdU85NXVlQWZZem1sSWJKbExOMEYwTW9fWHFrXzZZb013MFRLa3poT01mSWVRYnBzNjVWSVFMczMxMjF1dGFaT1pmSmdhMWN1eElZ0gFYQVVfeXFMTks3TUk4TFRRTldQX1lPNUQwWVQzTS12aEtzd2NUZVFvTm9zSkZLYUxfQ0dfSkxBWkFFS1lqUGNZTVFWWUpGbEhXdGtCR3ZaQjNRZE0wVjhVRg?oc=5",
-      "published": "2026-05-26 07:11",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "美 PCE 및 단일종목 레버리지 ETF 주목, 코스피 8천P 재도전 전망",
-      "display_title": "美 PCE 및 단일종목 레버리지 ETF 주목, 코스피 8천P 재도전 전망",
-      "original_title": "美 PCE·단일종목 레버리지 ETF에 쏠린 눈…코스피 ‘8천피’ 재도전 나설까[주간 증시 전망] - 서울경제",
-      "summary": [
-        "이번 주 증시는 미국 PCE 발표와 단일종목 레버리지 ETF 시장 동향에 따라 코스피 8천 포인트 돌파 여부가 판가름 날 것으로 예상됩니다.",
-        "미국 PCE는 연준의 통화정책 방향을 가늠하는 중요한 지표이며, 단일종목 레버리지 ETF는 시장의 특정 종목 쏠림 현상을 심화시킬 수 있습니다.",
-        "매크로 지표와 특정 종목의 과열 여부를 동시에 고려한 신중한 투자 전략이 필요하며, 변동성 확대 가능성에 대비해야 합니다."
-      ],
-      "summary_text": "이번 주 증시는 미국 PCE 발표와 단일종목 레버리지 ETF 시장 동향에 따라 코스피 8천 포인트 돌파 여부가 판가름 날 것으로 예상됩니다. 미국 PCE는 연준의 통화정책 방향을 가늠하는 중요한 지표이며, 단일종목 레버리지 ETF는 시장의 특정 종목 쏠림 현상을 심화시킬 수 있습니다. 매크로 지표와 특정 종목의 과열 여부를 동시에 고려한 신중한 투자 전략이 필요하며, 변동성 확대 가능성에 대비해야 합니다.",
-      "description": "이번 주 증시는 미국의 개인소비지출(PCE) 지표와 단일종목 레버리지 ETF의 영향에 주목하며, 코스피가 8천 포인트 재도전에 나설지 여부가 주요 관전 포인트입니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "증권, 금융, 기술주",
+      "market_impact": "긍정",
+      "related_sector": "IT, 기술주, 반도체",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 PCE 지표는 글로벌 통화정책 방향과 시장 금리에 큰 영향을 미치며, 국내 증시의 향방을 결정할 중요한 변수입니다.",
-      "key_signal": "이번 주 발표될 미국 PCE 지표 결과와 시장의 단일종목 레버리지 ETF 수급 동향을 면밀히 분석하여 시장 변동성에 대비해야 합니다.",
+      "investment_reason": "글로벌 증시, 특히 미국 시장의 흐름은 국내 투자 심리와 대형 기술주의 방향성에 큰 영향을 주기 때문이다.",
+      "key_signal": "미국 증시의 추가 상승 동력과 주요 기술주의 실적 발표를 주목해야 한다.",
       "keywords": [
-        "미국 PCE",
-        "레버리지 ETF",
-        "코스피",
-        "8천포인트",
-        "주간 증시 전망"
+        "S&P500",
+        "나스닥",
+        "사상최고치",
+        "글로벌증시",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZjVwM0VDNTBZYUJfSjR1QUZUR0JKTXJZc3VEbngzSE0tS0JiTHZYN0dkWUhkbUQyWVp0aFN1bGlJZGhkb19oLVZ3WHA1V1RjVThn0gFTQVVfeXFMTnBmNXAzRUM1MFlhQl9KNHVBRlRHQkpNcllzdURueDNITS1LQmJMdlg3R2RZSGRtRDJZWnRoU3VsaUlkaGRvX2gtVndYcDVXVGNVOGc?oc=5",
-      "published": "2026-05-26 05:30",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakpRXzFTS3o4NWFFUlNLMERyNzRjTG5IU1RtUlY4aVQ5YkdhZTdNZktaT1ViX2pIWHUzQnJsVUhxcXY3dnFCUFZrVnlYaWdJN2dDbHE2b2hEXzJJVEdmRFpZUEdJUTBvVEhyR2NkaUY0ZXh4cU5leGlMbk1FU01CSk5mLThWYWgyQjRDV1ZVazNEQXROdDg3TEQ3Qk9LalVyYTVEcG41ek1wQzRMd2RicQ?oc=5",
+      "published": "2026-05-27 07:42",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 6,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "채권 수익률 상승 시 포트폴리오 조정이 필요할까? 신중한 접근이 중요",
+      "display_title": "채권 수익률 상승 시 포트폴리오 조정이 필요할까? 신중한 접근이 중요",
+      "original_title": "With Bond Yields Rising, Should You Adjust Your Portfolio? Maybe—But Don't Play the 'Fool's Game' - Investopedia",
+      "summary": [
+        "채권 수익률 상승 국면에서 포트폴리오 조정 필요성에 대한 논의와 투자 전략 조언이 제시되었다.",
+        "금리 인상 또는 인하 기대감이 시장에 반영되면서 채권 시장의 변동성이 커지고 있으며, 이는 주식 시장에도 영향을 미친다.",
+        "채권 수익률 변화에 따라 자산 배분 전략을 재검토하되, 단기적인 시장 움직임에 과도하게 반응하기보다는 장기적인 관점을 유지하는 것이 중요하다."
+      ],
+      "summary_text": "채권 수익률 상승 국면에서 포트폴리오 조정 필요성에 대한 논의와 투자 전략 조언이 제시되었다. 금리 인상 또는 인하 기대감이 시장에 반영되면서 채권 시장의 변동성이 커지고 있으며, 이는 주식 시장에도 영향을 미친다. 채권 수익률 변화에 따라 자산 배분 전략을 재검토하되, 단기적인 시장 움직임에 과도하게 반응하기보다는 장기적인 관점을 유지하는 것이 중요하다.",
+      "description": "채권 수익률이 상승하는 상황에서 투자 포트폴리오를 어떻게 조정해야 할지에 대한 조언을 제공하며, 섣부른 판단을 경계하라고 강조한다.",
+      "category": "증시·금리",
+      "importance": 7,
+      "market_impact": "중립",
+      "related_sector": "금융, 증권",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "채권 수익률 변동은 시장 전반의 금리 환경과 자산 배분 전략에 직접적인 영향을 미치므로 투자자들에게 중요한 고려 사항이다.",
+      "key_signal": "미국 국채 금리 동향과 이에 따른 시장의 반응, 특히 기술주의 밸류에이션 변화를 주시해야 한다.",
+      "keywords": [
+        "채권수익률",
+        "금리",
+        "포트폴리오",
+        "자산배분",
+        "시장전략"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHItMVpmQUZSNjhacHRRZ0NfYlZwenlSd2xCWkMySEhmWjBneGRXNllKWXZoZ0wtcExZT20yOUpHZVg0VWpFZjJUWmxlbDI5Z01JbEZsdHlTRkkwWVVKbHlBOHJjRUFUUWFUU3E3ME5QM3QtZVVjOF9NVWdtbFFZYjNiT1JtTmY1V1ltN1U3UzRweWU1cUJ4dVZzVlFkTWY4NEFFdHg0d0JzTXFYOGNPdWJ0YnBDRVBiS0xWcGFUcTBjbHhUQUdGeTJhQQ?oc=5",
+      "published": "2026-05-27 05:49",
+      "quality": {
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -280,31 +280,34 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 다우지수 등 주요 증시의 상승세와 유가 및 국채 수익률 하락은 글로벌 투자 심리에 긍정적 영향을 미치며, 이는 국내 대표 기술주인 삼성전자에 대한 투자 매력을 높일 수 있습니다.",
+      "reason": "코스피 8,000선 돌파를 주도한 핵심 종목으로, 국내 증시의 역사적인 상승세를 견인하는 핵심 동력을 파악하는 데 필수적입니다.",
       "check_points": [
-        "미국 증시 기술주 흐름",
-        "반도체 업황 개선 기대감",
-        "외국인 수급 동향"
+        "반도체 업황 개선 지속 여부",
+        "외국인 및 기관 투자자 매매 동향",
+        "글로벌 기술주 동향"
       ],
       "related_news_titles": [
-        "다우지수 월 최고 상승, S&P 500과 나스닥 동반 상승: 유가 및 국채 수익률 하락"
+        "코스피, 사상 최초 8,000선으로 마감…삼성전자·SK하이닉스 강세",
+        "코스피 8,000선 사상 최고치 경신, '종전'과 삼성전자·SK하이닉스 주도",
+        "코스피 8,000선 재돌파, 삼성전자와 SK하이닉스 강세 지속"
       ]
     },
     {
       "rank": 2,
-      "name": "S-Oil",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "정유",
-      "opinion": "중립",
-      "reason": "호르무즈 해협 사태로 인한 국제 유가 급등 우려가 있는 반면, 미국-이란 종전 합의 가능성은 유가 안정화 기대를 높이는 상반된 요인으로 작용하고 있어 관련 뉴스를 주시하며 대응할 필요가 있습니다.",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "삼성전자와 함께 코스피 8,000선 돌파의 강력한 주역이며, AI 반도체 수요 증가와 함께 반도체 시장의 핵심 변화를 주도하고 있어 지속적인 관심이 필요합니다.",
       "check_points": [
-        "중동 지정학적 리스크 관련 보도",
-        "국제 유가(WTI, 브렌트유) 추이",
-        "정제마진 변동성"
+        "AI 반도체(HBM) 시장 경쟁 심화",
+        "메모리 반도체 가격 상승세 지속 여부",
+        "글로벌 반도체 기업들의 투자 계획"
       ],
       "related_news_titles": [
-        "호르무즈 해협 사태, 글로벌 인플레이션 급등 우려 증폭",
-        "[증시전략] 고점 부담 속 숨고르기, 美-이란 종전 합의 가능성"
+        "코스피, 사상 최초 8,000선으로 마감…삼성전자·SK하이닉스 강세",
+        "코스피 8,000선 사상 최고치 경신, '종전'과 삼성전자·SK하이닉스 주도",
+        "코스피 8,000선 재돌파, 삼성전자와 SK하이닉스 강세 지속"
       ]
     },
     {
@@ -312,33 +315,35 @@
       "name": "미래에셋증권",
       "market": "KOSPI",
       "sector": "증권",
-      "opinion": "주의",
-      "reason": "사상 최고치를 기록한 신용융자 '빚투' 규모는 고금리 환경에서 시장의 변동성을 키우고 외부 충격에 취약하게 만들 수 있어, 증권주 전반에 대한 보수적인 접근이 요구됩니다.",
+      "opinion": "관심",
+      "reason": "코스피 8,000선 돌파 및 나스닥, S&P 500 지수 사상 최고치 경신 등 국내외 증시 호조는 거래대금 증가와 투자 심리 개선으로 이어져 증권 업종 전반에 긍정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "국내 신용융자 잔고 추이",
-        "한국 및 미국 금리 인상 가능성",
-        "연준의 통화정책 변화 시그널"
+        "일평균 거래대금 추이",
+        "금리 및 채권 수익률 변동에 따른 영향",
+        "글로벌 시장 투자 상품 동향"
       ],
       "related_news_titles": [
-        "고금리 경고 속 '빚투' 리스크 확대: 신용융자 36조 원 사상 최고치",
-        "연준 의사록, 통화정책의 큰 변화 시사: 역사적 고평가 증시 뒤흔들 가능성"
+        "휴전 기대감 속에 나스닥과 S&P 500 지수 사상 최고치 경신",
+        "아침 브리핑: S&P 500 및 나스닥 사상 최고치 경신, ASX 200 선물은 보합세",
+        "채권 수익률 상승 시 포트폴리오 조정이 필요할까? 신중한 접근이 중요"
       ]
     },
     {
       "rank": 4,
-      "name": "HMM",
+      "name": "한국금융지주",
       "market": "KOSPI",
-      "sector": "해운",
-      "opinion": "중립",
-      "reason": "호르무즈 해협 사태로 인한 해운 운임 변동성 확대 우려와 함께, 미국-이란 종전 합의 가능성은 지정학적 리스크 완화에 따른 물류 안정화 기대를 동시에 불러와 양방향 움직임을 보일 수 있습니다.",
+      "sector": "증권",
+      "opinion": "관심",
+      "reason": "긍정적인 국내외 증시 분위기가 지속될 경우, 증권 부문 실적 개선 기대감과 함께 시장 전반의 활성화에 대한 수혜가 예상되며, 자산관리 및 투자 사업 역량도 주목할 만합니다.",
       "check_points": [
-        "호르무즈 해협 관련 지정학적 뉴스",
-        "글로벌 컨테이너 운임지수(SCFI) 변동",
-        "국제 유가 흐름"
+        "시장 변동성 및 투자 심리 변화",
+        "자회사 실적 및 신사업 추진 동향",
+        "금리 환경 변화가 금융업에 미치는 영향"
       ],
       "related_news_titles": [
-        "호르무즈 해협 사태, 글로벌 인플레이션 급등 우려 증폭",
-        "[증시전략] 고점 부담 속 숨고르기, 美-이란 종전 합의 가능성"
+        "휴전 기대감 속에 나스닥과 S&P 500 지수 사상 최고치 경신",
+        "아침 브리핑: S&P 500 및 나스닥 사상 최고치 경신, ASX 200 선물은 보합세",
+        "채권 수익률 상승 시 포트폴리오 조정이 필요할까? 신중한 접근이 중요"
       ]
     }
   ],
