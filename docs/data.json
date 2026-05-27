@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27 08:10",
-  "analysis_date": "2026-05-27",
+  "generated_at": "2026-05-28 08:17",
+  "analysis_date": "2026-05-28",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,133 +13,177 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 코스피는 사상 최초 8,000선을 돌파하며 역사적인 기록을 세웠고, 글로벌 증시 역시 나스닥과 S&P 500 지수가 최고치를 경신하는 등 전반적인 강세장이 이어졌습니다. 지정학적 긴장 완화 기대감과 대형 기술주 중심의 상승세가 시장을 이끌었습니다.",
-    "국내거시경제": "국내 증시의 사상 최고치 경신은 투자 심리에 매우 긍정적이며, 반도체 등 주요 산업의 견조한 흐름이 국내 경제 전반에 활력을 불어넣을 것으로 기대됩니다.",
-    "글로벌경제": "휴전 기대감 속에 나스닥과 S&P 500 지수가 사상 최고치를 경신하며 글로벌 투자 심리가 개선되었습니다. 지정학적 긴장 완화는 위험 자산 선호 현상을 강화하며 전 세계 증시에 긍정적인 영향을 미치고 있습니다.",
-    "증시금리": "코스피는 삼성전자와 SK하이닉스 주도로 8,000선을 돌파하며 연일 최고치를 경신했습니다. 미국 증시 또한 기술주 중심의 강세가 지속되며 사상 최고점을 갈아치웠습니다. 한편, 채권 수익률 상승에 따른 포트폴리오 조정 필요성에 대한 논의도 부각되었으며, 신중한 장기적 접근이 강조됩니다.",
-    "부동산정책": "관련 뉴스 없음.",
-    "기업산업": "삼성전자와 SK하이닉스가 코스피 8,000선 돌파를 주도하며 국내 반도체 산업의 강력한 성장세를 입증했습니다. 이는 기술주 전반에 대한 긍정적인 전망을 강화하며 시장의 주요 동력으로 작용하고 있습니다.",
-    "오늘의투자시사점": "글로벌 및 국내 증시의 역사적인 강세는 대형 기술주와 지정학적 긴장 완화 기대감에 힘입어 당분간 지속될 수 있습니다. 투자자들은 반도체 섹터의 지속적인 강세 여부와 채권 시장의 변동성에 대한 신중한 대응을 통해 기회를 모색해야 합니다.",
-    "오늘의한줄": "국내외 증시가 대형 기술주와 지정학적 긴장 완화 기대감 속에서 동반 사상 최고치를 경신하며 강력한 상승 모멘텀을 이어갔습니다."
+    "총평": "글로벌 고금리 압박과 경기 불확실성이 증대되는 가운데, 국내 증시에서는 반도체 섹터가 강력한 상승세를 견인하며 차별화된 모습을 보였습니다.",
+    "국내거시경제": "한국은행 금통위에서 물가 및 성장률 전망이 상향 조정될 가능성이 제기되며, 향후 기준 금리 인상 시그널이 나타날 경우 국내 증시와 부동산 시장에 부정적인 영향을 미칠 수 있습니다.",
+    "글로벌경제": "미국 채권 시장의 높은 금리로 인해 국채 발행 비용이 급증, 납세자에게 2조 달러 규모의 재정 부담이 전가될 위기에 처했습니다. 이는 장기적으로 달러 가치와 글로벌 금융 시장의 불안정성을 높일 수 있습니다.",
+    "증시금리": "해외 주요 은행들은 연준에 2007년 이후 최고 채권 금리에 대한 조치를 촉구했으며, 미국 2년물 국채 금리 역전 현상은 연준의 금리 인하 가능성을 시사합니다. 반면 국내 코스피는 AI 반도체 수요 증가에 힘입어 반도체 업종 주도로 강세를 보이며 삼성전자, SK하이닉스 관련 ETF가 급등했습니다.",
+    "부동산정책": "국내 금리 인상 가능성으로 부동산 시장의 대출 금리 상승 압력이 가중될 수 있어, 금융 비용 증가에 대한 주의가 필요합니다.",
+    "기업산업": "AI 하드웨어 시장의 핵심 기업인 엔비디아와 TSMC가 높은 성장세를 기록하며 시장 점유율 경쟁을 이어가고 있습니다. 이들의 실적은 AI 산업 전반의 성장 동력을 가늠하는 중요한 지표가 됩니다.",
+    "오늘의투자시사점": "글로벌 고금리 환경과 통화 정책 변화 가능성에 대한 경계를 늦추지 않으면서도, AI 반도체 수요 급증에 따른 국내 반도체 섹터의 견조한 성장세에 주목하여 관련 종목에 대한 중장기적 관점의 접근이 유효합니다.",
+    "오늘의한줄": "글로벌 금리 불확실성 속 국내 반도체 강세가 돋보이며, 통화 정책 방향에 대한 지속적인 관찰이 중요합니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피, 사상 최초 8,000선으로 마감…삼성전자·SK하이닉스 강세",
-      "display_title": "코스피, 사상 최초 8,000선으로 마감…삼성전자·SK하이닉스 강세",
-      "original_title": "코스피, 사상 첫 '8천피' 마감…삼전·닉스 '훨훨' - 연합뉴스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "주요 은행, 연준에 2007년 이후 최고 채권 금리 대응 촉구",
+      "display_title": "주요 은행, 연준에 2007년 이후 최고 채권 금리 대응 촉구",
+      "original_title": "A top bank says the Fed must act now to address the highest bond yields since 2007 - AOL.com",
       "summary": [
-        "코스피 지수가 사상 최초로 8,000포인트로 장을 마감하는 대기록을 세웠다.",
-        "삼성전자와 SK하이닉스의 주가가 강력한 상승세를 보이며 코스피 지수 8,000선 돌파를 주도했다.",
-        "국내 증시의 역사적인 고점 경신은 투자 심리에 긍정적인 영향을 미치며, 대형 기술주 중심의 시장 강세가 지속될 가능성이 높다."
+        "주요 은행이 연준에 2007년 이후 최고치를 기록한 채권 금리에 대해 즉각적인 조치를 요구하고 있다.",
+        "채권 금리의 급등은 금융 시장 전반의 불안정을 야기하며, 이는 경기 침체 우려를 키울 수 있다.",
+        "연준의 향후 통화 정책 방향과 시장 개입 가능성을 주시하며 투자 전략을 조정해야 한다."
       ],
-      "summary_text": "코스피 지수가 사상 최초로 8,000포인트로 장을 마감하는 대기록을 세웠다. 삼성전자와 SK하이닉스의 주가가 강력한 상승세를 보이며 코스피 지수 8,000선 돌파를 주도했다. 국내 증시의 역사적인 고점 경신은 투자 심리에 긍정적인 영향을 미치며, 대형 기술주 중심의 시장 강세가 지속될 가능성이 높다.",
-      "description": "코스피 지수가 사상 처음으로 8,000포인트로 마감하며 역사적인 기록을 세웠고, 삼성전자와 SK하이닉스 주가가 크게 상승했다.",
+      "summary_text": "주요 은행이 연준에 2007년 이후 최고치를 기록한 채권 금리에 대해 즉각적인 조치를 요구하고 있다. 채권 금리의 급등은 금융 시장 전반의 불안정을 야기하며, 이는 경기 침체 우려를 키울 수 있다. 연준의 향후 통화 정책 방향과 시장 개입 가능성을 주시하며 투자 전략을 조정해야 한다.",
+      "description": "한 주요 은행이 2007년 이후 최고 수준으로 치솟은 채권 금리에 대해 연준이 즉각 조치할 것을 촉구했다.",
       "category": "증시·금리",
-      "importance": 10,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT 대형주",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "금융, 채권시장, 통화정책 관련 업종",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시의 역사적인 기록 경신과 함께 주요 대형주의 강력한 상승세를 보여주므로, 시장의 핵심 동력을 파악하는 데 매우 중요하다.",
-      "key_signal": "코스피 8,000선 지지 여부와 반도체 업황 개선에 대한 추가적인 지표들을 확인해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 통화정책 변화 가능성과 그로 인한 금융 시장 변동성 확대에 대비해야 하기 때문에 주의가 필요합니다.",
+      "key_signal": "연준의 공식 발표나 관계자 발언을 통해 채권 금리 안정화 방안이 논의되는지 확인해야 합니다.",
       "keywords": [
-        "코스피",
-        "8000포인트",
-        "사상최고치",
-        "삼성전자",
-        "SK하이닉스"
+        "연준",
+        "채권금리",
+        "통화정책",
+        "시장개입",
+        "금융시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZUdUMV91bC1tTHJ4SmU4eXcxZURQTFE0dy1pYlZhYi11eC1aRHVNaHN0RFhQTkU2QS1iSEhETkhWVERHcUxoREplMnY4Zm94enBjeWhtYWFNbnNMbmNuUNIBYEFVX3lxTE5TZUdUMV91bC1tTHJ4SmU4eXcxZURQTFE0dy1pYlZhYi11eC1aRHVNaHN0RFhQTkU2QS1iSEhETkhWVERHcUxoREplMnY4Zm94enBjeWhtYWFNbnNMbmNuUA?oc=5",
-      "published": "2026-05-26 16:06",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfU1VhOF9ZdEFrdEVCNjJoTi1aa25TN2hYUW82ZE1FckRUcTZ2U2pqMEFCUXRVY3UxYjNVb3JjRVlXYk9RbDZXcUJvR25WVEI3N0xpWFFVWUE4RW12NXhrSDRuZHpjVklUb25FOEFDTmR0NHJv?oc=5",
+      "published": "2026-05-28 05:34",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피 8,000선 사상 최고치 경신, '종전'과 삼성전자·SK하이닉스 주도",
-      "display_title": "코스피 8,000선 사상 최고치 경신, '종전'과 삼성전자·SK하이닉스 주도",
-      "original_title": "종전·삼전닉스 기대에…코스피 8,000선 최고치 - v.daum.net",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 2년물 국채 금리, 연방 기금 금리 초과…역사는 연준의 다음 조치를 시사한다",
+      "display_title": "미국 2년물 국채 금리, 연방 기금 금리 초과…역사는 연준의 다음 조치를 시사한다",
+      "original_title": "The 2-Year U.S. Treasury Yield Has Now Blown Past the Federal Funds Rate. History Says the Fed Will Do This Next - AOL.com",
       "summary": [
-        "코스피 지수가 8,000선을 돌파하며 사상 최고치를 경신했다.",
-        "국제 정세의 '종전' 기대감과 삼성전자, SK하이닉스 등 주요 대형주의 상승이 지수 상승을 견인했다.",
-        "국내 증시의 강세가 지속될 가능성이 있으며, 대형 기술주 중심의 시장 흐름에 주목해야 한다."
+        "미국 2년물 국채 금리가 연방 기금 금리를 상회하는 현상이 발생했으며, 이는 과거 연준의 통화 정책 변화를 예고하는 신호였다.",
+        "단기 국채 금리가 정책 금리보다 높아지는 현상은 경기 침체 우려가 반영되거나, 연준의 금리 인하 기대감을 높이는 경우가 많다.",
+        "이러한 금리 역전 현상은 연준의 통화 정책 전환, 특히 금리 인하 가능성을 시사할 수 있으므로, 관련 자산군에 대한 전략을 재검토해야 한다."
       ],
-      "summary_text": "코스피 지수가 8,000선을 돌파하며 사상 최고치를 경신했다. 국제 정세의 '종전' 기대감과 삼성전자, SK하이닉스 등 주요 대형주의 상승이 지수 상승을 견인했다. 국내 증시의 강세가 지속될 가능성이 있으며, 대형 기술주 중심의 시장 흐름에 주목해야 한다.",
-      "description": "국내 증시 코스피 지수가 8,000선을 돌파하며 사상 최고치를 기록했으며, 이는 '종전' 기대감과 삼성전자 및 SK하이닉스의 강세에 힘입은 결과이다.",
+      "summary_text": "미국 2년물 국채 금리가 연방 기금 금리를 상회하는 현상이 발생했으며, 이는 과거 연준의 통화 정책 변화를 예고하는 신호였다. 단기 국채 금리가 정책 금리보다 높아지는 현상은 경기 침체 우려가 반영되거나, 연준의 금리 인하 기대감을 높이는 경우가 많다. 이러한 금리 역전 현상은 연준의 통화 정책 전환, 특히 금리 인하 가능성을 시사할 수 있으므로, 관련 자산군에 대한 전략을 재검토해야 한다.",
+      "description": "미국 2년물 국채 금리가 연방 기금 금리를 넘어섰으며, 이는 과거 사례를 통해 연준의 다음 통화 정책 방향을 예측할 수 있는 중요한 신호임을 설명한다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT 대형주",
+      "market_impact": "부정",
+      "related_sector": "채권시장, 금융, 경기민감주, 기술주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시의 주요 상승 동력을 이해하고 시장 전반의 투자 심리를 파악하는 데 필수적인 소식이다.",
-      "key_signal": "코스피 8,000선 안착 여부와 삼성전자, SK하이닉스의 주가 흐름을 주시해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "2년물 국채 금리와 연방 기금 금리의 역전 현상은 경기 침체 및 연준의 정책 전환을 암시할 수 있어 투자 포트폴리오 조정에 중요한 참고 사항이 됩니다.",
+      "key_signal": "연준의 공식적인 금리 인하 시그널이나 경기 전망 변화에 대한 발언을 면밀히 주시해야 합니다.",
       "keywords": [
-        "코스피",
-        "사상최고치",
-        "삼성전자",
-        "SK하이닉스",
-        "대형주"
+        "국채금리",
+        "연방기금금리",
+        "금리역전",
+        "연준",
+        "경기침체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDWWlGdXZiSEgyeXpWVnE5MnhQbFVCclRQVTNjcDJMMXVPc1RyZ3QzazFheWRieEt0NWFRRFZ3eTlBSkNTczV0eDlTRm5sME0?oc=5",
-      "published": "2026-05-26 21:11",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVUXVsQWprbm9HNzVfM3lOd2g4dHhwdktDenN6Y3o2RGl4djUxUXZOYXhYbWk1S1BPUjQ4U1ZEMW5DMjc2aG9zcGZhY1ljUHlTckhmV1dESktwN1VHUkdwYmJER0hLSEF5VjQ3UWJZa2NaTEI0?oc=5",
+      "published": "2026-05-27 21:23",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "엔비디아 vs TSMC - AI 하드웨어 시장의 점유율 경쟁과 실적 분석",
+      "display_title": "엔비디아 vs TSMC - AI 하드웨어 시장의 점유율 경쟁과 실적 분석",
+      "original_title": "Nvidia vs TSM-Earnings Reveal AI Hardware Power Split - AOL.com",
+      "summary": [
+        "엔비디아와 TSMC의 최근 실적을 비교 분석하며, AI 하드웨어 시장 내 두 거대 기업의 지배력 분할 양상을 조명한다.",
+        "AI 기술 발전과 함께 관련 하드웨어 수요가 급증하면서, 핵심 칩 설계와 위탁 생산을 담당하는 두 기업의 역할이 더욱 중요해졌다.",
+        "AI 산업 성장의 핵심 동력인 두 기업의 실적과 시장 점유율 변화는 전체 AI 관련주 투자에 중요한 가이드라인을 제공한다."
+      ],
+      "summary_text": "엔비디아와 TSMC의 최근 실적을 비교 분석하며, AI 하드웨어 시장 내 두 거대 기업의 지배력 분할 양상을 조명한다. AI 기술 발전과 함께 관련 하드웨어 수요가 급증하면서, 핵심 칩 설계와 위탁 생산을 담당하는 두 기업의 역할이 더욱 중요해졌다. AI 산업 성장의 핵심 동력인 두 기업의 실적과 시장 점유율 변화는 전체 AI 관련주 투자에 중요한 가이드라인을 제공한다.",
+      "description": "엔비디아와 TSMC의 실적 발표를 통해 AI 하드웨어 시장 내에서의 점유율 및 파워 분배 현황을 분석한다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI, IT하드웨어",
+      "related_stocks": [
+        "엔비디아",
+        "TSMC",
+        "SK하이닉스"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "AI 하드웨어 시장의 선두 주자인 두 기업의 경쟁 구도와 실적은 AI 산업 전반의 성장세를 가늠하는 핵심 지표이기 때문에 투자자들에게 매우 중요합니다.",
+      "key_signal": "두 기업의 다음 분기 실적 발표와 신제품 로드맵 발표를 통해 AI 시장의 주도권 변화를 예상해야 합니다.",
+      "keywords": [
+        "엔비디아",
+        "TSMC",
+        "AI",
+        "반도체",
+        "GPU"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81TTU3Skd2TWcxODdIcEFzSkFOSUkzeUktOEEwb1FLajY3S3hrV2ZONG9nSkh6a1NPSnprbHBaZmxvbnREZGZRa01oN1pvc1B0OWwtb2VZZXl1VnJySndZRTJrS2c0Z012Y01TajFtbEtIM0J2UnZ4QVhQaEdjQQ?oc=5",
+      "published": "2026-05-28 05:17",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 4,
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피 8,000선 재돌파, 삼성전자와 SK하이닉스 강세 지속",
-      "display_title": "코스피 8,000선 재돌파, 삼성전자와 SK하이닉스 강세 지속",
-      "original_title": "코스피 8,000선 재돌파…'30만전자'·'200만닉스' - 네이트",
+      "title": "[마켓 프리뷰] 반도체 주도로 코스피 '승승장구', 삼성·SK하이닉스 ETF '급등'",
+      "display_title": "[마켓 프리뷰] 반도체 주도로 코스피 '승승장구', 삼성·SK하이닉스 ETF '급등'",
+      "original_title": "[마켓 프리뷰] 반도체에 코스피 '승승장구'…삼전닉스 ETF '불기둥' - SBSBiz",
       "summary": [
-        "코스피 지수가 8,000선을 재돌파하며 상승세를 이어갔다.",
-        "삼성전자와 SK하이닉스의 주가가 상승세를 보이며 지수 상승을 견인했으며, 이는 시장 전반의 긍정적인 투자 심리를 반영한다.",
-        "국내 증시의 주도주인 반도체 대형주의 견고한 흐름이 지속될 경우 시장 전반의 상승 동력이 유지될 수 있다."
+        "반도체 업종의 강력한 상승세가 코스피 시장을 견인하고 있으며, 특히 삼성전자와 SK하이닉스 관련 ETF들이 높은 수익률을 기록 중이다.",
+        "AI 반도체 수요 증가와 메모리 업황 회복 기대감이 국내 반도체 기업들의 실적 개선 전망으로 이어지고 있다.",
+        "반도체 섹터의 강세는 당분간 지속될 가능성이 높으므로, 관련 종목 및 ETF에 대한 관심이 유효하다."
       ],
-      "summary_text": "코스피 지수가 8,000선을 재돌파하며 상승세를 이어갔다. 삼성전자와 SK하이닉스의 주가가 상승세를 보이며 지수 상승을 견인했으며, 이는 시장 전반의 긍정적인 투자 심리를 반영한다. 국내 증시의 주도주인 반도체 대형주의 견고한 흐름이 지속될 경우 시장 전반의 상승 동력이 유지될 수 있다.",
-      "description": "국내 코스피 지수가 8,000선을 다시 돌파하며 상승세를 이어갔고, 이는 삼성전자와 SK하이닉스 등 주요 대형 기술주의 강세에 기인한다.",
+      "summary_text": "반도체 업종의 강력한 상승세가 코스피 시장을 견인하고 있으며, 특히 삼성전자와 SK하이닉스 관련 ETF들이 높은 수익률을 기록 중이다. AI 반도체 수요 증가와 메모리 업황 회복 기대감이 국내 반도체 기업들의 실적 개선 전망으로 이어지고 있다. 반도체 섹터의 강세는 당분간 지속될 가능성이 높으므로, 관련 종목 및 ETF에 대한 관심이 유효하다.",
+      "description": "반도체 업종의 강세에 힘입어 코스피 지수가 상승세를 이어가고 있으며, 삼성전자와 SK하이닉스 관련 ETF 또한 급등하고 있다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "반도체, IT 대형주",
+      "related_sector": "반도체, IT하드웨어, 인공지능(AI)",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "국내 증시의 핵심 동력인 반도체 대형주의 지속적인 강세 여부를 파악하는 데 중요한 지표이다.",
-      "key_signal": "삼성전자와 SK하이닉스의 실적 전망과 외국인 투자자 수급 동향을 면밀히 분석해야 한다.",
+      "investment_reason": "국내 증시의 핵심 동력인 반도체 업종의 강세는 코스피 전체의 상승을 견인하며, 해당 기업들의 실적 개선 기대감으로 이어지기 때문에 적극적인 관심이 필요합니다.",
+      "key_signal": "글로벌 AI 반도체 수요와 메모리 가격 동향을 지속적으로 모니터링하여 반도체 업종의 추가 상승 여력을 판단해야 합니다.",
       "keywords": [
         "코스피",
-        "8000선",
+        "반도체",
         "삼성전자",
         "SK하이닉스",
-        "반도체"
+        "AI반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZV9RS1g1NElNNnpSVU5xV290cTlhZktDNmpQV1kyc2tiQk5rYUtIOTNvSFoxM2dUNGxkLXNtdUVNZWxXOVo1Qkk4amZYUlBoRzVuTFM1bjFxSGp4aUx3cw?oc=5",
-      "published": "2026-05-26 10:30",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KRHEzcUNhWXdmOEpOS3NxU3dldVZLUHBWRWVfNlI1dmpmQllSVUtIWVR6WUh0VldpYmJseWxWM3g2Q0lBNm0tZEd6dlNOTzR4UHBj?oc=5",
+      "published": "2026-05-28 06:49",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -147,85 +191,43 @@
       }
     },
     {
-      "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "휴전 기대감 속에 나스닥과 S&P 500 지수 사상 최고치 경신",
-      "display_title": "휴전 기대감 속에 나스닥과 S&P 500 지수 사상 최고치 경신",
-      "original_title": "Nasdaq, S&P 500 Hit Record Highs Amid Ceasefire Hopes - 조선일보",
-      "summary": [
-        "나스닥과 S&P 500 지수가 휴전 기대감에 힘입어 사상 최고치를 경신했다.",
-        "지정학적 긴장 완화에 대한 기대가 글로벌 투자 심리에 긍정적으로 작용하며 위험 자산 선호 심리를 높였다.",
-        "국제 정세의 안정화는 글로벌 증시 전반에 긍정적인 영향을 미치며, 국내 증시에도 상승 모멘텀을 제공할 수 있다."
-      ],
-      "summary_text": "나스닥과 S&P 500 지수가 휴전 기대감에 힘입어 사상 최고치를 경신했다. 지정학적 긴장 완화에 대한 기대가 글로벌 투자 심리에 긍정적으로 작용하며 위험 자산 선호 심리를 높였다. 국제 정세의 안정화는 글로벌 증시 전반에 긍정적인 영향을 미치며, 국내 증시에도 상승 모멘텀을 제공할 수 있다.",
-      "description": "국제적인 휴전 기대감이 높아지면서 미국 나스닥과 S&P 500 지수가 사상 최고치를 기록했다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "IT, 기술주",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "지정학적 리스크 완화는 글로벌 투자 심리 개선과 위험 자산 선호도를 높여 국내외 증시에 긍정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "실제 휴전 협상 진전 여부와 이에 따른 국제유가 및 환율 변동을 예의주시해야 한다.",
-      "keywords": [
-        "나스닥",
-        "S&P500",
-        "사상최고치",
-        "휴전기대감",
-        "지정학적위험"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaG9HZGxZeDdwUXprZVl3SnJuZHcwSl9HenVRdHB6WHh0UHMxNjdvckZQSU4tMlhxcnpWVV9namN3UzZZVmJmblh2SnVyOWJ0ZU5qMnctdGtMMzRURmNlWnJxWU9yLVNNNVFsZndwRDBsdWxUQTdDSmRkd1F5eW1fTXhOSWI?oc=5",
-      "published": "2026-05-27 05:16",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "아침 브리핑: S&P 500 및 나스닥 사상 최고치 경신, ASX 200 선물은 보합세",
-      "display_title": "아침 브리핑: S&P 500 및 나스닥 사상 최고치 경신, ASX 200 선물은 보합세",
-      "original_title": "Morning Wrap: ASX 200 futures flat, S&P 500 and Nasdaq notch fresh record high - Market Index",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "신현송 금통위원의 첫 회의, 물가·성장 전망 상향 및 금리 인상 시그널 가능성",
+      "display_title": "신현송 금통위원의 첫 회의, 물가·성장 전망 상향 및 금리 인상 시그널 가능성",
+      "original_title": "신현송 첫 금통위…물가·성장전망 높이고 인상 신호 보낼 듯 - 매일경제 마켓",
       "summary": [
-        "S&P 500과 나스닥 지수가 또다시 사상 최고치를 경신하며 강세를 보였다.",
-        "글로벌 증시 전반에 긍정적인 투자 심리가 유지되고 있으며, 미국 기술주 중심의 상승세가 두드러진다.",
-        "미국 증시의 지속적인 상승세는 국내 증시에도 긍정적인 영향을 미칠 수 있으며, 기술주 강세 흐름을 주시해야 한다."
+        "신현송 한국은행 금융통화위원회 위원의 첫 참석 회의에서 물가 및 성장률 전망이 상향 조정되고, 금리 인상에 대한 신호가 나올 것으로 예상된다.",
+        "물가 상승 압력이 지속되고 경제 성장세가 예상보다 강할 경우, 한국은행은 인플레이션 제어를 위해 긴축적인 통화 정책 기조를 유지할 수 있다.",
+        "기준 금리 인상 가능성은 채권 시장에 부정적이고 금융 비용 증가로 이어져, 국내 증시와 부동산 시장에 하방 압력으로 작용할 수 있다."
       ],
-      "summary_text": "S&P 500과 나스닥 지수가 또다시 사상 최고치를 경신하며 강세를 보였다. 글로벌 증시 전반에 긍정적인 투자 심리가 유지되고 있으며, 미국 기술주 중심의 상승세가 두드러진다. 미국 증시의 지속적인 상승세는 국내 증시에도 긍정적인 영향을 미칠 수 있으며, 기술주 강세 흐름을 주시해야 한다.",
-      "description": "미국 증시의 S&P 500과 나스닥 지수가 새로운 사상 최고치를 기록했으며, 호주 ASX 200 선물은 큰 변동 없이 마감했다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "IT, 기술주, 반도체",
+      "summary_text": "신현송 한국은행 금융통화위원회 위원의 첫 참석 회의에서 물가 및 성장률 전망이 상향 조정되고, 금리 인상에 대한 신호가 나올 것으로 예상된다. 물가 상승 압력이 지속되고 경제 성장세가 예상보다 강할 경우, 한국은행은 인플레이션 제어를 위해 긴축적인 통화 정책 기조를 유지할 수 있다. 기준 금리 인상 가능성은 채권 시장에 부정적이고 금융 비용 증가로 이어져, 국내 증시와 부동산 시장에 하방 압력으로 작용할 수 있다.",
+      "description": "신현송 한국은행 금융통화위원회 위원의 첫 참석 금통위에서 물가 및 성장률 전망을 상향 조정하고, 향후 금리 인상 가능성을 시사할 것으로 예상된다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "금융, 은행, 건설, 부동산, 채권시장",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 증시, 특히 미국 시장의 흐름은 국내 투자 심리와 대형 기술주의 방향성에 큰 영향을 주기 때문이다.",
-      "key_signal": "미국 증시의 추가 상승 동력과 주요 기술주의 실적 발표를 주목해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "한국은행의 금리 인상 시그널은 국내 경제 전반에 걸쳐 자금 조달 비용 상승과 소비 심리 위축을 야기하여 증시와 부동산 시장에 부담을 줄 수 있기 때문입니다.",
+      "key_signal": "오늘 금통위에서 발표될 물가 및 성장률 수정 전망치와 신현송 위원을 포함한 위원들의 매파적 발언 여부를 집중적으로 확인해야 합니다.",
       "keywords": [
-        "S&P500",
-        "나스닥",
-        "사상최고치",
-        "글로벌증시",
-        "기술주"
+        "한국은행",
+        "금통위",
+        "금리인상",
+        "물가상승",
+        "성장률"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakpRXzFTS3o4NWFFUlNLMERyNzRjTG5IU1RtUlY4aVQ5YkdhZTdNZktaT1ViX2pIWHUzQnJsVUhxcXY3dnFCUFZrVnlYaWdJN2dDbHE2b2hEXzJJVEdmRFpZUEdJUTBvVEhyR2NkaUY0ZXh4cU5leGlMbk1FU01CSk5mLThWYWgyQjRDV1ZVazNEQXROdDg3TEQ3Qk9LalVyYTVEcG41ek1wQzRMd2RicQ?oc=5",
-      "published": "2026-05-27 07:42",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ycFAyRFp2eFMtLTE5REpTb0g2aEVlN3BDNFZIVmk3WnZZd29qcEpvR3kxZVlCWE1ZM2s5LWJaOVJvT01pTUdxbHVKMVlDZEl5UVltU3I2SVpCSlZVVDVjbw?oc=5",
+      "published": "2026-05-28 05:30",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -235,37 +237,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "채권 수익률 상승 시 포트폴리오 조정이 필요할까? 신중한 접근이 중요",
-      "display_title": "채권 수익률 상승 시 포트폴리오 조정이 필요할까? 신중한 접근이 중요",
-      "original_title": "With Bond Yields Rising, Should You Adjust Your Portfolio? Maybe—But Don't Play the 'Fool's Game' - Investopedia",
+      "title": "채권 시장이 미국 납세자에게 2조 달러 규모의 나쁜 소식을 안겼다",
+      "display_title": "채권 시장이 미국 납세자에게 2조 달러 규모의 나쁜 소식을 안겼다",
+      "original_title": "The Bond Market Just Handed U.S. Taxpayers $2 Trillion in Bad News - AOL.com",
       "summary": [
-        "채권 수익률 상승 국면에서 포트폴리오 조정 필요성에 대한 논의와 투자 전략 조언이 제시되었다.",
-        "금리 인상 또는 인하 기대감이 시장에 반영되면서 채권 시장의 변동성이 커지고 있으며, 이는 주식 시장에도 영향을 미친다.",
-        "채권 수익률 변화에 따라 자산 배분 전략을 재검토하되, 단기적인 시장 움직임에 과도하게 반응하기보다는 장기적인 관점을 유지하는 것이 중요하다."
+        "채권 시장에서 발생한 문제로 인해 미국 납세자들이 2조 달러에 달하는 재정적 부담을 지게 될 수 있다.",
+        "이는 주로 높은 채권 금리로 인해 미국 정부의 국채 발행 비용이 증가하면서 발생한 문제로 보인다.",
+        "미국 재정 건전성 악화는 장기적으로 달러 가치와 글로벌 금융 시장에 영향을 미칠 수 있어 유의해야 한다."
       ],
-      "summary_text": "채권 수익률 상승 국면에서 포트폴리오 조정 필요성에 대한 논의와 투자 전략 조언이 제시되었다. 금리 인상 또는 인하 기대감이 시장에 반영되면서 채권 시장의 변동성이 커지고 있으며, 이는 주식 시장에도 영향을 미친다. 채권 수익률 변화에 따라 자산 배분 전략을 재검토하되, 단기적인 시장 움직임에 과도하게 반응하기보다는 장기적인 관점을 유지하는 것이 중요하다.",
-      "description": "채권 수익률이 상승하는 상황에서 투자 포트폴리오를 어떻게 조정해야 할지에 대한 조언을 제공하며, 섣부른 판단을 경계하라고 강조한다.",
-      "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "금융, 증권",
+      "summary_text": "채권 시장에서 발생한 문제로 인해 미국 납세자들이 2조 달러에 달하는 재정적 부담을 지게 될 수 있다. 이는 주로 높은 채권 금리로 인해 미국 정부의 국채 발행 비용이 증가하면서 발생한 문제로 보인다. 미국 재정 건전성 악화는 장기적으로 달러 가치와 글로벌 금융 시장에 영향을 미칠 수 있어 유의해야 한다.",
+      "description": "채권 시장의 변동성으로 인해 미국 납세자들이 2조 달러에 달하는 재정적 부담을 지게 될 것이라는 우려가 제기되었다.",
+      "category": "글로벌 경제",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "금융, 공공재정, 글로벌 경제",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "채권 수익률 변동은 시장 전반의 금리 환경과 자산 배분 전략에 직접적인 영향을 미치므로 투자자들에게 중요한 고려 사항이다.",
-      "key_signal": "미국 국채 금리 동향과 이에 따른 시장의 반응, 특히 기술주의 밸류에이션 변화를 주시해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 정부의 재정 부담 증가는 장기적으로 미국 경제 성장과 달러 가치에 부정적인 영향을 미칠 수 있기 때문에 면밀히 주시해야 합니다.",
+      "key_signal": "미국 재무부의 부채 관리 계획과 정부 지출 동향을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "채권수익률",
-        "금리",
-        "포트폴리오",
-        "자산배분",
-        "시장전략"
+        "미국채",
+        "재정적자",
+        "국채금리",
+        "납세자",
+        "글로벌경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHItMVpmQUZSNjhacHRRZ0NfYlZwenlSd2xCWkMySEhmWjBneGRXNllKWXZoZ0wtcExZT20yOUpHZVg0VWpFZjJUWmxlbDI5Z01JbEZsdHlTRkkwWVVKbHlBOHJjRUFUUWFUU3E3ME5QM3QtZVVjOF9NVWdtbFFZYjNiT1JtTmY1V1ltN1U3UzRweWU1cUJ4dVZzVlFkTWY4NEFFdHg0d0JzTXFYOGNPdWJ0YnBDRVBiS0xWcGFUcTBjbHhUQUdGeTJhQQ?oc=5",
-      "published": "2026-05-27 05:49",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVEpNTUUtd3ptcm5VeTNFZzh6VDd5SnVTRWM0YmhOXy13bXlaVDB3eGdDeWN6dUNCN01IQ05oMEdmSXlMVTJBNEg3ODVZLWM1dFlBd0NGQV9FVEg2ZHMxT3NkU1lQYmRzSUtITHVYSEhRSUU3Y1NuRQ?oc=5",
+      "published": "2026-05-28 05:32",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -280,16 +282,15 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "코스피 8,000선 돌파를 주도한 핵심 종목으로, 국내 증시의 역사적인 상승세를 견인하는 핵심 동력을 파악하는 데 필수적입니다.",
+      "reason": "국내 증시의 핵심 동력인 반도체 업종 강세가 코스피 전체 상승을 견인하고 있으며, AI 하드웨어 시장의 성장 기대감과 함께 실적 개선 가능성이 높아 적극적인 관심이 필요합니다.",
       "check_points": [
-        "반도체 업황 개선 지속 여부",
-        "외국인 및 기관 투자자 매매 동향",
-        "글로벌 기술주 동향"
+        "AI 반도체 수요 및 신제품 출시 동향",
+        "글로벌 IT 경기 회복 속도",
+        "환율 변동성"
       ],
       "related_news_titles": [
-        "코스피, 사상 최초 8,000선으로 마감…삼성전자·SK하이닉스 강세",
-        "코스피 8,000선 사상 최고치 경신, '종전'과 삼성전자·SK하이닉스 주도",
-        "코스피 8,000선 재돌파, 삼성전자와 SK하이닉스 강세 지속"
+        "[마켓 프리뷰] 반도체 주도로 코스피 '승승장구', 삼성·SK하이닉스 ETF '급등'",
+        "엔비디아 vs TSMC - AI 하드웨어 시장의 점유율 경쟁과 실적 분석"
       ]
     },
     {
@@ -298,52 +299,49 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성전자와 함께 코스피 8,000선 돌파의 강력한 주역이며, AI 반도체 수요 증가와 함께 반도체 시장의 핵심 변화를 주도하고 있어 지속적인 관심이 필요합니다.",
+      "reason": "AI 하드웨어 시장의 핵심 부품인 고대역폭 메모리(HBM) 수요 증가와 반도체 업종 전반의 강세가 국내 증시를 견인하고 있어, AI 산업 성장의 직접적인 수혜주로서 관심이 필요합니다.",
       "check_points": [
-        "AI 반도체(HBM) 시장 경쟁 심화",
-        "메모리 반도체 가격 상승세 지속 여부",
-        "글로벌 반도체 기업들의 투자 계획"
+        "HBM 생산 및 공급 능력 확장 계획",
+        "글로벌 AI 서버 투자 동향",
+        "메모리 반도체 가격 추이"
       ],
       "related_news_titles": [
-        "코스피, 사상 최초 8,000선으로 마감…삼성전자·SK하이닉스 강세",
-        "코스피 8,000선 사상 최고치 경신, '종전'과 삼성전자·SK하이닉스 주도",
-        "코스피 8,000선 재돌파, 삼성전자와 SK하이닉스 강세 지속"
+        "엔비디아 vs TSMC - AI 하드웨어 시장의 점유율 경쟁과 실적 분석",
+        "[마켓 프리뷰] 반도체 주도로 코스피 '승승장구', 삼성·SK하이닉스 ETF '급등'"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "관심",
-      "reason": "코스피 8,000선 돌파 및 나스닥, S&P 500 지수 사상 최고치 경신 등 국내외 증시 호조는 거래대금 증가와 투자 심리 개선으로 이어져 증권 업종 전반에 긍정적인 영향을 미칠 수 있습니다.",
+      "sector": "금융 (은행)",
+      "opinion": "주의",
+      "reason": "미국 연준의 통화정책 변화 가능성과 국내 금리 인상 시그널이 금융 시장 변동성을 확대하고 은행권의 자금 조달 비용 상승 및 대출 수요 위축으로 이어질 수 있어 주의가 필요합니다.",
       "check_points": [
-        "일평균 거래대금 추이",
-        "금리 및 채권 수익률 변동에 따른 영향",
-        "글로벌 시장 투자 상품 동향"
+        "한국은행 금융통화위원회 회의 결과 및 정책 방향",
+        "미국 채권 금리 동향 및 연준 발언",
+        "가계 및 기업 대출 건전성 지표"
       ],
       "related_news_titles": [
-        "휴전 기대감 속에 나스닥과 S&P 500 지수 사상 최고치 경신",
-        "아침 브리핑: S&P 500 및 나스닥 사상 최고치 경신, ASX 200 선물은 보합세",
-        "채권 수익률 상승 시 포트폴리오 조정이 필요할까? 신중한 접근이 중요"
+        "주요 은행, 연준에 2007년 이후 최고 채권 금리 대응 촉구",
+        "신현송 금통위원의 첫 회의, 물가·성장 전망 상향 및 금리 인상 시그널 가능성"
       ]
     },
     {
       "rank": 4,
-      "name": "한국금융지주",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "관심",
-      "reason": "긍정적인 국내외 증시 분위기가 지속될 경우, 증권 부문 실적 개선 기대감과 함께 시장 전반의 활성화에 대한 수혜가 예상되며, 자산관리 및 투자 사업 역량도 주목할 만합니다.",
+      "sector": "금융 (증권)",
+      "opinion": "주의",
+      "reason": "미국 2년물 국채 금리의 연방 기금 금리 초과 현상과 미국 재정 부담 증가는 경기 침체 가능성 및 금융 시장 불확실성을 높여 증권 업종 전반에 부정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "시장 변동성 및 투자 심리 변화",
-        "자회사 실적 및 신사업 추진 동향",
-        "금리 환경 변화가 금융업에 미치는 영향"
+        "미국 국채 금리 및 글로벌 시장 변동성 지표",
+        "글로벌 경기 침체 가능성 및 투자심리 위축",
+        "국내 증시 거래대금 추이"
       ],
       "related_news_titles": [
-        "휴전 기대감 속에 나스닥과 S&P 500 지수 사상 최고치 경신",
-        "아침 브리핑: S&P 500 및 나스닥 사상 최고치 경신, ASX 200 선물은 보합세",
-        "채권 수익률 상승 시 포트폴리오 조정이 필요할까? 신중한 접근이 중요"
+        "미국 2년물 국채 금리, 연방 기금 금리 초과…역사는 연준의 다음 조치를 시사한다",
+        "채권 시장이 미국 납세자에게 2조 달러 규모의 나쁜 소식을 안겼다"
       ]
     }
   ],
