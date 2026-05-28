@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28 08:17",
-  "analysis_date": "2026-05-28",
+  "generated_at": "2026-05-29 08:17",
+  "analysis_date": "2026-05-29",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 고금리 압박과 경기 불확실성이 증대되는 가운데, 국내 증시에서는 반도체 섹터가 강력한 상승세를 견인하며 차별화된 모습을 보였습니다.",
-    "국내거시경제": "한국은행 금통위에서 물가 및 성장률 전망이 상향 조정될 가능성이 제기되며, 향후 기준 금리 인상 시그널이 나타날 경우 국내 증시와 부동산 시장에 부정적인 영향을 미칠 수 있습니다.",
-    "글로벌경제": "미국 채권 시장의 높은 금리로 인해 국채 발행 비용이 급증, 납세자에게 2조 달러 규모의 재정 부담이 전가될 위기에 처했습니다. 이는 장기적으로 달러 가치와 글로벌 금융 시장의 불안정성을 높일 수 있습니다.",
-    "증시금리": "해외 주요 은행들은 연준에 2007년 이후 최고 채권 금리에 대한 조치를 촉구했으며, 미국 2년물 국채 금리 역전 현상은 연준의 금리 인하 가능성을 시사합니다. 반면 국내 코스피는 AI 반도체 수요 증가에 힘입어 반도체 업종 주도로 강세를 보이며 삼성전자, SK하이닉스 관련 ETF가 급등했습니다.",
-    "부동산정책": "국내 금리 인상 가능성으로 부동산 시장의 대출 금리 상승 압력이 가중될 수 있어, 금융 비용 증가에 대한 주의가 필요합니다.",
-    "기업산업": "AI 하드웨어 시장의 핵심 기업인 엔비디아와 TSMC가 높은 성장세를 기록하며 시장 점유율 경쟁을 이어가고 있습니다. 이들의 실적은 AI 산업 전반의 성장 동력을 가늠하는 중요한 지표가 됩니다.",
-    "오늘의투자시사점": "글로벌 고금리 환경과 통화 정책 변화 가능성에 대한 경계를 늦추지 않으면서도, AI 반도체 수요 급증에 따른 국내 반도체 섹터의 견조한 성장세에 주목하여 관련 종목에 대한 중장기적 관점의 접근이 유효합니다.",
-    "오늘의한줄": "글로벌 금리 불확실성 속 국내 반도체 강세가 돋보이며, 통화 정책 방향에 대한 지속적인 관찰이 중요합니다."
+    "총평": "글로벌 AI 반도체 생태계 강화 및 차세대 AI 성장 기대감과 함께, 국내외 물가 및 성장률 상향 조정에 따른 긴축 기조 강화 우려가 시장에 교차하고 있습니다.",
+    "국내거시경제": "국내 경제 성장률과 물가 전망치 동반 상향은 한국은행의 기준금리 인상 가능성을 높여 경기 둔화 및 기업 실적에 미칠 영향에 대한 주의가 필요합니다.",
+    "글로벌경제": "지속되는 인플레이션이 미국 국채의 전통적인 안전자산 역할을 약화시키고 있어, 투자자들은 인플레이션 헤지를 위한 새로운 자산 배분 전략을 고려해야 합니다.",
+    "증시금리": "파월 연준 의장의 경고와 국내 증시 외국인 대규모 매도세로 지수 하락 압력이 커졌으나, 특정 성장 섹터로의 자금 집중 현상이 관찰되었습니다.",
+    "부동산정책": "해당 사항 없음",
+    "기업산업": "엔비디아 CEO의 대만 방문을 통한 AI 반도체 공급망 협력 강화와 함께, 메모리 다음으로 배터리, 그리고 장기적으로 피지컬 AI가 차세대 성장 동력으로 부각되고 있습니다.",
+    "오늘의투자시사점": "금리 인상 가능성과 인플레이션 압력에 대비한 포트폴리오 재점검이 필요하며, AI 반도체와 배터리, 피지컬 AI 등 미래 성장 산업 내 핵심 기업에 대한 선별적 투자가 유효해 보입니다.",
+    "오늘의한줄": "글로벌 긴축 기조 강화 우려 속, AI 성장 동력은 여전히 유효하며 시장은 더욱 선별적인 움직임을 보일 것입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주요 은행, 연준에 2007년 이후 최고 채권 금리 대응 촉구",
-      "display_title": "주요 은행, 연준에 2007년 이후 최고 채권 금리 대응 촉구",
-      "original_title": "A top bank says the Fed must act now to address the highest bond yields since 2007 - AOL.com",
+      "title": "엔비디아 젠슨 황 CEO 대만 방문, 'AI 반도체 삼각 동맹' 업데이트 예고",
+      "display_title": "엔비디아 젠슨 황 CEO 대만 방문, 'AI 반도체 삼각 동맹' 업데이트 예고",
+      "original_title": "Nvidia CEO Jensen Huang Is Heading to Taiwan. Get Ready for Updates on an ‘AI Semiconductor Triangle Alliance.’ - Barchart.com",
       "summary": [
-        "주요 은행이 연준에 2007년 이후 최고치를 기록한 채권 금리에 대해 즉각적인 조치를 요구하고 있다.",
-        "채권 금리의 급등은 금융 시장 전반의 불안정을 야기하며, 이는 경기 침체 우려를 키울 수 있다.",
-        "연준의 향후 통화 정책 방향과 시장 개입 가능성을 주시하며 투자 전략을 조정해야 한다."
+        "엔비디아 젠슨 황 CEO가 대만을 방문하여 AI 반도체 공급망 협력을 논의할 예정입니다.",
+        "이는 엔비디아의 주요 파트너사인 TSMC 등과의 전략적 제휴를 강화하려는 움직임으로 해석됩니다.",
+        "AI 반도체 산업의 미래 방향과 한국 반도체 기업에 미칠 영향을 주시해야 합니다."
       ],
-      "summary_text": "주요 은행이 연준에 2007년 이후 최고치를 기록한 채권 금리에 대해 즉각적인 조치를 요구하고 있다. 채권 금리의 급등은 금융 시장 전반의 불안정을 야기하며, 이는 경기 침체 우려를 키울 수 있다. 연준의 향후 통화 정책 방향과 시장 개입 가능성을 주시하며 투자 전략을 조정해야 한다.",
-      "description": "한 주요 은행이 2007년 이후 최고 수준으로 치솟은 채권 금리에 대해 연준이 즉각 조치할 것을 촉구했다.",
-      "category": "증시·금리",
+      "summary_text": "엔비디아 젠슨 황 CEO가 대만을 방문하여 AI 반도체 공급망 협력을 논의할 예정입니다. 이는 엔비디아의 주요 파트너사인 TSMC 등과의 전략적 제휴를 강화하려는 움직임으로 해석됩니다. AI 반도체 산업의 미래 방향과 한국 반도체 기업에 미칠 영향을 주시해야 합니다.",
+      "description": "엔비디아 젠슨 황 CEO가 대만을 방문하여 AI 반도체 공급망 강화를 위한 'AI 반도체 삼각 동맹' 관련 논의가 예상됩니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 채권시장, 통화정책 관련 업종",
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준의 통화정책 변화 가능성과 그로 인한 금융 시장 변동성 확대에 대비해야 하기 때문에 주의가 필요합니다.",
-      "key_signal": "연준의 공식 발표나 관계자 발언을 통해 채권 금리 안정화 방안이 논의되는지 확인해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "엔비디아의 전략적 움직임은 글로벌 AI 반도체 시장의 판도를 바꿀 수 있으며, 이는 한국 반도체 기업에도 큰 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "엔비디아 CEO의 대만 방문 결과와 'AI 반도체 삼각 동맹'의 구체적인 내용 발표 여부를 확인해야 합니다.",
       "keywords": [
-        "연준",
-        "채권금리",
-        "통화정책",
-        "시장개입",
-        "금융시장"
+        "엔비디아",
+        "AI 반도체",
+        "대만",
+        "젠슨황",
+        "반도체 동맹"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfU1VhOF9ZdEFrdEVCNjJoTi1aa25TN2hYUW82ZE1FckRUcTZ2U2pqMEFCUXRVY3UxYjNVb3JjRVlXYk9RbDZXcUJvR25WVEI3N0xpWFFVWUE4RW12NXhrSDRuZHpjVklUb25FOEFDTmR0NHJv?oc=5",
-      "published": "2026-05-28 05:34",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR0FqUV9rMi0zZkNEcnpGRlJPU2ZwazdMQnYwdU9PLXNKWW1udFp2dXc5NmxQbzQxaUlYRGI4R1Y0UmpPZjB1X1B6SzdqQUpIR0R5amhiVTNyakozclFNX0dfODFSVTFEWTJNbFNGNXBGM0t6TkRYNm9WYlZhZEJTZTU0aGJnLU1KWTMydFJ4UFZ2UEZIcVlnckw3SXAyWllnOXI2WnlUUE9mZTVsNEY4emo1NVpoNnQ1Wk80a3RXb1lUN0hfV1JzdHVqcl9zcFVDdXlBSUo5UVhBbUF2OTFjOHJfZ0Uydw?oc=5",
+      "published": "2026-05-29 03:33",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,42 +66,41 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 2년물 국채 금리, 연방 기금 금리 초과…역사는 연준의 다음 조치를 시사한다",
-      "display_title": "미국 2년물 국채 금리, 연방 기금 금리 초과…역사는 연준의 다음 조치를 시사한다",
-      "original_title": "The 2-Year U.S. Treasury Yield Has Now Blown Past the Federal Funds Rate. History Says the Fed Will Do This Next - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "성장률·물가 전망 동반 상향, 국내 금리 인상 초읽기",
+      "display_title": "성장률·물가 전망 동반 상향, 국내 금리 인상 초읽기",
+      "original_title": "성장·물가 전망 모두 상향...금리인상 초읽기 - 한국경제",
       "summary": [
-        "미국 2년물 국채 금리가 연방 기금 금리를 상회하는 현상이 발생했으며, 이는 과거 연준의 통화 정책 변화를 예고하는 신호였다.",
-        "단기 국채 금리가 정책 금리보다 높아지는 현상은 경기 침체 우려가 반영되거나, 연준의 금리 인하 기대감을 높이는 경우가 많다.",
-        "이러한 금리 역전 현상은 연준의 통화 정책 전환, 특히 금리 인하 가능성을 시사할 수 있으므로, 관련 자산군에 대한 전략을 재검토해야 한다."
+        "국내 경제 성장률과 물가 상승률 전망치가 동시에 상향 조정되었습니다.",
+        "이는 한국은행이 기준금리 인상을 단행할 가능성이 커졌음을 의미합니다.",
+        "금리 인상 시 경기 둔화 및 기업 실적에 미칠 영향을 고려하여 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "미국 2년물 국채 금리가 연방 기금 금리를 상회하는 현상이 발생했으며, 이는 과거 연준의 통화 정책 변화를 예고하는 신호였다. 단기 국채 금리가 정책 금리보다 높아지는 현상은 경기 침체 우려가 반영되거나, 연준의 금리 인하 기대감을 높이는 경우가 많다. 이러한 금리 역전 현상은 연준의 통화 정책 전환, 특히 금리 인하 가능성을 시사할 수 있으므로, 관련 자산군에 대한 전략을 재검토해야 한다.",
-      "description": "미국 2년물 국채 금리가 연방 기금 금리를 넘어섰으며, 이는 과거 사례를 통해 연준의 다음 통화 정책 방향을 예측할 수 있는 중요한 신호임을 설명한다.",
-      "category": "증시·금리",
+      "summary_text": "국내 경제 성장률과 물가 상승률 전망치가 동시에 상향 조정되었습니다. 이는 한국은행이 기준금리 인상을 단행할 가능성이 커졌음을 의미합니다. 금리 인상 시 경기 둔화 및 기업 실적에 미칠 영향을 고려하여 투자 전략을 수립해야 합니다.",
+      "description": "국내 성장률과 물가 전망이 모두 상향 조정되면서, 한국은행의 기준금리 인상이 임박했다는 분석이 나오고 있습니다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "채권시장, 금융, 경기민감주, 기술주",
+      "related_sector": "금융, 건설, 소비재",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "카카오뱅크",
+        "대한항공"
       ],
       "investment_view": "주의",
-      "investment_reason": "2년물 국채 금리와 연방 기금 금리의 역전 현상은 경기 침체 및 연준의 정책 전환을 암시할 수 있어 투자 포트폴리오 조정에 중요한 참고 사항이 됩니다.",
-      "key_signal": "연준의 공식적인 금리 인하 시그널이나 경기 전망 변화에 대한 발언을 면밀히 주시해야 합니다.",
+      "investment_reason": "국내 금리 인상은 가계 부채 부담 증가, 기업 자금 조달 비용 상승 등 국내 경제 전반과 주식 시장에 광범위한 영향을 미치기 때문입니다.",
+      "key_signal": "한국은행 금융통화위원회 회의 결과와 기준금리 인상 시기 및 폭, 그리고 국내 시중 금리 변동 추이를 집중적으로 살펴야 합니다.",
       "keywords": [
-        "국채금리",
-        "연방기금금리",
-        "금리역전",
-        "연준",
-        "경기침체"
+        "성장률",
+        "물가",
+        "금리인상",
+        "한국은행",
+        "기준금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVUXVsQWprbm9HNzVfM3lOd2g4dHhwdktDenN6Y3o2RGl4djUxUXZOYXhYbWk1S1BPUjQ4U1ZEMW5DMjc2aG9zcGZhY1ljUHlTckhmV1dESktwN1VHUkdwYmJER0hLSEF5VjQ3UWJZa2NaTEI0?oc=5",
-      "published": "2026-05-27 21:23",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9memhyU3RnRWhzTFlRbGg4b1FKM0F4c3hzRk1BMkp3MlJTYjk2Qm9PU1hnYUctOVMxYkZJY2J1ZHFsMzdkRDhwOXRUVXc5N3B6UjFOZ9IBVEFVX3lxTE9memhyU3RnRWhzTFlRbGg4b1FKM0F4c3hzRk1BMkp3MlJTYjk2Qm9PU1hnYUctOVMxYkZJY2J1ZHFsMzdkRDhwOXRUVXc5N3B6UjFOZw?oc=5",
+      "published": "2026-05-28 20:31",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +110,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "엔비디아 vs TSMC - AI 하드웨어 시장의 점유율 경쟁과 실적 분석",
-      "display_title": "엔비디아 vs TSMC - AI 하드웨어 시장의 점유율 경쟁과 실적 분석",
-      "original_title": "Nvidia vs TSM-Earnings Reveal AI Hardware Power Split - AOL.com",
+      "title": "파월 연준 의장의 최종 경고, 증시 투자자들이 주목해야 할 다음 수순",
+      "display_title": "파월 연준 의장의 최종 경고, 증시 투자자들이 주목해야 할 다음 수순",
+      "original_title": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. - AOL.com",
       "summary": [
-        "엔비디아와 TSMC의 최근 실적을 비교 분석하며, AI 하드웨어 시장 내 두 거대 기업의 지배력 분할 양상을 조명한다.",
-        "AI 기술 발전과 함께 관련 하드웨어 수요가 급증하면서, 핵심 칩 설계와 위탁 생산을 담당하는 두 기업의 역할이 더욱 중요해졌다.",
-        "AI 산업 성장의 핵심 동력인 두 기업의 실적과 시장 점유율 변화는 전체 AI 관련주 투자에 중요한 가이드라인을 제공한다."
+        "파월 연준 의장이 주식 시장 투자자들에게 '최종 경고' 메시지를 전달했습니다.",
+        "이는 연준의 인플레이션 억제 의지 또는 긴축 정책 유지 가능성을 시사하는 것으로 보입니다.",
+        "과거 연준의 강경 발언 이후 시장 반응을 참고하여 투자 전략을 재점검해야 합니다."
       ],
-      "summary_text": "엔비디아와 TSMC의 최근 실적을 비교 분석하며, AI 하드웨어 시장 내 두 거대 기업의 지배력 분할 양상을 조명한다. AI 기술 발전과 함께 관련 하드웨어 수요가 급증하면서, 핵심 칩 설계와 위탁 생산을 담당하는 두 기업의 역할이 더욱 중요해졌다. AI 산업 성장의 핵심 동력인 두 기업의 실적과 시장 점유율 변화는 전체 AI 관련주 투자에 중요한 가이드라인을 제공한다.",
-      "description": "엔비디아와 TSMC의 실적 발표를 통해 AI 하드웨어 시장 내에서의 점유율 및 파워 분배 현황을 분석한다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, IT하드웨어",
+      "summary_text": "파월 연준 의장이 주식 시장 투자자들에게 '최종 경고' 메시지를 전달했습니다. 이는 연준의 인플레이션 억제 의지 또는 긴축 정책 유지 가능성을 시사하는 것으로 보입니다. 과거 연준의 강경 발언 이후 시장 반응을 참고하여 투자 전략을 재점검해야 합니다.",
+      "description": "파월 연준 의장의 '최종 경고' 발언으로 인해 증시 투자자들이 향후 시장 움직임에 대해 역사적 패턴을 분석하며 주목하고 있습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "전 업종",
       "related_stocks": [
-        "엔비디아",
-        "TSMC",
-        "SK하이닉스"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 하드웨어 시장의 선두 주자인 두 기업의 경쟁 구도와 실적은 AI 산업 전반의 성장세를 가늠하는 핵심 지표이기 때문에 투자자들에게 매우 중요합니다.",
-      "key_signal": "두 기업의 다음 분기 실적 발표와 신제품 로드맵 발표를 통해 AI 시장의 주도권 변화를 예상해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "연준 의장의 발언은 글로벌 금융 시장의 방향성을 결정하는 중요한 신호이며, 한국 증시에도 직접적인 영향을 미치기 때문입니다.",
+      "key_signal": "파월의 구체적인 경고 내용과 시장 금리의 변동, 그리고 주식 시장의 반응을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "엔비디아",
-        "TSMC",
-        "AI",
-        "반도체",
-        "GPU"
+        "파월",
+        "연준",
+        "금리인상",
+        "긴축",
+        "증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81TTU3Skd2TWcxODdIcEFzSkFOSUkzeUktOEEwb1FLajY3S3hrV2ZONG9nSkh6a1NPSnprbHBaZmxvbnREZGZRa01oN1pvc1B0OWwtb2VZZXl1VnJySndZRTJrS2c0Z012Y01TajFtbEtIM0J2UnZ4QVhQaEdjQQ?oc=5",
-      "published": "2026-05-28 05:17",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjNfV09CU01SNDhsM2o2OGpFMzFZNFRhMWVJb0ptTHY0VXN6QUkzZmF4aUVYWDMxUHYxamtvVlVDX3A4TVdhM2ZTMzE0d0trUEFrcVg1T3VtWjhNZHJrZGRFLXhXNnNBRnVQbmJYRmU2amFlMVBteC1VV01VWkxXcXZn?oc=5",
+      "published": "2026-05-28 18:22",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -151,41 +149,42 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[마켓 프리뷰] 반도체 주도로 코스피 '승승장구', 삼성·SK하이닉스 ETF '급등'",
-      "display_title": "[마켓 프리뷰] 반도체 주도로 코스피 '승승장구', 삼성·SK하이닉스 ETF '급등'",
-      "original_title": "[마켓 프리뷰] 반도체에 코스피 '승승장구'…삼전닉스 ETF '불기둥' - SBSBiz",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "인플레이션, 미국 국채의 전통적인 포트폴리오 역할에 도전",
+      "display_title": "인플레이션, 미국 국채의 전통적인 포트폴리오 역할에 도전",
+      "original_title": "Inflation challenges US Treasuries' traditional role in portfolios - AOL.com",
       "summary": [
-        "반도체 업종의 강력한 상승세가 코스피 시장을 견인하고 있으며, 특히 삼성전자와 SK하이닉스 관련 ETF들이 높은 수익률을 기록 중이다.",
-        "AI 반도체 수요 증가와 메모리 업황 회복 기대감이 국내 반도체 기업들의 실적 개선 전망으로 이어지고 있다.",
-        "반도체 섹터의 강세는 당분간 지속될 가능성이 높으므로, 관련 종목 및 ETF에 대한 관심이 유효하다."
+        "지속되는 인플레이션이 미국 국채의 전통적인 포트폴리오 내 역할에 도전을 제기하고 있습니다.",
+        "이는 국채의 실질 수익률 하락과 안전자산으로서의 매력 감소를 의미합니다.",
+        "투자자들은 인플레이션 헤지를 위한 새로운 자산 배분 전략을 고려해야 할 시점입니다."
       ],
-      "summary_text": "반도체 업종의 강력한 상승세가 코스피 시장을 견인하고 있으며, 특히 삼성전자와 SK하이닉스 관련 ETF들이 높은 수익률을 기록 중이다. AI 반도체 수요 증가와 메모리 업황 회복 기대감이 국내 반도체 기업들의 실적 개선 전망으로 이어지고 있다. 반도체 섹터의 강세는 당분간 지속될 가능성이 높으므로, 관련 종목 및 ETF에 대한 관심이 유효하다.",
-      "description": "반도체 업종의 강세에 힘입어 코스피 지수가 상승세를 이어가고 있으며, 삼성전자와 SK하이닉스 관련 ETF 또한 급등하고 있다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT하드웨어, 인공지능(AI)",
+      "summary_text": "지속되는 인플레이션이 미국 국채의 전통적인 포트폴리오 내 역할에 도전을 제기하고 있습니다. 이는 국채의 실질 수익률 하락과 안전자산으로서의 매력 감소를 의미합니다. 투자자들은 인플레이션 헤지를 위한 새로운 자산 배분 전략을 고려해야 할 시점입니다.",
+      "description": "지속적인 인플레이션 압력이 미국 국채가 포트폴리오 내에서 안전자산 및 안정화 역할을 해왔던 전통적인 역할에 의문을 제기하고 있습니다.",
+      "category": "글로벌 경제",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "채권, 자산운용",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "국내 증시의 핵심 동력인 반도체 업종의 강세는 코스피 전체의 상승을 견인하며, 해당 기업들의 실적 개선 기대감으로 이어지기 때문에 적극적인 관심이 필요합니다.",
-      "key_signal": "글로벌 AI 반도체 수요와 메모리 가격 동향을 지속적으로 모니터링하여 반도체 업종의 추가 상승 여력을 판단해야 합니다.",
+      "investment_reason": "미국 국채의 역할 변화는 글로벌 자금 흐름과 투자 전략에 광범위한 영향을 미치며, 한국 투자자들의 포트폴리오 구성에도 시사하는 바가 크기 때문입니다.",
+      "key_signal": "미국 인플레이션 지표와 장기 국채 금리 동향, 그리고 기관 투자자들의 자산 배분 전략 변화를 주목해야 합니다.",
       "keywords": [
-        "코스피",
-        "반도체",
-        "삼성전자",
-        "SK하이닉스",
-        "AI반도체"
+        "미국 국채",
+        "인플레이션",
+        "포트폴리오",
+        "안전자산",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KRHEzcUNhWXdmOEpOS3NxU3dldVZLUHBWRWVfNlI1dmpmQllSVUtIWVR6WUh0VldpYmJseWxWM3g2Q0lBNm0tZEd6dlNOTzR4UHBj?oc=5",
-      "published": "2026-05-28 06:49",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0s0T2kyU0EzUjJ6RzJHRWFfR2RWcXlUTzNsSzJFV0VoRHI0TG5ERGtHOGs2dEh0M0ZFaWVLNFBkV25QWXVmMVNRY0xkZ1J5Zi1EMTUxakhpaGZMbUFUaThBdjNOZWx4QWRKWkhRR2pCM2JfTG1QM3lkZzBmajdDLXNQNXBDOFBzQVJHQmlydDlYaUhL?oc=5",
+      "published": "2026-05-28 20:23",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -195,37 +194,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "신현송 금통위원의 첫 회의, 물가·성장 전망 상향 및 금리 인상 시그널 가능성",
-      "display_title": "신현송 금통위원의 첫 회의, 물가·성장 전망 상향 및 금리 인상 시그널 가능성",
-      "original_title": "신현송 첫 금통위…물가·성장전망 높이고 인상 신호 보낼 듯 - 매일경제 마켓",
+      "title": "메모리 다음은 '배터리', AI 랠리의 최종 목적지는 '피지컬 AI'",
+      "display_title": "메모리 다음은 '배터리', AI 랠리의 최종 목적지는 '피지컬 AI'",
+      "original_title": "메모리 다음 타자 '배터리'…인공지능 랠리 종착역은 '피지컬 AI' - 네이트",
       "summary": [
-        "신현송 한국은행 금융통화위원회 위원의 첫 참석 회의에서 물가 및 성장률 전망이 상향 조정되고, 금리 인상에 대한 신호가 나올 것으로 예상된다.",
-        "물가 상승 압력이 지속되고 경제 성장세가 예상보다 강할 경우, 한국은행은 인플레이션 제어를 위해 긴축적인 통화 정책 기조를 유지할 수 있다.",
-        "기준 금리 인상 가능성은 채권 시장에 부정적이고 금융 비용 증가로 이어져, 국내 증시와 부동산 시장에 하방 압력으로 작용할 수 있다."
+        "메모리 반도체에 이어 배터리가 AI 산업 성장의 다음 동력으로 부상할 전망입니다.",
+        "장기적으로는 로봇 등 물리적 형태로 구현되는 '피지컬 AI'가 AI 랠리의 종착점이 될 것이라는 분석입니다.",
+        "미래 AI 산업의 핵심 분야를 선제적으로 파악하여 투자 기회를 모색해야 합니다."
       ],
-      "summary_text": "신현송 한국은행 금융통화위원회 위원의 첫 참석 회의에서 물가 및 성장률 전망이 상향 조정되고, 금리 인상에 대한 신호가 나올 것으로 예상된다. 물가 상승 압력이 지속되고 경제 성장세가 예상보다 강할 경우, 한국은행은 인플레이션 제어를 위해 긴축적인 통화 정책 기조를 유지할 수 있다. 기준 금리 인상 가능성은 채권 시장에 부정적이고 금융 비용 증가로 이어져, 국내 증시와 부동산 시장에 하방 압력으로 작용할 수 있다.",
-      "description": "신현송 한국은행 금융통화위원회 위원의 첫 참석 금통위에서 물가 및 성장률 전망을 상향 조정하고, 향후 금리 인상 가능성을 시사할 것으로 예상된다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 은행, 건설, 부동산, 채권시장",
+      "summary_text": "메모리 반도체에 이어 배터리가 AI 산업 성장의 다음 동력으로 부상할 전망입니다. 장기적으로는 로봇 등 물리적 형태로 구현되는 '피지컬 AI'가 AI 랠리의 종착점이 될 것이라는 분석입니다. 미래 AI 산업의 핵심 분야를 선제적으로 파악하여 투자 기회를 모색해야 합니다.",
+      "description": "인공지능(AI) 기술 랠리가 메모리 반도체를 넘어 배터리 산업으로 확장될 것이며, 최종적으로는 로봇 등 실물 세계와 결합하는 '피지컬 AI' 시대가 올 것이라는 전망입니다.",
+      "category": "기업·산업",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "배터리, 로봇, AI",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "삼성SDI",
+        "LG에너지솔루션",
+        "두산로보틱스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "한국은행의 금리 인상 시그널은 국내 경제 전반에 걸쳐 자금 조달 비용 상승과 소비 심리 위축을 야기하여 증시와 부동산 시장에 부담을 줄 수 있기 때문입니다.",
-      "key_signal": "오늘 금통위에서 발표될 물가 및 성장률 수정 전망치와 신현송 위원을 포함한 위원들의 매파적 발언 여부를 집중적으로 확인해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 산업의 진화 방향을 제시하는 기사로, 미래 성장 동력을 확보하고 있는 관련 기업에 대한 투자 아이디어를 얻을 수 있기 때문입니다.",
+      "key_signal": "AI 기술 발전과 함께 배터리 효율성 개선, 로봇 시장 확대 등 '피지컬 AI' 관련 기술 및 시장 동향을 주목해야 합니다.",
       "keywords": [
-        "한국은행",
-        "금통위",
-        "금리인상",
-        "물가상승",
-        "성장률"
+        "AI",
+        "배터리",
+        "피지컬 AI",
+        "로봇",
+        "미래산업"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ycFAyRFp2eFMtLTE5REpTb0g2aEVlN3BDNFZIVmk3WnZZd29qcEpvR3kxZVlCWE1ZM2s5LWJaOVJvT01pTUdxbHVKMVlDZEl5UVltU3I2SVpCSlZVVDVjbw?oc=5",
-      "published": "2026-05-28 05:30",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UYUZhYlUxT3o1TXppVkhtSG9jZmg1YXdRaDlweHc5Nm5pdzJGRlBTM2k0TW1CN0lPc1hsczdHOHRUMmJ1c2Uyb1hNM1R3UFZsZ204?oc=5",
+      "published": "2026-05-29 06:01",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -234,42 +233,42 @@
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "채권 시장이 미국 납세자에게 2조 달러 규모의 나쁜 소식을 안겼다",
-      "display_title": "채권 시장이 미국 납세자에게 2조 달러 규모의 나쁜 소식을 안겼다",
-      "original_title": "The Bond Market Just Handed U.S. Taxpayers $2 Trillion in Bad News - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[5월 28일 국장 마감] 외국인 3.6조 매물 폭탄 속 지수 폭락, 일부 섹터는 상한가 기록",
+      "display_title": "[5월 28일 국장 마감] 외국인 3.6조 매물 폭탄 속 지수 폭락, 일부 섹터는 상한가 기록",
+      "original_title": "[5월 28일](국장 마감) 외인 3.6조 매물 폭탄 쏟아진 국장, 지수 폭락에도 '상한가' 직행한 섹터의 비밀 - 네이버 프리미엄콘텐츠",
       "summary": [
-        "채권 시장에서 발생한 문제로 인해 미국 납세자들이 2조 달러에 달하는 재정적 부담을 지게 될 수 있다.",
-        "이는 주로 높은 채권 금리로 인해 미국 정부의 국채 발행 비용이 증가하면서 발생한 문제로 보인다.",
-        "미국 재정 건전성 악화는 장기적으로 달러 가치와 글로벌 금융 시장에 영향을 미칠 수 있어 유의해야 한다."
+        "5월 28일 국내 증시에서 외국인이 3.6조 원 규모의 대규모 매도세를 보이며 지수가 급락했습니다.",
+        "전반적인 약세장 속에서도 특정 섹터는 상한가를 기록하며 시장 대비 강세를 나타냈습니다.",
+        "이는 시장의 자금 흐름이 특정 테마나 업종으로 집중되고 있음을 시사하므로, 강세 섹터에 대한 분석이 필요합니다."
       ],
-      "summary_text": "채권 시장에서 발생한 문제로 인해 미국 납세자들이 2조 달러에 달하는 재정적 부담을 지게 될 수 있다. 이는 주로 높은 채권 금리로 인해 미국 정부의 국채 발행 비용이 증가하면서 발생한 문제로 보인다. 미국 재정 건전성 악화는 장기적으로 달러 가치와 글로벌 금융 시장에 영향을 미칠 수 있어 유의해야 한다.",
-      "description": "채권 시장의 변동성으로 인해 미국 납세자들이 2조 달러에 달하는 재정적 부담을 지게 될 것이라는 우려가 제기되었다.",
-      "category": "글로벌 경제",
+      "summary_text": "5월 28일 국내 증시에서 외국인이 3.6조 원 규모의 대규모 매도세를 보이며 지수가 급락했습니다. 전반적인 약세장 속에서도 특정 섹터는 상한가를 기록하며 시장 대비 강세를 나타냈습니다. 이는 시장의 자금 흐름이 특정 테마나 업종으로 집중되고 있음을 시사하므로, 강세 섹터에 대한 분석이 필요합니다.",
+      "description": "5월 28일 국내 주식 시장에서 외국인 투자자들이 3.6조 원 규모의 대규모 매물을 쏟아내 지수가 폭락했으나, 특정 섹터에서는 상한가를 기록하는 등 차별화된 모습을 보였습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "금융, 공공재정, 글로벌 경제",
+      "market_impact": "중립",
+      "related_sector": "특정 강세 섹터 (예: AI, 로봇, 2차전지)",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 정부의 재정 부담 증가는 장기적으로 미국 경제 성장과 달러 가치에 부정적인 영향을 미칠 수 있기 때문에 면밀히 주시해야 합니다.",
-      "key_signal": "미국 재무부의 부채 관리 계획과 정부 지출 동향을 지속적으로 모니터링해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "시장 전반의 하락 속에서도 특정 섹터가 강세를 보인 것은 자금의 이동과 새로운 주도주 형성 가능성을 시사하므로, 해당 섹터 분석을 통해 투자 기회를 발굴할 수 있기 때문입니다.",
+      "key_signal": "외국인 대규모 매도에도 상한가를 기록한 섹터의 정체와 그 배경을 파악하고, 해당 테마의 지속 가능성을 분석해야 합니다.",
       "keywords": [
-        "미국채",
-        "재정적자",
-        "국채금리",
-        "납세자",
-        "글로벌경제"
+        "외국인 매도",
+        "국내증시",
+        "지수 폭락",
+        "상한가",
+        "섹터 차별화"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVEpNTUUtd3ptcm5VeTNFZzh6VDd5SnVTRWM0YmhOXy13bXlaVDB3eGdDeWN6dUNCN01IQ05oMEdmSXlMVTJBNEg3ODVZLWM1dFlBd0NGQV9FVEg2ZHMxT3NkU1lQYmRzSUtITHVYSEhRSUU3Y1NuRQ?oc=5",
-      "published": "2026-05-28 05:32",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTlZQTlZIVVVtLUUwTjR6eTdRQWh6c09XeWFySzZOVFVmcU43TTBWOHMxMUZpVlNJYmlxSVRkd1hpR3RxRmx4Rmw5TFIydEw3d0Z3MXh1UHlpRHpic1kxWUoxcEtuOXFsdl9EWHlDempWNy1jYm5la2F2RnVHVjg0Q3JOOFRPQ2NPbVNCdktrVjAyUQ?oc=5",
+      "published": "2026-05-28 17:07",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -282,15 +281,14 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "국내 증시의 핵심 동력인 반도체 업종 강세가 코스피 전체 상승을 견인하고 있으며, AI 하드웨어 시장의 성장 기대감과 함께 실적 개선 가능성이 높아 적극적인 관심이 필요합니다.",
+      "reason": "엔비디아 젠슨 황 CEO의 대만 방문과 'AI 반도체 삼각 동맹' 업데이트 예고는 글로벌 AI 반도체 시장의 판도를 바꿀 핵심 이벤트로, 삼성전자는 파운드리 및 HBM 기술력을 바탕으로 AI 반도체 생태계의 주요 협력사로서 직접적인 수혜가 기대됩니다.",
       "check_points": [
-        "AI 반도체 수요 및 신제품 출시 동향",
-        "글로벌 IT 경기 회복 속도",
-        "환율 변동성"
+        "엔비디아와의 고대역폭 메모리(HBM) 및 파운드리 협력 강화 여부",
+        "AI 반도체 수요 증가에 따른 추가 수주 소식",
+        "글로벌 기술주 전반의 동향 및 시장 분위기"
       ],
       "related_news_titles": [
-        "[마켓 프리뷰] 반도체 주도로 코스피 '승승장구', 삼성·SK하이닉스 ETF '급등'",
-        "엔비디아 vs TSMC - AI 하드웨어 시장의 점유율 경쟁과 실적 분석"
+        "엔비디아 젠슨 황 CEO 대만 방문, 'AI 반도체 삼각 동맹' 업데이트 예고"
       ]
     },
     {
@@ -299,49 +297,46 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 하드웨어 시장의 핵심 부품인 고대역폭 메모리(HBM) 수요 증가와 반도체 업종 전반의 강세가 국내 증시를 견인하고 있어, AI 산업 성장의 직접적인 수혜주로서 관심이 필요합니다.",
+      "reason": "엔비디아의 전략적 움직임은 AI 반도체의 핵심 부품인 고대역폭 메모리(HBM) 시장의 성장을 더욱 가속화할 것으로 보입니다. SK하이닉스는 HBM 시장의 선두주자로서 기술력과 생산 능력을 기반으로 AI 시대의 핵심 수혜주로 자리매김할 가능성이 높습니다.",
       "check_points": [
-        "HBM 생산 및 공급 능력 확장 계획",
-        "글로벌 AI 서버 투자 동향",
-        "메모리 반도체 가격 추이"
+        "HBM 생산 능력 확대 계획 및 수율 개선 진행 상황",
+        "차세대 HBM 기술 개발 로드맵 및 시장 선점 전략",
+        "AI 서버 증설에 따른 HBM 수요 증가 추이"
       ],
       "related_news_titles": [
-        "엔비디아 vs TSMC - AI 하드웨어 시장의 점유율 경쟁과 실적 분석",
-        "[마켓 프리뷰] 반도체 주도로 코스피 '승승장구', 삼성·SK하이닉스 ETF '급등'"
+        "엔비디아 젠슨 황 CEO 대만 방문, 'AI 반도체 삼각 동맹' 업데이트 예고"
       ]
     },
     {
       "rank": 3,
-      "name": "KB금융",
+      "name": "삼성SDI",
       "market": "KOSPI",
-      "sector": "금융 (은행)",
-      "opinion": "주의",
-      "reason": "미국 연준의 통화정책 변화 가능성과 국내 금리 인상 시그널이 금융 시장 변동성을 확대하고 은행권의 자금 조달 비용 상승 및 대출 수요 위축으로 이어질 수 있어 주의가 필요합니다.",
+      "sector": "배터리",
+      "opinion": "관심",
+      "reason": "AI 랠리의 최종 목적지가 '피지컬 AI'로 제시되면서, AI 기술이 로봇 등 실제 물리적 영역으로 확장될 경우 배터리의 중요성이 크게 부각될 것입니다. 삼성SDI는 첨단 배터리 기술력을 바탕으로 미래 AI 시대의 새로운 성장 동력을 확보할 수 있을 것으로 예상됩니다.",
       "check_points": [
-        "한국은행 금융통화위원회 회의 결과 및 정책 방향",
-        "미국 채권 금리 동향 및 연준 발언",
-        "가계 및 기업 대출 건전성 지표"
+        "AI 로봇 등 피지컬 AI 관련 배터리 솔루션 개발 현황",
+        "전고체 배터리 등 차세대 배터리 기술 상용화 속도",
+        "글로벌 배터리 시장 내 경쟁 우위 및 신규 수주 소식"
       ],
       "related_news_titles": [
-        "주요 은행, 연준에 2007년 이후 최고 채권 금리 대응 촉구",
-        "신현송 금통위원의 첫 회의, 물가·성장 전망 상향 및 금리 인상 시그널 가능성"
+        "메모리 다음은 '배터리', AI 랠리의 최종 목적지는 '피지컬 AI'"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "두산로보틱스",
       "market": "KOSPI",
-      "sector": "금융 (증권)",
-      "opinion": "주의",
-      "reason": "미국 2년물 국채 금리의 연방 기금 금리 초과 현상과 미국 재정 부담 증가는 경기 침체 가능성 및 금융 시장 불확실성을 높여 증권 업종 전반에 부정적인 영향을 미칠 수 있습니다.",
+      "sector": "로봇",
+      "opinion": "관심",
+      "reason": "AI 랠리의 최종 목적지가 '피지컬 AI'로 제시되면서, AI와 로봇 기술의 융합이 미래 산업의 핵심 동력이 될 것으로 보입니다. 국내 협동 로봇 시장을 선도하는 두산로보틱스는 AI 기반의 차세대 로봇 솔루션 개발을 통해 이 같은 변화의 직접적인 수혜를 기대할 수 있습니다.",
       "check_points": [
-        "미국 국채 금리 및 글로벌 시장 변동성 지표",
-        "글로벌 경기 침체 가능성 및 투자심리 위축",
-        "국내 증시 거래대금 추이"
+        "AI 기술을 접목한 신규 협동 로봇 제품 출시 여부",
+        "생산성 향상 및 자동화 솔루션 시장 확대 추이",
+        "글로벌 로봇 시장 내 점유율 확대 전략 및 해외 진출 성과"
       ],
       "related_news_titles": [
-        "미국 2년물 국채 금리, 연방 기금 금리 초과…역사는 연준의 다음 조치를 시사한다",
-        "채권 시장이 미국 납세자에게 2조 달러 규모의 나쁜 소식을 안겼다"
+        "메모리 다음은 '배터리', AI 랠리의 최종 목적지는 '피지컬 AI'"
       ]
     }
   ],
