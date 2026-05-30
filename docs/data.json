@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30 08:12",
-  "analysis_date": "2026-05-30",
+  "generated_at": "2026-05-31 07:58",
+  "analysis_date": "2026-05-31",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 시장은 연준의 정책 변화, 채권 시장 경고음, 유가 충격 가능성 등 여러 악재에 직면하며 불확실성이 커지고 있습니다. 반면 국내 증시는 고환율 속 한은의 자신감과 반도체 랠리로 인한 기대감이 공존하지만, 금리 인상 가능성이 부담으로 작용하고 있습니다.",
-    "국내거시경제": "원/달러 환율이 10일 연속 1500원을 돌파했음에도 한국은행은 대응에 자신감을 표명했습니다. 국내 증시는 금리 인상 신호 속 반도체 랠리가 이어지며 성장 기대와 시장 부담이 공존합니다.",
-    "글로벌경제": "신임 연준 의장이 FOMC 통화 정책 관행 폐지를 시도하며 주식 시장에 부정적 영향을 미칠 가능성이 제기됩니다. 연준의 정책 기조 변화에 촉각을 세워야 합니다.",
-    "증시금리": "채권 시장의 경고음이 주식 시장에 큰 문제를 야기할 수 있다는 우려가 나옵니다. 반면 미국 증시는 델 주가 급등에 힘입어 사상 최고치를 경신했습니다. 과거 유가 충격 사례 분석 결과, 올해 주식 시장이 이미 정점을 찍었을 수 있다는 전문가 경고도 나왔습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
-    "오늘의투자시사점": "글로벌 경제의 불확실성과 국내 금리 인상 가능성에 대비하여 포트폴리오의 위험 관리를 강화해야 합니다. 반도체 등 특정 기술주 랠리 지속 여부를 관찰하며 시장 변동성에 대응하는 균형 잡힌 투자 전략이 요구됩니다.",
-    "오늘의한줄": "글로벌 악재와 국내 반도체 랠리 속 시장 변동성 확대에 대비한 신중한 포트폴리오 관리가 필요한 시점입니다."
+    "총평": "글로벌 인플레이션 재상승 및 채권 금리 급등으로 해외 증시 하방 압력이 커지는 가운데, 국내 증시는 중동 불안과 AI 투자 기대감이라는 상반된 재료 속에서 방향성을 모색하는 중입니다.",
+    "국내거시경제": "코스피는 긍정적 흐름을 보였으나, 부동산과 환율은 여전히 불안정한 과제입니다. 중동 정세 불안은 국내 경제에 유가 및 공급망 리스크를 더할 수 있습니다.",
+    "글로벌경제": "글로벌 인플레이션 재점화 우려와 경기 침체기 수준으로 치솟은 채권 금리는 시장 전반의 긴축 기조 유지 가능성을 높여 투자자들의 주의가 요구됩니다.",
+    "증시금리": "해외 증시는 인플레이션 및 금리 상승 압력과 역사적 경고 신호로 조정 가능성이 커지고 있습니다. 국내 코스피는 중동 정세 불안과 AI/반도체 투자 기대감 사이에서 변동성이 예상됩니다.",
+    "부동산정책": "국내 부동산 시장은 가계 경제 전반의 불확실성을 가중시키는 주요 과제로 남아있습니다.",
+    "기업산업": "젠슨 황 엔비디아 CEO 방한은 국내 AI 및 반도체 산업에 대한 투자 기대감을 높이며 관련 섹터에 긍정적 모멘텀을 제공할 수 있습니다.",
+    "오늘의투자시사점": "해외발 인플레이션 및 금리 상승 리스크에 대비하여 방어적 자산 배분을 고려하고, 금리 민감 성장주보다 가치주나 경기 방어주에 관심을 두십시오. 국내에서는 AI/반도체 섹터의 변동성을 활용하되, 중동 불안정성도 주시해야 합니다.",
+    "오늘의한줄": "글로벌 긴축 압력과 국내외 상반된 재료 속, 방어적 자산 배분과 섹터별 신중한 접근이 필요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,33 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "신임 연준 의장 케빈 워시, 지난 15년간의 FOMC 관행 두 가지 폐지 시도 – 주식 투자자들에게는 악재될 수도",
-      "display_title": "신임 연준 의장 케빈 워시, 지난 15년간의 FOMC 관행 두 가지 폐지 시도 – 주식 투자자들에게는 악재될 수도",
-      "original_title": "New Fed Chairman Kevin Warsh Wants to Break 2 FOMC Practices From the Last 15 Years, and It Could Be Bad News for Stock Investors - AOL.com",
+      "title": "인플레이션 상승, 올해 S&P 500 랠리 중단시킬 수 있다",
+      "display_title": "인플레이션 상승, 올해 S&P 500 랠리 중단시킬 수 있다",
+      "original_title": "Inflation Is Creeping Up. Here's Why It Could Derail the S&P 500's Rally This Year - AOL.com",
       "summary": [
-        "신임 연준 의장이 기존 FOMC 통화 정책 관행에 변화를 예고하며, 이는 주식 시장에 부정적 영향을 미칠 가능성이 있다.",
-        "연준의 통화 정책 변화는 금리, 유동성, 시장 심리 등 주식 시장의 근본적인 환경에 직접적인 영향을 미친다.",
-        "연준의 정책 기조 변화에 촉각을 세우고, 이에 따른 시장 변동성 확대에 대비한 투자 전략 수립이 필요하다."
+        "인플레이션이 다시 상승하며 S&P 500 지수의 랠리를 위협하고 있음.",
+        "물가 상승은 연준의 긴축 기조를 유지하거나 강화하게 하여 주식 시장에 부담으로 작용할 수 있음.",
+        "인플레이션 헤지 자산에 대한 관심과 금리 인상 가능성에 대비한 포트폴리오 조정 고려."
       ],
-      "summary_text": "신임 연준 의장이 기존 FOMC 통화 정책 관행에 변화를 예고하며, 이는 주식 시장에 부정적 영향을 미칠 가능성이 있다. 연준의 통화 정책 변화는 금리, 유동성, 시장 심리 등 주식 시장의 근본적인 환경에 직접적인 영향을 미친다. 연준의 정책 기조 변화에 촉각을 세우고, 이에 따른 시장 변동성 확대에 대비한 투자 전략 수립이 필요하다.",
-      "description": "신임 연방준비제도(Fed) 의장 케빈 워시가 지난 15년간 유지되어 온 연방공개시장위원회(FOMC)의 두 가지 관행을 폐지하려 하며, 이는 주식 투자자들에게 나쁜 소식이 될 수 있다.",
-      "category": "글로벌 경제",
-      "importance": 10,
+      "summary_text": "인플레이션이 다시 상승하며 S&P 500 지수의 랠리를 위협하고 있음. 물가 상승은 연준의 긴축 기조를 유지하거나 강화하게 하여 주식 시장에 부담으로 작용할 수 있음. 인플레이션 헤지 자산에 대한 관심과 금리 인상 가능성에 대비한 포트폴리오 조정 고려.",
+      "description": "서서히 오르는 인플레이션이 올해 S&P 500 지수의 상승세를 어떻게 저해할 수 있는지 설명합니다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 전반적인 증시",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "연준의 통화 정책 변화는 시장 유동성과 금리 환경에 중대한 영향을 미쳐 주식 시장 전반의 방향성을 결정할 수 있기 때문이다.",
-      "key_signal": "신임 연준 의장의 구체적인 정책 변화 내용과 그것이 금리 및 시장 유동성에 미칠 영향을 면밀히 분석해야 한다.",
-      "keywords": [
-        "연준",
-        "FOMC",
-        "금리 정책",
-        "통화 정책",
-        "시장 변동성"
+      "related_sector": "인플레이션 헤지, 경기 방어주",
+      "related_stocks": [
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iTmIySURRZGZmQTcyLU5vVDRpNXlGYlF0bmktamlHUTFKOGgtZE9mUFE2YXplODMtazNlZnVwSEExZTQxQU9iWGhVOEwxbnp0dFBaSFotWXF0UEE4TERocXU2QkpMaWFiM0JlVlY0VHFRbnhGRkdNbHAxZC10YzQ?oc=5",
-      "published": "2026-05-30 01:40",
+      "investment_view": "주의",
+      "investment_reason": "인플레이션 상승은 금리 인상 압력을 높여 증시 전반에 부정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "다음 발표될 주요 인플레이션 지표와 연준의 통화 정책 스탠스를 면밀히 주시해야 합니다.",
+      "keywords": [
+        "인플레이션",
+        "S&P 500",
+        "금리 인상",
+        "시장 하락",
+        "연준"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1JYNXBJbUw5ZmI3UkVjMTZKM2l2ZW9XTnBEcFpqUERCcEVKWjdsWVpuZ1dhcXdoSFdpMmNxcWRFUXNSdXN4WGE1V3VsR1dJUERXUEF2NVF5TUN3YTRfb3hxSG12TEJQT1N4N2FlYUdNN09sUmRhU0RQSHhZR1kzQUdCNA?oc=5",
+      "published": "2026-05-31 05:57",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -63,40 +67,82 @@
     },
     {
       "rank": 2,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "중동 정세 불안과 젠슨 황 방한: 코스피 9천 돌파인가 숨 고르기인가?",
+      "display_title": "중동 정세 불안과 젠슨 황 방한: 코스피 9천 돌파인가 숨 고르기인가?",
+      "original_title": "중동정세 불안·젠슨 황 방한...9천 돌파? 숨 고르기? - YTN",
+      "summary": [
+        "중동 정세 불안이라는 악재와 젠슨 황 엔비디아 CEO 방한이라는 호재가 동시에 존재하여 코스피의 방향성에 대한 불확실성.",
+        "중동 불안은 국제 유가 상승 및 공급망 리스크를, 젠슨 황 방한은 AI 및 반도체 관련 기술 투자 기대감을 높임.",
+        "양측 요소를 고려하여 투자 전략을 신중하게 수립하고, 특히 AI/반도체 섹터의 변동성에 대비해야 함."
+      ],
+      "summary_text": "중동 정세 불안이라는 악재와 젠슨 황 엔비디아 CEO 방한이라는 호재가 동시에 존재하여 코스피의 방향성에 대한 불확실성. 중동 불안은 국제 유가 상승 및 공급망 리스크를, 젠슨 황 방한은 AI 및 반도체 관련 기술 투자 기대감을 높임. 양측 요소를 고려하여 투자 전략을 신중하게 수립하고, 특히 AI/반도체 섹터의 변동성에 대비해야 함.",
+      "description": "중동의 불안정한 정세와 엔비디아 CEO 젠슨 황의 방한 소식이 겹치면서 코스피 지수가 9천 포인트를 돌파할지, 아니면 잠시 숨 고르기를 할지에 대한 전망을 다룹니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "반도체, AI, 에너지",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "국내 증시의 주요 상승 동력인 AI/반도체 산업의 모멘텀과 지정학적 리스크가 동시에 작용하여 시장 방향성에 중요한 변곡점이 될 수 있기 때문입니다.",
+      "key_signal": "젠슨 황의 방한 관련 구체적인 투자 계획 발표 여부와 중동 정세 변화에 따른 유가 및 환율 변동을 주목해야 합니다.",
+      "keywords": [
+        "코스피",
+        "젠슨 황",
+        "중동 정세",
+        "반도체",
+        "AI"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UOTJGbmY3M0w3UFc5RW9hMS1qWFJFdkV5aXNDdnVpMktSVnE1ZkZ1UGJmWWVKdElRdGI3eUpKZEpReW00QWdDY0FCWVppRHlhcDNEVnJMNUJLUWljbEU3akRzYXBJR29vdm1DQkJVVE5mUWU1WFE?oc=5",
+      "published": "2026-05-31 06:09",
+      "quality": {
+        "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 3,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "채권 시장의 경고음: 주식 시장에 큰 문제 야기할 수 있다",
-      "display_title": "채권 시장의 경고음: 주식 시장에 큰 문제 야기할 수 있다",
-      "original_title": "The Bond Market Is Sounding an Alarm -- It Could Mean Big Trouble for the Stock Market - AOL.com",
+      "title": "채권 시장 금리, 경기 침체기 수준으로 상승",
+      "display_title": "채권 시장 금리, 경기 침체기 수준으로 상승",
+      "original_title": "Bond market rises to recession-era high - AOL.com",
       "summary": [
-        "채권 시장에서 이상 신호가 감지되고 있으며, 이는 주식 시장에 부정적인 영향을 줄 가능성이 있다.",
-        "채권 수익률 곡선 역전이나 특정 채권 가격 변동 등 채권 시장의 불안정성은 종종 경기 침체나 주식 시장 하락의 선행 지표로 해석된다.",
-        "채권 시장의 변화를 주시하며 주식 포트폴리오의 위험 관리를 강화해야 할 시점이다."
+        "채권 시장 금리가 경기 침체기에나 볼 수 있었던 높은 수준으로 치솟음.",
+        "이는 시장이 높은 인플레이션, 긴축적인 통화 정책, 또는 경기 둔화 우려를 반영하고 있음을 의미.",
+        "금리 상승은 주식 시장에 부정적인 영향을 미치므로, 방어적인 자산 배분과 함께 금리 인상에 대한 대비가 필요."
       ],
-      "summary_text": "채권 시장에서 이상 신호가 감지되고 있으며, 이는 주식 시장에 부정적인 영향을 줄 가능성이 있다. 채권 수익률 곡선 역전이나 특정 채권 가격 변동 등 채권 시장의 불안정성은 종종 경기 침체나 주식 시장 하락의 선행 지표로 해석된다. 채권 시장의 변화를 주시하며 주식 포트폴리오의 위험 관리를 강화해야 할 시점이다.",
-      "description": "채권 시장이 경고 신호를 보내고 있으며, 이는 주식 시장에 심각한 문제로 이어질 수 있음을 시사한다.",
+      "summary_text": "채권 시장 금리가 경기 침체기에나 볼 수 있었던 높은 수준으로 치솟음. 이는 시장이 높은 인플레이션, 긴축적인 통화 정책, 또는 경기 둔화 우려를 반영하고 있음을 의미. 금리 상승은 주식 시장에 부정적인 영향을 미치므로, 방어적인 자산 배분과 함께 금리 인상에 대한 대비가 필요.",
+      "description": "채권 시장 금리가 과거 경기 침체기에 보였던 높은 수준으로 상승하고 있다는 소식입니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 전반적인 증시",
+      "related_sector": "금융, 경기 방어주, 기술주",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "채권 시장의 불안정은 주식 시장의 조정 가능성을 높이므로, 시장 전반의 위험 요소를 면밀히 검토해야 한다.",
-      "key_signal": "채권 수익률 변동성 및 시장의 경고 신호가 주식 시장에 미치는 실제 영향을 관찰해야 한다.",
+      "investment_reason": "채권 금리의 급격한 상승은 경기 침체 우려와 함께 주식 시장의 밸류에이션에 심각한 부담을 줄 수 있기 때문입니다.",
+      "key_signal": "주요국 장단기 금리 역전 현상 발생 여부와 경기 선행 지표 변화를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "채권 시장",
-        "주식 시장",
-        "경고 신호",
-        "금리",
-        "시장 불안정"
+        "채권 금리",
+        "경기 침체",
+        "인플레이션",
+        "통화 정책",
+        "시장 스트레스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlRlWG1vWDZqQ3dyRl9TODM4YUhhSlNfbWV5S05zWGcyYTZVTFIzSHA0dlNQQkRldXBIOWVJQlNoWjlNVFhjNE9IUVhrS2hJRmNfTWdNYUZmVGdCVE9ta1VKTHJ6TEQxcng3dnREYldYNDgtdm94Vi15SW0wcWU2TlVn?oc=5",
-      "published": "2026-05-30 05:10",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXAxNzZnblRjV2dOTzF2WmhBR1p2ZC1MbV90SzNOZWdPQzRfS19ERE5WR2IwZ0I4THRWbmxmZlo2VXV1ZGppSWllcWdtOGlZdnhJblphNVh1S0lxQUZ2SWFLTE56NjhwVGZoLWEwLXR2WndHeEQ1MEU3UzhnMVByOQ?oc=5",
+      "published": "2026-05-31 02:39",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -104,85 +150,43 @@
       }
     },
     {
-      "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "10일 연속 1500원 돌파에도 한은 총재가 환율 대응에 '자신'하는 이유는? [Deep Spot]",
-      "display_title": "10일 연속 1500원 돌파에도 한은 총재가 환율 대응에 '자신'하는 이유는? [Deep Spot]",
-      "original_title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] - 헤럴드경제",
-      "summary": [
-        "원/달러 환율이 10일 연속 1500원을 돌파했으나, 한국은행 총재는 환율 대응에 자신감을 표명했다.",
-        "고환율 장기화는 물가 상승 압력과 기업 실적에 영향을 미칠 수 있으나, 한은은 다른 경제적 요인이나 정책 수단에 대한 확신이 있는 것으로 보인다.",
-        "한은의 환율 대응 기조와 실제 외환 시장의 흐름을 주시하며, 환율 변동이 기업 실적 및 국내 증시에 미칠 영향을 평가해야 한다."
-      ],
-      "summary_text": "원/달러 환율이 10일 연속 1500원을 돌파했으나, 한국은행 총재는 환율 대응에 자신감을 표명했다. 고환율 장기화는 물가 상승 압력과 기업 실적에 영향을 미칠 수 있으나, 한은은 다른 경제적 요인이나 정책 수단에 대한 확신이 있는 것으로 보인다. 한은의 환율 대응 기조와 실제 외환 시장의 흐름을 주시하며, 환율 변동이 기업 실적 및 국내 증시에 미칠 영향을 평가해야 한다.",
-      "description": "원/달러 환율이 10일 연속 1500원을 넘어섰음에도 불구하고, 한국은행 총재가 환율 대응에 자신감을 보인 배경에 대한 심층 분석 기사.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "수출주, 수입주, 금융",
-      "related_stocks": [
-        "현대차",
-        "삼성전자",
-        "대한항공"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "고환율 장기화는 기업의 실적과 국내 증시에 직접적인 영향을 미치며, 한은의 대응 방안에 따라 시장의 변동성이 커질 수 있기 때문이다.",
-      "key_signal": "한국은행의 향후 환율 관련 스탠스와 실제 외환 시장의 변화, 그리고 이에 따른 수출입 기업들의 실적 변화를 주목해야 한다.",
-      "keywords": [
-        "환율",
-        "한국은행",
-        "원달러 환율",
-        "고환율",
-        "거시경제"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-      "published": "2026-05-30 06:32",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[데일리 경제 분석] (5월 29일) 금리 인상 신호와 8400선 장세, 반도체 랠리가 성장 기대와 시장 부담을 동시에 키우다",
-      "display_title": "[데일리 경제 분석] (5월 29일) 금리 인상 신호와 8400선 장세, 반도체 랠리가 성장 기대와 시장 부담을 동시에 키우다",
-      "original_title": "[데일리 경제 분석] (5월 29일) 금리 인상 신호와 8400선 장세, 반도체 랠리가 성장 기대와 시장 부담을 동시에 키우다 - 미디어피아",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "채권 감시자들(Bond Vigilantes)이 주식 시장을 위협하는가?",
+      "display_title": "채권 감시자들(Bond Vigilantes)이 주식 시장을 위협하는가?",
+      "original_title": "Are the Bond Vigilantes Coming for the Stock Market? - AOL.com",
       "summary": [
-        "금리 인상 신호와 코스피 8400선 장세 속에서 반도체 랠리가 시장의 성장 기대와 부담을 동시에 키우고 있다.",
-        "반도체 산업의 강력한 성장은 증시를 견인하지만, 금리 인상 가능성은 기업의 자금 조달 비용 증가와 시장 유동성 위축으로 이어질 수 있다.",
-        "반도체 랠리 속에서 금리 인상이라는 변수가 시장 전반에 미칠 영향을 고려하여 투자 포트폴리오의 균형을 유지해야 한다."
+        "채권 시장 참가자들의 행동이 주식 시장에 부정적인 영향을 미칠 수 있다는 우려 제기.",
+        "정부의 과도한 재정 지출이나 완화적 통화 정책에 대한 채권 투자자들의 반발로 채권 금리가 급등하면 주식 시장에 악재로 작용할 수 있음.",
+        "금리 상승에 민감한 성장주보다 가치주나 경기 방어주에 대한 관심이 필요할 수 있음."
       ],
-      "summary_text": "금리 인상 신호와 코스피 8400선 장세 속에서 반도체 랠리가 시장의 성장 기대와 부담을 동시에 키우고 있다. 반도체 산업의 강력한 성장은 증시를 견인하지만, 금리 인상 가능성은 기업의 자금 조달 비용 증가와 시장 유동성 위축으로 이어질 수 있다. 반도체 랠리 속에서 금리 인상이라는 변수가 시장 전반에 미칠 영향을 고려하여 투자 포트폴리오의 균형을 유지해야 한다.",
-      "description": "5월 29일 경제 분석에 따르면, 금리 인상 신호와 8400선 코스피 장세가 나타나며, 반도체 랠리가 성장 기대와 함께 시장의 부담도 동시에 키우고 있다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT, 금융",
+      "summary_text": "채권 시장 참가자들의 행동이 주식 시장에 부정적인 영향을 미칠 수 있다는 우려 제기. 정부의 과도한 재정 지출이나 완화적 통화 정책에 대한 채권 투자자들의 반발로 채권 금리가 급등하면 주식 시장에 악재로 작용할 수 있음. 금리 상승에 민감한 성장주보다 가치주나 경기 방어주에 대한 관심이 필요할 수 있음.",
+      "description": "채권 시장 참가자들이 정책에 대한 우려로 금리를 인상시켜 주식 시장에 영향을 미칠 수 있는지에 대한 질문을 던집니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "금융, 경기 방어주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "카카오뱅크"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "중립",
-      "investment_reason": "반도체 랠리라는 긍정적 요인과 금리 인상 신호라는 부정적 요인이 동시에 작용하여 시장의 방향성에 대한 신중한 접근이 필요하기 때문이다.",
-      "key_signal": "금리 인상 시점과 폭에 대한 단서, 그리고 반도체 산업의 실제 수요와 공급망 변화를 면밀히 주시해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "채권 금리 상승은 주식 시장의 밸류에이션 부담을 가중시키고 자금 흐름에 변화를 줄 수 있기 때문입니다.",
+      "key_signal": "주요국 국채 금리 동향과 채권 시장의 반응을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "금리 인상",
-        "반도체 랠리",
-        "코스피",
-        "시장 부담",
-        "성장 기대"
+        "채권 감시자",
+        "채권 금리",
+        "주식 시장",
+        "금리 상승",
+        "밸류에이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52RjE0QWhBcEdRX2xTT1VyR0gzMmlqOFJqYXNJRGtOTXNxQ2p0LWJyV0VGVzNaWWVzcDl1cXpWbXNXRnN4SDBaOTVMcEFURTRnRUdkbXlwTXNjMVRMR2NJN0ZaN0xjOE15R0ppWFl3?oc=5",
-      "published": "2026-05-29 22:16",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUgyS0hPT0NKZ01WVXZtYXYwYXktX1EtRFJseGpXeFVjT1IzRTVmSmZyeHlaa3hpVFotZnFLSFA3TjdHZEF0X2pRMTRTLXNlUzlRemFXY0tzWGcwRDNiQ3V6UkUtOG9IcVRkTjhJZEk1N2REVGx2d0steXo1THNSZkxiYVZIZw?oc=5",
+      "published": "2026-05-31 05:36",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -192,35 +196,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시, 델 주가 급등에 힘입어 사상 최고치 경신",
-      "display_title": "미국 증시, 델 주가 급등에 힘입어 사상 최고치 경신",
-      "original_title": "U.S. stocks gain ground, adding to their records, as Dell soars - BNN Bloomberg",
+      "title": "주식 시장에서 드문 경고 신호 포착, 역사적 데이터가 말하는 다음 행보는?",
+      "display_title": "주식 시장에서 드문 경고 신호 포착, 역사적 데이터가 말하는 다음 행보는?",
+      "original_title": "The Stock Market Is Flashing a Rare Warning Signal. Here's What History Says Happens Next. - AOL.com",
       "summary": [
-        "미국 증시가 델 주가 급등과 함께 사상 최고치를 경신하며 상승세를 이어갔다.",
-        "특정 기술주의 강세가 시장 전반의 상승 동력으로 작용하며 기록적인 수준을 만들었다.",
-        "기술주 중심의 시장 랠리가 지속될 가능성이 있어 관련 종목에 대한 관심이 필요하다."
+        "주식 시장에 역사적으로 드물게 나타나는 경고 신호가 감지됨.",
+        "과거 사례를 통해 이러한 신호가 나타난 후 시장이 조정되거나 하락세를 보였던 패턴이 분석됨.",
+        "과거 데이터에 기반한 시장 하락 가능성에 대비하고, 방어적인 투자 전략을 고려할 필요."
       ],
-      "summary_text": "미국 증시가 델 주가 급등과 함께 사상 최고치를 경신하며 상승세를 이어갔다. 특정 기술주의 강세가 시장 전반의 상승 동력으로 작용하며 기록적인 수준을 만들었다. 기술주 중심의 시장 랠리가 지속될 가능성이 있어 관련 종목에 대한 관심이 필요하다.",
-      "description": "미국 증시가 델(Dell) 주가의 급등세에 힘입어 상승하며 사상 최고치를 추가로 경신했다.",
+      "summary_text": "주식 시장에 역사적으로 드물게 나타나는 경고 신호가 감지됨. 과거 사례를 통해 이러한 신호가 나타난 후 시장이 조정되거나 하락세를 보였던 패턴이 분석됨. 과거 데이터에 기반한 시장 하락 가능성에 대비하고, 방어적인 투자 전략을 고려할 필요.",
+      "description": "주식 시장에 흔치 않은 경고 신호가 나타났으며, 과거 데이터는 이러한 상황 이후 시장이 어떻게 전개되었는지 보여줍니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "IT하드웨어, 기술주",
+      "market_impact": "부정",
+      "related_sector": "전반적 시장",
       "related_stocks": [
-        "Dell"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 기술주 강세가 국내 증시에도 긍정적인 영향을 미칠 수 있어 관련 흐름을 주시해야 한다.",
-      "key_signal": "미국 기술주의 추가 상승 여부와 전반적인 시장 심리 변화를 확인해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "역사적으로 중요한 경고 신호는 시장의 큰 변동성을 예고할 수 있으므로 신중한 접근이 필요합니다.",
+      "key_signal": "해당 경고 신호의 구체적인 내용과 현재 시장 상황의 유사점을 분석하여 위험 요인을 평가해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "기술주",
-        "델",
-        "사상 최고치",
-        "증시 랠리"
+        "시장 경고",
+        "역사적 신호",
+        "주식 시장",
+        "시장 조정",
+        "위험 회피"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzBQaHF3UEM4eEozRnJDejMtb1J3Z3NmNE1iYVllN0JEa0FRSERKRTVYY1RpdHJtbm5DZlBSanoxUUFZbUs0Z0dkMmhaUnNXLUpwYXFoVlJsYXRkWERyOF9iZG1Hczd0MWhUV2R5SW9xRmF3X3N4Uk9JOU1ITXZ0c04ySHRfYWxod0RYTy1mc2JxYU9FdHFXUVdtOHgtUHJXVExOMkdianhJb213UzRPTmdteGFBODh6ZzdiTHR2bDlxWXFOTjFPOA?oc=5",
-      "published": "2026-05-30 06:18",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHkteThtODVjb2d0LW5faHl1Y1hKRlJWTWdmaUxXZVU3OVphZHUyOGNXT3AtNzdWMU1sSnc4YjlIQU1YOE1iMk5ldzVrNWM5MWlCVzhtaDVZVU5LdGpYOWQ5R18ySHdoVFVoZVUzWDN5SmtQNFVVLVRVbFRsWEhiTDBtamI?oc=5",
+      "published": "2026-05-31 03:17",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -229,42 +235,42 @@
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "과거 유가 충격 사례 분석 결과, 올해 주식 시장은 이미 정점을 찍었을 수 있다고 전문가 경고",
-      "display_title": "과거 유가 충격 사례 분석 결과, 올해 주식 시장은 이미 정점을 찍었을 수 있다고 전문가 경고",
-      "original_title": "Past oil shocks hint that the stock market has peaked for the year, a veteran strategist says - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[이재명 정부 1년] 코스피 8천 시대 개막, 부동산·환율은 여전히 숙제",
+      "display_title": "[이재명 정부 1년] 코스피 8천 시대 개막, 부동산·환율은 여전히 숙제",
+      "original_title": "[이재명정부 1년] ⑥ 코스피 8천시대 개막…부동산·환율은 아직 숙제로 - 연합뉴스",
       "summary": [
-        "과거 유가 충격 데이터를 분석한 결과, 올해 주식 시장이 이미 고점을 찍었을 수 있다는 전문가 의견이 제시되었다.",
-        "유가 급등은 기업 비용 증가, 소비자 지출 위축 등으로 이어져 전반적인 경제 성장 둔화와 주식 시장 조정의 원인이 될 수 있다.",
-        "유가 변동성이 주식 시장에 미치는 영향을 주시하며, 시장의 잠재적 하방 위험에 대비해야 한다."
+        "이재명 정부 1년 동안 코스피는 8천 시대를 열었으나, 부동산과 환율은 여전히 불안정한 과제로 지적됨.",
+        "정부의 경제 정책이 주식 시장에는 긍정적 영향을 미쳤을 수 있으나, 가계 경제와 직결된 부동산 및 거시 경제 안정의 핵심인 환율은 여전히 해결이 요원함을 시사.",
+        "국내 증시의 상승 여력을 지지할 수 있으나, 부동산과 환율 변동성으로 인한 경제 전반의 불확실성에 주의해야 함."
       ],
-      "summary_text": "과거 유가 충격 데이터를 분석한 결과, 올해 주식 시장이 이미 고점을 찍었을 수 있다는 전문가 의견이 제시되었다. 유가 급등은 기업 비용 증가, 소비자 지출 위축 등으로 이어져 전반적인 경제 성장 둔화와 주식 시장 조정의 원인이 될 수 있다. 유가 변동성이 주식 시장에 미치는 영향을 주시하며, 시장의 잠재적 하방 위험에 대비해야 한다.",
-      "description": "베테랑 전략가는 과거 유가 충격 사례들이 올해 주식 시장이 이미 정점에 도달했을 가능성을 시사한다고 말한다.",
-      "category": "증시·금리",
+      "summary_text": "이재명 정부 1년 동안 코스피는 8천 시대를 열었으나, 부동산과 환율은 여전히 불안정한 과제로 지적됨. 정부의 경제 정책이 주식 시장에는 긍정적 영향을 미쳤을 수 있으나, 가계 경제와 직결된 부동산 및 거시 경제 안정의 핵심인 환율은 여전히 해결이 요원함을 시사. 국내 증시의 상승 여력을 지지할 수 있으나, 부동산과 환율 변동성으로 인한 경제 전반의 불확실성에 주의해야 함.",
+      "description": "이재명 정부 1년 동안 코스피가 8천 시대를 열었지만, 부동산 시장 안정화와 환율 관리는 여전히 해결해야 할 과제로 남아있음을 평가합니다.",
+      "category": "국내 거시경제",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "에너지, 전반적인 증시",
+      "market_impact": "중립",
+      "related_sector": "건설, 금융, 무역",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "현대건설",
+        "GS건설",
+        "대우건설"
       ],
-      "investment_view": "주의",
-      "investment_reason": "유가 변동성과 그로 인한 시장 전반의 성장 둔화 가능성은 주식 투자에 있어 중요한 위험 요소로 작용할 수 있다.",
-      "key_signal": "현재 유가 추이와 경제 지표들이 과거 유가 충격 사례와 유사한 흐름을 보이는지 확인해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "정부 정책의 주요 성과와 남은 과제들을 통해 국내 거시경제 방향과 투자 환경 변화를 가늠할 수 있기 때문입니다.",
+      "key_signal": "정부의 향후 부동산 및 환율 안정화 대책과 그 효과를 주시하며, 관련 기업 실적 변화를 살펴봐야 합니다.",
       "keywords": [
-        "유가 충격",
-        "주식 시장",
-        "고점",
-        "인플레이션",
-        "경기 둔화"
+        "이재명 정부",
+        "코스피 8천",
+        "부동산",
+        "환율",
+        "거시경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NUURUVzlpaGF2VXlPbDN6RHUtQlUzamJ5eEk4eDJTNF8xdFRaSzB4ODRwSnZINl9uZ2RrdEpsQm1JaWE2RjNFbTNiTjBXTUo1TmNqdDdpR2M0SWhmX2l5RWtVMEVIT3AxZk1UQUpaMUJ6WmVKcU96QUJ3?oc=5",
-      "published": "2026-05-30 04:56",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15a2V1VDFhZmdSdmw4MHR5SlRMOFVBdWhFOW9PNGlORjVEbDRoV2ZYZDhXM3REY0hzN1c1Z19ReE45SDJUMzJZemVtMGxieDNVdXVaVzdXTXJ6ZENYZExBM9IBYEFVX3lxTE15a2V1VDFhZmdSdmw4MHR5SlRMOFVBdWhFOW9PNGlORjVEbDRoV2ZYZDhXM3REY0hzN1c1Z19ReE45SDJUMzJZemVtMGxieDNVdXVaVzdXTXJ6ZENYZExBMw?oc=5",
+      "published": "2026-05-31 06:01",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -273,67 +279,68 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 반도체 랠리에 대한 기대감과 고환율 장기화가 수출 기업에 긍정적으로 작용할 수 있으나, 금리 인상 신호 등 시장 전반의 부담 요인도 함께 고려해야 합니다.",
+      "reason": "중동 정세 불안 등 지정학적 리스크가 상존하지만, 젠슨 황 엔비디아 CEO의 방한 소식 등 AI/반도체 산업의 모멘텀이 국내 증시의 주요 상승 동력으로 작용할 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "글로벌 반도체 업황 및 수요 변화",
-        "원/달러 환율 추이와 기업 실적 영향",
-        "국내외 금리 정책 방향성"
+        "젠슨 황 CEO 방한 관련 구체적 투자 소식 및 국내 기업 협력 방안",
+        "글로벌 반도체 업황 개선 추세 지속 여부",
+        "미중 기술 갈등 및 지정학적 리스크 변화"
       ],
       "related_news_titles": [
-        "10일 연속 1500원 돌파에도 한은 총재가 환율 대응에 '자신'하는 이유는? [Deep Spot]",
-        "[데일리 경제 분석] (5월 29일) 금리 인상 신호와 8400선 장세, 반도체 랠리가 성장 기대와 시장 부담을 동시에 키우다"
+        "중동 정세 불안과 젠슨 황 방한: 코스피 9천 돌파인가 숨 고르기인가?"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "현대건설",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "중립",
-      "reason": "반도체 랠리가 성장 기대를 키우는 긍정적 요인이 있으나, 동시에 금리 인상 신호가 시장 부담으로 작용하여 주가 방향성에 대한 신중한 접근이 필요한 상황입니다.",
+      "sector": "건설",
+      "opinion": "관심",
+      "reason": "정부 정책 관련 뉴스는 국내 거시경제 방향과 투자 환경 변화를 가늠하는 중요한 지표이며, 특히 부동산 시장은 정부의 주요 정책 과제로 언급되어 있어 건설 업종에 대한 관심이 필요한 시점입니다.",
       "check_points": [
-        "글로벌 AI 및 고대역폭 메모리(HBM) 수요 동향",
-        "국내외 통화정책 및 금리 변동성",
-        "반도체 산업 전반의 재고 및 가격 추이"
+        "정부의 부동산 정책 구체화 및 시행 효과",
+        "국내외 건설 수주 동향 및 실적 개선 여부",
+        "금리 인상 등 거시경제 환경 변화가 건설 투자에 미치는 영향"
       ],
       "related_news_titles": [
-        "[데일리 경제 분석] (5월 29일) 금리 인상 신호와 8400선 장세, 반도체 랠리가 성장 기대와 시장 부담을 동시에 키우다"
+        "[이재명 정부 1년] 코스피 8천 시대 개막, 부동산·환율은 여전히 숙제"
       ]
     },
     {
       "rank": 3,
       "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "금융",
       "opinion": "주의",
-      "reason": "채권 시장의 불안정성이 주식 시장 전반의 조정 가능성을 높이고 있으며, 이는 증권사를 포함한 금융 업종에 직접적인 위험 요소로 작용할 수 있으므로 면밀한 주의가 필요합니다.",
+      "reason": "채권 시장 금리가 경기 침체기 수준으로 상승하고 '채권 감시자들'의 활동이 주식 시장의 밸류에이션 부담을 가중시키면서, 금융 업종에 직접적인 영향을 미칠 수 있으므로 면밀한 모니터링이 필요합니다.",
       "check_points": [
-        "채권 시장 금리 변동성 및 신용 리스크",
-        "증권사 실적에 미치는 금리 및 시장 유동성 영향",
-        "정부 및 금융 당국의 시장 안정화 대책"
+        "채권 금리 추가 상승 여부 및 시장 안정화 동향",
+        "시장 유동성 변화 및 증시 거래대금 추이",
+        "금융 시장 전반의 건전성 및 정부 규제 변화"
       ],
       "related_news_titles": [
-        "채권 시장의 경고음: 주식 시장에 큰 문제 야기할 수 있다"
+        "채권 시장 금리, 경기 침체기 수준으로 상승",
+        "채권 감시자들(Bond Vigilantes)이 주식 시장을 위협하는가?",
+        "주식 시장에서 드문 경고 신호 포착, 역사적 데이터가 말하는 다음 행보는?"
       ]
     },
     {
       "rank": 4,
-      "name": "SK이노베이션",
+      "name": "KTG",
       "market": "KOSPI",
-      "sector": "정유 및 에너지",
-      "opinion": "주의",
-      "reason": "과거 유가 충격 사례 분석 결과, 주식 시장 전반의 성장 둔화 가능성이 제기되었으며, 유가 변동성은 에너지 업종에 직접적인 실적 악화 요인으로 작용할 수 있습니다.",
+      "sector": "경기 방어주",
+      "opinion": "중립",
+      "reason": "인플레이션 상승 압력이 증시 전반에 부정적인 영향을 미칠 수 있는 상황에서, 상대적으로 인플레이션 헤지 및 경기 방어적 성격을 지닌 종목으로서 시장 변동성 확대 시 안정성을 기대할 수 있어 관찰이 필요합니다.",
       "check_points": [
-        "국제 유가 변동성 및 공급망 안정성",
-        "글로벌 경기 둔화 우려에 따른 에너지 수요 변화",
-        "정유 및 화학 제품 마진율 추이"
+        "국내외 인플레이션 지표 및 소비자 물가 상승률 추이",
+        "환율 변동이 수출 및 수입 원가에 미치는 영향",
+        "배당 정책 및 주주 환원 확대 가능성"
       ],
       "related_news_titles": [
-        "과거 유가 충격 사례 분석 결과, 올해 주식 시장은 이미 정점을 찍었을 수 있다고 전문가 경고"
+        "인플레이션 상승, 올해 S&P 500 랠리 중단시킬 수 있다"
       ]
     }
   ],
