@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03 08:46",
-  "analysis_date": "2026-06-03",
+  "generated_at": "2026-06-04 08:44",
+  "analysis_date": "2026-06-04",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 성장률 상향에도 한은 금리 인상 우려가 제기되고, 글로벌 증시는 AI 랠리 속 과열 및 통화정책 불확실성이 증대되는 혼조세입니다.",
-    "국내거시경제": "ING가 한국 성장률 전망치를 상향했으나, 한국은행의 7월·10월 금리 인상 가능성을 제기해 가계부채 및 기업 투자에 부담이 예상됩니다.",
-    "글로벌경제": "파월 연준 의장의 사임으로 통화정책 불확실성이 커졌으며, 글로벌 증시는 AI 랠리 속 기록적 고점을 달성했으나 인플레이션 지속과 역사적 과열 신호에 주의해야 합니다.",
-    "증시금리": "글로벌 증시가 AI 및 실적 호조로 고점을 경신했으나, 인플레이션 압력과 연준 불확실성이 지속되고 있습니다. 국내 금리 인상 가능성도 증시의 주요 변수입니다.",
-    "부동산정책": "해당 내용 없음.",
-    "기업산업": "젠슨 황 CEO가 주목한 K로보틱스 및 피지컬 AI 산업에 대한 기대감이 커지고 있으며, AI 데이터센터 수요 증가로 반도체 산업의 강세가 지속될 전망입니다.",
-    "오늘의투자시사점": "국내외 금리 인상 가능성과 글로벌 증시 과열 신호에 대비하며, 엔비디아의 관심이 집중된 K-로보틱스 및 AI 관련 반도체 기업에 대한 투자 기회를 모색해야 합니다.",
-    "오늘의한줄": "AI 랠리 속 금리 인상과 시장 과열 경고음이 교차하며 변동성에 대비해야 할 시점입니다."
+    "총평": "국내 증시는 AI 반도체 중심의 강력한 성장 모멘텀을 이어가고 있으나, 해외에서는 증시 경고 신호와 경기 침체 우려, 유가 급등 등 부정적 요인이 확산되고 있습니다. 국내 시장은 반도체 훈풍 속에서 글로벌 불확실성을 주시하며 균형 잡힌 대응이 필요합니다.",
+    "국내거시경제": "OECD는 한국 반도체 산업의 강한 성장을 이유로 한국의 경제 성장률 전망치를 기존 1.7%에서 2.6%로 대폭 상향했습니다. AI 반도체를 중심으로 한 수출 호조가 국내 경제 성장의 주요 동력으로 작용하고 있습니다.",
+    "글로벌경제": "글로벌 경기 침체 위험이 50%에 육박하며, 높은 인플레이션과 금리 인상 등으로 인한 불확실성이 커지고 있습니다. 은퇴자들을 중심으로 방어적인 투자 전략이 주목받고 있습니다.",
+    "증시금리": "2007년 이후 처음으로 증시 경고 신호가 포착되며 시장 과열과 잠재적 조정 위험에 대한 주의가 필요합니다. 유가 급등 및 이란 지정학적 긴장 고조로 미국 다우지수가 하락하는 등 글로벌 증시의 변동성이 확대되었습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "AI 반도체 열풍에 힘입어 삼성전자와 SK하이닉스의 시가총액이 크게 상승하며 국내 증시의 권력을 장악했습니다. 정부는 'K-온디바이스 AI 반도체' 개발에 8000억 원 규모의 예산을 확정, 관련 기업들의 기술 개발 및 경쟁력 강화를 지원합니다.",
+    "오늘의투자시사점": "국내 AI 반도체 관련 기업들의 성장 잠재력은 높지만, 글로벌 증시의 경고 신호와 경기 침체 우려를 간과해서는 안 됩니다. 포트폴리오의 방어력을 점검하고, 지정학적 리스크 및 에너지 가격 변동성에 대한 민감도를 높이는 신중한 접근이 요구됩니다.",
+    "오늘의한줄": "국내 AI 반도체 강세 속 글로벌 불안 요인 증가, 균형 잡힌 시각과 리스크 관리가 중요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "ING, 한국 성장률 전망치 2.8%에서 3.0%로 상향… \"한국은행, 7월·10월 금리 인상 예상\"",
-      "display_title": "ING, 한국 성장률 전망치 2.8%에서 3.0%로 상향… \"한국은행, 7월·10월 금리 인상 예상\"",
-      "original_title": "ING, 한국 성장률 2.8% → 3.0% 상향…\"한은, 7월·10월 금리 인상할 것\" - 네이트",
+      "title": "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\"",
+      "display_title": "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\"",
+      "original_title": "[비즈 인사이트] 삼성 2100조·하이닉스 1680조...\"AI반도체가 증시 권력 바꿨다\" - 서울타임즈뉴스",
       "summary": [
-        "글로벌 투자은행 ING가 한국의 경제 성장률 전망치를 상향 조정하며, 한국은행의 두 차례 금리 인상을 전망했다.",
-        "성장률 상향은 국내 경제의 견고함을 시사하지만, 금리 인상은 가계 부채 부담 및 기업 투자에 영향을 미칠 수 있다.",
-        "한국은행의 실제 금리 인상 여부와 시기가 국내 증시 및 부동산 시장에 중요한 변수가 될 수 있으므로 주목해야 한다."
+        "삼성전자와 SK하이닉스의 시가총액이 AI 반도체 열풍에 힘입어 각각 2100조 원과 1680조 원을 기록, 국내 증시의 권력을 AI 반도체 기업들이 장악했다.",
+        "AI 기술 발전과 함께 고성능 반도체 수요가 폭발적으로 증가하면서, 관련 기술력을 보유한 국내 대표 기업들의 기업 가치가 크게 상승했다.",
+        "AI 반도체 산업은 국내 증시의 핵심 성장 동력이며, 관련 기술 경쟁력과 투자 확대는 장기적인 관점에서 지속적인 관심을 가져야 할 요인이다."
       ],
-      "summary_text": "글로벌 투자은행 ING가 한국의 경제 성장률 전망치를 상향 조정하며, 한국은행의 두 차례 금리 인상을 전망했다. 성장률 상향은 국내 경제의 견고함을 시사하지만, 금리 인상은 가계 부채 부담 및 기업 투자에 영향을 미칠 수 있다. 한국은행의 실제 금리 인상 여부와 시기가 국내 증시 및 부동산 시장에 중요한 변수가 될 수 있으므로 주목해야 한다.",
-      "description": "ING가 한국의 경제 성장률 전망치를 기존 2.8%에서 3.0%로 상향 조정하며, 한국은행이 오는 7월과 10월에 기준금리를 인상할 것으로 전망했습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "삼성전자와 SK하이닉스의 시가총액이 AI 반도체 열풍에 힘입어 각각 2100조 원과 1680조 원을 기록, 국내 증시의 권력을 AI 반도체 기업들이 장악했다. AI 기술 발전과 함께 고성능 반도체 수요가 폭발적으로 증가하면서, 관련 기술력을 보유한 국내 대표 기업들의 기업 가치가 크게 상승했다. AI 반도체 산업은 국내 증시의 핵심 성장 동력이며, 관련 기술 경쟁력과 투자 확대는 장기적인 관점에서 지속적인 관심을 가져야 할 요인이다.",
+      "description": "삼성전자와 SK하이닉스의 시가총액이 각각 2100조, 1680조 원을 기록하며 AI 반도체가 국내 증시의 주도권을 완전히 변화시켰다는 분석이 나왔다.",
+      "category": "기업·산업",
       "importance": 10,
-      "market_impact": "부정",
-      "related_sector": "금융, 건설, 증권",
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "삼성물산"
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
       ],
-      "investment_view": "주의",
-      "investment_reason": "한국은행의 금리 인상은 가계 및 기업의 이자 부담을 가중시키고 투자 심리에 영향을 미치므로 시장 변동성 확대에 대비해야 한다.",
-      "key_signal": "한국은행의 금융통화위원회 회의 결과와 총재 발언을 통해 실제 금리 인상 결정 여부와 그 배경을 확인해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 반도체는 국내 증시의 절대적인 주도 섹터이며, 이들 기업의 성장은 국내 경제 전반과 투자 수익률에 막대한 영향을 미치기 때문이다.",
+      "key_signal": "AI 반도체 기업들의 기술 개발, 생산 능력 확대, 그리고 글로벌 시장 경쟁 구도 변화를 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "한국 성장률",
-        "한국은행",
-        "금리 인상",
-        "가계 부채",
-        "거시경제"
+        "AI반도체",
+        "삼성전자",
+        "SK하이닉스",
+        "시가총액",
+        "증시주도주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fNmtvMng0TFJXVUVaU1plNjJ4UHYwMmY4YVM3MjlTNkxHWnZEZ3Fqa2xCVW1sNjdoVkcyX2FOOUtSR2xvUm9mMWdQckI2Ym93Y0lxSXNsOHk3RW1GVDR3WmwwTDVFQzJZYkJ2TjlqM1k5NXdXbHlTaQ?oc=5",
-      "published": "2026-06-03 07:05",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PX0lOUGE0V2gwMzVlbjJwZ1NMMXViMzRrZ1NlT1VGYlZTVkdqZEw2ZW5RM3pSdGUzaDluQ0tlMk5fakczU0dEVmNNbDg0NVE0V1lGQXZqSHBhVmpkd2xmNEEtNlNMaldYYUJz?oc=5",
+      "published": "2026-06-04 08:28",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -67,81 +67,40 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "제롬 파월 연준 의장 사임, 주식 투자자들에게 중요한 7단어 경고 남겨",
-      "display_title": "제롬 파월 연준 의장 사임, 주식 투자자들에게 중요한 7단어 경고 남겨",
-      "original_title": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - AOL.com",
-      "summary": [
-        "제롬 파월 연준 의장이 사임하면서 시장에 중요한 경고 메시지를 남겼다.",
-        "연준 의장의 발언은 향후 통화 정책 방향 및 시장 변동성에 대한 신호를 줄 수 있다.",
-        "미국 통화정책의 불확실성이 증가할 수 있으므로 시장의 반응과 새 의장의 정책 방향에 주목해야 한다."
-      ],
-      "summary_text": "제롬 파월 연준 의장이 사임하면서 시장에 중요한 경고 메시지를 남겼다. 연준 의장의 발언은 향후 통화 정책 방향 및 시장 변동성에 대한 신호를 줄 수 있다. 미국 통화정책의 불확실성이 증가할 수 있으므로 시장의 반응과 새 의장의 정책 방향에 주목해야 한다.",
-      "description": "제롬 파월 연방준비제도 의장이 사임하면서 주식 투자자들에게 많은 것을 시사하는 7단어 경고를 남겼습니다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 증권",
-      "related_stocks": [
-        "카카오뱅크",
-        "한국금융지주"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "연준 의장 교체와 함께 발표된 경고는 글로벌 유동성과 금리 방향에 큰 영향을 미치므로 투자 결정에 신중해야 한다.",
-      "key_signal": "후임 연준 의장의 인선 과정과 함께 파월 의장이 남긴 '7단어 경고'의 구체적인 내용 및 시장 반응을 면밀히 주시해야 한다.",
-      "keywords": [
-        "연준",
-        "제롬 파월",
-        "금리",
-        "통화정책",
-        "시장 경고"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlZLaVJ4NUZ4aTdxTnZGUVl4cnI0YUNGakVnZTNrWEd6Vkc0ZFVfV0p0UUR5dFNsS3BIOEt0X2x4YmhBVWZzZWRyNmxHN0pKX25Cbzd0RFRuaklwa0taUzV2U3VVSEt0TERRbjJXMG5MYlhpMXBQakVxX0pIMVZPVm5HUTQ?oc=5",
-      "published": "2026-06-03 04:08",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 3,
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "젠슨 황도 주목한 ‘K로보틱스’… 2차 깐부회동 앞두고 국내 피지컬 AI 산업 ‘들썩’",
-      "display_title": "젠슨 황도 주목한 ‘K로보틱스’… 2차 깐부회동 앞두고 국내 피지컬 AI 산업 ‘들썩’",
-      "original_title": "젠슨 황도 픽한 ‘K로보틱스’···2차 깐부회동 앞두고 국내 피지컬 AI 산업 ‘들썩’ - 경향신문",
+      "title": "OECD, 한국 반도체 성장에 놀라... 한국 성장률 1.7%에서 2.6%로 최대폭 상향",
+      "display_title": "OECD, 한국 반도체 성장에 놀라... 한국 성장률 1.7%에서 2.6%로 최대폭 상향",
+      "original_title": "OECD도 놀란 K반도체…韓 성장률 1.7→2.6% 최대폭 상향[Pick코노미] - 서울경제",
       "summary": [
-        "엔비디아 젠슨 황 CEO의 관심 표명으로 국내 로봇 및 피지컬 AI 산업이 크게 주목받고 있다.",
-        "2차 '깐부회동' 등 주요 이벤트가 예정되어 있어 산업 전반에 대한 기대감이 고조되고 있다.",
-        "글로벌 AI 선두 주자의 관심은 국내 로봇 기업들의 기술력과 성장 잠재력을 높게 평가하는 신호로, 관련 기업들의 투자 기회를 모색해야 한다."
+        "OECD가 한국 반도체 산업의 강한 성장에 힘입어 한국의 경제 성장률 전망치를 기존 1.7%에서 2.6%로 대폭 상향 조정했다.",
+        "AI 반도체를 중심으로 한 수출 호조가 국내 경제 성장의 주요 동력으로 작용하며, OECD를 비롯한 외부 기관에서도 긍정적인 평가를 내리고 있다.",
+        "반도체 산업의 지속적인 성장은 국내 경제 전반의 회복을 견인할 것이며, 이는 국내 기업들의 실적 개선과 증시 상승에 긍정적으로 작용할 수 있다."
       ],
-      "summary_text": "엔비디아 젠슨 황 CEO의 관심 표명으로 국내 로봇 및 피지컬 AI 산업이 크게 주목받고 있다. 2차 '깐부회동' 등 주요 이벤트가 예정되어 있어 산업 전반에 대한 기대감이 고조되고 있다. 글로벌 AI 선두 주자의 관심은 국내 로봇 기업들의 기술력과 성장 잠재력을 높게 평가하는 신호로, 관련 기업들의 투자 기회를 모색해야 한다.",
-      "description": "엔비디아의 젠슨 황 CEO가 관심을 표명한 'K로보틱스'와 관련하여, 2차 깐부회동을 앞두고 국내 피지컬 AI 산업이 활기를 띠고 있습니다.",
-      "category": "기업·산업",
-      "importance": 9,
+      "summary_text": "OECD가 한국 반도체 산업의 강한 성장에 힘입어 한국의 경제 성장률 전망치를 기존 1.7%에서 2.6%로 대폭 상향 조정했다. AI 반도체를 중심으로 한 수출 호조가 국내 경제 성장의 주요 동력으로 작용하며, OECD를 비롯한 외부 기관에서도 긍정적인 평가를 내리고 있다. 반도체 산업의 지속적인 성장은 국내 경제 전반의 회복을 견인할 것이며, 이는 국내 기업들의 실적 개선과 증시 상승에 긍정적으로 작용할 수 있다.",
+      "description": "OECD가 한국의 반도체 산업 성장에 놀라움을 표하며, 한국의 경제 성장률 전망치를 1.7%에서 2.6%로 큰 폭으로 상향 조정했다.",
+      "category": "국내 거시경제",
+      "importance": 10,
       "market_impact": "긍정",
-      "related_sector": "로봇, 인공지능, 자동화",
+      "related_sector": "국내 거시경제, 반도체",
       "related_stocks": [
-        "레인보우로보틱스",
-        "두산로보틱스",
-        "티로보틱스"
+        "삼성전자",
+        "SK하이닉스",
+        "DB하이텍"
       ],
       "investment_view": "관심",
-      "investment_reason": "젠슨 황의 관심과 산업 내 주요 이벤트는 국내 로봇 및 피지컬 AI 기업들의 기술력과 시장 확대 가능성을 부각시키며 투자 매력을 높인다.",
-      "key_signal": "2차 '깐부회동'의 구체적인 내용과 함께 국내 로봇 기업들의 신기술 개발 및 글로벌 파트너십 확장 소식을 주시해야 한다.",
+      "investment_reason": "한국의 경제 성장률 상향은 기업 실적 개선과 소비 심리 회복으로 이어져 국내 증시 전반에 긍정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "한국 반도체 수출 동향과 OECD 등 주요 기관의 국내 경제 전망치 변화를 지속적으로 주시하며 투자 전략에 반영해야 한다.",
       "keywords": [
-        "K로보틱스",
-        "젠슨 황",
-        "피지컬 AI",
-        "로봇 산업",
-        "엔비디아"
+        "한국경제",
+        "OECD",
+        "반도체",
+        "경제성장률",
+        "K반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TUWx3T1JXWDF3TXo4MmozSnBZb2poWTcyM0JGN0dHTTdDdmhwUGhOME5xamE2TS0zV3hoWmY0TjgyRWM0bG1ud05lSWdqSzFNaDA5MkZsbi1jd9IBX0FVX3lxTE1ubkZOMzhfaGc4RnYwN3FFZTdpYlNQcWtBT3RSZ253T001T2pSWlBFRi1HS3FmVzdvaEhNS0M4RmpBMi1PdDdBeHZLbThqbFZaODA4dXBpN05nWTh5SXdB?oc=5",
-      "published": "2026-06-03 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHaU9fN2NhR3BhekdtN0pTXzg0S3pDMmZwbGhKX1pzRXdwdEYyMXhqUmxQUTVmZ2gxVWFwUTdOVHhYOGlGUEE3RXZfRFlrbUNDVFlB0gFTQVVfeXFMUEdpT183Y2FHcGF6R203SlNfODRLekMyZnBsaEpfWnNFd3B0RjIxeGpSbFBRNWZnaDFVYXBRN05UeFg4aUZQQTdFdl9EWWttQ0NUWUE?oc=5",
+      "published": "2026-06-04 05:30",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -149,43 +108,86 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "실적 호조와 AI 덕분에 기록적인 고점 달성. 인플레이션이 지속되어 랠리를 꺾을 것인가?",
-      "display_title": "실적 호조와 AI 덕분에 기록적인 고점 달성. 인플레이션이 지속되어 랠리를 꺾을 것인가?",
-      "original_title": "Record Highs on the Back of Earnings and AI. Will Inflation Prove Sticky and Derail the Rally? - ETF Database",
+      "title": "2007년 이후 처음으로 증시 경고 신호 깜빡... 워렌 버핏이 중요성을 설명하다.",
+      "display_title": "2007년 이후 처음으로 증시 경고 신호 깜빡... 워렌 버핏이 중요성을 설명하다.",
+      "original_title": "A Stock Market Indicator Flashes a Warning Last Seen in 2007. Warren Buffett Explains Why It Matters. - AOL.com",
       "summary": [
-        "글로벌 증시가 기업 실적 개선과 AI 기술 발전에 힘입어 사상 최고치를 경신했다.",
-        "고착화되는 인플레이션이 이러한 상승 랠리를 중단시킬 수 있다는 우려가 제기되고 있다.",
-        "현재 시장의 강세는 AI 테마와 견조한 기업 실적에 기반하고 있으나, 인플레이션 지표와 통화정책 변화에 주의해야 한다."
+        "2007년 이후 처음으로 증시에서 특정 경고 신호가 포착되었으며, 워렌 버핏이 그 의미와 중요성을 강조했다.",
+        "해당 지표는 과거 금융 위기나 시장 조정 직전에 나타났던 패턴을 보이며, 과열된 시장에 대한 경고로 해석될 수 있다.",
+        "시장의 과열 가능성과 잠재적 조정 위험을 인지하고, 보수적인 투자 전략을 재검토하며 리스크 관리에 집중해야 한다."
       ],
-      "summary_text": "글로벌 증시가 기업 실적 개선과 AI 기술 발전에 힘입어 사상 최고치를 경신했다. 고착화되는 인플레이션이 이러한 상승 랠리를 중단시킬 수 있다는 우려가 제기되고 있다. 현재 시장의 강세는 AI 테마와 견조한 기업 실적에 기반하고 있으나, 인플레이션 지표와 통화정책 변화에 주의해야 한다.",
-      "description": "기업 실적 개선과 인공지능(AI) 열풍에 힘입어 증시가 기록적인 고점을 찍었지만, 인플레이션의 고착화가 이러한 랠리를 방해할지 주목됩니다.",
+      "summary_text": "2007년 이후 처음으로 증시에서 특정 경고 신호가 포착되었으며, 워렌 버핏이 그 의미와 중요성을 강조했다. 해당 지표는 과거 금융 위기나 시장 조정 직전에 나타났던 패턴을 보이며, 과열된 시장에 대한 경고로 해석될 수 있다. 시장의 과열 가능성과 잠재적 조정 위험을 인지하고, 보수적인 투자 전략을 재검토하며 리스크 관리에 집중해야 한다.",
+      "description": "2007년 이후 처음으로 특정 증시 지표가 경고 신호를 보냈으며, 워렌 버핏이 이 신호가 중요한 이유를 설명했다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT, 소프트웨어, 인공지능",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "증권, 금융",
+      "related_stocks": [
+        "네이버",
+        "카카오",
+        "삼성전자"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "중요한 증시 경고 신호는 시장 조정이나 하락의 전조가 될 수 있으므로, 투자자들은 리스크 관리를 최우선으로 고려해야 하기 때문이다.",
+      "key_signal": "워렌 버핏이 언급한 특정 증시 경고 지표의 변화를 면밀히 살피고, 이에 따른 시장의 반응과 투자 심리 변화를 주시해야 한다.",
+      "keywords": [
+        "증시경고",
+        "워렌버핏",
+        "시장조정",
+        "리스크관리",
+        "금융위기"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWQ2bXRVS1ZBNEtVUE52YXI5UmFlbFppRkRzTW1QTXAxbUZKNGZpMWVob3hmdG9sNlE1d3hSUDUtNnl5SDB2NDlPZk9tRWpMV0ZjM2M4UVZzTzhKbFRGMUVHYVdCSm5MSkV3SFFhc0tNVnBfVnM2MjY2dkx3NGJnZklRNEd4TW5GSEE?oc=5",
+      "published": "2026-06-03 18:11",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 4,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정",
+      "display_title": "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정",
+      "original_title": "K-온디바이스 AI 반도체 예산 8000억 확정 - 디일렉",
+      "summary": [
+        "한국 정부가 'K-온디바이스 AI 반도체' 기술 개발을 위해 8000억 원 규모의 예산을 확정하고 지원을 강화한다.",
+        "온디바이스 AI는 기기 자체에서 AI 연산을 수행하는 기술로, 고성능 저전력 반도체 수요를 촉진하며 AI 기술 패권 경쟁의 핵심 분야로 부상하고 있다.",
+        "정부의 대규모 예산 지원은 국내 온디바이스 AI 반도체 관련 기업들의 기술 개발 및 시장 경쟁력 강화에 큰 동력이 될 것이다."
+      ],
+      "summary_text": "한국 정부가 'K-온디바이스 AI 반도체' 기술 개발을 위해 8000억 원 규모의 예산을 확정하고 지원을 강화한다. 온디바이스 AI는 기기 자체에서 AI 연산을 수행하는 기술로, 고성능 저전력 반도체 수요를 촉진하며 AI 기술 패권 경쟁의 핵심 분야로 부상하고 있다. 정부의 대규모 예산 지원은 국내 온디바이스 AI 반도체 관련 기업들의 기술 개발 및 시장 경쟁력 강화에 큰 동력이 될 것이다.",
+      "description": "한국 정부가 'K-온디바이스 AI 반도체' 기술 개발을 위해 8000억 원 규모의 예산을 확정했다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "온디바이스AI, 반도체, 시스템반도체",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
-        "한미반도체"
+        "리노공업",
+        "제주반도체"
       ],
-      "investment_view": "주의",
-      "investment_reason": "AI 관련 상승세는 강하지만, 인플레이션 압력이 지속될 경우 금리 인상 가능성으로 인해 시장 전반의 조정이 올 수 있어 위험 관리가 필요하다.",
-      "key_signal": "주요국 소비자물가지수(CPI)와 생산자물가지수(PPI) 발표, 그리고 중앙은행의 금리 관련 발언을 통해 인플레이션 추이를 확인해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "정부의 대규모 예산 투입은 국내 온디바이스 AI 반도체 산업의 성장을 가속화하고 관련 기업들의 실적에 긍정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "온디바이스 AI 반도체 관련 정부 정책 및 지원 사업의 구체적인 내용과 수혜 기업들을 면밀히 살펴야 한다.",
       "keywords": [
-        "인플레이션",
-        "AI",
-        "증시 랠리",
-        "기업 실적",
-        "금리 인상"
+        "온디바이스AI",
+        "AI반도체",
+        "정부예산",
+        "시스템반도체",
+        "K반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUUxMUtsTENTZkFOcno0Sm5Mek4wazRJZ2diNEl2SFNrTWc0QnRrU0lmOElYX1pxVUhQNUp5M3hlZHNueXFJM0xydG9jMUQ4ZEhveVIwZm5XdXFrWk5CZTJJT0xOeUE5QTY1MDd3TUphWlhvM1ZEM25oUmVSQVlsQ0ZB?oc=5",
-      "published": "2026-06-03 03:40",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrQ1dPNWxDblJfc19BazZiWm8zYU1TMVhSQ2U2bTlvcVp0MlhDcE1CTzVObnVaMFNES1NmY2drRHNPLUpPMVVDdFBLeG96Q05WUnQ0UFhrVzhYcUxNZmZxalRSVWZxUQ?oc=5",
+      "published": "2026-06-04 08:11",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -195,37 +197,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "ST마이크로일렉트로닉스 주가, AI 데이터센터 성장과 견조한 반도체 수요에 15% 급등",
-      "display_title": "ST마이크로일렉트로닉스 주가, AI 데이터센터 성장과 견조한 반도체 수요에 15% 급등",
-      "original_title": "STMicroelectronics Shares Surge 15% on AI Data Center Growth and Strong Semiconductor Demand - International Business Times Australia",
+      "title": "유가 급등 및 이란 긴장 고조로 다우지수 620포인트 하락",
+      "display_title": "유가 급등 및 이란 긴장 고조로 다우지수 620포인트 하락",
+      "original_title": "Dow drops 620 points as oil surge and Iran tensions hit stocks - TradingView",
       "summary": [
-        "ST마이크로일렉트로닉스 주가가 AI 데이터센터 시장 성장과 강력한 반도체 수요에 힘입어 15% 급등했다.",
-        "이는 AI 관련 인프라 투자 확대가 반도체 기업들의 실적을 견인하고 있음을 보여준다.",
-        "AI와 데이터센터의 성장은 전반적인 반도체 산업에 긍정적인 영향을 미치므로 관련 국내 기업들의 동반 성장을 기대할 수 있다."
+        "유가 급등과 이란을 둘러싼 지정학적 긴장 고조로 인해 미국 다우지수가 620포인트 하락했다.",
+        "국제 유가 상승은 기업 비용 증가와 소비 심리 위축을 야기하며, 지정학적 위험은 글로벌 불확실성을 증대시켜 투자 심리를 위축시킨다.",
+        "에너지 가격과 중동 지정학적 리스크는 글로벌 증시의 주요 변동성 요인으로, 국내 시장에도 간접적인 영향을 미칠 수 있으므로 주의가 필요하다."
       ],
-      "summary_text": "ST마이크로일렉트로닉스 주가가 AI 데이터센터 시장 성장과 강력한 반도체 수요에 힘입어 15% 급등했다. 이는 AI 관련 인프라 투자 확대가 반도체 기업들의 실적을 견인하고 있음을 보여준다. AI와 데이터센터의 성장은 전반적인 반도체 산업에 긍정적인 영향을 미치므로 관련 국내 기업들의 동반 성장을 기대할 수 있다.",
-      "description": "ST마이크로일렉트로닉스 주가가 인공지능(AI) 데이터센터의 성장과 견조한 반도체 수요에 힘입어 15% 급등했습니다.",
-      "category": "기업·산업",
+      "summary_text": "유가 급등과 이란을 둘러싼 지정학적 긴장 고조로 인해 미국 다우지수가 620포인트 하락했다. 국제 유가 상승은 기업 비용 증가와 소비 심리 위축을 야기하며, 지정학적 위험은 글로벌 불확실성을 증대시켜 투자 심리를 위축시킨다. 에너지 가격과 중동 지정학적 리스크는 글로벌 증시의 주요 변동성 요인으로, 국내 시장에도 간접적인 영향을 미칠 수 있으므로 주의가 필요하다.",
+      "description": "유가 급등과 이란과의 긴장 고조가 증시에 부정적인 영향을 미치며 다우지수가 620포인트 급락했다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, 데이터센터",
+      "market_impact": "부정",
+      "related_sector": "정유, 화학, 항공, 해운",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "S-Oil",
+        "SK이노베이션",
+        "대한항공"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 및 데이터센터 산업의 폭발적인 성장은 반도체 수요를 지속적으로 견인하며, 관련 기업들의 실적 개선에 긍정적인 영향을 미칠 것이다.",
-      "key_signal": "주요 AI 및 데이터센터 기업들의 투자 계획과 함께 국내 반도체 기업들의 관련 수주 및 실적 발표를 주시해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "국제 유가 상승과 지정학적 불안정은 국내 원자재 수입 기업 및 물류 관련 기업의 수익성에 직접적인 영향을 미치고 시장 전반의 변동성을 키울 수 있기 때문이다.",
+      "key_signal": "국제 유가 동향과 중동 지정학적 리스크 관련 뉴스를 면밀히 모니터링하여 국내 증시 및 관련 섹터에 미칠 영향을 예측해야 한다.",
       "keywords": [
-        "ST마이크로일렉트로닉스",
-        "AI",
-        "데이터센터",
-        "반도체 수요",
-        "반도체 장비"
+        "유가급등",
+        "이란",
+        "지정학적리스크",
+        "다우지수",
+        "증시하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlVvaWwyMU9sWV9TS1Y1cDg3d084Q01iU2JWYk0tSUhRcWNiQVVoOFJMdFFMbk90UlJUeWVlcHQ5XzdJNFRLZE96bFY1NzJ5N0ZQekpvQzhtc2d3YXR4amFCTWVtRl9qVVhXS01Xb1dXX1B5MnNuc00zbzNIcDB0cmVQYURtRkdOYXpGTTlHNzI?oc=5",
-      "published": "2026-06-03 00:47",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFB0YlFiMFg1SGk2M3pUOEZFNVNab05FaWN5dVNKdFZKV0NJUXNoaXdzRzhjWGZteEJDeEF6SGJJd3lGYWR5QWFzZXZBQVJCR01NRXdvVXJUMGU1TXdjVlJSXzFIaHhnZGhoQTRvbGhzdFdfcjZTRDFtWmlLNnNYMTVsYTZVMjQ2cDhmalNPRS04eS1zZU52NDJXYjRZRm5MUWg0YkRNWm5xbnctUXpaMW5fQjRiNUdNa2R3?oc=5",
+      "published": "2026-06-04 05:29",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -237,36 +239,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주식 시장, 2차 세계대전 이후 보기 드문 성과 기록했지만, 역사적으로 이는 경고 신호",
-      "display_title": "주식 시장, 2차 세계대전 이후 보기 드문 성과 기록했지만, 역사적으로 이는 경고 신호",
-      "original_title": "Stocks just notched an achievement rarely seen since WWII. But history says it's also a warning. - AOL.com",
+      "title": "경기 침체 위험 50% 육박, 은퇴자들이 방어적 투자 고려",
+      "display_title": "경기 침체 위험 50% 육박, 은퇴자들이 방어적 투자 고려",
+      "original_title": "Recession risk nears 50% as retirees weigh defensive moves - MSN",
       "summary": [
-        "글로벌 주식 시장이 2차 세계대전 이후 보기 드문 강력한 상승세를 기록하며 특정 이정표를 달성했다.",
-        "역사적으로 이러한 매우 드문 고점 달성 시기에는 이후 시장 조정이나 하락장이 뒤따르는 경향이 있었다.",
-        "현재의 과열된 시장 분위기 속에서 과거의 패턴을 고려하여 잠재적 위험에 대비하고 투자 전략을 재점검할 필요가 있다."
+        "경기 침체 위험이 거의 50%에 달하자 은퇴자들이 자산을 보호하기 위한 방어적인 투자 전략을 모색하고 있다.",
+        "높은 인플레이션, 금리 인상, 그리고 글로벌 경제의 불확실성이 복합적으로 작용하여 경기 침체 가능성이 높아지고 있다.",
+        "경기 침체 우려가 커짐에 따라 주식 시장의 변동성이 확대될 수 있으며, 투자자들은 포트폴리오의 방어력을 강화할 필요가 있다."
       ],
-      "summary_text": "글로벌 주식 시장이 2차 세계대전 이후 보기 드문 강력한 상승세를 기록하며 특정 이정표를 달성했다. 역사적으로 이러한 매우 드문 고점 달성 시기에는 이후 시장 조정이나 하락장이 뒤따르는 경향이 있었다. 현재의 과열된 시장 분위기 속에서 과거의 패턴을 고려하여 잠재적 위험에 대비하고 투자 전략을 재점검할 필요가 있다.",
-      "description": "주식 시장이 2차 세계대전 이후 거의 볼 수 없었던 기록적인 성과를 달성했지만, 역사적 관점에서는 오히려 경고 신호로 해석될 수 있습니다.",
-      "category": "증시·금리",
+      "summary_text": "경기 침체 위험이 거의 50%에 달하자 은퇴자들이 자산을 보호하기 위한 방어적인 투자 전략을 모색하고 있다. 높은 인플레이션, 금리 인상, 그리고 글로벌 경제의 불확실성이 복합적으로 작용하여 경기 침체 가능성이 높아지고 있다. 경기 침체 우려가 커짐에 따라 주식 시장의 변동성이 확대될 수 있으며, 투자자들은 포트폴리오의 방어력을 강화할 필요가 있다.",
+      "description": "경기 침체 위험이 50%에 가까워지면서 은퇴자들이 자산 보호를 위한 방어적인 투자 전략을 고려하고 있다.",
+      "category": "글로벌 경제",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "증권, 전반적 시장",
+      "related_sector": "금융, 자산관리, 필수소비재",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "삼성생명",
+        "KB금융",
+        "아모레퍼시픽"
       ],
       "investment_view": "주의",
-      "investment_reason": "역사적인 관점에서 볼 때 극단적인 시장 성과는 종종 조정의 전조가 되므로, 과도한 낙관론을 경계하고 포트폴리오의 방어적인 측면을 강화할 필요가 있다.",
-      "key_signal": "시장의 과열 지표(예: RSI, 공포 탐욕 지수)와 함께 글로벌 경제의 펀더멘털 변화에 대한 분석가들의 의견을 종합적으로 검토해야 한다.",
+      "investment_reason": "경기 침체 위험 증가는 기업 실적 악화 및 주식 시장 하락으로 이어질 수 있으므로, 보수적인 관점에서 시장을 분석하고 방어적 자산 배분을 고려해야 하기 때문이다.",
+      "key_signal": "글로벌 경기 침체 가능성과 이에 따른 투자자들의 심리 변화가 국내 시장에 미칠 영향을 지속적으로 주시해야 한다.",
       "keywords": [
-        "주식 시장",
-        "역사적 고점",
-        "시장 조정",
-        "경기 침체",
-        "투자 경고"
+        "경기침체",
+        "인플레이션",
+        "방어주",
+        "글로벌경제",
+        "투자전략"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRldlNmdyTWk2TzktWS1pN2huSTlJbXN2UGc4Tk9MOGFqYm9ERDIyTU8zcHEzWGNKTU1QVk5EUmt2MkR3MGJvcU94NkQxR3FnUVBDZGI3RlNpNjlNQm9QTlZCcTg3a1hqVko5cGh3S3Ytb043aGFUOVAzVlVLQXFHb0NudlFDeTVpMFE?oc=5",
-      "published": "2026-06-03 02:22",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWER0WnlHSFNwRFdWMHBTX1poM3ZzX2lEd3B3SXZ2Z0JZZDRrTTVWZXhyNlJOMFp1NjF0VUh1aHFTWkNjOVZ6a0hRN01ieC1ZbzVyOXZ6Q0R1czVhTjVNcExPYmp5bWZHdWJUMG9BdlpJdUdRY0VCbjRCOG5oRm92UGVidHF5VTgxdmt1cURpVjFhZ2FsdmRiWExZbEp1UjBtZVpJcmx0eXBJalBjcy1qUWN3NXlqdnQtUUpXZl9zcXJKeU00ZlZTNXpPcl9nVW1nYmJhdWJwX3hGS1llVERwOEJyeTZLYzd3bUFYLUJqcHE?oc=5",
+      "published": "2026-06-04 02:52",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -277,68 +280,70 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "레인보우로보틱스",
-      "market": "KOSDAQ",
-      "sector": "로봇, 인공지능",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "젠슨 황 엔비디아 CEO의 K로보틱스 주목과 국내 피지컬 AI 산업의 활성화 소식은 로봇 관련 기업들의 기술력과 시장 확대 가능성을 부각시키며 투자 매력을 높이고 있습니다.",
+      "reason": "AI 반도체 시장 주도력과 국내 경제 성장률 상향의 핵심 동력으로 언급되며, 온디바이스 AI 개발 예산 확정으로 시스템반도체 부문 수혜도 기대됩니다.",
       "check_points": [
-        "젠슨 황 관련 국내 기업 협력 동향",
-        "피지컬 AI 산업 기술 개발 및 투자 뉴스",
-        "2차 깐부회동 등 산업 이벤트 결과"
+        "AI 반도체(HBM, 파운드리) 기술 개발 및 수주 상황",
+        "온디바이스 AI 관련 정부 정책 수혜 정도",
+        "전반적인 반도체 업황 및 국내 거시경제 지표"
       ],
       "related_news_titles": [
-        "젠슨 황도 주목한 ‘K로보틱스’… 2차 깐부회동 앞두고 국내 피지컬 AI 산업 ‘들썩’"
+        "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\"",
+        "OECD, 한국 반도체 성장에 놀라... 한국 성장률 1.7%에서 2.6%로 최대폭 상향",
+        "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정"
       ]
     },
     {
       "rank": 2,
-      "name": "삼성전자",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "반도체, IT",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 데이터센터 성장에 따른 견조한 반도체 수요가 지속될 것으로 예상되며, 이는 삼성전자 등 관련 기업의 실적 개선에 긍정적인 영향을 미칠 것입니다. 다만, 인플레이션 지속 여부에 대한 시장의 경계는 함께 지켜볼 필요가 있습니다.",
+      "reason": "AI 반도체 시장의 핵심인 HBM 등 고부가가치 메모리 분야에서 독보적인 경쟁력을 인정받고 있으며, 한국 경제 성장의 주요 동력으로 지목됩니다.",
       "check_points": [
-        "AI 반도체 수요 증가세 유지 여부",
-        "메모리 반도체 가격 동향",
-        "글로벌 인플레이션 및 금리 인상 압력"
+        "HBM 생산 능력 확대 및 고객사 확보",
+        "고대역폭 메모리(HBM) 기술 리더십 유지 여부",
+        "글로벌 AI 반도체 수요 변화"
       ],
       "related_news_titles": [
-        "ST마이크로일렉트로닉스 주가, AI 데이터센터 성장과 견조한 반도체 수요에 15% 급등",
-        "실적 호조와 AI 덕분에 기록적인 고점 달성. 인플레이션이 지속되어 랠리를 꺾을 것인가?"
+        "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\"",
+        "OECD, 한국 반도체 성장에 놀라... 한국 성장률 1.7%에서 2.6%로 최대폭 상향",
+        "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정"
       ]
     },
     {
       "rank": 3,
-      "name": "한미반도체",
-      "market": "KOSPI",
+      "name": "제주반도체",
+      "market": "KOSDAQ",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 및 데이터센터 산업의 폭발적인 성장은 HBM(고대역폭 메모리) 관련 장비 수요를 지속적으로 견인하며, 한미반도체와 같은 핵심 기술 기업들의 실적 개선에 긍정적인 영향을 줄 수 있습니다.",
+      "reason": "정부의 8000억 원 규모 온디바이스 AI 반도체 개발 예산 확정 소식으로, 관련 시스템반도체 기업으로서 직접적인 수혜 기대감이 높습니다.",
       "check_points": [
-        "HBM 생산 Capa 증설 관련 투자 동향",
-        "주요 고객사들의 HBM 투자 계획",
-        "반도체 장비 업황 전반"
+        "온디바이스 AI 관련 신기술 개발 및 제품 출시",
+        "시스템반도체(PMIC 등) 매출 성장세 유지",
+        "정부 지원 정책의 실질적인 사업 연결 여부"
       ],
       "related_news_titles": [
-        "ST마이크로일렉트로닉스 주가, AI 데이터센터 성장과 견조한 반도체 수요에 15% 급등",
-        "실적 호조와 AI 덕분에 기록적인 고점 달성. 인플레이션이 지속되어 랠리를 꺾을 것인가?"
+        "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정"
       ]
     },
     {
       "rank": 4,
-      "name": "KB금융",
+      "name": "한미반도체",
       "market": "KOSPI",
-      "sector": "금융",
-      "opinion": "주의",
-      "reason": "한국은행의 7월, 10월 금리 인상 전망은 가계 및 기업의 이자 부담 증가와 투자 심리 위축으로 이어질 수 있어, 금융 섹터의 건전성과 시장 변동성 확대에 대한 모니터링이 필요합니다.",
+      "sector": "반도체 장비",
+      "opinion": "관심",
+      "reason": "AI 반도체 시장 성장의 핵심인 고대역폭 메모리(HBM) 생산에 필수적인 후공정 장비 공급 업체로, AI 반도체 주도 섹터의 수혜가 예상됩니다.",
       "check_points": [
-        "한국은행 금리 결정 및 전망",
-        "국내 대출 연체율 및 건전성 지표 변화",
-        "순이자마진(NIM) 추이"
+        "주요 고객사들의 HBM 투자 확대 여부",
+        "TC 본더 등 핵심 장비 수주 상황 및 경쟁력",
+        "AI 반도체 후공정 기술 트렌드 변화"
       ],
       "related_news_titles": [
-        "ING, 한국 성장률 전망치 2.8%에서 3.0%로 상향… \"한국은행, 7월·10월 금리 인상 예상\""
+        "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\""
       ]
     }
   ],
