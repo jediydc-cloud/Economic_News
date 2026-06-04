@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04 08:44",
-  "analysis_date": "2026-06-04",
+  "generated_at": "2026-06-05 08:09",
+  "analysis_date": "2026-06-05",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 증시는 AI 반도체 중심의 강력한 성장 모멘텀을 이어가고 있으나, 해외에서는 증시 경고 신호와 경기 침체 우려, 유가 급등 등 부정적 요인이 확산되고 있습니다. 국내 시장은 반도체 훈풍 속에서 글로벌 불확실성을 주시하며 균형 잡힌 대응이 필요합니다.",
-    "국내거시경제": "OECD는 한국 반도체 산업의 강한 성장을 이유로 한국의 경제 성장률 전망치를 기존 1.7%에서 2.6%로 대폭 상향했습니다. AI 반도체를 중심으로 한 수출 호조가 국내 경제 성장의 주요 동력으로 작용하고 있습니다.",
-    "글로벌경제": "글로벌 경기 침체 위험이 50%에 육박하며, 높은 인플레이션과 금리 인상 등으로 인한 불확실성이 커지고 있습니다. 은퇴자들을 중심으로 방어적인 투자 전략이 주목받고 있습니다.",
-    "증시금리": "2007년 이후 처음으로 증시 경고 신호가 포착되며 시장 과열과 잠재적 조정 위험에 대한 주의가 필요합니다. 유가 급등 및 이란 지정학적 긴장 고조로 미국 다우지수가 하락하는 등 글로벌 증시의 변동성이 확대되었습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "AI 반도체 열풍에 힘입어 삼성전자와 SK하이닉스의 시가총액이 크게 상승하며 국내 증시의 권력을 장악했습니다. 정부는 'K-온디바이스 AI 반도체' 개발에 8000억 원 규모의 예산을 확정, 관련 기업들의 기술 개발 및 경쟁력 강화를 지원합니다.",
-    "오늘의투자시사점": "국내 AI 반도체 관련 기업들의 성장 잠재력은 높지만, 글로벌 증시의 경고 신호와 경기 침체 우려를 간과해서는 안 됩니다. 포트폴리오의 방어력을 점검하고, 지정학적 리스크 및 에너지 가격 변동성에 대한 민감도를 높이는 신중한 접근이 요구됩니다.",
-    "오늘의한줄": "국내 AI 반도체 강세 속 글로벌 불안 요인 증가, 균형 잡힌 시각과 리스크 관리가 중요한 시점입니다."
+    "총평": "강달러 및 정치적 불확실성으로 국내외 증시 변동성이 확대되는 가운데, 국내 코스닥 핵심 산업군과 해외 AI 관련 기업에 대한 투자자 관심이 집중되고 있습니다.",
+    "국내거시경제": "원/달러 환율 1540원 돌파로 강달러 현상이 심화되며 국내 경제 전반에 부정적 압력이 가중되고 있습니다.",
+    "글로벌경제": "트럼프-이란 협상 기대감으로 지정학적 리스크는 완화되는 듯 보이나, 트럼프 대통령의 연준 압력은 통화 정책 불확실성과 글로벌 증시 불안정성 우려를 증대시키고 있습니다.",
+    "증시금리": "고환율은 외국인 투자자 이탈 및 국내 증시 하방 압력으로 작용하며, 글로벌 증시 또한 연준 독립성 훼손 우려로 변동성 확대 가능성이 있습니다. 다만, 공매도에도 불구하고 일부 지정학적 기대감으로 상승하는 혼조세입니다.",
+    "부동산정책": "서울시장 선거 결과는 부동산 정책 변화 요구를 강력히 시사하며, 주택 공급 확대 및 가격 안정화가 향후 핵심 정책 의제로 부상했습니다.",
+    "기업산업": "국내 코스피 부진 속 코스닥 시장의 반도체, 바이오, 배터리 3대 핵심 산업군으로 자금 유입이 활발하며, 해외에서는 AI 전력 관리 솔루션 등 인공지능 관련 반도체 기업의 가치 재평가 논의가 진행 중입니다.",
+    "오늘의투자시사점": "고환율 장기화에 대비하여 수출 비중 높은 기업 및 외화 자산 방어 전략을 고려하고, 정치적 불확실성 속에서도 국내 코스닥 3대 핵심 산업 성장주와 해외 AI 관련 반도체 기업에 대한 선별적 투자 기회를 모색해야 합니다. 부동산 정책 변화에 따른 관련 섹터 움직임도 주시하십시오.",
+    "오늘의한줄": "복합적인 거시경제 변동성 속, 국내외 성장 동력인 혁신 기술 섹터와 변화하는 정책 방향에 주목하며 신중한 포트폴리오 관리가 필요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\"",
-      "display_title": "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\"",
-      "original_title": "[비즈 인사이트] 삼성 2100조·하이닉스 1680조...\"AI반도체가 증시 권력 바꿨다\" - 서울타임즈뉴스",
+      "title": "환율 1540원 돌파…'만스피' 꿈꾸던 시장에 덮친 달러 쇼크",
+      "display_title": "환율 1540원 돌파…'만스피' 꿈꾸던 시장에 덮친 달러 쇼크",
+      "original_title": "환율 1540원 돌파…'만스피' 꿈꾸던 시장에 덮친 달러 쇼크 - ebn.co.kr",
       "summary": [
-        "삼성전자와 SK하이닉스의 시가총액이 AI 반도체 열풍에 힘입어 각각 2100조 원과 1680조 원을 기록, 국내 증시의 권력을 AI 반도체 기업들이 장악했다.",
-        "AI 기술 발전과 함께 고성능 반도체 수요가 폭발적으로 증가하면서, 관련 기술력을 보유한 국내 대표 기업들의 기업 가치가 크게 상승했다.",
-        "AI 반도체 산업은 국내 증시의 핵심 성장 동력이며, 관련 기술 경쟁력과 투자 확대는 장기적인 관점에서 지속적인 관심을 가져야 할 요인이다."
+        "원/달러 환율이 1540원을 돌파하며 국내 증시에 고환율 충격이 심화되고 있습니다.",
+        "강달러 현상은 외국인 투자자 이탈, 수입 물가 상승 압력, 기업의 원자재 비용 증가 등 국내 경제와 증시에 복합적인 부정적 영향을 미칩니다.",
+        "고환율 장기화 가능성에 대비하여 수출 비중이 높은 기업이나 환차익 수혜 기업을 주목하고, 외화 자산 방어 및 위험 관리를 고려해야 합니다."
       ],
-      "summary_text": "삼성전자와 SK하이닉스의 시가총액이 AI 반도체 열풍에 힘입어 각각 2100조 원과 1680조 원을 기록, 국내 증시의 권력을 AI 반도체 기업들이 장악했다. AI 기술 발전과 함께 고성능 반도체 수요가 폭발적으로 증가하면서, 관련 기술력을 보유한 국내 대표 기업들의 기업 가치가 크게 상승했다. AI 반도체 산업은 국내 증시의 핵심 성장 동력이며, 관련 기술 경쟁력과 투자 확대는 장기적인 관점에서 지속적인 관심을 가져야 할 요인이다.",
-      "description": "삼성전자와 SK하이닉스의 시가총액이 각각 2100조, 1680조 원을 기록하며 AI 반도체가 국내 증시의 주도권을 완전히 변화시켰다는 분석이 나왔다.",
-      "category": "기업·산업",
-      "importance": 10,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI",
+      "summary_text": "원/달러 환율이 1540원을 돌파하며 국내 증시에 고환율 충격이 심화되고 있습니다. 강달러 현상은 외국인 투자자 이탈, 수입 물가 상승 압력, 기업의 원자재 비용 증가 등 국내 경제와 증시에 복합적인 부정적 영향을 미칩니다. 고환율 장기화 가능성에 대비하여 수출 비중이 높은 기업이나 환차익 수혜 기업을 주목하고, 외화 자산 방어 및 위험 관리를 고려해야 합니다.",
+      "description": "원/달러 환율이 1540원을 돌파하며 '코스피 3000'을 넘어 '만스피(코스피 10000)'를 꿈꾸던 국내 증시에 달러 쇼크가 닥쳤습니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "전 산업, 수출주, 금융",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "현대차"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 반도체는 국내 증시의 절대적인 주도 섹터이며, 이들 기업의 성장은 국내 경제 전반과 투자 수익률에 막대한 영향을 미치기 때문이다.",
-      "key_signal": "AI 반도체 기업들의 기술 개발, 생산 능력 확대, 그리고 글로벌 시장 경쟁 구도 변화를 지속적으로 모니터링해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "고환율은 국내 기업 실적 악화, 외국인 자금 이탈, 물가 상승 등 전방위적인 경제 부담을 가중시켜 투자 심리를 위축시킬 수 있습니다.",
+      "key_signal": "한국은행의 외환시장 개입 가능성, 미국 연준의 금리 인하 기대감 변화, 그리고 국내 수출입 기업들의 환율 방어 전략을 주시해야 합니다.",
       "keywords": [
-        "AI반도체",
-        "삼성전자",
-        "SK하이닉스",
-        "시가총액",
-        "증시주도주"
+        "환율",
+        "강달러",
+        "코스피",
+        "외국인 자금",
+        "물가 상승"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PX0lOUGE0V2gwMzVlbjJwZ1NMMXViMzRrZ1NlT1VGYlZTVkdqZEw2ZW5RM3pSdGUzaDluQ0tlMk5fakczU0dEVmNNbDg0NVE0V1lGQXZqSHBhVmpkd2xmNEEtNlNMaldYYUJz?oc=5",
-      "published": "2026-06-04 08:28",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZMXV0eEQxWUFzMFJaQnY2M1JJQUROYmRpVWtYSkhaa0tZR1ptVld6UlhfcFVhNUIxR2xLRVVidjI0R05aY0RERmZMdkJjR2tzQjNUc01zbzExbkJ5ZHZWUElrQUNlNlla?oc=5",
+      "published": "2026-06-05 06:34",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -70,37 +69,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "OECD, 한국 반도체 성장에 놀라... 한국 성장률 1.7%에서 2.6%로 최대폭 상향",
-      "display_title": "OECD, 한국 반도체 성장에 놀라... 한국 성장률 1.7%에서 2.6%로 최대폭 상향",
-      "original_title": "OECD도 놀란 K반도체…韓 성장률 1.7→2.6% 최대폭 상향[Pick코노미] - 서울경제",
+      "title": "서울시장 선거가 던진 핵심 메시지: '부동산'",
+      "display_title": "서울시장 선거가 던진 핵심 메시지: '부동산'",
+      "original_title": "서울시장 선거가 던진 메시지 '부동산' - 코리아리포트",
       "summary": [
-        "OECD가 한국 반도체 산업의 강한 성장에 힘입어 한국의 경제 성장률 전망치를 기존 1.7%에서 2.6%로 대폭 상향 조정했다.",
-        "AI 반도체를 중심으로 한 수출 호조가 국내 경제 성장의 주요 동력으로 작용하며, OECD를 비롯한 외부 기관에서도 긍정적인 평가를 내리고 있다.",
-        "반도체 산업의 지속적인 성장은 국내 경제 전반의 회복을 견인할 것이며, 이는 국내 기업들의 실적 개선과 증시 상승에 긍정적으로 작용할 수 있다."
+        "서울시장 선거 결과가 향후 부동산 정책 방향에 중요한 메시지를 던지고 있으며, 부동산이 주요 의제로 부상했습니다.",
+        "부동산 가격 안정화 및 주택 공급 확대는 유권자들의 최대 관심사 중 하나로, 선거 결과가 정책 변화를 강력하게 요구하고 있습니다.",
+        "선거 결과에 따른 서울시 및 정부의 부동산 정책 변화 가능성을 예측하고, 관련 건설, 재건축, 재개발 섹터의 투자 기회를 면밀히 모색해야 합니다."
       ],
-      "summary_text": "OECD가 한국 반도체 산업의 강한 성장에 힘입어 한국의 경제 성장률 전망치를 기존 1.7%에서 2.6%로 대폭 상향 조정했다. AI 반도체를 중심으로 한 수출 호조가 국내 경제 성장의 주요 동력으로 작용하며, OECD를 비롯한 외부 기관에서도 긍정적인 평가를 내리고 있다. 반도체 산업의 지속적인 성장은 국내 경제 전반의 회복을 견인할 것이며, 이는 국내 기업들의 실적 개선과 증시 상승에 긍정적으로 작용할 수 있다.",
-      "description": "OECD가 한국의 반도체 산업 성장에 놀라움을 표하며, 한국의 경제 성장률 전망치를 1.7%에서 2.6%로 큰 폭으로 상향 조정했다.",
-      "category": "국내 거시경제",
-      "importance": 10,
-      "market_impact": "긍정",
-      "related_sector": "국내 거시경제, 반도체",
+      "summary_text": "서울시장 선거 결과가 향후 부동산 정책 방향에 중요한 메시지를 던지고 있으며, 부동산이 주요 의제로 부상했습니다. 부동산 가격 안정화 및 주택 공급 확대는 유권자들의 최대 관심사 중 하나로, 선거 결과가 정책 변화를 강력하게 요구하고 있습니다. 선거 결과에 따른 서울시 및 정부의 부동산 정책 변화 가능성을 예측하고, 관련 건설, 재건축, 재개발 섹터의 투자 기회를 면밀히 모색해야 합니다.",
+      "description": "최근 서울시장 선거 결과가 부동산 정책에 대한 유권자들의 강력한 메시지를 담고 있음을 분석합니다.",
+      "category": "부동산·정책",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "건설, 부동산 개발, 재건축/재개발",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "DB하이텍"
+        "현대건설",
+        "GS건설",
+        "대림산업"
       ],
       "investment_view": "관심",
-      "investment_reason": "한국의 경제 성장률 상향은 기업 실적 개선과 소비 심리 회복으로 이어져 국내 증시 전반에 긍정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "한국 반도체 수출 동향과 OECD 등 주요 기관의 국내 경제 전망치 변화를 지속적으로 주시하며 투자 전략에 반영해야 한다.",
+      "investment_reason": "서울시장 선거 결과가 향후 정부 및 서울시의 부동산 정책 변화를 유도할 수 있어 관련 산업 및 주택 시장에 큰 영향을 미칠 수 있습니다.",
+      "key_signal": "서울시장의 공약 이행 및 정부의 부동산 정책 기조 변화를 면밀히 주시하고, 재건축·재개발 관련 규제 완화 움직임을 확인해야 합니다.",
       "keywords": [
-        "한국경제",
-        "OECD",
-        "반도체",
-        "경제성장률",
-        "K반도체"
+        "서울시장",
+        "부동산",
+        "정책 변화",
+        "주택 공급",
+        "재건축"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHaU9fN2NhR3BhekdtN0pTXzg0S3pDMmZwbGhKX1pzRXdwdEYyMXhqUmxQUTVmZ2gxVWFwUTdOVHhYOGlGUEE3RXZfRFlrbUNDVFlB0gFTQVVfeXFMUEdpT183Y2FHcGF6R203SlNfODRLekMyZnBsaEpfWnNFd3B0RjIxeGpSbFBRNWZnaDFVYXBRN05UeFg4aUZQQTdFdl9EWWttQ0NUWUE?oc=5",
-      "published": "2026-06-04 05:30",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uMUZ5ZExNY09vanNQYmNUdHY2NU9nTm5yeGRmNmJjSlg1T09SWUpyZVJ6bEdUcloxTEtPdnFrUzh0ZTZIR3pqZWNyTkxkS0ltd09VVS1FOExJN1pQWnpCaUd2djhSMl95UTgta2JSelo?oc=5",
+      "published": "2026-06-05 07:30",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -109,85 +108,84 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "2007년 이후 처음으로 증시 경고 신호 깜빡... 워렌 버핏이 중요성을 설명하다.",
-      "display_title": "2007년 이후 처음으로 증시 경고 신호 깜빡... 워렌 버핏이 중요성을 설명하다.",
-      "original_title": "A Stock Market Indicator Flashes a Warning Last Seen in 2007. Warren Buffett Explains Why It Matters. - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[증시 프리즘] 코스피 하락 속 코스닥, 반도체·바이오·배터리 3대 핵심 산업으로 자금 유입",
+      "display_title": "[증시 프리즘] 코스피 하락 속 코스닥, 반도체·바이오·배터리 3대 핵심 산업으로 자금 유입",
+      "original_title": "[증시 프리즘] 코스피 펀치 맞은 코스닥, 반도체·바이오·배터리 3대 엔진 가동에 자금 급유 - thefairnews.co.kr",
       "summary": [
-        "2007년 이후 처음으로 증시에서 특정 경고 신호가 포착되었으며, 워렌 버핏이 그 의미와 중요성을 강조했다.",
-        "해당 지표는 과거 금융 위기나 시장 조정 직전에 나타났던 패턴을 보이며, 과열된 시장에 대한 경고로 해석될 수 있다.",
-        "시장의 과열 가능성과 잠재적 조정 위험을 인지하고, 보수적인 투자 전략을 재검토하며 리스크 관리에 집중해야 한다."
+        "코스피 시장의 부진 속에서도 코스닥 시장에서는 반도체, 바이오, 배터리 등 3대 핵심 산업군으로 투자 자금이 집중되고 있습니다.",
+        "국내 증시의 변동성 속에서 성장 잠재력이 높은 혁신 기술 기업들이 몰려있는 코스닥 시장의 특정 산업군에 대한 투자자들의 관심이 커지고 있습니다.",
+        "대형주 중심의 코스피보다는 성장주 중심의 코스닥, 특히 3대 핵심 산업 내 유망 기업에 대한 선별적 투자 전략이 효과적일 수 있습니다."
       ],
-      "summary_text": "2007년 이후 처음으로 증시에서 특정 경고 신호가 포착되었으며, 워렌 버핏이 그 의미와 중요성을 강조했다. 해당 지표는 과거 금융 위기나 시장 조정 직전에 나타났던 패턴을 보이며, 과열된 시장에 대한 경고로 해석될 수 있다. 시장의 과열 가능성과 잠재적 조정 위험을 인지하고, 보수적인 투자 전략을 재검토하며 리스크 관리에 집중해야 한다.",
-      "description": "2007년 이후 처음으로 특정 증시 지표가 경고 신호를 보냈으며, 워렌 버핏이 이 신호가 중요한 이유를 설명했다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "증권, 금융",
+      "summary_text": "코스피 시장의 부진 속에서도 코스닥 시장에서는 반도체, 바이오, 배터리 등 3대 핵심 산업군으로 투자 자금이 집중되고 있습니다. 국내 증시의 변동성 속에서 성장 잠재력이 높은 혁신 기술 기업들이 몰려있는 코스닥 시장의 특정 산업군에 대한 투자자들의 관심이 커지고 있습니다. 대형주 중심의 코스피보다는 성장주 중심의 코스닥, 특히 3대 핵심 산업 내 유망 기업에 대한 선별적 투자 전략이 효과적일 수 있습니다.",
+      "description": "코스피 시장의 하락에도 불구하고 코스닥 시장에서는 반도체, 바이오, 배터리 등 3대 핵심 산업으로 자금이 집중적으로 유입되고 있습니다.",
+      "category": "기업·산업",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "반도체, 바이오, 이차전지",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "에코프로비엠",
+        "셀트리온",
+        "HPSP"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중요한 증시 경고 신호는 시장 조정이나 하락의 전조가 될 수 있으므로, 투자자들은 리스크 관리를 최우선으로 고려해야 하기 때문이다.",
-      "key_signal": "워렌 버핏이 언급한 특정 증시 경고 지표의 변화를 면밀히 살피고, 이에 따른 시장의 반응과 투자 심리 변화를 주시해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "국내 코스닥 시장의 핵심 성장 동력인 반도체, 바이오, 배터리 섹터의 투자 흐름은 개별 투자자에게 중요한 기회를 제공할 수 있기 때문입니다.",
+      "key_signal": "3대 산업군 내에서 실적 개선 및 기술 경쟁력을 확보한 기업을 선별하고, 투자 자금 유입의 지속 여부를 확인해야 합니다.",
       "keywords": [
-        "증시경고",
-        "워렌버핏",
-        "시장조정",
-        "리스크관리",
-        "금융위기"
+        "코스닥",
+        "코스피",
+        "반도체",
+        "바이오",
+        "이차전지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWQ2bXRVS1ZBNEtVUE52YXI5UmFlbFppRkRzTW1QTXAxbUZKNGZpMWVob3hmdG9sNlE1d3hSUDUtNnl5SDB2NDlPZk9tRWpMV0ZjM2M4UVZzTzhKbFRGMUVHYVdCSm5MSkV3SFFhc0tNVnBfVnM2MjY2dkx3NGJnZklRNEd4TW5GSEE?oc=5",
-      "published": "2026-06-03 18:11",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQc2hfb2Z5NWlKQnRRX1lucjZGZzhNZXpwUzdiQkE3OHhxaFNUWWF5SlFWU2d2eWp1OUFwbENPbk1oNG5TQ0I1cFJQS3ZiajBTUVRucm5kMHl6ZXlCOXlUdGVoZzAtWGw3TDdNM1RKbl_SAXRBVV95cUxNNEdROTMxTUltRXBZZlBsYlo2NTBKM2wtRU9GeFdBR0VLNjJGZF85eW9uYi1oNXhvTUVDaGVzSVRSNW8wZWZuZmlvMXpvcVQ4UVQtNUxneWJORXoydmxibXdQSklzeVNucTU4X2g5RVFhdGswdQ?oc=5",
+      "published": "2026-06-05 00:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정",
-      "display_title": "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정",
-      "original_title": "K-온디바이스 AI 반도체 예산 8000억 확정 - 디일렉",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "공매도 베팅 사상 최고치에도 시장은 트럼프-이란 협상 기대감에 상승",
+      "display_title": "공매도 베팅 사상 최고치에도 시장은 트럼프-이란 협상 기대감에 상승",
+      "original_title": "Short Sellers Are Betting Record Amounts Against Stocks. But the Market is Rallying On a Potential Deal Between Trump and Iran. - AOL.com",
       "summary": [
-        "한국 정부가 'K-온디바이스 AI 반도체' 기술 개발을 위해 8000억 원 규모의 예산을 확정하고 지원을 강화한다.",
-        "온디바이스 AI는 기기 자체에서 AI 연산을 수행하는 기술로, 고성능 저전력 반도체 수요를 촉진하며 AI 기술 패권 경쟁의 핵심 분야로 부상하고 있다.",
-        "정부의 대규모 예산 지원은 국내 온디바이스 AI 반도체 관련 기업들의 기술 개발 및 시장 경쟁력 강화에 큰 동력이 될 것이다."
+        "사상 최대 규모의 공매도 베팅에도 불구하고 주식 시장은 트럼프-이란 간의 잠재적 합의 가능성에 힘입어 상승세를 유지하고 있습니다.",
+        "지정학적 리스크 완화 기대감이 시장 심리에 긍정적으로 작용하며, 기록적인 공매도 포지션에도 불구하고 증시를 견인하고 있습니다.",
+        "정치적 이벤트와 지정학적 변화가 시장에 미치는 영향을 주시하고, 공매도 포지션과 상반되는 시장의 움직임을 분석하여 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "한국 정부가 'K-온디바이스 AI 반도체' 기술 개발을 위해 8000억 원 규모의 예산을 확정하고 지원을 강화한다. 온디바이스 AI는 기기 자체에서 AI 연산을 수행하는 기술로, 고성능 저전력 반도체 수요를 촉진하며 AI 기술 패권 경쟁의 핵심 분야로 부상하고 있다. 정부의 대규모 예산 지원은 국내 온디바이스 AI 반도체 관련 기업들의 기술 개발 및 시장 경쟁력 강화에 큰 동력이 될 것이다.",
-      "description": "한국 정부가 'K-온디바이스 AI 반도체' 기술 개발을 위해 8000억 원 규모의 예산을 확정했다.",
-      "category": "기업·산업",
-      "importance": 9,
+      "summary_text": "사상 최대 규모의 공매도 베팅에도 불구하고 주식 시장은 트럼프-이란 간의 잠재적 합의 가능성에 힘입어 상승세를 유지하고 있습니다. 지정학적 리스크 완화 기대감이 시장 심리에 긍정적으로 작용하며, 기록적인 공매도 포지션에도 불구하고 증시를 견인하고 있습니다. 정치적 이벤트와 지정학적 변화가 시장에 미치는 영향을 주시하고, 공매도 포지션과 상반되는 시장의 움직임을 분석하여 투자 전략을 수립해야 합니다.",
+      "description": "공매도 세력이 주식에 사상 최고치를 베팅하고 있지만, 트럼프 전 대통령과 이란 간의 잠재적 합의 가능성 기대감으로 시장은 상승세를 보이고 있습니다.",
+      "category": "증시·금리",
+      "importance": 7,
       "market_impact": "긍정",
-      "related_sector": "온디바이스AI, 반도체, 시스템반도체",
+      "related_sector": "글로벌 증시",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "리노공업",
-        "제주반도체"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "정부의 대규모 예산 투입은 국내 온디바이스 AI 반도체 산업의 성장을 가속화하고 관련 기업들의 실적에 긍정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "온디바이스 AI 반도체 관련 정부 정책 및 지원 사업의 구체적인 내용과 수혜 기업들을 면밀히 살펴야 한다.",
+      "investment_reason": "공매도 증가와 지정학적 요인의 긍정적 해석이 글로벌 증시 방향성을 결정하는 중요한 변수가 될 수 있기 때문입니다.",
+      "key_signal": "트럼프-이란 협상 관련 추가 보도와 글로벌 공매도 잔고 변화 추이를 확인해야 합니다.",
       "keywords": [
-        "온디바이스AI",
-        "AI반도체",
-        "정부예산",
-        "시스템반도체",
-        "K반도체"
+        "공매도",
+        "트럼프",
+        "이란",
+        "지정학",
+        "글로벌 증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrQ1dPNWxDblJfc19BazZiWm8zYU1TMVhSQ2U2bTlvcVp0MlhDcE1CTzVObnVaMFNES1NmY2drRHNPLUpPMVVDdFBLeG96Q05WUnQ0UFhrVzhYcUxNZmZxalRSVWZxUQ?oc=5",
-      "published": "2026-06-04 08:11",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQck9qZGlxY2lJdEZZWmpNMWY4bm5rWXFlQWkxUzAycUM1U2dzc0JJWm1RVkxoWDA5TmlmU2pCZWxvbGl1NHFZOWt4YVpGeUNWb2VYd3l2TXJVaGVXS0RaMEpBUDlscHFJNXFYQzlqVDREVEh6MjRhT1dQTjI3Qk5NaXlxVUpybWs?oc=5",
+      "published": "2026-06-04 09:40",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -197,37 +195,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "유가 급등 및 이란 긴장 고조로 다우지수 620포인트 하락",
-      "display_title": "유가 급등 및 이란 긴장 고조로 다우지수 620포인트 하락",
-      "original_title": "Dow drops 620 points as oil surge and Iran tensions hit stocks - TradingView",
+      "title": "증시 불안정 우려: 트럼프 대통령이 연준 의장을 어려운 상황에 몰아넣다",
+      "display_title": "증시 불안정 우려: 트럼프 대통령이 연준 의장을 어려운 상황에 몰아넣다",
+      "original_title": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot - AOL.com",
       "summary": [
-        "유가 급등과 이란을 둘러싼 지정학적 긴장 고조로 인해 미국 다우지수가 620포인트 하락했다.",
-        "국제 유가 상승은 기업 비용 증가와 소비 심리 위축을 야기하며, 지정학적 위험은 글로벌 불확실성을 증대시켜 투자 심리를 위축시킨다.",
-        "에너지 가격과 중동 지정학적 리스크는 글로벌 증시의 주요 변동성 요인으로, 국내 시장에도 간접적인 영향을 미칠 수 있으므로 주의가 필요하다."
+        "트럼프 대통령의 행동으로 연방준비제도(Fed) 의장이 난처한 입장에 놓이면서 주식 시장의 불안정성에 대한 우려가 커지고 있습니다.",
+        "정치적 압력은 연준의 독립성을 훼손하고 통화 정책의 불확실성을 증폭시켜 글로벌 증시에 부정적인 영향을 미칠 수 있습니다.",
+        "미국 대선을 앞두고 정치적 불확실성이 증시 변동성을 확대시킬 수 있으므로, 연준의 독립성 유지 여부와 시장 반응을 주의 깊게 모니터링해야 합니다."
       ],
-      "summary_text": "유가 급등과 이란을 둘러싼 지정학적 긴장 고조로 인해 미국 다우지수가 620포인트 하락했다. 국제 유가 상승은 기업 비용 증가와 소비 심리 위축을 야기하며, 지정학적 위험은 글로벌 불확실성을 증대시켜 투자 심리를 위축시킨다. 에너지 가격과 중동 지정학적 리스크는 글로벌 증시의 주요 변동성 요인으로, 국내 시장에도 간접적인 영향을 미칠 수 있으므로 주의가 필요하다.",
-      "description": "유가 급등과 이란과의 긴장 고조가 증시에 부정적인 영향을 미치며 다우지수가 620포인트 급락했다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "트럼프 대통령의 행동으로 연방준비제도(Fed) 의장이 난처한 입장에 놓이면서 주식 시장의 불안정성에 대한 우려가 커지고 있습니다. 정치적 압력은 연준의 독립성을 훼손하고 통화 정책의 불확실성을 증폭시켜 글로벌 증시에 부정적인 영향을 미칠 수 있습니다. 미국 대선을 앞두고 정치적 불확실성이 증시 변동성을 확대시킬 수 있으므로, 연준의 독립성 유지 여부와 시장 반응을 주의 깊게 모니터링해야 합니다.",
+      "description": "도널드 트럼프 대통령이 연방준비제도(Fed) 의장 케빈 워시를 어려운 상황에 처하게 하면서 주식 시장이 어려움에 처할 수 있다는 우려가 제기되고 있습니다.",
+      "category": "글로벌 경제",
+      "importance": 7,
       "market_impact": "부정",
-      "related_sector": "정유, 화학, 항공, 해운",
-      "related_stocks": [
-        "S-Oil",
-        "SK이노베이션",
-        "대한항공"
-      ],
+      "related_sector": "금융, 전 산업",
+      "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "국제 유가 상승과 지정학적 불안정은 국내 원자재 수입 기업 및 물류 관련 기업의 수익성에 직접적인 영향을 미치고 시장 전반의 변동성을 키울 수 있기 때문이다.",
-      "key_signal": "국제 유가 동향과 중동 지정학적 리스크 관련 뉴스를 면밀히 모니터링하여 국내 증시 및 관련 섹터에 미칠 영향을 예측해야 한다.",
+      "investment_reason": "미국 통화 정책의 독립성 훼손 가능성과 이로 인한 시장 불확실성 증가는 글로벌 증시에 큰 부담으로 작용할 수 있기 때문입니다.",
+      "key_signal": "트럼프 대통령의 연준에 대한 발언 수위 및 연준의 독립성 유지 노력, 그리고 시장 반응을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "유가급등",
-        "이란",
-        "지정학적리스크",
-        "다우지수",
-        "증시하락"
+        "트럼프",
+        "연준",
+        "통화 정책",
+        "정치적 불확실성",
+        "증시 불안정"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFB0YlFiMFg1SGk2M3pUOEZFNVNab05FaWN5dVNKdFZKV0NJUXNoaXdzRzhjWGZteEJDeEF6SGJJd3lGYWR5QWFzZXZBQVJCR01NRXdvVXJUMGU1TXdjVlJSXzFIaHhnZGhoQTRvbGhzdFdfcjZTRDFtWmlLNnNYMTVsYTZVMjQ2cDhmalNPRS04eS1zZU52NDJXYjRZRm5MUWg0YkRNWm5xbnctUXpaMW5fQjRiNUdNa2R3?oc=5",
-      "published": "2026-06-04 05:29",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPazA1d09uclJUdDVvM2Y1SFI5NkF2WkJ1MEZDc0Iwb3lNMC1xeWo5R3pkZTJidWZBck0zWnIyX0V2bGpPajc1UGttbkZaZ2NrV3NTR25KNlVZQ2xEZTJUSnR0YXlub2IwWTdUaGU3OC1qX1VQckhQMWlpUFBCQzJkUE1GRXo?oc=5",
+      "published": "2026-06-04 20:35",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -239,37 +233,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "경기 침체 위험 50% 육박, 은퇴자들이 방어적 투자 고려",
-      "display_title": "경기 침체 위험 50% 육박, 은퇴자들이 방어적 투자 고려",
-      "original_title": "Recession risk nears 50% as retirees weigh defensive moves - MSN",
+      "title": "새로운 AI 전력 관리 솔루션 출시 후 알파 앤 오메가 세미컨덕터(AOSL) 기업 가치 평가",
+      "display_title": "새로운 AI 전력 관리 솔루션 출시 후 알파 앤 오메가 세미컨덕터(AOSL) 기업 가치 평가",
+      "original_title": "Assessing Alpha And Omega Semiconductor (AOSL) Valuation After New AI Power Management Launches - Yahoo Finance",
       "summary": [
-        "경기 침체 위험이 거의 50%에 달하자 은퇴자들이 자산을 보호하기 위한 방어적인 투자 전략을 모색하고 있다.",
-        "높은 인플레이션, 금리 인상, 그리고 글로벌 경제의 불확실성이 복합적으로 작용하여 경기 침체 가능성이 높아지고 있다.",
-        "경기 침체 우려가 커짐에 따라 주식 시장의 변동성이 확대될 수 있으며, 투자자들은 포트폴리오의 방어력을 강화할 필요가 있다."
+        "알파 앤 오메가 세미컨덕터(AOSL)가 새로운 AI 전력 관리 솔루션을 출시하며 기업 가치 재평가에 대한 논의가 진행되고 있습니다.",
+        "AI 기술 발전으로 고성능 및 고효율 전력 관리 반도체의 중요성이 커지고 있으며, 관련 기업들의 성장 잠재력에 대한 기대가 높아지고 있습니다.",
+        "AI 산업 성장에 따른 핵심 부품 수요 증가와 관련 반도체 기업들의 투자 기회를 파악하고, 기술 경쟁력을 갖춘 기업을 주목해야 합니다."
       ],
-      "summary_text": "경기 침체 위험이 거의 50%에 달하자 은퇴자들이 자산을 보호하기 위한 방어적인 투자 전략을 모색하고 있다. 높은 인플레이션, 금리 인상, 그리고 글로벌 경제의 불확실성이 복합적으로 작용하여 경기 침체 가능성이 높아지고 있다. 경기 침체 우려가 커짐에 따라 주식 시장의 변동성이 확대될 수 있으며, 투자자들은 포트폴리오의 방어력을 강화할 필요가 있다.",
-      "description": "경기 침체 위험이 50%에 가까워지면서 은퇴자들이 자산 보호를 위한 방어적인 투자 전략을 고려하고 있다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "금융, 자산관리, 필수소비재",
+      "summary_text": "알파 앤 오메가 세미컨덕터(AOSL)가 새로운 AI 전력 관리 솔루션을 출시하며 기업 가치 재평가에 대한 논의가 진행되고 있습니다. AI 기술 발전으로 고성능 및 고효율 전력 관리 반도체의 중요성이 커지고 있으며, 관련 기업들의 성장 잠재력에 대한 기대가 높아지고 있습니다. AI 산업 성장에 따른 핵심 부품 수요 증가와 관련 반도체 기업들의 투자 기회를 파악하고, 기술 경쟁력을 갖춘 기업을 주목해야 합니다.",
+      "description": "새로운 AI 전력 관리 솔루션 출시 이후 알파 앤 오메가 세미컨덕터(AOSL)의 기업 가치를 평가하는 내용입니다.",
+      "category": "기업·산업",
+      "importance": 6,
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI, 전력 관리",
       "related_stocks": [
-        "삼성생명",
-        "KB금융",
-        "아모레퍼시픽"
+        "엔비디아",
+        "AMD"
       ],
-      "investment_view": "주의",
-      "investment_reason": "경기 침체 위험 증가는 기업 실적 악화 및 주식 시장 하락으로 이어질 수 있으므로, 보수적인 관점에서 시장을 분석하고 방어적 자산 배분을 고려해야 하기 때문이다.",
-      "key_signal": "글로벌 경기 침체 가능성과 이에 따른 투자자들의 심리 변화가 국내 시장에 미칠 영향을 지속적으로 주시해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 전력 관리 반도체는 AI 시장 성장의 필수 요소이며, 관련 기술력을 보유한 기업은 장기적 성장 동력을 가질 수 있기 때문입니다.",
+      "key_signal": "AOSL 신제품의 시장 반응 및 매출 기여도, 그리고 전력 반도체 시장의 경쟁 구도를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "경기침체",
-        "인플레이션",
-        "방어주",
-        "글로벌경제",
-        "투자전략"
+        "AI",
+        "반도체",
+        "전력 관리",
+        "AOSL",
+        "기업 가치"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWER0WnlHSFNwRFdWMHBTX1poM3ZzX2lEd3B3SXZ2Z0JZZDRrTTVWZXhyNlJOMFp1NjF0VUh1aHFTWkNjOVZ6a0hRN01ieC1ZbzVyOXZ6Q0R1czVhTjVNcExPYmp5bWZHdWJUMG9BdlpJdUdRY0VCbjRCOG5oRm92UGVidHF5VTgxdmt1cURpVjFhZ2FsdmRiWExZbEp1UjBtZVpJcmx0eXBJalBjcy1qUWN3NXlqdnQtUUpXZl9zcXJKeU00ZlZTNXpPcl9nVW1nYmJhdWJwX3hGS1llVERwOEJyeTZLYzd3bUFYLUJqcHE?oc=5",
-      "published": "2026-06-04 02:52",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW5vWUQ5cThHcDJ3d1RIZDU0eGk1c0ZxM2g0Mnp5cWRFOHptUHc4REhLd3dBVHptd3lReHVNWWhWVXlGUkZzYXZCOTFBZWhzRExhTVFZTHB1VG9FRnN4Q1RfUTVXaXJFd3EwRjdQVlNCRHJNejRHc25HU0h5QmpvcWdXNnA4Wk1KNzI2RG5SREdNeUFSVGF0bjFMLS1OOHppNmhReGNiMFA?oc=5",
+      "published": "2026-06-05 03:09",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -280,70 +273,64 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
+      "name": "HPSP",
+      "market": "KOSDAQ",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 반도체 시장 주도력과 국내 경제 성장률 상향의 핵심 동력으로 언급되며, 온디바이스 AI 개발 예산 확정으로 시스템반도체 부문 수혜도 기대됩니다.",
+      "reason": "코스닥 시장의 핵심 성장 동력인 반도체 섹터로의 자금 유입이 확인되고 있으며, AI 전력 관리 솔루션 등 반도체 기술 혁신 흐름에 대한 기대감이 커지고 있어 해당 분야의 국내 기업에 대한 관심이 필요합니다.",
       "check_points": [
-        "AI 반도체(HBM, 파운드리) 기술 개발 및 수주 상황",
-        "온디바이스 AI 관련 정부 정책 수혜 정도",
-        "전반적인 반도체 업황 및 국내 거시경제 지표"
+        "국내 반도체 섹터 전반의 수급 동향",
+        "AI 및 고성능 반도체 관련 신기술 개발 및 상용화 진행 상황"
       ],
       "related_news_titles": [
-        "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\"",
-        "OECD, 한국 반도체 성장에 놀라... 한국 성장률 1.7%에서 2.6%로 최대폭 상향",
-        "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정"
+        "[증시 프리즘] 코스피 하락 속 코스닥, 반도체·바이오·배터리 3대 핵심 산업으로 자금 유입",
+        "새로운 AI 전력 관리 솔루션 출시 후 알파 앤 오메가 세미컨덕터(AOSL) 기업 가치 평가"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "sector": "반도체",
+      "name": "에코프로비엠",
+      "market": "KOSDAQ",
+      "sector": "이차전지",
       "opinion": "관심",
-      "reason": "AI 반도체 시장의 핵심인 HBM 등 고부가가치 메모리 분야에서 독보적인 경쟁력을 인정받고 있으며, 한국 경제 성장의 주요 동력으로 지목됩니다.",
+      "reason": "코스닥 시장에서 이차전지 섹터가 반도체, 바이오와 함께 핵심 성장 동력으로 자금 유입이 이루어지고 있다는 소식은 개별 투자자들에게 중요한 기회를 제공할 수 있습니다.",
       "check_points": [
-        "HBM 생산 능력 확대 및 고객사 확보",
-        "고대역폭 메모리(HBM) 기술 리더십 유지 여부",
-        "글로벌 AI 반도체 수요 변화"
+        "글로벌 전기차 시장 성장률 및 이차전지 소재 수요 변화",
+        "주요 고객사 수주 상황 및 생산 능력 확장 계획"
       ],
       "related_news_titles": [
-        "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\"",
-        "OECD, 한국 반도체 성장에 놀라... 한국 성장률 1.7%에서 2.6%로 최대폭 상향",
-        "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정"
+        "[증시 프리즘] 코스피 하락 속 코스닥, 반도체·바이오·배터리 3대 핵심 산업으로 자금 유입"
       ]
     },
     {
       "rank": 3,
-      "name": "제주반도체",
-      "market": "KOSDAQ",
-      "sector": "반도체",
+      "name": "현대건설",
+      "market": "KOSPI",
+      "sector": "건설",
       "opinion": "관심",
-      "reason": "정부의 8000억 원 규모 온디바이스 AI 반도체 개발 예산 확정 소식으로, 관련 시스템반도체 기업으로서 직접적인 수혜 기대감이 높습니다.",
+      "reason": "서울시장 선거 결과가 향후 정부 및 서울시의 부동산 정책 변화를 유도할 수 있다는 분석에 따라, 국내 건설 및 부동산 개발 관련 업종에 대한 관심이 높아지고 있기 때문입니다.",
       "check_points": [
-        "온디바이스 AI 관련 신기술 개발 및 제품 출시",
-        "시스템반도체(PMIC 등) 매출 성장세 유지",
-        "정부 지원 정책의 실질적인 사업 연결 여부"
+        "서울시 및 정부의 부동산 정책 변화 구체화 여부",
+        "재건축/재개발 사업 추진 속도 및 신규 수주 동향"
       ],
       "related_news_titles": [
-        "K-온디바이스 AI 반도체 개발 예산 8000억 원 확정"
+        "서울시장 선거가 던진 핵심 메시지: '부동산'"
       ]
     },
     {
       "rank": 4,
-      "name": "한미반도체",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체 장비",
+      "sector": "반도체, IT",
       "opinion": "관심",
-      "reason": "AI 반도체 시장 성장의 핵심인 고대역폭 메모리(HBM) 생산에 필수적인 후공정 장비 공급 업체로, AI 반도체 주도 섹터의 수혜가 예상됩니다.",
+      "reason": "공매도 증가에도 불구하고 트럼프-이란 협상 기대감 등 긍정적 지정학적 요인이 글로벌 증시 방향성에 긍정적 영향을 미치고 있으며, 국내 대형 IT 및 반도체 섹터에 대한 투자 심리가 개선될 수 있기 때문입니다.",
       "check_points": [
-        "주요 고객사들의 HBM 투자 확대 여부",
-        "TC 본더 등 핵심 장비 수주 상황 및 경쟁력",
-        "AI 반도체 후공정 기술 트렌드 변화"
+        "글로벌 지정학적 리스크 완화 여부 및 증시 흐름",
+        "반도체 업황 회복 속도 및 메모리 반도체 가격 동향"
       ],
       "related_news_titles": [
-        "[비즈 인사이트] 삼성전자 시총 2100조·SK하이닉스 1680조... \"AI 반도체가 증시 권력 바꿨다\""
+        "공매도 베팅 사상 최고치에도 시장은 트럼프-이란 협상 기대감에 상승",
+        "[증시 프리즘] 코스피 하락 속 코스닥, 반도체·바이오·배터리 3대 핵심 산업으로 자금 유입"
       ]
     }
   ],
