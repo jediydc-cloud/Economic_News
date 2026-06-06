@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06 08:09",
-  "analysis_date": "2026-06-06",
+  "generated_at": "2026-06-07 08:04",
+  "analysis_date": "2026-06-07",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 증시는 강력한 고용 지표에 따른 연준의 금리 인상 우려와 AI 기술주 과열 논란으로 급락했습니다. 반면, 엔비디아 CEO 젠슨 황의 방한과 한국 사업 확대 발언은 국내 AI 및 반도체 산업에 긍정적인 기대감을 높였습니다.",
-    "국내거시경제": "미국 금리 인상 우려 증대는 국내 통화정책에도 부담으로 작용할 수 있으며, 전반적인 투자 심리 위축을 야기할 수 있습니다.",
-    "글로벌경제": "미국 고용시장의 견조함이 확인되며 연방준비제도(Fed)의 추가 금리 인상 및 고금리 장기화 우려가 커졌고, 이는 글로벌 경기 둔화 우려를 재점화하고 위험자산 선호 심리를 위축시키고 있습니다.",
-    "증시금리": "미국 다우존스, S&P 500, 나스닥 지수가 강력한 고용보고서와 연준의 금리 인상 가능성 증대로 급락했으며, 특히 AI 및 반도체 기술주가 연중 최대 낙폭을 기록했습니다. 이는 국내 증시, 특히 금리에 민감한 성장주와 반도체 섹터에 부정적인 영향을 미칠 수 있습니다.",
-    "부동산정책": "관련된 주요 뉴스는 없습니다.",
-    "기업산업": "엔비디아 CEO 젠슨 황이 한국에 4개 사업 분야 도입을 언급하고 국내 AI 리더들과 회동하며 한국 AI 생태계에 대한 높은 관심과 기대감을 높였습니다. 국내 반도체 후공정, AI 소프트웨어, 데이터센터 관련 기업들의 수혜가 예상되지만, 미국 증시에서 AI 및 반도체 관련주의 조정은 국내 관련 기업들의 단기 변동성을 키울 수 있습니다.",
-    "오늘의투자시사점": "미국 발 금리 인상 우려로 기술주 및 성장주 전반에 대한 보수적인 접근이 필요합니다. 젠슨 황의 발언으로 국내 AI 및 반도체 생태계는 긍정적 모멘텀을 얻었으나, 글로벌 기술주 조정에 따른 국내 관련주 변동성 확대 가능성을 염두에 두고 선별적인 접근과 위험 관리가 중요합니다.",
-    "오늘의한줄": "글로벌 금리 인상 압박으로 기술주가 조정받는 가운데, 젠슨 황 방한이 국내 AI·반도체 섹터에 역풍 속 기대를 불어넣고 있습니다."
+    "총평": "미 증시 기술주 약세와 국내 3고(고환율·고금리·고유가) 현상이 시장의 하방 압력으로 작용하는 가운데, 한국 경기선행지수 상승에도 실물경제 회복 지연 가능성에 주목해야 합니다.",
+    "국내거시경제": "한국 경기선행지수가 16개월 연속 상승하며 경기 회복 기대감을 높이나, 실물경제 회복까지는 시간이 걸릴 수 있습니다.",
+    "글로벌경제": "미국-이란 갈등이 글로벌 경제에 미치는 잠재적 영향에 대한 지속적인 모니터링이 요구됩니다.",
+    "증시금리": "미국 고용지표 발표 후 기술주 매도세로 나스닥이 4% 하락했으며, 국내는 환율이 외환위기 후 최고치를 기록하고 대출금리 상승 압력이 지속되는 등 '3고' 현상이 심화되고 있습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
+    "오늘의투자시사점": "해외 기술주 약세와 국내 3고 압력으로 시장 변동성이 커질 수 있습니다. 경기 회복 기대감에도 실물경제 지연 가능성을 고려하여, 변동성에 강한 방어적 자산과 '3고' 환경에 대응 가능한 대안주에 관심을 두는 것이 현명합니다.",
+    "오늘의한줄": "글로벌 기술주 약세와 국내 3고 압력 속, 방어적 접근과 대안주 발굴이 중요한 하루입니다."
   },
   "top_news": [
     {
@@ -28,209 +28,200 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 급락, 강력한 고용보고서와 금리 인상 전망에 다우존스, S&P 500, 나스닥 크게 하락",
-      "display_title": "미국 증시 급락, 강력한 고용보고서와 금리 인상 전망에 다우존스, S&P 500, 나스닥 크게 하락",
-      "original_title": "Why is the US stock market down today? Dow Jones, S&P 500 and Nasdaq crash big as strong jobs report, risi - The Economic Times",
+      "title": "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff - eciks.org",
+      "display_title": "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff - eciks.org",
+      "original_title": "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff - eciks.org",
       "summary": [
-        "미국 증시(다우존스, S&P 500, 나스닥)가 강력한 고용보고서 발표 후 금리 인상 가능성 증대에 크게 하락했다.",
-        "예상보다 견조한 고용 지표는 연방준비제도(Fed)가 인플레이션 억제를 위해 금리를 더 오래 높게 유지할 것이라는 시장의 우려를 키웠다.",
-        "금리 인상에 민감한 기술주 중심의 성장주에 대한 투자 심리 위축이 예상되며, 국내 증시에도 부정적 영향이 우려된다."
+        "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff - eciks.org",
+        "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff eciks.org",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "미국 증시(다우존스, S&P 500, 나스닥)가 강력한 고용보고서 발표 후 금리 인상 가능성 증대에 크게 하락했다. 예상보다 견조한 고용 지표는 연방준비제도(Fed)가 인플레이션 억제를 위해 금리를 더 오래 높게 유지할 것이라는 시장의 우려를 키웠다. 금리 인상에 민감한 기술주 중심의 성장주에 대한 투자 심리 위축이 예상되며, 국내 증시에도 부정적 영향이 우려된다.",
-      "description": "강력한 고용보고서와 금리 인상 전망으로 인해 미국 증시가 하락하며 다우존스, S&P 500, 나스닥이 크게 떨어졌다.",
+      "summary_text": "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff - eciks.org Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff eciks.org 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff eciks.org",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 5,
       "market_impact": "부정",
-      "related_sector": "기술주, 성장주",
+      "related_sector": "금융/증권",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 금리 인상 전망은 국내 증시와 환율에 직접적인 영향을 미칠 수 있어 시장 전반의 변동성 확대에 대비해야 한다.",
-      "key_signal": "다음 FOMC 회의에서 연준의 금리 정책 스탠스와 고용 지표 추이를 면밀히 주시해야 한다.",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "미국증시",
-        "금리인상",
-        "고용보고서",
-        "인플레이션",
-        "연준"
+        "as",
+        "eciks",
+        "falls",
+        "jobs"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQeFlfTGstaEk4U1hfNVhkN3NXczZ1OFdqTnczNEdSOENrUktaWUtSZUFUekRQLWlNbUNvYlFnVFluRDlhYmVDaWZwbnJSTFVvazFEU1AydGxBVkcxcWNDZ2U2RFV0NW9abkdjOS13cms2bVpUMThlN0FWdTM4UlZ0MjFXZEg5RnFaOFowRWVMQmFFN0VYLS1SRy1udmZndWU0blJQTGN1MW84d2NreTl2dkNtZGtCNGkxbGRUWnFwYTdtMlZnZHVYZGxaT0lkS3hVdGE5bjQzZEppV0NGcWM5Rll2T0Z4dGJpcHdRNkJ1dnMzRm5ISTFPQVNBaHlwbHp2NTBiY3RwUTZSQXBBZzFnYmhzbnRZRC1LdF94eF9yeW1mbVFUV3dZa1BLdWRSc1hJbWotelg2cGFSNnB3dG05TWxkeE5wdzgwbXVPTzF3ZGF0eFZ6ekVsZUFHZFFibVJrdTRnY0tRTmo3a3J6SDNUMU1sR1MybHV2UFRBWEJvbUExN2FsSzA2M1M3TFhDV1JHR1l1VNIBlANBVV95cUxQeFlfTGstaEk4U1hfNVhkN3NXczZ1OFdqTnczNEdSOENrUktaWUtSZUFUekRQLWlNbUNvYlFnVFluRDlhYmVDaWZwbnJSTFVvazFEU1AydGxBVkcxcWNDZ2U2RFV0NW9abkdjOS13cms2bVpUMThlN0FWdTM4UlZ0MjFXZEg5RnFaOFowRWVMQmFFN0VYLS1SRy1udmZndWU0blJQTGN1MW84d2NreTl2dkNtZGtCNGkxbGRUWnFwYTdtMlZnZHVYZGxaT0lkS3hVdGE5bjQzZEppV0NGcWM5Rll2T0Z4dGJpcHdRNkJ1dnMzRm5ISTFPQVNBaHlwbHp2NTBiY3RwUTZSQXBBZzFnYmhzbnRZRC1LdF94eF9yeW1mbVFUV3dZa1BLdWRSc1hJbWotelg2cGFSNnB3dG05TWxkeE5wdzgwbXVPTzF3ZGF0eFZ6ekVsZUFHZFFibVJrdTRnY0tRTmo3a3J6SDNUMU1sR1MybHV2UFRBWEJvbUExN2FsSzA2M1M3TFhDV1JHR1l1VA?oc=5",
-      "published": "2026-06-06 02:41",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GcXpIX3RNbl9oQW96cm4yNkk4V2Nvc2w2blNVRE5xMnphUm5LYkJZdTNOTVpvMlJ4WWxfcDFLUS1pazVWY3BkWXctRWkydDdoWVhJMlhhWURKOTJVcUpIM2luN1hNejBEYVhzejlncmh2NF91?oc=5",
+      "published": "2026-06-07 03:38",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "젠슨 황 \"한국에 4개 사업 가져왔다\"…엔비디아發 AI 특수 기대감↑",
-      "display_title": "젠슨 황 \"한국에 4개 사업 가져왔다\"…엔비디아發 AI 특수 기대감↑",
-      "original_title": "젠슨 황 “한국에 4개 사업 가져왔다”…엔비디아發 AI 특수 기대감↑ - 인더뉴스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "The U.S. war on Iran pushing global economy to the brink - The Financial Express",
+      "display_title": "The U.S. war on Iran pushing global economy to the brink - The Financial Express",
+      "original_title": "The U.S. war on Iran pushing global economy to the brink - The Financial Express",
       "summary": [
-        "엔비디아 CEO 젠슨 황이 한국에 4가지 새로운 사업 분야를 도입했다고 밝히며, 국내 AI 산업에 대한 엔비디아발 특수 기대감을 높였다.",
-        "엔비디아는 AI 칩 시장의 선두 주자로서, 한국과의 협력 확대는 국내 반도체, IT 인프라, AI 솔루션 등 다양한 산업에 긍정적인 파급 효과를 가져올 수 있다.",
-        "엔비디아와의 협력 가능성이 높은 국내 반도체 후공정, AI 소프트웨어, 데이터센터 관련 기업들의 수혜가 예상된다."
+        "The U.S.",
+        "war on Iran pushing global economy to the brink The Financial Express",
+        "글로벌 경제 관점에서 후속 흐름을 지켜볼 필요가 있습니다."
       ],
-      "summary_text": "엔비디아 CEO 젠슨 황이 한국에 4가지 새로운 사업 분야를 도입했다고 밝히며, 국내 AI 산업에 대한 엔비디아발 특수 기대감을 높였다. 엔비디아는 AI 칩 시장의 선두 주자로서, 한국과의 협력 확대는 국내 반도체, IT 인프라, AI 솔루션 등 다양한 산업에 긍정적인 파급 효과를 가져올 수 있다. 엔비디아와의 협력 가능성이 높은 국내 반도체 후공정, AI 소프트웨어, 데이터센터 관련 기업들의 수혜가 예상된다.",
-      "description": "엔비디아 CEO 젠슨 황이 한국에 4가지 사업 기회를 가져왔다고 언급하며, 엔비디아발 AI 특수 효과에 대한 기대감이 높아지고 있다.",
-      "category": "기업·산업",
-      "importance": 10,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 인공지능(AI), 데이터센터, 클라우드",
-      "related_stocks": [
-        "SK하이닉스",
-        "삼성전자",
-        "한미반도체"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "AI 시장의 핵심 기업인 엔비디아의 한국 투자 확대는 국내 관련 산업의 성장 모멘텀을 강화하고 새로운 투자 기회를 창출할 수 있다.",
-      "key_signal": "젠슨 황 CEO가 언급한 4가지 사업 분야의 구체적인 내용과 함께 엔비디아의 국내 투자 및 협력 파트너사 발표를 면밀히 주시해야 한다.",
+      "summary_text": "The U.S. war on Iran pushing global economy to the brink The Financial Express 글로벌 경제 관점에서 후속 흐름을 지켜볼 필요가 있습니다.",
+      "description": "The U.S. war on Iran pushing global economy to the brink The Financial Express",
+      "category": "글로벌 경제",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "시장 전반",
+      "related_stocks": [],
+      "investment_view": "중립",
+      "investment_reason": "글로벌 경기와 지정학 변수는 국내 증시와 수출주에 연쇄적으로 영향을 줄 수 있습니다.",
+      "key_signal": "미국·중국 등 주요국 거시 변수와 지정학 리스크 확인",
       "keywords": [
-        "젠슨황",
-        "엔비디아",
-        "AI",
-        "한국투자",
-        "반도체"
+        "brink",
+        "economy",
+        "express",
+        "financial"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uTGRPU0NiR1I4aE9QMHRUX3J1dmxqTkdpV2JZMzR0MWljRk00azJpVWo2d2tCajFNcWxHZTNrbUIyOGlYZUhhTVNvTW1PQk5HbEZpd2NTTjZ2MnB5TTV0TUtvUHA?oc=5",
-      "published": "2026-06-05 23:37",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ28tWWtPdzhKN0pOQ2xsN3JITlBObHBYMjRDUFk4NE51MkVTMC1pVXV1eTd1TVRwMWhRNmJpQ3dqTkRLa01VRlJJUEppbjZfTFhUcU00RkdUY2ZKb25ieTk1ajBFV2k1LXU3R0d2Nlptb2xTZmtRNnc2cUtkeW9CYXI2dGNvU0NOdzQxZEdvWk9RZkF3ODY5VkNMZ0hnMFpNUVo0?oc=5",
+      "published": "2026-06-07 02:57",
       "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "나스닥, AI 약세 및 연준 금리 인상 가능성 상승에 4% 하락하며 연중 최악의 날 기록",
-      "display_title": "나스닥, AI 약세 및 연준 금리 인상 가능성 상승에 4% 하락하며 연중 최악의 날 기록",
-      "original_title": "Nasdaq sinks 4% and has worst day in a year on AI weakness, rising odds for Fed rate hike - WKOW",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는? - 매일경제 마켓",
+      "display_title": "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는? - 매일경제 마켓",
+      "original_title": "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는? - 매일경제 마켓",
       "summary": [
-        "나스닥 지수가 AI 관련 종목의 약세와 연준의 금리 인상 가능성 상승으로 4% 하락하며 연중 가장 큰 폭의 일일 낙폭을 기록했다.",
-        "AI 기술주의 과열 우려와 함께 강한 고용보고서로 인한 연준의 매파적 스탠스 강화 가능성이 투자 심리를 위축시켰다.",
-        "AI 관련 성장주에 대한 조정이 지속될 수 있으며, 금리 인상 환경에서 밸류에이션 부담이 큰 기술주 투자에 신중해야 한다."
+        "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는?",
+        "매일경제 마켓",
+        "증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다."
       ],
-      "summary_text": "나스닥 지수가 AI 관련 종목의 약세와 연준의 금리 인상 가능성 상승으로 4% 하락하며 연중 가장 큰 폭의 일일 낙폭을 기록했다. AI 기술주의 과열 우려와 함께 강한 고용보고서로 인한 연준의 매파적 스탠스 강화 가능성이 투자 심리를 위축시켰다. AI 관련 성장주에 대한 조정이 지속될 수 있으며, 금리 인상 환경에서 밸류에이션 부담이 큰 기술주 투자에 신중해야 한다.",
-      "description": "나스닥 지수가 AI 관련 종목의 약세와 연방준비제도(Fed)의 금리 인상 가능성 증대로 4% 급락하며 연중 최악의 하루를 보냈다.",
+      "summary_text": "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는? 매일경제 마켓 증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다.",
+      "description": "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는? 매일경제 마켓",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "인공지능(AI), 반도체, 기술주",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "금융/증권",
       "related_stocks": [
-        "엔비디아",
-        "AMD",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "AI 관련주의 조정은 국내 AI 및 반도체 관련 기업에도 영향을 미칠 수 있어 투자 포트폴리오 점검이 필요하다.",
-      "key_signal": "주요 AI 기업들의 실적 발표와 연준의 금리 정책 변화에 대한 시장의 반응을 주시해야 한다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "나스닥",
-        "AI주",
-        "금리인상",
-        "기술주",
-        "연준"
+        "3고",
+        "고금리",
+        "고유가",
+        "고환율"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQTh5SlQyVUtKOWVBZzFSZXJSZF9WNDZiTXZ4TEF1UzFsUVM5MjljZ1hnMV8wUlBmODdaVC05OVRNUDhqc3M5UlNfbnVVcF94WEFxUHQyR0tkN0o2UWE2WC14YlZwX2NjM2IxYUtUS2FNMVEyZzFTeTFHOE1XenllUmZWYWtaazU5ZER2dGd1a2xWc29jY29jdTUzVEpUWUJDNTBNc0Y4N200WVAtSkhaMW5kU1VhcG1DQ1NNU1dnZHZNRHpuOGExWkkwQkhwN0FqOVowRV9UdTJuVWJWU0FDV2dCTmhWT3hzTUE?oc=5",
-      "published": "2026-06-06 04:43",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDMWtyWEVGbzJnNUFxb192dm5aQnJiS1p1MXA0SDBpTnh3cV9lWGR0bTlHb2lxNU5HbEsxWTI1X3JOYUptc1JmWWRiT0U4SDVhZEE?oc=5",
+      "published": "2026-06-07 07:30",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문한국어",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "나스닥, S&P 500, AI 주식 폭락 및 연준 금리 인상 가능성 상승에 연중 최악의 날 기록",
-      "display_title": "나스닥, S&P 500, AI 주식 폭락 및 연준 금리 인상 가능성 상승에 연중 최악의 날 기록",
-      "original_title": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise - CNN",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대 - 매일경제 마켓",
+      "display_title": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대 - 매일경제 마켓",
+      "original_title": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대 - 매일경제 마켓",
       "summary": [
-        "나스닥과 S&P 500 지수가 AI 관련 주식의 급락과 연준의 금리 인상 가능성 증대로 인해 연중 최악의 일일 하락률을 기록했다.",
-        "AI 기술주의 고평가 논란과 함께 강력한 경제 지표가 연준의 매파적 기조를 강화할 것이라는 우려가 복합적으로 작용했다.",
-        "AI 주도 성장주에 대한 투자 열기가 식을 수 있으며, 기술주 중심의 포트폴리오를 보유한 투자자는 위험 관리가 필요하다."
+        "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대 - 매일경제 마켓",
+        "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대 매일경제 마켓",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "나스닥과 S&P 500 지수가 AI 관련 주식의 급락과 연준의 금리 인상 가능성 증대로 인해 연중 최악의 일일 하락률을 기록했다. AI 기술주의 고평가 논란과 함께 강력한 경제 지표가 연준의 매파적 기조를 강화할 것이라는 우려가 복합적으로 작용했다. AI 주도 성장주에 대한 투자 열기가 식을 수 있으며, 기술주 중심의 포트폴리오를 보유한 투자자는 위험 관리가 필요하다.",
-      "description": "AI 관련 주식의 폭락과 연방준비제도(Fed)의 금리 인상 가능성 상승으로 나스닥과 S&P 500 지수가 연중 최악의 하루를 보냈다.",
+      "summary_text": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대 - 매일경제 마켓 외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대 매일경제 마켓 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대 매일경제 마켓",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "인공지능(AI), 반도체, 기술주",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "금융/증권",
       "related_stocks": [
-        "엔비디아",
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 AI 기술주의 조정은 국내 반도체 및 AI 관련 기업들의 주가에도 하방 압력으로 작용할 수 있다.",
-      "key_signal": "주요 AI 관련 기업들의 주가 흐름과 기술주 전반의 투자심리 변화를 지속적으로 모니터링해야 한다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "나스닥",
-        "S&P500",
-        "AI주",
-        "금리인상",
-        "기술주"
+        "2분기",
+        "620원대",
+        "공항선",
+        "마켓"
       ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ?oc=5",
-      "published": "2026-06-06 02:08",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HTGZjTW45bXI3YnJFT1hzZUdHbklSajAxQXRweVlPc3c4T2g3NzhqaFl6c0ZZeWxIcWRTcXliZm1GUkRscGVnd0FQQlZJa2Jjd1E?oc=5",
+      "published": "2026-06-07 05:51",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문한국어",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "나스닥, 반도체 주식 하락에 10월 이후 최대 낙폭인 3% 이상 급락",
-      "display_title": "나스닥, 반도체 주식 하락에 10월 이후 최대 낙폭인 3% 이상 급락",
-      "original_title": "Nasdaq slumps over 3% in biggest drop since October as chip stocks sink - CNBC TV18",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉 - 매일경제 마켓",
+      "display_title": "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉 - 매일경제 마켓",
+      "original_title": "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉 - 매일경제 마켓",
       "summary": [
-        "나스닥 지수가 3% 이상 급락하며 지난해 10월 이후 최대 일일 낙폭을 기록했으며, 이는 반도체 관련 주식의 하락세가 주요 원인으로 지목된다.",
-        "AI 기술주 및 반도체 섹터에 대한 과열 우려와 함께 전반적인 금리 인상 기조가 기술주에 대한 투자 심리를 악화시켰다.",
-        "국내 증시에서 큰 비중을 차지하는 반도체 관련주에 대한 투자 심리에 부정적인 영향을 미칠 수 있어 주의가 필요하다."
+        "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉 - 매일경제 마켓",
+        "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉 매일경제 마켓",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "나스닥 지수가 3% 이상 급락하며 지난해 10월 이후 최대 일일 낙폭을 기록했으며, 이는 반도체 관련 주식의 하락세가 주요 원인으로 지목된다. AI 기술주 및 반도체 섹터에 대한 과열 우려와 함께 전반적인 금리 인상 기조가 기술주에 대한 투자 심리를 악화시켰다. 국내 증시에서 큰 비중을 차지하는 반도체 관련주에 대한 투자 심리에 부정적인 영향을 미칠 수 있어 주의가 필요하다.",
-      "description": "반도체 주식의 하락으로 나스닥 지수가 3% 넘게 급락하며 지난해 10월 이후 가장 큰 하락폭을 기록했다.",
+      "summary_text": "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉 - 매일경제 마켓 기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉 매일경제 마켓 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉 매일경제 마켓",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "반도체, 기술주",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "금융/증권",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "나스닥과 반도체 주식의 하락은 국내 주력 산업인 반도체 섹터의 투자심리에 직접적인 영향을 미치기 때문에 주의 깊게 살펴봐야 한다.",
-      "key_signal": "미국 주요 반도체 기업들의 실적 및 가이던스 변화와 국내 반도체 관련주의 수급 동향을 집중적으로 살펴야 한다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "나스닥",
-        "반도체주",
-        "기술주",
-        "금리인상",
-        "AI"
+        "33",
+        "기준금리",
+        "대출금리",
+        "마켓"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMjRJbXhkbXZDbF9lakREMEI0MHYwejljT0FVa2JTNzVJMVdoVk5raXpBeDlSZlJSa2VTTlA4Vkl1cmYwV2J5WUZxbkNNUVZGU1lzT0J3UmdVYzZEMXl0dVJ5U1hTblFnLVJFZ2tnMGNkNDhaOW9ZbU1zOENTYUtyQjRySEZtMkF2TWtiODFhWFFFbGJzSUhQRWxqUndlbUFiTW5OOVBjeEVENFFRTVNkddIBtgFBVV95cUxPMzRiTU41RDdOQXRHM0NYWEx4VUJpOEdKM0JPdWZod1RjZGJfVjAyVXEyM09fMkRRZzE3U0ZmZjNBMDM1QS1Za1hJM1lZWVFqc2VKSndKZmFLemtaOUlyd3V0RXdjbTZOQjZhM2lKX2N1bS1jZWc5cHVTb1gyVzlrRTlfYmVhbERmeURjMjBWQ3kwTWUzWjhUc1FRYVRPU3E3SlpRdTViOXNrekJwTWxMNEZkSDNUUQ?oc=5",
-      "published": "2026-06-05 23:12",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ULVUwWFBNYmZrcm9NaldqZ0FRR081ekoxb1l5dWxwVDZLTVZsQzNodHhRQjNycUxaZWxabWJpOFRqbVVVb1dRUVF0aDBTS2tQWkE?oc=5",
+      "published": "2026-06-07 05:45",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문한국어",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -238,110 +229,80 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "젠슨 황 '삼겹살 회동'... 홍대에 모인 AI 거물들",
-      "display_title": "젠슨 황 '삼겹살 회동'... 홍대에 모인 AI 거물들",
-      "original_title": "젠슨 황 '삼겹살 회동'... 홍대에 모인 AI 거물들 > 뉴스 - 지데일리",
+      "title": "한국 경기선행지수 16개월 상승, 회복세 속 실물경제 회복은 지연 - tokenpost.kr",
+      "display_title": "한국 경기선행지수 16개월 상승, 회복세 속 실물경제 회복은 지연 - tokenpost.kr",
+      "original_title": "한국 경기선행지수 16개월 상승, 회복세 속 실물경제 회복은 지연 - tokenpost.kr",
       "summary": [
-        "엔비디아 CEO 젠슨 황이 홍대에서 국내 AI 산업의 주요 리더들과 비공식 회동을 가졌으며, 이는 한국 AI 생태계에 대한 높은 관심을 시사한다.",
-        "이번 만남은 한국의 AI 기술력과 산업 기반을 확인하고, 향후 엔비디아와의 협력 방안을 논의하기 위한 자리로 풀이된다.",
-        "젠슨 황의 방한과 주요 인사들과의 만남은 국내 AI 관련 기업들의 투자 유치 및 사업 확장에 긍정적인 신호가 될 수 있다."
+        "한국 경기선행지수 16개월 상승, 회복세 속 실물경제 회복은 지연 - tokenpost.kr",
+        "한국 경기선행지수 16개월 상승, 회복세 속 실물경제 회복은 지연 tokenpost.kr",
+        "국내 거시경제 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "엔비디아 CEO 젠슨 황이 홍대에서 국내 AI 산업의 주요 리더들과 비공식 회동을 가졌으며, 이는 한국 AI 생태계에 대한 높은 관심을 시사한다. 이번 만남은 한국의 AI 기술력과 산업 기반을 확인하고, 향후 엔비디아와의 협력 방안을 논의하기 위한 자리로 풀이된다. 젠슨 황의 방한과 주요 인사들과의 만남은 국내 AI 관련 기업들의 투자 유치 및 사업 확장에 긍정적인 신호가 될 수 있다.",
-      "description": "엔비디아 CEO 젠슨 황이 홍대에서 국내 AI 산업의 주요 인사들과 삼겹살 회동을 가졌으며, 이는 AI 분야의 중요한 만남으로 평가된다.",
-      "category": "기업·산업",
-      "importance": 8,
+      "summary_text": "한국 경기선행지수 16개월 상승, 회복세 속 실물경제 회복은 지연 - tokenpost.kr 한국 경기선행지수 16개월 상승, 회복세 속 실물경제 회복은 지연 tokenpost.kr 국내 거시경제 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "한국 경기선행지수 16개월 상승, 회복세 속 실물경제 회복은 지연 tokenpost.kr",
+      "category": "국내 거시경제",
+      "importance": 5,
       "market_impact": "긍정",
-      "related_sector": "인공지능(AI), 반도체, IT 서비스",
-      "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성SDS"
-      ],
+      "related_sector": "시장 전반",
+      "related_stocks": [],
       "investment_view": "관심",
-      "investment_reason": "엔비디아 CEO의 적극적인 한국 방문 및 국내 주요 인사들과의 교류는 AI 분야에서 한국의 위상과 잠재력을 높이는 계기가 될 수 있다.",
-      "key_signal": "젠슨 황과의 회동에 참석한 국내 기업 및 인사들의 향후 행보와 발표될 수 있는 협력 프로젝트 내용을 주목해야 한다.",
+      "investment_reason": "국내 경기와 물가, 수출 흐름은 실적 민감 업종과 정책 방향에 연결되므로 투자 판단의 기초 자료가 됩니다.",
+      "key_signal": "국내 경기지표와 정책 대응 속도 점검",
       "keywords": [
-        "젠슨황",
-        "엔비디아",
-        "AI산업",
-        "한국방문",
-        "협력"
+        "16개월",
+        "kr",
+        "tokenpost",
+        "경기선행지수"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yd2FyRlZDeVB3SVJYZjR4ajZpLXVRVGlaS0pLVnhqVDZRTU5WYWRyelUzYklFemdYbW1iMW1XcHdWWWJYcWtoNWJmbkVHc0VZSkd4LUdUYnVVMnpZZURfZnR2cEluaTNMY0hlZw?oc=5",
-      "published": "2026-06-05 20:28",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53RktZNXJYY2Zaeno4elZnQnFGZ3NOcUlVZVZXNWQzNG9SVEZEQ2dOZWgtM18wT09IRklEcWN6N093bmtZU0M5U2pWZHAzQXNYbjFYN1hNTdIBXEFVX3lxTE55bTFEU2U5NjVGZnVIVDk5bWlCNnFDdkVsLWFKSThGN29URjYwVndFWEVCbExYZWJkTHczbkEwd0p3Y2dkb045VWZJMHFZekNWRkl6aWtsSkZ0d1lB?oc=5",
+      "published": "2026-06-07 06:52",
       "quality": {
         "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     }
   ],
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "젠슨 황 엔비디아 CEO의 한국 투자 확대 소식은 국내 반도체 산업에 긍정적인 기대감을 높이지만, 동시에 미국 증시의 AI 및 기술주 하락은 단기적인 하방 압력으로 작용할 수 있어 양방향의 모멘텀을 주시해야 합니다.",
+      "name": "미래에셋증권",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "금융/증권",
+      "opinion": "주의",
+      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "미국 금리 인상 전망 및 AI 기술주 추가 조정 여부",
-        "엔비디아의 한국 사업 구체화 및 파트너십 동향",
-        "글로벌 메모리 반도체 업황 회복 속도"
+        "금리 방향성과 시장 유동성 흐름 확인"
       ],
       "related_news_titles": [
-        "젠슨 황 \"한국에 4개 사업 가져왔다\"…엔비디아發 AI 특수 기대감↑",
-        "나스닥, AI 약세 및 연준 금리 인상 가능성 상승에 4% 하락하며 연중 최악의 날 기록",
-        "나스닥, S&P 500, AI 주식 폭락 및 연준 금리 인상 가능성 상승에 연중 최악의 날 기록"
+        "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff - eciks.org"
       ]
     },
     {
       "rank": 2,
-      "name": "한미반도체",
-      "market": "KOSPI",
-      "sector": "반도체 장비",
-      "opinion": "관심",
-      "reason": "AI 반도체 시장 성장에 필수적인 고대역폭 메모리(HBM) 생산 공정의 핵심 장비 기업으로서 엔비디아의 한국 투자 확대에 따른 직접적인 수혜가 기대됩니다. 다만, 글로벌 반도체 주식 전반의 조정 압력도 함께 고려해야 할 시점입니다.",
+      "name": "한국금융지주",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "금융/증권",
+      "opinion": "주의",
+      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "AI 반도체 생산 설비 투자 확대 여부",
-        "주요 고객사의 HBM 수요 변화",
-        "글로벌 반도체 지수 및 경쟁 동향"
+        "금리 방향성과 시장 유동성 흐름 확인"
       ],
       "related_news_titles": [
-        "젠슨 황 \"한국에 4개 사업 가져왔다\"…엔비디아發 AI 특수 기대감↑",
-        "나스닥, 반도체 주식 하락에 10월 이후 최대 낙폭인 3% 이상 급락"
+        "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff - eciks.org"
       ]
     },
     {
       "rank": 3,
-      "name": "네이버",
-      "market": "KOSPI",
-      "sector": "IT 서비스",
-      "opinion": "관심",
-      "reason": "엔비디아 CEO 젠슨 황의 국내 AI 거물들과의 회동 소식은 국내 IT 서비스 기업들의 AI 분야 성장 잠재력을 부각시키고 있습니다. 네이버의 자체 AI 기술 및 클라우드 사업 경쟁력에 대한 기대감을 높일 수 있습니다.",
-      "check_points": [
-        "자체 AI 모델(하이퍼클로바X) 개발 및 상용화 진행 상황",
-        "클라우드 및 데이터센터 사업 확장 가시화",
-        "미국 금리 인상에 따른 성장주 투자 심리 변화"
-      ],
-      "related_news_titles": [
-        "젠슨 황 '삼겹살 회동'... 홍대에 모인 AI 거물들"
-      ]
-    },
-    {
-      "rank": 4,
       "name": "NH투자증권",
-      "market": "KOSPI",
-      "sector": "증권",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "금융/증권",
       "opinion": "주의",
-      "reason": "미국 증시의 급락과 금리 인상 가능성 상승은 국내 증시 전반의 변동성을 확대시키고 투자 심리를 위축시킬 수 있습니다. 이는 증권업종의 실적에 직접적인 영향을 미칠 수 있으므로 신중한 접근이 필요합니다.",
+      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "미국 금리 인상 속도 및 폭에 대한 시장의 반응",
-        "국내외 증시의 추가적인 변동성 확대 여부",
-        "개인 투자자들의 거래대금 변화 추이"
+        "금리 방향성과 시장 유동성 흐름 확인"
       ],
       "related_news_titles": [
-        "미국 증시 급락, 강력한 고용보고서와 금리 인상 전망에 다우존스, S&P 500, 나스닥 크게 하락"
+        "Stock market news: Nasdaq falls 4% as jobs report sparks tech selloff - eciks.org"
       ]
     }
   ],
