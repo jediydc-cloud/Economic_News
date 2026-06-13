@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13 08:17",
-  "analysis_date": "2026-06-13",
+  "generated_at": "2026-06-14 08:04",
+  "analysis_date": "2026-06-14",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 경기 둔화 경고음에도 국내 시장은 환율 안정 및 외국인 매수세 유입으로 일부 긍정적 흐름을 보이고 있습니다.",
-    "국내거시경제": "원·달러 환율이 하락하며 1510원대로 안정화되었고, 외국인 투자자의 25거래일 만의 순매수 전환이 국내 증시에 긍정적 영향을 미쳤습니다.",
-    "글로벌경제": "세계은행은 2020년대가 '잃어버린 10년'이 될 수 있다고 경고했으며, 월가의 중요 인플레이션 보고서와 미국 국채 수익률 움직임은 글로벌 경제의 불확실성을 가중시키고 있습니다.",
-    "증시금리": "미-이란 종전 기대감으로 국내 증시(코스피)는 8천선을 탈환했으나, 해외에서는 인플레이션 보고서와 국채 수익률 상승이 증시 하방 압력으로 작용할 수 있어 주의가 필요합니다. 또한, 역사적으로 희귀한 시장 현상 출현으로 변동성 확대 가능성이 제기됩니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
-    "오늘의투자시사점": "글로벌 경제의 장기 저성장 경고와 인플레이션 우려 속에서 포트폴리오의 방어적 전략을 유지해야 합니다. 다만, 국내 증시의 외국인 자금 유입 조짐은 긍정적 기회가 될 수 있으므로, 국내 대형주 중심의 관심이 필요합니다.",
-    "오늘의한줄": "글로벌 리스크는 여전하나 국내 증시는 외국인 매수세와 환율 안정에 힘입어 회복 기미를 보이고 있습니다."
+    "총평": "글로벌 인플레이션 변화와 강력한 고용 지표는 금리 인상 우려를 키우며, 중동 리스크는 국내 고물가·고용 둔화 압력을 높이고 있습니다.",
+    "국내거시경제": "중동 전쟁 장기화로 국내 고물가 및 고용 둔화 위험이 가시화되고 있어 경기 침체 우려가 커지고 있습니다.",
+    "글로벌경제": "인플레이션 지표에 전례 없는 변화가 감지된 가운데, 5월 강력한 미국 고용 보고서는 금리 인상 가능성을 고조시키고 있습니다.",
+    "증시금리": "강력한 고용 지표로 금리 인상 우려가 커지며 미국 빅테크 주가가 하락했고, S&P 500 등 주요 지수의 변동성 확대가 예상됩니다.",
+    "부동산정책": "해당 사항 없음",
+    "기업산업": "AI 기술이 제조업 생산성 혁신을 넘어 국가 경제를 바꿀 '제조 AX 혁명'을 이끌며, AI 거대 기업에 대한 장기적 투자의 중요성이 부각되고 있습니다.",
+    "오늘의투자시사점": "고금리 환경에 대비해 방어적 섹터 및 가치주에 관심을 두는 한편, AI 기술 혁명에 따른 제조업 및 AI 관련 혁신 기업의 장기적 투자 기회를 모색해야 합니다. 중동 리스크에 대한 헤지 전략도 필요합니다.",
+    "오늘의한줄": "글로벌 금리 인상 우려와 중동발 경기 위험 속 AI 혁명 관련 장기적 투자 기회에 주목할 때입니다."
   },
   "top_news": [
     {
@@ -28,36 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "월가의 올해 가장 우려되는 인플레이션 보고서 발표 임박, 증시의 운명 바꿀 수도",
-      "display_title": "월가의 올해 가장 우려되는 인플레이션 보고서 발표 임박, 증시의 운명 바꿀 수도",
-      "original_title": "Wall Street's Scariest Inflation Report of the Year Is Hours Away -- and It Has the Ability to Change the Stock Market's Fortune - AOL.com",
+      "title": "인플레이션, 2023년 이후 처음으로 변화… 금리 및 증시에 큰 영향 예고",
+      "display_title": "인플레이션, 2023년 이후 처음으로 변화… 금리 및 증시에 큰 영향 예고",
+      "original_title": "Inflation Just Did Something It Hasn't Done Since 2023, and It Could Trigger a Big Move in Interest Rates (and the Stock Market) - AOL.com",
       "summary": [
-        "월가에서 올해 가장 중요하게 여겨지는 인플레이션 보고서 발표가 임박했으며, 그 결과가 증시에 큰 영향을 미칠 것으로 예상됩니다.",
-        "인플레이션 수치는 중앙은행의 통화정책 방향을 결정하는 핵심 지표이며, 시장은 특히 미국 소비자물가지수(CPI)에 민감하게 반응합니다.",
-        "예상보다 높은 인플레이션은 금리 인상 압력을 높여 증시에 부정적일 수 있으므로, 보고서 발표 후 시장의 변동성에 대비해야 합니다."
+        "인플레이션 지표가 2023년 이후 전례 없는 변화를 보였다.",
+        "이 변화는 중앙은행의 금리 결정에 중요한 영향을 미쳐 증시 변동성을 확대할 수 있다.",
+        "금리 인상 또는 인하 기대감에 따라 시장 전반의 투자 전략 수정이 필요하다."
       ],
-      "summary_text": "월가에서 올해 가장 중요하게 여겨지는 인플레이션 보고서 발표가 임박했으며, 그 결과가 증시에 큰 영향을 미칠 것으로 예상됩니다. 인플레이션 수치는 중앙은행의 통화정책 방향을 결정하는 핵심 지표이며, 시장은 특히 미국 소비자물가지수(CPI)에 민감하게 반응합니다. 예상보다 높은 인플레이션은 금리 인상 압력을 높여 증시에 부정적일 수 있으므로, 보고서 발표 후 시장의 변동성에 대비해야 합니다.",
-      "description": "올해 월스트리트를 가장 긴장시키는 인플레이션 보고서 발표가 몇 시간 앞으로 다가왔으며, 이는 주식 시장의 흐름을 완전히 바꿀 수 있는 잠재력을 가지고 있습니다.",
-      "category": "증시·금리",
-      "importance": 10,
-      "market_impact": "부정",
-      "related_sector": "전반적 시장",
+      "summary_text": "인플레이션 지표가 2023년 이후 전례 없는 변화를 보였다. 이 변화는 중앙은행의 금리 결정에 중요한 영향을 미쳐 증시 변동성을 확대할 수 있다. 금리 인상 또는 인하 기대감에 따라 시장 전반의 투자 전략 수정이 필요하다.",
+      "description": "인플레이션 지표가 2023년 이후 처음으로 예상치 못한 움직임을 보이며, 향후 금리 변동과 주식 시장에 상당한 파급 효과를 가져올 수 있음을 시사합니다.",
+      "category": "글로벌 경제",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "금융, 성장주",
       "related_stocks": [
-        "현대차",
-        "기아"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "인플레이션 보고서 결과에 따라 글로벌 금리 인상 속도와 증시 방향이 크게 좌우될 수 있기 때문입니다.",
-      "key_signal": "발표될 인플레이션 수치가 시장 예상치를 상회하는지 여부와 연방준비제도(Fed)의 후속 발언에 주목해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "인플레이션 변화는 글로벌 통화 정책 방향을 결정하며, 이는 모든 자산 시장에 광범위한 영향을 미치기 때문에 주의 깊게 살펴봐야 한다.",
+      "key_signal": "이번 인플레이션 지표의 구체적인 내용과 다음 중앙은행 회의에서의 통화 정책 기조 변화 가능성을 주시해야 한다.",
       "keywords": [
         "인플레이션",
-        "소비자물가지수",
-        "금리인상",
+        "금리",
+        "증시",
         "통화정책",
-        "증시변동성"
+        "거시경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkxTbkdvcGJiQXFTQkJRYUJwRjBMenR5ZFZHQWZRUGoxOEEtYl9va0xSZXRyVGRJdXoyX3IzVEViS1d1OThySU5NV1NCZ0pQYWVWUUlxZ1RTRDJoQzlDYTI4MVVMZTczbzRtSDZUV2w2d3ZSLXlYWGVpVFZUdjJGRGZrSDFLZmxVNWc?oc=5",
-      "published": "2026-06-13 03:15",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0pfaFlyanV2bmJGeVVlX0VpSFBZTDdKYno2NTNkMnZFMXYwcDk3VkJoZHNfYmR1eHZHQUhiY0NBc3RCU1AzV3AtZGVlV1pZeW1FeTVQZllHaE0ycGo0dUdkV0NFaFpoMU4xekV6WWdVZGI5UjVaZXIyaHJSbzQzQ09Jdw?oc=5",
+      "published": "2026-06-14 02:44",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -66,82 +67,123 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 국채 수익률, 월가에 명확하고 우려스러운 신호 보내... 투자자들은 주목하는가?",
-      "display_title": "미국 국채 수익률, 월가에 명확하고 우려스러운 신호 보내... 투자자들은 주목하는가?",
-      "original_title": "Treasury Yields Are Sending a Clear and Terrifying Message to Wall Street -- but Are Investors Paying Attention? - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[AI 패권 시대의 생존 전략 4: 제조 AX 혁명] \"공장을 넘어 국가를 바꾼다\"…AI가 제조업 생산성을 재설계한다",
+      "display_title": "[AI 패권 시대의 생존 전략 4: 제조 AX 혁명] \"공장을 넘어 국가를 바꾼다\"…AI가 제조업 생산성을 재설계한다",
+      "original_title": "[AI 패권 시대의 생존 전략 시리즈 No. 4: 제조 AX 혁명] “공장을 넘어 국가를 바꾼다”…AI가 제조업 생산성을 재설계한다 - 코리아포스트 한글판",
       "summary": [
-        "미국 국채 수익률이 불안정한 경제 전망을 시사하며 월가에 경고 메시지를 보내고 있습니다.",
-        "국채 수익률의 움직임은 인플레이션, 통화정책, 경기 침체 우려 등을 반영하며, 시장의 미래 기대치를 나타냅니다.",
-        "국채 수익률 상승은 기업 자금 조달 비용 증가 및 성장주 부담으로 이어질 수 있으므로 투자자들은 주의 깊게 지켜봐야 합니다."
+        "AI 기술이 제조업 생산성을 혁신하며 '제조 AX(AI Transformation) 혁명'을 이끌고 있다.",
+        "AI는 단순 공정 개선을 넘어 제품 설계, 공급망 관리 등 제조업 전반에 걸쳐 효율성을 극대화할 잠재력을 가진다.",
+        "AI 도입을 통해 생산성 향상이 기대되는 제조업 관련 기업들에 대한 장기적 투자 기회를 모색할 필요가 있다."
       ],
-      "summary_text": "미국 국채 수익률이 불안정한 경제 전망을 시사하며 월가에 경고 메시지를 보내고 있습니다. 국채 수익률의 움직임은 인플레이션, 통화정책, 경기 침체 우려 등을 반영하며, 시장의 미래 기대치를 나타냅니다. 국채 수익률 상승은 기업 자금 조달 비용 증가 및 성장주 부담으로 이어질 수 있으므로 투자자들은 주의 깊게 지켜봐야 합니다.",
-      "description": "미국 국채 수익률이 월스트리트에 명확하고도 우려스러운 메시지를 보내고 있지만, 투자자들이 이에 충분히 주목하고 있는지 의문이 제기되고 있습니다.",
-      "category": "증시·금리",
+      "summary_text": "AI 기술이 제조업 생산성을 혁신하며 '제조 AX(AI Transformation) 혁명'을 이끌고 있다. AI는 단순 공정 개선을 넘어 제품 설계, 공급망 관리 등 제조업 전반에 걸쳐 효율성을 극대화할 잠재력을 가진다. AI 도입을 통해 생산성 향상이 기대되는 제조업 관련 기업들에 대한 장기적 투자 기회를 모색할 필요가 있다.",
+      "description": "AI 기술이 제조업 생산성을 혁신적으로 재설계하며 공장 운영 방식을 넘어 국가 경제 전반에 걸쳐 거대한 변화를 일으킬 것이라는 분석입니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 기술주",
+      "market_impact": "긍정",
+      "related_sector": "스마트팩토리, 자동화, 산업용 AI, 로봇, 반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "포스코DX"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 국채 수익률의 급등 또는 불안정한 움직임은 글로벌 증시 전반에 부정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "미국 국채 수익률의 추가 상승 여부와 이에 대한 시장 반응을 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI는 한국 제조업의 경쟁력을 좌우할 핵심 기술이며, 관련 솔루션 및 설비를 제공하는 기업들의 성장 잠재력이 매우 크기 때문이다.",
+      "key_signal": "국내 제조업체들의 AI 도입 현황과 투자 계획, 그리고 AI 기반 솔루션 기업들의 실적 변화를 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "국채수익률",
-        "월스트리트",
-        "인플레이션",
-        "금리인상",
-        "경기침체"
+        "AI",
+        "제조업",
+        "스마트팩토리",
+        "생산성",
+        "AX"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXh4Xy1TZU14NFllN3BlQzFYTW9sdE5JV3ZwWkd6OUVteU5ReExUTHZVWTFBeVh5X1dRdy1SNTVuUlg5OWJuQXVzZzVRUEs0SHktZ2VucERKWTgwMXVzNC0xLUtIU3RFMkswdVljTFNMdk5ibUw4RUhWUjFXY1NYU2doRUFtbFFpd1A4Sg?oc=5",
-      "published": "2026-06-12 20:29",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbGpGUVkwendyeTRkRTJ6cS1pUkRXVEY2c1lqaC12dWQzNy1NN2RSWnBfY0VjUnluM0wwcEJ6TUFPMlZTdkZqakZwaVFKdzFEb21SLXNRakFaRU0tZTYxazRVSG1Ka3ZFMENLSldn?oc=5",
+      "published": "2026-06-14 07:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "중동전쟁 ‘경기 위험’ 가시화…“고물가·고용 둔화 우려”",
+      "display_title": "중동전쟁 ‘경기 위험’ 가시화…“고물가·고용 둔화 우려”",
+      "original_title": "중동전쟁 ‘경기 위험’ 가시화…“고물가·고용 둔화 우려” - 에너지경제신문",
+      "summary": [
+        "중동 전쟁 장기화로 국내 경기 침체 위험이 커지며 고물가와 고용 둔화가 우려된다.",
+        "중동의 지정학적 불안정은 유가 상승 등 원자재 가격에 영향을 미쳐 물가 상승 압력으로 작용하며, 기업 활동 위축으로 고용 둔화를 야기할 수 있다.",
+        "경기 방어적 업종에 대한 관심이 높아질 수 있으며, 에너지 관련 주식 및 물가 상승 헤지 수단에 대한 고려가 필요하다."
+      ],
+      "summary_text": "중동 전쟁 장기화로 국내 경기 침체 위험이 커지며 고물가와 고용 둔화가 우려된다. 중동의 지정학적 불안정은 유가 상승 등 원자재 가격에 영향을 미쳐 물가 상승 압력으로 작용하며, 기업 활동 위축으로 고용 둔화를 야기할 수 있다. 경기 방어적 업종에 대한 관심이 높아질 수 있으며, 에너지 관련 주식 및 물가 상승 헤지 수단에 대한 고려가 필요하다.",
+      "description": "중동전쟁의 장기화 및 확전 가능성으로 인해 국내 경기에 고물가와 고용 둔화라는 이중고의 위험이 현실화될 수 있다는 우려가 커지고 있습니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "정유/화학, 식품, 유틸리티",
+      "related_stocks": [
+        "S-Oil",
+        "대한항공"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "중동 리스크는 유가 및 물가에 직접적인 영향을 미쳐 국내 기업 실적과 소비자 구매력에 부정적 영향을 미치므로 포트폴리오 재조정이 필요할 수 있다.",
+      "key_signal": "국제 유가 동향과 정부의 물가 안정 정책, 그리고 국내 기업들의 원자재 가격 변동 대응 전략을 주시해야 한다.",
+      "keywords": [
+        "중동전쟁",
+        "고물가",
+        "고용둔화",
+        "경기침체",
+        "유가"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQkI3SjZFcnlCUGtuay1ZeWlRWDh4SGtBd1ZIMEN5RmNhVUl1bnZlQjJGWGNLVlRoVktIejZQcWk0aGJmV1ZCWnM2MjRfZmFFeDVQcFR3clJ2MlU?oc=5",
+      "published": "2026-06-14 06:00",
+      "quality": {
+        "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 4,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "세계은행, 2020년대가 '기적 없는 한' 글로벌 경제의 '잃어버린 10년' 될 수도 있다고 경고",
-      "display_title": "세계은행, 2020년대가 '기적 없는 한' 글로벌 경제의 '잃어버린 10년' 될 수도 있다고 경고",
-      "original_title": "World Bank warns the 2020s are becoming a 'lost decade' for the global economy — 'barring a miracle' - Fortune",
+      "title": "5월 강력한 고용 보고서로 빅테크 주가 하락 및 금리 인상 가능성 고조에 증시 하락",
+      "display_title": "5월 강력한 고용 보고서로 빅테크 주가 하락 및 금리 인상 가능성 고조에 증시 하락",
+      "original_title": "Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates - MSN",
       "summary": [
-        "세계은행이 현재 추세대로라면 2020년대가 세계 경제에 있어 '잃어버린 10년'이 될 수 있다고 강력히 경고했습니다.",
-        "팬데믹 후유증, 고물가, 고금리, 지정학적 갈등, 기후변화 등 복합적인 요인이 글로벌 성장을 저해하고 있음을 시사합니다.",
-        "장기적인 저성장 기조는 투자 수익률 기대치를 낮추고, 국가별/산업별 양극화를 심화시킬 수 있으므로 신중한 접근이 필요합니다."
+        "강력한 5월 고용 보고서 발표로 금리 인상 가능성이 높아지면서 미국 증시의 빅테크 주식이 하락했다.",
+        "견조한 고용 시장은 인플레이션 압력을 지속시켜 연준의 긴축 기조를 장기화할 수 있다는 우려를 키운다.",
+        "고금리 환경에 취약한 성장주(특히 빅테크)에 대한 투자 심리가 위축될 수 있으므로, 방어적 섹터 또는 가치주에 대한 고려가 필요하다."
       ],
-      "summary_text": "세계은행이 현재 추세대로라면 2020년대가 세계 경제에 있어 '잃어버린 10년'이 될 수 있다고 강력히 경고했습니다. 팬데믹 후유증, 고물가, 고금리, 지정학적 갈등, 기후변화 등 복합적인 요인이 글로벌 성장을 저해하고 있음을 시사합니다. 장기적인 저성장 기조는 투자 수익률 기대치를 낮추고, 국가별/산업별 양극화를 심화시킬 수 있으므로 신중한 접근이 필요합니다.",
-      "description": "세계은행은 2020년대가 특별한 기적이 없는 한 글로벌 경제에 있어 '잃어버린 10년'이 될 수 있다고 경고하며, 전 세계적인 경기 둔화에 대한 우려를 표명했습니다.",
+      "summary_text": "강력한 5월 고용 보고서 발표로 금리 인상 가능성이 높아지면서 미국 증시의 빅테크 주식이 하락했다. 견조한 고용 시장은 인플레이션 압력을 지속시켜 연준의 긴축 기조를 장기화할 수 있다는 우려를 키운다. 고금리 환경에 취약한 성장주(특히 빅테크)에 대한 투자 심리가 위축될 수 있으므로, 방어적 섹터 또는 가치주에 대한 고려가 필요하다.",
+      "description": "5월 고용 보고서가 강력하게 발표되면서 금리 인상 가능성이 높아졌고, 이에 따라 빅테크 기업들의 주가가 하락하며 전체 증시가 약세를 보였습니다.",
       "category": "글로벌 경제",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전반적 시장",
+      "related_sector": "기술주, 성장주, 반도체",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "주의",
-      "investment_reason": "세계 경제의 장기적인 저성장 경고는 전반적인 투자 환경에 부정적인 영향을 미치고, 전략적인 포트폴리오 조정을 요구하기 때문입니다.",
-      "key_signal": "각국 정부와 중앙은행의 경기 부양 및 구조 개혁 정책 변화 여부와 그 효과를 면밀히 관찰해야 합니다.",
+      "investment_reason": "미국 고용 지표와 금리 인상 기대감은 한국 증시의 기술주 섹터에도 직접적인 영향을 미치므로 투자 포트폴리오 점검이 필요하다.",
+      "key_signal": "다음 인플레이션 지표와 연준의 금리 결정에 대한 시장의 기대를 지속적으로 확인해야 한다.",
       "keywords": [
-        "세계은행",
-        "글로벌경제",
-        "저성장",
-        "잃어버린10년",
-        "경기침체"
+        "고용보고서",
+        "금리인상",
+        "빅테크",
+        "성장주",
+        "증시하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYUp2R0VuZGltdEpYckJWenRmZ3ZrLXpsVTRlMFpveEdPcmJoN051SzI3ZEowUEY0RGxmU0Fab2g4M2Z3dThFamJKUDZyWldNeFRvWEEtVDVBcnJTQVpfNGhNck1UZ0ZjUDU0QjRRc1JEaVNyMWt5ajg2Nm9RLW05M0F6ZTVfUHVIb3lySg?oc=5",
-      "published": "2026-06-13 02:50",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlFtTVNudmxKTzVuNUg3TFcxeWRjY010TGpRZUlyLTB1bkp2TGkyb0I5alpiVEllSk00QVZUN2RfSVM1ZzhKQVpVeTN5NlZjLU9xTGgyRUw3c1JtWWdfLVFvOXRYTWFOdG5WeWVXRTc5OThkUDBWUVpGcGFENmJ2V2MwaEE0MGxxQ0RZR2IwR0hZem8xeHVfTWVhaHFpZUJtZWEzVzRpTXpOcWdSU0loMTJqbW9wdmRRa21UZGFUV1A0anFmdXpoS2JLeHc?oc=5",
+      "published": "2026-06-13 21:58",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -149,84 +191,43 @@
       }
     },
     {
-      "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "원·달러 환율, 미-이란 종전 기대감에 사흘 만에 1,510원대로 하락...코스피 8천선 탈환",
-      "display_title": "원·달러 환율, 미-이란 종전 기대감에 사흘 만에 1,510원대로 하락...코스피 8천선 탈환",
-      "original_title": "원·달러 환율, 미-이란 종전 기대감에 사흘 만에 1,510원대로 하락...코스피는 '8천피' 탈환 - 베타뉴스",
-      "summary": [
-        "미-이란 종전 기대감으로 원·달러 환율이 하락하고 코스피 지수가 8천 선을 탈환하며 국내 금융 시장에 긍정적인 신호가 나타났습니다.",
-        "지정학적 리스크 완화는 안전자산 선호 심리를 약화시키고 원화 가치 상승 및 외국인 투자 유입 기대를 높이는 요인으로 작용합니다.",
-        "환율 안정과 증시 상승은 외국인 투자자의 국내 증시 복귀를 촉진할 수 있으며, 전반적인 시장 심리 개선에 기여할 수 있습니다."
-      ],
-      "summary_text": "미-이란 종전 기대감으로 원·달러 환율이 하락하고 코스피 지수가 8천 선을 탈환하며 국내 금융 시장에 긍정적인 신호가 나타났습니다. 지정학적 리스크 완화는 안전자산 선호 심리를 약화시키고 원화 가치 상승 및 외국인 투자 유입 기대를 높이는 요인으로 작용합니다. 환율 안정과 증시 상승은 외국인 투자자의 국내 증시 복귀를 촉진할 수 있으며, 전반적인 시장 심리 개선에 기여할 수 있습니다.",
-      "description": "미국과 이란의 종전 기대감이 커지면서 원·달러 환율이 사흘 만에 1,510원대로 하락했고, 코스피 지수는 8천 포인트를 다시 넘어섰습니다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전반적 시장, 수출주",
-      "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "환율 하락과 코스피 상승은 외국인 자금 유입을 촉진하고 국내 증시 전반에 긍정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "미-이란 종전 관련 실제 진전 여부와 외국인 투자자의 추가적인 국내 증시 순매수 전환 여부를 확인해야 합니다.",
-      "keywords": [
-        "원달러환율",
-        "코스피",
-        "외국인매수",
-        "지정학적리스크",
-        "증시상승"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WU2prUHRmdW9UM0p0MmVQYV8xeHFlYlJBeXp4NUNCN3hBanhZV096YUVNdDY1U2I2LVFHNlVuRjN4QUJWdE8tSVhZN25XUUhZRHRIb0M1ci1UYS1wWkZjSXpnQnU?oc=5",
-      "published": "2026-06-12 23:27",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "환율 사흘 만에 1510원대 하락, 외국인 25거래일 만에 순매수 전환",
-      "display_title": "환율 사흘 만에 1510원대 하락, 외국인 25거래일 만에 순매수 전환",
-      "original_title": "환율, 사흘 만에 1510원대…외인 25거래일 만에 순매수 - v.daum.net",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "이번 주 S&P 500 지수에 큰 영향 미칠 3가지 핵심 지표",
+      "display_title": "이번 주 S&P 500 지수에 큰 영향 미칠 3가지 핵심 지표",
+      "original_title": "3 Things to Watch This Week That Could Heavily Impact How the S&P 500 Does From Here on Out - AOL.com",
       "summary": [
-        "원·달러 환율이 1510원대로 하락했고, 외국인 투자자들이 25거래일 만에 국내 증시에서 순매수로 돌아섰습니다.",
-        "환율 하락은 원화 가치 상승을 의미하며, 이는 외국인 투자자들에게 국내 자산의 매력도를 높이는 요인으로 작용합니다.",
-        "외국인 순매수 전환은 국내 증시의 상승 동력으로 작용할 수 있으며, 특히 대형주를 중심으로 긍정적인 영향을 미칠 것으로 예상됩니다."
+        "이번 주 발표될 주요 경제 지표들이 S&P 500 지수에 큰 영향을 줄 것으로 예상된다.",
+        "미국 시장은 글로벌 투자 환경에 큰 비중을 차지하며, S&P 500 변동성은 국내 시장에도 파급 효과를 미친다.",
+        "S&P 500에 영향을 미치는 요인들을 미리 파악하고 포트폴리오 변동성에 대비해야 한다."
       ],
-      "summary_text": "원·달러 환율이 1510원대로 하락했고, 외국인 투자자들이 25거래일 만에 국내 증시에서 순매수로 돌아섰습니다. 환율 하락은 원화 가치 상승을 의미하며, 이는 외국인 투자자들에게 국내 자산의 매력도를 높이는 요인으로 작용합니다. 외국인 순매수 전환은 국내 증시의 상승 동력으로 작용할 수 있으며, 특히 대형주를 중심으로 긍정적인 영향을 미칠 것으로 예상됩니다.",
-      "description": "원·달러 환율이 사흘 만에 1510원대로 떨어졌고, 외국인 투자자들이 25거래일 만에 국내 증시에서 순매수로 전환했습니다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전반적 시장, 대형주",
+      "summary_text": "이번 주 발표될 주요 경제 지표들이 S&P 500 지수에 큰 영향을 줄 것으로 예상된다. 미국 시장은 글로벌 투자 환경에 큰 비중을 차지하며, S&P 500 변동성은 국내 시장에도 파급 효과를 미친다. S&P 500에 영향을 미치는 요인들을 미리 파악하고 포트폴리오 변동성에 대비해야 한다.",
+      "description": "이번 주 발표될 주요 경제 지표 및 이벤트들이 S&P 500 지수의 향방에 중대한 영향을 미칠 수 있어 투자자들의 관심이 집중되고 있습니다.",
+      "category": "글로벌 경제",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "전 섹터",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "현대차"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "외국인 투자자의 대규모 순매수 전환은 국내 증시 상승의 강력한 신호이며, 특히 주요 대형주에 대한 투자심리를 개선시키기 때문입니다.",
-      "key_signal": "외국인 투자자들의 순매수 기조가 지속되는지, 그리고 특정 섹터나 종목으로 매수세가 집중되는지 관찰해야 합니다.",
+      "investment_reason": "미국 증시의 방향성은 한국 증시에도 상당한 영향을 미치므로, 주요 지표를 미리 확인하여 시장 변화에 대응할 필요가 있다.",
+      "key_signal": "이번 주 발표될 구체적인 경제 지표(예: CPI, 고용보고서, FOMC)와 그에 따른 시장 반응을 면밀히 모니터링해야 한다.",
       "keywords": [
-        "환율하락",
-        "외국인순매수",
-        "코스피",
-        "증시상승",
-        "대형주"
+        "S&P500",
+        "미국증시",
+        "경제지표",
+        "시장전망",
+        "변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xR0dWUW5aSzRyMEpNUGJhQnJKUFdRUlhXeDl0UE5oT0hUZFM0OW5XM3ZyYWU0UkdEaVRJZ0p6eGlIa3FFNWhZWHVDLVpnYUREeFItYw?oc=5",
-      "published": "2026-06-12 16:24",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BekRBSnNxYVd5UGRsdUEyQjVXT1VJNWhPT21TYm1jYm5uZGUxdnlIdDUxZzZVTzhYY2RmSFZMczJFN25hRnUtaTByOTltU1pVTWRmV0g2YUNoek5RM1dfY0h2NTFZdVdvd3pvQUVTaHozRFB6N1BhZQ?oc=5",
+      "published": "2026-06-14 05:28",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -236,37 +237,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "제2차 세계대전 이후 단 4번 발생한 시장 현상: 그 이후 전개될 상황은?",
-      "display_title": "제2차 세계대전 이후 단 4번 발생한 시장 현상: 그 이후 전개될 상황은?",
-      "original_title": "The Market Has Only Done This 4 Times Since World War II. Here's What Comes Next. - AOL.com",
+      "title": "SpaceX 같은 AI 거물을 무시할 수 없다, 당신의 401(k)도 마찬가지",
+      "display_title": "SpaceX 같은 AI 거물을 무시할 수 없다, 당신의 401(k)도 마찬가지",
+      "original_title": "You can ignore AI giants like SpaceX, but your 401(k) won't - Barchart.com",
       "summary": [
-        "제2차 세계대전 이후 단 4번만 관찰된 특정 시장 움직임이 현재 나타나고 있으며, 이는 중요한 시장 변곡점을 시사합니다.",
-        "과거 사례를 통해 현재 시장의 특이점을 분석하고, 향후 증시 흐름에 대한 역사적 패턴을 파악하려는 시도입니다.",
-        "이러한 희귀한 패턴은 시장의 큰 변화를 예고할 수 있으므로, 과거 사례를 바탕으로 포트폴리오 전략을 재점검할 필요가 있습니다."
+        "SpaceX와 같은 AI 거대 기업들이 장기적인 투자 포트폴리오에 필수적인 영향을 미치고 있음을 강조한다.",
+        "AI 기술은 단순한 트렌드를 넘어 산업 전반과 개인의 자산 형성에도 깊이 관여하게 될 것임을 시사한다.",
+        "AI 관련 혁신 기업에 대한 장기적 관점의 투자가 중요하며, 포트폴리오에 AI 노출을 고려해야 한다."
       ],
-      "summary_text": "제2차 세계대전 이후 단 4번만 관찰된 특정 시장 움직임이 현재 나타나고 있으며, 이는 중요한 시장 변곡점을 시사합니다. 과거 사례를 통해 현재 시장의 특이점을 분석하고, 향후 증시 흐름에 대한 역사적 패턴을 파악하려는 시도입니다. 이러한 희귀한 패턴은 시장의 큰 변화를 예고할 수 있으므로, 과거 사례를 바탕으로 포트폴리오 전략을 재점검할 필요가 있습니다.",
-      "description": "제2차 세계대전 이후 단 네 번밖에 발생하지 않은 특정 시장 현상이 현재 나타나고 있으며, 이례적인 현상 이후 시장의 다음 행보가 무엇인지 분석합니다.",
-      "category": "증시·금리",
+      "summary_text": "SpaceX와 같은 AI 거대 기업들이 장기적인 투자 포트폴리오에 필수적인 영향을 미치고 있음을 강조한다. AI 기술은 단순한 트렌드를 넘어 산업 전반과 개인의 자산 형성에도 깊이 관여하게 될 것임을 시사한다. AI 관련 혁신 기업에 대한 장기적 관점의 투자가 중요하며, 포트폴리오에 AI 노출을 고려해야 한다.",
+      "description": "SpaceX와 같은 인공지능(AI) 분야의 거대 기업들이 전반적인 경제와 개인 투자 포트폴리오(401k)에 미치는 영향이 매우 크기 때문에 간과할 수 없다는 내용입니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "전반적 시장",
+      "market_impact": "긍정",
+      "related_sector": "인공지능, 우주항공, 소프트웨어, 반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "카카오"
       ],
       "investment_view": "관심",
-      "investment_reason": "과거에 매우 드물게 나타난 시장 패턴은 향후 증시의 중대한 변화를 예고할 수 있어 투자 전략 수립에 중요한 참고 자료가 됩니다.",
-      "key_signal": "이례적인 시장 패턴이 어떤 경제적, 금융적 배경에서 발생했는지 파악하고, 이에 따른 주가 흐름의 변화를 예측해야 합니다.",
+      "investment_reason": "AI가 미래 산업과 투자 시장의 주류가 될 것임을 시사하며, 관련 기술 개발 및 사업을 영위하는 기업에 대한 장기적 관점의 투자를 고려해야 한다.",
+      "key_signal": "AI 기술 혁신이 실제 기업 가치와 수익으로 이어지는지, 그리고 국내 기업들의 AI 경쟁력을 지속적으로 평가해야 한다.",
       "keywords": [
-        "시장패턴",
-        "역사적데이터",
-        "증시전망",
-        "변동성",
-        "투자전략"
+        "AI",
+        "혁신기업",
+        "미래산업",
+        "장기투자",
+        "포트폴리오"
       ],
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByVFdjMkphNTJBZE90ZjExQ1ZBdldGRVZWZlFobXhoRlI2WEg1SGNFa3FjeVJsdElDSlhodVhha2VSU09oRTI0d19qclBITUhwdUJzdzRtOC1HZFR3YTExNEdsNS1HN3hHUEVKRFF0d2xVTkpBeWg4?oc=5",
-      "published": "2026-06-13 06:27",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdl9QNjdZdmIyS1BPZXlJM3A4N3lsa2dXY2ZlRWxORC1SS3l0aXlGVVB5a3dYaWFYV2hPLVF1bGt4dkZKOWlKWnp3LU52VjRqcERNZEhOYklpWXpVUHdYZ3dhYVBTWlJCR0VySWdEY1dOYzZ0eTBNb3JPeHBjazZNMEJYUVdSLTZqWWp5TDNvblNTUHdTYVpXTzBKY0NZY2pzeXc?oc=5",
+      "published": "2026-06-13 21:01",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -281,63 +282,65 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "원·달러 환율 하락과 외국인 투자자의 대규모 순매수 전환은 국내 증시 전반, 특히 대형 수출주인 삼성전자에 대한 투자심리를 개선시킬 수 있습니다.",
+      "reason": "AI 제조업 혁명과 AI 산업 전반의 성장 기대감에 힘입어 긍정적인 전망이 큰 가운데, 글로벌 고용 지표 및 금리 인상 가능성 고조로 인한 기술주 전반의 하방 압력 또한 존재하여 변동성이 확대될 수 있습니다. AI 시대 핵심인 반도체 수요와 글로벌 매크로 환경 변화를 동시에 반영하는 대표 종목으로서 오늘 시장의 방향성을 가늠하는 데 중요한 역할을 할 것입니다.",
       "check_points": [
-        "외국인 순매수 지속 여부",
-        "글로벌 반도체 업황 개선 속도"
+        "글로벌 AI 관련 투자 동향 및 수요 변화",
+        "미국 금리 인상 기대감 변화 및 기술주 흐름",
+        "반도체 업황 및 가격 추이"
       ],
       "related_news_titles": [
-        "원·달러 환율, 미-이란 종전 기대감에 사흘 만에 1,510원대로 하락...코스피 8천선 탈환",
-        "환율 사흘 만에 1510원대 하락, 외국인 25거래일 만에 순매수 전환"
+        "[AI 패권 시대의 생존 전략 4: 제조 AX 혁명] \"공장을 넘어 국가를 바꾼다\"…AI가 제조업 생산성을 재설계한다",
+        "5월 강력한 고용 보고서로 빅테크 주가 하락 및 금리 인상 가능성 고조에 증시 하락",
+        "SpaceX 같은 AI 거물을 무시할 수 없다, 당신의 401(k)도 마찬가지"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "포스코DX",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "스마트팩토리",
       "opinion": "관심",
-      "reason": "환율 하락 및 외국인 매수세 유입은 반도체 대형주에 긍정적인 투자 환경을 제공하며, SK하이닉스에 대한 기대감을 높일 수 있습니다.",
+      "reason": "AI 기반 제조업 생산성 혁신이 국가 경쟁력의 핵심으로 부상함에 따라 스마트팩토리, 산업용 AI 및 자동화 솔루션을 제공하는 기업의 성장 잠재력이 매우 큽니다. 포스코DX는 국내 제조업의 디지털 전환을 주도하는 대표적인 기업으로, AI 시대의 직접적인 수혜가 기대됩니다.",
       "check_points": [
-        "외국인 수급 동향",
-        "글로벌 D램 및 낸드 가격 추이"
+        "국내외 제조업체의 AI/자동화 설비 투자 확대 여부",
+        "신규 수주 및 파이프라인 확보 현황",
+        "AI 솔루션 기술 경쟁력 및 적용 확대"
       ],
       "related_news_titles": [
-        "원·달러 환율, 미-이란 종전 기대감에 사흘 만에 1,510원대로 하락...코스피 8천선 탈환",
-        "환율 사흘 만에 1510원대 하락, 외국인 25거래일 만에 순매수 전환"
+        "[AI 패권 시대의 생존 전략 4: 제조 AX 혁명] \"공장을 넘어 국가를 바꾼다\"…AI가 제조업 생산성을 재설계한다"
       ]
     },
     {
       "rank": 3,
-      "name": "현대차",
+      "name": "한국금융지주",
       "market": "KOSPI",
-      "sector": "자동차",
+      "sector": "금융",
       "opinion": "관심",
-      "reason": "외국인 투자자의 25거래일 만의 순매수 전환은 국내 대형주, 특히 수출 비중이 높은 현대차에 대한 투자심리 개선에 긍정적인 신호로 작용할 수 있습니다.",
+      "reason": "인플레이션 변화와 글로벌 통화 정책 방향은 모든 자산 시장, 특히 금융 시장에 광범위한 영향을 미칩니다. 미국 S&P 500 지수 방향성과 한국 증시 흐름이 밀접하게 연관되어 있어, 금융 업종은 금리 및 시장 변동성에 대한 민감도가 높으므로 시장 전반의 변화를 파악하기 위한 중요한 지표가 될 것입니다.",
       "check_points": [
-        "외국인 매매 동향",
-        "글로벌 인플레이션 압력 및 소비자 심리 변화"
+        "미국 및 국내 통화정책 기조 변화 (금리 인하/인상 시그널)",
+        "글로벌 인플레이션 지표 추이",
+        "외국인 투자자금 유출입 동향"
       ],
       "related_news_titles": [
-        "환율 사흘 만에 1510원대 하락, 외국인 25거래일 만에 순매수 전환",
-        "월가의 올해 가장 우려되는 인플레이션 보고서 발표 임박, 증시의 운명 바꿀 수도"
+        "인플레이션, 2023년 이후 처음으로 변화… 금리 및 증시에 큰 영향 예고",
+        "이번 주 S&P 500 지수에 큰 영향 미칠 3가지 핵심 지표"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "카카오",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "주의",
-      "reason": "미국 국채 수익률의 불안정한 움직임과 세계 경제의 장기 저성장 경고는 국내 금융주 전반, 특히 증권업종에 부정적인 영향을 미칠 수 있어 주의가 필요합니다.",
+      "sector": "소프트웨어",
+      "opinion": "관심",
+      "reason": "AI가 미래 산업과 투자 시장의 주류가 될 것이라는 전망과 함께, 국내 대표 AI 및 소프트웨어 플랫폼 기업인 카카오에 대한 관심이 높아지고 있습니다. AI 기술 개발 및 서비스 접목을 통한 새로운 성장 동력 확보 여부가 중요하게 작용할 것입니다.",
       "check_points": [
-        "미국 국채 수익률 변동성",
-        "국내외 금리 인상 기조 및 경기 지표"
+        "AI 기반 신규 서비스 출시 및 기존 서비스 강화 동향",
+        "AI 관련 투자 및 제휴 현황",
+        "글로벌 빅테크 기업들의 AI 전략 변화"
       ],
       "related_news_titles": [
-        "미국 국채 수익률, 월가에 명확하고 우려스러운 신호 보내... 투자자들은 주목하는가?",
-        "세계은행, 2020년대가 '기적 없는 한' 글로벌 경제의 '잃어버린 10년' 될 수도 있다고 경고",
-        "제2차 세계대전 이후 단 4번 발생한 시장 현상: 그 이후 전개될 상황은?"
+        "SpaceX 같은 AI 거물을 무시할 수 없다, 당신의 401(k)도 마찬가지"
       ]
     }
   ],
