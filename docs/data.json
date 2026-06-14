@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14 08:04",
-  "analysis_date": "2026-06-14",
+  "generated_at": "2026-06-15 08:10",
+  "analysis_date": "2026-06-15",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 인플레이션 변화와 강력한 고용 지표는 금리 인상 우려를 키우며, 중동 리스크는 국내 고물가·고용 둔화 압력을 높이고 있습니다.",
-    "국내거시경제": "중동 전쟁 장기화로 국내 고물가 및 고용 둔화 위험이 가시화되고 있어 경기 침체 우려가 커지고 있습니다.",
-    "글로벌경제": "인플레이션 지표에 전례 없는 변화가 감지된 가운데, 5월 강력한 미국 고용 보고서는 금리 인상 가능성을 고조시키고 있습니다.",
-    "증시금리": "강력한 고용 지표로 금리 인상 우려가 커지며 미국 빅테크 주가가 하락했고, S&P 500 등 주요 지수의 변동성 확대가 예상됩니다.",
-    "부동산정책": "해당 사항 없음",
-    "기업산업": "AI 기술이 제조업 생산성 혁신을 넘어 국가 경제를 바꿀 '제조 AX 혁명'을 이끌며, AI 거대 기업에 대한 장기적 투자의 중요성이 부각되고 있습니다.",
-    "오늘의투자시사점": "고금리 환경에 대비해 방어적 섹터 및 가치주에 관심을 두는 한편, AI 기술 혁명에 따른 제조업 및 AI 관련 혁신 기업의 장기적 투자 기회를 모색해야 합니다. 중동 리스크에 대한 헤지 전략도 필요합니다.",
-    "오늘의한줄": "글로벌 금리 인상 우려와 중동발 경기 위험 속 AI 혁명 관련 장기적 투자 기회에 주목할 때입니다."
+    "총평": "지정학적 리스크 고조로 유가가 상승하고 미국 국채 수익률이 급등하는 등 글로벌 경제 불확실성이 커지고 있습니다. 국내 경기 역시 높은 물가와 고용 부진으로 민생 경제의 어려움이 지속되며 시장 전반의 변동성 확대와 투자 심리 위축이 예상됩니다.",
+    "국내거시경제": "정부의 '하방 위험' 삭제에도 불구하고 3.1%의 높은 물가 상승률과 취업자 감소는 민생 경제에 대한 우려를 심화시키고 있습니다.",
+    "글로벌경제": "이란-이스라엘 갈등 고조로 국제 유가가 상승하며 글로벌 공급망 불안정 및 인플레이션 압력이 가중되고 있습니다.",
+    "증시금리": "미국 국채 수익률이 급등하며 증시 불안감을 키우고 있으며, 고인플레이션 우려로 기술주 하방 압력이 커지는 가운데 연준의 정책 방향에 이목이 쏠리고 있습니다.",
+    "부동산정책": "정부가 부동산 시장 안정화를 위해 보유세 인상 카드를 꺼냈으나, 근본적인 주택 공급 부족 문제 해결 여부에 대한 의문이 제기되고 있습니다.",
+    "기업산업": "중동 리스크에 따른 에너지 및 반도체 산업, 금리 민감 섹터, 국내 소비재 및 내수 기업 투자에 신중해야 합니다. NVDA 등 특정 기술주에 대한 고평가 논란도 이어지고 있습니다.",
+    "오늘의투자시사점": "지정학적 리스크와 유가 추이, 연준의 스탠스를 면밀히 관찰하며 변동성 장세에 대비해야 합니다. 고평가 기술주에 대한 신중한 접근과 함께 인플레이션 헤지, 실적 기반 가치주, 혹은 안정적 내수 기반 기업으로의 분산 투자 전략을 고려할 때입니다.",
+    "오늘의한줄": "지정학적 리스크와 고금리, 인플레이션 압력이 겹치며 시장 전반의 변동성 확대와 투자 심리 위축이 예상됩니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "인플레이션, 2023년 이후 처음으로 변화… 금리 및 증시에 큰 영향 예고",
-      "display_title": "인플레이션, 2023년 이후 처음으로 변화… 금리 및 증시에 큰 영향 예고",
-      "original_title": "Inflation Just Did Something It Hasn't Done Since 2023, and It Could Trigger a Big Move in Interest Rates (and the Stock Market) - AOL.com",
+      "title": "이란-이스라엘 갈등 고조로 유가 상승, 나스닥, S&P 500, 다우 선물 혼조세: NVDA, STI, MRVL, LLY, SOC 주목",
+      "display_title": "이란-이스라엘 갈등 고조로 유가 상승, 나스닥, S&P 500, 다우 선물 혼조세: NVDA, STI, MRVL, LLY, SOC 주목",
+      "original_title": "Nasdaq, S&P 500, Dow futures mixed as Iran-Israel escalation lifts oil prices: Why NVDA, STI, MRVL, LLY, SOC are in focus - MSN",
       "summary": [
-        "인플레이션 지표가 2023년 이후 전례 없는 변화를 보였다.",
-        "이 변화는 중앙은행의 금리 결정에 중요한 영향을 미쳐 증시 변동성을 확대할 수 있다.",
-        "금리 인상 또는 인하 기대감에 따라 시장 전반의 투자 전략 수정이 필요하다."
+        "이란-이스라엘 분쟁 고조로 국제 유가가 상승하면서 미국 증시 선물 지수가 혼조세를 보이며, 엔비디아(NVDA) 등 특정 기업들이 주목받고 있습니다.",
+        "중동 지정학적 리스크는 글로벌 공급망과 에너지 가격에 직접적인 영향을 미쳐 인플레이션 우려를 증폭시키고 증시 전반에 불확실성을 가중시킵니다.",
+        "유가 상승에 따른 인플레이션 압력과 지정학적 리스크가 국내 증시 및 관련 산업(에너지, 반도체 등)에 미칠 파급 효과를 주시하며 투자 전략을 재정비해야 합니다."
       ],
-      "summary_text": "인플레이션 지표가 2023년 이후 전례 없는 변화를 보였다. 이 변화는 중앙은행의 금리 결정에 중요한 영향을 미쳐 증시 변동성을 확대할 수 있다. 금리 인상 또는 인하 기대감에 따라 시장 전반의 투자 전략 수정이 필요하다.",
-      "description": "인플레이션 지표가 2023년 이후 처음으로 예상치 못한 움직임을 보이며, 향후 금리 변동과 주식 시장에 상당한 파급 효과를 가져올 수 있음을 시사합니다.",
+      "summary_text": "이란-이스라엘 분쟁 고조로 국제 유가가 상승하면서 미국 증시 선물 지수가 혼조세를 보이며, 엔비디아(NVDA) 등 특정 기업들이 주목받고 있습니다. 중동 지정학적 리스크는 글로벌 공급망과 에너지 가격에 직접적인 영향을 미쳐 인플레이션 우려를 증폭시키고 증시 전반에 불확실성을 가중시킵니다. 유가 상승에 따른 인플레이션 압력과 지정학적 리스크가 국내 증시 및 관련 산업(에너지, 반도체 등)에 미칠 파급 효과를 주시하며 투자 전략을 재정비해야 합니다.",
+      "description": "이란과 이스라엘 간의 긴장 고조로 유가가 상승하면서 나스닥, S&P 500, 다우 선물 지수가 혼조세를 보이며 엔비디아, 스탠더드차타드 등 주요 종목들이 주목받고 있습니다.",
       "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 성장주",
+      "market_impact": "부정",
+      "related_sector": "에너지, 반도체, 제약바이오",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "S-Oil"
       ],
-      "investment_view": "관심",
-      "investment_reason": "인플레이션 변화는 글로벌 통화 정책 방향을 결정하며, 이는 모든 자산 시장에 광범위한 영향을 미치기 때문에 주의 깊게 살펴봐야 한다.",
-      "key_signal": "이번 인플레이션 지표의 구체적인 내용과 다음 중앙은행 회의에서의 통화 정책 기조 변화 가능성을 주시해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "중동 지정학적 리스크는 국제 유가와 글로벌 경제에 직접적인 영향을 미쳐 국내 증시의 변동성을 높일 수 있으므로 투자에 매우 중요합니다.",
+      "key_signal": "이란-이스라엘 사태의 전개 양상과 국제 유가 흐름, 그리고 인플레이션 지표를 면밀히 모니터링하며 방어적인 포트폴리오를 고려해야 합니다.",
       "keywords": [
+        "지정학적위험",
+        "유가",
         "인플레이션",
-        "금리",
-        "증시",
-        "통화정책",
-        "거시경제"
+        "증시선물",
+        "중동갈등"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0pfaFlyanV2bmJGeVVlX0VpSFBZTDdKYno2NTNkMnZFMXYwcDk3VkJoZHNfYmR1eHZHQUhiY0NBc3RCU1AzV3AtZGVlV1pZeW1FeTVQZllHaE0ycGo0dUdkV0NFaFpoMU4xekV6WWdVZGI5UjVaZXIyaHJSbzQzQ09Jdw?oc=5",
-      "published": "2026-06-14 02:44",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV3NLd2p4OXBhZENueVhtX2JSQ3dWQ3g4S2FyMXctVUoyenI2ZTZZNHVvTElad0VocUJTTFlCOU1BNXFNM2V6NXZ0Smk2eGhYWkxITnZnYnpndjM4aFppdExUSVhCMS05emNDY1dKdm1BN0RrTjNuSWxhUzdyYW5JVXBfODNUbUhMcm11TDBsNE5SMHZjYi1TLWFJbW1tMnU0VGMzMmlfa2pOSzB6alg3NDNCY0pqaVl6UzZJUUpiVEpQeW1HS0ZlSlBERW93V21nWVM4V21NOS1GRDZiNTk0RHJ6VkZxVHBQaE5Wb3F6UDBLbS1Vc1h0cUdn?oc=5",
+      "published": "2026-06-14 23:33",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,42 +67,41 @@
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[AI 패권 시대의 생존 전략 4: 제조 AX 혁명] \"공장을 넘어 국가를 바꾼다\"…AI가 제조업 생산성을 재설계한다",
-      "display_title": "[AI 패권 시대의 생존 전략 4: 제조 AX 혁명] \"공장을 넘어 국가를 바꾼다\"…AI가 제조업 생산성을 재설계한다",
-      "original_title": "[AI 패권 시대의 생존 전략 시리즈 No. 4: 제조 AX 혁명] “공장을 넘어 국가를 바꾼다”…AI가 제조업 생산성을 재설계한다 - 코리아포스트 한글판",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "국채 수익률 2007년 고점 근접, 시장 우려 증폭 – 분석가들, 채권 매도세 아직 끝나지 않았다 경고",
+      "display_title": "국채 수익률 2007년 고점 근접, 시장 우려 증폭 – 분석가들, 채권 매도세 아직 끝나지 않았다 경고",
+      "original_title": "Treasury Yields Are Back Near 2007 Highs, Raising Fresh Market Fears – And Analysts Warn Bond Selloff Isn’t Done Yet - Stocktwits",
       "summary": [
-        "AI 기술이 제조업 생산성을 혁신하며 '제조 AX(AI Transformation) 혁명'을 이끌고 있다.",
-        "AI는 단순 공정 개선을 넘어 제품 설계, 공급망 관리 등 제조업 전반에 걸쳐 효율성을 극대화할 잠재력을 가진다.",
-        "AI 도입을 통해 생산성 향상이 기대되는 제조업 관련 기업들에 대한 장기적 투자 기회를 모색할 필요가 있다."
+        "미국 국채 수익률이 2007년 수준에 근접할 정도로 급등하며 시장의 불안감을 키우고 있으며, 전문가들은 채권 시장의 매도 압력이 지속될 수 있다고 경고합니다.",
+        "국채 수익률 상승은 통상적으로 인플레이션 기대감 및 연준의 추가적인 금리 인상 가능성과 연관되며, 주식 시장에는 부정적인 요인으로 작용할 수 있습니다.",
+        "높은 국채 수익률은 주식의 매력을 상대적으로 낮추고 자금 조달 비용을 높여 기업 실적에 영향을 줄 수 있으므로, 금리 민감 섹터에 대한 주의가 필요합니다."
       ],
-      "summary_text": "AI 기술이 제조업 생산성을 혁신하며 '제조 AX(AI Transformation) 혁명'을 이끌고 있다. AI는 단순 공정 개선을 넘어 제품 설계, 공급망 관리 등 제조업 전반에 걸쳐 효율성을 극대화할 잠재력을 가진다. AI 도입을 통해 생산성 향상이 기대되는 제조업 관련 기업들에 대한 장기적 투자 기회를 모색할 필요가 있다.",
-      "description": "AI 기술이 제조업 생산성을 혁신적으로 재설계하며 공장 운영 방식을 넘어 국가 경제 전반에 걸쳐 거대한 변화를 일으킬 것이라는 분석입니다.",
-      "category": "기업·산업",
+      "summary_text": "미국 국채 수익률이 2007년 수준에 근접할 정도로 급등하며 시장의 불안감을 키우고 있으며, 전문가들은 채권 시장의 매도 압력이 지속될 수 있다고 경고합니다. 국채 수익률 상승은 통상적으로 인플레이션 기대감 및 연준의 추가적인 금리 인상 가능성과 연관되며, 주식 시장에는 부정적인 요인으로 작용할 수 있습니다. 높은 국채 수익률은 주식의 매력을 상대적으로 낮추고 자금 조달 비용을 높여 기업 실적에 영향을 줄 수 있으므로, 금리 민감 섹터에 대한 주의가 필요합니다.",
+      "description": "국채 수익률이 2007년 고점 부근까지 상승하며 새로운 시장 우려를 낳고 있으며, 분석가들은 채권 매도세가 아직 끝나지 않았다고 경고합니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "스마트팩토리, 자동화, 산업용 AI, 로봇, 반도체",
+      "market_impact": "부정",
+      "related_sector": "채권, 증권, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "포스코DX"
+        "카카오뱅크",
+        "우리금융지주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI는 한국 제조업의 경쟁력을 좌우할 핵심 기술이며, 관련 솔루션 및 설비를 제공하는 기업들의 성장 잠재력이 매우 크기 때문이다.",
-      "key_signal": "국내 제조업체들의 AI 도입 현황과 투자 계획, 그리고 AI 기반 솔루션 기업들의 실적 변화를 지속적으로 모니터링해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "국채 수익률 급등은 글로벌 금융 시장의 자금 흐름과 주식 밸류에이션에 막대한 영향을 미치므로, 국내 투자자들에게도 매우 중요한 지표입니다.",
+      "key_signal": "미국 국채 수익률의 추가 상승 여부와 이에 따른 연준의 금리 인상 시그널을 면밀히 관찰하고, 금리 변화에 민감한 업종의 투자 비중을 재고해야 합니다.",
       "keywords": [
-        "AI",
-        "제조업",
-        "스마트팩토리",
-        "생산성",
-        "AX"
+        "국채수익률",
+        "채권시장",
+        "금리인상",
+        "시장우려",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbGpGUVkwendyeTRkRTJ6cS1pUkRXVEY2c1lqaC12dWQzNy1NN2RSWnBfY0VjUnluM0wwcEJ6TUFPMlZTdkZqakZwaVFKdzFEb21SLXNRakFaRU0tZTYxazRVSG1Ka3ZFMENLSldn?oc=5",
-      "published": "2026-06-14 07:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFZGVl94Y3VzZzJHZnVYbEkzaWlzeXRwbFlZcXVtSnFwd2FJLUVWVWFJb1MwNnEtSDd1S05pRUpYc050MUtpRGJzSlBqajQwUTB5N2RDWGtDNXFoWnFuS0FmakpRQTZIakt6SWt0WWZ2RlJ4M205a1YyZV9lT0pMU2xUc2pPYk10eFFPRVRlXzN1bmlDanh0OGZMWkxoWno4OFJxbjdsYnVDZWZzZEVtRGV1RG1ReHNwb0RSbzZKZEp3SUl3Q2prWENQZHpEZEk2ZkJyckticw?oc=5",
+      "published": "2026-06-14 22:59",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,36 +111,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "중동전쟁 ‘경기 위험’ 가시화…“고물가·고용 둔화 우려”",
-      "display_title": "중동전쟁 ‘경기 위험’ 가시화…“고물가·고용 둔화 우려”",
-      "original_title": "중동전쟁 ‘경기 위험’ 가시화…“고물가·고용 둔화 우려” - 에너지경제신문",
+      "title": "결국 꺼낸 보유세 카드…공급절벽 넘을 수 있나?",
+      "display_title": "결국 꺼낸 보유세 카드…공급절벽 넘을 수 있나?",
+      "original_title": "결국 꺼낸 보유세 카드…공급절벽 넘을 수 있나? - 네이트",
       "summary": [
-        "중동 전쟁 장기화로 국내 경기 침체 위험이 커지며 고물가와 고용 둔화가 우려된다.",
-        "중동의 지정학적 불안정은 유가 상승 등 원자재 가격에 영향을 미쳐 물가 상승 압력으로 작용하며, 기업 활동 위축으로 고용 둔화를 야기할 수 있다.",
-        "경기 방어적 업종에 대한 관심이 높아질 수 있으며, 에너지 관련 주식 및 물가 상승 헤지 수단에 대한 고려가 필요하다."
+        "정부가 부동산 시장 안정화를 위해 보유세 인상 카드를 꺼냈으나, 이것이 핵심 문제인 주택 공급 부족 현상(공급절벽)을 해결할 수 있을지에 대한 의문이 제기되고 있습니다.",
+        "보유세 인상은 다주택자의 부담을 늘려 투기를 억제하려는 목적이지만, 근본적인 공급 부족 문제 해결 없이는 시장 안정화에 한계가 있을 수 있다는 지적입니다.",
+        "보유세 인상 정책이 단기적으로 주택 매물 증가에 영향을 줄 수 있지만, 장기적인 관점에서는 주택 공급 시그널과 정책의 실효성을 종합적으로 판단해야 합니다."
       ],
-      "summary_text": "중동 전쟁 장기화로 국내 경기 침체 위험이 커지며 고물가와 고용 둔화가 우려된다. 중동의 지정학적 불안정은 유가 상승 등 원자재 가격에 영향을 미쳐 물가 상승 압력으로 작용하며, 기업 활동 위축으로 고용 둔화를 야기할 수 있다. 경기 방어적 업종에 대한 관심이 높아질 수 있으며, 에너지 관련 주식 및 물가 상승 헤지 수단에 대한 고려가 필요하다.",
-      "description": "중동전쟁의 장기화 및 확전 가능성으로 인해 국내 경기에 고물가와 고용 둔화라는 이중고의 위험이 현실화될 수 있다는 우려가 커지고 있습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "정부가 부동산 시장 안정화를 위해 보유세 인상 카드를 꺼냈으나, 이것이 핵심 문제인 주택 공급 부족 현상(공급절벽)을 해결할 수 있을지에 대한 의문이 제기되고 있습니다. 보유세 인상은 다주택자의 부담을 늘려 투기를 억제하려는 목적이지만, 근본적인 공급 부족 문제 해결 없이는 시장 안정화에 한계가 있을 수 있다는 지적입니다. 보유세 인상 정책이 단기적으로 주택 매물 증가에 영향을 줄 수 있지만, 장기적인 관점에서는 주택 공급 시그널과 정책의 실효성을 종합적으로 판단해야 합니다.",
+      "description": "정부가 결국 보유세 인상 카드를 꺼냈지만, 이것이 주택 공급 부족 문제(공급 절벽)를 해결할 수 있을지에 대한 의문이 제기되고 있습니다.",
+      "category": "부동산·정책",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "정유/화학, 식품, 유틸리티",
+      "market_impact": "중립",
+      "related_sector": "건설, 부동산, 정책",
       "related_stocks": [
-        "S-Oil",
-        "대한항공"
+        "현대건설",
+        "GS건설",
+        "HDC현대산업개발"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중동 리스크는 유가 및 물가에 직접적인 영향을 미쳐 국내 기업 실적과 소비자 구매력에 부정적 영향을 미치므로 포트폴리오 재조정이 필요할 수 있다.",
-      "key_signal": "국제 유가 동향과 정부의 물가 안정 정책, 그리고 국내 기업들의 원자재 가격 변동 대응 전략을 주시해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "정부의 부동산 정책은 주택 시장과 건설 산업에 직접적인 영향을 미치며, 투자자들은 정책의 실효성과 시장 반응을 주의 깊게 살펴야 합니다.",
+      "key_signal": "보유세 인상 이후 다주택자 매물 출회 여부와 함께 신규 주택 공급 대책의 구체적인 내용과 추진 상황을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "중동전쟁",
-        "고물가",
-        "고용둔화",
-        "경기침체",
-        "유가"
+        "보유세",
+        "부동산정책",
+        "공급절벽",
+        "주택시장",
+        "다주택자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQkI3SjZFcnlCUGtuay1ZeWlRWDh4SGtBd1ZIMEN5RmNhVUl1bnZlQjJGWGNLVlRoVktIejZQcWk0aGJmV1ZCWnM2MjRfZmFFeDVQcFR3clJ2MlU?oc=5",
-      "published": "2026-06-14 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UbE9FZWlrMkIzSWZWclZaYVhUZ2d1LXJ4SWF0LVhYWWd6RUdteGpCWHkzX19xOTRpci1aXzVpVkZLUFY0cDJNSmZuUW9SQ2thVE93?oc=5",
+      "published": "2026-06-15 06:02",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -150,42 +150,42 @@
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "5월 강력한 고용 보고서로 빅테크 주가 하락 및 금리 인상 가능성 고조에 증시 하락",
-      "display_title": "5월 강력한 고용 보고서로 빅테크 주가 하락 및 금리 인상 가능성 고조에 증시 하락",
-      "original_title": "Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates - MSN",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "'경기 하방 위험'은 지웠지만…물가 3.1%·취업자 4만 명 감소 '민생 경고등'",
+      "display_title": "'경기 하방 위험'은 지웠지만…물가 3.1%·취업자 4만 명 감소 '민생 경고등'",
+      "original_title": "'경기 하방 위험' 지웠지만…물가 3.1%·취업자 4만 명 감소 '민생 경고등' - reportera.co.kr",
       "summary": [
-        "강력한 5월 고용 보고서 발표로 금리 인상 가능성이 높아지면서 미국 증시의 빅테크 주식이 하락했다.",
-        "견조한 고용 시장은 인플레이션 압력을 지속시켜 연준의 긴축 기조를 장기화할 수 있다는 우려를 키운다.",
-        "고금리 환경에 취약한 성장주(특히 빅테크)에 대한 투자 심리가 위축될 수 있으므로, 방어적 섹터 또는 가치주에 대한 고려가 필요하다."
+        "정부는 경기 평가에서 '하방 위험' 표현을 삭제했으나, 여전히 높은 3.1%의 물가 상승률과 4만 명 감소한 취업자 수는 민생 경제에 대한 우려를 심화시키고 있습니다.",
+        "정부의 경기 판단과 실제 국민들이 체감하는 경제 상황 간의 괴리가 발생하고 있으며, 고물가와 고용 부진이 가계의 소비 여력을 위축시키고 있습니다.",
+        "물가와 고용 지표는 소비 심리 및 기업 실적에 직접적인 영향을 미치므로, 경제 지표의 변화를 면밀히 주시하며 소비재 및 내수 관련 기업 투자에 신중해야 합니다."
       ],
-      "summary_text": "강력한 5월 고용 보고서 발표로 금리 인상 가능성이 높아지면서 미국 증시의 빅테크 주식이 하락했다. 견조한 고용 시장은 인플레이션 압력을 지속시켜 연준의 긴축 기조를 장기화할 수 있다는 우려를 키운다. 고금리 환경에 취약한 성장주(특히 빅테크)에 대한 투자 심리가 위축될 수 있으므로, 방어적 섹터 또는 가치주에 대한 고려가 필요하다.",
-      "description": "5월 고용 보고서가 강력하게 발표되면서 금리 인상 가능성이 높아졌고, 이에 따라 빅테크 기업들의 주가가 하락하며 전체 증시가 약세를 보였습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "정부는 경기 평가에서 '하방 위험' 표현을 삭제했으나, 여전히 높은 3.1%의 물가 상승률과 4만 명 감소한 취업자 수는 민생 경제에 대한 우려를 심화시키고 있습니다. 정부의 경기 판단과 실제 국민들이 체감하는 경제 상황 간의 괴리가 발생하고 있으며, 고물가와 고용 부진이 가계의 소비 여력을 위축시키고 있습니다. 물가와 고용 지표는 소비 심리 및 기업 실적에 직접적인 영향을 미치므로, 경제 지표의 변화를 면밀히 주시하며 소비재 및 내수 관련 기업 투자에 신중해야 합니다.",
+      "description": "정부가 경제 상황 평가에서 '경기 하방 위험' 문구를 삭제했지만, 3.1%의 높은 물가 상승률과 취업자 4만 명 감소는 민생 경제에 경고등을 켜고 있습니다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "기술주, 성장주, 반도체",
+      "related_sector": "소비재, 고용, 인플레이션",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "롯데쇼핑",
+        "이마트",
+        "CJ제일제당"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 고용 지표와 금리 인상 기대감은 한국 증시의 기술주 섹터에도 직접적인 영향을 미치므로 투자 포트폴리오 점검이 필요하다.",
-      "key_signal": "다음 인플레이션 지표와 연준의 금리 결정에 대한 시장의 기대를 지속적으로 확인해야 한다.",
+      "investment_reason": "국내 거시 경제의 핵심 지표인 물가와 고용 상황은 국민들의 실질 소득과 기업의 매출에 직결되므로, 투자 의사결정에 매우 중요합니다.",
+      "key_signal": "다음 달 발표될 소비자물가지수와 고용 동향을 면밀히 살펴보고, 정부의 추가적인 물가 및 고용 안정화 대책 발표 여부에 주목해야 합니다.",
       "keywords": [
-        "고용보고서",
-        "금리인상",
-        "빅테크",
-        "성장주",
-        "증시하락"
+        "물가",
+        "고용",
+        "경기하방위험",
+        "민생경제",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlFtTVNudmxKTzVuNUg3TFcxeWRjY010TGpRZUlyLTB1bkp2TGkyb0I5alpiVEllSk00QVZUN2RfSVM1ZzhKQVpVeTN5NlZjLU9xTGgyRUw3c1JtWWdfLVFvOXRYTWFOdG5WeWVXRTc5OThkUDBWUVpGcGFENmJ2V2MwaEE0MGxxQ0RZR2IwR0hZem8xeHVfTWVhaHFpZUJtZWEzVzRpTXpOcWdSU0loMTJqbW9wdmRRa21UZGFUV1A0anFmdXpoS2JLeHc?oc=5",
-      "published": "2026-06-13 21:58",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MZ1hSem9XVXhEZ2RUN3Nzc0J4QXQ5ellNU2RSbThxck1JZWtDSVR0bU5LUDJqdl9xWm5QQzlwVjV2dEZKYW4xb1BqREdtdTBfdHhwWlZIU29Pa2RQME54V19BVGZFclJCWTF5Zmo4MnFUQWNseUtqNGMxZG_SAXxBVV95cUxPTGdYUnpvV1V4RGdkVDdzc3NCeEF0OXpZTVNkUm04cXJNSWVrQ0lUdG1OS1AyanZfcVpuUEM5cFY1dnRGSmFuMW9QakRHbXUwX3R4cFpWSFNvT2tkUDBOeFdfQVRmRXJSQlkxeWZqODJxVEFjbHlLajRjMWRv?oc=5",
+      "published": "2026-06-14 23:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -195,37 +195,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이번 주 S&P 500 지수에 큰 영향 미칠 3가지 핵심 지표",
-      "display_title": "이번 주 S&P 500 지수에 큰 영향 미칠 3가지 핵심 지표",
-      "original_title": "3 Things to Watch This Week That Could Heavily Impact How the S&P 500 Does From Here on Out - AOL.com",
+      "title": "화요일 개장 전, 연준, 유가, 스페이스X에 이목 집중",
+      "display_title": "화요일 개장 전, 연준, 유가, 스페이스X에 이목 집중",
+      "original_title": "Fed, Oil Prices, and SpaceX Draw Attention Prior to Tuesday’s Open - TechStock²",
       "summary": [
-        "이번 주 발표될 주요 경제 지표들이 S&P 500 지수에 큰 영향을 줄 것으로 예상된다.",
-        "미국 시장은 글로벌 투자 환경에 큰 비중을 차지하며, S&P 500 변동성은 국내 시장에도 파급 효과를 미친다.",
-        "S&P 500에 영향을 미치는 요인들을 미리 파악하고 포트폴리오 변동성에 대비해야 한다."
+        "주식 시장 개장 전, 미국 연방준비제도(Fed)의 정책 방향, 국제 유가 변동성, 스페이스X 관련 소식이 시장의 핵심 관심사로 부상했습니다.",
+        "글로벌 경제의 불확실성이 지속되는 가운데, 거시경제 지표와 주요 혁신 기업의 동향이 투자 심리에 큰 영향을 미치고 있습니다.",
+        "연준의 매파적/비둘기파적 스탠스, 유가 추이, 스페이스X와 연관된 우주항공 및 기술 산업의 동향을 면밀히 관찰해야 합니다."
       ],
-      "summary_text": "이번 주 발표될 주요 경제 지표들이 S&P 500 지수에 큰 영향을 줄 것으로 예상된다. 미국 시장은 글로벌 투자 환경에 큰 비중을 차지하며, S&P 500 변동성은 국내 시장에도 파급 효과를 미친다. S&P 500에 영향을 미치는 요인들을 미리 파악하고 포트폴리오 변동성에 대비해야 한다.",
-      "description": "이번 주 발표될 주요 경제 지표 및 이벤트들이 S&P 500 지수의 향방에 중대한 영향을 미칠 수 있어 투자자들의 관심이 집중되고 있습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "주식 시장 개장 전, 미국 연방준비제도(Fed)의 정책 방향, 국제 유가 변동성, 스페이스X 관련 소식이 시장의 핵심 관심사로 부상했습니다. 글로벌 경제의 불확실성이 지속되는 가운데, 거시경제 지표와 주요 혁신 기업의 동향이 투자 심리에 큰 영향을 미치고 있습니다. 연준의 매파적/비둘기파적 스탠스, 유가 추이, 스페이스X와 연관된 우주항공 및 기술 산업의 동향을 면밀히 관찰해야 합니다.",
+      "description": "화요일 개장 전, 연준의 정책, 유가 변동, 스페이스X 관련 소식이 시장의 주요 관심사로 떠오르고 있습니다.",
+      "category": "증시·금리",
       "importance": 8,
       "market_impact": "중립",
-      "related_sector": "전 섹터",
+      "related_sector": "통화정책, 에너지, 우주항공",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "한화에어로스페이스"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 증시의 방향성은 한국 증시에도 상당한 영향을 미치므로, 주요 지표를 미리 확인하여 시장 변화에 대응할 필요가 있다.",
-      "key_signal": "이번 주 발표될 구체적인 경제 지표(예: CPI, 고용보고서, FOMC)와 그에 따른 시장 반응을 면밀히 모니터링해야 한다.",
+      "investment_reason": "연준의 통화정책 방향과 유가 변동은 전 세계 증시와 직결되며, 스페이스X는 미래 산업의 성장 동력을 가늠하는 지표이므로 투자 시 중요한 고려 요소입니다.",
+      "key_signal": "연준의 발표 내용과 국제유가 변동성, 스페이스X 관련 기술 혁신 소식을 주시하며 투자 전략을 점검해야 합니다.",
       "keywords": [
-        "S&P500",
-        "미국증시",
-        "경제지표",
-        "시장전망",
-        "변동성"
+        "연준",
+        "유가",
+        "스페이스X",
+        "증시",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BekRBSnNxYVd5UGRsdUEyQjVXT1VJNWhPT21TYm1jYm5uZGUxdnlIdDUxZzZVTzhYY2RmSFZMczJFN25hRnUtaTByOTltU1pVTWRmV0g2YUNoek5RM1dfY0h2NTFZdVdvd3pvQUVTaHozRFB6N1BhZQ?oc=5",
-      "published": "2026-06-14 05:28",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWlON2I4T3BSNGJsSWpWWldweExTVi1RaFFkVDBhMEhKUEI0U29hNjNmcmduRk1LX1FpQzBma1kyR3R2akNuTTU5bHV4WW4xcnROUnJPVFFGSFdiRmhsRjU5TXhtbnpPc2VhNHhhcUtVLXV2Vm1CRHJLcEE0cTNMdk9TYzZoanFpVVRldA?oc=5",
+      "published": "2026-06-15 07:40",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -237,37 +237,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "SpaceX 같은 AI 거물을 무시할 수 없다, 당신의 401(k)도 마찬가지",
-      "display_title": "SpaceX 같은 AI 거물을 무시할 수 없다, 당신의 401(k)도 마찬가지",
-      "original_title": "You can ignore AI giants like SpaceX, but your 401(k) won't - Barchart.com",
+      "title": "'지속 불가능한' 상승 후 인플레이션 우려가 기술주를 강타",
+      "display_title": "'지속 불가능한' 상승 후 인플레이션 우려가 기술주를 강타",
+      "original_title": "Inflation Concerns Are Hammering Tech Stocks After an 'Unsustainable' Run Higher. Here's What to Know. - AOL.com",
       "summary": [
-        "SpaceX와 같은 AI 거대 기업들이 장기적인 투자 포트폴리오에 필수적인 영향을 미치고 있음을 강조한다.",
-        "AI 기술은 단순한 트렌드를 넘어 산업 전반과 개인의 자산 형성에도 깊이 관여하게 될 것임을 시사한다.",
-        "AI 관련 혁신 기업에 대한 장기적 관점의 투자가 중요하며, 포트폴리오에 AI 노출을 고려해야 한다."
+        "최근 급등했던 기술주들이 인플레이션 우려로 인해 하방 압력을 받고 있으며, 전문가들은 이러한 상승세가 지속 불가능했다고 평가합니다.",
+        "고인플레이션 환경에서 금리 인상 기대감이 커지면, 미래 수익 가치가 높은 성장주인 기술주의 매력이 상대적으로 감소하는 경향이 있습니다.",
+        "고평가된 기술주에 대한 신중한 접근이 필요하며, 인플레이션 헤지 또는 실적 기반의 가치주로의 분산 투자 전략을 고려해볼 수 있습니다."
       ],
-      "summary_text": "SpaceX와 같은 AI 거대 기업들이 장기적인 투자 포트폴리오에 필수적인 영향을 미치고 있음을 강조한다. AI 기술은 단순한 트렌드를 넘어 산업 전반과 개인의 자산 형성에도 깊이 관여하게 될 것임을 시사한다. AI 관련 혁신 기업에 대한 장기적 관점의 투자가 중요하며, 포트폴리오에 AI 노출을 고려해야 한다.",
-      "description": "SpaceX와 같은 인공지능(AI) 분야의 거대 기업들이 전반적인 경제와 개인 투자 포트폴리오(401k)에 미치는 영향이 매우 크기 때문에 간과할 수 없다는 내용입니다.",
-      "category": "기업·산업",
+      "summary_text": "최근 급등했던 기술주들이 인플레이션 우려로 인해 하방 압력을 받고 있으며, 전문가들은 이러한 상승세가 지속 불가능했다고 평가합니다. 고인플레이션 환경에서 금리 인상 기대감이 커지면, 미래 수익 가치가 높은 성장주인 기술주의 매력이 상대적으로 감소하는 경향이 있습니다. 고평가된 기술주에 대한 신중한 접근이 필요하며, 인플레이션 헤지 또는 실적 기반의 가치주로의 분산 투자 전략을 고려해볼 수 있습니다.",
+      "description": "지속 불가능한 상승세를 보인 후 인플레이션 우려가 기술주에 큰 타격을 주고 있습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "인공지능, 우주항공, 소프트웨어, 반도체",
+      "market_impact": "부정",
+      "related_sector": "기술, 반도체, 인터넷",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
-        "카카오"
+        "네이버"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI가 미래 산업과 투자 시장의 주류가 될 것임을 시사하며, 관련 기술 개발 및 사업을 영위하는 기업에 대한 장기적 관점의 투자를 고려해야 한다.",
-      "key_signal": "AI 기술 혁신이 실제 기업 가치와 수익으로 이어지는지, 그리고 국내 기업들의 AI 경쟁력을 지속적으로 평가해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "인플레이션과 금리 인상 압박은 기술주의 밸류에이션에 직접적인 영향을 미치므로, 국내 기술주 투자자들은 변화하는 시장 환경에 유의해야 합니다.",
+      "key_signal": "글로벌 인플레이션 지표와 각국 중앙은행의 금리 정책 변화를 주시하며, 기술 기업들의 실적 개선 여부를 통해 옥석 가리기에 집중해야 합니다.",
       "keywords": [
-        "AI",
-        "혁신기업",
-        "미래산업",
-        "장기투자",
-        "포트폴리오"
+        "인플레이션",
+        "기술주",
+        "금리인상",
+        "성장주",
+        "밸류에이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdl9QNjdZdmIyS1BPZXlJM3A4N3lsa2dXY2ZlRWxORC1SS3l0aXlGVVB5a3dYaWFYV2hPLVF1bGt4dkZKOWlKWnp3LU52VjRqcERNZEhOYklpWXpVUHdYZ3dhYVBTWlJCR0VySWdEY1dOYzZ0eTBNb3JPeHBjazZNMEJYUVdSLTZqWWp5TDNvblNTUHdTYVpXTzBKY0NZY2pzeXc?oc=5",
-      "published": "2026-06-13 21:01",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFhGSEFjd3cyTXFPbmlIVUYwTlFzUDZkMnpLa2JYSVM0NGlNeFZJTFEzUXhYeUxHdDJuMTRCNWIwYkVGeVFJRmROc3B3ODNnbmdyRTBnOWFyWnExYWxERkxwbjZNNzRLN3g4NEhLRnFmNkdHcVBSNDE2eEFwUHdsMVRzZjMwdVRxSlZN?oc=5",
+      "published": "2026-06-15 04:46",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -281,66 +281,67 @@
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "AI 제조업 혁명과 AI 산업 전반의 성장 기대감에 힘입어 긍정적인 전망이 큰 가운데, 글로벌 고용 지표 및 금리 인상 가능성 고조로 인한 기술주 전반의 하방 압력 또한 존재하여 변동성이 확대될 수 있습니다. AI 시대 핵심인 반도체 수요와 글로벌 매크로 환경 변화를 동시에 반영하는 대표 종목으로서 오늘 시장의 방향성을 가늠하는 데 중요한 역할을 할 것입니다.",
+      "opinion": "주의",
+      "reason": "중동 지정학적 리스크로 인한 글로벌 경기 둔화 우려와 연준의 통화정책 방향, 인플레이션 압박이 기술주 밸류에이션에 미칠 영향이 크므로 시장의 주요 변동성 요인으로 주목해야 합니다.",
       "check_points": [
-        "글로벌 AI 관련 투자 동향 및 수요 변화",
-        "미국 금리 인상 기대감 변화 및 기술주 흐름",
-        "반도체 업황 및 가격 추이"
+        "글로벌 반도체 수요 및 가격 동향",
+        "중동 지정학적 리스크 완화 여부",
+        "환율 변동성 및 연준 금리 정책"
       ],
       "related_news_titles": [
-        "[AI 패권 시대의 생존 전략 4: 제조 AX 혁명] \"공장을 넘어 국가를 바꾼다\"…AI가 제조업 생산성을 재설계한다",
-        "5월 강력한 고용 보고서로 빅테크 주가 하락 및 금리 인상 가능성 고조에 증시 하락",
-        "SpaceX 같은 AI 거물을 무시할 수 없다, 당신의 401(k)도 마찬가지"
+        "이란-이스라엘 갈등 고조로 유가 상승, 나스닥, S&P 500, 다우 선물 혼조세: NVDA, STI, MRVL, LLY, SOC 주목",
+        "화요일 개장 전, 연준, 유가, 스페이스X에 이목 집중",
+        "'지속 불가능한' 상승 후 인플레이션 우려가 기술주를 강타"
       ]
     },
     {
       "rank": 2,
-      "name": "포스코DX",
+      "name": "S-Oil",
       "market": "KOSPI",
-      "sector": "스마트팩토리",
-      "opinion": "관심",
-      "reason": "AI 기반 제조업 생산성 혁신이 국가 경쟁력의 핵심으로 부상함에 따라 스마트팩토리, 산업용 AI 및 자동화 솔루션을 제공하는 기업의 성장 잠재력이 매우 큽니다. 포스코DX는 국내 제조업의 디지털 전환을 주도하는 대표적인 기업으로, AI 시대의 직접적인 수혜가 기대됩니다.",
+      "sector": "정유",
+      "opinion": "주의",
+      "reason": "이란-이스라엘 갈등 고조로 인한 국제 유가 상승은 정유 업종의 마진 개선에 긍정적일 수 있으나, 동시에 글로벌 경기 침체 우려와 지정학적 리스크 확대로 인한 변동성을 키우므로 주의 깊게 관찰해야 합니다.",
       "check_points": [
-        "국내외 제조업체의 AI/자동화 설비 투자 확대 여부",
-        "신규 수주 및 파이프라인 확보 현황",
-        "AI 솔루션 기술 경쟁력 및 적용 확대"
+        "국제 유가(WTI, 브렌트유) 동향",
+        "중동 지정학적 리스크 확산 여부",
+        "정제마진 변동성"
       ],
       "related_news_titles": [
-        "[AI 패권 시대의 생존 전략 4: 제조 AX 혁명] \"공장을 넘어 국가를 바꾼다\"…AI가 제조업 생산성을 재설계한다"
+        "이란-이스라엘 갈등 고조로 유가 상승, 나스닥, S&P 500, 다우 선물 혼조세: NVDA, STI, MRVL, LLY, SOC 주목",
+        "화요일 개장 전, 연준, 유가, 스페이스X에 이목 집중"
       ]
     },
     {
       "rank": 3,
-      "name": "한국금융지주",
+      "name": "현대건설",
       "market": "KOSPI",
-      "sector": "금융",
+      "sector": "건설",
       "opinion": "관심",
-      "reason": "인플레이션 변화와 글로벌 통화 정책 방향은 모든 자산 시장, 특히 금융 시장에 광범위한 영향을 미칩니다. 미국 S&P 500 지수 방향성과 한국 증시 흐름이 밀접하게 연관되어 있어, 금융 업종은 금리 및 시장 변동성에 대한 민감도가 높으므로 시장 전반의 변화를 파악하기 위한 중요한 지표가 될 것입니다.",
+      "reason": "정부의 보유세 카드 등 부동산 정책 변화 가능성이 건설 업종에 미칠 영향을 주시해야 합니다. 정책의 실효성과 시장 반응에 따라 주택 시장 및 건설 업황이 달라질 수 있습니다.",
       "check_points": [
-        "미국 및 국내 통화정책 기조 변화 (금리 인하/인상 시그널)",
-        "글로벌 인플레이션 지표 추이",
-        "외국인 투자자금 유출입 동향"
+        "정부의 부동산 정책 방향 및 구체화",
+        "주택 시장 거래량 및 가격 동향",
+        "건설 자재 가격 및 원가 변동"
       ],
       "related_news_titles": [
-        "인플레이션, 2023년 이후 처음으로 변화… 금리 및 증시에 큰 영향 예고",
-        "이번 주 S&P 500 지수에 큰 영향 미칠 3가지 핵심 지표"
+        "결국 꺼낸 보유세 카드…공급절벽 넘을 수 있나?"
       ]
     },
     {
       "rank": 4,
-      "name": "카카오",
+      "name": "우리금융지주",
       "market": "KOSPI",
-      "sector": "소프트웨어",
-      "opinion": "관심",
-      "reason": "AI가 미래 산업과 투자 시장의 주류가 될 것이라는 전망과 함께, 국내 대표 AI 및 소프트웨어 플랫폼 기업인 카카오에 대한 관심이 높아지고 있습니다. AI 기술 개발 및 서비스 접목을 통한 새로운 성장 동력 확보 여부가 중요하게 작용할 것입니다.",
+      "sector": "은행",
+      "opinion": "주의",
+      "reason": "국채 수익률 급등으로 인한 글로벌 채권 시장의 변동성과 연준의 통화정책 방향에 따른 금리 민감도가 국내 금융주에 미칠 영향이 크므로 주시해야 합니다.",
       "check_points": [
-        "AI 기반 신규 서비스 출시 및 기존 서비스 강화 동향",
-        "AI 관련 투자 및 제휴 현황",
-        "글로벌 빅테크 기업들의 AI 전략 변화"
+        "국채 수익률 동향 및 추이",
+        "연준의 금리 인상/인하 스탠스 변화",
+        "은행권 대출 건전성 지표"
       ],
       "related_news_titles": [
-        "SpaceX 같은 AI 거물을 무시할 수 없다, 당신의 401(k)도 마찬가지"
+        "국채 수익률 2007년 고점 근접, 시장 우려 증폭 – 분석가들, 채권 매도세 아직 끝나지 않았다 경고",
+        "화요일 개장 전, 연준, 유가, 스페이스X에 이목 집중"
       ]
     }
   ],
