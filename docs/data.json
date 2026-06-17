@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17 08:24",
-  "analysis_date": "2026-06-17",
+  "generated_at": "2026-06-18 08:24",
+  "analysis_date": "2026-06-18",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 증시는 S&P 500의 장기 상승 전망에도 불구하고 기술주 약세와 업종별 순환매 양상을 보였습니다. 국내는 FOMC 관망세 속 AI 및 미래차 관련 산업의 성장 기대감이 커지고 있습니다.",
-    "국내거시경제": "국내 국채금리가 하락하고 약달러 기조가 이어지는 가운데, FOMC 결과에 대한 관망세가 짙습니다. 원/달러 환율은 1500원 후반에서 변동할 전망입니다.",
-    "글로벌경제": "월가에서는 S&P 500의 9000 돌파 가능성을 제시하며 멜트업 시장을 전망했으나, 미국 증시는 다우 상승에도 불구하고 기술주 약세로 나스닥과 S&P 500이 하락하며 혼조세를 보였습니다.",
-    "증시금리": "미국 증시는 다우가 사상 최고치를 경신한 반면, 기술주 압박으로 S&P 500과 나스닥은 하락하며 업종별 차별화가 심화되고 있습니다. 국내 금리 하락 기대감은 긍정적이나, FOMC 결과에 따라 시장 변동성이 커질 수 있습니다.",
-    "부동산정책": "해당 사항 없음",
-    "기업산업": "현대차는 차량 R&D에 7조원을 투자하여 AI 기반 미래차 전환을 가속화합니다. AI 경쟁 심화로 인한 전력 수요 증가가 K-배터리 및 변압기 산업에 새로운 성장 기회를 제공할 것으로 기대됩니다.",
-    "오늘의투자시사점": "글로벌 증시의 업종별 순환매 가능성에 대비하고, AI 및 미래차 등 미래 성장 동력을 가진 산업 내 국내 기업들에 대한 관심을 확대하며 포트폴리오를 다각화할 필요가 있습니다.",
-    "오늘의한줄": "글로벌 증시 순환매 속 AI와 미래차 등 국내 성장 산업에 주목하며 포트폴리오를 다각화할 시점입니다."
+    "총평": "글로벌 금리 인상 우려가 증폭되며 미국 증시는 하락했으나, 한국 증시는 외부 악재에도 불구하고 독립적인 상승 흐름을 보였습니다. 지정학적 리스크로 인한 물가 압력은 주요국 금리 경로에 불확실성을 가중시키고 있습니다.",
+    "국내거시경제": "반도체 산업 호황에 힘입어 명목 GDP 성장률 10%가 예상되며, 초과 세수의 효과적 배분이 한국 경제의 미래를 결정할 핵심 요인으로 부상했습니다.",
+    "글로벌경제": "중동전쟁 발발과 새로운 연준 의장의 매파적 스탠스 가능성으로 미국 금리 인상 우려가 커지며 글로벌 금융 시장의 불확실성이 증대되고 있습니다. 전기차 DC-DC 컨버터 시장은 2035년까지 4,976억 달러 규모로 고성장이 전망됩니다.",
+    "증시금리": "미국 증시는 연준의 금리 인상 가능성에 일제히 하락했으며, 한국도 다음 달 금리 인상 가능성이 제기되어 유동성 위축 우려가 있습니다. 하지만 국내 증시는 미국 반도체 조정 및 외국인 매도에도 불구하고 강한 회복력을 보이며 상승 마감했습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "반도체 산업의 강력한 성장이 국가 재정에 긍정적 영향을 미치며, 이로 인한 초과 세수 배분 전략이 주목됩니다. 전기차 전장화 가속화로 자동차 DC-DC 컨버터 시장의 장기적인 고성장이 예상되어 관련 기업에 대한 관심이 필요합니다.",
+    "오늘의투자시사점": "글로벌 금리 인상 압력과 국내 금리 인상 가능성에 대비하여 이자 부담 증가 및 유동성 위축에 주의해야 합니다. 반면, 국내 증시의 독립적인 흐름과 반도체 초과 세수 배분, 전기차 관련 산업의 장기 성장 잠재력에 주목하여 투자 기회를 모색할 필요가 있습니다.",
+    "오늘의한줄": "글로벌 금리 불확실성 속 국내 증시는 차별적 강세를 보였으나, 통화 정책 방향 변화와 산업별 성장 동력을 면밀히 살펴야 합니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "월가 애널리스트, S&P 500 지수 9000 돌파 전망: 주식 시장 멜트업 이제 시작일 가능성",
-      "display_title": "월가 애널리스트, S&P 500 지수 9000 돌파 전망: 주식 시장 멜트업 이제 시작일 가능성",
-      "original_title": "Wall Street Analyst Calls for S&P 500 Soaring to 9000. Here's Why the Stock Market Melt Up Could Be Just Beginning. - 24/7 Wall St.",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "중동전쟁에 바뀐 금리 경로…미국은 매파적 동결, 한국은 다음 달 인상 전망",
+      "display_title": "중동전쟁에 바뀐 금리 경로…미국은 매파적 동결, 한국은 다음 달 인상 전망",
+      "original_title": "중동전쟁에 바뀐 금리 경로…美 매파적 동결·韓 내달 인상 전망 - 매일경제 마켓",
       "summary": [
-        "월가 애널리스트가 S&P 500 지수가 9000까지 상승할 것이라고 전망했습니다.",
-        "현재 주식 시장의 멜트업(melt up) 현상이 이제 막 시작되었을 가능성이 제기되고 있습니다.",
-        "장기적인 상승 잠재력에 대한 기대감으로 인해 투자 심리가 긍정적으로 유지될 수 있습니다."
+        "중동전쟁 발발이 글로벌 금리 경로를 변경시켜, 미국 연방준비제도는 매파적 동결 기조를 유지하고 한국은행은 다음 달 금리 인상 가능성이 커졌습니다.",
+        "지정학적 리스크가 에너지 가격 상승을 부추기고 인플레이션 압력을 가중시키면서 각국 중앙은행의 통화 정책에 영향을 미치고 있습니다.",
+        "한국의 금리 인상은 가계 및 기업의 이자 부담을 늘리고 증시 유동성을 위축시킬 수 있으므로 관련 업종에 대한 투자 주의가 필요합니다."
       ],
-      "summary_text": "월가 애널리스트가 S&P 500 지수가 9000까지 상승할 것이라고 전망했습니다. 현재 주식 시장의 멜트업(melt up) 현상이 이제 막 시작되었을 가능성이 제기되고 있습니다. 장기적인 상승 잠재력에 대한 기대감으로 인해 투자 심리가 긍정적으로 유지될 수 있습니다.",
-      "description": "월가 애널리스트가 S&P 500 지수가 9000까지 급등할 것으로 예측하며, 현 주식 시장의 상승장이 이제 막 시작되었을 수 있다고 분석했습니다.",
+      "summary_text": "중동전쟁 발발이 글로벌 금리 경로를 변경시켜, 미국 연방준비제도는 매파적 동결 기조를 유지하고 한국은행은 다음 달 금리 인상 가능성이 커졌습니다. 지정학적 리스크가 에너지 가격 상승을 부추기고 인플레이션 압력을 가중시키면서 각국 중앙은행의 통화 정책에 영향을 미치고 있습니다. 한국의 금리 인상은 가계 및 기업의 이자 부담을 늘리고 증시 유동성을 위축시킬 수 있으므로 관련 업종에 대한 투자 주의가 필요합니다.",
+      "description": "중동전쟁으로 인해 금리 경로가 변경되어, 미국은 매파적 동결 기조를 유지하고 한국은 다음 달 금리 인상이 전망됩니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "광범위",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "금융, 건설, 증권",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "카카오뱅크",
+        "한국전력",
+        "GS건설"
       ],
-      "investment_view": "관심",
-      "investment_reason": "S&P 500의 높은 목표치는 글로벌 증시 전반에 대한 긍정적 전망을 제시하며 투자 전략 수립에 중요한 참고 자료가 됩니다.",
-      "key_signal": "S&P 500의 실제 흐름과 기관투자자들의 심리 변화를 지속적으로 체크해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 금리 인상은 대출 금리 상승으로 이어져 가계 부채 및 기업의 자금 조달 비용에 직접적인 부담을 줄 수 있습니다.",
+      "key_signal": "다음 달 한국은행 금융통화위원회 회의 결과와 중동 정세 변화에 따른 유가 변동성을 면밀히 주시해야 합니다.",
       "keywords": [
-        "S&P500",
-        "월가전망",
-        "주식시장",
-        "멜트업",
-        "글로벌증시"
+        "중동전쟁",
+        "금리인상",
+        "한국은행",
+        "연준",
+        "지정학적리스크"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbEVxXzNJS01KLTdJQ1VmNjNVR3hWQmctNS0ydW03X1VsLXFsTFdqMERadWZZRHhQOG9QN1NySjFiYUdFTVkzYWxybEVSSU40NDBHQTRNV1BRbVBoOEMzQTAtd2JJcm5BNlVfWmZBd2VnRjcwVXVJUENWeUFoNE5UaEZ1M2tQaUZhdnQ3S0ctbjMzdlNUYXRUaUlKaVJQQkdFVzNUUHVtaGJSSWJtODdZMGdvVmZCd2RHaVBfQ1BVWHpOMjB3alNrSDlWQ0w0eEZacWJqNEFGN0RYLTJncldjdlRlcWdNY0Rocnhz?oc=5",
-      "published": "2026-06-17 02:58",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEOVByeDdQclVWOFBfZ2lvUUNFcmxoaWFoZlZlZmZVMHd2ZDdoVmNGSmZ1NGwtcDJXTHZPS3pmelRxVGtfRnEwazItOWZ4Rl9NOWV6UEQydmZVcDRJXzFGNg?oc=5",
+      "published": "2026-06-18 07:38",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,37 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "국채금리 하락, 약달러 속 FOMC 관망…원/달러 환율 1500원 후반 등락 전망",
-      "display_title": "국채금리 하락, 약달러 속 FOMC 관망…원/달러 환율 1500원 후반 등락 전망",
-      "original_title": "'국채금리 하락' 약달러 속 FOMC 관망⋯\"1500원 후반서 등락할 것\" [환율전망] - 이투데이",
+      "title": "명목 성장률 10% 전망…반도체 초과세수 배분, 한국 미래 결정할 것",
+      "display_title": "명목 성장률 10% 전망…반도체 초과세수 배분, 한국 미래 결정할 것",
+      "original_title": "\"명목 성장률 10%…반도체 초과세수 배분, 한국 미래 결정할 것\"[클릭 e종목] - 네이트",
       "summary": [
-        "국채금리 하락과 약달러 기조 속에서 FOMC 결과에 대한 관망세가 짙으며, 원/달러 환율은 1500원 후반에서 변동할 것으로 예상됩니다.",
-        "FOMC의 금리 결정과 통화정책 방향이 달러화 가치와 글로벌 금리에 결정적인 영향을 미치며, 이는 국내 환율과 증시에 직결됩니다.",
-        "약달러는 국내 수출 기업에 다소 불리할 수 있지만, 금리 하락 기대감은 주식 시장에 긍정적인 요인이 될 수 있습니다."
+        "한국의 명목 국내총생산(GDP) 성장률이 10%에 달할 것으로 예상되며, 반도체 산업에서 발생한 초과 세수를 어떻게 배분할지가 한국의 미래를 좌우할 것이라는 분석이 나왔습니다.",
+        "이는 반도체 산업의 강력한 성장이 국가 재정에 긍정적인 영향을 미치고 있음을 시사하며, 정부의 재정 운용 전략이 중요해짐을 의미합니다.",
+        "초과 세수의 효과적인 배분은 특정 산업 육성, 사회 인프라 투자, 국민 복지 증진 등으로 이어져 관련 기업 및 섹터에 긍정적인 투자 기회를 제공할 수 있습니다."
       ],
-      "summary_text": "국채금리 하락과 약달러 기조 속에서 FOMC 결과에 대한 관망세가 짙으며, 원/달러 환율은 1500원 후반에서 변동할 것으로 예상됩니다. FOMC의 금리 결정과 통화정책 방향이 달러화 가치와 글로벌 금리에 결정적인 영향을 미치며, 이는 국내 환율과 증시에 직결됩니다. 약달러는 국내 수출 기업에 다소 불리할 수 있지만, 금리 하락 기대감은 주식 시장에 긍정적인 요인이 될 수 있습니다.",
-      "description": "국채금리가 하락하고 달러화가 약세를 보이는 가운데 연방공개시장위원회(FOMC) 회의 결과를 관망하는 분위기입니다. 원/달러 환율은 1500원 후반대에서 등락할 것으로 전망됩니다.",
+      "summary_text": "한국의 명목 국내총생산(GDP) 성장률이 10%에 달할 것으로 예상되며, 반도체 산업에서 발생한 초과 세수를 어떻게 배분할지가 한국의 미래를 좌우할 것이라는 분석이 나왔습니다. 이는 반도체 산업의 강력한 성장이 국가 재정에 긍정적인 영향을 미치고 있음을 시사하며, 정부의 재정 운용 전략이 중요해짐을 의미합니다. 초과 세수의 효과적인 배분은 특정 산업 육성, 사회 인프라 투자, 국민 복지 증진 등으로 이어져 관련 기업 및 섹터에 긍정적인 투자 기회를 제공할 수 있습니다.",
+      "description": "한국의 명목 성장률이 10%에 달할 것으로 예상되며, 반도체 산업에서 발생하는 초과 세수를 어떻게 배분할지가 한국의 미래를 결정할 것이라는 전망입니다.",
       "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 수출주",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT, 인프라, 정부 정책 수혜주",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "현대건설"
       ],
       "investment_view": "관심",
-      "investment_reason": "환율과 국채금리는 국내 경제의 핵심 지표로, 투자 포트폴리오의 방향을 결정하는 데 중요한 영향을 미치므로 면밀한 관찰이 필요합니다.",
-      "key_signal": "FOMC의 발표 내용과 그에 따른 달러 인덱스 및 국내 환율의 즉각적인 변화를 예의주시해야 합니다.",
+      "investment_reason": "높은 명목 성장률과 초과 세수는 국내 경제 전반에 활력을 불어넣을 잠재력이 있으며, 재정 정책 방향에 따라 투자 기회가 발생할 수 있습니다.",
+      "key_signal": "정부의 초과 세수 활용 방안에 대한 구체적인 발표 내용과 투자 확대가 예상되는 정책 수혜 산업을 예의주시해야 합니다.",
       "keywords": [
-        "국채금리",
-        "약달러",
-        "FOMC",
-        "환율전망",
-        "원달러환율"
+        "명목성장률",
+        "반도체",
+        "초과세수",
+        "한국경제",
+        "재정정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81WVBpNHNqRS1wc1RwWnRTRm1TVGQ5ejcyamRRV3kyejNmSlZvbWNpQlBsdXZMcTRnWnF3U245ZXZZb1ZrRDV1VmtfRjgtMlExLVl3Rg?oc=5",
-      "published": "2026-06-17 08:11",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IR1NRdlJBa0VRZlByWHBpODlrRDN4QTBLQWVTNEdjQWgyRzdNYkI0Uzl4Nk9MZTRjS1FhRHAyemlSRWkyQWJmeFc5WDFMMXl0eDhvSEl4dWdQTE1jRk1KdXpKUDBtYjRBa3A1dXc0bW9OTFQ3UVM0RA?oc=5",
+      "published": "2026-06-18 06:30",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -109,126 +109,126 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "현대차, 차량 부문 R&D에 7조원 투입…AI 전환 속도전",
-      "display_title": "현대차, 차량 부문 R&D에 7조원 투입…AI 전환 속도전",
-      "original_title": "현대차, 차량부문 R&D에 '7조 투입'…AI 전환 속도전 - fetv.co.kr",
-      "summary": [
-        "현대차가 차량 R&D에 7조원을 투자하며 AI 기반의 미래차 기술 전환을 가속화하고 있습니다.",
-        "글로벌 자동차 산업의 AI 및 소프트웨어 중심 전환에 발맞춰, 현대차가 대규모 투자를 통해 경쟁력 강화에 나서는 모습입니다.",
-        "현대차의 미래 성장 동력 확보는 장기적인 기업 가치 상승에 긍정적이며, 관련 협력사 및 부품사에도 수혜가 예상됩니다."
-      ],
-      "summary_text": "현대차가 차량 R&D에 7조원을 투자하며 AI 기반의 미래차 기술 전환을 가속화하고 있습니다. 글로벌 자동차 산업의 AI 및 소프트웨어 중심 전환에 발맞춰, 현대차가 대규모 투자를 통해 경쟁력 강화에 나서는 모습입니다. 현대차의 미래 성장 동력 확보는 장기적인 기업 가치 상승에 긍정적이며, 관련 협력사 및 부품사에도 수혜가 예상됩니다.",
-      "description": "현대차가 차량 부문의 연구 개발(R&D)에 7조원을 투자하며 인공지능(AI) 전환에 속도를 내고 있습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "자동차, 인공지능(AI), 자율주행, 차량용SW",
-      "related_stocks": [
-        "현대차",
-        "현대모비스",
-        "만도"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "국내 대표 기업인 현대차의 대규모 AI 투자 계획은 미래 모빌리티 시장 선점 가능성을 높이며, 관련 국내 기업들의 동반 성장을 기대하게 합니다.",
-      "key_signal": "현대차의 AI 기반 신기술 개발 진행 상황과 실제 차량 적용 시점, 그리고 경쟁사들의 동향을 지속적으로 모니터링해야 합니다.",
-      "keywords": [
-        "현대차",
-        "R&D투자",
-        "AI전환",
-        "미래차",
-        "자율주행"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01d1M3QTVfUUJoQmsyc3k3NHZ0TE9NcFFVZkx0VDBvd3h6WU95SDdVWXo2RjZ2OFZnc25VRl93UjlEYjVuOUhNeFA1OXJuZ1NPb3J4ZDc0MGZDQTJtZHliNzhzaElTLXIt?oc=5",
-      "published": "2026-06-17 07:00",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "AI 경쟁, 이제는 '전력 싸움'…K-배터리·변압기 새로운 기회",
-      "display_title": "AI 경쟁, 이제는 '전력 싸움'…K-배터리·변압기 새로운 기회",
-      "original_title": "AI 경쟁, 이젠 ‘전력 싸움’…K배터리·변압기 새 기회 - 글로벌이코노믹",
-      "summary": [
-        "AI 경쟁이 심화되면서 데이터센터 전력 수요가 급증, K-배터리 및 변압기 산업이 새로운 성장 동력을 얻고 있습니다.",
-        "AI 기술 발전은 엄청난 전력 소모를 수반하며, 안정적인 전력 공급 인프라 구축의 중요성이 부각되고 있습니다.",
-        "국내 배터리 및 변압기 관련 기업들은 AI 시대의 핵심 인프라 제공자로서 장기적인 성장 잠재력을 가질 수 있습니다."
-      ],
-      "summary_text": "AI 경쟁이 심화되면서 데이터센터 전력 수요가 급증, K-배터리 및 변압기 산업이 새로운 성장 동력을 얻고 있습니다. AI 기술 발전은 엄청난 전력 소모를 수반하며, 안정적인 전력 공급 인프라 구축의 중요성이 부각되고 있습니다. 국내 배터리 및 변압기 관련 기업들은 AI 시대의 핵심 인프라 제공자로서 장기적인 성장 잠재력을 가질 수 있습니다.",
-      "description": "인공지능(AI) 경쟁이 심화되면서 AI 데이터센터 구축에 필요한 전력 확보가 핵심 과제로 부상, 이로 인해 K-배터리와 변압기 산업에 새로운 성장 기회가 열리고 있습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전력기기, 2차전지, 전력인프라",
-      "related_stocks": [
-        "HD현대일렉트릭",
-        "LS일렉트릭",
-        "삼성SDI"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "AI 시대의 전력 수요 폭증은 K-배터리 및 변압기 기업들에게 구조적인 성장 기회를 제공하며, 이는 장기적인 관점에서 높은 투자 매력을 가집니다.",
-      "key_signal": "국내외 데이터센터 증설 계획과 전력 인프라 투자 규모 확대 여부를 지속적으로 확인해야 합니다.",
-      "keywords": [
-        "AI경쟁",
-        "전력수요",
-        "K배터리",
-        "변압기",
-        "데이터센터"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWhxMk9YNVlEMUo3NWxua29raDZ3OWowSlphS2dSTUI1MUg1bFJXbUp4eVE1UXlZRFM0aW5oak1IWmNjMy1LSDB4YUwxeWx4aWQ3bXpFSk54ekdmMWhMZUZ5cjJHUmZpcG03THVMcHVZNmdqa0ZxMml6MDkxNE93dzJweDVpQQ?oc=5",
-      "published": "2026-06-16 20:50",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 5,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우지수 사상 최고치 경신 속, 기술주 압박으로 S&P 및 나스닥 하락",
-      "display_title": "다우지수 사상 최고치 경신 속, 기술주 압박으로 S&P 및 나스닥 하락",
-      "original_title": "Tech stocks pressured S&P and Nasdaq while Dow hit record - mezha.net",
+      "title": "미국 증시, 금리 인상 가능성 평가하며 S&P 500, 나스닥, 다우지수 하락",
+      "display_title": "미국 증시, 금리 인상 가능성 평가하며 S&P 500, 나스닥, 다우지수 하락",
+      "original_title": "S&P 500, Nasdaq And Dow Slip As Investors Assess Rate Hike Possibility — SPCX, UBER, ASTS, BBBY, RXT In Focus - Stocktwits",
       "summary": [
-        "다우지수가 사상 최고치를 기록했지만, 기술주 약세로 S&P 500과 나스닥은 하락했습니다.",
-        "시장 내 업종별 차별화된 움직임이 나타나며, 기술주에 대한 투자 심리가 다소 위축된 모습입니다.",
-        "시장의 순환매 가능성을 주시하며, 견조한 전통 산업과 성장주 간의 균형 잡힌 접근이 필요합니다."
+        "미국 주요 3대 지수(S&P 500, 나스닥, 다우)가 투자자들의 금리 인상 우려 속에 일제히 하락했습니다.",
+        "연방준비제도(Fed)의 금리 인상 가능성이 지속적으로 언급되면서 시장 전반에 불안감이 확산되고 있습니다.",
+        "미국 금리 정책의 변화는 글로벌 유동성 및 국내 증시에도 영향을 미치므로 투자자들은 관련 동향을 면밀히 주시해야 합니다."
       ],
-      "summary_text": "다우지수가 사상 최고치를 기록했지만, 기술주 약세로 S&P 500과 나스닥은 하락했습니다. 시장 내 업종별 차별화된 움직임이 나타나며, 기술주에 대한 투자 심리가 다소 위축된 모습입니다. 시장의 순환매 가능성을 주시하며, 견조한 전통 산업과 성장주 간의 균형 잡힌 접근이 필요합니다.",
-      "description": "기술주가 약세를 보이면서 S&P 500과 나스닥 지수가 하락 압력을 받은 반면, 다우존스 산업평균지수는 사상 최고치를 경신했습니다.",
+      "summary_text": "미국 주요 3대 지수(S&P 500, 나스닥, 다우)가 투자자들의 금리 인상 우려 속에 일제히 하락했습니다. 연방준비제도(Fed)의 금리 인상 가능성이 지속적으로 언급되면서 시장 전반에 불안감이 확산되고 있습니다. 미국 금리 정책의 변화는 글로벌 유동성 및 국내 증시에도 영향을 미치므로 투자자들은 관련 동향을 면밀히 주시해야 합니다.",
+      "description": "투자자들이 금리 인상 가능성을 평가하면서 S&P 500, 나스닥, 다우지수가 하락세를 보였습니다. SPCX, UBER, ASTS, BBBY, RXT 종목이 주목받고 있습니다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "기술주, 산업재",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "글로벌 증시",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "기술주 중심의 국내 투자 비중이 높은 경우, 미국 기술주의 약세는 국내 증시에도 영향을 미칠 수 있으므로 주의 깊게 살펴봐야 합니다.",
-      "key_signal": "미국 기술주의 추가 조정 여부와 다우 지수 상승의 지속 가능성을 확인해야 합니다.",
+      "investment_reason": "미국 금리 인상 가능성은 글로벌 투자 심리를 위축시키고 한국 증시에도 하방 압력을 가할 수 있기 때문에 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "향후 연방준비제도 위원들의 발언과 경제 지표 발표를 통해 금리 인상 가능성의 변화를 파악해야 합니다.",
       "keywords": [
-        "다우지수",
-        "기술주",
-        "S&P500",
-        "나스닥",
-        "시장혼조세"
+        "미국증시",
+        "금리인상",
+        "연준",
+        "시장하락",
+        "S&P500"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yNG1xRVZ5Nlh1VFU2ZktDTFZmYlB3bUpRelBFUTNYblF5eUphcUVscDNKbG13UW9CakFpa0lQTGplOE96TUJmVGp1N3NPcncwdE9jekR3Z3RpZjZ4al95SFdIMEtCTU85X3Rz?oc=5",
-      "published": "2026-06-17 06:18",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS1I4V1hhMHd2TDlYbzM2d2J3aG5lRnhYMHJycHNPbTduOU1aT3JLczNCVG5YQkM5bWVEYldWUlc3VUxOTkxWTEFFMlVnZHlYUmpmWjJkYjZ2dktIMkctTXptNmRZSW56cVpqZjFFNW9DTTJad1o5YVB4RV9nUHczZ1N3anVzTkduck5zUGhrczVUNDhTQUhhQnloYWdCd2xYMUtRN21YOU5RZVA0c2J4VTkxSHJVZmtOX1ZBZTlDTzlfbTVUeWdqOVFLdWRLUkpUMWc4U1N0OE9JZG9ZTzdNS251LUxJcVEwTFVvM25lV0hEUU1ENk1OYmF1LW5CZFU?oc=5",
+      "published": "2026-06-18 06:13",
       "quality": {
         "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 4,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "새 연준 의장 체제 하 금리 인상 가능성에 월스트리트 흔들리며 다우지수 500포인트 급락",
+      "display_title": "새 연준 의장 체제 하 금리 인상 가능성에 월스트리트 흔들리며 다우지수 500포인트 급락",
+      "original_title": "Dow tumbles 500 points as possible rate hike under new Fed chief rattles Wall Street - New York Post",
+      "summary": [
+        "새로운 연방준비제도(Fed) 의장 취임 후 금리 인상 가능성이 제기되면서 다우지수가 500포인트 급락하는 등 미국 증시가 큰 폭으로 하락했습니다.",
+        "새로운 연준 의장의 정책 스탠스가 불확실성을 더하며 시장의 금리 인상 공포를 부추기는 요인으로 작용했습니다.",
+        "연준의 리더십 변화에 따른 통화 정책 기조 변화 가능성을 주시하고, 이에 따른 시장 변동성에 대비해야 합니다."
+      ],
+      "summary_text": "새로운 연방준비제도(Fed) 의장 취임 후 금리 인상 가능성이 제기되면서 다우지수가 500포인트 급락하는 등 미국 증시가 큰 폭으로 하락했습니다. 새로운 연준 의장의 정책 스탠스가 불확실성을 더하며 시장의 금리 인상 공포를 부추기는 요인으로 작용했습니다. 연준의 리더십 변화에 따른 통화 정책 기조 변화 가능성을 주시하고, 이에 따른 시장 변동성에 대비해야 합니다.",
+      "description": "새로운 연준 의장 체제 하에서의 금리 인상 가능성이 월스트리트를 뒤흔들며 다우지수가 500포인트 급락했습니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "글로벌 증시",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "연준의 새로운 리더십과 금리 인상 가능성은 예측 불가능한 시장 변동성을 야기할 수 있으므로 보수적인 접근이 필요합니다.",
+      "key_signal": "새 연준 의장의 첫 공식 발언이나 정책 방향을 가늠할 수 있는 단서들을 면밀히 분석해야 합니다.",
+      "keywords": [
+        "다우지수",
+        "금리인상",
+        "연준의장",
+        "월스트리트",
+        "정책불확실성"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNU04cjNkcklUUnRJbjNwc05iM3cxVFFVZ0VRLTQ5Sm1zcTUxVnRKeVFTWnFPLWFMaWlHcFhJMWdxM3d1a1RISFdmRXlUSlAwaWFJOUJMdExYcVhhN01SZkNobnIycC04VjZJeWZBSThtY21idFV4UGkwUlFsam1YM0FQQnFCcTdiTnUtMkMwc3FqVVRNVFVWZjA5T2VXOHB3TXVjU01oZXRPcFRrUXc?oc=5",
+      "published": "2026-06-18 06:39",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 5,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "미국 반도체 조정 및 외국인 매도에도 불구하고 국내 증시 일제히 상승",
+      "display_title": "미국 반도체 조정 및 외국인 매도에도 불구하고 국내 증시 일제히 상승",
+      "original_title": "[마켓 프리뷰] 美반도체 조정·외인 '팔자'에도 국내 증시 일제히 상승 - biz.sbs.co.kr.",
+      "summary": [
+        "미국 반도체 시장의 조정과 외국인 투자자들의 매도세가 있었음에도 불구하고 한국 증시가 전반적으로 상승 마감하며 강한 회복력을 보였습니다.",
+        "이는 국내 증시가 일부 외부 악재에도 불구하고 내재된 성장 동력이나 특정 섹터의 강세에 힘입어 독립적인 흐름을 보인 것으로 해석될 수 있습니다.",
+        "미국 증시와 디커플링 되는 국내 증시의 흐름 속에서, 외국인 수급 변화와 국내 기관 및 개인 투자자들의 매수 동향을 주목해야 합니다."
+      ],
+      "summary_text": "미국 반도체 시장의 조정과 외국인 투자자들의 매도세가 있었음에도 불구하고 한국 증시가 전반적으로 상승 마감하며 강한 회복력을 보였습니다. 이는 국내 증시가 일부 외부 악재에도 불구하고 내재된 성장 동력이나 특정 섹터의 강세에 힘입어 독립적인 흐름을 보인 것으로 해석될 수 있습니다. 미국 증시와 디커플링 되는 국내 증시의 흐름 속에서, 외국인 수급 변화와 국내 기관 및 개인 투자자들의 매수 동향을 주목해야 합니다.",
+      "description": "미국 반도체 주식의 조정과 외국인 투자자들의 매도세에도 불구하고 국내 증시가 일제히 상승했습니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "국내 증시 전반, 반도체",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스",
+        "카카오"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "미국 증시 악재에도 불구하고 국내 증시가 상승한 배경을 분석하여 향후 투자 기회를 발굴할 수 있는 중요한 신호입니다.",
+      "key_signal": "미국 반도체 시장의 조정이 국내 반도체 기업에 미치는 실질적인 영향과 외국인 투자자의 순매수 전환 여부를 확인해야 합니다.",
+      "keywords": [
+        "국내증시",
+        "미국반도체",
+        "외국인매도",
+        "주식상승",
+        "디커플링"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11SDI4S3JObE5tRmo1ZFJZSFV1bm5JZG93T3NTQV9ITk9Rc1M4THozeGxfY0NFX29JbGlabmwzQ2tVUlBkZHpGWDdocF9wakNkZTNz?oc=5",
+      "published": "2026-06-18 06:52",
+      "quality": {
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -238,37 +238,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우 329포인트 상승, 나스닥 308포인트 하락, S&P 500 43포인트 하락",
-      "display_title": "다우 329포인트 상승, 나스닥 308포인트 하락, S&P 500 43포인트 하락",
-      "original_title": "Dow Adds 329, Nasdaq Drops 308, S&P 500 Slips 43 - TV News Check",
+      "title": "전기차 전장화 및 800V 아키텍처 가속화로 자동차 DC-DC 컨버터 시장, 2035년 4,976억 달러 규모 도달 전망",
+      "display_title": "전기차 전장화 및 800V 아키텍처 가속화로 자동차 DC-DC 컨버터 시장, 2035년 4,976억 달러 규모 도달 전망",
+      "original_title": "Automotive DC-DC Converter Market to Reach USD 497.6 Billion by 2035 as EV Electrification, 800V Architectures, and Advanced Power Management Accelerate Demand for High-Efficiency Power Conversion Systems | FMI - PR Newswire",
       "summary": [
-        "다우지수는 상승했으나 나스닥과 S&P 500은 하락하며 미국 증시가 혼조세를 보였습니다.",
-        "기술주 중심의 나스닥과 S&P 500의 하락은 금리 인상 우려, 차익 실현 등 여러 요인에 기인할 수 있습니다.",
-        "기술주 편중 투자는 위험할 수 있으며, 시장 전반의 다각화된 포트폴리오 전략이 중요함을 시사합니다."
+        "자동차 DC-DC 컨버터 시장이 전기차(EV) 확산, 800V 고전압 아키텍처 도입, 첨단 전력 관리 시스템 수요 증가로 2035년까지 4,976억 달러 규모로 성장할 것으로 예측됩니다.",
+        "고효율 전력 변환 시스템은 전기차의 성능 향상과 에너지 효율 최적화에 필수적인 부품으로, 시장 성장의 핵심 동력입니다.",
+        "전기차 및 관련 부품 산업의 장기적인 성장 잠재력을 고려할 때, DC-DC 컨버터 기술력을 보유한 기업에 대한 관심이 필요합니다."
       ],
-      "summary_text": "다우지수는 상승했으나 나스닥과 S&P 500은 하락하며 미국 증시가 혼조세를 보였습니다. 기술주 중심의 나스닥과 S&P 500의 하락은 금리 인상 우려, 차익 실현 등 여러 요인에 기인할 수 있습니다. 기술주 편중 투자는 위험할 수 있으며, 시장 전반의 다각화된 포트폴리오 전략이 중요함을 시사합니다.",
-      "description": "다우지수가 329포인트 상승한 반면, 나스닥은 308포인트, S&P 500은 43포인트 하락하며 미국 주요 지수들이 엇갈린 움직임을 보였습니다.",
-      "category": "증시·금리",
+      "summary_text": "자동차 DC-DC 컨버터 시장이 전기차(EV) 확산, 800V 고전압 아키텍처 도입, 첨단 전력 관리 시스템 수요 증가로 2035년까지 4,976억 달러 규모로 성장할 것으로 예측됩니다. 고효율 전력 변환 시스템은 전기차의 성능 향상과 에너지 효율 최적화에 필수적인 부품으로, 시장 성장의 핵심 동력입니다. 전기차 및 관련 부품 산업의 장기적인 성장 잠재력을 고려할 때, DC-DC 컨버터 기술력을 보유한 기업에 대한 관심이 필요합니다.",
+      "description": "전기차 전장화, 800V 아키텍처, 첨단 전력 관리 시스템에 대한 수요가 가속화되면서 자동차 DC-DC 컨버터 시장이 2035년까지 4,976억 달러 규모에 이를 것으로 예상됩니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "기술주, 산업재",
+      "market_impact": "긍정",
+      "related_sector": "전기차, 자동차 부품, 전력 반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "현대차",
+        "LG이노텍",
+        "만도"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 주요 지수의 엇갈린 흐름은 국내 증시의 투자 심리에도 영향을 미칠 수 있으며, 특히 기술주 투자자들은 변동성에 대비해야 합니다.",
-      "key_signal": "미국 증시의 업종별 순환매가 지속될지, 기술주 약세가 심화될지 여부를 면밀히 관찰해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "전기차 시장의 구조적 성장에 따른 핵심 부품 시장의 확장은 관련 기업들의 중장기적인 성장 동력이 될 수 있습니다.",
+      "key_signal": "800V 시스템을 적용한 전기차 모델 출시 현황과 DC-DC 컨버터 기술을 선도하는 국내외 기업들의 투자 동향을 주시해야 합니다.",
       "keywords": [
-        "다우지수",
-        "나스닥",
-        "S&P500",
-        "기술주하락",
-        "증시혼조"
+        "전기차",
+        "DC-DC컨버터",
+        "800V",
+        "자동차부품",
+        "전력관리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWFiWFJuNzNQUmRPNkdReDRIbURXR1JPWnIyOENqaHFLMURFMVNSX2ZFZGd1dFBxOVdXWjhVNDkwRS1FNHJlek5DR21BWTNtdzdzdlIwTE5sVlpoM1pwUHNDUmpZNjdhd054Ukd4U0p4ekd6UkV4Rld4b25vZ2w2RUV3MVBDUTlURFdKMU5Eako?oc=5",
-      "published": "2026-06-17 05:40",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNV2xlSVhjd2FlRldVWjhNYUR6RU5RakJHZnVKWUczQnFFMlVHenBFc1BmZFBGQ0tibzRVNzZvckJXRXR0Q3BjVVQ0MnhBa2NSaHpGVGhYVE9uQXYzc0tiLVl5MGVmV0V2YXBZaWVqSXpKNmxYTWVlVU5CNi1iTnF5eVNRbGstQ3huMXlhM3pwaDRLR1dYekNVSkxkMmNzV0tCMDRidVJTN2xZU0pFSEhvRmVxMEltUngycy1pYndMRUJHT2VEbF93eGtacUQ0bVVJbHZYUGlKa3BxV1duSUFBcUVZS3NKRjhZcTJDN1RvTXUwenNuaEg0cDBJbklFTzNIaTB2YUR0WVBHU1JNdTVyaEpDcHhCYXdJNVhhOEdmdDBBb1BidXdxT3BpNFd4MmhnR3BXRlQtendDdDVqT1RCMURVRXdnbC1KUHZTWFBhT0VrczdBa1I0U1Bmb0dQVEZTVjlZVUxKZ2h1T2xRM01WQmxtbV9IeHl3RFJN?oc=5",
+      "published": "2026-06-17 23:05",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -279,18 +279,19 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "HD현대일렉트릭",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "전력기기",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 시대의 폭증하는 전력 수요는 변압기 및 전력기기 기업들에게 구조적인 성장 기회를 제공하며, 이는 장기적인 관점에서 높은 투자 매력을 가집니다.",
+      "reason": "높은 명목 성장률 전망과 반도체 초과세수 배분 가능성이 국내 경제 전반에 긍정적 영향을 미치며, 특히 반도체 산업은 핵심 수혜주로 주목받고 있습니다. 또한, 미국 증시의 반도체 조정에도 불구하고 국내 증시에서 반도체 섹터의 상승세가 관찰되어 견조한 흐름을 기대할 수 있습니다.",
       "check_points": [
-        "데이터센터 등 전방산업 투자 동향",
-        "주요국 전력망 투자 확대 여부",
-        "수주잔고 및 마진율 변화"
+        "글로벌 반도체 업황 및 수요 회복 속도",
+        "국내 정부의 반도체 산업 지원 정책",
+        "외국인 투자자 수급 동향"
       ],
       "related_news_titles": [
-        "AI 경쟁, 이제는 '전력 싸움'…K-배터리·변압기 새로운 기회"
+        "명목 성장률 10% 전망…반도체 초과세수 배분, 한국 미래 결정할 것",
+        "미국 반도체 조정 및 외국인 매도에도 불구하고 국내 증시 일제히 상승"
       ]
     },
     {
@@ -299,30 +300,30 @@
       "market": "KOSPI",
       "sector": "자동차",
       "opinion": "관심",
-      "reason": "국내 대표 기업인 현대차의 대규모 AI 및 R&D 투자는 미래 모빌리티 시장 선점 가능성을 높이며, 이는 관련 산업 전반에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "reason": "전기차 전장화 및 800V 아키텍처 가속화에 따라 자동차 DC-DC 컨버터 시장이 2035년 4,976억 달러 규모로 급성장할 것으로 전망됩니다. 이는 전기차 시장의 구조적 성장에 따른 핵심 부품 시장 확대로, 관련 기업들의 중장기적인 성장 동력이 될 수 있습니다.",
       "check_points": [
-        "AI 기술 개발 및 적용 진척도",
-        "전동화 전략 성과",
-        "글로벌 판매량 및 시장 점유율 변화"
+        "글로벌 전기차 판매량 및 시장 점유율 변화",
+        "전장 부품 내재화 및 경쟁력 강화 여부",
+        "환율 변동이 수출 실적에 미치는 영향"
       ],
       "related_news_titles": [
-        "현대차, 차량 부문 R&D에 7조원 투입…AI 전환 속도전"
+        "전기차 전장화 및 800V 아키텍처 가속화로 자동차 DC-DC 컨버터 시장, 2035년 4,976억 달러 규모 도달 전망"
       ]
     },
     {
       "rank": 3,
-      "name": "삼성SDI",
+      "name": "카카오",
       "market": "KOSPI",
-      "sector": "2차전지",
+      "sector": "인터넷 서비스",
       "opinion": "관심",
-      "reason": "AI 시대의 전력 수요 폭증과 함께 K-배터리 기업들은 전력저장장치(ESS) 및 데이터센터용 배터리 등 새로운 성장 동력을 확보할 기회를 맞이하고 있습니다.",
+      "reason": "미국 증시의 전반적인 조정 및 외국인 매도세 속에서도 국내 증시가 상승세를 보였으며, 이 과정에서 카카오가 언급되며 국내 시장의 특정 종목들이 외부 악재에 대한 내성을 보였음을 시사합니다. 이는 국내 플랫폼 기업의 잠재력을 재평가할 수 있는 기회로 작용할 수 있습니다.",
       "check_points": [
-        "글로벌 전기차 시장 성장률",
-        "ESS 시장 확대",
-        "차세대 배터리 기술 개발 현황"
+        "플랫폼 사업 핵심 서비스의 경쟁력 유지",
+        "신사업 부문의 성장 가시화 및 수익성 개선",
+        "금리 인상 환경에서의 성장주 투자 심리 변화"
       ],
       "related_news_titles": [
-        "AI 경쟁, 이제는 '전력 싸움'…K-배터리·변압기 새로운 기회"
+        "미국 반도체 조정 및 외국인 매도에도 불구하고 국내 증시 일제히 상승"
       ]
     },
     {
@@ -331,16 +332,15 @@
       "market": "KOSPI",
       "sector": "증권",
       "opinion": "중립",
-      "reason": "S&P 500의 높은 목표치 전망은 글로벌 증시 활성화 기대를 높여 증권업에 긍정적이지만, 미국 기술주 하락 등 혼조세에 따른 국내 증시 변동성 확대 가능성도 존재하여 주의 깊은 관찰이 필요합니다.",
+      "reason": "미국 금리 인상 가능성 평가와 연준 의장 체제 변화로 인한 월스트리트의 불안정한 흐름은 글로벌 투자 심리를 위축시키고 국내 증권 업종에 하방 압력을 가할 수 있습니다. 이는 변동성 확대 구간으로, 시장의 흐름과 금리 경로 변화에 대한 지속적인 모니터링이 필요합니다.",
       "check_points": [
-        "국내외 증시 거래대금 추이",
-        "국채금리 및 환율 변동성",
-        "개인 투자심리 변화"
+        "글로벌 및 국내 금리 인상 경로와 속도",
+        "증시 거래량 및 투자 심리 변화",
+        "부동산 PF 등 잠재적 리스크 요인 관리 현황"
       ],
       "related_news_titles": [
-        "월가 애널리스트, S&P 500 지수 9000 돌파 전망: 주식 시장 멜트업 이제 시작일 가능성",
-        "국채금리 하락, 약달러 속 FOMC 관망…원/달러 환율 1500원 후반 등락 전망",
-        "다우지수 사상 최고치 경신 속, 기술주 압박으로 S&P 및 나스닥 하락"
+        "미국 증시, 금리 인상 가능성 평가하며 S&P 500, 나스닥, 다우지수 하락",
+        "새 연준 의장 체제 하 금리 인상 가능성에 월스트리트 흔들리며 다우지수 500포인트 급락"
       ]
     }
   ],
