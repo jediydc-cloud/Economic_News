@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19 08:45",
-  "analysis_date": "2026-06-19",
+  "generated_at": "2026-06-20 07:57",
+  "analysis_date": "2026-06-20",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 AI 및 반도체 산업의 성장 전망과 미국 증시 반등으로 긍정적 분위기이나, 국내 원/달러 환율 급등으로 고환율 압박이 심화되며 시장에 복합적인 영향이 예상됩니다.",
-    "국내거시경제": "원/달러 환율이 야간 역외시장에서 10원 이상 급등하며 1540원대에 마감했습니다. FOMC의 매파적 기조와 달러 강세가 지속되며 국내 고환율 압력이 가중되고 있으며, 수입 물가 상승 및 외국인 투자 심리에 부정적 영향을 미칠 수 있습니다.",
-    "글로벌경제": "반도체 산업은 AI 및 자동차 산업 수요 증가에 힘입어 2031년까지 1.01조 달러 규모로 성장할 것으로 전망됩니다. 미-이란 합의로 지정학적 긴장이 완화되고 국제 유가 하락 압력이 형성되며 글로벌 경제 불확실성이 일부 해소되는 모습입니다.",
-    "증시금리": "미-이란 휴전 소식과 유가 하락에 힘입어 뉴욕 증시가 급등했으며, S&P 500과 나스닥이 1% 이상 상승했습니다. 이는 Fed의 금리 인상 우려를 완화하며 투자 심리 개선에 기여했습니다.",
-    "부동산정책": "해당 사항 없음",
-    "기업산업": "AI 및 자동차 산업의 급격한 성장이 글로벌 반도체 수요를 견인하며, 관련 기업들의 장기적인 실적 개선이 기대됩니다. 엔비디아 CEO는 한국을 AI 시대의 중요한 제조 파트너로 평가하며 한국 기업들의 AI 생태계 내 역할 증대 가능성을 시사했습니다.",
-    "오늘의투자시사점": "글로벌 반도체 및 AI 산업의 성장 기회에 주목하고 관련 기술주에 대한 관심을 유지해야 합니다. 국내 고환율 장기화 가능성을 고려하여 수출 기업의 실적 개선 기대와 함께 수입 의존도가 높은 기업 및 전반적인 물가 상승 압력에 대한 점검이 필요합니다.",
-    "오늘의한줄": "글로벌 AI 및 반도체 산업 성장에 대한 기대감이 높지만, 국내 고환율 심화에 따른 시장 영향에 주의가 필요합니다."
+    "총평": "글로벌 고금리 장기화 우려와 인플레이션 압력으로 미국 증시가 하락 마감했으며, 국내 환율도 불안정한 모습을 보였습니다. 연준의 매파적 스탠스 시사와 IMF의 글로벌 위험 경고가 투자 심리를 위축시켰습니다.",
+    "국내거시경제": "원/달러 환율이 장중 1540원에 육박했으나 외환 당국의 개입으로 1520원대에서 마감했습니다. 고환율 압력 지속과 외인 자금 유출 우려에 대한 면밀한 모니터링이 필요합니다.",
+    "글로벌경제": "IMF 총재는 글로벌 경기 둔화 징후는 없지만, 인플레이션, 고금리 등 높은 수준의 위험이 지속되고 있다고 경고했습니다. 잠재적 경제 변수에 대한 신중한 접근이 요구됩니다.",
+    "증시금리": "미국 증시는 국채 수익률 급등과 인플레이션 우려로 하락했으며, 연준은 금리 동결에도 매파적 전환 가능성을 시사해 고금리 장기화 우려가 커졌습니다. 미국 증시 휴장 전 반도체 주도 랠리는 있었으나, 향후 연준 정책과 주요 기업 실적이 중요 변수입니다.",
+    "부동산정책": "관련 뉴스 없음.",
+    "기업산업": "이수스페셜티케미컬이 전고체 배터리 핵심 소재인 황화리튬 생산 플랜트를 준공하며 차세대 배터리 시장 선점 기대감을 높였습니다. 관련 기술 개발 및 시장 확대 여부를 주시할 필요가 있습니다.",
+    "오늘의투자시사점": "글로벌 고금리 장기화 우려가 심화됨에 따라 금리 민감주 및 성장주에 대한 보수적인 접근이 필요합니다. 환율 변동성 확대에 유의하고, 국내 반도체 관련주는 미국 반도체 섹터와 연준 정책에 따라 변동성이 커질 수 있습니다. 전고체 배터리 소재 기업의 성장 가능성은 긍정적입니다.",
+    "오늘의한줄": "고금리 압력과 환율 변동성 속에 신중한 포트폴리오 관리가 필요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "반도체 산업, 2031년까지 1.01조 달러 규모 예상… AI 및 자동차 수요 증가 주도",
-      "display_title": "반도체 산업, 2031년까지 1.01조 달러 규모 예상… AI 및 자동차 수요 증가 주도",
-      "original_title": "Semiconductor Industry to Hit USD 1.01 Trillion by 2031 with Integrated Circuits Holding 78.33% Market Share Amid Rising AI & Automotive Demand - Reports Mordor Intelligence - PR Newswire UK",
+      "title": "국채 수익률 급등과 인플레이션 우려로 S&P 500, 나스닥, 다우 지수 하락 마감",
+      "display_title": "국채 수익률 급등과 인플레이션 우려로 S&P 500, 나스닥, 다우 지수 하락 마감",
+      "original_title": "S&P 500, Nasdaq and Dow end lower as soaring Treasury yields reflect inflation concerns — GOOGL, CSCO, HD, COST, WMT in focus - MSN",
       "summary": [
-        "반도체 산업이 2031년까지 1.01조 달러 규모로 성장하며, 특히 집적회로가 시장의 대부분을 차지할 것으로 전망됩니다.",
-        "AI 및 자동차 산업의 급격한 성장이 반도체 수요를 견인하고 있으며, 이는 장기적인 산업 성장을 지지합니다.",
-        "AI 및 자동차 반도체 관련 기업들의 실적 개선 및 주가 상승 가능성을 고려해볼 수 있습니다."
+        "미국 주요 3대 지수(S&P 500, 나스닥, 다우)가 국채 수익률 급등과 인플레이션 우려로 인해 하락 마감했다.",
+        "높은 인플레이션 압력은 연준의 매파적 스탠스를 강화하고 금리 인상 기대를 높여 국채 수익률 상승을 유발하며 증시 전반에 부담을 주었다.",
+        "고금리 환경 장기화 우려가 커지면서 기술주 등 성장주에 대한 투자 심리가 위축될 수 있으므로, 금리 민감주에 대한 포트폴리오 재조정이 필요할 수 있다."
       ],
-      "summary_text": "반도체 산업이 2031년까지 1.01조 달러 규모로 성장하며, 특히 집적회로가 시장의 대부분을 차지할 것으로 전망됩니다. AI 및 자동차 산업의 급격한 성장이 반도체 수요를 견인하고 있으며, 이는 장기적인 산업 성장을 지지합니다. AI 및 자동차 반도체 관련 기업들의 실적 개선 및 주가 상승 가능성을 고려해볼 수 있습니다.",
-      "description": "리포트에 따르면 반도체 산업은 AI 및 자동차 수요 증가에 힘입어 2031년까지 1.01조 달러 규모에 도달할 것으로 예상되며, 집적회로가 시장의 78.33%를 차지할 것입니다.",
-      "category": "기업·산업",
+      "summary_text": "미국 주요 3대 지수(S&P 500, 나스닥, 다우)가 국채 수익률 급등과 인플레이션 우려로 인해 하락 마감했다. 높은 인플레이션 압력은 연준의 매파적 스탠스를 강화하고 금리 인상 기대를 높여 국채 수익률 상승을 유발하며 증시 전반에 부담을 주었다. 고금리 환경 장기화 우려가 커지면서 기술주 등 성장주에 대한 투자 심리가 위축될 수 있으므로, 금리 민감주에 대한 포트폴리오 재조정이 필요할 수 있다.",
+      "description": "국채 수익률이 급등하고 인플레이션 우려가 커지면서 S&P 500, 나스닥, 다우 지수가 일제히 하락 마감했으며, 특히 GOOGL, CSCO, HD, COST, WMT 등 주요 기업들이 주목받았습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 인공지능, 자동차 전장",
+      "market_impact": "부정",
+      "related_sector": "기술주, 성장주, 소비재",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI와 자동차 산업의 폭발적인 성장이 반도체 수요를 지속적으로 견인하며 관련 기업들의 장기적인 성장 동력이 될 것이기 때문입니다.",
-      "key_signal": "AI 및 자동차 반도체 관련 기업들의 신제품 출시, 수주 현황, 생산 능력 확장을 지속적으로 모니터링해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 국채 수익률 상승과 인플레이션 우려는 국내 증시의 투자 심리에도 부정적인 영향을 미칠 수 있어 주의가 필요합니다.",
+      "key_signal": "미국 국채 10년물 금리의 추가 상승 여부와 연준의 인플레이션 대응 스탠스를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "반도체",
-        "AI",
-        "자동차",
-        "집적회로",
-        "성장 산업"
+        "미국증시",
+        "국채수익률",
+        "인플레이션",
+        "금리인상",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORmduam9oZGhVRnhqNlU1MTJfVGs0ZlhKVzZ0eEVMOXp1SGpVR1hhMUd3REpEd0hsbTVONkZocUJhZ2JBamdBamNVZFlQTm4zZ2puaWZNbi1NTm0zNGI5bWs5U1JIcExCR1VNa2hLWHB2TG82c3ZveGFzS1NRVzJrX3NqbVFpSkkxaWlwcmNkN0liRUJaNzU3WFBSenZqWW5DZmU4d0pIeTE3V0FjN0dfalFxZ3drTXVlMkFZa1ZOS1NGU1FIQVlDMFNkWkZLbUVuNHZNLUxHcmltZFgzWnVIa2oySU8wcDUxTVV6UTh2dW5Ba0lOT2k0NGFSa0ktZEE5N0VJNVpXY05HWGt0dzlXMmhGMzA0OFNJc3g2T3FNNEtUOExmX05qOFI5WS1ITDJaalBPS2pmRTZUSmRrekw1RkUzSF9hV1RVb0xjbA?oc=5",
-      "published": "2026-06-18 23:01",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZVhVYW9ZY19yaHJIaWQ1MUNWdnNsQU9XWG51Uk42MHExTEMzQWlIZTFBTjZhUnFtOTN1dGEzS09xSWt6R09fNGFfS3RXblNNUmlEZjJNMnhVS0Q0N3ZmMGtiMnhycC1iMkZLMkFVZ2hCbE44M1R0TW1paGMtWldHTGR2dkhnRGRvdVFQQ0hCeGZDeGtYRTNMTmRyZ0JxWGw4ZU1ZeUVjRzdsVm81SnEtbDFJcGtFZXVOel9oRG01TERTTEZTZmRhRjFZWUtSX1lYaHljS0Z2REdOQVZJcGlpal9aYjlaeVdoLUtud1ZYWENNUVNTQjFRSEppbVIxWVFPSXUycDZkNXZLaE11WXVIdktsbjd3TGc?oc=5",
+      "published": "2026-06-19 14:48",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 미국 증시: 미-이란 합의 후 유가 하락에 월스트리트 반등, S&P 500과 나스닥 1% 이상 상승",
-      "display_title": "오늘 미국 증시: 미-이란 합의 후 유가 하락에 월스트리트 반등, S&P 500과 나스닥 1% 이상 상승",
-      "original_title": "US stock market today: Wall Street rebounds as oil slides after US-Iran deal; S&P 500, Nasdaq rise over 1 - The Times of India",
+      "title": "연준, 금리 3.50%-3.75%로 동결했지만 매파적 전환 임박 시사",
+      "display_title": "연준, 금리 3.50%-3.75%로 동결했지만 매파적 전환 임박 시사",
+      "original_title": "Fed holds rates steady at 3.50%-3.75% as hawkish shift looms - scanx.trade",
       "summary": [
-        "미-이란 합의로 유가가 하락하며 S&P 500과 나스닥이 1% 이상 상승하는 등 미국 증시가 반등했습니다.",
-        "지정학적 긴장 완화와 유가 하락은 인플레이션 압력을 줄여 Fed의 금리 인상 부담을 완화할 수 있다는 기대감을 형성합니다.",
-        "에너지 비용 감소는 기업 수익성 개선과 소비 심리 회복에 기여하여 증시에 긍정적 요인으로 작용할 수 있습니다."
+        "연준이 기준금리를 3.50%~3.75%로 동결했으나, 향후 매파적 정책 기조로의 전환 가능성을 시사했다.",
+        "인플레이션 압력이 지속되거나 경제 지표가 강세를 보일 경우, 연준이 다시 금리 인상이나 긴축 정책을 강화할 수 있다는 전망이 시장에 영향을 주고 있다.",
+        "금리 동결은 단기적인 안도감을 주지만, 매파적 전환 시사는 금리 인상 가능성을 열어두는 것이므로, 고금리 장기화에 대한 대비가 필요하다."
       ],
-      "summary_text": "미-이란 합의로 유가가 하락하며 S&P 500과 나스닥이 1% 이상 상승하는 등 미국 증시가 반등했습니다. 지정학적 긴장 완화와 유가 하락은 인플레이션 압력을 줄여 Fed의 금리 인상 부담을 완화할 수 있다는 기대감을 형성합니다. 에너지 비용 감소는 기업 수익성 개선과 소비 심리 회복에 기여하여 증시에 긍정적 요인으로 작용할 수 있습니다.",
-      "description": "미국과 이란 간의 합의 후 유가가 하락하면서 월스트리트 증시가 반등했으며, S&P 500과 나스닥이 1% 이상 상승했습니다.",
+      "summary_text": "연준이 기준금리를 3.50%~3.75%로 동결했으나, 향후 매파적 정책 기조로의 전환 가능성을 시사했다. 인플레이션 압력이 지속되거나 경제 지표가 강세를 보일 경우, 연준이 다시 금리 인상이나 긴축 정책을 강화할 수 있다는 전망이 시장에 영향을 주고 있다. 금리 동결은 단기적인 안도감을 주지만, 매파적 전환 시사는 금리 인상 가능성을 열어두는 것이므로, 고금리 장기화에 대한 대비가 필요하다.",
+      "description": "연방준비제도(Fed)는 현재 금리를 3.50%-3.75%로 동결했지만, 다가오는 매파적(통화 긴축 선호) 정책 전환 가능성을 시사했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "글로벌 증시, 에너지, 항공",
+      "market_impact": "중립",
+      "related_sector": "금융, 성장주, 채권",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국제 유가 하락은 글로벌 경제의 인플레이션 우려를 덜어주고 기업의 비용 부담을 줄여 전반적인 증시 회복에 기여할 수 있기 때문입니다.",
-      "key_signal": "유가 하락 추세의 지속 여부와 이것이 Fed의 통화 정책 결정에 미칠 영향을 면밀히 관찰해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 매파적 기조 전환 시사는 향후 금리 인상 가능성을 높여 국내 증시에 부담으로 작용할 수 있기 때문에 주의 깊게 관찰해야 합니다.",
+      "key_signal": "연준 의장의 발언과 다음 FOMC 회의록에서 매파적 스탠스의 구체적인 근거와 강도를 파악하는 것이 중요합니다.",
       "keywords": [
-        "미국 증시",
-        "유가 하락",
-        "미-이란 합의",
-        "S&P 500",
-        "나스닥"
+        "연준",
+        "금리동결",
+        "매파적",
+        "FOMC",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRHVLbU90bXc1T25YRjFTVEVfYXppUUFQam5KM2dGMHZBNG1yTnJTU0ZsTW5JNXdNakViS0R5aU05Qk5pY0tPN1RSTTZ4NzhGblc1V0hITV9SRjVGN0NkcDBNQXQ4QUNLbnpuNEs4SVBEX3BsdTVkRmUwWVNTMjBVN0NqWGpWa253TnFWQmtHQ1VpME4wU3YxX0tuTmZLWTRxVmg5WmpnNjVhUlNSMl9CeVRsOVZCZmdKUVNsWklNVlJuVDA0WUdWdEczZ041RjF2YmlheUZFRlZwOVIwZkNKQkp2alQtTXRrc2xyTU5rcGdXdmkxY3d1bDQtc2x2SEpyOUx3WVRVeVJPeTBIQnlaTE53UTl1dE1rU2lMUUgxNUfSAaYCQVVfeXFMTVNsQVhKZFVjX0lDNExOVG9hWGJTWngtaWZEZ3U4SHdsZ1F1eWpCX0RzWlhZUzZuWk5fZ0JMc1JXeWQ2OXhjdjJrbE9FWlRDTEZ1a095VUN1U2pwMHYxcFd1UnhEZ0cyZ0h4TU5QN1czWC1SMWxub0FfdzRwSTBhdnJUTEt5MlZ6cGpQeFU0LV9tY1Z4TVVFVHRHLXFuMHhpb1lOZzZqOWlRYmhKdUZqalo0RVBpS1NSQmJaQndOWndzMGMtaUVrb2RPYS1hYXJBTEV5SzcyOTJZQ3F2M2FJYlpVQXVqQzA0V3poMmQ0OWI3OUdjNDdETjQ5RDNyNGxkd2lxd0JRT015RXlEUjJyUnRwWUlnVTQ5dDhVendlQWs2YTU2NVBn?oc=5",
-      "published": "2026-06-18 23:01",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXBUVlFmWGhELUhNODFBYzVCNTQ3ODFQeFUyaHBNaFo5NldvQ1VFcExaTzhIUUNicGRzSVY2SFVxaWxnRFlZM0xoTkxvQUplMHlzTFY3RnVoUFNGZmF3QUpUUUNleExGNlZMNU1WUnMwcFJqZG1WZWhHUXc1RzBrUk1wamdTdk5ZeUp3ZWRwb2g3UW5ZSXRtMHpkMEFaN2tHdlM4QUwxcFI4ZVIwdGJkbEFOQlIxandEUUE?oc=5",
+      "published": "2026-06-20 01:23",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -112,37 +112,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "미 FOMC 여파 및 달러 실수요로 원/달러 환율 1530원대 등락 전망",
-      "display_title": "미 FOMC 여파 및 달러 실수요로 원/달러 환율 1530원대 등락 전망",
-      "original_title": "미 FOMC 여진에 달러 실수요까지⋯\"1530원대서 등락할 것\" [환율전망] - 이투데이",
+      "title": "환율, 장중 1540원 육박 후 외환 당국 개입에 1520원대로 하락... 코스피는 9천선 턱걸이",
+      "display_title": "환율, 장중 1540원 육박 후 외환 당국 개입에 1520원대로 하락... 코스피는 9천선 턱걸이",
+      "original_title": "환율, 장중 1540원 육박 후 '외환 당국 개입'에 1520원대로 하락...코스피는 9천선 턱걸이 - 베타뉴스",
       "summary": [
-        "미 FOMC의 매파적 기조와 기업들의 결제 등 달러 실수요 증가로 원/달러 환율이 1530원대에서 변동할 것으로 예상됩니다.",
-        "높은 금리 격차와 글로벌 불확실성이 지속되면서 달러 강세가 유지되고 있으며, 국내 외환 시장에 압박을 가하고 있습니다.",
-        "고환율은 수출 기업에 단기적으로 유리할 수 있지만, 수입 물가 상승 및 외국인 투자자금 유출 우려를 키울 수 있어 주의가 필요합니다."
+        "원/달러 환율이 장중 1540원에 근접했으나 외환 당국의 개입으로 1520원대로 내려왔고, 코스피는 9천 선을 지키며 마감했다.",
+        "높은 인플레이션 압력과 미국 금리 인상 기대감 등으로 원화 가치 하락 압력이 커진 가운데, 외환 당국이 시장 안정화를 위해 개입한 것으로 보인다.",
+        "고환율은 수출 기업에 긍정적일 수 있으나, 외인 투자 이탈 우려와 수입 물가 상승 압력으로 국내 증시 전반에는 부정적 영향을 미치므로 환율 추이를 면밀히 지켜봐야 한다."
       ],
-      "summary_text": "미 FOMC의 매파적 기조와 기업들의 결제 등 달러 실수요 증가로 원/달러 환율이 1530원대에서 변동할 것으로 예상됩니다. 높은 금리 격차와 글로벌 불확실성이 지속되면서 달러 강세가 유지되고 있으며, 국내 외환 시장에 압박을 가하고 있습니다. 고환율은 수출 기업에 단기적으로 유리할 수 있지만, 수입 물가 상승 및 외국인 투자자금 유출 우려를 키울 수 있어 주의가 필요합니다.",
-      "description": "미국 연방공개시장위원회(FOMC)의 여파와 달러 실수요 증가로 원/달러 환율이 1530원대에서 등락할 것으로 전망됩니다.",
+      "summary_text": "원/달러 환율이 장중 1540원에 근접했으나 외환 당국의 개입으로 1520원대로 내려왔고, 코스피는 9천 선을 지키며 마감했다. 높은 인플레이션 압력과 미국 금리 인상 기대감 등으로 원화 가치 하락 압력이 커진 가운데, 외환 당국이 시장 안정화를 위해 개입한 것으로 보인다. 고환율은 수출 기업에 긍정적일 수 있으나, 외인 투자 이탈 우려와 수입 물가 상승 압력으로 국내 증시 전반에는 부정적 영향을 미치므로 환율 추이를 면밀히 지켜봐야 한다.",
+      "description": "원/달러 환율이 장중 한때 1540원에 육박하는 수준까지 급등했으나, 외환 당국의 개입으로 1520원대로 하락 마감했습니다. 코스피 지수는 9천선에 겨우 턱걸이했습니다.",
       "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
       "related_sector": "수출주, 수입주, 금융",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "현대차"
       ],
       "investment_view": "주의",
-      "investment_reason": "고환율은 국내 기업들의 비용 부담을 증가시키고 외국인 투자 심리를 위축시켜 국내 증시에 부정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "FOMC의 추가 발언, 국내 외환당국의 개입 여부, 그리고 기업들의 달러 실수요 변화를 지속적으로 모니터링해야 합니다.",
+      "investment_reason": "환율 급등과 외환 당국 개입은 국내 증시의 불안정성을 높이고 기업 실적에 큰 영향을 미칠 수 있으므로 매우 주의 깊게 모니터링해야 합니다.",
+      "key_signal": "외환 당국의 추가적인 시장 개입 의지와 미국 금리 정책 변화가 환율의 향방을 결정할 핵심 요인이므로 집중해야 합니다.",
       "keywords": [
         "환율",
-        "원/달러",
-        "FOMC",
-        "달러 강세",
-        "외환시장"
+        "외환당국",
+        "코스피",
+        "고환율",
+        "금리인상"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XZ3lWeXdVUTRrN2E3cmZ1cnRveElkNVVjX3Z6c3lJRzlncHhENlI0QkpPNGZRcWtXa1V5VVVUS0N5eEM1ZmM0MFdBTXVhRjVZXzlWVQ?oc=5",
-      "published": "2026-06-19 07:59",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12TGV5WERjV0IxQ2o5R3l3RDlJRlJZZXpwdjlRckJMRkh1MTBmZGIwTnJ6dXoxMEFxWWZSZUVUVXV5Ukl0VE93bFJ5c3U3bFNmQTRfSkt2NzY3VWQ0UTBLOGJwWG4?oc=5",
+      "published": "2026-06-19 20:21",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -151,126 +150,121 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "야간거래 원/달러 환율 10원 이상 급등, 1540원 마감",
-      "display_title": "야간거래 원/달러 환율 10원 이상 급등, 1540원 마감",
-      "original_title": "환율 야간거래서 10원 넘게 급등, 1540원 마감 - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "IMF 총재, 글로벌 경기 둔화 징후 없으나 위험은 여전히 높다고 경고",
+      "display_title": "IMF 총재, 글로벌 경기 둔화 징후 없으나 위험은 여전히 높다고 경고",
+      "original_title": "IMF chief says no global economic slowdown in sight, but risks are high - AOL.com",
       "summary": [
-        "야간 역외시장에서 원/달러 환율이 10원 이상 급등하여 1540원대에 마감하며 고환율 압력이 심화되었습니다.",
-        "FOMC의 매파적 기조와 이에 따른 달러 강세 심화가 국내 외환 시장에 즉각적으로 반영된 것으로 보입니다.",
-        "고환율 장기화 가능성이 높아지면서 수출 기업의 실적 개선 기대와 함께 수입 의존도가 높은 기업 및 전반적인 물가 상승 압력에 대한 우려가 커집니다."
+        "IMF 총재가 세계 경제 둔화의 명확한 징후는 없지만, 높은 수준의 위험은 지속되고 있다고 진단했다.",
+        "인플레이션, 지정학적 갈등, 고금리 등 여러 요인이 글로벌 경제의 불확실성을 높이고 있어 잠재적 위험이 상존한다.",
+        "경제 둔화 없이 견조한 흐름을 이어갈 수 있다는 점은 긍정적이나, 높은 위험 요인들이 언제든 변수로 작용할 수 있어 신중한 접근이 필요하다."
       ],
-      "summary_text": "야간 역외시장에서 원/달러 환율이 10원 이상 급등하여 1540원대에 마감하며 고환율 압력이 심화되었습니다. FOMC의 매파적 기조와 이에 따른 달러 강세 심화가 국내 외환 시장에 즉각적으로 반영된 것으로 보입니다. 고환율 장기화 가능성이 높아지면서 수출 기업의 실적 개선 기대와 함께 수입 의존도가 높은 기업 및 전반적인 물가 상승 압력에 대한 우려가 커집니다.",
-      "description": "야간거래에서 원/달러 환율이 10원 넘게 급등하여 1540원에 마감했습니다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "수출주, 수입주, 금융",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
+      "summary_text": "IMF 총재가 세계 경제 둔화의 명확한 징후는 없지만, 높은 수준의 위험은 지속되고 있다고 진단했다. 인플레이션, 지정학적 갈등, 고금리 등 여러 요인이 글로벌 경제의 불확실성을 높이고 있어 잠재적 위험이 상존한다. 경제 둔화 없이 견조한 흐름을 이어갈 수 있다는 점은 긍정적이나, 높은 위험 요인들이 언제든 변수로 작용할 수 있어 신중한 접근이 필요하다.",
+      "description": "국제통화기금(IMF) 총재는 현재 글로벌 경제 둔화의 징후는 보이지 않지만, 전반적인 경제 환경에는 여전히 높은 위험이 존재한다고 밝혔습니다.",
+      "category": "글로벌 경제",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "전 산업, 경기방어주, 필수소비재",
+      "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "환율 급등은 국내 경제 전반에 부정적인 영향을 미치며, 특히 외국인 자금 이탈과 기업의 원자재 수입 비용 증가로 이어질 수 있기 때문입니다.",
-      "key_signal": "외환 당국의 시장 개입 가능성과 함께 수출입 기업들의 실적 전망 변화를 주의 깊게 살펴야 합니다.",
+      "investment_reason": "글로벌 경제 둔화는 없지만 높은 위험이 존재한다는 IMF 총재의 경고는 시장 변동성 확대 가능성을 시사하므로 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "위험 요인들이 실제 시장에 어떻게 발현될지, 특히 인플레이션과 금리 정책 방향에 대한 추가 신호를 주시해야 합니다.",
       "keywords": [
-        "환율 급등",
-        "원/달러",
-        "야간거래",
-        "외환시장",
-        "고환율"
+        "IMF",
+        "글로벌경제",
+        "경기둔화",
+        "위험",
+        "불확실성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jcHNxOUlIWDVaTXJ1aWtPbUwwdVRKVFRJMmZEZHpDcnNURTBzX0JBVE55eXdibjc5eTVVb1hjVXBHeWpkblRSSFpPRjgyQzFCRlFXY3RZWjBISWJ1OXpyTEQzY0xpY21DcDFzeG9zVEpENWVyb0ZfeA?oc=5",
-      "published": "2026-06-19 07:39",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mc3hEMFRHRlNyWG90eDZfbkFjSXZQYUNpOWs2YVBCWGNhVWxld19kSm5rQ1RRNnpmMmdmNERHUXFGeTRhaWFUYWRPeGkzTzlxY1hjQWUxZDdPTDQ3RHlSdkdPQXZSbzJsR0loTHN0TWxCUTlweGRr?oc=5",
+      "published": "2026-06-20 04:02",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "엔비디아 젠슨 황 CEO, \"한국은 야망 갖춘 제조국\"... AI 시대, 절호의 기회",
-      "display_title": "엔비디아 젠슨 황 CEO, \"한국은 야망 갖춘 제조국\"... AI 시대, 절호의 기회",
-      "original_title": "\"한국은 야망 갖춘 제조국\" 젠슨 황 낙점…AI 시대, 절호의 기회 왔다 - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시, 준틴스 공휴일 맞아 휴장 전 반도체 주도 랠리 후 숨 고르기; 연준, 마이크론 실적 발표 임박",
+      "display_title": "미국 증시, 준틴스 공휴일 맞아 휴장 전 반도체 주도 랠리 후 숨 고르기; 연준, 마이크론 실적 발표 임박",
+      "original_title": "US Stocks Pause for Juneteenth After Chip-Led Rally; Fed, Micron Earnings Loom - TechStock²",
       "summary": [
-        "엔비디아 젠슨 황 CEO가 한국을 AI 시대의 중요한 제조 파트너로 평가하며 한국의 잠재력을 높이 샀습니다.",
-        "한국은 반도체 및 첨단 기술 제조 역량을 보유하고 있어 AI 산업 성장에 필수적인 인프라를 제공할 수 있습니다.",
-        "AI 산업 생태계 내 한국 기업들의 역할 증대와 이에 따른 관련 기업들의 성장 기회에 주목할 필요가 있습니다."
+        "미국 증시가 준틴스 공휴일로 휴장했으며, 휴장 전에는 반도체 주도 랠리가 있었고 연준 회의와 마이크론 실적 발표가 예정되어 있다.",
+        "최근 반도체 섹터의 강세는 AI 관련 기대감에 힘입은 것으로 보이며, 연준의 통화 정책과 주요 반도체 기업의 실적은 시장의 향방을 결정할 주요 변수다.",
+        "반도체 섹터의 강세는 국내 반도체 기업에도 긍정적인 영향을 줄 수 있으나, 연준의 정책 방향과 마이크론의 실적 발표에 따라 변동성이 커질 수 있다."
       ],
-      "summary_text": "엔비디아 젠슨 황 CEO가 한국을 AI 시대의 중요한 제조 파트너로 평가하며 한국의 잠재력을 높이 샀습니다. 한국은 반도체 및 첨단 기술 제조 역량을 보유하고 있어 AI 산업 성장에 필수적인 인프라를 제공할 수 있습니다. AI 산업 생태계 내 한국 기업들의 역할 증대와 이에 따른 관련 기업들의 성장 기회에 주목할 필요가 있습니다.",
-      "description": "엔비디아의 젠슨 황 CEO가 한국을 \"야망 갖춘 제조국\"으로 지목하며 AI 시대에 한국에게 절호의 기회가 왔다고 언급했습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, 제조, 소프트웨어",
+      "summary_text": "미국 증시가 준틴스 공휴일로 휴장했으며, 휴장 전에는 반도체 주도 랠리가 있었고 연준 회의와 마이크론 실적 발표가 예정되어 있다. 최근 반도체 섹터의 강세는 AI 관련 기대감에 힘입은 것으로 보이며, 연준의 통화 정책과 주요 반도체 기업의 실적은 시장의 향방을 결정할 주요 변수다. 반도체 섹터의 강세는 국내 반도체 기업에도 긍정적인 영향을 줄 수 있으나, 연준의 정책 방향과 마이크론의 실적 발표에 따라 변동성이 커질 수 있다.",
+      "description": "미국 증시가 준틴스(Juneteenth) 공휴일을 맞아 휴장하기 전 반도체 부문의 강세에 힘입은 랠리 이후 숨 고르기에 들어갔으며, 연방준비제도(Fed) 회의와 마이크론(Micron) 실적 발표가 임박했습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "반도체, IT, 인공지능",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 산업의 급격한 성장은 한국의 제조 역량과 결합하여 관련 기업들에게 새로운 사업 기회와 높은 성장 잠재력을 제공할 것이기 때문입니다.",
-      "key_signal": "엔비디아 등 글로벌 AI 선도 기업과의 협력 소식, 국내 AI 관련 기술 개발 및 투자 현황을 주시해야 합니다.",
+      "investment_reason": "미국 반도체 시장의 강세는 국내 반도체 기업에 대한 투자 심리를 개선할 수 있으며, 곧 발표될 주요 이벤트는 시장의 방향성을 제시할 것입니다.",
+      "key_signal": "마이크론의 실적 발표 내용과 가이던스가 글로벌 반도체 시장의 건전성을 확인하는 중요한 지표가 될 것입니다.",
       "keywords": [
-        "AI",
-        "엔비디아",
-        "젠슨 황",
-        "한국",
-        "반도체 제조"
+        "미국증시",
+        "준틴스",
+        "반도체",
+        "연준",
+        "마이크론"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HcVNNLUtRRFIwZ1hLZDdobG5sYmhBNGN4M18zNGhNcGxNSld3ZGpNUTBYcHp5WGJoN3BBZ1o5eGVVNmVBemNORU9MSXI5VGR6cXU1VlRyaGtCaUU3TlpZMHVOUUN5cXFhSXpMVVRfWTZ3QjR2MEUzeg?oc=5",
-      "published": "2026-06-19 06:01",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclBJMllWRmZQU2lEWTVHWUN6RUw4LUdHcDV5VlRZWklIc2Jqc0JUbzZ4eWFxWlNsNVYwZjFScmRobmo3c0FxbU44VmNnOFBfaFppSTFsN0VURkVwaE05a2d1MWVoVUFQUHphRHczQll3by1VNWJkNUVVRklndndwWGhGa2lvY2NNd1V1VWgyZklUUkU1WVBLSkZBNkhIQQ?oc=5",
+      "published": "2026-06-20 00:31",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "뉴욕 증시, 미-이란 휴전 소식에 급등... Fed 금리 인상 우려 완화",
-      "display_title": "뉴욕 증시, 미-이란 휴전 소식에 급등... Fed 금리 인상 우려 완화",
-      "original_title": "New York Stock Market Surges as U.S.-Iran Ceasefire Overshadows Fed Rate Fears - 조선일보",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "이수스페셜티케미컬, 전고체 배터리용 황화리튬 플랜트 준공",
+      "display_title": "이수스페셜티케미컬, 전고체 배터리용 황화리튬 플랜트 준공",
+      "original_title": "[한눈에 보는 Weekly 기업 소식] 이수스페셜티케미컬 \"전고체 배터리용 황화리튬 플랜트 준공\" - KIPOST",
       "summary": [
-        "미-이란 휴전 소식으로 지정학적 긴장이 완화되며 뉴욕 증시가 상승했습니다.",
-        "국제 유가 하락 압력 및 연준의 금리 인상에 대한 우려가 상쇄되면서 투자 심리가 개선되었습니다.",
-        "지정학적 리스크 완화가 전반적인 시장 심리에 긍정적인 영향을 미칠 수 있으나, Fed의 통화 정책은 여전히 주시해야 합니다."
+        "이수스페셜티케미컬이 전고체 배터리 핵심 소재인 황화리튬 생산 플랜트를 준공하며 관련 시장 선점에 나섰다.",
+        "전고체 배터리는 기존 리튬이온 배터리의 안정성과 성능 한계를 극복할 차세대 기술로 주목받고 있으며, 황화리튬은 전고체 배터리의 전해질 핵심 소재다.",
+        "전고체 배터리 상용화 기대감 속에서 핵심 소재 기술을 확보한 기업은 장기적인 성장 동력을 얻을 수 있으므로 관련 기업의 기술 개발 및 생산 능력 확대 여부를 주시해야 한다."
       ],
-      "summary_text": "미-이란 휴전 소식으로 지정학적 긴장이 완화되며 뉴욕 증시가 상승했습니다. 국제 유가 하락 압력 및 연준의 금리 인상에 대한 우려가 상쇄되면서 투자 심리가 개선되었습니다. 지정학적 리스크 완화가 전반적인 시장 심리에 긍정적인 영향을 미칠 수 있으나, Fed의 통화 정책은 여전히 주시해야 합니다.",
-      "description": "미국과 이란 간의 휴전 소식이 연방준비제도(Fed)의 금리 인상 우려를 압도하며 뉴욕 증시가 급등했습니다.",
-      "category": "증시·금리",
+      "summary_text": "이수스페셜티케미컬이 전고체 배터리 핵심 소재인 황화리튬 생산 플랜트를 준공하며 관련 시장 선점에 나섰다. 전고체 배터리는 기존 리튬이온 배터리의 안정성과 성능 한계를 극복할 차세대 기술로 주목받고 있으며, 황화리튬은 전고체 배터리의 전해질 핵심 소재다. 전고체 배터리 상용화 기대감 속에서 핵심 소재 기술을 확보한 기업은 장기적인 성장 동력을 얻을 수 있으므로 관련 기업의 기술 개발 및 생산 능력 확대 여부를 주시해야 한다.",
+      "description": "이수스페셜티케미컬이 차세대 전고체 배터리 핵심 소재인 황화리튬 생산 플랜트를 준공했다는 소식입니다.",
+      "category": "기업·산업",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "글로벌 증시, 에너지, 금융",
+      "related_sector": "2차전지, 전고체배터리, 화학",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "이수스페셜티케미컬",
+        "삼성SDI",
+        "LG에너지솔루션"
       ],
       "investment_view": "관심",
-      "investment_reason": "국제 정세 불안정 해소는 투자 심리에 직접적인 긍정적 영향을 미치며, 이는 국내 증시에도 간접적으로 반영될 수 있기 때문입니다.",
-      "key_signal": "미-이란 휴전의 지속 가능성과 함께 국제 유가 및 Fed의 다음 정책 발표에 대한 시장의 반응을 주목해야 합니다.",
+      "investment_reason": "이수스페셜티케미컬의 황화리튬 플랜트 준공은 전고체 배터리 시장 성장의 신호탄이 될 수 있으며, 관련 기업들의 장기적인 성장 잠재력을 보여줍니다.",
+      "key_signal": "이수스페셜티케미컬의 황화리튬 양산 계획과 전고체 배터리 개발 동향에 따라 관련 소재 및 부품 기업들의 투자 가치를 평가해야 합니다.",
       "keywords": [
-        "뉴욕 증시",
-        "미-이란",
-        "휴전",
-        "금리 인상",
-        "지정학적 리스크"
+        "이수스페셜티케미컬",
+        "전고체배터리",
+        "황화리튬",
+        "2차전지",
+        "차세대배터리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmtkSmV3NS1DcWMxV0ZNS0FIOXFTc3BYZG5JMFhyWTlBcHJDd0gxRDcyc1diMzRsd3IyU2l3UzJkNXNBRGlWSzRQNWRyenNfT1FEWmNweDJ4VElQTVFXZmNhNGZkdGhTT3NsVTI1WFVhTUtDREdVZTlHQ2RoNE1LNHlZc1Q?oc=5",
-      "published": "2026-06-19 05:47",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mWElDZzNkWUltMWZXdzlaUFJMdFBPZ1J5OWdnYWNzb195aEhjWUlEUTAxZFNiQk83dkkxNWdMQUFPRk1HMVowd28xWDVlWTd1T09Bb3NLdGxNOWxjOURST3BHdzlqUzlO?oc=5",
+      "published": "2026-06-19 17:54",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -279,70 +273,64 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "이수스페셜티케미컬",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "전고체배터리",
       "opinion": "관심",
-      "reason": "AI 및 자동차 산업의 폭발적인 성장 전망과 엔비디아 CEO의 한국 반도체 산업에 대한 긍정적 발언이 삼성전자의 장기적인 성장 동력으로 작용할 것으로 예상됩니다.",
+      "reason": "전고체 배터리용 황화리튬 플랜트 준공 소식은 동사의 기술 리더십과 시장 확대 가능성을 보여주며, 차세대 배터리 시장 성장의 중요한 모멘텀이 될 수 있습니다.",
       "check_points": [
-        "AI 반도체 및 고성능 메모리 수요 증가 추이",
-        "파운드리 사업부 수율 및 신규 수주 동향",
-        "외국인 투자자 순매수 여부"
+        "전고체 배터리 시장의 실제 상용화 진행 상황",
+        "황화리튬 생산 capa 및 고객사 확보 여부"
       ],
       "related_news_titles": [
-        "반도체 산업, 2031년까지 1.01조 달러 규모 예상… AI 및 자동차 수요 증가 주도",
-        "엔비디아 젠슨 황 CEO, '한국은 야망 갖춘 제조국'... AI 시대, 절호의 기회"
+        "이수스페셜티케미컬, 전고체 배터리용 황화리튬 플랜트 준공"
       ]
     },
     {
       "rank": 2,
-      "name": "한미반도체",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체 장비",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 시대의 핵심 부품인 고대역폭 메모리(HBM) 생산에 필수적인 장비를 공급하는 기업으로, 반도체 산업의 성장과 함께 직접적인 수혜가 기대됩니다.",
+      "reason": "미국 증시에서 반도체 주도의 랠리가 나타났다는 소식은 국내 반도체 대장주인 삼성전자에 대한 투자 심리 개선으로 이어질 수 있습니다. 다만, 고환율 장기화는 수출 기업에 부담으로 작용할 수 있어 환율 추이도 함께 관찰할 필요가 있습니다.",
       "check_points": [
-        "글로벌 HBM 생산 캐파 증설 계획",
-        "주요 고객사의 투자 확대 여부",
-        "신규 장비 개발 및 수주 공시"
+        "미국 마이크론 실적 발표 및 향후 가이던스",
+        "환율 1500원대 유지 여부 및 외환 당국의 추가 개입"
       ],
       "related_news_titles": [
-        "반도체 산업, 2031년까지 1.01조 달러 규모 예상… AI 및 자동차 수요 증가 주도",
-        "엔비디아 젠슨 황 CEO, '한국은 야망 갖춘 제조국'... AI 시대, 절호의 기회"
+        "환율, 장중 1540원 육박 후 외환 당국 개입에 1520원대로 하락...",
+        "미국 증시, 준틴스 공휴일 맞아 휴장 전 반도체 주도 랠리 후 숨 고르기; 연준, 마이크론 실적 발표 임박"
       ]
     },
     {
       "rank": 3,
-      "name": "SK이노베이션",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "정유 및 화학",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "미-이란 합의에 따른 국제 유가 하락은 정유 부문의 원가 부담을 줄이고 정제 마진 개선에 긍정적인 영향을 미쳐 수익성 향상에 기여할 수 있습니다.",
+      "reason": "미국 증시에서 이어진 반도체 강세는 국내 메모리 반도체 선두 기업인 SK하이닉스에 긍정적인 영향을 미칠 것으로 예상됩니다. 곧 발표될 마이크론 실적 등 주요 이벤트는 반도체 시장의 방향성을 제시할 것입니다.",
       "check_points": [
-        "국제 유가 및 정제 마진 추이",
-        "석유화학 시황 회복 여부",
-        "배터리 사업부의 수주 및 실적 개선"
+        "미국 마이크론 실적 발표 내용 및 HBM 수요 전망",
+        "글로벌 AI 반도체 시장 성장세 지속 여부"
       ],
       "related_news_titles": [
-        "오늘 미국 증시: 미-이란 합의 후 유가 하락에 월스트리트 반등, S&P 500과 나스닥 1% 이상 상승",
-        "뉴욕 증시, 미-이란 휴전 소식에 급등... Fed 금리 인상 우려 완화"
+        "미국 증시, 준틴스 공휴일 맞아 휴장 전 반도체 주도 랠리 후 숨 고르기; 연준, 마이크론 실적 발표 임박"
       ]
     },
     {
       "rank": 4,
       "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "금융투자",
-      "opinion": "관심",
-      "reason": "미-이란 합의에 따른 국제 정세 안정과 연준의 금리 인상 우려 완화는 글로벌 및 국내 투자 심리를 개선시켜 증권사의 거래량 증대 및 수익성 확보에 긍정적 영향을 줄 수 있습니다.",
+      "sector": "증권",
+      "opinion": "주의",
+      "reason": "미국 국채 수익률 급등과 연준의 매파적 전환 시사는 국내 증시의 투자 심리에 부정적 영향을 줄 수 있으며, 이는 증권업종의 실적에 부담으로 작용할 수 있습니다. 향후 금리 인상 가능성과 시장 변동성 확대에 유의해야 합니다.",
       "check_points": [
-        "국내외 증시 거래대금 변화",
-        "외국인 투자자 순매수 흐름",
-        "금리 정책 변화에 따른 채권 시장 동향"
+        "미국 금리 인상 스탠스 변화 및 FOMC 위원 발언",
+        "국내 증시 거래대금 및 투자 심리 변화"
       ],
       "related_news_titles": [
-        "오늘 미국 증시: 미-이란 합의 후 유가 하락에 월스트리트 반등, S&P 500과 나스닥 1% 이상 상승",
-        "뉴욕 증시, 미-이란 휴전 소식에 급등... Fed 금리 인상 우려 완화"
+        "국채 수익률 급등과 인플레이션 우려로 S&P 500, 나스닥, 다우 지수 하락 마감",
+        "연준, 금리 3.50%-3.75%로 동결했지만 매파적 전환 임박 시사"
       ]
     }
   ],
