@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21 08:09",
-  "analysis_date": "2026-06-21",
+  "generated_at": "2026-06-22 08:13",
+  "analysis_date": "2026-06-22",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 지정학적 리스크와 주요 경제 지표 발표를 앞두고 변동성이 예상되지만, 미국 증시 회복과 견조한 소비 지표는 긍정적입니다. 국내 부동산 정책의 불확실성은 주의가 필요하며, 특정 첨단 산업의 성장 기대감은 지속됩니다.",
-    "국내거시경제": "글로벌 증시 회복 및 미국 소비 지속은 국내 수출 기업 실적 개선과 투자 심리 회복에 긍정적 영향을 미칠 수 있습니다.",
-    "글로벌경제": "미국-이란 휴전 불확실성 지속, PCE 발표 및 연준 인사 발언이 주목됩니다. 다만, 미국 휘발유 가격 하락과 견조한 소비 지표는 긍정적 신호입니다.",
-    "증시금리": "미국 증시가 연준 금리 전망 우려를 극복하고 지정학적 위험 완화에 힘입어 회복세를 보였습니다. 주요 경제 지표 발표와 연준 발언에 따른 금리 변동성 및 금 시장 불안정성은 주시해야 합니다.",
-    "부동산정책": "정부와 서울시의 부동산 정책 방향성 불일치로 시장의 불확실성이 커지고 있습니다.",
-    "기업산업": "전기차, 반도체 등 첨단 산업 수요 가속화로 나노결정 연자성 재료 시장이 성장할 전망입니다. 한국과 유럽 간 소버린 AI 협력 강화로 국내 AI 기업의 해외 진출 기회가 확대될 것으로 보입니다.",
-    "오늘의투자시사점": "지정학적 위험과 정책 불확실성에 대비하며 시장 변동성에 민감하게 대응해야 합니다. 한편, 나노결정 연자성 재료 및 AI 관련 첨단 기술 기업들의 성장 잠재력에 관심을 가질 필요가 있습니다.",
-    "오늘의한줄": "글로벌 지정학적 리스크와 정책 불확실성 속에서도 일부 첨단 산업의 성장 모멘텀과 미국 경제의 긍정적 지표는 투자 기회를 제공합니다."
+    "총평": "신임 연준 의장의 정책 방향 전환 시사와 한·미 금리 인상 가능성으로 통화 정책의 불확실성이 증대되고 있습니다. 그러나 중국의 기술 강국 추진과 지정학적 불안정 속 한국 방산·반도체 산업의 경쟁력 부각은 투자자들에게 새로운 기회 요인으로 작용하고 있습니다.",
+    "국내거시경제": "한국과 미국 중앙은행 모두 금리 인상 가능성을 시사하며, 3년째 고금리 환경에 노출된 국내 기업들의 이자 부담이 가중될 수 있습니다. 특히 재무 구조가 취약한 기업들은 추가적인 압박에 직면할 수 있어 재무 건전성을 면밀히 살펴야 합니다.",
+    "글로벌경제": "신임 연준 의장이 첫 FOMC에서 전임자들을 비판하며 통화 정책 기조 변화 가능성을 시사했습니다. 미-이란 평화 협상 가능성 및 인플레이션 우려가 지속되는 가운데, 중국은 AI와 로봇 기술로 기술 강국을 추진하며 미·중 기술 패권 경쟁이 심화되는 양상입니다.",
+    "증시금리": "연준의 결정이 이란 관련 지정학적 리스크나 유가 불안정보다 시장에 더 큰 영향력을 행사하며 통화 정책 방향에 대한 민감도가 높아졌습니다. 고금리 환경 지속과 인플레이션 압력에 대한 경계심은 여전하며, 연준의 스탠스가 증시의 주요 변수로 작용하고 있습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "중국이 AI 및 로봇 기술을 결합하여 강력한 기술 국가를 지향하고 있으며, 이는 관련 한국 기업들에게 성장 기회를 제공할 수 있습니다. 또한, 미-이란 종전 협상 등 지정학적 불안정 속에서 한국의 방위산업과 반도체 산업은 국제적인 기술력과 신뢰성을 인정받으며 경쟁력을 부각하고 있습니다.",
+    "오늘의투자시사점": "불확실한 통화 정책 환경 속 재무 건전성이 우수한 기업들에 대한 선별적 접근이 필요합니다. 동시에 AI, 로봇, 방산, 반도체 등 글로벌 기술 패권 경쟁과 지정학적 리스크 속에서도 경쟁력을 입증하고 있는 한국 핵심 산업 분야에 대한 지속적인 관심이 요구됩니다.",
+    "오늘의한줄": "연준의 정책 변화 가능성과 금리 인상 기조 속, AI·로봇·방산·반도체 등 한국 핵심 산업의 글로벌 경쟁력에 주목할 시기입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주간 전망: 미국-이란 휴전 불확실성 지속, PCE 발표 및 연준 인사 발언, 금값 불안정",
-      "display_title": "주간 전망: 미국-이란 휴전 불확실성 지속, PCE 발표 및 연준 인사 발언, 금값 불안정",
-      "original_title": "Weekly Outlook: Uncertainty Remains in US-Iran Ceasefire, PCE and Federal Reserve Officials to Make Appearances, Gold Troubles Not Over Yet - Bitget",
+      "title": "신임 연준 의장 케빈 워시, 첫 FOMC 회의에서 트럼프와 파월 비판",
+      "display_title": "신임 연준 의장 케빈 워시, 첫 FOMC 회의에서 트럼프와 파월 비판",
+      "original_title": "Fed Chair Kevin Warsh Just Subtly Threw President Donald Trump and Jerome Powell Under the Bus in His First FOMC Meeting - The Motley Fool",
       "summary": [
-        "이번 주에는 미국-이란 휴전의 불확실성, 핵심 인플레이션 지표인 PCE 발표, 연준 인사들의 발언, 그리고 금 시장의 불안정성 등이 주요 경제 이슈로 부각됩니다.",
-        "시장은 지정학적 리스크, 인플레이션 지표, 통화정책 신호 등 여러 변수에 주목하며 높은 변동성이 예상되는 한 주가 될 것으로 보입니다.",
-        "핵심 경제 지표와 정책 당국자 발언을 주시하며 시장의 변동성에 대비하고, 안전자산으로 여겨지는 금 가격 동향을 면밀히 관찰해야 합니다."
+        "새로 취임한 연준 의장 케빈 워시가 첫 FOMC 회의에서 전임자들의 정책 방향에 대한 비판적 시각을 드러냈습니다.",
+        "이는 연준의 리더십 교체와 함께 통화 정책 기조에 잠재적인 변화가 있을 수 있음을 시사하며, 과거 행정부 및 연준의 정책 방향과 대립각을 세울 가능성을 내포합니다.",
+        "연준 의장의 교체와 정책 방향 전환 시사는 금융 시장의 불확실성을 증대시키고, 향후 금리 및 유동성 정책에 중대한 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "이번 주에는 미국-이란 휴전의 불확실성, 핵심 인플레이션 지표인 PCE 발표, 연준 인사들의 발언, 그리고 금 시장의 불안정성 등이 주요 경제 이슈로 부각됩니다. 시장은 지정학적 리스크, 인플레이션 지표, 통화정책 신호 등 여러 변수에 주목하며 높은 변동성이 예상되는 한 주가 될 것으로 보입니다. 핵심 경제 지표와 정책 당국자 발언을 주시하며 시장의 변동성에 대비하고, 안전자산으로 여겨지는 금 가격 동향을 면밀히 관찰해야 합니다.",
-      "description": "이번 주 주요 이슈로 미국-이란 휴전의 불확실성, 개인소비지출(PCE) 물가지수 발표, 연방준비제도(Fed) 관계자 발언, 그리고 여전히 불안정한 금 시장 상황이 제시되었습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "새로 취임한 연준 의장 케빈 워시가 첫 FOMC 회의에서 전임자들의 정책 방향에 대한 비판적 시각을 드러냈습니다. 이는 연준의 리더십 교체와 함께 통화 정책 기조에 잠재적인 변화가 있을 수 있음을 시사하며, 과거 행정부 및 연준의 정책 방향과 대립각을 세울 가능성을 내포합니다. 연준 의장의 교체와 정책 방향 전환 시사는 금융 시장의 불확실성을 증대시키고, 향후 금리 및 유동성 정책에 중대한 영향을 미칠 수 있습니다.",
+      "description": "신임 연방준비제도(Fed) 의장 케빈 워시가 첫 연방공개시장위원회(FOMC) 회의에서 도널드 트럼프 전 대통령과 제롬 파월 전 의장을 미묘하게 비판했습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "AI/소프트웨어",
-      "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
-      ],
+      "market_impact": "부정",
+      "related_sector": "금융, 전반",
+      "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "다수의 거시경제 및 지정학적 불확실성이 예고되어 있어 시장 변동성이 커질 수 있기 때문에 신중한 접근이 필요합니다.",
-      "key_signal": "이번 주 발표될 PCE 물가지수와 연준 인사들의 발언에서 향후 통화정책 방향에 대한 힌트를 찾아야 합니다.",
+      "investment_reason": "연준의 수장이 바뀌고 기존 정책에 대한 비판적 시각이 드러나면서 향후 통화 정책 방향이 불확실해져 시장 변동성이 커질 수 있기 때문입니다.",
+      "key_signal": "케빈 워시 신임 의장의 향후 발언과 FOMC 회의록을 통해 구체적인 정책 방향 변화를 면밀히 분석해야 합니다.",
       "keywords": [
-        "PCE",
-        "연준",
-        "금리",
-        "미국-이란",
-        "지정학적 위험"
+        "연준 의장",
+        "케빈 워시",
+        "FOMC",
+        "통화 정책",
+        "불확실성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OUExyTTdHUlRGY1l0d3NpR3ZTVDFPc1g2Ym9TMjJ4SVNiVV9DTXFWZVRGN1F1c0F1Mkl2N1lmWXktZWNuTHVockc2WjJ4SmxndW9VZVZ2bFBtT1RnSHM3TnlnZ9IBY0FVX3lxTE1OUExyTTdHUlRGY1l0d3NpR3ZTVDFPc1g2Ym9TMjJ4SVNiVV9DTXFWZVRGN1F1c0F1Mkl2N1lmWXktZWNuTHVockc2WjJ4SmxndW9VZVZ2bFBtT1RnSHM3TnlnZw?oc=5",
-      "published": "2026-06-20 21:23",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0ZRM3JZSzdYMnBUbmJUbEJtNFdmRzhUeDA3OXFQc19uLVZqU2ltVW1hWGtWeVM4dk9HNnh3TWNfdWMxMGZJUDJsN0lXSlA2SVdpcUlYdFRKckFaWFlFTUU0M18wc0FRbGxDb2dzZmR1Y2NaTy1FY3gwam5iYzZ4eXcyUFBVRGNzbnBBRkVkZ0ozTXZPb3VvRA?oc=5",
+      "published": "2026-06-21 23:06",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,42 +63,42 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "월스트리트, 연준 전망 극복 및 미국-이란 합의로 회복세",
-      "display_title": "월스트리트, 연준 전망 극복 및 미국-이란 합의로 회복세",
-      "original_title": "Wall Street recovers as traders get past Fed outlook, US.-Iran deal lifts sentiment - MSN",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "한·미 금리 인상 시사... 3년째 이자 부담 큰 기업 분석",
+      "display_title": "한·미 금리 인상 시사... 3년째 이자 부담 큰 기업 분석",
+      "original_title": "한·미 금리 인상 시사…3년째 이자 부담 큰 기업은? [한경우의 케이스스터디] - 한국경제",
       "summary": [
-        "미국 증시가 연방준비제도(Fed)의 금리 전망에 대한 우려를 딛고 상승했으며, 미국-이란 합의 소식이 투자 심리를 개선했습니다.",
-        "시장 참여자들은 연준의 매파적 스탠스에 대한 불확실성 속에서도 긍정적인 지정학적 소식에 반응하여 증시 회복세를 이끌었습니다.",
-        "글로벌 증시 회복은 한국 증시에도 긍정적인 영향을 미칠 수 있으며, 지정학적 위험 완화는 투자 심리 개선에 기여할 것으로 예상됩니다."
+        "한국과 미국 중앙은행 모두 금리 인상 가능성을 시사하고 있어, 3년째 고금리 환경에 노출된 기업들의 이자 부담이 커지고 있습니다.",
+        "이는 인플레이션 압력과 통화 긴축 기조가 지속될 것이라는 전망을 강화하며, 재무 구조가 취약한 기업들에게는 추가적인 압박으로 작용할 수 있습니다.",
+        "재무 건전성이 우수하거나 이자 보상 능력이 높은 기업들에 대한 선별적인 접근이 필요하며, 부채 비율이 높은 기업은 주의해야 합니다."
       ],
-      "summary_text": "미국 증시가 연방준비제도(Fed)의 금리 전망에 대한 우려를 딛고 상승했으며, 미국-이란 합의 소식이 투자 심리를 개선했습니다. 시장 참여자들은 연준의 매파적 스탠스에 대한 불확실성 속에서도 긍정적인 지정학적 소식에 반응하여 증시 회복세를 이끌었습니다. 글로벌 증시 회복은 한국 증시에도 긍정적인 영향을 미칠 수 있으며, 지정학적 위험 완화는 투자 심리 개선에 기여할 것으로 예상됩니다.",
-      "description": "트레이더들이 연방준비제도(Fed)의 전망에 대한 우려를 극복하고 미국-이란 합의가 투자 심리를 개선하면서 월스트리트가 회복세를 보였습니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "금융/증권",
+      "summary_text": "한국과 미국 중앙은행 모두 금리 인상 가능성을 시사하고 있어, 3년째 고금리 환경에 노출된 기업들의 이자 부담이 커지고 있습니다. 이는 인플레이션 압력과 통화 긴축 기조가 지속될 것이라는 전망을 강화하며, 재무 구조가 취약한 기업들에게는 추가적인 압박으로 작용할 수 있습니다. 재무 건전성이 우수하거나 이자 보상 능력이 높은 기업들에 대한 선별적인 접근이 필요하며, 부채 비율이 높은 기업은 주의해야 합니다.",
+      "description": "한국과 미국 양국이 금리 인상을 시사하는 가운데, 3년 연속으로 높은 이자 부담을 안고 있는 기업들에 대한 분석이 제시되었습니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "전반",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 증시의 회복세와 지정학적 긴장 완화는 글로벌 투자 심리에 긍정적 영향을 미쳐 국내 증시에도 영향을 줄 수 있기 때문입니다.",
-      "key_signal": "미국 증시의 추가 상승 동력과 중동 정세의 안정화 여부를 지속적으로 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "한미 금리 인상은 기업의 수익성에 직접적인 영향을 미치며, 특히 재무 구조가 취약한 기업들은 투자 위험이 높아지기 때문입니다.",
+      "key_signal": "국내 기업들의 재무제표를 면밀히 분석하여 이자 부담 능력을 확인하고, 한미 중앙은행의 금리 인상 정책 방향을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "연준",
-        "미국-이란 합의",
-        "투자 심리",
-        "지정학적 위험"
+        "금리 인상",
+        "이자 부담",
+        "한미 금리",
+        "기업 재무",
+        "긴축"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVk9xZWY3bDBIQWxRUTRpZ1BxNTVMMnNnQlREWkhRbGJZdWp6UTV5cmpqUFZrajUtYVRXcEZzZGNuQWhXcDc4cVFjb0o4ZF9Zcy0tREJQM2FwMmt0dmVTcHFfaUxHUnZ2cjhreDdNMkVIaktfeXVVaGpqaktMMXlBNEdFak92UnVCQ1pSbTZ6X0V4aWg0UGxYSkI3YVBLZk9BeGVJOVlySTF3TTZYSmFRd2oybHJnOW1ZUFFaeWhxNDU0MnhSWURqdzdnejVxQQ?oc=5",
-      "published": "2026-06-21 04:11",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQ3ZlMDFaSnBVcGR6MTNPTEMzclplaGYxQUlVVVJLVGQtNEpmQW9PanNXYXNWckFSMEdZbENyZUYzME9RaE5qa0NBaHRXX3FSUm5kbFJucDZKUdIBVEFVX3lxTE15RmhxRHZYZUdNajZiS0JNWWxuQzlMYWIzZktVN3NVdGIzOV9iZUJackJpUW5WUm9IYW5jdW1uVFpYTWFRUUZoX2NYTmd5MFFoaDZmRA?oc=5",
+      "published": "2026-06-22 06:30",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,36 +108,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 초점: 미국 휘발유 가격 갤런당 4달러 미만 하락 및 미국인 소비 지속 증거",
-      "display_title": "미국 초점: 미국 휘발유 가격 갤런당 4달러 미만 하락 및 미국인 소비 지속 증거",
-      "original_title": "America In Focus: US gas prices dip below $4 and more evidence Americans keep spending - The Washington Post",
+      "title": "미국 증시 선물 하락, 이란 평화 및 인플레이션 우려 주목",
+      "display_title": "미국 증시 선물 하락, 이란 평화 및 인플레이션 우려 주목",
+      "original_title": "Stock market today: S&P 500, Nasdaq, Dow futures slide with US-Iran peace and inflation in focus - Yahoo Finance",
       "summary": [
-        "미국 휘발유 가격이 갤런당 4달러 미만으로 하락하고 있으며, 동시에 미국 소비자 지출이 견조하게 유지되고 있다는 증거가 나왔습니다.",
-        "유가 하락은 소비자들의 가처분 소득을 늘려 소비를 촉진하고 인플레이션 압력을 완화하는 긍정적인 효과를 가져올 수 있습니다.",
-        "견조한 미국 소비는 글로벌 경기 둔화 우려를 완화하고 국내 수출 기업들의 실적에 긍정적인 영향을 미칠 수 있으므로 주목해야 합니다."
+        "미국 주요 증시 선물 지수(S&P 500, 나스닥, 다우)가 하락했습니다.",
+        "이는 미국-이란 평화 협상 가능성(유가 하락 압력)과 지속적인 인플레이션 우려에 따른 것입니다.",
+        "글로벌 경기 둔화 가능성과 기업 이익 마진 압박에 대한 투자자들의 경계심이 반영된 것으로 보입니다."
       ],
-      "summary_text": "미국 휘발유 가격이 갤런당 4달러 미만으로 하락하고 있으며, 동시에 미국 소비자 지출이 견조하게 유지되고 있다는 증거가 나왔습니다. 유가 하락은 소비자들의 가처분 소득을 늘려 소비를 촉진하고 인플레이션 압력을 완화하는 긍정적인 효과를 가져올 수 있습니다. 견조한 미국 소비는 글로벌 경기 둔화 우려를 완화하고 국내 수출 기업들의 실적에 긍정적인 영향을 미칠 수 있으므로 주목해야 합니다.",
-      "description": "미국 휘발유 가격이 갤런당 4달러 아래로 떨어졌으며, 이는 미국 소비자들이 계속해서 지출을 늘리고 있다는 추가적인 증거로 나타났습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "미국 주요 증시 선물 지수(S&P 500, 나스닥, 다우)가 하락했습니다. 이는 미국-이란 평화 협상 가능성(유가 하락 압력)과 지속적인 인플레이션 우려에 따른 것입니다. 글로벌 경기 둔화 가능성과 기업 이익 마진 압박에 대한 투자자들의 경계심이 반영된 것으로 보입니다.",
+      "description": "S&P 500, 나스닥, 다우 선물 지수가 미국-이란 평화 협상 가능성과 인플레이션 우려로 인해 하락세를 보였습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "소비재, 유통, 에너지",
+      "market_impact": "부정",
+      "related_sector": "전반",
       "related_stocks": [
-        "현대차",
-        "기아"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 소비자의 견조한 지출은 글로벌 경기 둔화 우려를 줄이고 국내 수출 기업들에게 긍정적 영향을 줄 수 있기 때문입니다.",
-      "key_signal": "미국 에너지 가격과 소비자 지출 지표가 앞으로도 안정적인 흐름을 유지하는지 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 증시 하락은 국내 시장에도 부정적인 영향을 미칠 수 있으며, 인플레이션과 지정학적 리스크가 복합적으로 작용하고 있기 때문입니다.",
+      "key_signal": "미국 증시 개장 후 실제 움직임과 이란-미국 관련 추가 뉴스 흐름을 주시해야 합니다.",
       "keywords": [
-        "미국 경제",
-        "휘발유 가격",
-        "소비자 지출",
+        "미국 증시",
+        "선물",
         "인플레이션",
-        "경기"
+        "이란",
+        "지정학적 리스크"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdmpmamlxanRTT2ppVU9hYms3QXNFX2Z5bTRHUUt1UnpDQlFieTBSLVhxWlk4Skg4OThubC1KV1VNZGJva2pMa2NFSzNPU2g0MnN5ZndPeUNOZjUwZkMyZXFoOWYzVGt5WnZ6SjdfbkFqTFBSSUVyZWRMRHhFWlMxRXdNek1RNXJNOWRtRXFNazB3VVkwaVZETEI3SDZtSFJYREVrRk9rN3VTZ1dLYmVMNEV6ZzZXWXdENWozdjM1REU5dHQtZzFsX05hcEFRcVhFVEFwNnJMMk02S1ZDR3pqcUpYcklucW1I?oc=5",
-      "published": "2026-06-21 00:56",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGJEWFNYcGZVc01vZE43a1htczYycklNQTNydkVYWkJLOVoyaFYtcWhBUF94b0RMRTdEeldURVQtZ2ZJXzczVE53MWNOQXlHT3Y2WUhOeG5jRlQ4eHItaUZUcVZLQnlFc3REZzVUb3hwdDF3dm50blBmX0piVTY2Wk9VbWFvNFZHeTQ4blhiVXlaNmdMSlQ1dXRR?oc=5",
+      "published": "2026-06-22 07:59",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -150,41 +147,42 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "부동산 정책 엇박자 타는 정부·서울시, 왜?",
-      "display_title": "부동산 정책 엇박자 타는 정부·서울시, 왜?",
-      "original_title": "부동산 정책 엇박자 타는 정부·서울시, 왜? - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "중국, AI와 로봇으로 기술 강국 추진... 한국은 이중 전략 모색",
+      "display_title": "중국, AI와 로봇으로 기술 강국 추진... 한국은 이중 전략 모색",
+      "original_title": "China fuses AI and robots to power techno state, Korea weighs dual strategy - CHOSUNBIZ - Chosunbiz",
       "summary": [
-        "정부와 서울시의 부동산 정책이 상이한 방향으로 전개되며 시장에 혼란과 불확실성을 주고 있습니다.",
-        "주택 공급, 규제 완화 등 주요 부동산 이슈에 대해 중앙정부와 지방정부 간의 입장 차이가 발생하며 정책 조율의 어려움을 겪고 있습니다.",
-        "정책 불확실성은 부동산 시장의 변동성을 키울 수 있으며, 투자자들은 정책 변화에 민감하게 대응해야 할 시점입니다."
+        "중국이 AI와 로봇 기술을 결합하여 강력한 기술 국가를 지향하고 있으며, 한국은 이에 대응하는 전략을 검토 중입니다.",
+        "이는 미·중 기술 패권 경쟁의 일환으로, 핵심 기술 분야에서 국가적 역량 강화의 중요성이 부각되고 있음을 보여줍니다.",
+        "한국의 관련 기업들은 AI 및 로봇 산업의 성장 기회를 포착하고, 국가적 지원 정책의 수혜를 입을 가능성이 있습니다."
       ],
-      "summary_text": "정부와 서울시의 부동산 정책이 상이한 방향으로 전개되며 시장에 혼란과 불확실성을 주고 있습니다. 주택 공급, 규제 완화 등 주요 부동산 이슈에 대해 중앙정부와 지방정부 간의 입장 차이가 발생하며 정책 조율의 어려움을 겪고 있습니다. 정책 불확실성은 부동산 시장의 변동성을 키울 수 있으며, 투자자들은 정책 변화에 민감하게 대응해야 할 시점입니다.",
-      "description": "정부와 서울시의 부동산 정책 방향이 서로 엇갈리며 엇박자를 내는 원인과 그 배경에 대한 분석입니다.",
-      "category": "부동산·정책",
+      "summary_text": "중국이 AI와 로봇 기술을 결합하여 강력한 기술 국가를 지향하고 있으며, 한국은 이에 대응하는 전략을 검토 중입니다. 이는 미·중 기술 패권 경쟁의 일환으로, 핵심 기술 분야에서 국가적 역량 강화의 중요성이 부각되고 있음을 보여줍니다. 한국의 관련 기업들은 AI 및 로봇 산업의 성장 기회를 포착하고, 국가적 지원 정책의 수혜를 입을 가능성이 있습니다.",
+      "description": "중국이 인공지능(AI)과 로봇 기술을 융합하여 기술 강국을 건설하려 하는 가운데, 한국은 이에 대응하기 위한 이중 전략을 모색하고 있습니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "부동산 개발, 건설",
+      "market_impact": "긍정",
+      "related_sector": "인공지능, 로봇, 반도체",
       "related_stocks": [
-        "현대건설",
-        "GS건설"
+        "삼성전자",
+        "SK하이닉스",
+        "두산로보틱스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "정부와 서울시의 부동산 정책 엇박자는 시장의 불확실성을 가중시켜 부동산 관련 투자에 신중한 접근을 요구하기 때문입니다.",
-      "key_signal": "정부와 서울시 간의 부동산 정책 조율 노력과 향후 발표될 구체적인 정책 방향을 면밀히 지켜봐야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 및 로봇 산업의 구조적 성장과 함께 한국 정부의 전략적 대응은 관련 기업들에게 새로운 기회를 제공할 수 있기 때문입니다.",
+      "key_signal": "한국 정부의 구체적인 AI·로봇 산업 육성 정책과 중국의 기술 개발 속도를 주시해야 합니다.",
       "keywords": [
-        "부동산 정책",
-        "정부",
-        "서울시",
-        "정책 불확실성",
-        "주택 시장"
+        "AI",
+        "로봇",
+        "중국",
+        "기술 경쟁",
+        "한국 전략"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HMEY0bmZualJTc0E1VDA2RDhrREN1b0tqM1FWNVNFVmljM1ZDTnRXNFJPbThIM09tX3g3LUhFODl6eEFQdEstRFE4b2VQNWpBNk9N?oc=5",
-      "published": "2026-06-20 21:01",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdOZlJxVVJHUkhkVkZ5TmQ0RXNrRjVSbm1COVVjSkVkNXlMUVN2dVJmX3p5dTNqNXZKZ1V1MHdvOEl4QS1hSFFDOC1KRjRiVmZVbU9mUjNCQ2EtWm0tZm5UaGJqcjBXeVdhcHhkVlJndGZtd3VUb2ItSnMyV3hqUk5R0gGWAUFVX3lxTE1hQjJ4aFNNSkF1eGMxSWV3eG1lUlYwLXA0UzdyTVFmSHpwNTZhYnBneFowMWF4eE1ORVhEdVlEc2phdWRWeWJtcUxwZFdabHNwNHFiYVhSd2hOOGJGMmVtV2FYenNEWUtweGtGZXhqOXR1amdGQ244eU40ekNCS2lBeXNFSDkwRExiN1BRV0h0LWFxVFZTQQ?oc=5",
+      "published": "2026-06-22 06:51",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -194,36 +192,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나노결정 연자성 재료 시장, 2034년까지 205.8억 달러 초과 전망…EV, 반도체, 고주파 전력전자 수요 가속화",
-      "display_title": "나노결정 연자성 재료 시장, 2034년까지 205.8억 달러 초과 전망…EV, 반도체, 고주파 전력전자 수요 가속화",
-      "original_title": "Nanocrystalline Soft Magnetic Material Market to Surpass US$ 20.58 Billion by 2034 as EV Electrification, Semiconductor Expansion, and High-Frequency Power Electronics Accelerate Global Demand - 24-7 Press Release Newswire",
+      "title": "연준 결정이 이란·유가 우려 압도하며 미국 증시 선물 소폭 상승",
+      "display_title": "연준 결정이 이란·유가 우려 압도하며 미국 증시 선물 소폭 상승",
+      "original_title": "Dow, S&P 500, Nasdaq Futures Creep Higher As Fed Decision Tops Iran, Oil Fears: Why SWRM, MU, ONDS, SOFI, LULU Are In Focus - Stocktwits",
       "summary": [
-        "나노결정 연자성 재료 시장이 전기차(EV) 전동화, 반도체 확장, 고주파 전력전자 수요 증가에 힘입어 2034년까지 205.8억 달러 규모로 성장할 전망입니다.",
-        "이 재료는 에너지 효율을 높이는 핵심 부품으로, 전기차, 5G 통신, 데이터센터 등 첨단 산업의 발전에 필수적인 역할을 수행합니다.",
-        "관련 소재 및 부품 기업들은 장기적인 성장 동력을 확보할 수 있으며, 이 분야에서 기술 경쟁력을 가진 기업에 대한 관심이 요구됩니다."
+        "연준의 결정이 이란 관련 지정학적 리스크나 유가 불안정보다 시장에 더 큰 영향력을 행사하며 미국 증시 선물 지수가 완만하게 상승했습니다.",
+        "이는 투자자들이 통화 정책 방향에 더욱 민감하게 반응하고 있음을 보여주며, 연준의 스탠스가 시장의 주요 변수로 작용하고 있음을 시사합니다.",
+        "연준의 향후 통화 정책 방향이 여전히 중요하며, 반도체(MU 언급) 등 특정 섹터는 긍정적인 기대감을 가질 수 있습니다."
       ],
-      "summary_text": "나노결정 연자성 재료 시장이 전기차(EV) 전동화, 반도체 확장, 고주파 전력전자 수요 증가에 힘입어 2034년까지 205.8억 달러 규모로 성장할 전망입니다. 이 재료는 에너지 효율을 높이는 핵심 부품으로, 전기차, 5G 통신, 데이터센터 등 첨단 산업의 발전에 필수적인 역할을 수행합니다. 관련 소재 및 부품 기업들은 장기적인 성장 동력을 확보할 수 있으며, 이 분야에서 기술 경쟁력을 가진 기업에 대한 관심이 요구됩니다.",
-      "description": "전기차(EV) 전동화, 반도체 확장, 고주파 전력전자 기술 발전이 나노결정 연자성 재료에 대한 글로벌 수요를 가속화하며, 2034년까지 시장 규모가 205.8억 달러를 넘어설 것으로 예상됩니다.",
-      "category": "기업·산업",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "2차전지 소재, 전력반도체, 신소재",
+      "summary_text": "연준의 결정이 이란 관련 지정학적 리스크나 유가 불안정보다 시장에 더 큰 영향력을 행사하며 미국 증시 선물 지수가 완만하게 상승했습니다. 이는 투자자들이 통화 정책 방향에 더욱 민감하게 반응하고 있음을 보여주며, 연준의 스탠스가 시장의 주요 변수로 작용하고 있음을 시사합니다. 연준의 향후 통화 정책 방향이 여전히 중요하며, 반도체(MU 언급) 등 특정 섹터는 긍정적인 기대감을 가질 수 있습니다.",
+      "description": "연방준비제도(Fed)의 결정이 이란 및 유가에 대한 우려보다 더 큰 영향을 미치며 다우, S&P 500, 나스닥 선물 지수가 소폭 상승했습니다. SWRM, MU 등 일부 종목이 주목받고 있습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "반도체, 전반",
       "related_stocks": [
-        "포스코인터내셔널",
-        "아모텍"
+        "SK하이닉스",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "전기차, 반도체, 전력전자 등 미래 성장 산업의 핵심 소재 시장으로 장기적인 투자 기회가 있을 수 있습니다.",
-      "key_signal": "나노결정 연자성 재료 기술을 보유하거나 관련 산업에 납품하는 국내 기업들의 동향을 파악해야 합니다.",
+      "investment_reason": "연준의 통화 정책 방향은 글로벌 시장 및 국내 증시에 가장 큰 영향을 미치는 요인 중 하나이며, 반도체 섹터의 동향을 지속적으로 살펴볼 필요가 있기 때문입니다.",
+      "key_signal": "연준의 구체적인 금리 정책 방향과 함께 반도체 업황 개선 여부를 나타내는 지표들을 주시해야 합니다.",
       "keywords": [
-        "나노결정 연자성",
-        "전기차",
+        "연준",
+        "금리 결정",
+        "미국 증시",
         "반도체",
-        "전력전자",
-        "신소재"
+        "유가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQQVY5NVlQMTNVZTRnSE9VOF9hQXpTdG4tSVZpbGxGQVBJX3p1LW9FZ0dmWmVIbDJjTWdManhCZlBhN3EwUEJVVU1scG9XWXo1elNIRHU0bkNkZXZQVmZqMnE5Q3JSX2Nkb01qZjE2YTc2VXVJdVdMRWpZVEVKOUROTEVKNUoyRWlISWJLa1pwaUYzYnBxM3MwbWV5bGxwYkUtQy1Kdl9NMXI2QkFPajNXbHJLWFpvczBQcXBmU0oxU2VnWlFYUlFBdVJVZ20tbFkwWl9QQ2RiODN3WWt4NlFYclUxak1qMUVoWnc4THVLdUdHc3pOdVpjQlFldEw0U0ktWjhfdlhzdER4TjVIRzdrR3M0dTJsRVBJLTVxVWM5NnZyTHdaaHUxNHRTeDRuVFNDMzJNTl96RmRJTG93cXVGMEtNbWNvMnJmX3pmWmE3cGpJbG1HYzBiY0pfUnFDQlk?oc=5",
-      "published": "2026-06-20 16:05",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xfMVg2N2F6VVJSV1M1RGQxUEVEVFVXa2VDZXZiWnNsLWZnVmZEa1pjZzBwTUhtN3NXTHpNdG5ER3ZQMUZkMmgtbEV3OUtJa2p0dVd6RFhud0tiajkwdVI5RzhTQ0xsSi1JWGt1TjB6ZGdwMThrUWllTUx1Q3V6U20zUWVuMTB5djQ0LVdrc2c4X2g0eDhKZGlTX2tpbF9ZczRZdk14UlZIUzhuZGtrZDRDQ1FXcGlQb1hMdE5idlJwaW1VdVZv?oc=5",
+      "published": "2026-06-21 09:30",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -235,37 +233,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "프랑스 비바테크 \"한국의 행보 놀랍다\"…한-유럽 소버린 AI 협력 가속화",
-      "display_title": "프랑스 비바테크 \"한국의 행보 놀랍다\"…한-유럽 소버린 AI 협력 가속화",
-      "original_title": "프랑스 비바테크 \"韓 행보 정말 놀랍다\"…한-유럽 소버린 AI 맞손 - 유니콘팩토리",
+      "title": "외신, 미·이란 종전협상 속 '레바논 변수' 주목... 한국 방산·반도체 경쟁력 부각",
+      "display_title": "외신, 미·이란 종전협상 속 '레바논 변수' 주목... 한국 방산·반도체 경쟁력 부각",
+      "original_title": "[외신동향] 미·이란 종전협상 '레바논 변수'…외신, 한국 방산·반도체 경쟁력 주목 - 미디어인뉴스",
       "summary": [
-        "프랑스 비바테크에서 한국의 인공지능(AI) 발전에 대한 긍정적 평가가 나왔으며, 한-유럽 간 소버린 AI 분야 협력이 활발히 추진되고 있습니다.",
-        "AI 기술 주권 확보는 전 세계적인 과제로, 한국과 유럽이 상호 협력을 통해 글로벌 AI 경쟁력을 강화하려는 움직임의 일환입니다.",
-        "AI 관련 국내 기술 기업 및 소프트웨어, 데이터 기업들은 해외 시장 확대 및 기술 협력 기회를 모색할 수 있는 계기가 될 것입니다."
+        "미-이란 종전 협상이 레바논 변수로 복잡해지는 상황에서, 외신들이 한국의 방위산업과 반도체 산업 경쟁력을 높이 평가하고 있습니다.",
+        "이는 글로벌 지정학적 불안정 속에서 한국의 특정 산업들이 기술력과 신뢰성을 바탕으로 국제적인 주목을 받고 있음을 의미합니다.",
+        "지정학적 리스크가 증대될 경우 방산 산업의 수혜가 예상되며, 글로벌 핵심 산업인 반도체에 대한 한국의 위상 강화는 긍정적인 투자 요인입니다."
       ],
-      "summary_text": "프랑스 비바테크에서 한국의 인공지능(AI) 발전에 대한 긍정적 평가가 나왔으며, 한-유럽 간 소버린 AI 분야 협력이 활발히 추진되고 있습니다. AI 기술 주권 확보는 전 세계적인 과제로, 한국과 유럽이 상호 협력을 통해 글로벌 AI 경쟁력을 강화하려는 움직임의 일환입니다. AI 관련 국내 기술 기업 및 소프트웨어, 데이터 기업들은 해외 시장 확대 및 기술 협력 기회를 모색할 수 있는 계기가 될 것입니다.",
-      "description": "프랑스 비바테크 행사를 통해 한국의 인공지능(AI) 기술 및 산업 발전에 대한 유럽 측의 놀라움과 함께, 한-유럽 간 소버린 AI(자주적 AI) 협력이 강화되는 내용입니다.",
+      "summary_text": "미-이란 종전 협상이 레바논 변수로 복잡해지는 상황에서, 외신들이 한국의 방위산업과 반도체 산업 경쟁력을 높이 평가하고 있습니다. 이는 글로벌 지정학적 불안정 속에서 한국의 특정 산업들이 기술력과 신뢰성을 바탕으로 국제적인 주목을 받고 있음을 의미합니다. 지정학적 리스크가 증대될 경우 방산 산업의 수혜가 예상되며, 글로벌 핵심 산업인 반도체에 대한 한국의 위상 강화는 긍정적인 투자 요인입니다.",
+      "description": "미-이란 종전 협상에 레바논 변수가 부상하는 가운데, 외신들은 한국의 방위산업 및 반도체 산업 경쟁력을 주목하고 있습니다.",
       "category": "기업·산업",
-      "importance": 7,
+      "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "인공지능, 소프트웨어, 클라우드",
+      "related_sector": "방위산업, 반도체",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "SK텔레콤"
+        "한화에어로스페이스",
+        "현대로템",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "한국 AI 산업의 글로벌 경쟁력 강화와 해외 시장 확대 가능성을 시사하며, 관련 기술 기업의 성장을 기대할 수 있기 때문입니다.",
-      "key_signal": "한-유럽 AI 협력의 구체적인 성과와 국내 AI 기술 기업들의 해외 진출 전략을 주목해야 합니다.",
+      "investment_reason": "지정학적 리스크 속에서도 한국의 방산 및 반도체 산업이 글로벌 경쟁력을 인정받고 있어, 관련 기업들의 성장 잠재력이 부각될 수 있기 때문입니다.",
+      "key_signal": "미-이란 협상과 레바논 변수의 진행 상황을 주시하며, 한국 방산 및 반도체 기업들의 수출 동향과 수주 소식을 지속적으로 확인해야 합니다.",
       "keywords": [
-        "AI",
-        "소버린 AI",
-        "한-유럽 협력",
-        "비바테크",
-        "인공지능"
+        "미-이란",
+        "레바논 변수",
+        "방위산업",
+        "반도체",
+        "한국 경쟁력"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMHpmeTdfYW1iSElCQXNTR25yd2ExblRYc0VJRUxuOGNGNW5OemVqS1RhQk5jSDRrcGJEM0t1M0VkdWg2ZkFTZGVBYjE4MlN3VGQyd0pHTmJ1OFUtSlhVNG1MLTI0dUdxYTNxeA?oc=5",
-      "published": "2026-06-21 07:00",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzcVk3N3RscXBXWmsyTDlwUDkwWHlnT0FFaWdTeGpOT0NyaEM5bkkzM1pHUXlENkxzdGJaMzg2WUI4dmNmRmZfLUZXd2tDNkJ6eDBEcGFGTWZqRXp4ZVI0NHl0ZC1aTDdDWWpQS3NR?oc=5",
+      "published": "2026-06-22 08:03",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -276,66 +274,70 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "미래에셋증권",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 증시의 회복세와 지정학적 긴장 완화 소식은 글로벌 투자 심리에 긍정적인 영향을 미쳐 국내 증시에도 활기를 불어넣을 수 있습니다. 이에 따라 증권 업종의 투자심리 개선 및 거래대금 증가에 대한 기대를 가질 수 있습니다.",
+      "reason": "중국의 AI 및 로봇 기술 강국 추진 전략과 한국의 반도체 산업 경쟁력 부각 뉴스에서 삼성전자가 핵심 종목으로 언급되었습니다. 연준의 통화정책 방향이 반도체 섹터에 긍정적으로 작용할 가능성도 함께 주목됩니다.",
       "check_points": [
-        "미국 증시 및 금리 동향",
-        "외국인 투자자 매매 동향",
-        "국내 증시 일평균 거래대금 변화"
+        "글로벌 반도체 수요 및 가격 동향",
+        "AI, 로봇 등 신기술 분야 성장성",
+        "환율 및 연준 통화 정책 변화"
       ],
       "related_news_titles": [
-        "월스트리트, 연준 전망 극복 및 미국-이란 합의로 회복세"
+        "중국, AI와 로봇으로 기술 강국 추진... 한국은 이중 전략 모색",
+        "연준 결정이 이란·유가 우려 압도하며 미국 증시 선물 소폭 상승",
+        "외신, 미·이란 종전협상 속 '레바논 변수' 주목... 한국 방산·반도체 경쟁력 부각"
       ]
     },
     {
       "rank": 2,
-      "name": "현대차",
+      "name": "두산로보틱스",
       "market": "KOSPI",
-      "sector": "자동차",
+      "sector": "로봇",
       "opinion": "관심",
-      "reason": "미국 휘발유 가격 하락과 견조한 소비 지출의 지속은 현대차의 주요 수출 시장인 미국에서의 판매에 긍정적인 영향을 줄 수 있습니다. 이는 글로벌 경기 둔화 우려를 완화하고 국내 수출 기업의 실적 개선 기대감을 높입니다.",
+      "reason": "중국이 AI와 로봇으로 기술 강국을 추진하고 한국도 이에 대한 이중 전략을 모색한다는 뉴스에 따라, 로봇 산업의 구조적 성장이 기대되며 관련 기업에 새로운 기회가 열릴 수 있습니다.",
       "check_points": [
-        "미국 소비자 심리 및 지출 지표",
-        "미국 자동차 판매량 추이",
-        "주요 시장 환율 변동성"
+        "글로벌 로봇 시장 성장률 및 기술 발전 속도",
+        "한국 정부의 로봇 산업 육성 정책 구체화",
+        "협동로봇 시장 내 경쟁 우위 확보 여부"
       ],
       "related_news_titles": [
-        "미국 초점: 미국 휘발유 가격 갤런당 4달러 미만 하락 및 미국인 소비 지속 증거"
+        "중국, AI와 로봇으로 기술 강국 추진... 한국은 이중 전략 모색"
       ]
     },
     {
       "rank": 3,
-      "name": "포스코인터내셔널",
+      "name": "한화에어로스페이스",
       "market": "KOSPI",
-      "sector": "철강/소재/산업재",
+      "sector": "방위산업",
       "opinion": "관심",
-      "reason": "전기차(EV), 반도체, 고주파 전력전자 등 미래 성장 산업의 핵심 소재인 나노결정 연자성 재료 시장의 장기적인 성장이 전망됨에 따라, 관련 사업 역량을 보유하거나 확장하는 기업들은 새로운 성장 동력을 확보할 수 있을 것으로 보입니다.",
+      "reason": "미·이란 종전협상 속 '레바논 변수' 등 지정학적 리스크가 부각되는 가운데, 한국 방위산업의 글로벌 경쟁력이 인정받고 있다는 외신 보도로 인해 관련 기업들의 성장 잠재력이 주목됩니다.",
       "check_points": [
-        "전기차 및 반도체 산업의 수요 변화",
-        "신소재 부문의 투자 및 기술 개발 현황",
-        "글로벌 경쟁사의 동향"
+        "글로벌 지정학적 리스크 변화 및 각국 국방비 지출 동향",
+        "K-방산 수출 계약 현황 및 신규 수주 가능성",
+        "주요 사업 부문의 실적 개선 여부"
       ],
       "related_news_titles": [
-        "나노결정 연자성 재료 시장, 2034년까지 205.8억 달러 초과 전망…EV, 반도체, 고주파 전력전자 수요 가속화"
+        "외신, 미·이란 종전협상 속 '레바논 변수' 주목... 한국 방산·반도체 경쟁력 부각"
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "인터넷 서비스",
-      "opinion": "관심",
-      "reason": "프랑스 비바테크에서 한국의 AI 행보가 주목받고 한-유럽 간 소버린 AI 협력이 가속화되는 것은 한국 AI 산업의 글로벌 경쟁력 강화와 해외 시장 확대 가능성을 시사합니다. 네이버와 같은 국내 대표 AI 기술 기업에게 새로운 사업 기회로 작용할 수 있습니다.",
+      "sector": "증권",
+      "opinion": "주의",
+      "reason": "한·미 금리 인상 시사와 신임 연준 의장의 정책 비판 등 통화 정책 불확실성이 증대되고, 미국 증시 선물 하락 및 인플레이션 우려가 제기되면서 금융 섹터 전반에 대한 주의 깊은 관찰이 필요합니다.",
       "check_points": [
-        "글로벌 AI 기술 개발 및 상용화 동향",
-        "해외 시장 진출 성과 및 파트너십",
-        "클라우드 및 AI 인프라 투자 현황"
+        "한미 기준 금리 인상 폭과 속도",
+        "글로벌 및 국내 증시 변동성 확대 여부",
+        "기업들의 이자 부담 증가에 따른 실적 영향"
       ],
       "related_news_titles": [
-        "프랑스 비바테크 \"한국의 행보 놀랍다\"…한-유럽 소버린 AI 협력 가속화"
+        "신임 연준 의장 케빈 워시, 첫 FOMC 회의에서 트럼프와 파월 비판",
+        "한·미 금리 인상 시사... 3년째 이자 부담 큰 기업 분석",
+        "미국 증시 선물 하락, 이란 평화 및 인플레이션 우려 주목"
       ]
     }
   ],
