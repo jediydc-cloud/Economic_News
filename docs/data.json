@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22 08:13",
-  "analysis_date": "2026-06-22",
+  "generated_at": "2026-06-23 08:21",
+  "analysis_date": "2026-06-23",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,50 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "신임 연준 의장의 정책 방향 전환 시사와 한·미 금리 인상 가능성으로 통화 정책의 불확실성이 증대되고 있습니다. 그러나 중국의 기술 강국 추진과 지정학적 불안정 속 한국 방산·반도체 산업의 경쟁력 부각은 투자자들에게 새로운 기회 요인으로 작용하고 있습니다.",
-    "국내거시경제": "한국과 미국 중앙은행 모두 금리 인상 가능성을 시사하며, 3년째 고금리 환경에 노출된 국내 기업들의 이자 부담이 가중될 수 있습니다. 특히 재무 구조가 취약한 기업들은 추가적인 압박에 직면할 수 있어 재무 건전성을 면밀히 살펴야 합니다.",
-    "글로벌경제": "신임 연준 의장이 첫 FOMC에서 전임자들을 비판하며 통화 정책 기조 변화 가능성을 시사했습니다. 미-이란 평화 협상 가능성 및 인플레이션 우려가 지속되는 가운데, 중국은 AI와 로봇 기술로 기술 강국을 추진하며 미·중 기술 패권 경쟁이 심화되는 양상입니다.",
-    "증시금리": "연준의 결정이 이란 관련 지정학적 리스크나 유가 불안정보다 시장에 더 큰 영향력을 행사하며 통화 정책 방향에 대한 민감도가 높아졌습니다. 고금리 환경 지속과 인플레이션 압력에 대한 경계심은 여전하며, 연준의 스탠스가 증시의 주요 변수로 작용하고 있습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "중국이 AI 및 로봇 기술을 결합하여 강력한 기술 국가를 지향하고 있으며, 이는 관련 한국 기업들에게 성장 기회를 제공할 수 있습니다. 또한, 미-이란 종전 협상 등 지정학적 불안정 속에서 한국의 방위산업과 반도체 산업은 국제적인 기술력과 신뢰성을 인정받으며 경쟁력을 부각하고 있습니다.",
-    "오늘의투자시사점": "불확실한 통화 정책 환경 속 재무 건전성이 우수한 기업들에 대한 선별적 접근이 필요합니다. 동시에 AI, 로봇, 방산, 반도체 등 글로벌 기술 패권 경쟁과 지정학적 리스크 속에서도 경쟁력을 입증하고 있는 한국 핵심 산업 분야에 대한 지속적인 관심이 요구됩니다.",
-    "오늘의한줄": "연준의 정책 변화 가능성과 금리 인상 기조 속, AI·로봇·방산·반도체 등 한국 핵심 산업의 글로벌 경쟁력에 주목할 시기입니다."
+    "총평": "국내외 복합 악재 속에서도 국내 증시의 주도주 변화는 주목할 만합니다. 고환율 지속, 미국 기술주 약세, 중동 지정학적 리스크가 시장에 부담을 주는 상황입니다.",
+    "국내거시경제": "사상 최대 경상수지 흑자에도 불구하고 원/달러 환율이 1500원대 약세를 지속하며 국내 경제에 부담을 주고 있습니다. 해외 투자 증가와 미 연준의 고금리 장기화 가능성이 주요 원인으로 분석됩니다.",
+    "글로벌경제": "글로벌 지정학적 리스크와 미국 기술주의 부진이 확산될 우려가 있습니다. 중동 정세와 미 연준의 통화 정책 불확실성은 전반적인 글로벌 경제 심리에 부정적 영향을 미치고 있습니다.",
+    "증시금리": "미국 S&P 500과 나스닥 지수가 알파벳 등 초대형 기술주 약세와 중동 이란 관련 이슈로 하락 마감했습니다. 이는 국내 증시에도 부담으로 작용할 수 있습니다.",
+    "부동산정책": "정부의 부동산 정책이 시장 혼란을 가중시킨다는 비판이 제기되었습니다. 예측 불가능한 정책 변화는 시장 신뢰를 저해하며 불안정성을 높일 수 있습니다.",
+    "기업산업": "코스피 시장의 주도주가 '반도체·바이오·자동차·지능형 로봇'으로 재편되며 새로운 투자 기회를 제공합니다. 산업 트렌드 변화에 따른 선별적 접근이 필요합니다.",
+    "오늘의투자시사점": "글로벌 불확실성과 국내 환율 약세가 지속되는 가운데, 주도주 변화에 따른 기회와 위험을 동시에 고려해야 합니다. 기술주 실적과 중동 정세 변화에 주목하며 방어적인 투자 전략을 유지하십시오.",
+    "오늘의한줄": "복합적인 국내외 악재 속 환율 변동성과 지정학적 리스크를 주시하며, 새로운 주도주에 대한 선별적 접근이 필요한 시점입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "신임 연준 의장 케빈 워시, 첫 FOMC 회의에서 트럼프와 파월 비판",
-      "display_title": "신임 연준 의장 케빈 워시, 첫 FOMC 회의에서 트럼프와 파월 비판",
-      "original_title": "Fed Chair Kevin Warsh Just Subtly Threw President Donald Trump and Jerome Powell Under the Bus in His First FOMC Meeting - The Motley Fool",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "사상 최대 경상흑자에도 환율은 1500원대 약세…이유는[박선영의 경제 인사이트]",
+      "display_title": "사상 최대 경상흑자에도 환율은 1500원대 약세…이유는[박선영의 경제 인사이트]",
+      "original_title": "사상 최대 경상흑자에도 환율은 1500원대 약세…이유는[박선영의 경제 인사이트] - 파이낸셜뉴스",
       "summary": [
-        "새로 취임한 연준 의장 케빈 워시가 첫 FOMC 회의에서 전임자들의 정책 방향에 대한 비판적 시각을 드러냈습니다.",
-        "이는 연준의 리더십 교체와 함께 통화 정책 기조에 잠재적인 변화가 있을 수 있음을 시사하며, 과거 행정부 및 연준의 정책 방향과 대립각을 세울 가능성을 내포합니다.",
-        "연준 의장의 교체와 정책 방향 전환 시사는 금융 시장의 불확실성을 증대시키고, 향후 금리 및 유동성 정책에 중대한 영향을 미칠 수 있습니다."
+        "우리나라가 사상 최대 경상수지 흑자를 기록했음에도 불구하고 원/달러 환율은 1500원대 약세를 지속하고 있습니다.",
+        "이는 해외 직접투자 증가, 국내 투자 심리 위축, 미 연준의 고금리 장기화 가능성 등이 복합적으로 작용한 결과로 분석됩니다.",
+        "고환율은 수출 기업에 단기적으로 긍정적일 수 있으나, 수입 물가 상승 및 외국인 투자 유출 압력으로 작용할 수 있습니다."
       ],
-      "summary_text": "새로 취임한 연준 의장 케빈 워시가 첫 FOMC 회의에서 전임자들의 정책 방향에 대한 비판적 시각을 드러냈습니다. 이는 연준의 리더십 교체와 함께 통화 정책 기조에 잠재적인 변화가 있을 수 있음을 시사하며, 과거 행정부 및 연준의 정책 방향과 대립각을 세울 가능성을 내포합니다. 연준 의장의 교체와 정책 방향 전환 시사는 금융 시장의 불확실성을 증대시키고, 향후 금리 및 유동성 정책에 중대한 영향을 미칠 수 있습니다.",
-      "description": "신임 연방준비제도(Fed) 의장 케빈 워시가 첫 연방공개시장위원회(FOMC) 회의에서 도널드 트럼프 전 대통령과 제롬 파월 전 의장을 미묘하게 비판했습니다.",
-      "category": "증시·금리",
+      "summary_text": "우리나라가 사상 최대 경상수지 흑자를 기록했음에도 불구하고 원/달러 환율은 1500원대 약세를 지속하고 있습니다. 이는 해외 직접투자 증가, 국내 투자 심리 위축, 미 연준의 고금리 장기화 가능성 등이 복합적으로 작용한 결과로 분석됩니다. 고환율은 수출 기업에 단기적으로 긍정적일 수 있으나, 수입 물가 상승 및 외국인 투자 유출 압력으로 작용할 수 있습니다.",
+      "description": "사상 최대 경상흑자를 기록했음에도 불구하고 원/달러 환율이 1500원대 약세를 지속하는 원인에 대한 분석 기사입니다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 전반",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "연준의 수장이 바뀌고 기존 정책에 대한 비판적 시각이 드러나면서 향후 통화 정책 방향이 불확실해져 시장 변동성이 커질 수 있기 때문입니다.",
-      "key_signal": "케빈 워시 신임 의장의 향후 발언과 FOMC 회의록을 통해 구체적인 정책 방향 변화를 면밀히 분석해야 합니다.",
-      "keywords": [
-        "연준 의장",
-        "케빈 워시",
-        "FOMC",
-        "통화 정책",
-        "불확실성"
+      "related_sector": "수출주, 금융, 항공/여행",
+      "related_stocks": [
+        "삼성전자",
+        "현대차",
+        "대한항공"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0ZRM3JZSzdYMnBUbmJUbEJtNFdmRzhUeDA3OXFQc19uLVZqU2ltVW1hWGtWeVM4dk9HNnh3TWNfdWMxMGZJUDJsN0lXSlA2SVdpcUlYdFRKckFaWFlFTUU0M18wc0FRbGxDb2dzZmR1Y2NaTy1FY3gwam5iYzZ4eXcyUFBVRGNzbnBBRkVkZ0ozTXZPb3VvRA?oc=5",
-      "published": "2026-06-21 23:06",
+      "investment_view": "주의",
+      "investment_reason": "경상흑자에도 불구하고 고환율이 지속되는 현상은 국내 경제 펀더멘털에 대한 재평가를 요구하며, 외국인 투자심리에 부정적 영향을 미칠 수 있어 주의해야 합니다.",
+      "key_signal": "외환 당국의 개입 가능성과 외국인 투자자들의 국내 증시 순매수/순매도 동향을 주시해야 합니다.",
+      "keywords": [
+        "환율 약세",
+        "경상수지 흑자",
+        "고금리",
+        "자본 유출",
+        "수출 기업"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fcnljVWtobUZMa19ERXUxX3o4NmNMWEsxbjJ5UDVPRUhpN0pVbXVZX1JvX3FxSUhyanZqbEFVaXhzUlp1MklLSWtRTUFWVWNqaUVHTUJrR3VuZw?oc=5",
+      "published": "2026-06-23 06:30",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -66,37 +70,38 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "한·미 금리 인상 시사... 3년째 이자 부담 큰 기업 분석",
-      "display_title": "한·미 금리 인상 시사... 3년째 이자 부담 큰 기업 분석",
-      "original_title": "한·미 금리 인상 시사…3년째 이자 부담 큰 기업은? [한경우의 케이스스터디] - 한국경제",
+      "title": "'차화정', '태조이방원' 시대 지나 '반도체·바이오·자동차·지능형 로봇' 시대…시총 1위 바뀐 코스피 지형도",
+      "display_title": "'차화정', '태조이방원' 시대 지나 '반도체·바이오·자동차·지능형 로봇' 시대…시총 1위 바뀐 코스피 지형도",
+      "original_title": "차화정·태조이방원 지나 '반바지' 시대…'시총 1위' 바뀐 코스피 지형도 - 뉴스1",
       "summary": [
-        "한국과 미국 중앙은행 모두 금리 인상 가능성을 시사하고 있어, 3년째 고금리 환경에 노출된 기업들의 이자 부담이 커지고 있습니다.",
-        "이는 인플레이션 압력과 통화 긴축 기조가 지속될 것이라는 전망을 강화하며, 재무 구조가 취약한 기업들에게는 추가적인 압박으로 작용할 수 있습니다.",
-        "재무 건전성이 우수하거나 이자 보상 능력이 높은 기업들에 대한 선별적인 접근이 필요하며, 부채 비율이 높은 기업은 주의해야 합니다."
+        "코스피 시장의 주도주가 과거 '차화정', '태조이방원'에서 '반바지(반도체·바이오·자동차·지능형 로봇)'로 변화하며 시가총액 상위 종목들이 교체되었습니다.",
+        "이는 산업 트렌드 변화와 미래 성장 동력에 대한 시장의 기대감이 반영된 결과입니다.",
+        "새로운 주도 업종에 대한 선별적 투자와 함께 기존 산업의 변화 가능성도 함께 고려해야 합니다."
       ],
-      "summary_text": "한국과 미국 중앙은행 모두 금리 인상 가능성을 시사하고 있어, 3년째 고금리 환경에 노출된 기업들의 이자 부담이 커지고 있습니다. 이는 인플레이션 압력과 통화 긴축 기조가 지속될 것이라는 전망을 강화하며, 재무 구조가 취약한 기업들에게는 추가적인 압박으로 작용할 수 있습니다. 재무 건전성이 우수하거나 이자 보상 능력이 높은 기업들에 대한 선별적인 접근이 필요하며, 부채 비율이 높은 기업은 주의해야 합니다.",
-      "description": "한국과 미국 양국이 금리 인상을 시사하는 가운데, 3년 연속으로 높은 이자 부담을 안고 있는 기업들에 대한 분석이 제시되었습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "코스피 시장의 주도주가 과거 '차화정', '태조이방원'에서 '반바지(반도체·바이오·자동차·지능형 로봇)'로 변화하며 시가총액 상위 종목들이 교체되었습니다. 이는 산업 트렌드 변화와 미래 성장 동력에 대한 시장의 기대감이 반영된 결과입니다. 새로운 주도 업종에 대한 선별적 투자와 함께 기존 산업의 변화 가능성도 함께 고려해야 합니다.",
+      "description": "과거 주도주였던 '차화정', '태조이방원'을 넘어 '반도체, 바이오, 자동차, 지능형 로봇'으로 대표되는 '반바지' 업종이 코스피 시가총액 상위를 장악하며 시장 지형도가 바뀌었다는 분석입니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전반",
+      "market_impact": "중립",
+      "related_sector": "반도체, 바이오, 자동차, 로봇",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "셀트리온",
+        "현대차",
+        "두산로보틱스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "한미 금리 인상은 기업의 수익성에 직접적인 영향을 미치며, 특히 재무 구조가 취약한 기업들은 투자 위험이 높아지기 때문입니다.",
-      "key_signal": "국내 기업들의 재무제표를 면밀히 분석하여 이자 부담 능력을 확인하고, 한미 중앙은행의 금리 인상 정책 방향을 지속적으로 모니터링해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "코스피 시장의 패러다임 변화를 이해하고 새로운 성장 동력을 가진 주도 업종에 대한 선별적인 접근이 필요한 시점입니다.",
+      "key_signal": "'반바지' 업종 내에서도 각 기업의 기술 경쟁력과 실적 성장성을 면밀히 분석하여 투자 기회를 모색해야 합니다.",
       "keywords": [
-        "금리 인상",
-        "이자 부담",
-        "한미 금리",
-        "기업 재무",
-        "긴축"
+        "코스피 지형",
+        "주도주 변화",
+        "반도체",
+        "바이오",
+        "자동차"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQ3ZlMDFaSnBVcGR6MTNPTEMzclplaGYxQUlVVVJLVGQtNEpmQW9PanNXYXNWckFSMEdZbENyZUYzME9RaE5qa0NBaHRXX3FSUm5kbFJucDZKUdIBVEFVX3lxTE15RmhxRHZYZUdNajZiS0JNWWxuQzlMYWIzZktVN3NVdGIzOV9iZUJackJpUW5WUm9IYW5jdW1uVFpYTWFRUUZoX2NYTmd5MFFoaDZmRA?oc=5",
-      "published": "2026-06-22 06:30",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tX1dIZXhZVUVyMEwybktYV05ieWdZQkhaWFZvWHk4S1Y5TGl3YzhDMXE1OUFYYVRHVVJlTVQzZnpadzJHbE5oMWdHLUV2TGptanFSVzI1X25RNFVVc0tTal8zQzc?oc=5",
+      "published": "2026-06-23 06:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -108,37 +113,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 선물 하락, 이란 평화 및 인플레이션 우려 주목",
-      "display_title": "미국 증시 선물 하락, 이란 평화 및 인플레이션 우려 주목",
-      "original_title": "Stock market today: S&P 500, Nasdaq, Dow futures slide with US-Iran peace and inflation in focus - Yahoo Finance",
+      "title": "미국 증시 S&P 500, 나스닥 하락 마감…알파벳 및 초대형 기술주 약세, 이란 이슈 주목",
+      "display_title": "미국 증시 S&P 500, 나스닥 하락 마감…알파벳 및 초대형 기술주 약세, 이란 이슈 주목",
+      "original_title": "US STOCKS-S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran - Devdiscourse",
       "summary": [
-        "미국 주요 증시 선물 지수(S&P 500, 나스닥, 다우)가 하락했습니다.",
-        "이는 미국-이란 평화 협상 가능성(유가 하락 압력)과 지속적인 인플레이션 우려에 따른 것입니다.",
-        "글로벌 경기 둔화 가능성과 기업 이익 마진 압박에 대한 투자자들의 경계심이 반영된 것으로 보입니다."
+        "미국 S&P 500과 나스닥 지수가 알파벳 등 초대형 기술주들의 약세로 하락 마감했습니다.",
+        "시장 참가자들은 중동의 이란 관련 이슈에 대한 불확실성을 주시하고 있습니다.",
+        "글로벌 기술주 동향과 지정학적 리스크가 국내 증시에도 영향을 미칠 수 있으므로 주의가 필요합니다."
       ],
-      "summary_text": "미국 주요 증시 선물 지수(S&P 500, 나스닥, 다우)가 하락했습니다. 이는 미국-이란 평화 협상 가능성(유가 하락 압력)과 지속적인 인플레이션 우려에 따른 것입니다. 글로벌 경기 둔화 가능성과 기업 이익 마진 압박에 대한 투자자들의 경계심이 반영된 것으로 보입니다.",
-      "description": "S&P 500, 나스닥, 다우 선물 지수가 미국-이란 평화 협상 가능성과 인플레이션 우려로 인해 하락세를 보였습니다.",
+      "summary_text": "미국 S&P 500과 나스닥 지수가 알파벳 등 초대형 기술주들의 약세로 하락 마감했습니다. 시장 참가자들은 중동의 이란 관련 이슈에 대한 불확실성을 주시하고 있습니다. 글로벌 기술주 동향과 지정학적 리스크가 국내 증시에도 영향을 미칠 수 있으므로 주의가 필요합니다.",
+      "description": "알파벳을 비롯한 초대형 기술주들의 하락으로 S&P 500 지수와 나스닥 지수가 모두 하락 마감했으며, 시장은 이란 관련 이슈에 주목했습니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "전반",
+      "related_sector": "기술주, 반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 증시 하락은 국내 시장에도 부정적인 영향을 미칠 수 있으며, 인플레이션과 지정학적 리스크가 복합적으로 작용하고 있기 때문입니다.",
-      "key_signal": "미국 증시 개장 후 실제 움직임과 이란-미국 관련 추가 뉴스 흐름을 주시해야 합니다.",
+      "investment_reason": "미국 기술주 약세는 국내 기술주 및 성장주에 대한 투자 심리에 부정적인 영향을 미칠 수 있으므로 신중한 접근이 필요합니다.",
+      "key_signal": "오늘 국내 기술주 섹터의 초기 움직임과 중동 정세 관련 추가 뉴스 플로우를 확인해야 합니다.",
       "keywords": [
         "미국 증시",
-        "선물",
-        "인플레이션",
-        "이란",
-        "지정학적 리스크"
+        "나스닥",
+        "기술주 하락",
+        "알파벳",
+        "이란"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGJEWFNYcGZVc01vZE43a1htczYycklNQTNydkVYWkJLOVoyaFYtcWhBUF94b0RMRTdEeldURVQtZ2ZJXzczVE53MWNOQXlHT3Y2WUhOeG5jRlQ4eHItaUZUcVZLQnlFc3REZzVUb3hwdDF3dm50blBmX0piVTY2Wk9VbWFvNFZHeTQ4blhiVXlaNmdMSlQ1dXRR?oc=5",
-      "published": "2026-06-22 07:59",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSGNxamFxYm94TzBFMm9wYl91MEp5S0JQTVpiMDF2emg4V0pPNG02QjNyVG9RdDEtaTFFeW02dXU5NTBQc3NVVk1tS2F3SW9hWTJTTnhOVEtMdUZZVmh6R1Z0OVhSZVcyeGloLWhXOUZHX284WGJPVVY1ZjZhWXk2WlYtMWY5OVVNQXEzanRYV3BCd1JNRWlMWHlLZnk0TW1SR1dNdTY3dmxxUmJXMFZ1OVdJTEJZdUxNWGo1S0xJM3FIWXdpczdma21CSHlPNFF2MHpPZmtWTHRWUTdB0gHcAUFVX3lxTE1IY3FqYXFib3hPMEUyb3BiX3UwSnlLQlBNWmIwMXZ6aDhXSk80bTZCM3JUb1F0MS1pMUV5bTZ1dTk1MFBzc1VWTW1LYXdJb2FZMlNOeE5US0x1RllWaHpHVnQ5WFJlVzJ4aWgtaFc5RkdfbzhYYk9VVjVmNmFZeTZaVi0xZjk5VU1BcTNqdFhXcEJ3Uk1FaUxYeUtmeTRNbVJHV011Njd2bHFSYlcwVnU5V0lMQll1TE1YajVLTEkzcUhZd2lzN2ZrbUJIeU80UXYwek9ma1ZMdFZRN0E?oc=5",
+      "published": "2026-06-23 05:36",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -150,37 +155,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "중국, AI와 로봇으로 기술 강국 추진... 한국은 이중 전략 모색",
-      "display_title": "중국, AI와 로봇으로 기술 강국 추진... 한국은 이중 전략 모색",
-      "original_title": "China fuses AI and robots to power techno state, Korea weighs dual strategy - CHOSUNBIZ - Chosunbiz",
+      "title": "S&P 500, 나스닥 하락 마감…기술주 부진 및 중동 평화 회담 불확실성",
+      "display_title": "S&P 500, 나스닥 하락 마감…기술주 부진 및 중동 평화 회담 불확실성",
+      "original_title": "S&P 500, Nasdaq end in the red as tech suffers, traders weigh in Middle East peace talks - Seeking Alpha",
       "summary": [
-        "중국이 AI와 로봇 기술을 결합하여 강력한 기술 국가를 지향하고 있으며, 한국은 이에 대응하는 전략을 검토 중입니다.",
-        "이는 미·중 기술 패권 경쟁의 일환으로, 핵심 기술 분야에서 국가적 역량 강화의 중요성이 부각되고 있음을 보여줍니다.",
-        "한국의 관련 기업들은 AI 및 로봇 산업의 성장 기회를 포착하고, 국가적 지원 정책의 수혜를 입을 가능성이 있습니다."
+        "미국 S&P 500과 나스닥 지수가 기술주 약세로 하락 마감했습니다.",
+        "투자자들은 중동 평화 회담의 결과와 지정학적 긴장 완화 가능성에 주목하고 있습니다.",
+        "기술주 실적과 중동 정세라는 두 가지 주요 요인이 글로벌 시장에 변동성을 가져올 수 있습니다."
       ],
-      "summary_text": "중국이 AI와 로봇 기술을 결합하여 강력한 기술 국가를 지향하고 있으며, 한국은 이에 대응하는 전략을 검토 중입니다. 이는 미·중 기술 패권 경쟁의 일환으로, 핵심 기술 분야에서 국가적 역량 강화의 중요성이 부각되고 있음을 보여줍니다. 한국의 관련 기업들은 AI 및 로봇 산업의 성장 기회를 포착하고, 국가적 지원 정책의 수혜를 입을 가능성이 있습니다.",
-      "description": "중국이 인공지능(AI)과 로봇 기술을 융합하여 기술 강국을 건설하려 하는 가운데, 한국은 이에 대응하기 위한 이중 전략을 모색하고 있습니다.",
-      "category": "기업·산업",
+      "summary_text": "미국 S&P 500과 나스닥 지수가 기술주 약세로 하락 마감했습니다. 투자자들은 중동 평화 회담의 결과와 지정학적 긴장 완화 가능성에 주목하고 있습니다. 기술주 실적과 중동 정세라는 두 가지 주요 요인이 글로벌 시장에 변동성을 가져올 수 있습니다.",
+      "description": "기술주 부진과 중동 평화 회담의 불확실성이 복합적으로 작용하며 S&P 500 지수와 나스닥 지수가 모두 하락 마감했습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "인공지능, 로봇, 반도체",
+      "market_impact": "부정",
+      "related_sector": "기술주, 반도체",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "두산로보틱스"
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 및 로봇 산업의 구조적 성장과 함께 한국 정부의 전략적 대응은 관련 기업들에게 새로운 기회를 제공할 수 있기 때문입니다.",
-      "key_signal": "한국 정부의 구체적인 AI·로봇 산업 육성 정책과 중국의 기술 개발 속도를 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 기술주의 지속적인 약세와 중동 지정학적 리스크는 국내 기술주 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+      "key_signal": "미국 기술주 실적 발표와 중동 평화 회담 관련 최신 뉴스를 확인하며 시장 변동성에 대비해야 합니다.",
       "keywords": [
-        "AI",
-        "로봇",
-        "중국",
-        "기술 경쟁",
-        "한국 전략"
+        "S&P 500",
+        "나스닥",
+        "기술주 약세",
+        "중동 평화 회담",
+        "지정학적 리스크"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdOZlJxVVJHUkhkVkZ5TmQ0RXNrRjVSbm1COVVjSkVkNXlMUVN2dVJmX3p5dTNqNXZKZ1V1MHdvOEl4QS1hSFFDOC1KRjRiVmZVbU9mUjNCQ2EtWm0tZm5UaGJqcjBXeVdhcHhkVlJndGZtd3VUb2ItSnMyV3hqUk5R0gGWAUFVX3lxTE1hQjJ4aFNNSkF1eGMxSWV3eG1lUlYwLXA0UzdyTVFmSHpwNTZhYnBneFowMWF4eE1ORVhEdVlEc2phdWRWeWJtcUxwZFdabHNwNHFiYVhSd2hOOGJGMmVtV2FYenNEWUtweGtGZXhqOXR1amdGQ244eU40ekNCS2lBeXNFSDkwRExiN1BRV0h0LWFxVFZTQQ?oc=5",
-      "published": "2026-06-22 06:51",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN09IR3g5X19QTzlxZ1BYZHd3LVZVN3Z6b3NubWFJbDJBMFJKbndkandFSkRBdGMxYVdVWjFvdjZ6U1RJSVl4MklTaEw2WGxXVVBvakdQVUtJUHEtaHRUV3RWUzJlUzBJUUVERF9FR1JpOTFRM2tMTVlMRmdLaHZ2algtWmY?oc=5",
+      "published": "2026-06-23 05:02",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -192,36 +196,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 결정이 이란·유가 우려 압도하며 미국 증시 선물 소폭 상승",
-      "display_title": "연준 결정이 이란·유가 우려 압도하며 미국 증시 선물 소폭 상승",
-      "original_title": "Dow, S&P 500, Nasdaq Futures Creep Higher As Fed Decision Tops Iran, Oil Fears: Why SWRM, MU, ONDS, SOFI, LULU Are In Focus - Stocktwits",
+      "title": "미국 증시 S&P 500, 나스닥 하락…알파벳 및 초대형 기술주 약세, 이란 이슈 주목",
+      "display_title": "미국 증시 S&P 500, 나스닥 하락…알파벳 및 초대형 기술주 약세, 이란 이슈 주목",
+      "original_title": "US STOCKS-S&P 500, Nasdaq fall, dragged by Alphabet and megacap tech; focus on Iran - Devdiscourse",
       "summary": [
-        "연준의 결정이 이란 관련 지정학적 리스크나 유가 불안정보다 시장에 더 큰 영향력을 행사하며 미국 증시 선물 지수가 완만하게 상승했습니다.",
-        "이는 투자자들이 통화 정책 방향에 더욱 민감하게 반응하고 있음을 보여주며, 연준의 스탠스가 시장의 주요 변수로 작용하고 있음을 시사합니다.",
-        "연준의 향후 통화 정책 방향이 여전히 중요하며, 반도체(MU 언급) 등 특정 섹터는 긍정적인 기대감을 가질 수 있습니다."
+        "미국 S&P 500과 나스닥 지수가 알파벳 등 초대형 기술주들의 약세로 하락 마감했습니다.",
+        "시장은 중동의 이란 관련 지정학적 리스크에 지속적으로 주목하고 있습니다.",
+        "미국 기술주 실적 부진과 지정학적 리스크가 결합되어 국내 증시에도 부담을 줄 수 있습니다."
       ],
-      "summary_text": "연준의 결정이 이란 관련 지정학적 리스크나 유가 불안정보다 시장에 더 큰 영향력을 행사하며 미국 증시 선물 지수가 완만하게 상승했습니다. 이는 투자자들이 통화 정책 방향에 더욱 민감하게 반응하고 있음을 보여주며, 연준의 스탠스가 시장의 주요 변수로 작용하고 있음을 시사합니다. 연준의 향후 통화 정책 방향이 여전히 중요하며, 반도체(MU 언급) 등 특정 섹터는 긍정적인 기대감을 가질 수 있습니다.",
-      "description": "연방준비제도(Fed)의 결정이 이란 및 유가에 대한 우려보다 더 큰 영향을 미치며 다우, S&P 500, 나스닥 선물 지수가 소폭 상승했습니다. SWRM, MU 등 일부 종목이 주목받고 있습니다.",
+      "summary_text": "미국 S&P 500과 나스닥 지수가 알파벳 등 초대형 기술주들의 약세로 하락 마감했습니다. 시장은 중동의 이란 관련 지정학적 리스크에 지속적으로 주목하고 있습니다. 미국 기술주 실적 부진과 지정학적 리스크가 결합되어 국내 증시에도 부담을 줄 수 있습니다.",
+      "description": "알파벳을 포함한 초대형 기술주들의 약세로 S&P 500과 나스닥 지수가 하락했으며, 투자자들은 이란 관련 상황에 집중하고 있습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, 전반",
+      "market_impact": "부정",
+      "related_sector": "기술주, 반도체",
       "related_stocks": [
+        "삼성전자",
         "SK하이닉스",
-        "삼성전자"
+        "카카오"
       ],
-      "investment_view": "관심",
-      "investment_reason": "연준의 통화 정책 방향은 글로벌 시장 및 국내 증시에 가장 큰 영향을 미치는 요인 중 하나이며, 반도체 섹터의 동향을 지속적으로 살펴볼 필요가 있기 때문입니다.",
-      "key_signal": "연준의 구체적인 금리 정책 방향과 함께 반도체 업황 개선 여부를 나타내는 지표들을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 기술주 약세와 중동 지정학적 불안정은 국내 기술 성장주 및 전반적인 시장 심리에 부정적 영향을 미칠 수 있습니다.",
+      "key_signal": "오늘 국내 기술주 섹터의 개장 흐름과 이란 관련 외신 보도를 주의 깊게 살펴봐야 합니다.",
       "keywords": [
-        "연준",
-        "금리 결정",
         "미국 증시",
-        "반도체",
-        "유가"
+        "나스닥",
+        "기술주 하락",
+        "알파벳",
+        "이란 리스크"
       ],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xfMVg2N2F6VVJSV1M1RGQxUEVEVFVXa2VDZXZiWnNsLWZnVmZEa1pjZzBwTUhtN3NXTHpNdG5ER3ZQMUZkMmgtbEV3OUtJa2p0dVd6RFhud0tiajkwdVI5RzhTQ0xsSi1JWGt1TjB6ZGdwMThrUWllTUx1Q3V6U20zUWVuMTB5djQ0LVdrc2c4X2g0eDhKZGlTX2tpbF9ZczRZdk14UlZIUzhuZGtrZDRDQ1FXcGlQb1hMdE5idlJwaW1VdVZv?oc=5",
-      "published": "2026-06-21 09:30",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1NGamtRTUYzVnNSajhueUh2UnlHbndvSzJGemdpQzF0aFBnU2NLQms3SnN6bHNzajlIZXM4VVREaE1yUGNOOGNOSkdUTlcwVDRSS25wZUR3MGZZSWlLd0ZvdXR5UU0weDhQNTg2M0std0h6MFQxRXpjUzZYT2JPcGNicFJqTVEzcll6c3F2YVJLaVZCN1dXQUpKWERwOGZfZGhJTWJvdzFLazB1U3pYN3lqT1lpb1g5VWREbjhsNVNDZzloMVJST2hCWWViNWZFemFB0gHTAUFVX3lxTE9XU0Zqa1FNRjNWc1JqOG55SHZSeUdud29LMkZ6Z2lDMXRoUGdTY0tCazdKc3psc3NqOUhlczhVVERoTXJQY044Y05KR1ROVzBUNFJLbnBlRHcwZllJaUt3Rm91dHlRTTB4OFA1ODYzSy13SHowVDFFemNTNlhPYk9wY2JwUmpNUTNyWXpzcXZhUktpVkI3V1dBSkpYRHA4Zl9kaElNYm93MUtrMHVTelg3eWpPWWlvWDlVZERuOGw1U0NnOWgxUlJPaEJZZWI1ZkV6YUE?oc=5",
+      "published": "2026-06-23 03:37",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -233,37 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "외신, 미·이란 종전협상 속 '레바논 변수' 주목... 한국 방산·반도체 경쟁력 부각",
-      "display_title": "외신, 미·이란 종전협상 속 '레바논 변수' 주목... 한국 방산·반도체 경쟁력 부각",
-      "original_title": "[외신동향] 미·이란 종전협상 '레바논 변수'…외신, 한국 방산·반도체 경쟁력 주목 - 미디어인뉴스",
+      "title": "[오승호 칼럼] 우격다짐식 부동산 정책은 시장 혼란만 가중시킨다",
+      "display_title": "[오승호 칼럼] 우격다짐식 부동산 정책은 시장 혼란만 가중시킨다",
+      "original_title": "[오승호 칼럼] 우격다짐식 부동산 정책은 시장 혼란만 가중시킨다 - 디지털데일리",
       "summary": [
-        "미-이란 종전 협상이 레바논 변수로 복잡해지는 상황에서, 외신들이 한국의 방위산업과 반도체 산업 경쟁력을 높이 평가하고 있습니다.",
-        "이는 글로벌 지정학적 불안정 속에서 한국의 특정 산업들이 기술력과 신뢰성을 바탕으로 국제적인 주목을 받고 있음을 의미합니다.",
-        "지정학적 리스크가 증대될 경우 방산 산업의 수혜가 예상되며, 글로벌 핵심 산업인 반도체에 대한 한국의 위상 강화는 긍정적인 투자 요인입니다."
+        "정부의 우격다짐식 부동산 정책이 시장의 혼란을 가중시키고 있다는 비판적 시각이 제시되었습니다.",
+        "이는 예측 불가능한 정책 변화가 시장 참여자들의 신뢰를 저해하고 불안정성을 높인다는 지적입니다.",
+        "향후 부동산 정책 방향과 그로 인한 시장 반응을 예의주시하며 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "미-이란 종전 협상이 레바논 변수로 복잡해지는 상황에서, 외신들이 한국의 방위산업과 반도체 산업 경쟁력을 높이 평가하고 있습니다. 이는 글로벌 지정학적 불안정 속에서 한국의 특정 산업들이 기술력과 신뢰성을 바탕으로 국제적인 주목을 받고 있음을 의미합니다. 지정학적 리스크가 증대될 경우 방산 산업의 수혜가 예상되며, 글로벌 핵심 산업인 반도체에 대한 한국의 위상 강화는 긍정적인 투자 요인입니다.",
-      "description": "미-이란 종전 협상에 레바논 변수가 부상하는 가운데, 외신들은 한국의 방위산업 및 반도체 산업 경쟁력을 주목하고 있습니다.",
-      "category": "기업·산업",
+      "summary_text": "정부의 우격다짐식 부동산 정책이 시장의 혼란을 가중시키고 있다는 비판적 시각이 제시되었습니다. 이는 예측 불가능한 정책 변화가 시장 참여자들의 신뢰를 저해하고 불안정성을 높인다는 지적입니다. 향후 부동산 정책 방향과 그로 인한 시장 반응을 예의주시하며 투자 전략을 수립해야 합니다.",
+      "description": "정부의 강압적이고 일방적인 부동산 정책이 시장의 혼란을 가중시키고 있다는 비판적인 시각의 칼럼입니다.",
+      "category": "부동산·정책",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "방위산업, 반도체",
+      "market_impact": "부정",
+      "related_sector": "건설, 부동산",
       "related_stocks": [
-        "한화에어로스페이스",
-        "현대로템",
-        "삼성전자"
+        "현대건설",
+        "GS건설",
+        "삼성물산"
       ],
-      "investment_view": "관심",
-      "investment_reason": "지정학적 리스크 속에서도 한국의 방산 및 반도체 산업이 글로벌 경쟁력을 인정받고 있어, 관련 기업들의 성장 잠재력이 부각될 수 있기 때문입니다.",
-      "key_signal": "미-이란 협상과 레바논 변수의 진행 상황을 주시하며, 한국 방산 및 반도체 기업들의 수출 동향과 수주 소식을 지속적으로 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "정부의 부동산 정책 기조가 시장에 미치는 영향은 매우 크며, 정책의 일관성 부재는 부동산 관련 투자에 불확실성을 높일 수 있습니다.",
+      "key_signal": "정부의 부동산 정책 기조 변화 가능성과 실제 시장(거래량, 가격 변동) 반응을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "미-이란",
-        "레바논 변수",
-        "방위산업",
-        "반도체",
-        "한국 경쟁력"
+        "부동산 정책",
+        "시장 혼란",
+        "정책 불확실성",
+        "건설 시장",
+        "주택 시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzcVk3N3RscXBXWmsyTDlwUDkwWHlnT0FFaWdTeGpOT0NyaEM5bkkzM1pHUXlENkxzdGJaMzg2WUI4dmNmRmZfLUZXd2tDNkJ6eDBEcGFGTWZqRXp4ZVI0NHl0ZC1aTDdDWWpQS3NR?oc=5",
-      "published": "2026-06-22 08:03",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kamEtanZsbk9IdnhPd3ZEOVRLUnVuM2RycTRnSjJhdnM0VVpSX0Zvd2l0cDQyNjJoYzJXaExjX240OFJnUThWRmUzdzgtR3dpampxaVprbVFqcjJOZk5obC1qS3M?oc=5",
+      "published": "2026-06-23 05:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -278,66 +283,65 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "중국의 AI 및 로봇 기술 강국 추진 전략과 한국의 반도체 산업 경쟁력 부각 뉴스에서 삼성전자가 핵심 종목으로 언급되었습니다. 연준의 통화정책 방향이 반도체 섹터에 긍정적으로 작용할 가능성도 함께 주목됩니다.",
+      "reason": "코스피 주도 업종 변화의 핵심축인 반도체 대표 종목으로, 새로운 성장 동력으로서의 잠재력과 함께 글로벌 기술주 흐름 및 거시경제 지표 변화에 대한 복합적 관심이 필요합니다.",
       "check_points": [
-        "글로벌 반도체 수요 및 가격 동향",
-        "AI, 로봇 등 신기술 분야 성장성",
-        "환율 및 연준 통화 정책 변화"
+        "글로벌 반도체 업황 회복세 지속 여부",
+        "미국 기술주 동향 및 투자 심리 변화",
+        "환율 변동성 및 외국인 수급"
       ],
       "related_news_titles": [
-        "중국, AI와 로봇으로 기술 강국 추진... 한국은 이중 전략 모색",
-        "연준 결정이 이란·유가 우려 압도하며 미국 증시 선물 소폭 상승",
-        "외신, 미·이란 종전협상 속 '레바논 변수' 주목... 한국 방산·반도체 경쟁력 부각"
+        "'차화정', '태조이방원' 시대 지나 '반도체·바이오·자동차·지능형 로봇' 시대…시총 1위 바뀐 코스피 지형도",
+        "사상 최대 경상흑자에도 환율은 1500원대 약세…이유는[박선영의 경제 인사이트]",
+        "미국 증시 S&P 500, 나스닥 하락 마감…알파벳 및 초대형 기술주 약세, 이란 이슈 주목"
       ]
     },
     {
       "rank": 2,
-      "name": "두산로보틱스",
+      "name": "셀트리온",
       "market": "KOSPI",
-      "sector": "로봇",
+      "sector": "바이오",
       "opinion": "관심",
-      "reason": "중국이 AI와 로봇으로 기술 강국을 추진하고 한국도 이에 대한 이중 전략을 모색한다는 뉴스에 따라, 로봇 산업의 구조적 성장이 기대되며 관련 기업에 새로운 기회가 열릴 수 있습니다.",
+      "reason": "코스피 시장의 패러다임 변화 속에서 '바이오'가 새로운 성장 동력으로 부각되는 만큼, 해당 업종의 대표주로서 잠재적 성장에 주목할 필요가 있습니다.",
       "check_points": [
-        "글로벌 로봇 시장 성장률 및 기술 발전 속도",
-        "한국 정부의 로봇 산업 육성 정책 구체화",
-        "협동로봇 시장 내 경쟁 우위 확보 여부"
+        "바이오 신약 개발 및 파이프라인 진행 상황",
+        "글로벌 제약바이오 시장 트렌드",
+        "기업 실적 발표 및 가이던스"
       ],
       "related_news_titles": [
-        "중국, AI와 로봇으로 기술 강국 추진... 한국은 이중 전략 모색"
+        "'차화정', '태조이방원' 시대 지나 '반도체·바이오·자동차·지능형 로봇' 시대…시총 1위 바뀐 코스피 지형도"
       ]
     },
     {
       "rank": 3,
-      "name": "한화에어로스페이스",
+      "name": "두산로보틱스",
       "market": "KOSPI",
-      "sector": "방위산업",
+      "sector": "로봇",
       "opinion": "관심",
-      "reason": "미·이란 종전협상 속 '레바논 변수' 등 지정학적 리스크가 부각되는 가운데, 한국 방위산업의 글로벌 경쟁력이 인정받고 있다는 외신 보도로 인해 관련 기업들의 성장 잠재력이 주목됩니다.",
+      "reason": "미래 산업의 핵심 동력으로 꼽히는 '지능형 로봇' 분야의 선두주자로서, 산업 변화에 따른 성장 잠재력과 시장 확대 가능성을 눈여겨봐야 합니다.",
       "check_points": [
-        "글로벌 지정학적 리스크 변화 및 각국 국방비 지출 동향",
-        "K-방산 수출 계약 현황 및 신규 수주 가능성",
-        "주요 사업 부문의 실적 개선 여부"
+        "협동로봇 시장 성장세 및 경쟁 심화 여부",
+        "신규 기술 개발 및 적용 사례",
+        "글로벌 로봇 시장 투자 동향"
       ],
       "related_news_titles": [
-        "외신, 미·이란 종전협상 속 '레바논 변수' 주목... 한국 방산·반도체 경쟁력 부각"
+        "'차화정', '태조이방원' 시대 지나 '반도체·바이오·자동차·지능형 로봇' 시대…시총 1위 바뀐 코스피 지형도"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "반도체",
       "opinion": "주의",
-      "reason": "한·미 금리 인상 시사와 신임 연준 의장의 정책 비판 등 통화 정책 불확실성이 증대되고, 미국 증시 선물 하락 및 인플레이션 우려가 제기되면서 금융 섹터 전반에 대한 주의 깊은 관찰이 필요합니다.",
+      "reason": "미국 기술주 전반의 약세 흐름과 중동 지정학적 리스크가 국내 반도체 산업 투자 심리에 부정적인 영향을 미칠 수 있으므로 신중한 접근과 함께 시장 상황을 주시해야 합니다.",
       "check_points": [
-        "한미 기준 금리 인상 폭과 속도",
-        "글로벌 및 국내 증시 변동성 확대 여부",
-        "기업들의 이자 부담 증가에 따른 실적 영향"
+        "글로벌 기술주 특히 미국 반도체 기업들의 주가 흐름",
+        "중동 정세 안정화 여부",
+        "메모리 반도체 가격 동향"
       ],
       "related_news_titles": [
-        "신임 연준 의장 케빈 워시, 첫 FOMC 회의에서 트럼프와 파월 비판",
-        "한·미 금리 인상 시사... 3년째 이자 부담 큰 기업 분석",
-        "미국 증시 선물 하락, 이란 평화 및 인플레이션 우려 주목"
+        "미국 증시 S&P 500, 나스닥 하락 마감…알파벳 및 초대형 기술주 약세, 이란 이슈 주목",
+        "S&P 500, 나스닥 하락 마감…기술주 부진 및 중동 평화 회담 불확실성"
       ]
     }
   ],
