@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24 08:09",
-  "analysis_date": "2026-06-24",
+  "generated_at": "2026-06-25 08:04",
+  "analysis_date": "2026-06-25",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 증시는 역대급 폭락을 기록했고, 해외 증시도 하락세를 보이며 투자 심리가 극도로 위축되었습니다. 연준의 정책 방향에 대한 불확실성이 시장 전반의 변동성을 키우고 있습니다.",
-    "국내거시경제": "코스피가 역대 최대 일일 낙폭인 10% 급락하며 국내 경기 침체 우려가 증폭되었습니다.",
-    "글로벌경제": "뉴욕 증시 하락과 기술주 부진 속에 연준의 매파적 기조와 금리 인하 기대감이 혼재하며 글로벌 경제의 불확실성이 확대되고 있습니다. 지정학적 긴장 완화로 유가는 하락했습니다.",
-    "증시금리": "코스피는 역대 최대 10% 급락, 뉴욕 증시도 하락하며 투자 심리가 얼어붙었습니다. 연준의 정책 방향에 대한 혼재된 신호(매파적 기조 vs. 금리 인하 기대감)가 금리 변동성과 시장 불확실성을 키우고 있습니다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "켐트로스 대표가 반도체 소재 국산화의 중요성을 역설하며 국내 반도체 산업의 자립도 강화와 관련 기업의 성장 가능성을 제시했습니다.",
-    "오늘의투자시사점": "국내외 증시의 높은 변동성에 대비하여 극도로 신중한 접근이 필요합니다. 연준의 정책 방향을 면밀히 주시하고, 반도체 소재 국산화 등 특정 산업의 성장 가능성을 선별적으로 탐색해야 합니다.",
-    "오늘의한줄": "국내외 증시가 극심한 변동성 속에 하락했으며, 투자자들은 연준의 정책 방향과 경기 침체 우려에 촉각을 세워야 합니다."
+    "총평": "오늘 국내 증시는 고환율 심화와 미 연준의 매파적 금리 인상 전망으로 인한 투자 심리 위축이 예상됩니다. 다만, 일부 빅테크 안정화 기대감도 공존하며 업종별 차별화가 나타날 수 있습니다.",
+    "국내거시경제": "원/달러 환율이 17년 만에 1,540원대를 돌파하며 국내 거시경제에 비상이 걸렸습니다. 이는 단순한 일시적 현상을 넘어 산업 지도를 근본적으로 바꿀 수 있는 메가 트렌드가 될 수 있습니다. 수출 기업에는 긍정적일 수 있으나, 수입 물가 상승과 외국인 투자자 이탈 우려가 커지고 있습니다.",
+    "글로벌경제": "글로벌 경제는 미국 연준의 고금리 장기화 전망으로 투자심리가 위축되고 있으며, 이는 전반적인 경제 불확실성을 키우고 있습니다.",
+    "증시금리": "뱅크오브아메리카(BofA)의 미 연준 3회 금리 인상 전망은 고금리 장기화 우려를 심화시키며 주식 시장 전반에 부정적인 영향을 미칠 전망입니다. 미국 증시는 기술주 하락 부담으로 혼조세를 보였으며, 국내 증시 기술주에도 하방 압력으로 작용할 수 있습니다.",
+    "부동산정책": "정부가 부동산 시장 불안정성을 심각하게 인식하고 대책 마련에 적극 나설 예정입니다. 대통령까지 나서 끝장토론을 주재하며 새로운 정책 방향과 규제 강화 가능성이 대두되고 있어, 건설 및 부동산 관련 기업들의 동향을 면밀히 살펴야 합니다.",
+    "기업산업": "미국 다우존스 지수는 빅테크 주식의 안정화와 마이크론 실적 기대감에 상승했습니다. 이는 반도체 업종 전반에 긍정적 신호가 될 수 있습니다. 한편, 고환율 장기화는 수출 주도형 산업에 수혜를 주지만, 원자재 수입 의존도가 높은 산업에는 부담으로 작용하며 산업 지형 변화를 야기할 것입니다.",
+    "오늘의투자시사점": "고환율 장기화 가능성에 대비하여 환율 변동에 민감한 기업과 산업의 실적을 면밀히 분석해야 합니다. 특히 수출 경쟁력을 확보한 업종은 긍정적이나, 수입 의존도가 높은 기업은 주의가 필요합니다. 미 연준의 매파적 스탠스와 미국 기술주 변동성으로 국내 성장주 투자 심리 위축 가능성이 높아, 보수적인 접근이 요구됩니다. 반도체 등 일부 기술주의 안정화 여부는 긍정적 요인으로 작용할 수 있습니다.",
+    "오늘의한줄": "고환율 심화와 매파적 금리 인상 전망 속, 업종별 차별화 전략과 환율 민감 기업에 대한 면밀한 분석이 필요한 하루."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피 하루 만에 10% 급락...8,200선 턱걸이 '역대 최대' 낙폭",
-      "display_title": "코스피 하루 만에 10% 급락...8,200선 턱걸이 '역대 최대' 낙폭",
-      "original_title": "코스피 하루 만에 10% 급락...8,200선 턱걸이 '역대 최대' 낙폭 - YTN",
+      "title": "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
+      "display_title": "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
+      "original_title": "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음 - 데일리매거진",
       "summary": [
-        "코스피 지수가 하루 만에 10% 폭락하며 8,200선까지 밀려, 역대 최대 일일 낙폭을 기록했다.",
-        "이러한 급락은 글로벌 경기 침체 우려, 외국인 대규모 매도, 또는 예상치 못한 국내외 악재가 복합적으로 작용한 결과로 추정된다.",
-        "코스피의 대규모 하락은 투자 심리를 극도로 위축시키고 시장 전반의 변동성을 크게 확대시킬 수 있으므로 매우 신중한 접근이 요구된다."
+        "원/달러 환율이 달러 강세와 외국인 순매도에 힘입어 1,540원대를 기록, 2008년 금융위기 이후 17년 만에 최고치를 경신했습니다.",
+        "초고환율은 국내 기업의 수출 경쟁력을 높일 수 있지만, 수입 물가 상승 및 외국인 투자자 이탈을 야기할 수 있습니다.",
+        "고환율 장기화 가능성에 대비하고, 환율 변동성에 민감한 기업들의 실적을 면밀히 분석해야 합니다."
       ],
-      "summary_text": "코스피 지수가 하루 만에 10% 폭락하며 8,200선까지 밀려, 역대 최대 일일 낙폭을 기록했다. 이러한 급락은 글로벌 경기 침체 우려, 외국인 대규모 매도, 또는 예상치 못한 국내외 악재가 복합적으로 작용한 결과로 추정된다. 코스피의 대규모 하락은 투자 심리를 극도로 위축시키고 시장 전반의 변동성을 크게 확대시킬 수 있으므로 매우 신중한 접근이 요구된다.",
-      "description": "코스피 지수가 하루 만에 10% 급락하며 8,200선에 겨우 턱걸이했으며, 이는 역대 최대 낙폭을 기록한 것이다.",
-      "category": "증시·금리",
+      "summary_text": "원/달러 환율이 달러 강세와 외국인 순매도에 힘입어 1,540원대를 기록, 2008년 금융위기 이후 17년 만에 최고치를 경신했습니다. 초고환율은 국내 기업의 수출 경쟁력을 높일 수 있지만, 수입 물가 상승 및 외국인 투자자 이탈을 야기할 수 있습니다. 고환율 장기화 가능성에 대비하고, 환율 변동성에 민감한 기업들의 실적을 면밀히 분석해야 합니다.",
+      "description": "달러 강세와 외국인 투자자들의 4조 원대 순매도에 힘입어 원/달러 환율이 1,540원대로 마감하며, 2008년 금융위기 이후 17년 만에 최고치를 기록했습니다.",
+      "category": "국내 거시경제",
       "importance": 10,
       "market_impact": "부정",
-      "related_sector": "전반적인 증시",
+      "related_sector": "반도체, 자동차, IT, 증권, 항공, 정유",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "현대차",
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "코스피의 역대급 폭락은 국내 경제 및 기업 실적에 대한 심각한 우려를 반영하며, 투자자들은 극도의 보수적인 자세를 유지해야 한다.",
-      "key_signal": "급락의 정확한 원인 파악, 정부 및 한국은행의 시장 안정화 대책, 외국인 투자자 동향을 면밀히 주시해야 한다.",
+      "investment_reason": "급격한 고환율은 외국인 투자자 이탈을 심화시키고 국내 증시에 전반적인 하방 압력을 가하며, 기업 실적에도 큰 영향을 미치기 때문입니다.",
+      "key_signal": "정부의 환율 방어 정책과 외국인 투자자의 추가 매도 여부를 주시해야 하며, 수출 기업들의 환율 효과를 분석해야 합니다.",
       "keywords": [
-        "코스피",
-        "시장급락",
-        "역대최대",
-        "투자심리",
-        "경제위기"
+        "환율",
+        "달러강세",
+        "외국인매도",
+        "금융위기",
+        "수출주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lSVl6X1lCMVR0dzM3Q3VmQmh6YkRlMHZRTW9Kdmh5NDNzMk41WjdDM3kwTHlFX0dJX3luYjdrd1UwSE9XcnpueGwtSUExd2NnUzF5N05DX1BZRzlaM1E?oc=5",
-      "published": "2026-06-24 07:37",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yeV92YkNEVzQwcjZBUWFmdjBuUjh4VDU0SE5ZTUFWeEhWYXBmR0EwT2NscVZ3TnVwNFVnLUd1QXc1bS1DaEpFZklnSlBKSGxUTnJWLVo0MHlMdFJJeHNCcGh1ZzMzeC11aXYwZ2t4dEk4S1d3T0FCZWx5QQ?oc=5",
+      "published": "2026-06-25 00:18",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -70,36 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "뉴욕 증시 3대 주요 지수 하락, 나스닥 2.2% 급락",
-      "display_title": "뉴욕 증시 3대 주요 지수 하락, 나스닥 2.2% 급락",
-      "original_title": "New York Stock Market's Three Major Indices Decline, Nasdaq Drops 2.2% - 조선일보",
+      "title": "뱅크오브아메리카, 올해 연준 금리 3회 인상 전망 발표",
+      "display_title": "뱅크오브아메리카, 올해 연준 금리 3회 인상 전망 발표",
+      "original_title": "BofA drops bombshell Fed interest-rate outlook with three hikes this year - AOL.com",
       "summary": [
-        "뉴욕 증시의 다우, S&P 500, 나스닥 등 3대 주요 지수가 일제히 하락했으며, 나스닥은 2.2%의 비교적 큰 낙폭을 기록했다.",
-        "이는 주로 금리 인상 우려, 경기 둔화 가능성, 혹은 특정 대형 기술주의 부진 등 복합적인 요인에 기인한 것으로 보인다.",
-        "미국 증시의 하락은 국내 증시에도 투자 심리 위축과 외국인 자금 유출로 이어질 수 있어 면밀한 주시가 필요하다."
+        "뱅크오브아메리카(BofA)가 올해 미국 연준(Fed)이 기준금리를 세 차례 인상할 것이라는 전망을 발표했습니다.",
+        "이는 시장의 예상보다 훨씬 매파적인 전망으로, 고금리 장기화 우려를 키울 수 있습니다.",
+        "이러한 전망은 주식 시장에 부정적인 영향을 미치고, 특히 성장주에 대한 투자 심리를 위축시킬 가능성이 큽니다."
       ],
-      "summary_text": "뉴욕 증시의 다우, S&P 500, 나스닥 등 3대 주요 지수가 일제히 하락했으며, 나스닥은 2.2%의 비교적 큰 낙폭을 기록했다. 이는 주로 금리 인상 우려, 경기 둔화 가능성, 혹은 특정 대형 기술주의 부진 등 복합적인 요인에 기인한 것으로 보인다. 미국 증시의 하락은 국내 증시에도 투자 심리 위축과 외국인 자금 유출로 이어질 수 있어 면밀한 주시가 필요하다.",
-      "description": "뉴욕 증시의 다우존스, S&P 500, 나스닥 등 3대 주요 지수가 모두 하락했으며, 특히 기술주 중심의 나스닥 지수는 2.2% 급락했다.",
+      "summary_text": "뱅크오브아메리카(BofA)가 올해 미국 연준(Fed)이 기준금리를 세 차례 인상할 것이라는 전망을 발표했습니다. 이는 시장의 예상보다 훨씬 매파적인 전망으로, 고금리 장기화 우려를 키울 수 있습니다. 이러한 전망은 주식 시장에 부정적인 영향을 미치고, 특히 성장주에 대한 투자 심리를 위축시킬 가능성이 큽니다.",
+      "description": "뱅크오브아메리카(BofA)가 미국 연방준비제도(Fed)가 올해 세 차례 금리를 인상할 것이라는 충격적인 전망을 내놓았습니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "기술주, 전반적인 증시",
+      "related_sector": "전반, 성장주, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 주요 지수의 급락은 한국 증시의 하락 압력으로 작용할 가능성이 높아 투자 포지션에 주의가 필요하다.",
-      "key_signal": "미국 증시의 추가적인 방향성과 하락 원인에 대한 구체적인 분석 및 연준의 다음 발표를 주시해야 한다.",
+      "investment_reason": "연준의 공격적인 금리 인상은 주식 시장 전반에 하방 압력을 가하고, 국내 금리 및 환율에도 영향을 미칠 수 있어 주의가 필요합니다.",
+      "key_signal": "연준의 실제 스탠스 변화와 함께 다른 주요 기관들의 금리 전망 변화를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "뉴욕증시",
-        "나스닥",
-        "지수하락",
-        "기술주",
-        "글로벌증시"
+        "연준",
+        "금리인상",
+        "뱅크오브아메리카",
+        "고금리",
+        "시장전망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0FRNUFfcUtpSGZRaUZFa3VFa2RYdFRpZUszMW5sYlRQYkFtakJFRHloU1JGS2VLdFdROUZfeEdaY2JWV29acEFLdXBCY1J6Y3ROTkh2OEY4MDB0Q1BFa19TN1phYWpxX2U0aVJYcVJXdFRBZW9mNWxmZkRtUVUzR2djSGw?oc=5",
-      "published": "2026-06-24 05:18",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTlHTndKMmFvMk9sRlBWTWU5STczZjR1Y0tfUVhIal9mZjNsVWlqbzgtSTB6bndMckU0cTMtNzRXUHI3Wk1lcWJ4eGZiVkRVOW1WRG1nYVFOM05nWGhhUFUwd2VPbDItaURUdGt0MEN5NldnLWZMVUZxSExwTHdtNFZn?oc=5",
+      "published": "2026-06-25 02:45",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -108,84 +109,84 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "기술주 하락, 연준 금리 인상 베팅에 국채 수익률 상승, 지정학적 긴장 완화에 유가 하락으로 시장 전반 하락",
-      "display_title": "기술주 하락, 연준 금리 인상 베팅에 국채 수익률 상승, 지정학적 긴장 완화에 유가 하락으로 시장 전반 하락",
-      "original_title": "Markets dip as tech stocks fall, Treasury yields rise on Fed rate hike bets, and oil prices drop amid easing tensions. - Pluang",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "김용범 장관 ‘닥공’ 시사…李 대통령, 부동산 끝장토론에 ‘맘카페’까지 소집",
+      "display_title": "김용범 장관 ‘닥공’ 시사…李 대통령, 부동산 끝장토론에 ‘맘카페’까지 소집",
+      "original_title": "‘닥공’ 밝힌 김용범…李 대통령, 부동산 끝장토론 ‘맘카페’까지 부른다 - 서울경제",
       "summary": [
-        "글로벌 시장은 기술주 하락, 연준의 금리 인상 가능성 베팅으로 인한 국채 수익률 상승, 그리고 지정학적 긴장 완화에 따른 유가 하락이 복합적으로 작용하며 하락세를 보였다.",
-        "이는 시장이 연준의 긴축 가능성에 민감하게 반응하고 있으며, 기술주 중심의 시장 조정과 원자재 시장의 변화가 동시에 나타나고 있음을 시사한다.",
-        "금리, 기술주, 원자재 시장의 복합적인 움직임을 종합적으로 분석하여 향후 시장 변동성에 대비해야 한다."
+        "김용범 장관이 부동산 시장에 대한 강력한 대응 방침을 시사했으며, 대통령은 시민 참여형 끝장토론을 통해 해법을 모색합니다.",
+        "이는 정부가 현재 부동산 시장의 불안정성을 심각하게 인식하고 있으며, 다각적인 대책을 마련하려는 의지를 보여줍니다.",
+        "새로운 정책 방향과 규제 강화 가능성을 주시하며, 건설 및 부동산 관련 기업들의 실적 변화에 유의해야 합니다."
       ],
-      "summary_text": "글로벌 시장은 기술주 하락, 연준의 금리 인상 가능성 베팅으로 인한 국채 수익률 상승, 그리고 지정학적 긴장 완화에 따른 유가 하락이 복합적으로 작용하며 하락세를 보였다. 이는 시장이 연준의 긴축 가능성에 민감하게 반응하고 있으며, 기술주 중심의 시장 조정과 원자재 시장의 변화가 동시에 나타나고 있음을 시사한다. 금리, 기술주, 원자재 시장의 복합적인 움직임을 종합적으로 분석하여 향후 시장 변동성에 대비해야 한다.",
-      "description": "기술주 하락과 연준의 금리 인상 베팅으로 인한 국채 수익률 상승, 그리고 지정학적 긴장 완화에 따른 유가 하락이 복합적으로 작용하여 전반적인 시장 하락을 이끌었다.",
-      "category": "증시·금리",
+      "summary_text": "김용범 장관이 부동산 시장에 대한 강력한 대응 방침을 시사했으며, 대통령은 시민 참여형 끝장토론을 통해 해법을 모색합니다. 이는 정부가 현재 부동산 시장의 불안정성을 심각하게 인식하고 있으며, 다각적인 대책을 마련하려는 의지를 보여줍니다. 새로운 정책 방향과 규제 강화 가능성을 주시하며, 건설 및 부동산 관련 기업들의 실적 변화에 유의해야 합니다.",
+      "description": "김용범 장관이 강력한 부동산 정책(‘닥공’ - 닥치고 공격)을 시사했으며, 이 대통령은 부동산 문제 해결을 위한 끝장토론에 일반 시민(맘카페)까지 참여시켜 여론 수렴에 나설 예정입니다.",
+      "category": "부동산·정책",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "기술주, 에너지, 금융, 전반적인 증시",
+      "market_impact": "중립",
+      "related_sector": "건설, 부동산, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "S-Oil"
+        "현대건설",
+        "GS건설",
+        "삼성물산"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준의 긴축 우려, 기술주 조정, 유가 하락 등 복합적인 악재가 시장 전반에 하방 압력을 가하고 있어 투자에 매우 신중해야 한다.",
-      "key_signal": "연준의 다음 FOMC 발언, 주요 기술 기업 실적, 국제 유가 및 지정학적 리스크 변화를 종합적으로 모니터링해야 한다.",
+      "investment_reason": "정부의 강력한 부동산 정책은 시장에 큰 변동성을 가져올 수 있으며, 이는 관련 기업들의 사업 환경과 수익성에 직접적인 영향을 미치기 때문입니다.",
+      "key_signal": "정부의 부동산 끝장토론에서 구체적으로 어떤 정책 방향과 대책이 발표되는지 면밀히 파악해야 합니다.",
       "keywords": [
-        "기술주",
-        "금리인상",
-        "국채수익률",
-        "유가하락",
-        "시장하락"
+        "부동산정책",
+        "정부대책",
+        "부동산시장",
+        "규제",
+        "건설주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkV1R0kwaFQ4dmtKSERtaWI0TFBFOXlVYnlXT25HYUtzVlB6cnc0WVVhM1R0SWx1U1lBMDZ3YWRzT2ZES0ZGdkxYdmFCVkpLLU85clpYNHdxcmVwaGp2a2dDUVloZV9jM3lTM1ZxODBzdm81SWUyV1oyRkFBYUFkOE81TE10QzM1SUFITnpVX2pqWmg1bzFLVnF3?oc=5",
-      "published": "2026-06-23 21:54",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlTS1CTGNrY0FXSU5jMllnY2JZTjFVV0EyV2pmQWt3aVdwSmRZTTYxUnBNQy16V0VwbTVlZUhoQmdpR0RCSVF4cXhjU1dFZ21UWFHSAVNBVV95cUxQci1oWDROYUpNVWlvMUFjSkg5cTVmU3kzSXhGb1BOTC1EMTEtRFVPSmJCUTVyM3p4QWdsWTlyU3k5UzJPMk1TMzQ2YVUxYVZHV3VXYw?oc=5",
+      "published": "2026-06-25 06:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "연준 금리 인하 기대감에 위험 자산 상승; QuantRate, 무료 AI 퀀트 트레이딩 봇 발표",
-      "display_title": "연준 금리 인하 기대감에 위험 자산 상승; QuantRate, 무료 AI 퀀트 트레이딩 봇 발표",
-      "original_title": "Risk Assets Rise Amid Fed Rate Cut Expectations; QuantRate Announces Free AI Quant Trading Bot - markets.businessinsider.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]",
+      "display_title": "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]",
+      "original_title": "고환율, 메가 트렌드?…산업 지도가 바뀐다 [스페셜리포트] - 네이트",
       "summary": [
-        "연준의 금리 인하 기대감이 높아지면서 주식 등 위험 자산이 상승세를 보였다.",
-        "시장 참가자들은 인플레이션 둔화와 경제 지표를 바탕으로 연준의 완화적 통화 정책 전환을 예상하고 있다.",
-        "금리 인하 기대감은 주식 시장 전반에 긍정적인 영향을 미칠 수 있으며, 특히 성장주에 유리할 수 있다."
+        "현재의 고환율이 일시적 현상이 아닌 장기적인 메가 트렌드로 자리 잡을 수 있다는 분석이 나왔습니다.",
+        "고환율 장기화는 국내 산업 전반의 경쟁 환경과 기업들의 실적에 근본적인 변화를 가져올 수 있습니다.",
+        "수출 주도형 산업은 수혜를 입을 수 있지만, 원자재 수입 의존도가 높은 산업이나 내수 기업은 부정적인 영향을 받을 수 있으므로 이에 대한 대비가 필요합니다."
       ],
-      "summary_text": "연준의 금리 인하 기대감이 높아지면서 주식 등 위험 자산이 상승세를 보였다. 시장 참가자들은 인플레이션 둔화와 경제 지표를 바탕으로 연준의 완화적 통화 정책 전환을 예상하고 있다. 금리 인하 기대감은 주식 시장 전반에 긍정적인 영향을 미칠 수 있으며, 특히 성장주에 유리할 수 있다.",
-      "description": "연방준비제도(Fed)의 금리 인하 기대감 속에서 위험 자산이 상승했으며, QuantRate는 무료 AI 퀀트 트레이딩 봇을 발표했다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "기술주, 성장주",
+      "summary_text": "현재의 고환율이 일시적 현상이 아닌 장기적인 메가 트렌드로 자리 잡을 수 있다는 분석이 나왔습니다. 고환율 장기화는 국내 산업 전반의 경쟁 환경과 기업들의 실적에 근본적인 변화를 가져올 수 있습니다. 수출 주도형 산업은 수혜를 입을 수 있지만, 원자재 수입 의존도가 높은 산업이나 내수 기업은 부정적인 영향을 받을 수 있으므로 이에 대한 대비가 필요합니다.",
+      "description": "고환율이 일시적인 현상을 넘어 장기적인 메가 트렌드가 될 가능성을 분석하며, 이에 따라 한국 산업 전반의 지형 변화를 예측하는 특별 보고서입니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "수출주, 반도체, 자동차, 조선, 화학, 항공, 정유, 유통",
       "related_stocks": [
         "삼성전자",
-        "네이버",
-        "카카오"
+        "현대차",
+        "HMM"
       ],
       "investment_view": "관심",
-      "investment_reason": "연준의 통화 정책 변화는 글로벌 자산 시장의 방향을 결정하는 핵심 요인이므로, 관련 동향을 주시해야 한다.",
-      "key_signal": "연준의 금리 인하 기대감이 지속될지, 또는 다른 경제 지표들이 상반된 신호를 보낼지 확인해야 한다.",
+      "investment_reason": "고환율이 장기화될 경우 국내 산업 전반의 지형을 변화시키고 기업들의 명암을 가를 수 있어, 수혜 및 피해 산업군을 면밀히 분석해야 합니다.",
+      "key_signal": "고환율의 지속 여부와 정부의 대응책, 그리고 각 산업별 기업들의 환율 헤징 전략 및 실적 변화를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "연준",
-        "금리인하",
-        "위험자산",
-        "주식시장",
-        "통화정책"
+        "고환율",
+        "메가트렌드",
+        "산업변화",
+        "수출주",
+        "수입물가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeXpuMmFjU3RUaEw4TjRzaGpETFAxNFVSaVlTQm56RW5BWVVmX1M2RkZjRHpCUWFpcTE5bnR0emRnaDZsMk9nek5HcC0wdkt1dXRMdVhFRUtJZ193Y3VEV3Y5WmMza05MemhxdGFTNUx0djBEcW0ySGFjWWZlWkNXcnk2MlFqcmFEeWMwdXNNYmo1TWJLWk9jdVpybGpjWFV5WXNBTGpCSXRNYjFiQ2VKZHJLckhIS0hfVFVuWldjTzJpVVZhblpPOEJBeUx2TnZLUkNnMUE1WnRvb0d4S1cwbUZWNnJ2X3M?oc=5",
-      "published": "2026-06-24 06:49",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhVE9NeG5Gb1VPakZnd0VuZXNmTzZ1X1hPOXA2RTFzaVQxNlRrT2JFcnE5ZkZJWUYtcEJSUDcxaG80OEwzRGJMMS1xVkxpMWJNN2M0?oc=5",
+      "published": "2026-06-24 21:01",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -195,37 +196,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주간 시장 업데이트 – 2026년 6월 22일: 새로운 연준 매파적 기조, 주식 시장 혼조세",
-      "display_title": "주간 시장 업데이트 – 2026년 6월 22일: 새로운 연준 매파적 기조, 주식 시장 혼조세",
-      "original_title": "The Weekly Market Update – 6/22/26: New Fed Tilts Hawkish, Equities Mixed - AdvisorHub",
+      "title": "미국 증시 혼조세 마감, 거대 기술기업의 추가 하락이 부담으로 작용",
+      "display_title": "미국 증시 혼조세 마감, 거대 기술기업의 추가 하락이 부담으로 작용",
+      "original_title": "U.S. stocks end mixed, weighed down by more losses for tech giants - BNN Bloomberg",
       "summary": [
-        "최근 연준의 기조가 매파적으로 변화할 조짐을 보이면서 글로벌 주식 시장이 혼조세를 보였다.",
-        "이는 기존의 금리 인하 기대감과는 상반되는 신호로, 시장은 연준의 정책 방향에 대한 불확실성으로 인해 움직임을 탐색하는 중이다.",
-        "연준의 실제 정책 변화 여부와 그에 따른 시장의 반응을 면밀히 관찰하며 투자 전략을 조절할 필요가 있다."
+        "미국 증시가 혼조세를 보였으며, 특히 대형 기술주들의 추가적인 하락이 시장 전반에 부담을 주었습니다.",
+        "이는 금리 인상 우려, AI 관련 과열 논란 등 여러 요인이 복합적으로 작용한 결과로 해석됩니다.",
+        "기술주 하락세가 국내 증시 기술주에도 부정적인 영향을 미칠 수 있으므로 관련 종목 투자에 주의가 필요합니다."
       ],
-      "summary_text": "최근 연준의 기조가 매파적으로 변화할 조짐을 보이면서 글로벌 주식 시장이 혼조세를 보였다. 이는 기존의 금리 인하 기대감과는 상반되는 신호로, 시장은 연준의 정책 방향에 대한 불확실성으로 인해 움직임을 탐색하는 중이다. 연준의 실제 정책 변화 여부와 그에 따른 시장의 반응을 면밀히 관찰하며 투자 전략을 조절할 필요가 있다.",
-      "description": "2026년 6월 22일 주간 시장 업데이트에 따르면, 연방준비제도(Fed)의 새로운 정책 방향이 매파적인 경향을 보이며, 주식 시장은 혼조세를 나타냈다.",
+      "summary_text": "미국 증시가 혼조세를 보였으며, 특히 대형 기술주들의 추가적인 하락이 시장 전반에 부담을 주었습니다. 이는 금리 인상 우려, AI 관련 과열 논란 등 여러 요인이 복합적으로 작용한 결과로 해석됩니다. 기술주 하락세가 국내 증시 기술주에도 부정적인 영향을 미칠 수 있으므로 관련 종목 투자에 주의가 필요합니다.",
+      "description": "미국 증시가 혼조세로 마감한 가운데, 주요 기술 기업들의 주가가 추가 하락하여 시장에 부담을 주었습니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "전반적인 증시, 금융",
+      "related_sector": "기술주, IT하드웨어, 소프트웨어",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준의 매파적 전환 가능성은 금리 인하 기대를 약화시키고 시장 변동성을 확대할 수 있으므로 보수적인 접근이 필요하다.",
-      "key_signal": "연준 위원들의 발언과 다음 FOMC 회의록을 통해 실제 매파적 기조 변화 여부를 확인하고 시장의 반응을 주시해야 한다.",
+      "investment_reason": "미국 대형 기술주의 하락은 국내 기술주 및 성장주 투자 심리에 직접적인 부정적 영향을 줄 수 있기 때문입니다.",
+      "key_signal": "미국 기술주의 추가 하락 여부와 금리 인상 관련 Fed의 스탠스를 확인해야 합니다.",
       "keywords": [
-        "연준",
-        "매파",
+        "미국증시",
+        "기술주",
+        "혼조세",
         "금리인상",
-        "주식시장",
-        "통화정책"
+        "하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWxvU0FVVG9sdzRranpRdW5nX3hYUE15MEE0aGs2dVBfbnBxWi1LWWxWZzZjWEFSLVdjeVpnV2hwbEhlOGRzdjN4eG5rcE1Icks0eEpzQi1iXzZwVXhJbnBkNGZTR0RoZllaSEpNdktmaWZEWFB0YllMZzAtcEdsdDNqaEFWMWozNGctNlVMR09fQmhMX1JITlN0Y1dfNFdxd3hTNVl1WmxUcjg?oc=5",
-      "published": "2026-06-24 02:12",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmxIUGpjLV9jbGtmY0ZUTUh3YzdXbHAyRWR6bjhmNGhwOU9PbTY3ZDNXVWRCQnotNnJRWWNsYmtxSFJUdUtpRnRnMzhuam1tQksyZExPTnp5clZ4eDRoa2RaMGRRMjNickk2R0VyY3NmLVViYXNXWVhqVWlsRFlpMDdxV1NWN2lYSEg1TXQ5WjRsY21LQVlaRjJ2a3pFOXhKQ0QtYVItWHNSMW5QSkZkREF0NVJIei1ydUE?oc=5",
+      "published": "2026-06-25 05:36",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -234,42 +235,41 @@
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[인터뷰] 이동훈 켐트로스 대표 “반도체 소재 국산화는 선택 아닌 생존의 문제” [기술 속국 탈출기⑦]",
-      "display_title": "[인터뷰] 이동훈 켐트로스 대표 “반도체 소재 국산화는 선택 아닌 생존의 문제” [기술 속국 탈출기⑦]",
-      "original_title": "[인터뷰] 이동훈 켐트로스 대표 “반도체 소재 국산화는 선택 아닌 생존의 문제” [기술 속국 탈출기⑦] - 이투데이",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "다우존스, 마이크론 실적 발표 앞두고 빅테크 안정화에 강세",
+      "display_title": "다우존스, 마이크론 실적 발표 앞두고 빅테크 안정화에 강세",
+      "original_title": "Dow powers ahead as big tech stabilizes ahead of Micron earnings - Proactive financial news",
       "summary": [
-        "켐트로스 이동훈 대표는 반도체 소재 국산화가 기업의 생존에 직결되는 문제임을 강조했다.",
-        "이는 글로벌 공급망 불안정성 심화와 기술 패권 경쟁 속에서 국내 반도체 산업의 자립도 강화가 절실하다는 인식을 반영한다.",
-        "반도체 소재 국산화 관련 기업들은 정부 정책 지원 및 기술 개발 성과에 따라 성장 잠재력이 높으므로 관심 있게 지켜볼 필요가 있다."
+        "다우존스 지수가 빅테크 주식의 안정화에 힘입어 상승세를 보였습니다.",
+        "이는 주요 반도체 기업인 마이크론의 실적 발표를 앞두고 투자자들의 기대감이 반영된 것으로 보입니다.",
+        "반도체 실적에 따라 기술주 전반의 방향성이 결정될 수 있으므로 관련 동향을 주시해야 합니다."
       ],
-      "summary_text": "켐트로스 이동훈 대표는 반도체 소재 국산화가 기업의 생존에 직결되는 문제임을 강조했다. 이는 글로벌 공급망 불안정성 심화와 기술 패권 경쟁 속에서 국내 반도체 산업의 자립도 강화가 절실하다는 인식을 반영한다. 반도체 소재 국산화 관련 기업들은 정부 정책 지원 및 기술 개발 성과에 따라 성장 잠재력이 높으므로 관심 있게 지켜볼 필요가 있다.",
-      "description": "켐트로스 이동훈 대표는 인터뷰에서 반도체 소재의 국산화가 기업의 생존을 위한 필수적인 과제임을 강조했다. 이 기사는 '기술 속국 탈출기' 시리즈의 일곱 번째 보도이다.",
+      "summary_text": "다우존스 지수가 빅테크 주식의 안정화에 힘입어 상승세를 보였습니다. 이는 주요 반도체 기업인 마이크론의 실적 발표를 앞두고 투자자들의 기대감이 반영된 것으로 보입니다. 반도체 실적에 따라 기술주 전반의 방향성이 결정될 수 있으므로 관련 동향을 주시해야 합니다.",
+      "description": "다우존스 지수가 빅테크 기업들의 안정화 흐름을 보이며 강세를 나타냈으며, 이는 마이크론의 실적 발표를 앞두고 관찰되는 현상입니다.",
       "category": "기업·산업",
       "importance": 7,
       "market_impact": "긍정",
-      "related_sector": "반도체 소재, 반도체 장비",
+      "related_sector": "반도체, 기술주",
       "related_stocks": [
-        "켐트로스",
-        "동진쎄미켐",
-        "솔브레인"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "반도체 소재 국산화는 국가 핵심 산업의 경쟁력을 강화하고 관련 기업들의 시장 지배력을 높일 수 있는 중요한 테마이다.",
-      "key_signal": "정부의 반도체 소재 국산화 지원 정책, 켐트로스 등 관련 기업들의 기술 개발 및 상용화 성과를 지속적으로 모니터링해야 한다.",
+      "investment_reason": "글로벌 빅테크 및 반도체 업종의 동향은 국내 증시, 특히 대형 기술주에 직접적인 영향을 미치기 때문입니다.",
+      "key_signal": "마이크론 실적 발표 내용과 이후 글로벌 기술주 및 반도체주의 흐름을 주목해야 합니다.",
       "keywords": [
-        "반도체소재",
-        "국산화",
-        "켐트로스",
-        "공급망",
-        "기술독립"
+        "다우존스",
+        "빅테크",
+        "마이크론",
+        "반도체",
+        "실적발표"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPT1ZDeG55R0V6Z3FHQ0xYNkRGRnp1RmxnMm5NdEtuNTVLRDY1bnppSGVzR0ZBUi04c0p2RWJRN2NXaEdUUzgyV0l2SmJCTTIxc0FVNg?oc=5",
-      "published": "2026-06-24 05:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHowNzF1dVZiNVhZN2JmQVE4M3dFcW1QSFVPM1BOaGM3MENtWjhjY2k0bXk1ZnY1ZXpCY1hGT05PX2ZIbU44d09vRDktbzM2dGdNaWd4Zl9xVmQ3NDQzRlR1Zi1yTDN6N2l1ZWp0Vjg3VGZIZ0dWcXowVXY1bTlkbnR0TzVqckRsVWhpZ2lqZkxrMVhLdGhPdDZFTEFnbTlUb1VrRzNOa0FpbDJxRUF4N2dtelQtdlJnYmJxTFFKb1hQNWJ3Ty15aTY5Z0FaOTE3U0prenNQYkw?oc=5",
+      "published": "2026-06-25 04:42",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -282,65 +282,67 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "연준의 금리 인하 기대감은 기술주 및 성장주에 긍정적인 영향을 미칠 수 있으며, 삼성전자는 글로벌 반도체 및 AI 기술의 핵심 기업으로 중장기적인 성장 잠재력을 보유하고 있습니다. 다만, 단기적인 기술주 하락 및 시장 불확실성에 대한 주의가 필요합니다.",
+      "reason": "글로벌 빅테크 및 반도체 업황 안정화 기대감이 있는 가운데, 고환율 장기화 시 수출 기업으로서의 잠재적 수혜 가능성과 외국인 매도세 및 미국 증시 기술주 하락의 부담이 공존하여 면밀한 관찰이 필요합니다.",
       "check_points": [
-        "연준의 통화 정책 변화",
-        "반도체 업황 회복 속도",
-        "AI 시장 경쟁 구도"
+        "글로벌 반도체 업황 및 마이크론 등 주요 기업 실적 발표 동향",
+        "외국인 투자자 매매 동향 및 원/달러 환율 변동성",
+        "미국 증시 내 주요 기술 기업 주가 흐름"
       ],
       "related_news_titles": [
-        "연준 금리 인하 기대감에 위험 자산 상승; QuantRate, 무료 AI 퀀트 트레이딩 봇 발표",
-        "뉴욕 증시 3대 주요 지수 하락, 나스닥 2.2% 급락",
-        "기술주 하락, 연준 금리 인상 베팅에 국채 수익률 상승, 지정학적 긴장 완화에 유가 하락으로 시장 전반 하락"
+        "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
+        "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]",
+        "미국 증시 혼조세 마감, 거대 기술기업의 추가 하락이 부담으로 작용"
       ]
     },
     {
       "rank": 2,
-      "name": "켐트로스",
-      "market": "KOSDAQ",
-      "sector": "화학",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "반도체 소재 국산화는 국가 핵심 산업의 안정성을 높이고 관련 기업들의 시장 지배력을 강화할 수 있는 중요한 테마입니다. 켐트로스는 반도체 소재 분야에서 기술 경쟁력을 확보하며 성장 잠재력을 가지고 있습니다.",
+      "reason": "글로벌 반도체 업종의 동향과 빅테크 안정화 기대감이 긍정적이나, 고환율로 인한 외국인 투자자 이탈 우려와 미국 기술주 하락의 부정적 영향 또한 주의 깊게 살펴봐야 합니다.",
       "check_points": [
-        "반도체 산업의 국내 투자 확대",
-        "국산화 정책 지원 여부",
-        "신규 소재 개발 및 상용화 진행 상황"
+        "글로벌 D램/낸드 가격 추이 및 반도체 수급 동향",
+        "외국인 투자자 매매 동향 및 원/달러 환율 변동성",
+        "미국 증시 기술주, 특히 반도체 관련주 흐름"
       ],
       "related_news_titles": [
-        "[인터뷰] 이동훈 켐트로스 대표 “반도체 소재 국산화는 선택 아닌 생존의 문제” [기술 속국 탈출기⑦]"
+        "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
+        "미국 증시 혼조세 마감, 거대 기술기업의 추가 하락이 부담으로 작용",
+        "다우존스, 마이크론 실적 발표 앞두고 빅테크 안정화에 강세"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "주의",
-      "reason": "코스피의 역대급 폭락과 연준의 매파적 기조는 국내 증권사의 수익성(거래대금, 위탁수수료, 운용손익 등)에 직접적인 부정적 영향을 미치며, 당분간 시장 변동성 확대에 따른 보수적인 접근이 필요합니다.",
+      "sector": "자동차",
+      "opinion": "중립",
+      "reason": "급격한 고환율은 단기적으로 외국인 투자자 이탈을 심화시킬 수 있으나, 고환율이 장기화될 경우 수출 기업으로서의 환차익 등 수혜 가능성도 있어 동향을 주시할 필요가 있습니다.",
       "check_points": [
-        "국내외 증시 변동성 추이",
-        "거래대금 및 시장 신뢰도",
-        "연준의 금리 정책 방향"
+        "원/달러 환율 변동성 및 수출 실적 추이",
+        "해외 시장 판매 동향 및 경쟁 환경",
+        "외국인 투자자 매매 동향"
       ],
       "related_news_titles": [
-        "코스피 하루 만에 10% 급락...8,200선 턱걸이 '역대 최대' 낙폭",
-        "주간 시장 업데이트 – 2026년 6월 22일: 새로운 연준 매파적 기조, 주식 시장 혼조세"
+        "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
+        "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]"
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "HMM",
       "market": "KOSPI",
-      "sector": "인터넷",
+      "sector": "운수창고",
       "opinion": "관심",
-      "reason": "연준의 금리 인하 기대감은 성장주 전반에 긍정적인 투자 심리를 형성할 수 있습니다. 네이버는 견고한 플랫폼 사업과 AI 기술 투자를 바탕으로 중장기적인 성장 동력을 모색하고 있으며, 시장 회복 시 반등 가능성을 기대할 수 있습니다. 다만, 글로벌 금리 및 기술주 동향에 민감하게 반응할 수 있어 주의 깊은 모니터링이 필요합니다.",
+      "reason": "고환율이 장기화될 경우 수출 기업의 원화 기준 매출 증대 등 긍정적 영향을 기대할 수 있는 대표적인 수출 관련주로서 동향을 면밀히 관찰할 필요가 있습니다.",
       "check_points": [
-        "연준의 금리 정책 변화",
-        "국내외 경기 회복 속도",
-        "신규 서비스 출시 및 AI 기술 경쟁력"
+        "원/달러 환율 추이 및 글로벌 해운 운임 지수",
+        "주요 항로 물동량 및 글로벌 경기 동향",
+        "경쟁사의 실적 및 시장 점유율 변화"
       ],
       "related_news_titles": [
-        "연준 금리 인하 기대감에 위험 자산 상승; QuantRate, 무료 AI 퀀트 트레이딩 봇 발표"
+        "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]"
       ]
     }
   ],
