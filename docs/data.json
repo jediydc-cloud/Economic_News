@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25 08:04",
-  "analysis_date": "2026-06-25",
+  "generated_at": "2026-06-26 08:18",
+  "analysis_date": "2026-06-26",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "오늘 국내 증시는 고환율 심화와 미 연준의 매파적 금리 인상 전망으로 인한 투자 심리 위축이 예상됩니다. 다만, 일부 빅테크 안정화 기대감도 공존하며 업종별 차별화가 나타날 수 있습니다.",
-    "국내거시경제": "원/달러 환율이 17년 만에 1,540원대를 돌파하며 국내 거시경제에 비상이 걸렸습니다. 이는 단순한 일시적 현상을 넘어 산업 지도를 근본적으로 바꿀 수 있는 메가 트렌드가 될 수 있습니다. 수출 기업에는 긍정적일 수 있으나, 수입 물가 상승과 외국인 투자자 이탈 우려가 커지고 있습니다.",
-    "글로벌경제": "글로벌 경제는 미국 연준의 고금리 장기화 전망으로 투자심리가 위축되고 있으며, 이는 전반적인 경제 불확실성을 키우고 있습니다.",
-    "증시금리": "뱅크오브아메리카(BofA)의 미 연준 3회 금리 인상 전망은 고금리 장기화 우려를 심화시키며 주식 시장 전반에 부정적인 영향을 미칠 전망입니다. 미국 증시는 기술주 하락 부담으로 혼조세를 보였으며, 국내 증시 기술주에도 하방 압력으로 작용할 수 있습니다.",
-    "부동산정책": "정부가 부동산 시장 불안정성을 심각하게 인식하고 대책 마련에 적극 나설 예정입니다. 대통령까지 나서 끝장토론을 주재하며 새로운 정책 방향과 규제 강화 가능성이 대두되고 있어, 건설 및 부동산 관련 기업들의 동향을 면밀히 살펴야 합니다.",
-    "기업산업": "미국 다우존스 지수는 빅테크 주식의 안정화와 마이크론 실적 기대감에 상승했습니다. 이는 반도체 업종 전반에 긍정적 신호가 될 수 있습니다. 한편, 고환율 장기화는 수출 주도형 산업에 수혜를 주지만, 원자재 수입 의존도가 높은 산업에는 부담으로 작용하며 산업 지형 변화를 야기할 것입니다.",
-    "오늘의투자시사점": "고환율 장기화 가능성에 대비하여 환율 변동에 민감한 기업과 산업의 실적을 면밀히 분석해야 합니다. 특히 수출 경쟁력을 확보한 업종은 긍정적이나, 수입 의존도가 높은 기업은 주의가 필요합니다. 미 연준의 매파적 스탠스와 미국 기술주 변동성으로 국내 성장주 투자 심리 위축 가능성이 높아, 보수적인 접근이 요구됩니다. 반도체 등 일부 기술주의 안정화 여부는 긍정적 요인으로 작용할 수 있습니다.",
-    "오늘의한줄": "고환율 심화와 매파적 금리 인상 전망 속, 업종별 차별화 전략과 환율 민감 기업에 대한 면밀한 분석이 필요한 하루."
+    "총평": "글로벌 지정학적 위험과 인플레이션 우려 속에서도 국내 삼성의 대규모 투자 발표와 반도체 업종의 견조한 흐름이 주목됩니다.",
+    "국내거시경제": "외환 당국의 노력에도 원/달러 환율의 고공행진이 지속되며 국내 경제 전반에 부담을 주고 있습니다.",
+    "글로벌경제": "이란 전쟁의 여파가 글로벌 경제에 확산되며 에너지 가격 변동성 확대 및 공급망 교란 우려가 커지고 있습니다.",
+    "증시금리": "미국 증시는 반도체 강세와 일부 대형 기술주 약세로 혼조세를 보였고, 국채 금리 하락은 금리 인하 기대감을 반영했습니다. 국내는 고환율 지속으로 변동성 완화 노력이 필요합니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "삼성의 1000조원 투자 계획은 국내 산업 생태계에 긍정적 신호이며, TSMC와 마이크론의 실적 호조로 AI 및 반도체 산업의 성장세가 재확인되었습니다. 다만, 메모리 부족은 IT 기업 원가 압박 요인입니다.",
+    "오늘의투자시사점": "반도체 및 AI 관련 산업의 성장 모멘텀은 지속되겠으나, 지정학적 리스크와 고환율 등 거시경제 불확실성에 대비한 포트폴리오 관리가 중요합니다.",
+    "오늘의한줄": "삼성 투자와 AI 반도체 강세 속 지정학적 위험 및 고환율에 대한 지속적인 관찰이 필요합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
-      "display_title": "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
-      "original_title": "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음 - 데일리매거진",
+      "title": "[단독] 삼성, 향후 10년간 1000조원 투자 계획",
+      "display_title": "[단독] 삼성, 향후 10년간 1000조원 투자 계획",
+      "original_title": "[단독] 삼성, 10년간 1000조 투자 - 매일경제",
       "summary": [
-        "원/달러 환율이 달러 강세와 외국인 순매도에 힘입어 1,540원대를 기록, 2008년 금융위기 이후 17년 만에 최고치를 경신했습니다.",
-        "초고환율은 국내 기업의 수출 경쟁력을 높일 수 있지만, 수입 물가 상승 및 외국인 투자자 이탈을 야기할 수 있습니다.",
-        "고환율 장기화 가능성에 대비하고, 환율 변동성에 민감한 기업들의 실적을 면밀히 분석해야 합니다."
+        "삼성 그룹이 향후 10년간 1000조원이라는 막대한 규모의 투자를 단행할 것이라는 단독 보도가 나왔습니다.",
+        "이 투자는 주로 미래 성장 동력 확보를 위한 반도체, 바이오, 인공지능 등 첨단 산업 분야에 집중될 것으로 예상됩니다.",
+        "삼성의 대규모 투자는 관련 산업 생태계 전반에 긍정적인 파급 효과를 미치며 국내 증시에도 활력을 불어넣을 것입니다."
       ],
-      "summary_text": "원/달러 환율이 달러 강세와 외국인 순매도에 힘입어 1,540원대를 기록, 2008년 금융위기 이후 17년 만에 최고치를 경신했습니다. 초고환율은 국내 기업의 수출 경쟁력을 높일 수 있지만, 수입 물가 상승 및 외국인 투자자 이탈을 야기할 수 있습니다. 고환율 장기화 가능성에 대비하고, 환율 변동성에 민감한 기업들의 실적을 면밀히 분석해야 합니다.",
-      "description": "달러 강세와 외국인 투자자들의 4조 원대 순매도에 힘입어 원/달러 환율이 1,540원대로 마감하며, 2008년 금융위기 이후 17년 만에 최고치를 기록했습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "삼성 그룹이 향후 10년간 1000조원이라는 막대한 규모의 투자를 단행할 것이라는 단독 보도가 나왔습니다. 이 투자는 주로 미래 성장 동력 확보를 위한 반도체, 바이오, 인공지능 등 첨단 산업 분야에 집중될 것으로 예상됩니다. 삼성의 대규모 투자는 관련 산업 생태계 전반에 긍정적인 파급 효과를 미치며 국내 증시에도 활력을 불어넣을 것입니다.",
+      "description": "삼성 그룹이 향후 10년 동안 총 1000조원 규모의 대규모 투자를 단행할 계획이라는 단독 보도입니다.",
+      "category": "기업·산업",
       "importance": 10,
-      "market_impact": "부정",
-      "related_sector": "반도체, 자동차, IT, 증권, 항공, 정유",
+      "market_impact": "긍정",
+      "related_sector": "반도체, 바이오, AI, 디스플레이, 배터리",
       "related_stocks": [
-        "현대차",
         "삼성전자",
-        "SK하이닉스"
+        "삼성바이오로직스",
+        "삼성SDI"
       ],
-      "investment_view": "주의",
-      "investment_reason": "급격한 고환율은 외국인 투자자 이탈을 심화시키고 국내 증시에 전반적인 하방 압력을 가하며, 기업 실적에도 큰 영향을 미치기 때문입니다.",
-      "key_signal": "정부의 환율 방어 정책과 외국인 투자자의 추가 매도 여부를 주시해야 하며, 수출 기업들의 환율 효과를 분석해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "삼성의 대규모 투자는 국내 경제 전반의 성장 동력을 강화하고 관련 산업의 가치 사슬에 긍정적 영향을 미칩니다.",
+      "key_signal": "구체적인 투자 분야 및 로드맵 발표를 통해 수혜를 입을 핵심 산업과 기업들을 파악해야 합니다.",
       "keywords": [
-        "환율",
-        "달러강세",
-        "외국인매도",
-        "금융위기",
-        "수출주"
+        "삼성",
+        "대규모 투자",
+        "반도체",
+        "바이오",
+        "AI"
       ],
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yeV92YkNEVzQwcjZBUWFmdjBuUjh4VDU0SE5ZTUFWeEhWYXBmR0EwT2NscVZ3TnVwNFVnLUd1QXc1bS1DaEpFZklnSlBKSGxUTnJWLVo0MHlMdFJJeHNCcGh1ZzMzeC11aXYwZ2t4dEk4S1d3T0FCZWx5QQ?oc=5",
-      "published": "2026-06-25 00:18",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeXctMkZGV3FUNjBtaUs2b21qeVlxWEgtbUtmUEpyd2RYWHpXUW9XcHdMSE83bkZXVk5KSWlQOEtiYTdiWXM4RldOS2x3V013NWtRSGF3?oc=5",
+      "published": "2026-06-26 03:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -70,37 +70,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "뱅크오브아메리카, 올해 연준 금리 3회 인상 전망 발표",
-      "display_title": "뱅크오브아메리카, 올해 연준 금리 3회 인상 전망 발표",
-      "original_title": "BofA drops bombshell Fed interest-rate outlook with three hikes this year - AOL.com",
+      "title": "오늘 증시 혼조세: 마이크론 실적에 메모리 반도체 강세, 애플 주가 하락; 5월 인플레이션 보고서에 국채 금리 하락",
+      "display_title": "오늘 증시 혼조세: 마이크론 실적에 메모리 반도체 강세, 애플 주가 하락; 5월 인플레이션 보고서에 국채 금리 하락",
+      "original_title": "Stock market today: Stocks mixed as Micron earnings revive memory rally and Apple stock slumps; Treasury yields fall on May inflation report - MSN",
       "summary": [
-        "뱅크오브아메리카(BofA)가 올해 미국 연준(Fed)이 기준금리를 세 차례 인상할 것이라는 전망을 발표했습니다.",
-        "이는 시장의 예상보다 훨씬 매파적인 전망으로, 고금리 장기화 우려를 키울 수 있습니다.",
-        "이러한 전망은 주식 시장에 부정적인 영향을 미치고, 특히 성장주에 대한 투자 심리를 위축시킬 가능성이 큽니다."
+        "마이크론의 실적 호조가 메모리 반도체 관련주 상승을 이끌었으나, 애플 주가는 하락하며 시장은 혼조세를 나타냈습니다.",
+        "5월 인플레이션 보고서 발표 이후 미국 국채 금리가 하락하며 시장의 금리 인하 기대감을 반영했습니다.",
+        "반도체 업종의 강세와 더불어, 인플레이션 지표와 국채 금리 동향이 시장 전반에 미칠 영향을 파악해야 합니다."
       ],
-      "summary_text": "뱅크오브아메리카(BofA)가 올해 미국 연준(Fed)이 기준금리를 세 차례 인상할 것이라는 전망을 발표했습니다. 이는 시장의 예상보다 훨씬 매파적인 전망으로, 고금리 장기화 우려를 키울 수 있습니다. 이러한 전망은 주식 시장에 부정적인 영향을 미치고, 특히 성장주에 대한 투자 심리를 위축시킬 가능성이 큽니다.",
-      "description": "뱅크오브아메리카(BofA)가 미국 연방준비제도(Fed)가 올해 세 차례 금리를 인상할 것이라는 충격적인 전망을 내놓았습니다.",
+      "summary_text": "마이크론의 실적 호조가 메모리 반도체 관련주 상승을 이끌었으나, 애플 주가는 하락하며 시장은 혼조세를 나타냈습니다. 5월 인플레이션 보고서 발표 이후 미국 국채 금리가 하락하며 시장의 금리 인하 기대감을 반영했습니다. 반도체 업종의 강세와 더불어, 인플레이션 지표와 국채 금리 동향이 시장 전반에 미칠 영향을 파악해야 합니다.",
+      "description": "오늘 주식시장은 혼조세를 보였습니다. 마이크론의 실적 발표가 메모리 반도체 관련 주식의 강세를 이끌었고, 애플 주가는 하락했습니다. 한편, 5월 인플레이션 보고서 발표 후 국채 금리는 하락했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전반, 성장주, 금융",
+      "market_impact": "중립",
+      "related_sector": "반도체, IT 가전, 채권",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준의 공격적인 금리 인상은 주식 시장 전반에 하방 압력을 가하고, 국내 금리 및 환율에도 영향을 미칠 수 있어 주의가 필요합니다.",
-      "key_signal": "연준의 실제 스탠스 변화와 함께 다른 주요 기관들의 금리 전망 변화를 지속적으로 모니터링해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "반도체 업황 개선과 미국 금리 인하 기대감이 국내 증시에 긍정적 영향을 미칠 수 있어 중요합니다.",
+      "key_signal": "마이크론 실적을 통한 반도체 업황 지속성 여부와 금리 인하 기대감 변화를 동시에 확인해야 합니다.",
       "keywords": [
-        "연준",
-        "금리인상",
-        "뱅크오브아메리카",
-        "고금리",
-        "시장전망"
+        "마이크론",
+        "반도체",
+        "애플",
+        "인플레이션",
+        "국채 금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTlHTndKMmFvMk9sRlBWTWU5STczZjR1Y0tfUVhIal9mZjNsVWlqbzgtSTB6bndMckU0cTMtNzRXUHI3Wk1lcWJ4eGZiVkRVOW1WRG1nYVFOM05nWGhhUFUwd2VPbDItaURUdGt0MEN5NldnLWZMVUZxSExwTHdtNFZn?oc=5",
-      "published": "2026-06-25 02:45",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNS12NU1zRFVma1ZlSTlqejZqbFpERi1ldHExdnpmaVlNaHN0MDdnQmlJZlJEZ294VERsZ211b0phYmFNRHNaSk1kMURfelVzUUx4YzVZVUJ2NE9TNkRrb2hjcnZSUjhkU1BLYTQ2bmNybTRXSUFkNmNrbDFQTmpNNXRJdVNOZDdqS1UxRGtmUGVDX2NlSzlVWGh2VjNKRW1JaEQ5ZzdHQ294SlNsTF9RNUphS0xpc2Q1UUc3OTB6ZnpWX3U3MWFEUVc5RWVvSlRGbnI1NFdZYzVMRXRYNEdSUG8xVkw4b1pIdUxJU0hSS1AtRlg4cXcwbW5hWlphV19yZm1HUzhR?oc=5",
+      "published": "2026-06-25 22:04",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,126 +108,125 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "김용범 장관 ‘닥공’ 시사…李 대통령, 부동산 끝장토론에 ‘맘카페’까지 소집",
-      "display_title": "김용범 장관 ‘닥공’ 시사…李 대통령, 부동산 끝장토론에 ‘맘카페’까지 소집",
-      "original_title": "‘닥공’ 밝힌 김용범…李 대통령, 부동산 끝장토론 ‘맘카페’까지 부른다 - 서울경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "이란 전쟁, 글로벌 경제에 영향 미치기 시작... 기업 설문조사 결과",
+      "display_title": "이란 전쟁, 글로벌 경제에 영향 미치기 시작... 기업 설문조사 결과",
+      "original_title": "Iran war starts to hit global economy, business surveys show - DD News",
       "summary": [
-        "김용범 장관이 부동산 시장에 대한 강력한 대응 방침을 시사했으며, 대통령은 시민 참여형 끝장토론을 통해 해법을 모색합니다.",
-        "이는 정부가 현재 부동산 시장의 불안정성을 심각하게 인식하고 있으며, 다각적인 대책을 마련하려는 의지를 보여줍니다.",
-        "새로운 정책 방향과 규제 강화 가능성을 주시하며, 건설 및 부동산 관련 기업들의 실적 변화에 유의해야 합니다."
+        "최근 기업 설문조사에서 이란 전쟁의 여파가 글로벌 경제에 점차 확산되고 있음이 확인되었습니다.",
+        "중동 지역의 지정학적 불안정은 에너지 가격 변동성 확대 및 공급망 교란을 야기할 수 있습니다.",
+        "투자자들은 전쟁 장기화에 따른 국제 유가 및 원자재 가격 상승, 인플레이션 압력 가중 가능성을 예의주시해야 합니다."
       ],
-      "summary_text": "김용범 장관이 부동산 시장에 대한 강력한 대응 방침을 시사했으며, 대통령은 시민 참여형 끝장토론을 통해 해법을 모색합니다. 이는 정부가 현재 부동산 시장의 불안정성을 심각하게 인식하고 있으며, 다각적인 대책을 마련하려는 의지를 보여줍니다. 새로운 정책 방향과 규제 강화 가능성을 주시하며, 건설 및 부동산 관련 기업들의 실적 변화에 유의해야 합니다.",
-      "description": "김용범 장관이 강력한 부동산 정책(‘닥공’ - 닥치고 공격)을 시사했으며, 이 대통령은 부동산 문제 해결을 위한 끝장토론에 일반 시민(맘카페)까지 참여시켜 여론 수렴에 나설 예정입니다.",
-      "category": "부동산·정책",
+      "summary_text": "최근 기업 설문조사에서 이란 전쟁의 여파가 글로벌 경제에 점차 확산되고 있음이 확인되었습니다. 중동 지역의 지정학적 불안정은 에너지 가격 변동성 확대 및 공급망 교란을 야기할 수 있습니다. 투자자들은 전쟁 장기화에 따른 국제 유가 및 원자재 가격 상승, 인플레이션 압력 가중 가능성을 예의주시해야 합니다.",
+      "description": "기업 설문조사 결과에 따르면, 이란 전쟁이 글로벌 경제에 부정적인 영향을 미치기 시작하고 있는 것으로 나타났습니다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "건설, 부동산, 금융",
+      "market_impact": "부정",
+      "related_sector": "에너지, 원자재, 해운",
       "related_stocks": [
-        "현대건설",
-        "GS건설",
-        "삼성물산"
+        "흥아해운",
+        "대한해운",
+        "S-Oil"
       ],
       "investment_view": "주의",
-      "investment_reason": "정부의 강력한 부동산 정책은 시장에 큰 변동성을 가져올 수 있으며, 이는 관련 기업들의 사업 환경과 수익성에 직접적인 영향을 미치기 때문입니다.",
-      "key_signal": "정부의 부동산 끝장토론에서 구체적으로 어떤 정책 방향과 대책이 발표되는지 면밀히 파악해야 합니다.",
+      "investment_reason": "지정학적 리스크 증가는 글로벌 경기 둔화와 인플레이션 압력을 가중시켜 시장 전반에 부정적인 영향을 줄 수 있습니다.",
+      "key_signal": "이란 전쟁의 확전 여부, 국제 유가 및 원자재 가격 변화, 주요 기업들의 공급망 차질 현황을 면밀히 모니터링해야 합니다.",
       "keywords": [
-        "부동산정책",
-        "정부대책",
-        "부동산시장",
-        "규제",
-        "건설주"
+        "이란 전쟁",
+        "지정학적 리스크",
+        "글로벌 경제",
+        "에너지 가격",
+        "공급망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlTS1CTGNrY0FXSU5jMllnY2JZTjFVV0EyV2pmQWt3aVdwSmRZTTYxUnBNQy16V0VwbTVlZUhoQmdpR0RCSVF4cXhjU1dFZ21UWFHSAVNBVV95cUxQci1oWDROYUpNVWlvMUFjSkg5cTVmU3kzSXhGb1BOTC1EMTEtRFVPSmJCUTVyM3p4QWdsWTlyU3k5UzJPMk1TMzQ2YVUxYVZHV3VXYw?oc=5",
-      "published": "2026-06-25 06:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9DUWFpZGFtZU9ibW1rZTJ4cmhOaS15Sl9YbjNzczNoa1IwLXVVTkxaQWlnRy1NcE5FYWI3R2NGR2FxeHFxc0FxX0JlendiMEdXR3RDOWpaV3JlRl80TUtJdi1jalpOT0RjX0dqU0t5QkdrX1dLX2dUOFN0al9TNUxVa3ltdEtpTE1KRWtR?oc=5",
+      "published": "2026-06-26 04:03",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]",
-      "display_title": "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]",
-      "original_title": "고환율, 메가 트렌드?…산업 지도가 바뀐다 [스페셜리포트] - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "TSMC (대만 반도체 제조 회사)의 강력한 실적, AI 투자 주기에서의 핵심 역할 입증",
+      "display_title": "TSMC (대만 반도체 제조 회사)의 강력한 실적, AI 투자 주기에서의 핵심 역할 입증",
+      "original_title": "Strong Earnings Demonstrate Taiwan Semiconductor Manufacturing Company Limited’s (TSM) Key Role in The AI-Capex Cycle - Yahoo Finance",
       "summary": [
-        "현재의 고환율이 일시적 현상이 아닌 장기적인 메가 트렌드로 자리 잡을 수 있다는 분석이 나왔습니다.",
-        "고환율 장기화는 국내 산업 전반의 경쟁 환경과 기업들의 실적에 근본적인 변화를 가져올 수 있습니다.",
-        "수출 주도형 산업은 수혜를 입을 수 있지만, 원자재 수입 의존도가 높은 산업이나 내수 기업은 부정적인 영향을 받을 수 있으므로 이에 대한 대비가 필요합니다."
+        "TSMC가 견조한 실적을 발표하며 AI 관련 시설 투자(Capex) 사이클에서 중요한 역할을 수행하고 있음을 재확인했습니다.",
+        "이는 고성능 AI 칩 수요 증가가 파운드리 시장 성장을 견인하고 있음을 시사합니다.",
+        "TSMC 실적은 국내 파운드리 및 AI 반도체 관련 기업들의 잠재력과 투자 심리에 긍정적 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "현재의 고환율이 일시적 현상이 아닌 장기적인 메가 트렌드로 자리 잡을 수 있다는 분석이 나왔습니다. 고환율 장기화는 국내 산업 전반의 경쟁 환경과 기업들의 실적에 근본적인 변화를 가져올 수 있습니다. 수출 주도형 산업은 수혜를 입을 수 있지만, 원자재 수입 의존도가 높은 산업이나 내수 기업은 부정적인 영향을 받을 수 있으므로 이에 대한 대비가 필요합니다.",
-      "description": "고환율이 일시적인 현상을 넘어 장기적인 메가 트렌드가 될 가능성을 분석하며, 이에 따라 한국 산업 전반의 지형 변화를 예측하는 특별 보고서입니다.",
-      "category": "국내 거시경제",
+      "summary_text": "TSMC가 견조한 실적을 발표하며 AI 관련 시설 투자(Capex) 사이클에서 중요한 역할을 수행하고 있음을 재확인했습니다. 이는 고성능 AI 칩 수요 증가가 파운드리 시장 성장을 견인하고 있음을 시사합니다. TSMC 실적은 국내 파운드리 및 AI 반도체 관련 기업들의 잠재력과 투자 심리에 긍정적 영향을 미칠 수 있습니다.",
+      "description": "TSMC(대만 반도체 제조 회사)의 견조한 실적은 인공지능(AI) 관련 시설 투자(Capex) 사이클에서 TSMC가 핵심적인 역할을 하고 있음을 보여줍니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "수출주, 반도체, 자동차, 조선, 화학, 항공, 정유, 유통",
+      "market_impact": "긍정",
+      "related_sector": "반도체, 파운드리, AI 반도체",
       "related_stocks": [
         "삼성전자",
-        "현대차",
-        "HMM"
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "고환율이 장기화될 경우 국내 산업 전반의 지형을 변화시키고 기업들의 명암을 가를 수 있어, 수혜 및 피해 산업군을 면밀히 분석해야 합니다.",
-      "key_signal": "고환율의 지속 여부와 정부의 대응책, 그리고 각 산업별 기업들의 환율 헤징 전략 및 실적 변화를 면밀히 관찰해야 합니다.",
+      "investment_reason": "TSMC의 실적은 글로벌 AI 반도체 시장의 성장세를 가늠하는 중요한 지표이며 국내 관련 기업들에게도 영향을 줍니다.",
+      "key_signal": "TSMC의 향후 투자 계획과 AI 칩 생산량 변화가 국내 파운드리 및 후공정 기업들에 미칠 영향을 주시해야 합니다.",
       "keywords": [
-        "고환율",
-        "메가트렌드",
-        "산업변화",
-        "수출주",
-        "수입물가"
+        "TSMC",
+        "AI 반도체",
+        "파운드리",
+        "실적",
+        "시설 투자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhVE9NeG5Gb1VPakZnd0VuZXNmTzZ1X1hPOXA2RTFzaVQxNlRrT2JFcnE5ZkZJWUYtcEJSUDcxaG80OEwzRGJMMS1xVkxpMWJNN2M0?oc=5",
-      "published": "2026-06-24 21:01",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnQwN0NKOGJxekViS1BVclpTQWFHMGJlejc4LVJHeTVTMEhBOGVydUR0dFhsYTFEeTVYTm1VREVNY3RWM0ZENVJCdi1MckE1QktUWklEaE94T2tGcWptOTVVRVhwM1pScnowNWxCXzYtV2x6ZEtjSkdNLUIydzBZSS16SXViTTd3cE8yRGpqMjV2M0VCdGJHQkREQ0cxWVpyTmU4REtkVlJiVmpuRG04d3V3TQ?oc=5",
+      "published": "2026-06-26 01:55",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 증시 혼조세 마감, 거대 기술기업의 추가 하락이 부담으로 작용",
-      "display_title": "미국 증시 혼조세 마감, 거대 기술기업의 추가 하락이 부담으로 작용",
-      "original_title": "U.S. stocks end mixed, weighed down by more losses for tech giants - BNN Bloomberg",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "구두개입도 통하지 않는 고환율 지속…변동성 완화에 총력",
+      "display_title": "구두개입도 통하지 않는 고환율 지속…변동성 완화에 총력",
+      "original_title": "구두개입 전혀 안먹히는 고환율…변동성 완화 방어 총력 - v.daum.net",
       "summary": [
-        "미국 증시가 혼조세를 보였으며, 특히 대형 기술주들의 추가적인 하락이 시장 전반에 부담을 주었습니다.",
-        "이는 금리 인상 우려, AI 관련 과열 논란 등 여러 요인이 복합적으로 작용한 결과로 해석됩니다.",
-        "기술주 하락세가 국내 증시 기술주에도 부정적인 영향을 미칠 수 있으므로 관련 종목 투자에 주의가 필요합니다."
+        "외환 당국의 구두 개입에도 불구하고 원/달러 환율이 고공행진을 지속하며 변동성이 확대되고 있습니다.",
+        "이는 글로벌 달러 강세와 국내외 경제 상황의 복합적인 요인이 작용한 결과로 분석됩니다.",
+        "고환율은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 및 외국인 투자 심리 위축 등 시장 전반에 부정적 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "미국 증시가 혼조세를 보였으며, 특히 대형 기술주들의 추가적인 하락이 시장 전반에 부담을 주었습니다. 이는 금리 인상 우려, AI 관련 과열 논란 등 여러 요인이 복합적으로 작용한 결과로 해석됩니다. 기술주 하락세가 국내 증시 기술주에도 부정적인 영향을 미칠 수 있으므로 관련 종목 투자에 주의가 필요합니다.",
-      "description": "미국 증시가 혼조세로 마감한 가운데, 주요 기술 기업들의 주가가 추가 하락하여 시장에 부담을 주었습니다.",
+      "summary_text": "외환 당국의 구두 개입에도 불구하고 원/달러 환율이 고공행진을 지속하며 변동성이 확대되고 있습니다. 이는 글로벌 달러 강세와 국내외 경제 상황의 복합적인 요인이 작용한 결과로 분석됩니다. 고환율은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 및 외국인 투자 심리 위축 등 시장 전반에 부정적 영향을 미칠 수 있습니다.",
+      "description": "외환 당국의 구두 개입에도 불구하고 고환율 기조가 이어지고 있으며, 당국은 환율 변동성 완화를 위해 총력을 기울이고 있습니다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "기술주, IT하드웨어, 소프트웨어",
+      "related_sector": "환율 민감 업종",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "대한항공",
+        "한국전력",
+        "현대차"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 대형 기술주의 하락은 국내 기술주 및 성장주 투자 심리에 직접적인 부정적 영향을 줄 수 있기 때문입니다.",
-      "key_signal": "미국 기술주의 추가 하락 여부와 금리 인상 관련 Fed의 스탠스를 확인해야 합니다.",
+      "investment_reason": "고환율 지속은 국내 증시의 외국인 자금 이탈을 가속화하고 수입 물가를 상승시켜 전반적인 투자 심리에 부정적입니다.",
+      "key_signal": "외환 당국의 추가적인 시장 개입 여부와 글로벌 달러 인덱스 및 주요국 통화 정책 변화를 예의주시해야 합니다.",
       "keywords": [
-        "미국증시",
-        "기술주",
-        "혼조세",
-        "금리인상",
-        "하락"
+        "고환율",
+        "환율 변동성",
+        "구두 개입",
+        "달러 강세",
+        "외환 시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmxIUGpjLV9jbGtmY0ZUTUh3YzdXbHAyRWR6bjhmNGhwOU9PbTY3ZDNXVWRCQnotNnJRWWNsYmtxSFJUdUtpRnRnMzhuam1tQksyZExPTnp5clZ4eDRoa2RaMGRRMjNickk2R0VyY3NmLVViYXNXWVhqVWlsRFlpMDdxV1NWN2lYSEg1TXQ5WjRsY21LQVlaRjJ2a3pFOXhKQ0QtYVItWHNSMW5QSkZkREF0NVJIei1ydUE?oc=5",
-      "published": "2026-06-25 05:36",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fUEQtN2ozZUpSUGs1bjlIcllwNW9mbmk4dDZRYzR1TFdMQjNWLS0yYTloR1RnTHZUQlpFNW1Hc252MERTTXZaRUs4Z0pXZUE?oc=5",
+      "published": "2026-06-26 06:03",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -238,36 +236,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우존스, 마이크론 실적 발표 앞두고 빅테크 안정화에 강세",
-      "display_title": "다우존스, 마이크론 실적 발표 앞두고 빅테크 안정화에 강세",
-      "original_title": "Dow powers ahead as big tech stabilizes ahead of Micron earnings - Proactive financial news",
+      "title": "미국 증시 혼조세: MAG7 하락, 마이크론 실적 발표 후 15% 급등했으나 메모리 부족으로 애플 등 전자기기 원가 압박",
+      "display_title": "미국 증시 혼조세: MAG7 하락, 마이크론 실적 발표 후 15% 급등했으나 메모리 부족으로 애플 등 전자기기 원가 압박",
+      "original_title": "US Stocks Close: Three Major Indexes Diverge, MAG7 Fall Across the Board; Micron Rises 15% Post-Earnings, But Memory Shortage Brings Cost Pressure to Consumer Electronics Like Apple - TradingKey",
       "summary": [
-        "다우존스 지수가 빅테크 주식의 안정화에 힘입어 상승세를 보였습니다.",
-        "이는 주요 반도체 기업인 마이크론의 실적 발표를 앞두고 투자자들의 기대감이 반영된 것으로 보입니다.",
-        "반도체 실적에 따라 기술주 전반의 방향성이 결정될 수 있으므로 관련 동향을 주시해야 합니다."
+        "미국 증시가 혼조세를 보인 가운데, 마이크론은 호실적에 힘입어 주가가 15% 급등했습니다.",
+        "메모리 반도체 공급 부족 현상이 심화되면서, 애플 등 주요 IT 기업들은 생산 비용 상승 압력에 직면하고 있습니다.",
+        "반도체 업황 회복 기대감과 함께, 전방 산업 기업들의 수익성 악화 가능성을 주시해야 합니다."
       ],
-      "summary_text": "다우존스 지수가 빅테크 주식의 안정화에 힘입어 상승세를 보였습니다. 이는 주요 반도체 기업인 마이크론의 실적 발표를 앞두고 투자자들의 기대감이 반영된 것으로 보입니다. 반도체 실적에 따라 기술주 전반의 방향성이 결정될 수 있으므로 관련 동향을 주시해야 합니다.",
-      "description": "다우존스 지수가 빅테크 기업들의 안정화 흐름을 보이며 강세를 나타냈으며, 이는 마이크론의 실적 발표를 앞두고 관찰되는 현상입니다.",
+      "summary_text": "미국 증시가 혼조세를 보인 가운데, 마이크론은 호실적에 힘입어 주가가 15% 급등했습니다. 메모리 반도체 공급 부족 현상이 심화되면서, 애플 등 주요 IT 기업들은 생산 비용 상승 압력에 직면하고 있습니다. 반도체 업황 회복 기대감과 함께, 전방 산업 기업들의 수익성 악화 가능성을 주시해야 합니다.",
+      "description": "미국 증시 3대 지수가 엇갈린 흐름을 보였고, MAG7(빅테크 7개 종목)은 전반적으로 하락했습니다. 마이크론은 실적 발표 후 15% 상승했지만, 메모리 부족 현상으로 애플과 같은 가전제품 기업들은 원가 압박을 받을 것으로 예상됩니다.",
       "category": "기업·산업",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 기술주",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "반도체, IT 가전",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "글로벌 빅테크 및 반도체 업종의 동향은 국내 증시, 특히 대형 기술주에 직접적인 영향을 미치기 때문입니다.",
-      "key_signal": "마이크론 실적 발표 내용과 이후 글로벌 기술주 및 반도체주의 흐름을 주목해야 합니다.",
+      "investment_reason": "메모리 반도체 업황 개선 기대감과 함께 전방 산업에 미칠 파급 효과를 파악해야 합니다.",
+      "key_signal": "마이크론 실적을 통해 국내 반도체 기업들의 향후 실적 개선 여부와 메모리 가격 동향을 주시해야 합니다.",
       "keywords": [
-        "다우존스",
-        "빅테크",
         "마이크론",
         "반도체",
-        "실적발표"
+        "메모리 부족",
+        "애플",
+        "원가 압박"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHowNzF1dVZiNVhZN2JmQVE4M3dFcW1QSFVPM1BOaGM3MENtWjhjY2k0bXk1ZnY1ZXpCY1hGT05PX2ZIbU44d09vRDktbzM2dGdNaWd4Zl9xVmQ3NDQzRlR1Zi1yTDN6N2l1ZWp0Vjg3VGZIZ0dWcXowVXY1bTlkbnR0TzVqckRsVWhpZ2lqZkxrMVhLdGhPdDZFTEFnbTlUb1VrRzNOa0FpbDJxRUF4N2dtelQtdlJnYmJxTFFKb1hQNWJ3Ty15aTY5Z0FaOTE3U0prenNQYkw?oc=5",
-      "published": "2026-06-25 04:42",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQS1FMWtIQ1h0NUFBMlB2TTNCalF1UTFmWDlXc2tCd3NlRGh6RlJDLXczakdFWVphVWZLYUNuYTdQN292T3UtY2JVUG5TOHo4M3Bldk1oUUktcWwwZ0xFZmhmcWEwck0xSnZPelFLTnMwdFM5YmhfM3VvWGtUWHZMdG9JalRRNE1Ka2hXN2trajJ6OWdRWFl6WUlWdDlYd3drYi1McXltUUlaVGJuUXBDeGNxR1JyaWNEV2Y1dFdZRGZqT2QyekdFVnFtMTdod0cxZm9yV1BUdmpxT3p0VlplbWZiem1QSG9pbThYNUtxazYtbFF2?oc=5",
+      "published": "2026-06-26 05:25",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -282,16 +280,16 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 빅테크 및 반도체 업황 안정화 기대감이 있는 가운데, 고환율 장기화 시 수출 기업으로서의 잠재적 수혜 가능성과 외국인 매도세 및 미국 증시 기술주 하락의 부담이 공존하여 면밀한 관찰이 필요합니다.",
+      "reason": "삼성의 향후 10년간 1000조원 투자 계획에 반도체, AI 등 핵심 분야가 포함되어 있으며, 마이크론의 긍정적 실적 발표로 인한 메모리 반도체 업황 개선 기대감이 복합적으로 작용할 것으로 예상됩니다.",
       "check_points": [
-        "글로벌 반도체 업황 및 마이크론 등 주요 기업 실적 발표 동향",
-        "외국인 투자자 매매 동향 및 원/달러 환율 변동성",
-        "미국 증시 내 주요 기술 기업 주가 흐름"
+        "삼성그룹의 실제 투자 집행 속도 및 세부 전략",
+        "글로벌 AI 반도체 및 파운드리 시장의 경쟁 구도 변화",
+        "메모리 반도체 수요 회복 및 가격 동향"
       ],
       "related_news_titles": [
-        "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
-        "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]",
-        "미국 증시 혼조세 마감, 거대 기술기업의 추가 하락이 부담으로 작용"
+        "[단독] 삼성, 향후 10년간 1000조원 투자 계획",
+        "오늘 증시 혼조세: 마이크론 실적에 메모리 반도체 강세, 애플 주가 하락; 5월 인플레이션 보고서에 국채 금리 하락",
+        "TSMC (대만 반도체 제조 회사)의 강력한 실적, AI 투자 주기에서의 핵심 역할 입증"
       ]
     },
     {
@@ -300,49 +298,48 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 반도체 업종의 동향과 빅테크 안정화 기대감이 긍정적이나, 고환율로 인한 외국인 투자자 이탈 우려와 미국 기술주 하락의 부정적 영향 또한 주의 깊게 살펴봐야 합니다.",
+      "reason": "마이크론의 강력한 실적 발표로 인한 메모리 반도체 업황 개선 기대감이 더욱 고조되고 있으며, AI 시대의 핵심 부품인 고대역폭 메모리(HBM) 시장에서의 선두 위치가 부각되고 있습니다.",
       "check_points": [
-        "글로벌 D램/낸드 가격 추이 및 반도체 수급 동향",
-        "외국인 투자자 매매 동향 및 원/달러 환율 변동성",
-        "미국 증시 기술주, 특히 반도체 관련주 흐름"
+        "메모리 반도체 수요 및 공급의 균형 변화",
+        "고대역폭 메모리(HBM) 시장 내 경쟁 우위 유지 여부",
+        "글로벌 AI 서버 투자 확대에 따른 수혜 정도"
       ],
       "related_news_titles": [
-        "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
-        "미국 증시 혼조세 마감, 거대 기술기업의 추가 하락이 부담으로 작용",
-        "다우존스, 마이크론 실적 발표 앞두고 빅테크 안정화에 강세"
+        "오늘 증시 혼조세: 마이크론 실적에 메모리 반도체 강세, 애플 주가 하락; 5월 인플레이션 보고서에 국채 금리 하락",
+        "TSMC (대만 반도체 제조 회사)의 강력한 실적, AI 투자 주기에서의 핵심 역할 입증",
+        "미국 증시 혼조세: MAG7 하락, 마이크론 실적 발표 후 15% 급등했으나 메모리 부족으로 애플 등 전자기기 원가 압박"
       ]
     },
     {
       "rank": 3,
-      "name": "현대차",
+      "name": "삼성바이오로직스",
       "market": "KOSPI",
-      "sector": "자동차",
-      "opinion": "중립",
-      "reason": "급격한 고환율은 단기적으로 외국인 투자자 이탈을 심화시킬 수 있으나, 고환율이 장기화될 경우 수출 기업으로서의 환차익 등 수혜 가능성도 있어 동향을 주시할 필요가 있습니다.",
+      "sector": "바이오",
+      "opinion": "관심",
+      "reason": "삼성그룹이 향후 10년간 1000조원 투자 계획을 발표하면서 바이오 분야를 핵심 성장 동력으로 명시해, 그룹 차원의 전폭적인 지원과 중장기적인 성장에 대한 기대감이 높아지고 있습니다.",
       "check_points": [
-        "원/달러 환율 변동성 및 수출 실적 추이",
-        "해외 시장 판매 동향 및 경쟁 환경",
-        "외국인 투자자 매매 동향"
+        "삼성그룹 투자 계획 중 바이오 분야의 구체적인 투자 규모 및 세부 전략",
+        "글로벌 CDMO(위탁개발생산) 시장의 경쟁 환경 및 수요 변화",
+        "신규 CMO/CDO 계약 수주 현황 및 공장 가동률"
       ],
       "related_news_titles": [
-        "'달러 강세·외인 4조 매도' 원/달러 환율 1,540원대로 마감…금융위기 이후 17년 만에 처음",
-        "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]"
+        "[단독] 삼성, 향후 10년간 1000조원 투자 계획"
       ]
     },
     {
       "rank": 4,
-      "name": "HMM",
+      "name": "삼성SDI",
       "market": "KOSPI",
-      "sector": "운수창고",
+      "sector": "배터리",
       "opinion": "관심",
-      "reason": "고환율이 장기화될 경우 수출 기업의 원화 기준 매출 증대 등 긍정적 영향을 기대할 수 있는 대표적인 수출 관련주로서 동향을 면밀히 관찰할 필요가 있습니다.",
+      "reason": "삼성그룹의 대규모 투자 계획에 배터리 산업이 포함되어 있어, 전기차 및 배터리 시장의 중장기적인 성장과 함께 그룹 차원의 투자를 통한 시장 경쟁력 강화가 기대됩니다.",
       "check_points": [
-        "원/달러 환율 추이 및 글로벌 해운 운임 지수",
-        "주요 항로 물동량 및 글로벌 경기 동향",
-        "경쟁사의 실적 및 시장 점유율 변화"
+        "삼성그룹 투자 계획 중 배터리 분야의 구체적인 투자 내용 및 규모",
+        "글로벌 전기차 시장의 성장세 및 배터리 수요 변화",
+        "차세대 배터리 기술 개발 및 상용화 진행 상황"
       ],
       "related_news_titles": [
-        "고환율, 메가 트렌드 되나?…산업 지도가 바뀐다 [스페셜리포트]"
+        "[단독] 삼성, 향후 10년간 1000조원 투자 계획"
       ]
     }
   ],
