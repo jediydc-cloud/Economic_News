@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26 08:18",
-  "analysis_date": "2026-06-26",
+  "generated_at": "2026-06-27 08:06",
+  "analysis_date": "2026-06-27",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,52 +13,93 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 지정학적 위험과 인플레이션 우려 속에서도 국내 삼성의 대규모 투자 발표와 반도체 업종의 견조한 흐름이 주목됩니다.",
-    "국내거시경제": "외환 당국의 노력에도 원/달러 환율의 고공행진이 지속되며 국내 경제 전반에 부담을 주고 있습니다.",
-    "글로벌경제": "이란 전쟁의 여파가 글로벌 경제에 확산되며 에너지 가격 변동성 확대 및 공급망 교란 우려가 커지고 있습니다.",
-    "증시금리": "미국 증시는 반도체 강세와 일부 대형 기술주 약세로 혼조세를 보였고, 국채 금리 하락은 금리 인하 기대감을 반영했습니다. 국내는 고환율 지속으로 변동성 완화 노력이 필요합니다.",
+    "총평": "미국 증시는 AI 밸류에이션 우려와 지정학적 리스크의 급변으로 변동성을 보였다. 국내는 삼성의 대규모 반도체 투자와 AI 신규 수혜주 발굴 기회가 있는 반면, 특정 섹터의 약세 흐름이 감지된다.",
+    "국내거시경제": "국내 거시경제에 직접적인 뉴스는 부재하지만, 2차전지 및 코스닥 시장의 약세는 단기 투자 심리에 부정적 영향을 미칠 수 있다.",
+    "글로벌경제": "AI 관련 기술주의 밸류에이션 부담이 확산되며 미국 나스닥 등 기술주 중심의 조정이 나타났다. 한편, 미국-이란 간 지정학적 긴장이 고조와 완화를 반복하며 국제 유가 및 공급망 안정성에 대한 기대와 우려가 교차했다.",
+    "증시금리": "미국 증시는 AI 밸류에이션 우려로 반도체 지수가 5% 급락하며 나스닥 하락을 이끌었다. 중동 지정학적 리스크 변동에 따라 다우, S&P 500, 나스닥 선물도 등락을 거듭하며 시장 변동성이 확대되었다. 금과 은은 상승했다.",
     "부동산정책": "해당 없음",
-    "기업산업": "삼성의 1000조원 투자 계획은 국내 산업 생태계에 긍정적 신호이며, TSMC와 마이크론의 실적 호조로 AI 및 반도체 산업의 성장세가 재확인되었습니다. 다만, 메모리 부족은 IT 기업 원가 압박 요인입니다.",
-    "오늘의투자시사점": "반도체 및 AI 관련 산업의 성장 모멘텀은 지속되겠으나, 지정학적 리스크와 고환율 등 거시경제 불확실성에 대비한 포트폴리오 관리가 중요합니다.",
-    "오늘의한줄": "삼성 투자와 AI 반도체 강세 속 지정학적 위험 및 고환율에 대한 지속적인 관찰이 필요합니다."
+    "기업산업": "국내에서는 삼성전자가 한국 반도체 산업에 1조원 투자를 발표하며 생태계 강화에 나섰다. 증권가는 반도체 외 AI 다음 수혜주로 소프트웨어, 서비스, 전력 인프라 관련 기업들을 제시하며 포트폴리오 다각화 기회를 제공했다. 한편, 2차전지 및 코스닥 인버스 ETF가 강세를 보이며 해당 섹터의 약세를 시사했다.",
+    "오늘의투자시사점": "AI 관련 포트폴리오 다각화 기회에 주목하되, AI 밸류에이션 부담과 지정학적 리스크 변동성에는 주의해야 한다. 국내 반도체 산업의 장기적 성장 동력은 긍정적이나, 2차전지 및 코스닥 시장의 단기 약세 가능성에 대한 신중한 접근이 필요하다.",
+    "오늘의한줄": "AI 밸류에이션 우려와 지정학적 변동성 속, 국내 반도체 투자와 AI 신규 수혜주 발굴에 대한 관심이 필요한 시점입니다."
   },
   "top_news": [
     {
       "rank": 1,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시 마감: AI 밸류에이션 우려 심화로 나스닥 하락, 반도체 지수 5% 급락; 금과 은 상승",
+      "display_title": "미국 증시 마감: AI 밸류에이션 우려 심화로 나스닥 하락, 반도체 지수 5% 급락; 금과 은 상승",
+      "original_title": "U.S. Markets Close | Concerns over AI valuations intensify, dragging down the Nasdaq as chip stocks decline; semiconductor index plunges 5%. Popular Chinese ADRs rise against the trend, with NetEase up over 7%. Gold and silver advance, while crude oil - 富途牛牛",
+      "summary": [
+        "미국 증시에서 AI 밸류에이션 우려가 심화되며 반도체 지수가 5% 급락하고 나스닥이 하락 마감했다.",
+        "AI 관련 주식들의 과열된 밸류에이션에 대한 부담이 확산되며 차익 실현 매물이 출회된 것으로 보인다.",
+        "국내 반도체 관련주 투자 심리에 부정적인 영향을 미칠 수 있으므로 주의 깊게 관찰해야 한다."
+      ],
+      "summary_text": "미국 증시에서 AI 밸류에이션 우려가 심화되며 반도체 지수가 5% 급락하고 나스닥이 하락 마감했다. AI 관련 주식들의 과열된 밸류에이션에 대한 부담이 확산되며 차익 실현 매물이 출회된 것으로 보인다. 국내 반도체 관련주 투자 심리에 부정적인 영향을 미칠 수 있으므로 주의 깊게 관찰해야 한다.",
+      "description": "AI 밸류에이션에 대한 우려가 커지면서 나스닥 지수가 하락하고 반도체 주식들이 급락, 반도체 지수는 5% 떨어졌다. 인기 중국 ADR들은 역으로 상승세를 보였고, 금과 은은 강세를 보였다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "반도체, IT하드웨어, 인공지능",
+      "related_stocks": [
+        "엔비디아",
+        "AMD",
+        "삼성전자"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "AI 밸류에이션 우려와 반도체 주식 하락은 국내 반도체 기업들의 주가에도 하방 압력으로 작용할 수 있기 때문이다.",
+      "key_signal": "미국 AI 관련 기술주의 추가 하락 여부와 국내 반도체 기업들의 수급 동향을 체크해야 한다.",
+      "keywords": [
+        "AI 밸류에이션",
+        "반도체",
+        "나스닥",
+        "미국 증시",
+        "금"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU29KS2lqSE5nZEE5dTF5LXBwMnREWVh5b2J6ZGxXY2V1OXdMVUdYUlJiUVc2UVU1LW9rQWJiRkVMWl9HZnZKdWVXSndMOHVpVHVrODJRNXRrY2xyQ1NnU3puZUYyTHJURklZLWJLckxfWHJwdXlmSUVSZWFRWDBGcDIwRExrRHMtaUNaRnVUOWlTZ3pJXy1YcTE5Sk1GZ0ZGcG9PdXppM0JZYkdkSUE?oc=5",
+      "published": "2026-06-27 07:48",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 2,
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[단독] 삼성, 향후 10년간 1000조원 투자 계획",
-      "display_title": "[단독] 삼성, 향후 10년간 1000조원 투자 계획",
-      "original_title": "[단독] 삼성, 10년간 1000조 투자 - 매일경제",
+      "title": "반도체만이 아니다…증권가가 꼽은 'AI 다음 수혜주' 10개",
+      "display_title": "반도체만이 아니다…증권가가 꼽은 'AI 다음 수혜주' 10개",
+      "original_title": "반도체만이 아니다…증권가가 꼽은 'AI 다음 수혜주' 10개 - 네이트",
       "summary": [
-        "삼성 그룹이 향후 10년간 1000조원이라는 막대한 규모의 투자를 단행할 것이라는 단독 보도가 나왔습니다.",
-        "이 투자는 주로 미래 성장 동력 확보를 위한 반도체, 바이오, 인공지능 등 첨단 산업 분야에 집중될 것으로 예상됩니다.",
-        "삼성의 대규모 투자는 관련 산업 생태계 전반에 긍정적인 파급 효과를 미치며 국내 증시에도 활력을 불어넣을 것입니다."
+        "증권가에서 반도체에 이어 인공지능(AI) 관련 사업 확대로 수혜를 볼 것으로 예상되는 'AI 다음 수혜주' 10개를 선정했다.",
+        "AI 기술 발전이 산업 전반으로 확산되면서 하드웨어 외 소프트웨어, 서비스, 전력 인프라 등 다양한 분야의 수혜가 기대된다.",
+        "AI 시장의 성장에 따라 포트폴리오 다각화 관점에서 새로운 성장 동력을 가진 기업들을 탐색할 기회를 제공한다."
       ],
-      "summary_text": "삼성 그룹이 향후 10년간 1000조원이라는 막대한 규모의 투자를 단행할 것이라는 단독 보도가 나왔습니다. 이 투자는 주로 미래 성장 동력 확보를 위한 반도체, 바이오, 인공지능 등 첨단 산업 분야에 집중될 것으로 예상됩니다. 삼성의 대규모 투자는 관련 산업 생태계 전반에 긍정적인 파급 효과를 미치며 국내 증시에도 활력을 불어넣을 것입니다.",
-      "description": "삼성 그룹이 향후 10년 동안 총 1000조원 규모의 대규모 투자를 단행할 계획이라는 단독 보도입니다.",
+      "summary_text": "증권가에서 반도체에 이어 인공지능(AI) 관련 사업 확대로 수혜를 볼 것으로 예상되는 'AI 다음 수혜주' 10개를 선정했다. AI 기술 발전이 산업 전반으로 확산되면서 하드웨어 외 소프트웨어, 서비스, 전력 인프라 등 다양한 분야의 수혜가 기대된다. AI 시장의 성장에 따라 포트폴리오 다각화 관점에서 새로운 성장 동력을 가진 기업들을 탐색할 기회를 제공한다.",
+      "description": "증권가에서 반도체 외에 인공지능(AI) 시대에 새롭게 주목할 'AI 다음 수혜주' 10개를 선정했다.",
       "category": "기업·산업",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "반도체, 바이오, AI, 디스플레이, 배터리",
+      "related_sector": "인공지능, 소프트웨어, 전력인프라, 로봇, 빅데이터",
       "related_stocks": [
         "삼성전자",
-        "삼성바이오로직스",
-        "삼성SDI"
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "삼성의 대규모 투자는 국내 경제 전반의 성장 동력을 강화하고 관련 산업의 가치 사슬에 긍정적 영향을 미칩니다.",
-      "key_signal": "구체적인 투자 분야 및 로드맵 발표를 통해 수혜를 입을 핵심 산업과 기업들을 파악해야 합니다.",
+      "investment_reason": "AI 기술의 확산이 반도체를 넘어 다양한 산업 분야로 수혜를 확대할 것으로 예상되므로, 미래 성장 동력을 확보한 기업들을 선제적으로 발굴할 필요가 있기 때문이다.",
+      "key_signal": "기사에서 언급된 'AI 다음 수혜주' 10개 기업의 구체적인 사업 내용과 성장성을 분석하여 투자 유망 기업을 선별해야 한다.",
       "keywords": [
-        "삼성",
-        "대규모 투자",
-        "반도체",
-        "바이오",
-        "AI"
+        "AI 수혜주",
+        "인공지능",
+        "산업 확장",
+        "투자 전략",
+        "성장 동력"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeXctMkZGV3FUNjBtaUs2b21qeVlxWEgtbUtmUEpyd2RYWHpXUW9XcHdMSE83bkZXVk5KSWlQOEtiYTdiWXM4RldOS2x3V013NWtRSGF3?oc=5",
-      "published": "2026-06-26 03:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uVXNLdmpUMFNRUjhDdUw1MEVqY1FZZ1czaDZMbTdSX2RxV3JjdXpPZDNQWmtqYVJrQUVwSkUtMmJxTTF5d1NmS3kyVDdSd2RuYkpF?oc=5",
+      "published": "2026-06-27 06:01",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -66,84 +107,43 @@
       }
     },
     {
-      "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "오늘 증시 혼조세: 마이크론 실적에 메모리 반도체 강세, 애플 주가 하락; 5월 인플레이션 보고서에 국채 금리 하락",
-      "display_title": "오늘 증시 혼조세: 마이크론 실적에 메모리 반도체 강세, 애플 주가 하락; 5월 인플레이션 보고서에 국채 금리 하락",
-      "original_title": "Stock market today: Stocks mixed as Micron earnings revive memory rally and Apple stock slumps; Treasury yields fall on May inflation report - MSN",
+      "rank": 3,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "삼성, 한국 반도체 산업 발전에 1조 원 투자 준비",
+      "display_title": "삼성, 한국 반도체 산업 발전에 1조 원 투자 준비",
+      "original_title": "삼성은 한국의 반도체 산업 발전에 1조 원을 투자할 준비가 되어 있습니다. - Vietnam.vn",
       "summary": [
-        "마이크론의 실적 호조가 메모리 반도체 관련주 상승을 이끌었으나, 애플 주가는 하락하며 시장은 혼조세를 나타냈습니다.",
-        "5월 인플레이션 보고서 발표 이후 미국 국채 금리가 하락하며 시장의 금리 인하 기대감을 반영했습니다.",
-        "반도체 업종의 강세와 더불어, 인플레이션 지표와 국채 금리 동향이 시장 전반에 미칠 영향을 파악해야 합니다."
+        "삼성이 한국 반도체 산업 발전을 위해 1조 원 규모의 투자를 단행할 예정이다.",
+        "이는 글로벌 반도체 경쟁 심화 속에서 국가적 차원의 반도체 역량 강화와 기술 초격차 유지를 위한 전략적 투자로 풀이된다.",
+        "국내 반도체 생태계 전반에 긍정적인 영향을 미치고, 장기적으로는 관련 장비 및 소재 기업들의 수혜로 이어질 수 있다."
       ],
-      "summary_text": "마이크론의 실적 호조가 메모리 반도체 관련주 상승을 이끌었으나, 애플 주가는 하락하며 시장은 혼조세를 나타냈습니다. 5월 인플레이션 보고서 발표 이후 미국 국채 금리가 하락하며 시장의 금리 인하 기대감을 반영했습니다. 반도체 업종의 강세와 더불어, 인플레이션 지표와 국채 금리 동향이 시장 전반에 미칠 영향을 파악해야 합니다.",
-      "description": "오늘 주식시장은 혼조세를 보였습니다. 마이크론의 실적 발표가 메모리 반도체 관련 주식의 강세를 이끌었고, 애플 주가는 하락했습니다. 한편, 5월 인플레이션 보고서 발표 후 국채 금리는 하락했습니다.",
-      "category": "증시·금리",
+      "summary_text": "삼성이 한국 반도체 산업 발전을 위해 1조 원 규모의 투자를 단행할 예정이다. 이는 글로벌 반도체 경쟁 심화 속에서 국가적 차원의 반도체 역량 강화와 기술 초격차 유지를 위한 전략적 투자로 풀이된다. 국내 반도체 생태계 전반에 긍정적인 영향을 미치고, 장기적으로는 관련 장비 및 소재 기업들의 수혜로 이어질 수 있다.",
+      "description": "삼성은 한국의 반도체 산업 발전을 위해 1조 원 규모의 투자를 준비하고 있다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT 가전, 채권",
+      "market_impact": "긍정",
+      "related_sector": "반도체, 반도체 장비, 반도체 소재, 파운드리",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스"
+        "SK하이닉스",
+        "원익IPS"
       ],
       "investment_view": "관심",
-      "investment_reason": "반도체 업황 개선과 미국 금리 인하 기대감이 국내 증시에 긍정적 영향을 미칠 수 있어 중요합니다.",
-      "key_signal": "마이크론 실적을 통한 반도체 업황 지속성 여부와 금리 인하 기대감 변화를 동시에 확인해야 합니다.",
+      "investment_reason": "삼성의 대규모 투자는 국내 반도체 산업의 경쟁력을 강화하고 관련 기업들의 성장을 견인할 수 있는 중요한 모멘텀이기 때문이다.",
+      "key_signal": "삼성의 투자 세부 계획과 이로 인한 국내 반도체 소재, 부품, 장비 기업들의 실질적인 수혜 여부를 파악해야 한다.",
       "keywords": [
-        "마이크론",
-        "반도체",
-        "애플",
-        "인플레이션",
-        "국채 금리"
+        "삼성",
+        "반도체 투자",
+        "국내 산업",
+        "기술 경쟁력",
+        "반도체 생태계"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNS12NU1zRFVma1ZlSTlqejZqbFpERi1ldHExdnpmaVlNaHN0MDdnQmlJZlJEZ294VERsZ211b0phYmFNRHNaSk1kMURfelVzUUx4YzVZVUJ2NE9TNkRrb2hjcnZSUjhkU1BLYTQ2bmNybTRXSUFkNmNrbDFQTmpNNXRJdVNOZDdqS1UxRGtmUGVDX2NlSzlVWGh2VjNKRW1JaEQ5ZzdHQ294SlNsTF9RNUphS0xpc2Q1UUc3OTB6ZnpWX3U3MWFEUVc5RWVvSlRGbnI1NFdZYzVMRXRYNEdSUG8xVkw4b1pIdUxJU0hSS1AtRlg4cXcwbW5hWlphV19yZm1HUzhR?oc=5",
-      "published": "2026-06-25 22:04",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3NDWktReXdvZnNIbGJyMGkxSUZFVE1hWDQyU2tQVi0xMHREU0ZtRUhUVl9kTUhmR1pmdTVzQ1pGNGhXVzVTUFhYMWlTMUNmQmFlb2MwR3lCOUpKTVR0bUN5ei0zWjhTbkR6SmZDeHNNVFRtajZ1bk1FWTRBOFA0M09SX2taUDVUUV85T1VTdkZzNTY0UExjRA?oc=5",
+      "published": "2026-06-26 21:16",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "이란 전쟁, 글로벌 경제에 영향 미치기 시작... 기업 설문조사 결과",
-      "display_title": "이란 전쟁, 글로벌 경제에 영향 미치기 시작... 기업 설문조사 결과",
-      "original_title": "Iran war starts to hit global economy, business surveys show - DD News",
-      "summary": [
-        "최근 기업 설문조사에서 이란 전쟁의 여파가 글로벌 경제에 점차 확산되고 있음이 확인되었습니다.",
-        "중동 지역의 지정학적 불안정은 에너지 가격 변동성 확대 및 공급망 교란을 야기할 수 있습니다.",
-        "투자자들은 전쟁 장기화에 따른 국제 유가 및 원자재 가격 상승, 인플레이션 압력 가중 가능성을 예의주시해야 합니다."
-      ],
-      "summary_text": "최근 기업 설문조사에서 이란 전쟁의 여파가 글로벌 경제에 점차 확산되고 있음이 확인되었습니다. 중동 지역의 지정학적 불안정은 에너지 가격 변동성 확대 및 공급망 교란을 야기할 수 있습니다. 투자자들은 전쟁 장기화에 따른 국제 유가 및 원자재 가격 상승, 인플레이션 압력 가중 가능성을 예의주시해야 합니다.",
-      "description": "기업 설문조사 결과에 따르면, 이란 전쟁이 글로벌 경제에 부정적인 영향을 미치기 시작하고 있는 것으로 나타났습니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "에너지, 원자재, 해운",
-      "related_stocks": [
-        "흥아해운",
-        "대한해운",
-        "S-Oil"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "지정학적 리스크 증가는 글로벌 경기 둔화와 인플레이션 압력을 가중시켜 시장 전반에 부정적인 영향을 줄 수 있습니다.",
-      "key_signal": "이란 전쟁의 확전 여부, 국제 유가 및 원자재 가격 변화, 주요 기업들의 공급망 차질 현황을 면밀히 모니터링해야 합니다.",
-      "keywords": [
-        "이란 전쟁",
-        "지정학적 리스크",
-        "글로벌 경제",
-        "에너지 가격",
-        "공급망"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9DUWFpZGFtZU9ibW1rZTJ4cmhOaS15Sl9YbjNzczNoa1IwLXVVTkxaQWlnRy1NcE5FYWI3R2NGR2FxeHFxc0FxX0JlendiMEdXR3RDOWpaV3JlRl80TUtJdi1jalpOT0RjX0dqU0t5QkdrX1dLX2dUOFN0al9TNUxVa3ltdEtpTE1KRWtR?oc=5",
-      "published": "2026-06-26 04:03",
-      "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -153,36 +153,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "TSMC (대만 반도체 제조 회사)의 강력한 실적, AI 투자 주기에서의 핵심 역할 입증",
-      "display_title": "TSMC (대만 반도체 제조 회사)의 강력한 실적, AI 투자 주기에서의 핵심 역할 입증",
-      "original_title": "Strong Earnings Demonstrate Taiwan Semiconductor Manufacturing Company Limited’s (TSM) Key Role in The AI-Capex Cycle - Yahoo Finance",
+      "title": "미국-이란 합의 소식에 다우, S&P 500, 나스닥 선물 상승; 연준 매파적 전망에도 불구하고",
+      "display_title": "미국-이란 합의 소식에 다우, S&P 500, 나스닥 선물 상승; 연준 매파적 전망에도 불구하고",
+      "original_title": "Dow, S&P 500, Nasdaq futures climb on US-Iran agreement despite hawkish Fed outlook: RUM, INTC, NFLX, RXT in focus - MSN",
       "summary": [
-        "TSMC가 견조한 실적을 발표하며 AI 관련 시설 투자(Capex) 사이클에서 중요한 역할을 수행하고 있음을 재확인했습니다.",
-        "이는 고성능 AI 칩 수요 증가가 파운드리 시장 성장을 견인하고 있음을 시사합니다.",
-        "TSMC 실적은 국내 파운드리 및 AI 반도체 관련 기업들의 잠재력과 투자 심리에 긍정적 영향을 미칠 수 있습니다."
+        "미국-이란 합의 소식이 전해지면서 연준의 매파적 전망에도 불구하고 미국 주요 지수 선물(다우, S&P 500, 나스닥)이 일제히 상승했다.",
+        "중동 지정학적 리스크 완화 기대감이 투자 심리를 개선시켜 금리 인상 우려를 상쇄한 것으로 풀이된다.",
+        "지정학적 리스크 완화는 유가 하락 및 공급망 안정에 기여하여 인플레이션 압력을 낮추고 증시 전반에 긍정적 요인으로 작용할 수 있다."
       ],
-      "summary_text": "TSMC가 견조한 실적을 발표하며 AI 관련 시설 투자(Capex) 사이클에서 중요한 역할을 수행하고 있음을 재확인했습니다. 이는 고성능 AI 칩 수요 증가가 파운드리 시장 성장을 견인하고 있음을 시사합니다. TSMC 실적은 국내 파운드리 및 AI 반도체 관련 기업들의 잠재력과 투자 심리에 긍정적 영향을 미칠 수 있습니다.",
-      "description": "TSMC(대만 반도체 제조 회사)의 견조한 실적은 인공지능(AI) 관련 시설 투자(Capex) 사이클에서 TSMC가 핵심적인 역할을 하고 있음을 보여줍니다.",
-      "category": "기업·산업",
-      "importance": 9,
+      "summary_text": "미국-이란 합의 소식이 전해지면서 연준의 매파적 전망에도 불구하고 미국 주요 지수 선물(다우, S&P 500, 나스닥)이 일제히 상승했다. 중동 지정학적 리스크 완화 기대감이 투자 심리를 개선시켜 금리 인상 우려를 상쇄한 것으로 풀이된다. 지정학적 리스크 완화는 유가 하락 및 공급망 안정에 기여하여 인플레이션 압력을 낮추고 증시 전반에 긍정적 요인으로 작용할 수 있다.",
+      "description": "미-이란 합의 소식에 다우, S&P 500, 나스닥 선물 지수가 상승했으며, 연방준비제도(Fed)의 매파적 전망에도 불구하고 긍정적인 반응을 보였다. RUM, INTC, NFLX, RXT 주식이 주목받았다.",
+      "category": "증시·금리",
+      "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "반도체, 파운드리, AI 반도체",
+      "related_sector": "에너지, 정유, 기술주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "S-OIL",
+        "SK이노베이션"
       ],
       "investment_view": "관심",
-      "investment_reason": "TSMC의 실적은 글로벌 AI 반도체 시장의 성장세를 가늠하는 중요한 지표이며 국내 관련 기업들에게도 영향을 줍니다.",
-      "key_signal": "TSMC의 향후 투자 계획과 AI 칩 생산량 변화가 국내 파운드리 및 후공정 기업들에 미칠 영향을 주시해야 합니다.",
+      "investment_reason": "미-이란 합의는 국제 유가 안정화와 글로벌 지정학적 긴장 완화에 기여하여 국내 기업들의 원가 부담을 줄이고 투자 심리를 개선할 수 있기 때문이다.",
+      "key_signal": "미-이란 합의의 구체적인 내용과 국제 유가 반응, 그리고 관련 지정학적 리스크의 추가적인 변화를 모니터링해야 한다.",
       "keywords": [
-        "TSMC",
-        "AI 반도체",
-        "파운드리",
-        "실적",
-        "시설 투자"
+        "미국-이란",
+        "지정학적 리스크",
+        "유가",
+        "증시 선물",
+        "연준"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnQwN0NKOGJxekViS1BVclpTQWFHMGJlejc4LVJHeTVTMEhBOGVydUR0dFhsYTFEeTVYTm1VREVNY3RWM0ZENVJCdi1MckE1QktUWklEaE94T2tGcWptOTVVRVhwM1pScnowNWxCXzYtV2x6ZEtjSkdNLUIydzBZSS16SXViTTd3cE8yRGpqMjV2M0VCdGJHQkREQ0cxWVpyTmU4REtkVlJiVmpuRG04d3V3TQ?oc=5",
-      "published": "2026-06-26 01:55",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOUTA4Umhab1RCb0J0clBkLVRDVFNIOHphb2lURmg0U0UtcWp5Z0hPc2t0Zkk0RU1WRHlFb1RUWmo1XzR5a3k4bVU1UV9GN0lVdF9ialVPUFlzYXJQQkttdTdNWEtzLXdlanZoN3VzbDZGNG1rVXFPQWRPSzNlZEx3MWNUbUg2MWJ0VVRXSkNvUFo1d1NBMWhHeDdoTWY4ZXdwS0JmQ1RnenFwVjBVX3hzQjRuMkJlYjVMRDhzN0QzVWZtNS1BSFg2SDhrdndVSmlHV1pqRUc3ZnlLOXQ3QzcyRlBOR3BPMFFCNHlCa1pIb0xvWTNRLTFYbzJtR0I0ZUtQbzN6a3haYUp6N0xKcVNGcDF3YlM?oc=5",
+      "published": "2026-06-27 03:13",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -191,83 +191,82 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "구두개입도 통하지 않는 고환율 지속…변동성 완화에 총력",
-      "display_title": "구두개입도 통하지 않는 고환율 지속…변동성 완화에 총력",
-      "original_title": "구두개입 전혀 안먹히는 고환율…변동성 완화 방어 총력 - v.daum.net",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국-이란 교전 후 다우지수 3월 이후 최악의 날 기록, S&P 500과 나스닥 상승세 중단",
+      "display_title": "미국-이란 교전 후 다우지수 3월 이후 최악의 날 기록, S&P 500과 나스닥 상승세 중단",
+      "original_title": "Dow Logs Worst Day Since March, S&P 500 And Nasdaq Snap Win Streak After US-Iran Exchange Fire — SNDK, TSLA, GOOGL, META, IREN In Focus - Stocktwits",
       "summary": [
-        "외환 당국의 구두 개입에도 불구하고 원/달러 환율이 고공행진을 지속하며 변동성이 확대되고 있습니다.",
-        "이는 글로벌 달러 강세와 국내외 경제 상황의 복합적인 요인이 작용한 결과로 분석됩니다.",
-        "고환율은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 및 외국인 투자 심리 위축 등 시장 전반에 부정적 영향을 미칠 수 있습니다."
+        "미국-이란 간 교전 소식으로 다우지수가 3월 이후 최대 낙폭을 기록했으며, S&P 500과 나스닥도 상승세가 꺾였다.",
+        "중동 지정학적 긴장이 고조되면서 투자 심리가 위축되고 안전자산 선호 심리가 확산되어 증시 전반에 부정적인 영향을 미쳤다.",
+        "지정학적 리스크는 단기적으로 증시 변동성을 확대시키지만, 이후 합의 소식이 전해지며 시장은 반등 모색 중이다."
       ],
-      "summary_text": "외환 당국의 구두 개입에도 불구하고 원/달러 환율이 고공행진을 지속하며 변동성이 확대되고 있습니다. 이는 글로벌 달러 강세와 국내외 경제 상황의 복합적인 요인이 작용한 결과로 분석됩니다. 고환율은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 및 외국인 투자 심리 위축 등 시장 전반에 부정적 영향을 미칠 수 있습니다.",
-      "description": "외환 당국의 구두 개입에도 불구하고 고환율 기조가 이어지고 있으며, 당국은 환율 변동성 완화를 위해 총력을 기울이고 있습니다.",
+      "summary_text": "미국-이란 간 교전 소식으로 다우지수가 3월 이후 최대 낙폭을 기록했으며, S&P 500과 나스닥도 상승세가 꺾였다. 중동 지정학적 긴장이 고조되면서 투자 심리가 위축되고 안전자산 선호 심리가 확산되어 증시 전반에 부정적인 영향을 미쳤다. 지정학적 리스크는 단기적으로 증시 변동성을 확대시키지만, 이후 합의 소식이 전해지며 시장은 반등 모색 중이다.",
+      "description": "미국-이란 간 교전 소식 이후 다우지수가 3월 이후 최악의 하루를 기록했고, S&P 500과 나스닥은 상승세를 마감했다. SNDK, TSLA, GOOGL, META, IREN 주식들이 주목받았다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "환율 민감 업종",
+      "related_sector": "에너지, 방위산업, 기술주",
       "related_stocks": [
-        "대한항공",
-        "한국전력",
-        "현대차"
+        "한국항공우주",
+        "한화에어로스페이스"
       ],
       "investment_view": "주의",
-      "investment_reason": "고환율 지속은 국내 증시의 외국인 자금 이탈을 가속화하고 수입 물가를 상승시켜 전반적인 투자 심리에 부정적입니다.",
-      "key_signal": "외환 당국의 추가적인 시장 개입 여부와 글로벌 달러 인덱스 및 주요국 통화 정책 변화를 예의주시해야 합니다.",
+      "investment_reason": "미-이란 교전은 국제 유가 상승 압력과 지정학적 불안감을 증폭시켜 국내외 증시에 변동성을 키울 수 있기 때문이다.",
+      "key_signal": "미-이란 간의 긴장 완화 추이와 이로 인한 국제 유가 및 투자 심리 변화를 지속적으로 관찰해야 한다.",
       "keywords": [
-        "고환율",
-        "환율 변동성",
-        "구두 개입",
-        "달러 강세",
-        "외환 시장"
+        "미국-이란",
+        "교전",
+        "다우지수",
+        "지정학적 리스크",
+        "증시 하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fUEQtN2ozZUpSUGs1bjlIcllwNW9mbmk4dDZRYzR1TFdMQjNWLS0yYTloR1RnTHZUQlpFNW1Hc252MERTTXZaRUs4Z0pXZUE?oc=5",
-      "published": "2026-06-26 06:03",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYkpjNUYzR0tYN2NRRWN3eFlldkx3QkxPYjl6Y2JrRmpBRUJmUGJTWFVpMFBrNnJnMzJFZzBBN2w2dnVyR1V4MHFUVHlfNUhQQzBXYnFVOTBJMmlNY0Rva0pUazQ1UHFtLXR1Y01RWGFlUDBmWWY2WXprY3UwOEp2R2RHV0RtWGVkdVlqSHlsYjZfeFJuOF82Ym9mNmcyYUxBTTFTVnNIY0FqMGNFUkFkRDhpREJvQWRoaXlkbGR5UDBJQXRzdml1dnhqRWxFMjJWZS1KMGk2V1Z3SDA0aW1aWnNZREU1SXBObl9wOFRRSnV5X3dWZGxmNFJtbm53OHByYWFDYjNLYi1TRmdMRUxnWmpRVEJzV0xRbVhzZUgwYkdEZw?oc=5",
+      "published": "2026-06-27 00:09",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 증시 혼조세: MAG7 하락, 마이크론 실적 발표 후 15% 급등했으나 메모리 부족으로 애플 등 전자기기 원가 압박",
-      "display_title": "미국 증시 혼조세: MAG7 하락, 마이크론 실적 발표 후 15% 급등했으나 메모리 부족으로 애플 등 전자기기 원가 압박",
-      "original_title": "US Stocks Close: Three Major Indexes Diverge, MAG7 Fall Across the Board; Micron Rises 15% Post-Earnings, But Memory Shortage Brings Cost Pressure to Consumer Electronics Like Apple - TradingKey",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[이주의 ETF] KB자산운용 'RISE 2차전지TOP10인버스(합성)' 19%대 상승률 1위, 코스닥 인버스도 강세",
+      "display_title": "[이주의 ETF] KB자산운용 'RISE 2차전지TOP10인버스(합성)' 19%대 상승률 1위, 코스닥 인버스도 강세",
+      "original_title": "[이주의 ETF] KB자산운용 'RISE 2차전지TOP10인버스(합성)' 19%대 올라 상승률 1위,코스닥 인버스도 강세 - 비즈니스포스트",
       "summary": [
-        "미국 증시가 혼조세를 보인 가운데, 마이크론은 호실적에 힘입어 주가가 15% 급등했습니다.",
-        "메모리 반도체 공급 부족 현상이 심화되면서, 애플 등 주요 IT 기업들은 생산 비용 상승 압력에 직면하고 있습니다.",
-        "반도체 업황 회복 기대감과 함께, 전방 산업 기업들의 수익성 악화 가능성을 주시해야 합니다."
+        "KB자산운용의 'RISE 2차전지TOP10인버스(합성)' ETF가 높은 상승률을 기록하며 주간 성과 1위에 올랐고, 코스닥 인버스 ETF도 강세였다.",
+        "이는 최근 2차전지 관련주 및 코스닥 시장 전반의 하락세가 지속되면서 이에 대한 하방 베팅 상품들이 부각된 결과로 보인다.",
+        "2차전지 섹터 및 코스닥 시장의 단기적인 약세가 지속될 가능성을 시사하며, 시장 방향성에 대한 신중한 접근이 필요하다."
       ],
-      "summary_text": "미국 증시가 혼조세를 보인 가운데, 마이크론은 호실적에 힘입어 주가가 15% 급등했습니다. 메모리 반도체 공급 부족 현상이 심화되면서, 애플 등 주요 IT 기업들은 생산 비용 상승 압력에 직면하고 있습니다. 반도체 업황 회복 기대감과 함께, 전방 산업 기업들의 수익성 악화 가능성을 주시해야 합니다.",
-      "description": "미국 증시 3대 지수가 엇갈린 흐름을 보였고, MAG7(빅테크 7개 종목)은 전반적으로 하락했습니다. 마이크론은 실적 발표 후 15% 상승했지만, 메모리 부족 현상으로 애플과 같은 가전제품 기업들은 원가 압박을 받을 것으로 예상됩니다.",
+      "summary_text": "KB자산운용의 'RISE 2차전지TOP10인버스(합성)' ETF가 높은 상승률을 기록하며 주간 성과 1위에 올랐고, 코스닥 인버스 ETF도 강세였다. 이는 최근 2차전지 관련주 및 코스닥 시장 전반의 하락세가 지속되면서 이에 대한 하방 베팅 상품들이 부각된 결과로 보인다. 2차전지 섹터 및 코스닥 시장의 단기적인 약세가 지속될 가능성을 시사하며, 시장 방향성에 대한 신중한 접근이 필요하다.",
+      "description": "KB자산운용의 'RISE 2차전지TOP10인버스(합성)' ETF가 주간 19%대 상승률로 1위를 기록했으며, 코스닥 인버스 ETF도 강세를 보였다.",
       "category": "기업·산업",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT 가전",
+      "market_impact": "부정",
+      "related_sector": "이차전지, ETF, 코스닥",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "에코프로비엠",
+        "LG에너지솔루션"
       ],
-      "investment_view": "관심",
-      "investment_reason": "메모리 반도체 업황 개선 기대감과 함께 전방 산업에 미칠 파급 효과를 파악해야 합니다.",
-      "key_signal": "마이크론 실적을 통해 국내 반도체 기업들의 향후 실적 개선 여부와 메모리 가격 동향을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "2차전지 섹터와 코스닥 시장 전반의 약세 흐름이 인버스 ETF의 강세로 확인되었으므로, 해당 시장에 대한 투자 시 신중한 접근이 요구되기 때문이다.",
+      "key_signal": "2차전지 관련 기업들의 실적 및 산업 전망 변화와 코스닥 시장의 수급 동향을 면밀히 관찰하여 추가 하락 여부를 판단해야 한다.",
       "keywords": [
-        "마이크론",
-        "반도체",
-        "메모리 부족",
-        "애플",
-        "원가 압박"
+        "ETF",
+        "이차전지",
+        "인버스",
+        "코스닥",
+        "시장 하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQS1FMWtIQ1h0NUFBMlB2TTNCalF1UTFmWDlXc2tCd3NlRGh6RlJDLXczakdFWVphVWZLYUNuYTdQN292T3UtY2JVUG5TOHo4M3Bldk1oUUktcWwwZ0xFZmhmcWEwck0xSnZPelFLTnMwdFM5YmhfM3VvWGtUWHZMdG9JalRRNE1Ka2hXN2trajJ6OWdRWFl6WUlWdDlYd3drYi1McXltUUlaVGJuUXBDeGNxR1JyaWNEV2Y1dFdZRGZqT2QyekdFVnFtMTdod0cxZm9yV1BUdmpxT3p0VlplbWZiem1QSG9pbThYNUtxazYtbFF2?oc=5",
-      "published": "2026-06-26 05:25",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EcWs2VzR5MDdhcVMtMjFJSTMzdmF2Vlp5bktWQ1V4Rlcyb21Ubk5ta25zUW5uVUF4WHNWMU5mN1Z2WmhHTTdPSWxFOUtNSkN1MGhETUJvZWRqcnl5cV8zdFA0cEhyX3BaSVdBVElDalA0Qm8?oc=5",
+      "published": "2026-06-26 17:35",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -280,66 +279,64 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성의 향후 10년간 1000조원 투자 계획에 반도체, AI 등 핵심 분야가 포함되어 있으며, 마이크론의 긍정적 실적 발표로 인한 메모리 반도체 업황 개선 기대감이 복합적으로 작용할 것으로 예상됩니다.",
+      "reason": "글로벌 AI 밸류에이션 우려로 인한 반도체 섹터의 하방 압력에도 불구하고, 삼성전자의 1조 원 국내 반도체 산업 투자 소식은 국내 경쟁력 강화와 AI 다음 수혜주로서의 잠재력을 동시에 보여주는 긍정적인 모멘텀으로 작용할 수 있습니다.",
       "check_points": [
-        "삼성그룹의 실제 투자 집행 속도 및 세부 전략",
-        "글로벌 AI 반도체 및 파운드리 시장의 경쟁 구도 변화",
-        "메모리 반도체 수요 회복 및 가격 동향"
+        "글로벌 AI 반도체 시장의 밸류에이션 흐름 및 투자심리 변화",
+        "삼성의 국내 투자 집행 가시화 및 관련 공급망에 미치는 영향",
+        "AI 기술의 확산에 따른 소프트웨어/서비스 분야의 신규 사업 기회 발굴 여부"
       ],
       "related_news_titles": [
-        "[단독] 삼성, 향후 10년간 1000조원 투자 계획",
-        "오늘 증시 혼조세: 마이크론 실적에 메모리 반도체 강세, 애플 주가 하락; 5월 인플레이션 보고서에 국채 금리 하락",
-        "TSMC (대만 반도체 제조 회사)의 강력한 실적, AI 투자 주기에서의 핵심 역할 입증"
+        "미국 증시 마감: AI 밸류에이션 우려 심화로 나스닥 하락, 반도체 지수 5% 급락; 금과 은 상승",
+        "반도체만이 아니다…증권가가 꼽은 'AI 다음 수혜주' 10개",
+        "삼성, 한국 반도체 산업 발전에 1조 원 투자 준비"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "원익IPS",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "반도체 장비",
       "opinion": "관심",
-      "reason": "마이크론의 강력한 실적 발표로 인한 메모리 반도체 업황 개선 기대감이 더욱 고조되고 있으며, AI 시대의 핵심 부품인 고대역폭 메모리(HBM) 시장에서의 선두 위치가 부각되고 있습니다.",
+      "reason": "삼성전자의 1조 원 규모 국내 반도체 산업 투자 계획 발표는 국내 반도체 장비 기업들의 수주 확대로 이어질 수 있는 직접적인 호재입니다. 이는 국내 반도체 생태계 전반의 활성화와 해당 기업들의 성장 동력을 제공할 것으로 기대됩니다.",
       "check_points": [
-        "메모리 반도체 수요 및 공급의 균형 변화",
-        "고대역폭 메모리(HBM) 시장 내 경쟁 우위 유지 여부",
-        "글로벌 AI 서버 투자 확대에 따른 수혜 정도"
+        "삼성전자의 구체적인 투자 실행 계획 및 장비 발주 동향",
+        "글로벌 반도체 업황 회복에 따른 전반적인 CAPEX(설비투자) 증가 여부",
+        "차세대 반도체 공정 기술 개발 및 관련 장비 경쟁력 강화"
       ],
       "related_news_titles": [
-        "오늘 증시 혼조세: 마이크론 실적에 메모리 반도체 강세, 애플 주가 하락; 5월 인플레이션 보고서에 국채 금리 하락",
-        "TSMC (대만 반도체 제조 회사)의 강력한 실적, AI 투자 주기에서의 핵심 역할 입증",
-        "미국 증시 혼조세: MAG7 하락, 마이크론 실적 발표 후 15% 급등했으나 메모리 부족으로 애플 등 전자기기 원가 압박"
+        "삼성, 한국 반도체 산업 발전에 1조 원 투자 준비"
       ]
     },
     {
       "rank": 3,
-      "name": "삼성바이오로직스",
+      "name": "NAVER",
       "market": "KOSPI",
-      "sector": "바이오",
+      "sector": "소프트웨어",
       "opinion": "관심",
-      "reason": "삼성그룹이 향후 10년간 1000조원 투자 계획을 발표하면서 바이오 분야를 핵심 성장 동력으로 명시해, 그룹 차원의 전폭적인 지원과 중장기적인 성장에 대한 기대감이 높아지고 있습니다.",
+      "reason": "AI 기술의 수혜가 반도체를 넘어 소프트웨어, 빅데이터, 로봇 등 다양한 산업으로 확장될 것이라는 증권가의 전망에 따라, 국내 대표 IT 플랫폼 기업인 NAVER는 AI 기반 서비스 및 솔루션 부문에서 새로운 성장 잠재력을 부각시킬 수 있습니다.",
       "check_points": [
-        "삼성그룹 투자 계획 중 바이오 분야의 구체적인 투자 규모 및 세부 전략",
-        "글로벌 CDMO(위탁개발생산) 시장의 경쟁 환경 및 수요 변화",
-        "신규 CMO/CDO 계약 수주 현황 및 공장 가동률"
+        "AI 기반 신규 서비스 출시 및 시장 반응, 수익성 기여도",
+        "클라우드 및 AI 사업 부문의 매출 성장률 및 기술 경쟁력",
+        "글로벌 AI 기술 기업들과의 협력 및 시장 확대 전략"
       ],
       "related_news_titles": [
-        "[단독] 삼성, 향후 10년간 1000조원 투자 계획"
+        "반도체만이 아니다…증권가가 꼽은 'AI 다음 수혜주' 10개"
       ]
     },
     {
       "rank": 4,
-      "name": "삼성SDI",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "배터리",
+      "sector": "정유",
       "opinion": "관심",
-      "reason": "삼성그룹의 대규모 투자 계획에 배터리 산업이 포함되어 있어, 전기차 및 배터리 시장의 중장기적인 성장과 함께 그룹 차원의 투자를 통한 시장 경쟁력 강화가 기대됩니다.",
+      "reason": "미국과 이란 간의 합의 소식은 국제 유가 안정화와 글로벌 지정학적 긴장 완화에 기여하여 국내 정유 기업들의 원가 부담을 줄이고 투자 심리를 개선하는 긍정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "삼성그룹 투자 계획 중 배터리 분야의 구체적인 투자 내용 및 규모",
-        "글로벌 전기차 시장의 성장세 및 배터리 수요 변화",
-        "차세대 배터리 기술 개발 및 상용화 진행 상황"
+        "미국-이란 합의의 지속성 및 국제 유가 변동성 추이",
+        "정유 제품 마진(스프레드)의 개선 여부",
+        "글로벌 경기 회복에 따른 석유화학 제품 수요 변화"
       ],
       "related_news_titles": [
-        "[단독] 삼성, 향후 10년간 1000조원 투자 계획"
+        "미국-이란 합의 소식에 다우, S&P 500, 나스닥 선물 상승; 연준 매파적 전망에도 불구하고"
       ]
     }
   ],
