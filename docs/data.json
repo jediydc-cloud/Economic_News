@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28 08:02",
-  "analysis_date": "2026-06-28",
+  "generated_at": "2026-06-29 08:02",
+  "analysis_date": "2026-06-29",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,92 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 경제는 연준의 강경한 통화정책 기조와 국채 수익률 상승 우려로 불확실성이 지속됩니다. 국내 증시는 삼성의 대규모 투자 발표와 실적 시즌에 대한 기대로 변동성 속 기회를 탐색할 전망입니다.",
-    "국내거시경제": "삼성의 대규모 투자가 국내 산업 생태계 강화와 지역 경제 활성화에 기여하며 긍정적인 신호로 작용하고 있습니다.",
-    "글로벌경제": "6월 고용 보고서 발표를 앞두고 연준의 강경한 통화정책 기조가 부각되며 글로벌 경제 불확실성이 증대되고 있습니다. 케빈 와시 전 연준 이사의 발언은 예상보다 강력한 긴축 가능성을 시사하며 시장 변동성 확대를 경고했습니다.",
-    "증시금리": "미국 국채 수익률이 2007년 고점 수준으로 상승하며 증시에 부담을 주고 있습니다. 국내 코스피는 6월 변동성을 뒤로하고 7월 실적 시즌을 통해 방향성을 모색할 것으로 보입니다.",
-    "부동산정책": "해당 없음",
-    "기업산업": "삼성이 국내 주요 지역에 역대 최대 규모의 투자를 발표하며 산업 생태계 강화 및 미래 성장 동력 확보에 주력합니다. 관련 기업들의 수혜가 기대됩니다.",
-    "오늘의투자시사점": "연준의 강경한 통화정책과 고금리 환경에 대비해 보수적인 포트폴리오 관리가 필요합니다. 국내에서는 삼성의 대규모 투자 수혜주 및 실적 개선이 기대되는 업종에 대한 선별적 접근이 유효합니다.",
-    "오늘의한줄": "글로벌 긴축 우려 속 국내 성장 동력과 실적 모멘텀에 주목하며 선별적 접근이 필요한 시점입니다."
+    "총평": "국내 대기업들의 대규모 투자 발표로 긍정적 기대감이 커지는 가운데, 미국 고용 지표와 연준의 매파적 기조가 지속되며 글로벌 증시 하방 압력이 확대되고 있습니다. 국내 증시 또한 변동성 확대에 대한 우려가 상존합니다.",
+    "국내거시경제": "정부 주도의 1000조원 규모 '3대 메가 프로젝트' 발표가 예정되어 삼성, SK, 현대차 등 주요 기업들의 대규모 투자가 기대됩니다. 이는 국가 경제 활성화 및 신성장 동력 확보에 긍정적 영향을 미칠 것으로 보입니다. 다만, 국내 증시는 글로벌 고금리 기조, 경기 침체 우려 등으로 인한 하반기 폭락장 가능성 우려가 제기되고 있습니다.",
+    "글로벌경제": "미국 고용 지표가 견조하게 발표되며 연준의 긴축 장기화 우려가 다시 불거졌습니다. 연준 의사록에서도 매파적 기조가 확인되면서 시장의 금리 인하 기대감이 약화되고 있습니다.",
+    "증시금리": "견조한 미국 고용지표와 연준의 매파적 의사록 공개로 금리 인하 기대감이 후퇴하며 뉴욕 증시가 급락했습니다. 특히 기술주 중심의 나스닥은 4%대 폭락을 기록했으며, 연준이 금리 인상 없이도 긴축 효과를 낼 수 있는 간접적인 방법들이 언급되어 주의가 필요합니다.",
+    "부동산정책": "해당 사항 없음",
+    "기업산업": "삼성, SK 등 국내 주요 대기업들이 정부의 '3대 메가 프로젝트'에 발맞춰 1000조원 규모의 대규모 투자를 단행할 예정입니다. 이는 관련 산업 생태계 전반에 활력을 불어넣고 신규 일자리를 창출하며 장기적인 관점에서 긍정적인 투자 기회를 제공할 것으로 전망됩니다.",
+    "오늘의투자시사점": "국내 대기업의 대규모 투자 발표는 관련 산업 및 수혜 기업에 대한 투자 매력을 높일 수 있습니다. 반면, 해외는 연준의 매파적 기조와 고용지표 강세로 인한 금리 인하 기대감 약화로 글로벌 증시 변동성 확대가 예상됩니다. 이에 대비하여 포트폴리오 리스크를 점검하고, 금리 민감 섹터에 대한 주의와 함께 개별 기업의 실적 및 거시경제 동향을 면밀히 분석해야 합니다.",
+    "오늘의한줄": "대기업 투자 기대감과 연준발 긴축 우려가 교차하는 가운데, 국내 증시는 변동성 확대에 대한 철저한 대비가 필요합니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "목요일 발표될 6월 고용 보고서가 시장을 움직일 수 있는 이유",
-      "display_title": "목요일 발표될 6월 고용 보고서가 시장을 움직일 수 있는 이유",
-      "original_title": "Why Thursday’s June Jobs Report Could Move Markets - Mott Capital Management",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
+      "display_title": "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
+      "original_title": "이재용·최태원 청와대 간다…'1000조 투자' 메가프로젝트 공개 - 한국경제",
       "summary": [
-        "다가오는 목요일 6월 고용 보고서 발표가 예상되며, 이는 시장에 상당한 영향을 미칠 것으로 전망됩니다.",
-        "고용 지표는 연방준비제도(Fed)의 금리 정책 결정에 중요한 요소로 작용하며, 인플레이션과 경기 침체 우려 속에서 시장의 관심이 집중되고 있습니다.",
-        "고용 보고서 결과에 따라 증시 변동성이 확대될 수 있으므로, 관련 지표 발표 전후 시장 동향을 면밀히 주시해야 합니다."
+        "핵심사실: 삼성, SK 등 국내 주요 대기업 총수들이 정부와 함께 1000조원 규모의 대규모 투자 프로젝트를 발표할 예정이다.",
+        "배경·맥락: 정부의 경제 활성화 정책과 기업들의 미래 성장 동력 확보 노력이 결합된 대형 프로젝트로, 국가 경제 전반에 긍정적 영향을 미칠 것으로 기대된다.",
+        "투자 시사점: 대규모 투자는 관련 산업 생태계 전반에 활력을 불어넣고 신규 일자리를 창출하여 장기적인 관점에서 관련 섹터에 대한 투자 매력을 높일 수 있다."
       ],
-      "summary_text": "다가오는 목요일 6월 고용 보고서 발표가 예상되며, 이는 시장에 상당한 영향을 미칠 것으로 전망됩니다. 고용 지표는 연방준비제도(Fed)의 금리 정책 결정에 중요한 요소로 작용하며, 인플레이션과 경기 침체 우려 속에서 시장의 관심이 집중되고 있습니다. 고용 보고서 결과에 따라 증시 변동성이 확대될 수 있으므로, 관련 지표 발표 전후 시장 동향을 면밀히 주시해야 합니다.",
-      "description": "목요일 발표될 6월 고용 보고서가 시장을 움직일 수 있는 이유에 대한 분석입니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "경제 전반, 금융",
+      "summary_text": "핵심사실: 삼성, SK 등 국내 주요 대기업 총수들이 정부와 함께 1000조원 규모의 대규모 투자 프로젝트를 발표할 예정이다. 배경·맥락: 정부의 경제 활성화 정책과 기업들의 미래 성장 동력 확보 노력이 결합된 대형 프로젝트로, 국가 경제 전반에 긍정적 영향을 미칠 것으로 기대된다. 투자 시사점: 대규모 투자는 관련 산업 생태계 전반에 활력을 불어넣고 신규 일자리를 창출하여 장기적인 관점에서 관련 섹터에 대한 투자 매력을 높일 수 있다.",
+      "description": "이재용 삼성전자 회장과 최태원 SK그룹 회장 등 국내 주요 기업 총수들이 청와대를 방문하여 '1000조원 규모'의 메가프로젝트 투자 계획을 공개한다.",
+      "category": "기업·산업",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "반도체, 이차전지, 자동차, AI, 바이오",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "현대차"
       ],
       "investment_view": "관심",
-      "investment_reason": "고용 보고서는 연준의 통화정책 방향을 결정하는 핵심 지표로, 글로벌 증시 및 금리 변동성에 직접적인 영향을 주기 때문입니다.",
-      "key_signal": "목요일 발표될 6월 고용 보고서의 세부 지표(실업률, 비농업 고용자수, 임금 상승률 등)와 시장 반응을 체크해야 합니다.",
+      "investment_reason": "1000조원 규모의 대규모 투자는 국내 핵심 산업의 성장 동력을 강화하고 관련 기업들의 실적 개선에 크게 기여할 수 있기 때문이다.",
+      "key_signal": "투자 프로젝트의 구체적인 내용과 투자 대상 산업 및 기업을 확인하고, 관련 수혜 기업들을 선별하여 투자 기회를 모색해야 한다.",
       "keywords": [
-        "고용보고서",
-        "Fed",
-        "금리인상",
-        "시장변동성",
-        "인플레이션"
+        "1000조투자",
+        "메가프로젝트",
+        "삼성",
+        "SK",
+        "정부정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pNlRvNS1lS0pPN1NSVlBuVHFzR0xmdnpaT2psZUZNaWtEd1JWNHk0Q2h3NzQxTzgwNF9CenRUWV9COUZ2blFMQWdrMnpsR1dyRl9HdmdMSDN3aXR4bW01NjJ4TWI1UWFnZjhsYi1aQ2ozcWk0?oc=5",
-      "published": "2026-06-28 02:20",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX0VvNlNiTWVfN0dSbndGbm1mY0ZQSVpZSjVDU0ZTbkRpSEo5ZXR1YjdHdDNCUjkzLUlXU2VmOFkxcjVkUEtyeWw3TVNVczdFRGpNSm8xTnFPZ9IBVEFVX3lxTE1SNlZ4TTdEM2cyY0d1ZEtSRWZKVWt1Rjhwdi1NVzVxQ0pReS1XZTlEOTRXOWtoR2xVMWE2ZDljUGtBT3k3SHktSVNHemtPZ2syUGRENA?oc=5",
+      "published": "2026-06-29 06:07",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "케빈 와시, 연준이 인플레이션에 강경 대응할 수 있다고 시사. 월스트리트에 문제가 될까?",
-      "display_title": "케빈 와시, 연준이 인플레이션에 강경 대응할 수 있다고 시사. 월스트리트에 문제가 될까?",
-      "original_title": "Kevin Warsh Just Suggested the Fed May Bring Down the Hammer on Inflation. Could It Spell Trouble for Wall Street? - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다",
+      "display_title": "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다",
+      "original_title": "李정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 보탠다 - 네이트",
       "summary": [
-        "케빈 와시 전 연준 이사가 인플레이션 억제를 위해 연준이 더욱 강력한 조치를 취할 가능성을 언급했습니다.",
-        "연준의 강경한 통화정책 기조는 기준금리 인상 가속화나 양적 긴축 강화로 이어질 수 있으며, 이는 주식 시장에 부정적인 영향을 미칠 수 있습니다.",
-        "연준의 긴축 강도에 대한 불확실성이 커지면서 시장 변동성이 확대될 수 있으므로, 보수적인 투자 전략을 고려해야 합니다."
+        "핵심사실: 정부가 발표할 '3대 메가 프로젝트'에 삼성, SK, 현대차 등 국내 대기업들이 1000조원 규모의 투자를 단행하며 힘을 보탤 예정이다.",
+        "배경·맥락: 국가 경쟁력 강화와 신성장 동력 확보를 위한 정부와 기업 간의 협력 사례로, 경제 전반에 긍정적인 파급 효과가 기대된다.",
+        "투자 시사점: 대규모 투자 계획은 관련 산업의 성장 기대감을 높이고 수혜 기업들의 주가에 긍정적인 영향을 미칠 수 있으므로 주목할 필요가 있다."
       ],
-      "summary_text": "케빈 와시 전 연준 이사가 인플레이션 억제를 위해 연준이 더욱 강력한 조치를 취할 가능성을 언급했습니다. 연준의 강경한 통화정책 기조는 기준금리 인상 가속화나 양적 긴축 강화로 이어질 수 있으며, 이는 주식 시장에 부정적인 영향을 미칠 수 있습니다. 연준의 긴축 강도에 대한 불확실성이 커지면서 시장 변동성이 확대될 수 있으므로, 보수적인 투자 전략을 고려해야 합니다.",
-      "description": "케빈 와시 전 연준 이사가 연방준비제도가 인플레이션에 대해 더욱 강경한 조치를 취할 수 있다고 시사했으며, 이는 월스트리트 시장에 잠재적인 문제를 야기할 수 있다는 분석입니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 투자, 기술주",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "연준의 강경한 인플레이션 대응은 금리 인상 속도를 높여 투자심리 위축과 경기 둔화를 초래할 수 있기 때문입니다.",
-      "key_signal": "연준의 향후 통화정책 방향과 주요 인사들의 발언을 주시하며, 금리 인상 속도 및 강도 변화에 촉각을 곤두세워야 합니다.",
+      "summary_text": "핵심사실: 정부가 발표할 '3대 메가 프로젝트'에 삼성, SK, 현대차 등 국내 대기업들이 1000조원 규모의 투자를 단행하며 힘을 보탤 예정이다. 배경·맥락: 국가 경쟁력 강화와 신성장 동력 확보를 위한 정부와 기업 간의 협력 사례로, 경제 전반에 긍정적인 파급 효과가 기대된다. 투자 시사점: 대규모 투자 계획은 관련 산업의 성장 기대감을 높이고 수혜 기업들의 주가에 긍정적인 영향을 미칠 수 있으므로 주목할 필요가 있다.",
+      "description": "이 정부가 오늘 '3대 메가 프로젝트'를 공개할 예정이며, 삼성, SK, 현대차 등 주요 그룹이 1000조원 규모의 투자 계획으로 이에 힘을 보탤 것이다.",
+      "category": "기업·산업",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "반도체, 자동차, 이차전지, 바이오, AI",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스",
+        "현대차"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "정부 주도의 대규모 프로젝트와 국내 주요 기업들의 전방위적 투자는 장기적으로 한국 경제의 성장 잠재력을 높이고 관련 기업들의 가치를 상승시킬 수 있기 때문이다.",
+      "key_signal": "'3대 메가 프로젝트'의 구체적인 내용과 기업별 투자 계획을 면밀히 분석하고, 직접적인 수혜가 예상되는 기업들을 선별해야 한다.",
       "keywords": [
-        "Fed",
-        "인플레이션",
-        "금리인상",
-        "긴축정책",
-        "월스트리트"
+        "정부정책",
+        "1000조투자",
+        "메가프로젝트",
+        "삼성",
+        "SK"
       ],
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9adDA1SFpUOGsyUWp3UUpwWlctWEJJQnlkRjB2UkkwLWxyTFZfa1k0ZEN1Zm4tRzY0TndSTFZNYkZXeEFOUEtlcHNNRS1tbngzSFl2UGFmTWc2Ti01c3N4dFE5eUdtc21QSERTelVCQ0tmUzIwX05RMVpKUVA2Sjg?oc=5",
-      "published": "2026-06-27 21:24",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rN0lsX0c5Y3NXb3JNd0hfQm5SVVRiaVVzOUdqeGowMEZJb0VOTW55V3ZsMV9kMHBoRnNGU0tvRDJrWXBSam5vc3VIODBrLTlFN3JF?oc=5",
+      "published": "2026-06-29 06:01",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -108,36 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "국채 수익률이 2007년 고점 근처로 회귀하며 새로운 시장 우려를 자극 – 분석가들은 채권 매도세가 아직 끝나지 않았다고 경고",
-      "display_title": "국채 수익률이 2007년 고점 근처로 회귀하며 새로운 시장 우려를 자극 – 분석가들은 채권 매도세가 아직 끝나지 않았다고 경고",
-      "original_title": "Treasury Yields Are Back Near 2007 Highs, Raising Fresh Market Fears – And Analysts Warn Bond Selloff Isn’t Done Yet - Stocktwits",
+      "title": "연준, 연방기금금리 조정 없이 금리 인상할 수 있는 '두 가지 은밀한 방법'",
+      "display_title": "연준, 연방기금금리 조정 없이 금리 인상할 수 있는 '두 가지 은밀한 방법'",
+      "original_title": "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Rates Without Adjusting the Federal Funds Rate - The Motley Fool",
       "summary": [
-        "미국 국채 수익률이 2007년 고점 수준으로 상승하며 시장에 새로운 공포감을 조성하고 있습니다.",
-        "연준의 긴축 정책과 인플레이션 압력이 지속되면서, 채권 금리가 지속적으로 상승하고 있으며, 이는 주식 시장에도 부담으로 작용할 수 있습니다.",
-        "채권 시장의 불안정은 전반적인 금융 시장 변동성을 높일 수 있으므로, 고금리 환경에 대비한 포트폴리오 조정이 필요합니다."
+        "핵심사실: 연방준비제도가 연방기금금리를 직접 인상하지 않고도 시장 금리를 올릴 수 있는 두 가지 간접적인 방법이 제시되었다.",
+        "배경·맥락: 이는 시장에 '매파적' 신호를 보내거나, 유동성을 조절하여 실질적인 긴축 효과를 낼 수 있음을 의미한다.",
+        "투자 시사점: 연준의 공식 발표 외에 숨겨진 긴축 시그널에 대한 면밀한 분석이 필요하며, 금리 민감 섹터에 대한 주의가 요구된다."
       ],
-      "summary_text": "미국 국채 수익률이 2007년 고점 수준으로 상승하며 시장에 새로운 공포감을 조성하고 있습니다. 연준의 긴축 정책과 인플레이션 압력이 지속되면서, 채권 금리가 지속적으로 상승하고 있으며, 이는 주식 시장에도 부담으로 작용할 수 있습니다. 채권 시장의 불안정은 전반적인 금융 시장 변동성을 높일 수 있으므로, 고금리 환경에 대비한 포트폴리오 조정이 필요합니다.",
-      "description": "미국 국채 수익률이 2007년 최고 수준에 근접하면서 시장에 새로운 불안감을 조성하고 있으며, 분석가들은 채권 매도세가 지속될 것이라고 경고했습니다.",
+      "summary_text": "핵심사실: 연방준비제도가 연방기금금리를 직접 인상하지 않고도 시장 금리를 올릴 수 있는 두 가지 간접적인 방법이 제시되었다. 배경·맥락: 이는 시장에 '매파적' 신호를 보내거나, 유동성을 조절하여 실질적인 긴축 효과를 낼 수 있음을 의미한다. 투자 시사점: 연준의 공식 발표 외에 숨겨진 긴축 시그널에 대한 면밀한 분석이 필요하며, 금리 민감 섹터에 대한 주의가 요구된다.",
+      "description": "연방준비제도(Fed) 의장 케빈 워시와 연방공개시장위원회(FOMC)가 연방기금금리를 직접 조정하지 않고도 금리를 인상할 수 있는 두 가지 '은밀한' 방안에 대한 기사이다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "금융, 은행, 보험, 부동산",
+      "related_sector": "금융, 채권, 기술주",
       "related_stocks": [
-        "네이버",
         "카카오",
+        "네이버",
         "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "국채 수익률 상승은 기업 자금 조달 비용 증가와 할인율 상승으로 이어져 증시 전반에 부정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "미국 장단기 국채 금리 추이를 매일 모니터링하고, 채권 시장의 추가적인 매도세 발생 여부를 주의 깊게 살펴야 합니다.",
+      "investment_reason": "연준이 공식적인 금리 인상 발표 없이도 시장에 긴축 효과를 줄 수 있는 방법을 모색하고 있다는 점은 투자 환경에 예상치 못한 변화를 가져올 수 있기 때문이다.",
+      "key_signal": "연준의 공식 발표뿐만 아니라 유동성 조절 등 간접적인 긴축 시그널이 있는지 면밀히 체크해야 한다.",
       "keywords": [
-        "국채금리",
-        "채권수익률",
+        "연준",
         "금리인상",
-        "채권매도"
+        "긴축정책",
+        "FOMC",
+        "유동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFZGVl94Y3VzZzJHZnVYbEkzaWlzeXRwbFlZcXVtSnFwd2FJLUVWVWFJb1MwNnEtSDd1S05pRUpYc050MUtpRGJzSlBqajQwUTB5N2RDWGtDNXFoWnFuS0FmakpRQTZIakt6SWt0WWZ2RlJ4M205a1YyZV9lT0pMU2xUc2pPYk10eFFPRVRlXzN1bmlDanh0OGZMWkxoWno4OFJxbjdsYnVDZWZzZEVtRGV1RG1ReHNwb0RSbzZKZEp3SUl3Q2prWENQZHpEZEk2ZkJyckticw?oc=5",
-      "published": "2026-06-27 17:48",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmF6cGRuSVllSTFYdEZNSV9rRXliZmFYX0d6azhSdjZ3RUhSdURXLW1naWY0N3RVcENibE02aUd6MGEzS01hSXNqNmZtZnNSWENxNFlmRE5zbTIxVnA4Sk1IU1cyNUxUbXZiSkNuS05rUlFLY21qQWN4VTZHOV9jVGVMbE1XbEZQRXlUelEzcGxxQTZEbE80Mg?oc=5",
+      "published": "2026-06-28 23:06",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -149,32 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "케빈 와시 전 연준 의장, 단 6글자로 기대를 무너뜨리다. 트럼프 전 대통령 \"믿기 어렵다\" 언급.",
-      "display_title": "케빈 와시 전 연준 의장, 단 6글자로 기대를 무너뜨리다. 트럼프 전 대통령 \"믿기 어렵다\" 언급.",
-      "original_title": "With Just 6 Words, Fed Chair Kevin Warsh Demolished Expectations. \"It's Hard to Believe,\" Says President Trump. - AOL.com",
+      "title": "최신 고용지표 발표 후 월스트리트 급락, 나스닥 4% 폭락 마감",
+      "display_title": "최신 고용지표 발표 후 월스트리트 급락, 나스닥 4% 폭락 마감",
+      "original_title": "NASDAQ plunged 4% as Wall Street ended deep in the red after the latest payrolls print - MSN",
       "summary": [
-        "케빈 와시 전 연준 의장의 단 6글자 발언이 시장의 기대를 무너뜨렸으며, 트럼프 전 대통령도 놀라움을 표했습니다.",
-        "이 발언은 연준의 예상보다 더 강경하거나 예상치 못한 정책 변화를 암시하며, 시장 참가자들의 기존 전망을 뒤엎는 충격적인 내용을 담고 있을 가능성이 높습니다.",
-        "연준의 정책 방향에 대한 불확실성이 극도로 높아졌음을 의미하며, 이는 금융 시장 전반에 큰 변동성을 야기할 수 있습니다."
+        "핵심사실: 예상치 못한 고용지표 발표 이후 기술주 중심의 나스닥 지수가 4% 폭락하며 미국 증시가 크게 하락했다.",
+        "배경·맥락: 견조한 고용지표는 연준의 긴축 기조를 장기화시킬 수 있다는 우려를 키워 시장의 금리 인하 기대를 약화시켰다.",
+        "투자 시사점: 고용지표와 같은 거시 경제 지표가 연준의 정책 방향에 미치는 영향이 크므로, 관련 지표 발표에 따른 시장 변동성에 대비해야 한다."
       ],
-      "summary_text": "케빈 와시 전 연준 의장의 단 6글자 발언이 시장의 기대를 무너뜨렸으며, 트럼프 전 대통령도 놀라움을 표했습니다. 이 발언은 연준의 예상보다 더 강경하거나 예상치 못한 정책 변화를 암시하며, 시장 참가자들의 기존 전망을 뒤엎는 충격적인 내용을 담고 있을 가능성이 높습니다. 연준의 정책 방향에 대한 불확실성이 극도로 높아졌음을 의미하며, 이는 금융 시장 전반에 큰 변동성을 야기할 수 있습니다.",
-      "description": "케빈 와시 전 연준 의장의 6글자 발언이 시장의 기대를 완전히 뒤엎었으며, 트럼프 전 대통령까지 \"믿기 어렵다\"고 반응했습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "핵심사실: 예상치 못한 고용지표 발표 이후 기술주 중심의 나스닥 지수가 4% 폭락하며 미국 증시가 크게 하락했다. 배경·맥락: 견조한 고용지표는 연준의 긴축 기조를 장기화시킬 수 있다는 우려를 키워 시장의 금리 인하 기대를 약화시켰다. 투자 시사점: 고용지표와 같은 거시 경제 지표가 연준의 정책 방향에 미치는 영향이 크므로, 관련 지표 발표에 따른 시장 변동성에 대비해야 한다.",
+      "description": "최신 비농업 고용보고서 발표 이후 월스트리트가 큰 폭으로 하락 마감했으며, 기술주 중심의 나스닥 종합지수는 4% 폭락했다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 투자 전반",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "연준의 통화정책 기조에 대한 강한 불확실성을 조성하는 발언으로, 향후 시장의 급격한 변화를 예측하기 어렵게 만들기 때문입니다.",
-      "key_signal": "케빈 와시의 발언이 구체적으로 어떤 내용이었는지 파악하고, 연준의 공식적인 입장 변화 가능성과 그에 따른 시장의 반응을 긴밀히 관찰해야 합니다.",
-      "keywords": [
-        "Fed",
-        "케빈와시",
-        "시장기대",
-        "통화정책"
+      "related_sector": "기술주, 성장주, 반도체",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLWklGR2RDMEludkROQk1oYkN2aVNxNUtYT2k2REg2UEhiMHpMd2ZxLU5BdWxCTjRkbGtxS1JuV1NUVnl1eXNJYnFzV01LX2pNV2p1RkZtWFBWal9OQWpYMVlRT0hyNjVoYXZ4NW15X2Joaktq?oc=5",
-      "published": "2026-06-27 23:09",
+      "investment_view": "주의",
+      "investment_reason": "미국 나스닥의 큰 폭 하락은 국내 기술주 및 성장주에 대한 투자 심리를 급격히 위축시키고 시장 전반의 조정 압력을 높일 수 있기 때문이다.",
+      "key_signal": "미국 고용지표의 세부 내용과 연준 관계자들의 추가 발언을 주시하며, 국내 기술주 섹터의 변동성 확대 여부를 확인해야 한다.",
+      "keywords": [
+        "나스닥",
+        "고용지표",
+        "증시폭락",
+        "기술주",
+        "긴축우려"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWJXUFZyR2lsX0ZfeW5SMHlfbFVibHowdDhBZ2hWdkpuSXhNZHlDTzBla3BMMERmMXF1TmxlaWd3SDFvNTF0UXdzNHU1aEdfajVfWnEya2dLcVkzekwtOVVUTjZMRTRFUzFrZTBIano3VTVDWWRfSWVrX2FHOTRmQk9ONGExRmxhSnF4N2tsSVJoTU1hbjY5c0t5aHFQNGRJcjdXRTN0VkZTQjZ6eEM0aVV6QnMwbElIcml5NkV3?oc=5",
+      "published": "2026-06-28 22:54",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -186,36 +196,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "삼성, 호남부터 충청·영남까지 역대 최대 투자…그룹 역량 총동원",
-      "display_title": "삼성, 호남부터 충청·영남까지 역대 최대 투자…그룹 역량 총동원",
-      "original_title": "삼성, 호남부터 충청·영남까지 역대 최대투자…그룹역량 총동원 - 한국경제TV",
+      "title": "폭락장 공포 엄습, '국민주' 삼성전자·SK하이닉스 지금이라도 팔까?...하반기 증시 전망",
+      "display_title": "폭락장 공포 엄습, '국민주' 삼성전자·SK하이닉스 지금이라도 팔까?...하반기 증시 전망",
+      "original_title": "엄습한 폭락장 공포, '국민주' 삼전·닉스 지금이라도 팔까?...하반기 증시 전망 [유은길의 뉴스쪼개기] - citytimes.co.kr",
       "summary": [
-        "삼성이 전국 주요 지역에 걸쳐 역대 최대 규모의 투자를 발표하며 그룹의 핵심 역량을 총동원하고 있습니다.",
-        "이는 국내 산업 생태계 강화, 지역 경제 활성화, 그리고 미래 성장 동력 확보를 위한 전략적 움직임으로 해석됩니다.",
-        "투자 지역에 기반을 둔 기업이나 삼성의 공급망에 포함되는 기업, 그리고 투자 분야(반도체, 바이오, AI 등) 관련 기업들이 수혜를 입을 수 있습니다."
+        "핵심사실: 국내 증시에 폭락장 우려가 커지면서 삼성전자, SK하이닉스 등 주요 대형주 투자자들의 고민이 깊어지고 있다.",
+        "배경·맥락: 글로벌 고금리 기조, 경기 침체 우려, 기업 실적 부진 등이 복합적으로 작용하여 시장 불안감을 증폭시키고 있다.",
+        "투자 시사점: 하반기 증시 변동성 확대에 대비하여 포트폴리오의 리스크를 점검하고, 개별 기업의 실적 및 글로벌 거시경제 동향을 면밀히 분석해야 한다."
       ],
-      "summary_text": "삼성이 전국 주요 지역에 걸쳐 역대 최대 규모의 투자를 발표하며 그룹의 핵심 역량을 총동원하고 있습니다. 이는 국내 산업 생태계 강화, 지역 경제 활성화, 그리고 미래 성장 동력 확보를 위한 전략적 움직임으로 해석됩니다. 투자 지역에 기반을 둔 기업이나 삼성의 공급망에 포함되는 기업, 그리고 투자 분야(반도체, 바이오, AI 등) 관련 기업들이 수혜를 입을 수 있습니다.",
-      "description": "삼성이 호남, 충청, 영남 지역에 걸쳐 역대 최대 규모의 투자를 단행하며 그룹의 모든 역량을 집중하고 있습니다.",
-      "category": "기업·산업",
+      "summary_text": "핵심사실: 국내 증시에 폭락장 우려가 커지면서 삼성전자, SK하이닉스 등 주요 대형주 투자자들의 고민이 깊어지고 있다. 배경·맥락: 글로벌 고금리 기조, 경기 침체 우려, 기업 실적 부진 등이 복합적으로 작용하여 시장 불안감을 증폭시키고 있다. 투자 시사점: 하반기 증시 변동성 확대에 대비하여 포트폴리오의 리스크를 점검하고, 개별 기업의 실적 및 글로벌 거시경제 동향을 면밀히 분석해야 한다.",
+      "description": "폭락장에 대한 공포가 확산되는 가운데 '국민주'로 불리는 삼성전자와 SK하이닉스 등 주요 종목의 매도 여부에 대한 고민과 함께 하반기 국내 증시 전망을 분석한다.",
+      "category": "국내 거시경제",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 바이오, AI, 디스플레이, 건설",
+      "market_impact": "부정",
+      "related_sector": "반도체, IT, 광범위 (시장 전체)",
       "related_stocks": [
         "삼성전자",
-        "삼성바이오로직스",
-        "삼성SDI"
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "삼성의 전방위적이고 역대급 투자는 국내 경제 전반과 특정 산업에 대한 강력한 성장 모멘텀을 제공하기 때문입니다.",
-      "key_signal": "삼성의 지역별, 산업별 구체적인 투자 계획과 그에 따른 직접적인 수혜가 예상되는 협력 및 관련 기업들을 중심으로 투자 기회를 모색해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 대표 국민주에 대한 매도 고민이 나올 정도로 시장 전반의 투자 심리가 위축되고 있어 하반기 시장 변동성에 대한 철저한 대비가 필요하다.",
+      "key_signal": "글로벌 경기 둔화 우려와 국내 기업 실적 발표를 주시하며, 외국인 및 기관 투자자들의 수급 동향을 면밀히 분석해야 한다.",
       "keywords": [
-        "삼성",
-        "대규모투자",
-        "지역경제",
-        "산업생태계"
+        "국내증시",
+        "폭락장",
+        "삼성전자",
+        "SK하이닉스",
+        "하반기전망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xOElBM0FIUlJnVjItcl9odHVOTjhPNUhpcERCMWF5MUVOemdkTzJ4dUFxT283QWlzTkQwbC11MUFSRGxMeTA3MlpCUWlZYU5KQmFlQ0dIRnBwU1JnaGdwU19TSGFtUS1GcjBRUjM4VGxqUlB4RHpoU2JsdXQ?oc=5",
-      "published": "2026-06-28 05:31",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aSGVnRmtab1BFT0U5cGZpQTVsMnVheVFGWVh1dC1jaXlXR3VfNGxIR2pVc3daeXhLTXI3dG9yRE9YNHpJTHJDX29HNTZqZEx1ek9KUExyWm54dWxIVnV4c1l1ZWJzSTh1SFJrTEpGT2NCd9IBckFVX3lxTE9aSGVnRmtab1BFT0U5cGZpQTVsMnVheVFGWVh1dC1jaXlXR3VfNGxIR2pVc3daeXhLTXI3dG9yRE9YNHpJTHJDX29HNTZqZEx1ek9KUExyWm54dWxIVnV4c1l1ZWJzSTh1SFJrTEpGT2NCdw?oc=5",
+      "published": "2026-06-28 20:53",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -224,40 +234,41 @@
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "6월 한 달 내내 출렁인 코스피…실적 시즌 7월에는 다를까",
-      "display_title": "6월 한 달 내내 출렁인 코스피…실적 시즌 7월에는 다를까",
-      "original_title": "6월 한달 내내 출렁인 코스피…실적 시즌 7월에는 다를까 - 매일경제 마켓",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "연준 의사록에 금리 인하 기대감 약화되며 다우, S&P 500, 나스닥 선물 하락",
+      "display_title": "연준 의사록에 금리 인하 기대감 약화되며 다우, S&P 500, 나스닥 선물 하락",
+      "original_title": "Dow, S&P 500, Nasdaq Futures Slip As Fed Minutes Temper Rate-Cut Hopes: Why CVNA, FIG, DASH, BTG, IBRX Are Trending After-Hours - Stocktwits",
       "summary": [
-        "코스피가 6월 한 달간 큰 변동성을 보였으며, 다가오는 7월 실적 시즌에 대한 기대감이 형성되고 있습니다.",
-        "대외 거시경제 불확실성, 금리 인상 우려 등이 증시 불안정을 야기했으나, 기업들의 실적 발표가 투자심리를 개선할 수 있는 전환점이 될 수 있습니다.",
-        "실적 개선이 예상되는 업종 및 종목에 대한 선별적 접근이 필요하며, 어닝 서프라이즈 여부가 시장 분위기를 좌우할 것입니다."
+        "핵심사실: 연준 의사록에서 매파적 기조가 확인되며 금리 인하 기대감이 후퇴했고, 이에 따라 미국 증시 선물 지수가 일제히 하락했다.",
+        "배경·맥락: 시장은 연준의 금리 인하 시점을 늦추는 발언에 민감하게 반응했으며, 이는 금리 인하를 기대했던 시장에 실망감을 안겨주었다.",
+        "투자 시사점: 금리 인하 기대감 축소는 주식 시장 전반에 부정적으로 작용하며, 특히 고성장 기술주에는 더 큰 압박을 줄 수 있으니 주의해야 한다."
       ],
-      "summary_text": "코스피가 6월 한 달간 큰 변동성을 보였으며, 다가오는 7월 실적 시즌에 대한 기대감이 형성되고 있습니다. 대외 거시경제 불확실성, 금리 인상 우려 등이 증시 불안정을 야기했으나, 기업들의 실적 발표가 투자심리를 개선할 수 있는 전환점이 될 수 있습니다. 실적 개선이 예상되는 업종 및 종목에 대한 선별적 접근이 필요하며, 어닝 서프라이즈 여부가 시장 분위기를 좌우할 것입니다.",
-      "description": "6월 내내 불안정한 모습을 보인 코스피가 7월 실적 시즌을 맞아 다른 양상을 보일지 관심이 집중됩니다.",
+      "summary_text": "핵심사실: 연준 의사록에서 매파적 기조가 확인되며 금리 인하 기대감이 후퇴했고, 이에 따라 미국 증시 선물 지수가 일제히 하락했다. 배경·맥락: 시장은 연준의 금리 인하 시점을 늦추는 발언에 민감하게 반응했으며, 이는 금리 인하를 기대했던 시장에 실망감을 안겨주었다. 투자 시사점: 금리 인하 기대감 축소는 주식 시장 전반에 부정적으로 작용하며, 특히 고성장 기술주에는 더 큰 압박을 줄 수 있으니 주의해야 한다.",
+      "description": "연방준비제도(Fed)의 의사록 공개로 금리 인하에 대한 시장의 기대감이 약화되면서 다우, S&P 500, 나스닥 선물 지수가 하락했으며, CVNA, FIG, DASH, BTG, IBRX 등의 종목이 시간 외 거래에서 주목받았다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "IT, 반도체, 자동차, 배터리",
+      "market_impact": "부정",
+      "related_sector": "기술주, 성장주, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "CVNA",
+        "DASH"
       ],
-      "investment_view": "관심",
-      "investment_reason": "7월 실적 시즌은 불안정한 증시에 새로운 모멘텀을 제공하고 실적 개선 기업에 대한 투자 기회를 발굴할 수 있는 시기이기 때문입니다.",
-      "key_signal": "7월 실적 발표 예정 기업들의 가이던스 및 실제 실적 수치를 면밀히 분석하고, 컨센서스를 상회하는 어닝 서프라이즈 여부를 주목해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 매파적 의사록 공개는 금리 인하 지연 가능성을 높여 글로벌 유동성 환경에 부정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "연준 의사록의 세부 내용과 시장 전문가들의 해석을 분석하고, 국내 시장에 미칠 파급 효과를 예의주시해야 한다.",
       "keywords": [
-        "코스피",
-        "실적시즌",
-        "7월증시",
-        "기업실적"
+        "연준의사록",
+        "금리인하",
+        "선물하락",
+        "매파",
+        "유동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnX1hLbngzaUlvYjZncHNXRk1STFRzZjVZS0JUN3ZjNmNqdWhyWDAzSVpCRUlFa0NxQ0Q4Q1BQNWRhQi1WNl9RdjNLQUZDVUFyN3c?oc=5",
-      "published": "2026-06-28 07:20",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR0dNUGg2X2c5d0dpczIzYnlOUEVmZm1mdlpWZzJkNzlFczBXX1NlOWgwbTBWSnBUQ09kQVdXV24td3FTRDNRc0RhakdzZ3RRNkNvV0JkcXNheEFRemZWeFZ5QkpnRzNnbXBncS00VG9ucDY1TWtVT2dXaGlsNnVaRWhCMGxtSzlFMzRzZ2ZKdFlWZjcwb2hmeEVhUmk3M09NZDdHRE44OXVHM3Z6MUhvM1BaYnlqVEw4SFJSeTAtY2FiZlhxWHZXeWJFWDZXd0psSTdxWm5LVlplazQ?oc=5",
+      "published": "2026-06-28 15:36",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -270,63 +281,68 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성그룹의 역대급 국내 투자 발표로 반도체, AI 등 핵심 사업 부문 성장에 대한 기대감이 높아졌으며, 다가오는 7월 실적 시즌을 통해 기업의 실적 개선 여부를 확인할 수 있는 중요한 시기입니다.",
+      "reason": "정부 주도의 1000조원 규모 메가 프로젝트 투자 발표로 국내 핵심 산업의 성장 동력이 강화될 것으로 기대되지만, 연준의 긴축 우려와 미국 기술주 하락 압력 또한 동시에 받고 있어 양방향 변동성을 주시해야 합니다.",
       "check_points": [
-        "삼성그룹의 전방위적 투자 계획 구체화 및 진행 상황",
-        "2분기 실적 발표 내용 및 하반기 가이던스",
-        "글로벌 반도체 업황 및 수요 회복 강도"
+        "1000조 투자 관련 구체적인 수혜 분야 확인",
+        "미국 기술주 시장의 변동성 추이",
+        "연준의 금리 정책 변화"
       ],
       "related_news_titles": [
-        "삼성, 호남부터 충청·영남까지 역대 최대 투자…그룹 역량 총동원",
-        "6월 한 달 내내 출렁인 코스피…실적 시즌 7월에는 다를까"
+        "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
+        "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다",
+        "연준, 연방기금금리 조정 없이 금리 인상할 수 있는 '두 가지 은밀한 방법'"
       ]
     },
     {
       "rank": 2,
-      "name": "삼성바이오로직스",
-      "market": "KOSPI",
-      "sector": "바이오",
-      "opinion": "관심",
-      "reason": "삼성그룹의 대규모 투자 계획에 바이오 산업이 핵심 축으로 포함되어 있어, 중장기적인 성장 동력 확보 및 시장 지배력 강화에 대한 기대감이 커지고 있습니다.",
-      "check_points": [
-        "삼성그룹 바이오 투자 세부 계획 및 진행 상황",
-        "글로벌 CDMO 시장 동향 및 수주 확대 여부",
-        "하반기 실적 전망 및 신사업 추진 동향"
-      ],
-      "related_news_titles": [
-        "삼성, 호남부터 충청·영남까지 역대 최대 투자…그룹 역량 총동원"
-      ]
-    },
-    {
-      "rank": 3,
-      "name": "미래에셋증권",
-      "market": "KOSPI",
-      "sector": "금융",
-      "opinion": "관심",
-      "reason": "목요일 발표될 6월 미국 고용 보고서는 연준의 통화정책 방향을 결정하는 핵심 지표로, 글로벌 증시 및 금리 변동성 확대가 예상되어 금융투자 업종의 움직임에 주목할 필요가 있습니다.",
-      "check_points": [
-        "6월 미국 고용 보고서 발표 결과 및 시장 반응",
-        "글로벌 금리 및 외환 시장 변동성",
-        "국내 증시 거래대금 변화 및 투자심리 동향"
-      ],
-      "related_news_titles": [
-        "목요일 발표될 6월 고용 보고서가 시장을 움직일 수 있는 이유"
-      ]
-    },
-    {
-      "rank": 4,
       "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "7월 실적 시즌은 불확실한 증시에 새로운 모멘텀을 제공할 수 있으며, 반도체 산업의 주요 기업인 SK하이닉스의 실적 개선 여부가 시장의 중요한 관심사가 될 것입니다.",
+      "reason": "삼성전자와 함께 정부와 기업의 1000조원대 투자 프로젝트의 핵심 수혜주로 꼽히며 반도체 산업의 중장기 성장 동력을 확보할 것으로 기대되나, 전반적인 시장의 투자 심리 위축에는 주의가 필요합니다.",
       "check_points": [
-        "2분기 실적 발표 내용 및 HBM 등 고부가 제품 매출 성장 여부",
-        "글로벌 메모리 반도체 시장 가격 동향 및 재고 수준",
-        "하반기 수요 회복 전망 및 투자 계획"
+        "고대역폭 메모리(HBM) 등 고부가가치 제품의 수요 변화",
+        "글로벌 반도체 경기 회복 시점",
+        "미국 기술주 하락의 추가 영향"
       ],
       "related_news_titles": [
-        "6월 한 달 내내 출렁인 코스피…실적 시즌 7월에는 다를까"
+        "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
+        "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다",
+        "최신 고용지표 발표 후 월스트리트 급락, 나스닥 4% 폭락 마감"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "현대차",
+      "market": "KOSPI",
+      "sector": "자동차",
+      "opinion": "관심",
+      "reason": "1000조원 규모의 메가 프로젝트에서 자동차 산업의 미래 모빌리티 부문 투자가 강화될 것으로 예상되어 중장기적인 성장 잠재력이 부각되고 있습니다.",
+      "check_points": [
+        "전기차 전환 전략의 성공 여부",
+        "글로벌 완성차 시장 경쟁 심화",
+        "원자재 가격 및 환율 변동성"
+      ],
+      "related_news_titles": [
+        "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
+        "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "네이버",
+      "market": "KOSPI",
+      "sector": "인터넷/플랫폼",
+      "opinion": "주의",
+      "reason": "연준의 매파적 스탠스와 미국 나스닥 시장의 급락은 국내 기술주 및 성장주에 대한 투자 심리를 급격히 위축시킬 수 있어 시장 변동성에 대비할 필요가 있습니다.",
+      "check_points": [
+        "미국 나스닥 시장의 추가 하락 여부",
+        "국내 온라인 광고 및 커머스 시장의 성장세",
+        "연준의 금리 인하 기대감 변화"
+      ],
+      "related_news_titles": [
+        "연준, 연방기금금리 조정 없이 금리 인상할 수 있는 '두 가지 은밀한 방법'",
+        "최신 고용지표 발표 후 월스트리트 급락, 나스닥 4% 폭락 마감"
       ]
     }
   ],
