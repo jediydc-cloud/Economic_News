@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29 08:02",
-  "analysis_date": "2026-06-29",
+  "generated_at": "2026-06-30 07:57",
+  "analysis_date": "2026-06-30",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 대기업들의 대규모 투자 발표로 긍정적 기대감이 커지는 가운데, 미국 고용 지표와 연준의 매파적 기조가 지속되며 글로벌 증시 하방 압력이 확대되고 있습니다. 국내 증시 또한 변동성 확대에 대한 우려가 상존합니다.",
-    "국내거시경제": "정부 주도의 1000조원 규모 '3대 메가 프로젝트' 발표가 예정되어 삼성, SK, 현대차 등 주요 기업들의 대규모 투자가 기대됩니다. 이는 국가 경제 활성화 및 신성장 동력 확보에 긍정적 영향을 미칠 것으로 보입니다. 다만, 국내 증시는 글로벌 고금리 기조, 경기 침체 우려 등으로 인한 하반기 폭락장 가능성 우려가 제기되고 있습니다.",
-    "글로벌경제": "미국 고용 지표가 견조하게 발표되며 연준의 긴축 장기화 우려가 다시 불거졌습니다. 연준 의사록에서도 매파적 기조가 확인되면서 시장의 금리 인하 기대감이 약화되고 있습니다.",
-    "증시금리": "견조한 미국 고용지표와 연준의 매파적 의사록 공개로 금리 인하 기대감이 후퇴하며 뉴욕 증시가 급락했습니다. 특히 기술주 중심의 나스닥은 4%대 폭락을 기록했으며, 연준이 금리 인상 없이도 긴축 효과를 낼 수 있는 간접적인 방법들이 언급되어 주의가 필요합니다.",
-    "부동산정책": "해당 사항 없음",
-    "기업산업": "삼성, SK 등 국내 주요 대기업들이 정부의 '3대 메가 프로젝트'에 발맞춰 1000조원 규모의 대규모 투자를 단행할 예정입니다. 이는 관련 산업 생태계 전반에 활력을 불어넣고 신규 일자리를 창출하며 장기적인 관점에서 긍정적인 투자 기회를 제공할 것으로 전망됩니다.",
-    "오늘의투자시사점": "국내 대기업의 대규모 투자 발표는 관련 산업 및 수혜 기업에 대한 투자 매력을 높일 수 있습니다. 반면, 해외는 연준의 매파적 기조와 고용지표 강세로 인한 금리 인하 기대감 약화로 글로벌 증시 변동성 확대가 예상됩니다. 이에 대비하여 포트폴리오 리스크를 점검하고, 금리 민감 섹터에 대한 주의와 함께 개별 기업의 실적 및 거시경제 동향을 면밀히 분석해야 합니다.",
-    "오늘의한줄": "대기업 투자 기대감과 연준발 긴축 우려가 교차하는 가운데, 국내 증시는 변동성 확대에 대한 철저한 대비가 필요합니다."
+    "총평": "미국 증시의 기술주 강세와 AI, 2차전지 등 미래 산업에 대한 기대감이 높지만, 국내 환율 불안정성과 미국 고용지표 발표에 따른 금리 불확실성에 유의해야 합니다.",
+    "국내거시경제": "원/달러 환율이 1500원에 근접하며 원화 약세의 구조적 원인에 대한 분석이 나왔습니다. 수입 물가 상승 및 기업 환율 부담 가중 우려가 있어 환율 동향과 정부 대응을 예의주시해야 합니다.",
+    "글로벌경제": "미국 증시에서 기술주가 크게 반등하며 나스닥은 2% 이상, 다우는 사상 최고치를 기록했습니다. 반도체 장비주 등 기술주 전반의 강세가 두드러졌습니다. 연준의 금리 결정에 핵심적인 역할을 할 비농업 고용보고서 발표가 임박해 시장의 관심이 집중되고 있습니다.",
+    "증시금리": "미국 증시는 기술주 주도로 강세를 보였으나, 금리 불확실성 속 비농업 고용보고서 결과에 따라 시장 변동성이 커질 수 있습니다. 국내 증시는 글로벌 기술주 강세의 긍정적 영향과 고환율 리스크 사이에서 균형을 찾아갈 것으로 예상됩니다.",
+    "부동산정책": "특이사항 없음.",
+    "기업산업": "AI 인프라 수요 증가와 국가 AI 전략(4700조원 규모) 발표로 AI 관련 산업의 성장 기대감이 높습니다. 2차전지 역시 AI에 이어 차세대 성장 동력으로 주목받고 있으며, 글로벌 반도체 칩 장비 산업의 성장세는 국내 소부장 기업에도 긍정적인 영향을 미칠 전망입니다.",
+    "오늘의투자시사점": "글로벌 기술주 강세와 AI, 2차전지 등 미래 성장 산업에 대한 지속적인 관심이 필요합니다. 다만, 국내 고환율 리스크와 미국 고용보고서에 따른 금리 불확실성 증폭 가능성에 대비한 신중한 투자 전략이 요구됩니다.",
+    "오늘의한줄": "글로벌 기술주 강세와 AI·2차전지 성장 모멘텀에 주목하되, 국내 환율 불안정과 미국 고용지표를 주시하며 신중한 접근이 필요한 시점입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
-      "display_title": "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
-      "original_title": "이재용·최태원 청와대 간다…'1000조 투자' 메가프로젝트 공개 - 한국경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시 기술주 강세, 나스닥 2% 이상 상승 및 다우 사상 최고치 마감",
+      "display_title": "미국 증시 기술주 강세, 나스닥 2% 이상 상승 및 다우 사상 최고치 마감",
+      "original_title": "U.S. Market Close | Tech stocks staged a strong rebound, with the Nasdaq rising over 2% and the Dow closing at a record high; semiconductor equipment stocks surged, with Applied Materials up nearly 11% to a new high; Rocket Lab soared 16% after annou - 富途牛牛",
       "summary": [
-        "핵심사실: 삼성, SK 등 국내 주요 대기업 총수들이 정부와 함께 1000조원 규모의 대규모 투자 프로젝트를 발표할 예정이다.",
-        "배경·맥락: 정부의 경제 활성화 정책과 기업들의 미래 성장 동력 확보 노력이 결합된 대형 프로젝트로, 국가 경제 전반에 긍정적 영향을 미칠 것으로 기대된다.",
-        "투자 시사점: 대규모 투자는 관련 산업 생태계 전반에 활력을 불어넣고 신규 일자리를 창출하여 장기적인 관점에서 관련 섹터에 대한 투자 매력을 높일 수 있다."
+        "미국 증시에서 기술주가 크게 반등하며 나스닥은 2% 이상, 다우는 사상 최고치를 기록했다.",
+        "반도체 장비주 Applied Materials가 11% 가까이 급등했으며, Rocket Lab도 16% 상승했다.",
+        "기술주 전반 및 반도체 섹터의 강세는 국내 관련 산업에도 긍정적 투자 심리를 불러올 수 있다."
       ],
-      "summary_text": "핵심사실: 삼성, SK 등 국내 주요 대기업 총수들이 정부와 함께 1000조원 규모의 대규모 투자 프로젝트를 발표할 예정이다. 배경·맥락: 정부의 경제 활성화 정책과 기업들의 미래 성장 동력 확보 노력이 결합된 대형 프로젝트로, 국가 경제 전반에 긍정적 영향을 미칠 것으로 기대된다. 투자 시사점: 대규모 투자는 관련 산업 생태계 전반에 활력을 불어넣고 신규 일자리를 창출하여 장기적인 관점에서 관련 섹터에 대한 투자 매력을 높일 수 있다.",
-      "description": "이재용 삼성전자 회장과 최태원 SK그룹 회장 등 국내 주요 기업 총수들이 청와대를 방문하여 '1000조원 규모'의 메가프로젝트 투자 계획을 공개한다.",
-      "category": "기업·산업",
-      "importance": 10,
+      "summary_text": "미국 증시에서 기술주가 크게 반등하며 나스닥은 2% 이상, 다우는 사상 최고치를 기록했다. 반도체 장비주 Applied Materials가 11% 가까이 급등했으며, Rocket Lab도 16% 상승했다. 기술주 전반 및 반도체 섹터의 강세는 국내 관련 산업에도 긍정적 투자 심리를 불러올 수 있다.",
+      "description": "미국 증시에서 기술주가 강하게 반등하며 나스닥 종합지수가 2% 이상 상승하고 다우존스 산업평균지수가 사상 최고치를 기록했습니다. 특히 반도체 장비주인 어플라이드 머티어리얼즈는 11% 가까이 급등하며 신고가를 경신했습니다. 로켓 랩 또한 발표 후 16% 상승했습니다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "반도체, 이차전지, 자동차, AI, 바이오",
+      "related_sector": "반도체, 기술주",
       "related_stocks": [
-        "삼성전자",
         "SK하이닉스",
-        "현대차"
+        "한미반도체",
+        "이오테크닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "1000조원 규모의 대규모 투자는 국내 핵심 산업의 성장 동력을 강화하고 관련 기업들의 실적 개선에 크게 기여할 수 있기 때문이다.",
-      "key_signal": "투자 프로젝트의 구체적인 내용과 투자 대상 산업 및 기업을 확인하고, 관련 수혜 기업들을 선별하여 투자 기회를 모색해야 한다.",
+      "investment_reason": "미국 기술주와 반도체 장비주의 강세는 국내 반도체 관련 기업들의 투자 심리에 긍정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "미국 증시 마감 상황과 기술주, 반도체 장비주의 상승 모멘텀이 국내 시장에 어떻게 반영될지 주시해야 한다.",
       "keywords": [
-        "1000조투자",
-        "메가프로젝트",
-        "삼성",
-        "SK",
-        "정부정책"
+        "미국증시",
+        "기술주",
+        "반도체",
+        "나스닥",
+        "신고가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX0VvNlNiTWVfN0dSbndGbm1mY0ZQSVpZSjVDU0ZTbkRpSEo5ZXR1YjdHdDNCUjkzLUlXU2VmOFkxcjVkUEtyeWw3TVNVczdFRGpNSm8xTnFPZ9IBVEFVX3lxTE1SNlZ4TTdEM2cyY0d1ZEtSRWZKVWt1Rjhwdi1NVzVxQ0pReS1XZTlEOTRXOWtoR2xVMWE2ZDljUGtBT3k3SHktSVNHemtPZ2syUGRENA?oc=5",
-      "published": "2026-06-29 06:07",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGFRZmdmX3phZjNiVElZN2Y0UTljR0pLVVBzbnJvMVNkSnZMRVBTWWhRcDFBaUVCdWNRbHpFZjE4WTllNTNDM2liS09CWGRFUVJlYTQ4Ym9JZVJtemtmX3RqT2RSMFprbUx1M0VuTnA4YnZlazRyb3pPWHplMkVYamFwekZSUEYzTm1WTUZxc2NlUmtsd3BoS0pvUFRYNnhjNkJr?oc=5",
+      "published": "2026-06-30 07:27",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,37 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다",
-      "display_title": "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다",
-      "original_title": "李정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 보탠다 - 네이트",
+      "title": "[환율 1500원의 경고①] IMF 외환위기와 다른 원화 약세의 원인 분석",
+      "display_title": "[환율 1500원의 경고①] IMF 외환위기와 다른 원화 약세의 원인 분석",
+      "original_title": "[환율 1500원의 경고①] IMF 때와 다르다…달러는 많은데 원화는 왜 약한가 - v.daum.net",
       "summary": [
-        "핵심사실: 정부가 발표할 '3대 메가 프로젝트'에 삼성, SK, 현대차 등 국내 대기업들이 1000조원 규모의 투자를 단행하며 힘을 보탤 예정이다.",
-        "배경·맥락: 국가 경쟁력 강화와 신성장 동력 확보를 위한 정부와 기업 간의 협력 사례로, 경제 전반에 긍정적인 파급 효과가 기대된다.",
-        "투자 시사점: 대규모 투자 계획은 관련 산업의 성장 기대감을 높이고 수혜 기업들의 주가에 긍정적인 영향을 미칠 수 있으므로 주목할 필요가 있다."
+        "원/달러 환율이 1500원에 근접하며 경고음이 울리고 있으나, 현재의 원화 약세는 과거 IMF 외환위기와는 다른 원인을 가지고 있다.",
+        "기사에서는 국내 달러 유동성은 충분함에도 원화가 약세를 보이는 구조적 원인을 분석한다.",
+        "고환율은 수입 물가 상승, 기업 환율 부담 가중 등 국내 경제 전반에 부정적 영향을 미치므로, 환율 동향과 정부 대응을 예의주시해야 한다."
       ],
-      "summary_text": "핵심사실: 정부가 발표할 '3대 메가 프로젝트'에 삼성, SK, 현대차 등 국내 대기업들이 1000조원 규모의 투자를 단행하며 힘을 보탤 예정이다. 배경·맥락: 국가 경쟁력 강화와 신성장 동력 확보를 위한 정부와 기업 간의 협력 사례로, 경제 전반에 긍정적인 파급 효과가 기대된다. 투자 시사점: 대규모 투자 계획은 관련 산업의 성장 기대감을 높이고 수혜 기업들의 주가에 긍정적인 영향을 미칠 수 있으므로 주목할 필요가 있다.",
-      "description": "이 정부가 오늘 '3대 메가 프로젝트'를 공개할 예정이며, 삼성, SK, 현대차 등 주요 그룹이 1000조원 규모의 투자 계획으로 이에 힘을 보탤 것이다.",
-      "category": "기업·산업",
+      "summary_text": "원/달러 환율이 1500원에 근접하며 경고음이 울리고 있으나, 현재의 원화 약세는 과거 IMF 외환위기와는 다른 원인을 가지고 있다. 기사에서는 국내 달러 유동성은 충분함에도 원화가 약세를 보이는 구조적 원인을 분석한다. 고환율은 수입 물가 상승, 기업 환율 부담 가중 등 국내 경제 전반에 부정적 영향을 미치므로, 환율 동향과 정부 대응을 예의주시해야 한다.",
+      "description": "원/달러 환율이 1500원 수준에 근접하며 경고등이 켜진 가운데, 현재의 원화 약세가 과거 IMF 외환위기 때와는 다른 양상을 보인다는 분석입니다. 국내에 달러 유동성은 충분한데도 원화가 약세를 보이는 구조적 원인에 대해 심층적으로 다루고 있습니다.",
+      "category": "국내 거시경제",
       "importance": 10,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 자동차, 이차전지, 바이오, AI",
+      "market_impact": "부정",
+      "related_sector": "수출주, 수입주, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "현대차"
+        "현대차",
+        "기아",
+        "대한항공"
       ],
-      "investment_view": "관심",
-      "investment_reason": "정부 주도의 대규모 프로젝트와 국내 주요 기업들의 전방위적 투자는 장기적으로 한국 경제의 성장 잠재력을 높이고 관련 기업들의 가치를 상승시킬 수 있기 때문이다.",
-      "key_signal": "'3대 메가 프로젝트'의 구체적인 내용과 기업별 투자 계획을 면밀히 분석하고, 직접적인 수혜가 예상되는 기업들을 선별해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "고환율 지속은 국내 물가 상승 압력과 기업들의 원자재 수입 비용 증가 등 국내 경제 전반에 부정적인 영향을 미쳐 투자 심리를 위축시킬 수 있기 때문이다.",
+      "key_signal": "정부와 한국은행의 환율 방어 정책과 원화 약세의 구조적 원인에 대한 추가 분석 및 해결 노력을 지속적으로 확인해야 한다.",
       "keywords": [
-        "정부정책",
-        "1000조투자",
-        "메가프로젝트",
-        "삼성",
-        "SK"
+        "환율",
+        "원화약세",
+        "고환율",
+        "거시경제",
+        "수입물가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rN0lsX0c5Y3NXb3JNd0hfQm5SVVRiaVVzOUdqeGowMEZJb0VOTW55V3ZsMV9kMHBoRnNGU0tvRDJrWXBSam5vc3VIODBrLTlFN3JF?oc=5",
-      "published": "2026-06-29 06:01",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1obk9kRVNjbTBhNHZ2NzJMaW1nMFFKQWpUZDU5RFVZUzhpSkNmd0Q5ODhtakFDcm50c1lNR2lOZ290a2lGUmtQakdLVnhsUEZ5M1VTOA?oc=5",
+      "published": "2026-06-30 00:02",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -109,125 +109,122 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "연준, 연방기금금리 조정 없이 금리 인상할 수 있는 '두 가지 은밀한 방법'",
-      "display_title": "연준, 연방기금금리 조정 없이 금리 인상할 수 있는 '두 가지 은밀한 방법'",
-      "original_title": "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Rates Without Adjusting the Federal Funds Rate - The Motley Fool",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "차세대 AI로 2차전지 주목, 성장 산업 투자처로 부상",
+      "display_title": "차세대 AI로 2차전지 주목, 성장 산업 투자처로 부상",
+      "original_title": "넥스트 AI는 2차전지?…차세대 성장 산업 투자처 ‘주목’ - 데일리안",
       "summary": [
-        "핵심사실: 연방준비제도가 연방기금금리를 직접 인상하지 않고도 시장 금리를 올릴 수 있는 두 가지 간접적인 방법이 제시되었다.",
-        "배경·맥락: 이는 시장에 '매파적' 신호를 보내거나, 유동성을 조절하여 실질적인 긴축 효과를 낼 수 있음을 의미한다.",
-        "투자 시사점: 연준의 공식 발표 외에 숨겨진 긴축 시그널에 대한 면밀한 분석이 필요하며, 금리 민감 섹터에 대한 주의가 요구된다."
+        "인공지능(AI)에 이어 2차전지 산업이 차세대 성장 동력 및 투자처로 부각되고 있다.",
+        "이는 전기차 시장 성장, 에너지 저장 시스템(ESS) 확대 등 2차전지 수요 증가에 대한 기대감을 반영한다.",
+        "AI와 2차전지 모두 미래 핵심 산업이므로, 두 산업의 연관성 및 기술 발전에 대한 지속적인 관심이 필요하다."
       ],
-      "summary_text": "핵심사실: 연방준비제도가 연방기금금리를 직접 인상하지 않고도 시장 금리를 올릴 수 있는 두 가지 간접적인 방법이 제시되었다. 배경·맥락: 이는 시장에 '매파적' 신호를 보내거나, 유동성을 조절하여 실질적인 긴축 효과를 낼 수 있음을 의미한다. 투자 시사점: 연준의 공식 발표 외에 숨겨진 긴축 시그널에 대한 면밀한 분석이 필요하며, 금리 민감 섹터에 대한 주의가 요구된다.",
-      "description": "연방준비제도(Fed) 의장 케빈 워시와 연방공개시장위원회(FOMC)가 연방기금금리를 직접 조정하지 않고도 금리를 인상할 수 있는 두 가지 '은밀한' 방안에 대한 기사이다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "금융, 채권, 기술주",
+      "summary_text": "인공지능(AI)에 이어 2차전지 산업이 차세대 성장 동력 및 투자처로 부각되고 있다. 이는 전기차 시장 성장, 에너지 저장 시스템(ESS) 확대 등 2차전지 수요 증가에 대한 기대감을 반영한다. AI와 2차전지 모두 미래 핵심 산업이므로, 두 산업의 연관성 및 기술 발전에 대한 지속적인 관심이 필요하다.",
+      "description": "인공지능(AI) 시대를 이을 차세대 성장 동력으로 2차전지 산업이 새롭게 주목받고 있습니다. 이 기사는 2차전지가 앞으로의 경제에서 어떤 역할을 할지, 그리고 투자 관점에서 어떤 기회를 제공할지에 대해 다룹니다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "2차전지, 전기차, 신재생에너지",
       "related_stocks": [
-        "카카오",
-        "네이버",
-        "삼성전자"
+        "LG에너지솔루션",
+        "삼성SDI",
+        "포스코퓨처엠"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준이 공식적인 금리 인상 발표 없이도 시장에 긴축 효과를 줄 수 있는 방법을 모색하고 있다는 점은 투자 환경에 예상치 못한 변화를 가져올 수 있기 때문이다.",
-      "key_signal": "연준의 공식 발표뿐만 아니라 유동성 조절 등 간접적인 긴축 시그널이 있는지 면밀히 체크해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "2차전지 산업은 전기차 및 에너지 저장 시스템 확대로 장기적인 성장성이 매우 높으며, AI 시대와 맞물려 혁신적인 기술 발전이 기대되기 때문이다.",
+      "key_signal": "2차전지 관련 기업들의 실적, 신기술 개발 동향, 그리고 정부의 정책 지원 여부를 면밀히 살펴야 한다.",
       "keywords": [
-        "연준",
-        "금리인상",
-        "긴축정책",
-        "FOMC",
-        "유동성"
+        "2차전지",
+        "AI",
+        "전기차",
+        "ESS",
+        "미래산업"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmF6cGRuSVllSTFYdEZNSV9rRXliZmFYX0d6azhSdjZ3RUhSdURXLW1naWY0N3RVcENibE02aUd6MGEzS01hSXNqNmZtZnNSWENxNFlmRE5zbTIxVnA4Sk1IU1cyNUxUbXZiSkNuS05rUlFLY21qQWN4VTZHOV9jVGVMbE1XbEZQRXlUelEzcGxxQTZEbE80Mg?oc=5",
-      "published": "2026-06-28 23:06",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsSXoybXFSSnBiQkFwOGp4ZzdCTDNSLUNydnAzOXRXVVpia0haa1hTcU5mYlFIQ2hCYnFzaVBySWdFZ3g5SGVZamlNeXNDbHN3SGM3aEFtMNIBhgJBVV95cUxONmdGSFJkM0xOUjZYQTVwTWVBam0xSzhOTFlLdklwOWtnTFNMT3gtWmp4czhXdXhjNDRPSUhSb2RiN1BCYmhTaTRjU19YMHlEODlyRGpoRXIyVkNXLWtmRUlzbkFEYU9QRUNPcU9TOU1pRi1paUI3QzNjalJFM09qRTY0SHE1QkRRRnljZTZZSjRHSnljd0ZhYlQ4aVVuX2FTVy02VjVNX3ZkYkxsbi1XeWJORGl2Y1pNYndNTExmd0Q1QlZGUktNdmYzdmZKWkpFTV93WW1Ja1VRekZ1N0FhMzB3ZVFzQkhIVHZPVW9lcV9yQ3hNNzBqRzNEbjhtcFlYMXVKWGp3?oc=5",
+      "published": "2026-06-30 07:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "최신 고용지표 발표 후 월스트리트 급락, 나스닥 4% 폭락 마감",
-      "display_title": "최신 고용지표 발표 후 월스트리트 급락, 나스닥 4% 폭락 마감",
-      "original_title": "NASDAQ plunged 4% as Wall Street ended deep in the red after the latest payrolls print - MSN",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[재계포커스] 4700조원 규모 국가 AI 전략, 관치 논란 속 핵심 과제 부상",
+      "display_title": "[재계포커스] 4700조원 규모 국가 AI 전략, 관치 논란 속 핵심 과제 부상",
+      "original_title": "[이강미의 재계포커스]'국민영웅'과 4700조원의 약속…관치의 귀환인가, AI시대의 국가 전략인가 - 매일산업뉴스",
       "summary": [
-        "핵심사실: 예상치 못한 고용지표 발표 이후 기술주 중심의 나스닥 지수가 4% 폭락하며 미국 증시가 크게 하락했다.",
-        "배경·맥락: 견조한 고용지표는 연준의 긴축 기조를 장기화시킬 수 있다는 우려를 키워 시장의 금리 인하 기대를 약화시켰다.",
-        "투자 시사점: 고용지표와 같은 거시 경제 지표가 연준의 정책 방향에 미치는 영향이 크므로, 관련 지표 발표에 따른 시장 변동성에 대비해야 한다."
+        "4700조원 규모의 국가 AI 투자 계획이 발표되면서, '관치 논란'과 '국가 전략' 사이의 해석이 분분하다.",
+        "이는 정부 주도의 대규모 AI 산업 육성 계획을 시사하며, 관련 기업들에게는 큰 기회가 될 수 있다.",
+        "정책 방향성과 실제 집행 과정을 면밀히 주시하며, 정부 지원을 받을 수 있는 AI 관련 기업에 대한 투자 기회를 모색해야 한다."
       ],
-      "summary_text": "핵심사실: 예상치 못한 고용지표 발표 이후 기술주 중심의 나스닥 지수가 4% 폭락하며 미국 증시가 크게 하락했다. 배경·맥락: 견조한 고용지표는 연준의 긴축 기조를 장기화시킬 수 있다는 우려를 키워 시장의 금리 인하 기대를 약화시켰다. 투자 시사점: 고용지표와 같은 거시 경제 지표가 연준의 정책 방향에 미치는 영향이 크므로, 관련 지표 발표에 따른 시장 변동성에 대비해야 한다.",
-      "description": "최신 비농업 고용보고서 발표 이후 월스트리트가 큰 폭으로 하락 마감했으며, 기술주 중심의 나스닥 종합지수는 4% 폭락했다.",
-      "category": "증시·금리",
+      "summary_text": "4700조원 규모의 국가 AI 투자 계획이 발표되면서, '관치 논란'과 '국가 전략' 사이의 해석이 분분하다. 이는 정부 주도의 대규모 AI 산업 육성 계획을 시사하며, 관련 기업들에게는 큰 기회가 될 수 있다. 정책 방향성과 실제 집행 과정을 면밀히 주시하며, 정부 지원을 받을 수 있는 AI 관련 기업에 대한 투자 기회를 모색해야 한다.",
+      "description": "'국민영웅'으로 표현된 특정 인물 또는 기업과 연관된 4700조원 규모의 대규모 AI 투자 계획이 발표되면서, 이를 두고 '관치 경제의 귀환'인가 아니면 'AI 시대를 대비한 국가 전략'인가에 대한 논쟁이 벌어지고 있습니다. 이는 국가 차원의 AI 산업 육성 방안과 그에 따른 논란을 다룹니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "기술주, 성장주, 반도체",
+      "market_impact": "긍정",
+      "related_sector": "AI, 소프트웨어, 반도체, 데이터센터",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "네이버",
+        "카카오",
+        "SK텔레콤"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 나스닥의 큰 폭 하락은 국내 기술주 및 성장주에 대한 투자 심리를 급격히 위축시키고 시장 전반의 조정 압력을 높일 수 있기 때문이다.",
-      "key_signal": "미국 고용지표의 세부 내용과 연준 관계자들의 추가 발언을 주시하며, 국내 기술주 섹터의 변동성 확대 여부를 확인해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "4700조원 규모의 국가 AI 전략은 국내 AI 산업 전반에 걸쳐 막대한 투자와 성장 기회를 제공할 것이기 때문이다.",
+      "key_signal": "국가 AI 전략의 구체적인 내용, 예산 집행 계획, 그리고 주요 수혜 기업들을 면밀히 분석해야 한다.",
       "keywords": [
-        "나스닥",
-        "고용지표",
-        "증시폭락",
-        "기술주",
-        "긴축우려"
+        "AI전략",
+        "국가투자",
+        "관치논란",
+        "미래산업",
+        "소프트웨어"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWJXUFZyR2lsX0ZfeW5SMHlfbFVibHowdDhBZ2hWdkpuSXhNZHlDTzBla3BMMERmMXF1TmxlaWd3SDFvNTF0UXdzNHU1aEdfajVfWnEya2dLcVkzekwtOVVUTjZMRTRFUzFrZTBIano3VTVDWWRfSWVrX2FHOTRmQk9ONGExRmxhSnF4N2tsSVJoTU1hbjY5c0t5aHFQNGRJcjdXRTN0VkZTQjZ6eEM0aVV6QnMwbElIcml5NkV3?oc=5",
-      "published": "2026-06-28 22:54",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SGpMaC1YYk5nV1pUYkdlWHQxMDlDb0UtUXVmNVZGN2JIaGFoTXJPckhOY0Nwd0V4SGhWWTRfMTVZRTM1Szk3aHlvTEVkeEpudm0xbDN0NXkxaEoyTlpTeFBJUQ?oc=5",
+      "published": "2026-06-30 06:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "폭락장 공포 엄습, '국민주' 삼성전자·SK하이닉스 지금이라도 팔까?...하반기 증시 전망",
-      "display_title": "폭락장 공포 엄습, '국민주' 삼성전자·SK하이닉스 지금이라도 팔까?...하반기 증시 전망",
-      "original_title": "엄습한 폭락장 공포, '국민주' 삼전·닉스 지금이라도 팔까?...하반기 증시 전망 [유은길의 뉴스쪼개기] - citytimes.co.kr",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시, 금리 불확실성 속 비농업 고용보고서에 투자자 관심 집중",
+      "display_title": "미국 증시, 금리 불확실성 속 비농업 고용보고서에 투자자 관심 집중",
+      "original_title": "Dow Jones, Nasdaq, S&P 500 preview: Investors eye payrolls amid rate uncertainty By Investing.com - Investing.com Australia",
       "summary": [
-        "핵심사실: 국내 증시에 폭락장 우려가 커지면서 삼성전자, SK하이닉스 등 주요 대형주 투자자들의 고민이 깊어지고 있다.",
-        "배경·맥락: 글로벌 고금리 기조, 경기 침체 우려, 기업 실적 부진 등이 복합적으로 작용하여 시장 불안감을 증폭시키고 있다.",
-        "투자 시사점: 하반기 증시 변동성 확대에 대비하여 포트폴리오의 리스크를 점검하고, 개별 기업의 실적 및 글로벌 거시경제 동향을 면밀히 분석해야 한다."
+        "미국 증시 투자자들은 금리 불확실성 속에서 다가오는 비농업 고용보고서에 주목하고 있다.",
+        "고용 지표는 연방준비제도(Fed)의 금리 결정에 핵심적인 역할을 할 것으로 예상된다.",
+        "고용 보고서 결과에 따라 시장 변동성이 커질 수 있으므로 투자 전략에 신중한 접근이 필요하다."
       ],
-      "summary_text": "핵심사실: 국내 증시에 폭락장 우려가 커지면서 삼성전자, SK하이닉스 등 주요 대형주 투자자들의 고민이 깊어지고 있다. 배경·맥락: 글로벌 고금리 기조, 경기 침체 우려, 기업 실적 부진 등이 복합적으로 작용하여 시장 불안감을 증폭시키고 있다. 투자 시사점: 하반기 증시 변동성 확대에 대비하여 포트폴리오의 리스크를 점검하고, 개별 기업의 실적 및 글로벌 거시경제 동향을 면밀히 분석해야 한다.",
-      "description": "폭락장에 대한 공포가 확산되는 가운데 '국민주'로 불리는 삼성전자와 SK하이닉스 등 주요 종목의 매도 여부에 대한 고민과 함께 하반기 국내 증시 전망을 분석한다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "반도체, IT, 광범위 (시장 전체)",
-      "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
-      ],
+      "summary_text": "미국 증시 투자자들은 금리 불확실성 속에서 다가오는 비농업 고용보고서에 주목하고 있다. 고용 지표는 연방준비제도(Fed)의 금리 결정에 핵심적인 역할을 할 것으로 예상된다. 고용 보고서 결과에 따라 시장 변동성이 커질 수 있으므로 투자 전략에 신중한 접근이 필요하다.",
+      "description": "다우존스, 나스닥, S&P 500 등 미국 주요 지수는 금리 불확실성이 지속되는 가운데 투자자들이 다가오는 비농업 고용보고서 발표에 촉각을 곤두세우고 있음을 시사합니다. 고용 지표는 향후 연방준비제도(Fed)의 금리 정책 결정에 중요한 영향을 미칠 것으로 예상됩니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "거시경제, 금융",
+      "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "국내 대표 국민주에 대한 매도 고민이 나올 정도로 시장 전반의 투자 심리가 위축되고 있어 하반기 시장 변동성에 대한 철저한 대비가 필요하다.",
-      "key_signal": "글로벌 경기 둔화 우려와 국내 기업 실적 발표를 주시하며, 외국인 및 기관 투자자들의 수급 동향을 면밀히 분석해야 한다.",
+      "investment_reason": "비농업 고용보고서 결과에 따라 시장의 금리 전망이 크게 달라질 수 있어, 높은 변동성이 예상되기 때문이다.",
+      "key_signal": "발표될 미국 비농업 고용보고서의 고용 증가율과 임금 상승률 등 세부 지표를 면밀히 분석해야 한다.",
       "keywords": [
-        "국내증시",
-        "폭락장",
-        "삼성전자",
-        "SK하이닉스",
-        "하반기전망"
+        "미국고용",
+        "금리인상",
+        "연준",
+        "시장변동성",
+        "거시경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aSGVnRmtab1BFT0U5cGZpQTVsMnVheVFGWVh1dC1jaXlXR3VfNGxIR2pVc3daeXhLTXI3dG9yRE9YNHpJTHJDX29HNTZqZEx1ek9KUExyWm54dWxIVnV4c1l1ZWJzSTh1SFJrTEpGT2NCd9IBckFVX3lxTE9aSGVnRmtab1BFT0U5cGZpQTVsMnVheVFGWVh1dC1jaXlXR3VfNGxIR2pVc3daeXhLTXI3dG9yRE9YNHpJTHJDX29HNTZqZEx1ek9KUExyWm54dWxIVnV4c1l1ZWJzSTh1SFJrTEpGT2NCdw?oc=5",
-      "published": "2026-06-28 20:53",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNEUtS0I1dXpCdUFaUnNZZzc3WjZwd2pENkxpVzFJb2ZwamZXa1pvYkdUVmRZSXlNWXNSa2luRTN1MXkzRFlXQUNjcTY3TlBaZEZfOVZtUWE2bmREN3k3VmtJaU1oNmxxZWRfZnR0ekh3REdTZFFxeXJJLU1QNThhOXRGbnBwdm1uanJBNGRXbTg4NGt5TURaWmZlbTZqa0o3a2RqVUI3Ym1zTm1YbUR4NGp1bFpfWTEzNGZ5bEx0OWJGUmtGSXgxdWFacW5VR2pDNUpBOW1fSHpJTFNR?oc=5",
+      "published": "2026-06-29 22:06",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -237,36 +234,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 의사록에 금리 인하 기대감 약화되며 다우, S&P 500, 나스닥 선물 하락",
-      "display_title": "연준 의사록에 금리 인하 기대감 약화되며 다우, S&P 500, 나스닥 선물 하락",
-      "original_title": "Dow, S&P 500, Nasdaq Futures Slip As Fed Minutes Temper Rate-Cut Hopes: Why CVNA, FIG, DASH, BTG, IBRX Are Trending After-Hours - Stocktwits",
+      "title": "AI 인프라 수요 및 칩 장비 성장에 주목할 반도체 주식 3가지",
+      "display_title": "AI 인프라 수요 및 칩 장비 성장에 주목할 반도체 주식 3가지",
+      "original_title": "3 Semiconductor Stocks Riding AI Infrastructure Demand and Chip Equipment Growth - simplywall.st",
       "summary": [
-        "핵심사실: 연준 의사록에서 매파적 기조가 확인되며 금리 인하 기대감이 후퇴했고, 이에 따라 미국 증시 선물 지수가 일제히 하락했다.",
-        "배경·맥락: 시장은 연준의 금리 인하 시점을 늦추는 발언에 민감하게 반응했으며, 이는 금리 인하를 기대했던 시장에 실망감을 안겨주었다.",
-        "투자 시사점: 금리 인하 기대감 축소는 주식 시장 전반에 부정적으로 작용하며, 특히 고성장 기술주에는 더 큰 압박을 줄 수 있으니 주의해야 한다."
+        "AI 인프라 수요 증가와 반도체 칩 장비 시장 성장에 따라 유망한 반도체 주식 3가지가 소개되었다.",
+        "이는 인공지능 기술 발전이 반도체 산업에 미치는 긍정적 영향을 시사한다.",
+        "글로벌 반도체 장비 및 AI 관련 기술 기업들의 성장은 국내 관련 소부장(소재·부품·장비) 기업에도 긍정적 영향을 미칠 수 있다."
       ],
-      "summary_text": "핵심사실: 연준 의사록에서 매파적 기조가 확인되며 금리 인하 기대감이 후퇴했고, 이에 따라 미국 증시 선물 지수가 일제히 하락했다. 배경·맥락: 시장은 연준의 금리 인하 시점을 늦추는 발언에 민감하게 반응했으며, 이는 금리 인하를 기대했던 시장에 실망감을 안겨주었다. 투자 시사점: 금리 인하 기대감 축소는 주식 시장 전반에 부정적으로 작용하며, 특히 고성장 기술주에는 더 큰 압박을 줄 수 있으니 주의해야 한다.",
-      "description": "연방준비제도(Fed)의 의사록 공개로 금리 인하에 대한 시장의 기대감이 약화되면서 다우, S&P 500, 나스닥 선물 지수가 하락했으며, CVNA, FIG, DASH, BTG, IBRX 등의 종목이 시간 외 거래에서 주목받았다.",
-      "category": "증시·금리",
+      "summary_text": "AI 인프라 수요 증가와 반도체 칩 장비 시장 성장에 따라 유망한 반도체 주식 3가지가 소개되었다. 이는 인공지능 기술 발전이 반도체 산업에 미치는 긍정적 영향을 시사한다. 글로벌 반도체 장비 및 AI 관련 기술 기업들의 성장은 국내 관련 소부장(소재·부품·장비) 기업에도 긍정적 영향을 미칠 수 있다.",
+      "description": "AI 인프라 구축 수요 증가와 반도체 칩 장비 시장 성장의 수혜를 입을 수 있는 반도체 주식 3종목에 대해 분석하고 있습니다. 이는 차세대 기술 발전에 따른 핵심 산업 동향을 보여줍니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "기술주, 성장주, 금융",
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI, IT하드웨어",
       "related_stocks": [
-        "CVNA",
-        "DASH"
+        "SK하이닉스",
+        "한미반도체",
+        "이수페타시스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준의 매파적 의사록 공개는 금리 인하 지연 가능성을 높여 글로벌 유동성 환경에 부정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "연준 의사록의 세부 내용과 시장 전문가들의 해석을 분석하고, 국내 시장에 미칠 파급 효과를 예의주시해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 인프라 구축 수요는 장기적으로 반도체 산업 성장을 견인하며, 이는 국내 반도체 관련 기업들의 투자 기회로 이어질 수 있기 때문이다.",
+      "key_signal": "AI 산업 발전 동향과 글로벌 반도체 장비 기업들의 실적 발표를 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "연준의사록",
-        "금리인하",
-        "선물하락",
-        "매파",
-        "유동성"
+        "AI",
+        "반도체",
+        "칩장비",
+        "인프라",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR0dNUGg2X2c5d0dpczIzYnlOUEVmZm1mdlpWZzJkNzlFczBXX1NlOWgwbTBWSnBUQ09kQVdXV24td3FTRDNRc0RhakdzZ3RRNkNvV0JkcXNheEFRemZWeFZ5QkpnRzNnbXBncS00VG9ucDY1TWtVT2dXaGlsNnVaRWhCMGxtSzlFMzRzZ2ZKdFlWZjcwb2hmeEVhUmk3M09NZDdHRE44OXVHM3Z6MUhvM1BaYnlqVEw4SFJSeTAtY2FiZlhxWHZXeWJFWDZXd0psSTdxWm5LVlplazQ?oc=5",
-      "published": "2026-06-28 15:36",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeVB5a2JGZHdCMGNkaUV3bmNLNmRiS0YwX2k3RkRxTWJNVlk1dFlkN2RRdDllNW9RWUM3QXB3NWJwcXNFRXU3TGJ4ZGxHaEV0S0tpRnhzdnNMWmlWSlJIa0NIZlptZHM3RnF1WnRKTGt2dnN0OXRITWlOTUdNQWxLVjh5QTRGZGdBSWVEX3B0U2l4bm9wQU1GazRfd1VQSzVzVXJqWDl6ZDZMQXo5dVZrb3ZzcGtrT1Zib0JpZGtwWXM5SUg0d21ubjBlMEVtb3dCYm9B0gHYAUFVX3lxTE1pdlhXc0g4eEtLcGVBRENPS3c5Unl5eU9GSk9Nak5SQldldktCT1lqcGRjNTdMMnlHLVAtZktEWjJxS1VGYjYxd05xdm5uMmY4dFlyS040QmpnVERpcDdhWW1XalpPaU1rM3ZhNEE2a0pnYXV2anB2MWZRZkoyNTZPa2doTXdGNDN5eGpTZUw5V09Ya19sWkN4VUFpNVE2Ym13R3FKR2hVdklLbzNsUllqTk1xVzlIU0lnaHpubV9iS2RDRVpoM2VfRnp3R3MxRHh1YmZ5aEg0cw?oc=5",
+      "published": "2026-06-30 07:26",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -277,72 +275,68 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "정부 주도의 1000조원 규모 메가 프로젝트 투자 발표로 국내 핵심 산업의 성장 동력이 강화될 것으로 기대되지만, 연준의 긴축 우려와 미국 기술주 하락 압력 또한 동시에 받고 있어 양방향 변동성을 주시해야 합니다.",
-      "check_points": [
-        "1000조 투자 관련 구체적인 수혜 분야 확인",
-        "미국 기술주 시장의 변동성 추이",
-        "연준의 금리 정책 변화"
-      ],
-      "related_news_titles": [
-        "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
-        "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다",
-        "연준, 연방기금금리 조정 없이 금리 인상할 수 있는 '두 가지 은밀한 방법'"
-      ]
-    },
-    {
-      "rank": 2,
       "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성전자와 함께 정부와 기업의 1000조원대 투자 프로젝트의 핵심 수혜주로 꼽히며 반도체 산업의 중장기 성장 동력을 확보할 것으로 기대되나, 전반적인 시장의 투자 심리 위축에는 주의가 필요합니다.",
+      "reason": "미국 기술주 강세 분위기 속 AI 인프라 수요 증가에 따른 고대역폭 메모리(HBM) 시장 성장이 직접적인 수혜로 작용할 것으로 예상됩니다.",
       "check_points": [
-        "고대역폭 메모리(HBM) 등 고부가가치 제품의 수요 변화",
-        "글로벌 반도체 경기 회복 시점",
-        "미국 기술주 하락의 추가 영향"
+        "글로벌 AI 반도체 시장 동향 및 HBM 수요 변화",
+        "주요 고객사의 HBM 채택 확대 여부",
+        "환율 변동성 및 메모리 반도체 업황 개선 속도"
       ],
       "related_news_titles": [
-        "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
-        "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다",
-        "최신 고용지표 발표 후 월스트리트 급락, 나스닥 4% 폭락 마감"
+        "미국 증시 기술주 강세, 나스닥 2% 이상 상승 및 다우 사상 최고치 마감",
+        "AI 인프라 수요 및 칩 장비 성장에 주목할 반도체 주식 3가지"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "한미반도체",
+      "market": "KOSPI",
+      "sector": "반도체 장비",
+      "opinion": "관심",
+      "reason": "AI 반도체 생산에 필수적인 HBM(고대역폭 메모리) 후공정 장비 수요가 지속적으로 증가할 것으로 보여, 관련 장비 업체의 실적 성장 기대감이 높습니다.",
+      "check_points": [
+        "글로벌 반도체 제조업체들의 투자 확대 여부",
+        "TC 본더 등 핵심 장비 수주 상황 및 계약 공시",
+        "경쟁사 동향 및 기술 경쟁력 변화"
+      ],
+      "related_news_titles": [
+        "미국 증시 기술주 강세, 나스닥 2% 이상 상승 및 다우 사상 최고치 마감",
+        "AI 인프라 수요 및 칩 장비 성장에 주목할 반도체 주식 3가지"
       ]
     },
     {
       "rank": 3,
-      "name": "현대차",
+      "name": "LG에너지솔루션",
       "market": "KOSPI",
-      "sector": "자동차",
+      "sector": "2차전지",
       "opinion": "관심",
-      "reason": "1000조원 규모의 메가 프로젝트에서 자동차 산업의 미래 모빌리티 부문 투자가 강화될 것으로 예상되어 중장기적인 성장 잠재력이 부각되고 있습니다.",
+      "reason": "차세대 AI 기술 발전과 함께 전기차 시장 성장, 에너지 저장 시스템(ESS) 확대가 2차전지 산업 전반에 긍정적인 모멘텀을 제공하고 있습니다.",
       "check_points": [
-        "전기차 전환 전략의 성공 여부",
-        "글로벌 완성차 시장 경쟁 심화",
-        "원자재 가격 및 환율 변동성"
+        "주요 완성차 고객사의 전기차 판매 전략 및 생산 계획",
+        "IRA 등 각국 정책 변화에 따른 시장 영향",
+        "원자재 가격 추이 및 수급 안정성"
       ],
       "related_news_titles": [
-        "이재용·최태원 청와대 방문…'1000조 투자' 메가프로젝트 공개",
-        "이 정부 오늘 '3대 메가 프로젝트' 공개…삼성·SK·현대차 '1000조원대' 투자안 힘 실어준다"
+        "차세대 AI로 2차전지 주목, 성장 산업 투자처로 부상"
       ]
     },
     {
       "rank": 4,
       "name": "네이버",
       "market": "KOSPI",
-      "sector": "인터넷/플랫폼",
-      "opinion": "주의",
-      "reason": "연준의 매파적 스탠스와 미국 나스닥 시장의 급락은 국내 기술주 및 성장주에 대한 투자 심리를 급격히 위축시킬 수 있어 시장 변동성에 대비할 필요가 있습니다.",
+      "sector": "소프트웨어, AI 플랫폼",
+      "opinion": "관심",
+      "reason": "정부의 4700조원 규모 국가 AI 전략 추진은 국내 AI 산업 생태계 활성화에 기여하며, AI 기술을 선도하는 플랫폼 기업에게 장기적인 성장 동력을 제공할 수 있습니다.",
       "check_points": [
-        "미국 나스닥 시장의 추가 하락 여부",
-        "국내 온라인 광고 및 커머스 시장의 성장세",
-        "연준의 금리 인하 기대감 변화"
+        "자체 AI 모델(하이퍼클로바X 등)의 상용화 성과 및 비즈니스 확장 전략",
+        "국내 AI 정책 추진 상황 및 관련 수혜 기대감",
+        "클라우드 및 데이터센터 투자 계획과 AI 접목 시너지"
       ],
       "related_news_titles": [
-        "연준, 연방기금금리 조정 없이 금리 인상할 수 있는 '두 가지 은밀한 방법'",
-        "최신 고용지표 발표 후 월스트리트 급락, 나스닥 4% 폭락 마감"
+        "[재계포커스] 4700조원 규모 국가 AI 전략, 관치 논란 속 핵심 과제 부상"
       ]
     }
   ],
