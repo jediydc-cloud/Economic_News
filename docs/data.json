@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01 08:13",
-  "analysis_date": "2026-07-01",
+  "generated_at": "2026-07-02 08:16",
+  "analysis_date": "2026-07-02",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "AI 열풍이 글로벌 증시를 견인하며 미국 주요 지수가 강세를 보인 가운데, 국내 증시는 반도체 실적 기대와 금리 인상 부담이 엇갈리는 양상입니다.",
-    "국내거시경제": "7월 국내 증시는 삼성전자와 SK하이닉스의 사상 최고 실적 기대에도 불구하고, 금리 인상 공포와 국민연금 수급 부담이 상존합니다. 반도체 업황 개선 기대와 고금리 지속 우려가 맞서며 시장 불확실성이 커지고 있습니다.",
-    "글로벌경제": "AI 기술 발전에 대한 기대감으로 미국 S&P 500과 나스닥이 최고 분기 실적을 달성했으며, 필라델피아 반도체 지수와 마이크론 등 AI 관련 기술주가 크게 상승하며 글로벌 증시 강세를 이끌었습니다. 비트코인은 3분기 연속 하락했습니다.",
-    "증시금리": "미국 증시는 AI 열풍에 힘입어 S&P 500, 나스닥이 최고 분기 실적을 기록하고 다우존스도 신기록에 근접하며 상승세를 이어갔습니다. 국내 증시는 반도체 실적 개선 기대와 고금리 환경이라는 상반된 요소가 시장의 방향성을 좌우할 전망입니다.",
-    "부동산정책": "특이사항 없음",
-    "기업산업": "AI 기술 발전의 핵심 기반인 인프라 구축의 중요성이 부각되며 AI 인프라 관련 기업들에 대한 투자 가치가 높아지고 있습니다. 특히 반도체 업종은 AI 수요 증가로 인해 7월 역사적 실적 장세가 기대됩니다.",
-    "오늘의투자시사점": "AI 산업의 성장세에 힘입어 글로벌 기술주 및 반도체 섹터의 강세는 지속될 전망입니다. 국내 증시 또한 반도체 업종의 실적 개선이 기대되지만, 금리 인상 우려와 수급 불확실성이 상존하므로 신중한 종목 선별과 분할 매수 등 보수적인 접근이 필요합니다. AI 인프라 관련 유망 기업 발굴에도 관심을 기울여야 합니다.",
-    "오늘의한줄": "AI가 글로벌 증시를 주도하는 가운데, 국내 증시는 반도체 실적 기대와 금리 인상 부담 속에서 신중한 접근이 요구됩니다."
+    "총평": "미국 증시는 다우지수 신고가에도 불구하고 필라델피아 반도체 지수가 급락하며 AI 수요 둔화 우려가 확산되었습니다. 연준발 '나쁜 소식'으로 시장 하락 가능성도 제기됩니다. 국내는 국채금리 급등과 환율 1,550원 돌파로 코스피의 약세 출발이 예상되며, 금리 인상으로도 환율 진정이 어렵다는 회의론이 커지고 있습니다. 다만, 전력 반도체가 새로운 AI 투자 테마로 부상하고 삼성SDI는 실적 턴어라운드를 기대하는 긍정적인 소식도 있습니다.",
+    "국내거시경제": "국내 국채금리 급등과 원/달러 환율 1,550원 돌파 등 거시경제 불안정성이 심화되고 있습니다. 급등하는 환율을 금리 인상으로 잡기 어렵다는 회의적 시각이 지배적이며, 이는 물가 상승 압력 및 외국인 투자 심리 위축으로 이어질 수 있습니다.",
+    "글로벌경제": "미국 증시는 다우지수 장중 신고가에도 필라델피아 반도체 지수가 6% 이상 급락했습니다. 메타의 컴퓨팅 파워 리스 전환 계획이 AI 수요 약화 우려를 촉발하며 메모리 및 반도체 주식 매도세를 유발했습니다. 연준으로부터 부정적인 시장 신호가 포착되며 역사적 하락 가능성도 제기되고 있습니다.",
+    "증시금리": "국내외 거시경제 불안정성 및 연준의 긴축적 기조 유지 가능성으로 코스피의 약세 출발이 예상됩니다. 고환율과 고금리 압박이 지속될 경우 외국인 투자 이탈 및 기업 실적 둔화로 이어질 수 있으므로 변동성 확대에 대비해야 합니다.",
+    "부동산정책": "해당 뉴스 없음.",
+    "기업산업": "AI 수요 둔화 우려로 메모리·반도체주 전반의 조정이 예상됩니다. 하지만 AI 기술 발전에 따른 전력 반도체 수요 증가로, 전력 반도체가 메모리 이후의 새로운 AI 투자 테마로 부상할 가능성이 있습니다. 삼성SDI는 CEO의 실적 턴어라운드 기대로 긍정적인 전망이 나옵니다.",
+    "오늘의투자시사점": "국내외 거시경제 불확실성 증대로 시장 전반의 변동성 확대가 예상되므로 보수적인 투자 전략이 필요합니다. AI 관련 반도체 섹터는 수요 둔화 우려와 함께 전력 반도체로의 테마 전환 가능성을 동시에 주시하며 선별적 접근이 중요합니다. 삼성SDI 등 개별 기업의 긍정적 모멘텀은 주목할 필요가 있습니다.",
+    "오늘의한줄": "국내외 거시경제 불안정 속, AI 반도체 섹터의 지각 변동과 개별 기업 모멘텀을 선별적으로 주목하며 보수적인 투자 접근이 필요한 시점이다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 마감: AI 열풍에 S&P 500, 나스닥 2020년 이후 최고 분기 실적; 필라델피아 반도체 지수 6개월 만에 두 배, 마이크론 304% 이상 급등; 비트코인 3분기 연속 하락",
-      "display_title": "미국 증시 마감: AI 열풍에 S&P 500, 나스닥 2020년 이후 최고 분기 실적; 필라델피아 반도체 지수 6개월 만에 두 배, 마이크론 304% 이상 급등; 비트코인 3분기 연속 하락",
-      "original_title": "U.S. Markets Close | AI enthusiasm drives S&P 500 and Nasdaq to their best quarterly performance since 2020; Philadelphia Semiconductor Index doubles in six months, Micron surges over 304% in half a year; Bitcoin posts declines for three consecutive quar - 富途牛牛",
+      "title": "미국 증시 마감: 다우지수 장중 신고가 경신, 필라델피아 반도체 지수 6% 이상 하락; 메타의 컴퓨팅 파워 리스 전환, AI 수요 약화 우려 촉발하며 메모리·반도체주 매도세 유발",
+      "display_title": "미국 증시 마감: 다우지수 장중 신고가 경신, 필라델피아 반도체 지수 6% 이상 하락; 메타의 컴퓨팅 파워 리스 전환, AI 수요 약화 우려 촉발하며 메모리·반도체주 매도세 유발",
+      "original_title": "US Stocks Close: Dow Hits New High Intraday, Phil Semiconductor Index Drops Over 6%; Meta’s Shift to Computing Power Leasing Sparks Market Concerns Over Weak AI Demand, Triggering Selloff in Memory and Chip Stocks - TradingKey",
       "summary": [
-        "AI 열풍에 힘입어 미국 S&P 500과 나스닥이 2020년 이후 최고의 분기 실적을 기록했으며, 필라델피아 반도체 지수와 마이크론이 크게 상승했다.",
-        "AI 기술 발전에 대한 기대감이 시장을 주도하며 기술주와 반도체 섹터의 강세를 이끌었고, 반면 암호화폐 시장은 부진을 면치 못했다.",
-        "AI 관련 기술주 및 반도체 섹터의 지속적인 성장 잠재력을 주목하고, 관련 국내 기업들의 동반 성장에 대한 기대를 가질 수 있다."
+        "다우지수 장중 신고가에도 필라델피아 반도체 지수가 6% 이상 급락하며 메모리 및 반도체 주식 매도세가 나타났다.",
+        "메타의 컴퓨팅 파워 리스 사업 전환 계획이 AI 수요 약화에 대한 시장 우려를 촉발한 것이 주요 원인이다.",
+        "AI 관련 반도체 수요 둔화 가능성에 대비하고, 관련 국내외 기업들의 실적 및 사업 전략 변화를 주시해야 한다."
       ],
-      "summary_text": "AI 열풍에 힘입어 미국 S&P 500과 나스닥이 2020년 이후 최고의 분기 실적을 기록했으며, 필라델피아 반도체 지수와 마이크론이 크게 상승했다. AI 기술 발전에 대한 기대감이 시장을 주도하며 기술주와 반도체 섹터의 강세를 이끌었고, 반면 암호화폐 시장은 부진을 면치 못했다. AI 관련 기술주 및 반도체 섹터의 지속적인 성장 잠재력을 주목하고, 관련 국내 기업들의 동반 성장에 대한 기대를 가질 수 있다.",
-      "description": "AI 열풍이 S&P 500과 나스닥을 2020년 이후 최고 분기 실적으로 이끌었으며, 필라델피아 반도체 지수는 6개월 만에 두 배 상승, 마이크론은 반년 만에 304% 이상 급등했습니다. 반면 비트코인은 3분기 연속 하락했습니다.",
-      "category": "증시·금리",
+      "summary_text": "다우지수 장중 신고가에도 필라델피아 반도체 지수가 6% 이상 급락하며 메모리 및 반도체 주식 매도세가 나타났다. 메타의 컴퓨팅 파워 리스 사업 전환 계획이 AI 수요 약화에 대한 시장 우려를 촉발한 것이 주요 원인이다. AI 관련 반도체 수요 둔화 가능성에 대비하고, 관련 국내외 기업들의 실적 및 사업 전략 변화를 주시해야 한다.",
+      "description": "미국 증시 마감에서 다우지수는 장중 신고가를 기록했으나 필라델피아 반도체 지수는 6% 넘게 하락했다. 메타가 컴퓨팅 파워 리스 사업으로 전환할 것이라는 소식은 AI 수요 약화 우려를 불러일으켜 메모리 및 반도체 주식의 매도세를 촉발했다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, IT 하드웨어",
+      "market_impact": "부정",
+      "related_sector": "반도체, AI",
       "related_stocks": [
-        "SK하이닉스",
         "삼성전자",
+        "SK하이닉스",
         "한미반도체"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 기술주와 반도체 섹터의 강세는 국내 관련 산업 및 기업에도 긍정적인 영향을 미칠 수 있기 때문에 주목할 필요가 있다.",
-      "key_signal": "AI 관련 기술주 및 반도체 섹터의 상승세 지속 여부와 그 배경을 면밀히 분석해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "AI 수요 둔화 우려는 국내 반도체 기업들의 실적 및 주가에 직접적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "메타의 컴퓨팅 파워 리스 전환이 실제 AI 수요 약화 시그널인지, 다른 빅테크 기업들의 AI 투자 기조 변화가 나타나는지 면밀히 확인해야 한다.",
       "keywords": [
-        "AI",
         "반도체",
-        "미국증시",
-        "나스닥",
-        "S&P500"
+        "AI 수요",
+        "메타",
+        "필라델피아 반도체",
+        "메모리 반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWh4RlJaTDdQY002aGluRGtBRlNiNThVV0czMHVFMS1nSDlibGpJYjVLdkpEajZSVXAwU0FRWVZKcDNvTlpCaS1IdUFCUVA0S2ZVTDRkbWtyVi1SSXdmMGN2TjdGRExLZVRBSmM1RHVnbVdic2tTMGVsbGw4YXNEOVpEUWZrMHd0NUU2aENkbkgxVm00?oc=5",
-      "published": "2026-07-01 07:32",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVWxYemFmNVhSWnhUTlZvSGJZR0pnWFJWWkducEpNb3BWY0tHZmRhNVFlTjRJdi02eXI4MUQzYzhVdE5YYklhenloNTJUNE9DX1l3Z1NHUnl4SmZEYUZBVDJOMUZhU21aRldxS3JwckJGcWxGWm5FamFXbHN0S3ZjcWtTeHNSbVJ4Z1djY3VidHlLOS1fOVFudlR3UWVtejM2d2YxdHNnQjlJZnR5MDViS19uTEc2MUdTd29SS1lyN2NXSnpLbzFYMmFmb1YwbGNTZUJPRXFn?oc=5",
+      "published": "2026-07-02 05:18",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,41 +67,42 @@
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "7월 국내 증시 갈림길 선다⋯‘삼전닉스’ 사상 최고 실적 vs 금리 인상 공포",
-      "display_title": "7월 국내 증시 갈림길 선다⋯‘삼전닉스’ 사상 최고 실적 vs 금리 인상 공포",
-      "original_title": "7월 국내 증시 갈림길 선다⋯‘삼전닉스’ 사상 최고 실적 vs 금리 인상 공포 - 이투데이",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "증시 투자자들, 연준으로부터 나쁜 소식 접해. 역사적으로 큰 하락 뒤따를 수 있어.",
+      "display_title": "증시 투자자들, 연준으로부터 나쁜 소식 접해. 역사적으로 큰 하락 뒤따를 수 있어.",
+      "original_title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - The Motley Fool",
       "summary": [
-        "7월 국내 증시는 삼성전자와 SK하이닉스의 사상 최고 실적 기대와 금리 인상 공포라는 두 가지 상반된 요인에 직면했다.",
-        "반도체 산업의 회복과 AI 수요 증가는 '삼전닉스'의 실적 개선을 이끌지만, 고금리 지속 가능성 및 연준의 긴축 우려는 시장에 부담으로 작용한다.",
-        "반도체 업종에 대한 긍정적 시각을 유지하되, 글로벌 금리 인상 속도와 국내 통화 정책 방향을 주시하며 신중한 접근이 필요하다."
+        "연준의 발언(또는 조치)이 시장에 부정적인 신호로 해석되었으며, 과거 패턴 상 주식 시장의 큰 하락 가능성이 제기되었다.",
+        "기사에 구체적인 내용은 없으나, '나쁜 소식'은 주로 긴축적인 통화 정책 기조, 경기 둔화 경고 등 금리와 관련될 가능성이 높다.",
+        "연준의 향후 통화 정책 방향과 발언에 주목하며, 변동성 확대에 대비한 보수적인 투자 전략을 고려해야 한다."
       ],
-      "summary_text": "7월 국내 증시는 삼성전자와 SK하이닉스의 사상 최고 실적 기대와 금리 인상 공포라는 두 가지 상반된 요인에 직면했다. 반도체 산업의 회복과 AI 수요 증가는 '삼전닉스'의 실적 개선을 이끌지만, 고금리 지속 가능성 및 연준의 긴축 우려는 시장에 부담으로 작용한다. 반도체 업종에 대한 긍정적 시각을 유지하되, 글로벌 금리 인상 속도와 국내 통화 정책 방향을 주시하며 신중한 접근이 필요하다.",
-      "description": "7월 국내 증시가 삼성전자와 SK하이닉스의 사상 최고 실적 기대감과 금리 인상 공포라는 상반된 요인 속에서 갈림길에 섰다는 분석입니다.",
-      "category": "국내 거시경제",
+      "summary_text": "연준의 발언(또는 조치)이 시장에 부정적인 신호로 해석되었으며, 과거 패턴 상 주식 시장의 큰 하락 가능성이 제기되었다. 기사에 구체적인 내용은 없으나, '나쁜 소식'은 주로 긴축적인 통화 정책 기조, 경기 둔화 경고 등 금리와 관련될 가능성이 높다. 연준의 향후 통화 정책 방향과 발언에 주목하며, 변동성 확대에 대비한 보수적인 투자 전략을 고려해야 한다.",
+      "description": "증시 투자자들은 연방준비제도(Fed)로부터 좋지 않은 소식을 들었다. 과거 사례에 비추어 볼 때, 이는 시장의 큰 하락으로 이어질 수 있다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, 종합 증시",
+      "market_impact": "부정",
+      "related_sector": "금융, 전반적인 증시",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "국내 증시를 좌우할 핵심 동인들이 긍정적 요소와 부정적 요소로 팽팽히 맞서 있어, 시장의 방향성을 예측하기 어려운 중요한 시점이다.",
-      "key_signal": "'삼전닉스'의 실제 실적 발표와 미국 및 한국의 금리 결정 동향이 7월 국내 증시 향방을 결정할 주요 변수가 될 것이다.",
+      "investment_reason": "연준의 매파적 스탠스는 한국 포함 글로벌 증시 전반에 하방 압력을 가할 수 있기 때문이다.",
+      "key_signal": "연준이 언급한 '나쁜 소식'의 구체적인 내용과 그에 대한 시장 반응, 그리고 후속 경제 지표 발표를 주시해야 한다.",
       "keywords": [
-        "국내증시",
-        "반도체",
-        "금리인상",
-        "삼성전자",
-        "SK하이닉스"
+        "연준",
+        "통화정책",
+        "금리",
+        "증시 하락",
+        "경제 전망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QamFObEVPVE9IMl9FN1REX1VuSEVFdnBZby1aM0xIRWM2aVZwck13T1ppRl9CQS1sZ28ya0N4N19iZ1lkaE02MlRSUTVaY0ZacG1EMw?oc=5",
-      "published": "2026-07-01 06:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMVZLbnJHb3FwMjh5WkdKZVdkLWJwSjZnVGNSVzBfdWZiS3U1bV9RR2J5SDBlODZXbWVLOXgtMnV0MTVCU0lEeXVuSjgyNzR0bmllRnBrRndUaXZ6dTMydk95Y3lMRmkyNE9KTGFFSUR1WXZnU1BqUkx6YU5XUmxjWjJ6WmtFOHZ1bW9OVWt4aVkwbDA?oc=5",
+      "published": "2026-07-01 18:12",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -111,36 +112,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "'역사적' 실적 장세 7월 반도체 '기대'…금리인상·국민연금 '부담'",
-      "display_title": "'역사적' 실적 장세 7월 반도체 '기대'…금리인상·국민연금 '부담'",
-      "original_title": "'역사적' 실적 장세 7월 반도체 '기대'…금리인상·국민연금 '부담' - 뉴스1",
+      "title": "[7.2(목) 한국장 전망] 국채금리 급등·환율 1,550원 — 코스피 약세 출발 예상",
+      "display_title": "[7.2(목) 한국장 전망] 국채금리 급등·환율 1,550원 — 코스피 약세 출발 예상",
+      "original_title": "[7.2(목) 한국장 전망] 국채금리 급등·환율 1,550원 — 코스피 약세 출발 예상 - 주달",
       "summary": [
-        "7월 국내 증시에서 반도체 업종은 역사적 실적에 대한 기대로 주목받지만, 금리 인상 우려와 국민연금의 수급 영향이 부담 요인으로 작용할 전망이다.",
-        "AI 수요 증가와 메모리 반도체 업황 개선은 국내 반도체 기업들의 실적을 견인할 것으로 예상되나, 고금리 환경과 국민연금의 투자 전략은 시장에 불확실성을 더한다.",
-        "반도체 산업의 펀더멘털은 긍정적이나, 금리 및 수급 불확실성이 상존하므로 업종 내에서도 옥석 가리기가 필요하며 분할 매수 등 보수적인 접근이 유효하다."
+        "국내 국채금리 급등과 환율 1,550원 돌파 등 거시경제 지표 악화로 코스피의 약세 출발이 예상된다.",
+        "글로벌 고금리 기조 유지 및 국내외 경제 불확실성이 복합적으로 작용하며 국내 금융시장에 부담을 주고 있다.",
+        "고환율과 고금리 압박이 지속될 경우, 외국인 투자자 이탈 및 기업 실적 둔화로 이어질 수 있으므로 투자에 신중해야 한다."
       ],
-      "summary_text": "7월 국내 증시에서 반도체 업종은 역사적 실적에 대한 기대로 주목받지만, 금리 인상 우려와 국민연금의 수급 영향이 부담 요인으로 작용할 전망이다. AI 수요 증가와 메모리 반도체 업황 개선은 국내 반도체 기업들의 실적을 견인할 것으로 예상되나, 고금리 환경과 국민연금의 투자 전략은 시장에 불확실성을 더한다. 반도체 산업의 펀더멘털은 긍정적이나, 금리 및 수급 불확실성이 상존하므로 업종 내에서도 옥석 가리기가 필요하며 분할 매수 등 보수적인 접근이 유효하다.",
-      "description": "7월 국내 증시에서 반도체 섹터의 '역사적' 실적에 대한 기대감이 크지만, 금리 인상 우려와 국민연금의 영향이 부담 요인으로 작용할 것이라는 전망입니다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, 종합 증시, 기관투자자",
+      "summary_text": "국내 국채금리 급등과 환율 1,550원 돌파 등 거시경제 지표 악화로 코스피의 약세 출발이 예상된다. 글로벌 고금리 기조 유지 및 국내외 경제 불확실성이 복합적으로 작용하며 국내 금융시장에 부담을 주고 있다. 고환율과 고금리 압박이 지속될 경우, 외국인 투자자 이탈 및 기업 실적 둔화로 이어질 수 있으므로 투자에 신중해야 한다.",
+      "description": "7월 2일 목요일 한국 증시 전망에 따르면, 국채금리 급등과 환율 1,550원이라는 요인으로 인해 코스피가 약세로 출발할 것으로 예상된다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "전반적인 증시, 수출주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "반도체 업종의 실적 기대와 거시 경제 및 수급 요인이 복합적으로 작용하며 시장에 큰 영향을 미칠 것으로 예상되어 면밀한 분석이 요구된다.",
-      "key_signal": "7월 중 발표될 주요 반도체 기업 실적과 금리 인상 관련 주요 발언, 그리고 국민연금의 포트폴리오 변화를 면밀히 주시해야 한다.",
+      "investment_reason": "고금리와 고환율은 국내 기업들의 비용 부담을 증가시키고 외국인 투자 심리를 위축시켜 증시에 부정적이기 때문이다.",
+      "key_signal": "개장 후 외국인 및 기관 투자자들의 수급 동향과 주요 수출 기업들의 주가 흐름을 면밀히 관찰해야 한다.",
       "keywords": [
-        "반도체",
-        "국내증시",
-        "금리인상",
-        "국민연금",
-        "실적장세"
+        "코스피",
+        "국채금리",
+        "환율",
+        "약세장",
+        "한국 증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOVZqZXFkSzJzUW9zbFpQSlVGT3djWHc0amk3SzZXSWtGTGFkUTFpMnJaSXZvWnE0c0RCbnVta1FQWWpwalloS0FFWE1EaWIxMnl3NHAtaEhUOUFNTTlTMjNoT1c?oc=5",
-      "published": "2026-07-01 06:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWIzZ0NXRzliNDlvX0pWZGpjcnpaQVZRckNwMFlMQ3dXdnplS1g0MGkzV19WTlRMX3NucDloNkcwLWNWS2lnUDNWSzVxZU9FZFdWMlRuYzMyNWh0cURTN2ltQ2pINWVTVnJuaTl1MzJTYXN0bzdXLUZmQ0U3ZDJ3d2tsdkFma3JNYjZUYktjekZocXRLbnc?oc=5",
+      "published": "2026-07-02 05:30",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -149,42 +151,42 @@
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "인베스토피디아의 중간 보고서: 2026년 하반기 투자자들이 기대해야 할 것",
-      "display_title": "인베스토피디아의 중간 보고서: 2026년 하반기 투자자들이 기대해야 할 것",
-      "original_title": "Investopedia's Midyear Report: Here's What Investors Should Expect in the Second Half of 2026 - Investopedia",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "치솟는 환율, 금리 올리면 진정?…이번엔 글쎄",
+      "display_title": "치솟는 환율, 금리 올리면 진정?…이번엔 글쎄",
+      "original_title": "치솟는 환율, 금리 올리면 진정?…이번엔 글쎄 - 네이트",
       "summary": [
-        "인베스토피디아가 2026년 하반기 시장 전망에 대한 중간 보고서를 발표했다.",
-        "연중 투자 전략을 재정비하고 미래 시장 동향을 예측하는 중요한 시점에서 전문가의 통찰을 제공한다.",
-        "보고서의 구체적인 내용을 파악하여 개인 투자 전략 수립에 활용하고, 주요 변수들을 미리 점검할 필요가 있다."
+        "급등하는 환율을 안정시키기 위한 금리 인상 효과에 대해 시장과 전문가들 사이에서 회의적인 시각이 지배적이다.",
+        "과거에는 금리 인상이 환율 안정에 기여했으나, 현재는 미국과의 금리 역전, 국내 경기 둔화 우려 등 복합적인 요인이 작용하고 있다.",
+        "환율 불안정이 장기화될 경우 국내 물가 상승 압력 및 외국인 투자 심리 위축으로 이어질 수 있으므로 대비해야 한다."
       ],
-      "summary_text": "인베스토피디아가 2026년 하반기 시장 전망에 대한 중간 보고서를 발표했다. 연중 투자 전략을 재정비하고 미래 시장 동향을 예측하는 중요한 시점에서 전문가의 통찰을 제공한다. 보고서의 구체적인 내용을 파악하여 개인 투자 전략 수립에 활용하고, 주요 변수들을 미리 점검할 필요가 있다.",
-      "description": "인베스토피디아가 발표한 중간 보고서를 통해 2026년 하반기 투자자들이 주목해야 할 시장 전망과 기대치를 다룹니다.",
-      "category": "증시·금리",
+      "summary_text": "급등하는 환율을 안정시키기 위한 금리 인상 효과에 대해 시장과 전문가들 사이에서 회의적인 시각이 지배적이다. 과거에는 금리 인상이 환율 안정에 기여했으나, 현재는 미국과의 금리 역전, 국내 경기 둔화 우려 등 복합적인 요인이 작용하고 있다. 환율 불안정이 장기화될 경우 국내 물가 상승 압력 및 외국인 투자 심리 위축으로 이어질 수 있으므로 대비해야 한다.",
+      "description": "최근 치솟는 환율을 잡기 위해 금리를 인상하는 방안이 거론되지만, 이번에는 효과가 제한적일 수 있다는 회의적인 시각이 제기되고 있다.",
+      "category": "국내 거시경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "투자전략, 거시경제, 금융",
+      "market_impact": "부정",
+      "related_sector": "전반적인 증시, 수출입 기업, 금융",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "2026년 하반기 글로벌 경제 및 금융 시장의 주요 변수와 전망을 미리 파악하여 투자 계획을 세우는 데 필수적인 정보이다.",
-      "key_signal": "보고서에서 제시하는 주요 경제 지표, 산업 트렌드, 리스크 요인 등을 상세히 확인하고 자신의 투자 관점과 비교해 봐야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "환율 불안정은 국내 기업의 실적 변동성을 높이고 외국인 자금 유출을 야기하여 증시 전반에 부정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "한국은행의 환율 안정화 대책과 추가적인 금리 인상 가능성 및 이에 대한 시장 반응을 주시해야 한다.",
       "keywords": [
-        "투자전략",
-        "시장전망",
-        "하반기",
-        "경제전망",
-        "인베스토피디아"
+        "환율",
+        "금리 인상",
+        "한국은행",
+        "거시경제",
+        "외환 시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMlI5M3I2ODF1ZlI0cVd6b2RDM29mUDFYcll1OG9oM0s4dExTeTlRN2NQQTl2ckUwdjhMVjExcGNOYk9LRi1MOGIwVHdqdWRxYmNGNmRhMXRlSUdiUFE4cV8xdU14dDl0a2VzMUc3UEVVNGktNFpSVE1RYlRjRjV1MXlPT0dQTmhGTXQ1SV9uQ1lncFJQMWtYZTJIeHgwakxmd1hBYU9iVEpibFlEVTRDT1FSa0kzcjFNZTQ4RHJkZDVLTndPei0wNUN3Q1hPVmpLdWIyeHhaQkhMOVMzb1NIT3hrX2Z4RVYxSUE?oc=5",
-      "published": "2026-07-01 05:39",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rWmx0eWV4MjA5ZDZWem1HZnRYMERMMTVUTjFkaklOd3hrQ2VlSnluZXlUVXhMaDViQXFzaWhiaUJCaExLdEtaaG1tR3VlR1RyeW5v?oc=5",
+      "published": "2026-07-02 05:03",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -194,37 +196,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 주식 시장: S&P 500, 나스닥 상승, 다우존스 뛰어난 분기를 마무리하며 신기록 눈앞",
-      "display_title": "오늘 주식 시장: S&P 500, 나스닥 상승, 다우존스 뛰어난 분기를 마무리하며 신기록 눈앞",
-      "original_title": "Stock market today: S&P 500, Nasdaq rise, Dow eyes fresh record to wrap up standout quarter - Yahoo Finance UK",
+      "title": "미국 증시 '가장 강한 달'이 오고 있는가!? 전력 반도체가 메모리 반도체 다음의 AI 투자 테마가 될 수 있을까? 반도체 섹터의 지각 변동 속에서 어떤 주식에 주목해야 할까?",
+      "display_title": "미국 증시 '가장 강한 달'이 오고 있는가!? 전력 반도체가 메모리 반도체 다음의 AI 투자 테마가 될 수 있을까? 반도체 섹터의 지각 변동 속에서 어떤 주식에 주목해야 할까?",
+      "original_title": "Is the 'strongest month' for US stocks arriving!? Could power semiconductors become the next big AI investment theme after memory chips? Which stocks should you watch amid this seismic shift in the semiconductor sector? - Moomoo",
       "summary": [
-        "미국 S&P 500과 나스닥이 상승하고 다우존스는 기록적인 분기 마감을 앞두고 사상 최고치에 근접했다.",
-        "AI 및 기술주 중심의 견고한 성장세와 함께 전반적인 경제 회복 기대감이 반영된 것으로 보인다.",
-        "미국 증시의 지속적인 강세는 글로벌 투자 심리에 긍정적이며, 국내 시장의 기술주 및 성장주에도 순풍이 될 수 있다."
+        "미국 증시의 계절적 강세 기대와 함께, 메모리 반도체 이후 전력 반도체가 AI 관련 다음 주요 투자 테마로 부상할 가능성이 제기되었다.",
+        "AI 기술 발전으로 인해 데이터센터 및 AI 칩의 전력 효율성이 중요해지면서 전력 반도체 수요가 증가하고 있다.",
+        "AI 시장의 새로운 성장 동력으로 전력 반도체 섹터를 주목하고, 관련 국내외 기업들의 기술력과 시장 점유율을 분석해야 한다."
       ],
-      "summary_text": "미국 S&P 500과 나스닥이 상승하고 다우존스는 기록적인 분기 마감을 앞두고 사상 최고치에 근접했다. AI 및 기술주 중심의 견고한 성장세와 함께 전반적인 경제 회복 기대감이 반영된 것으로 보인다. 미국 증시의 지속적인 강세는 글로벌 투자 심리에 긍정적이며, 국내 시장의 기술주 및 성장주에도 순풍이 될 수 있다.",
-      "description": "S&P 500과 나스닥이 상승하고 다우존스 지수가 뛰어난 분기를 마무리하며 사상 최고치 경신을 눈앞에 두고 있다는 오늘 주식 시장 소식입니다.",
-      "category": "증시·금리",
+      "summary_text": "미국 증시의 계절적 강세 기대와 함께, 메모리 반도체 이후 전력 반도체가 AI 관련 다음 주요 투자 테마로 부상할 가능성이 제기되었다. AI 기술 발전으로 인해 데이터센터 및 AI 칩의 전력 효율성이 중요해지면서 전력 반도체 수요가 증가하고 있다. AI 시장의 새로운 성장 동력으로 전력 반도체 섹터를 주목하고, 관련 국내외 기업들의 기술력과 시장 점유율을 분석해야 한다.",
+      "description": "미국 증시의 '가장 강한 달'이 다가오고 있는지, 그리고 메모리 반도체에 이어 전력 반도체가 다음 AI 투자 테마가 될 수 있을지에 대한 질문과 함께, 반도체 섹터의 큰 변화 속에서 주목해야 할 주식들을 제시한다.",
+      "category": "기업·산업",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "종합 증시, 기술주, IT",
+      "related_sector": "반도체, 전력 반도체, AI",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "LX세미콘",
+        "DB하이텍"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 주요 지수들의 상승세는 국내 주식 시장의 방향성을 가늠하는 중요한 지표가 되며, 특히 기술주 투자에 참고할 만하다.",
-      "key_signal": "다우존스의 신기록 경신 여부와 기술주 상승 모멘텀의 지속 가능성을 면밀히 관찰해야 한다.",
+      "investment_reason": "AI 기술 발전에 따른 전력 반도체의 중요성 증가는 국내 관련 기업들에게 새로운 성장 기회를 제공할 수 있기 때문이다.",
+      "key_signal": "전력 반도체 관련 기술 개발 동향, 주요 기업들의 투자 확대 소식, 그리고 AI 데이터센터 시장의 변화를 면밀히 주시해야 한다.",
       "keywords": [
-        "미국증시",
-        "S&P500",
-        "나스닥",
-        "다우존스",
-        "기술주"
+        "전력 반도체",
+        "AI 투자",
+        "반도체 테마",
+        "미국 증시",
+        "데이터센터"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTR1cldZd2M5SXQ3RWV4TkJKSjdfYUNYb2tNeW9jNXVhZDJjS1BaeUN2aHBBUHNCd2tQR25FcDVGaHJUSFBTNUQ2c21jRE0yX0tQOUJBVnpvWWNQV0pXNUNBSWYtTGZWYkx4dUVneDl3TlFMZ1RvR3o1Ql9lc1EtMzJMR0VxcG1jTzltVVVfc3hEWUZ3WC1vMnR1UmZrejdacUtsUHliSGt3blN5S2s0QjlfcUp5V2RHT2JjWlZLYVd4NjU0YTlCYQ?oc=5",
-      "published": "2026-07-01 04:31",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTNmSENlZV8tTDE5SEpfNm1YU3JyMVJYbnpGQlMtME1lbE56SUp2eEgxTUl3QjVIV1hpREx4N1UwSVNxaV9RZUZHelNUdHhKYUt4aW5LWXZEMDBidHpWQlBzaDhXd3NYR3ZDOHFYWXp1NlM4cC00U3VvR0pELVItSjhjMktpNzlwV09xMUFYZHowNVpRanMxQ2NBZG9tQ19B?oc=5",
+      "published": "2026-07-01 18:24",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -236,37 +237,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "개인 투자자가 주목할 만한 AI 인프라 주식",
-      "display_title": "개인 투자자가 주목할 만한 AI 인프라 주식",
-      "original_title": "AI Infrastructure Stocks Retail Investors May Want On Their Watchlist - simplywall.st",
+      "title": "삼성SDI CEO, 창립 56주년 맞아 올해 실적 턴어라운드 기대",
+      "display_title": "삼성SDI CEO, 창립 56주년 맞아 올해 실적 턴어라운드 기대",
+      "original_title": "Samsung SDI CEO Expects Earnings Turnaround This Year as Company Marks 56th Anniversary - thelec.net",
       "summary": [
-        "개인 투자자들에게 AI 인프라 관련 주식에 대한 관심을 촉구하는 내용이다.",
-        "AI 기술 발전의 핵심 기반이 되는 인프라 구축의 중요성이 부각되면서 관련 기업들의 투자 가치 또한 높아지고 있다.",
-        "AI 산업의 성장에 필수적인 인프라 분야에서 유망한 국내외 기업을 발굴하고 투자 기회를 모색해야 한다."
+        "삼성SDI CEO가 창립 56주년을 기념하며 올해 실적 턴어라운드를 전망하는 긍정적인 메시지를 발표했다.",
+        "이는 전방 산업의 회복과 신규 사업의 성과가 기대되는 상황을 반영하는 것으로 풀이된다.",
+        "삼성SDI의 주요 사업 부문인 배터리와 전자재료 등의 실적 개선 가능성과 성장 동력 확보 여부를 확인해야 한다."
       ],
-      "summary_text": "개인 투자자들에게 AI 인프라 관련 주식에 대한 관심을 촉구하는 내용이다. AI 기술 발전의 핵심 기반이 되는 인프라 구축의 중요성이 부각되면서 관련 기업들의 투자 가치 또한 높아지고 있다. AI 산업의 성장에 필수적인 인프라 분야에서 유망한 국내외 기업을 발굴하고 투자 기회를 모색해야 한다.",
-      "description": "개인 투자자들이 주목할 만한 AI 인프라 관련 주식 목록을 제시합니다.",
+      "summary_text": "삼성SDI CEO가 창립 56주년을 기념하며 올해 실적 턴어라운드를 전망하는 긍정적인 메시지를 발표했다. 이는 전방 산업의 회복과 신규 사업의 성과가 기대되는 상황을 반영하는 것으로 풀이된다. 삼성SDI의 주요 사업 부문인 배터리와 전자재료 등의 실적 개선 가능성과 성장 동력 확보 여부를 확인해야 한다.",
+      "description": "삼성SDI 최고경영자(CEO)는 창립 56주년을 맞아 올해 실적 턴어라운드를 기대하고 있다고 밝혔다.",
       "category": "기업·산업",
       "importance": 7,
       "market_impact": "긍정",
-      "related_sector": "AI 인프라, 클라우드 컴퓨팅, 데이터센터",
+      "related_sector": "2차전지, 전자재료",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "삼성SDI"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 시대의 필수 인프라 관련 기업들은 장기적인 성장 동력을 확보하고 있어 투자 포트폴리오에 고려할 가치가 있다.",
-      "key_signal": "AI 인프라 관련 기술 발전 동향과 시장 수요 변화를 지속적으로 모니터링해야 한다.",
+      "investment_reason": "국내 주요 2차전지 기업의 실적 턴어라운드는 해당 섹터 전반에 대한 투자 심리를 개선할 수 있기 때문이다.",
+      "key_signal": "3분기 이후 발표될 삼성SDI의 실제 실적과 턴어라운드 달성 여부, 그리고 구체적인 성장 전략을 주목해야 한다.",
       "keywords": [
-        "AI",
-        "인프라",
-        "기술주",
-        "개인투자자",
-        "성장주"
+        "삼성SDI",
+        "2차전지",
+        "실적 턴어라운드",
+        "배터리",
+        "CEO 발언"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRFhhcW1uQ29La2dTdHFzM2tpMDl0ZXVBelZKNU81cFktWXBKTGtKOUs2NmY5RDZJNG5vWklXS1h2YjBWeXJBclpEMXJnc2xIUEVDY2dUQ0FselN3cC11UEY5TU4yd1lZY0sxcFM0ZzdtdFBUTVVzUk5FNjFKZ2U2UDk1aWYxTHVZSmVwdW9ZajA4M0g3X2tFRXE3TjBoVVdsUFVJeG1JVXJHMkctdEd2eEN3bm5HbFhTTnZDa2ZkNUtXaGFoRWtsbWFZdGxpWHhJT1YyOS1yVWdqeFVU0gHiAUFVX3lxTFBOYjc2SjFhdlRwLWN3eGtBLWl2N21xRk9GQWR0aVFmeXVFcXllUWFLVnQ2SERrVi1SNjM4dHFiSUY2OW5adkxEc3c2NFdObTJBMWNhZTFvNUgyT0w5M2tzNFVRSDRYMVFpT2pxQWt2dUxCTHo5WjhUWm4zSG01Qk0wb0I0WHJRd0dacEs0UGJUblFCdG9uY3JYRTB3d1plVzNKVXNWZy0zeW5KSW0xekNLME56WVhfd0F6M0dDbW1Nd0ZsclZEOHlMUm90cVlJMUZzcFNSd3Z0eGI4NjFjanRSWWc?oc=5",
-      "published": "2026-07-01 07:23",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ITDF4bmUyT0ZFcGZ1V0ZCQWNkdElyQUU5YkNRdnBnTExpbTRKRU5YV2tiV2VVcS1xNG94VlVYY1F0OWxLdy03aFAzc1NoWW5oaWloaXhkdzdMd2pJbWxCSjdjdXQxNVk?oc=5",
+      "published": "2026-07-02 07:35",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -277,70 +276,65 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "삼성SDI",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "2차전지",
       "opinion": "관심",
-      "reason": "미국 AI 및 반도체 섹터의 강세가 국내 관련 산업에 긍정적인 영향을 미치며, AI 인프라 구축의 핵심 기업으로서 장기적인 성장 동력을 확보하고 있습니다.",
+      "reason": "삼성SDI CEO의 실적 턴어라운드 기대 발언은 해당 기업과 2차전지 섹터 전반에 긍정적인 투자 심리를 형성할 수 있으며, 실제 실적 개선 여부에 주목할 필요가 있습니다.",
       "check_points": [
-        "미국 기술주 및 반도체 시장 동향 지속 확인",
-        "HBM, 파운드리 등 AI 관련 사업부의 실적 발표 및 전망",
-        "7월 국내 증시의 금리 인상 및 수급 변동성 모니터링"
+        "삼성SDI의 향후 실적 발표 내용 확인",
+        "2차전지 산업 전반의 수요 개선 및 재고 상황 변화"
       ],
       "related_news_titles": [
-        "미국 증시 마감: AI 열풍에 S&P 500, 나스닥 2020년 이후 최고 분기 실적; 필라델피아 반도체 지수 6개월 만에 두 배, 마이크론 304% 이상 급등; 비트코인 3분기 연속 하락",
-        "7월 국내 증시 갈림길 선다⋯‘삼전닉스’ 사상 최고 실적 vs 금리 인상 공포",
-        "'역사적' 실적 장세 7월 반도체 '기대'…금리인상·국민연금 '부담'"
+        "삼성SDI CEO, 창립 56주년 맞아 올해 실적 턴어라운드 기대"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "LX세미콘",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "전력 반도체",
       "opinion": "관심",
-      "reason": "미국발 AI 및 반도체 시장의 강력한 상승세에 직접적인 수혜가 예상되며, AI 시대 핵심 부품인 고대역폭 메모리(HBM) 시장의 선도적인 역할을 하고 있습니다.",
+      "reason": "AI 기술 발전에 따라 전력 반도체의 중요성이 새롭게 부각되고 있으며, 이는 LX세미콘과 같은 국내 전력 반도체 관련 기업들에게 새로운 성장 기회로 작용할 수 있습니다.",
       "check_points": [
-        "글로벌 HBM 수요 증가 추이 및 경쟁 상황",
-        "미국 필라델피아 반도체 지수 및 마이크론 등 관련 기업 주가 동향",
-        "국내 증시 전반의 거시경제 지표 및 기관 투자자 수급"
+        "AI 시장 내 전력 반도체 수요 변화 추이",
+        "관련 기업들의 신기술 개발 및 시장 침투 동향"
       ],
       "related_news_titles": [
-        "미국 증시 마감: AI 열풍에 S&P 500, 나스닥 2020년 이후 최고 분기 실적; 필라델피아 반도체 지수 6개월 만에 두 배, 마이크론 304% 이상 급등; 비트코인 3분기 연속 하락",
-        "7월 국내 증시 갈림길 선다⋯‘삼전닉스’ 사상 최고 실적 vs 금리 인상 공포",
-        "'역사적' 실적 장세 7월 반도체 '기대'…금리인상·국민연금 '부담'"
+        "미국 증시 '가장 강한 달'이 오고 있는가!? 전력 반도체가 메모리 반도체 다음의 AI 투자 테마가 될 수 있을까? 반도체 섹터의 지각 변동 속에서 어떤 주식에 주목해야 할까?"
       ]
     },
     {
       "rank": 3,
-      "name": "한미반도체",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체 장비",
-      "opinion": "관심",
-      "reason": "AI 반도체 열풍의 직접적인 수혜주로, 고대역폭 메모리(HBM) 생산에 필수적인 장비 공급사로서 미국 반도체 섹터 강세에 따른 긍정적 영향이 기대됩니다.",
+      "sector": "반도체",
+      "opinion": "주의",
+      "reason": "메타의 컴퓨팅 파워 리스 전환 소식과 함께 AI 수요 약화 우려가 촉발되며 필라델피아 반도체 지수가 크게 하락했습니다. 이는 삼성전자 등 국내 메모리 및 AI 관련 반도체 기업들의 실적 및 주가에 부정적인 영향을 미칠 수 있어 시장 상황을 면밀히 주시해야 합니다.",
       "check_points": [
-        "HBM 시장 성장 속도 및 주요 고객사 투자 확대 여부",
-        "미국 필라델피아 반도체 지수 및 주요 반도체 기업 주가 변동성",
-        "기술 경쟁력 유지 및 신규 수주 동향"
+        "글로벌 AI 서비스 수요 둔화 여부 및 실제 영향",
+        "주요 빅테크 기업의 컴퓨팅 파워 투자 계획 변화"
       ],
       "related_news_titles": [
-        "미국 증시 마감: AI 열풍에 S&P 500, 나스닥 2020년 이후 최고 분기 실적; 필라델피아 반도체 지수 6개월 만에 두 배, 마이크론 304% 이상 급등; 비트코인 3분기 연속 하락"
+        "미국 증시 마감: 다우지수 장중 신고가 경신, 필라델피아 반도체 지수 6% 이상 하락; 메타의 컴퓨팅 파워 리스 전환, AI 수요 약화 우려 촉발하며 메모리·반도체주 매도세 유발"
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "AI 인프라",
-      "opinion": "관심",
-      "reason": "AI 시대의 필수적인 인프라(클라우드 컴퓨팅, 데이터센터)를 제공하는 기업으로서, 장기적인 관점에서 AI 산업 성장의 수혜를 기대할 수 있습니다.",
+      "sector": "금융",
+      "opinion": "주의",
+      "reason": "연준의 매파적 스탠스, 국내외 국채금리 급등, 고환율 등 복합적인 거시경제 악재는 증시 전반과 금융 섹터에 하방 압력을 가할 수 있으며, 이는 미래에셋증권과 같은 증권사들의 실적에 부정적 요인이 될 수 있어 주의가 필요합니다.",
       "check_points": [
-        "국내외 AI 인프라 투자 확대 추이",
-        "클라우드 및 데이터센터 사업부문 실적 성장 여부",
-        "초거대 AI '하이퍼클로바X' 등 자체 AI 기술 경쟁력 강화 동향"
+        "연준의 향후 금리 정책 발표 내용 및 시장 반응",
+        "환율 및 국내외 금리 추이 변동성",
+        "외국인 투자자 동향 및 국내 증시 수급 상황"
       ],
       "related_news_titles": [
-        "개인 투자자가 주목할 만한 AI 인프라 주식"
+        "증시 투자자들, 연준으로부터 나쁜 소식 접해. 역사적으로 큰 하락 뒤따를 수 있어.",
+        "[7.2(목) 한국장 전망] 국채금리 급등·환율 1,550원 — 코스피 약세 출발 예상",
+        "치솟는 환율, 금리 올리면 진정?…이번엔 글쎄"
       ]
     }
   ],
