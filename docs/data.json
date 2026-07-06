@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06 08:02",
-  "analysis_date": "2026-07-06",
+  "generated_at": "2026-07-07 08:07",
+  "analysis_date": "2026-07-07",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 증시는 AI 열풍에 힘입어 상승 기대감을 유지하고 있으나, 미국 고용 둔화와 국내 환율 변동성 등 복합적인 거시경제 요인에 대한 경계심이 필요합니다. 금리 인상 완화 기대와 경기 둔화 우려가 상충하며 시장 변동성이 확대될 수 있습니다.",
-    "국내거시경제": "반도체 수출 호조에도 불구하고 원/달러 환율이 높은 수준을 유지하며 국내 기업의 원자재 수입 비용 및 수출 경쟁력에 지속적인 영향을 미 줄 것으로 예상됩니다. 미국의 고금리 유지와 글로벌 경기 둔화 우려가 환율에 복합적으로 작용하고 있습니다.",
-    "글로벌경제": "미국의 부진한 고용 보고서가 연준의 추가 금리 인상 가능성을 낮추는 요인으로 작용하고 있습니다. 전 연준 의장의 인플레이션 관련 긍정적 발언도 있었으나, 고용 둔화가 경기 둔화 신호로 해석될 수 있어 경계심이 필요합니다.",
-    "증시금리": "AI 열풍에 힘입어 다우, S&P 500, 나스닥 선물 지수가 상승하며 시장의 긍정적 기대를 반영했습니다. 다만, 미국 고용 지표 부진에도 S&P 500이 하락 마감한 점은 금리 인상 완화 기대감과 경기 둔화 우려가 상충하는 시장의 변동성을 보여줍니다.",
-    "부동산정책": "국내 입주 물량 부족 심화와 일부 지역의 집값 상승으로 무주택자의 부담이 가중되고 있습니다. 정부의 정책과 맞물려 수요는 자극되지만, 공급 부족이 단기적으로 집값 상승 압력으로 작용할 수 있습니다.",
-    "기업산업": "AI 서버 수요에 힘입어 폭스콘의 2분기 매출이 40% 급증하는 등 AI 관련 기업들의 실적 호조가 이어지고 있습니다. 이는 AI 기술 발전이 산업 전반에 미치는 긍정적 영향을 보여주며 관련 하드웨어 및 소프트웨어 생태계 전반에 긍정적입니다.",
-    "오늘의투자시사점": "AI 관련 핵심 기업 및 수혜가 예상되는 기업들에 대한 지속적인 관심이 필요하며, 글로벌 경기 둔화 우려와 국내 환율 변동성 등 거시경제 지표를 면밀히 주시하여 투자 전략에 반영해야 합니다. 특히 금리 인하 기대와 경기 둔화 우려 사이의 변동성에 대비한 신중한 접근이 요구됩니다.",
-    "오늘의한줄": "AI 랠리가 시장을 견인하지만, 글로벌 고용 둔화와 국내 환율 변동성에 대한 신중한 접근이 필요한 시점입니다."
+    "총평": "미국 증시에서 기술주와 반도체 섹터의 강세가 지속되는 가운데, 연준의 매파적 금리 인상 시그널이 시장의 불안감을 키우고 있습니다. 국내는 핵심 산업에 대한 대규모 투자 계획 발표로 활기가 기대됩니다.",
+    "국내거시경제": "국내 기업들의 이차전지, 반도체, 미래차 등 핵심 산업에 대한 1,600조 원 이상 대규모 지역 투자가 발표되어 장기적인 경제 활성화 및 산업 재편이 기대됩니다. 통화정책의 역할과 한계에 대한 중앙은행의 고민이 깊어지고 있습니다.",
+    "글로벌경제": "연준 월러 이사가 인플레이션 전망을 상향하며 7월 금리 인상 가능성을 시사, 매파적 통화정책 기조 지속 우려가 다시 부각되고 있습니다.",
+    "증시금리": "미국 증시 다우와 나스닥이 반도체주 강세에 힘입어 상승 마감했으나, 연준 이사의 금리 인상 발언으로 통화정책 불확실성이 재차 고조되었습니다.",
+    "부동산정책": "특이사항 없음.",
+    "기업산업": "삼성전자 2분기 실적 기대감 및 SK하이닉스 미국 상장 기대에 반도체주가 강세를 보였으며, AI와 자동차 산업 성장이 반도체 실리콘 재료 시장의 장기 성장을 견인할 것으로 전망됩니다. 국내는 지역별 핵심 산업에 대규모 투자가 계획되어 있습니다.",
+    "오늘의투자시사점": "반도체 및 AI 관련주는 미국 증시 강세와 장기 성장 전망에 힘입어 긍정적인 모멘텀을 유지할 것으로 보이나, 연준의 금리 인상 시그널에 따른 시장 변동성 확대에 유의해야 합니다. 국내 핵심 산업 투자에 따른 수혜 기업에도 관심을 가져야 합니다.",
+    "오늘의한줄": "미국발 반도체와 AI 훈풍 속 연준의 매파적 발언으로 금리 인상 우려가 재부각되며 시장의 기대와 경계심이 교차하는 하루가 예상됩니다."
   },
   "top_news": [
     {
@@ -28,37 +28,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "부진한 고용 보고서가 연준의 금리 인상 가능성을 낮췄지만, S&P 500은 하락",
-      "display_title": "부진한 고용 보고서가 연준의 금리 인상 가능성을 낮췄지만, S&P 500은 하락",
-      "original_title": "Weak jobs report dampens Fed rate-hike odds, but S&P 500 falls - MSN",
+      "title": "미국 증시 마감: 다우 또 사상 최고치, 나스닥 1.12% 상승; 삼성전자 2분기 실적 호조 및 SK하이닉스 美 상장 기대감에 반도체주 강세",
+      "display_title": "미국 증시 마감: 다우 또 사상 최고치, 나스닥 1.12% 상승; 삼성전자 2분기 실적 호조 및 SK하이닉스 美 상장 기대감에 반도체주 강세",
+      "original_title": "US Stocks Close: Dow Hits Another Record High, Nasdaq Rises 1.12%; Market Expects Samsung Electronics to Post Strong Q2 Earnings, SK Hynix Starts US Listing Process, Chip and Memory Stocks Lead Gains. - TradingKey",
       "summary": [
-        "예상보다 부진한 고용 지표 발표로 연준의 추가 금리 인상 가능성이 낮아졌으나, S&P 500 지수는 하락 마감했다.",
-        "고용 시장 둔화는 경제 둔화 신호로 해석될 수 있어 금리 인상 압력을 완화하지만, 동시에 기업 실적에 대한 우려를 키울 수 있다.",
-        "금리 인상 완화 기대감과 경기 둔화 우려가 상충하며 시장에 변동성을 줄 수 있으므로 신중한 접근이 필요하다."
+        "미국 증시에서 다우존스 지수가 사상 최고치를 경신하고 나스닥이 1.12% 상승했으며, 특히 반도체 및 메모리 관련주가 강세를 보였습니다.",
+        "이는 삼성전자의 2분기 호실적 기대감과 SK하이닉스의 미국 상장 추진 소식이 영향을 미쳤습니다.",
+        "국내 반도체 대장주에 대한 긍정적 시장 분위기가 형성되고 있어 관련 종목에 대한 관심이 필요합니다."
       ],
-      "summary_text": "예상보다 부진한 고용 지표 발표로 연준의 추가 금리 인상 가능성이 낮아졌으나, S&P 500 지수는 하락 마감했다. 고용 시장 둔화는 경제 둔화 신호로 해석될 수 있어 금리 인상 압력을 완화하지만, 동시에 기업 실적에 대한 우려를 키울 수 있다. 금리 인상 완화 기대감과 경기 둔화 우려가 상충하며 시장에 변동성을 줄 수 있으므로 신중한 접근이 필요하다.",
-      "description": "부진한 고용 보고서로 인해 연준의 금리 인상 가능성은 낮아졌으나, S&P 500 지수는 하락했다.",
+      "summary_text": "미국 증시에서 다우존스 지수가 사상 최고치를 경신하고 나스닥이 1.12% 상승했으며, 특히 반도체 및 메모리 관련주가 강세를 보였습니다. 이는 삼성전자의 2분기 호실적 기대감과 SK하이닉스의 미국 상장 추진 소식이 영향을 미쳤습니다. 국내 반도체 대장주에 대한 긍정적 시장 분위기가 형성되고 있어 관련 종목에 대한 관심이 필요합니다.",
+      "description": "다우존스 지수가 다시 사상 최고치를 기록하고 나스닥이 1.12% 상승하며 미국 증시가 마감되었습니다. 시장은 삼성전자의 강력한 2분기 실적 발표와 SK하이닉스의 미국 상장 추진을 기대하며 반도체 및 메모리 관련주가 상승을 주도했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "전반",
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT 하드웨어",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "금리 인상 중단 기대감과 경기 침체 우려가 공존하며 시장의 방향성을 예측하기 어려운 시점이다.",
-      "key_signal": "향후 발표될 경제 지표, 특히 고용 및 인플레이션 데이터를 면밀히 분석하여 연준의 다음 움직임을 예측해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 증시의 강세와 국내 대표 반도체 기업들의 긍정적인 소식은 국내 증시의 관련 섹터에 대한 투자 심리를 크게 개선할 수 있기 때문입니다.",
+      "key_signal": "오늘 국내 증시 개장 시 반도체 관련주의 움직임과 외국인 수급 동향을 면밀히 주시해야 합니다.",
       "keywords": [
-        "고용보고서",
-        "금리인상",
-        "연준",
-        "S&P 500",
-        "경기둔화"
+        "미국 증시",
+        "반도체",
+        "삼성전자",
+        "SK하이닉스",
+        "나스닥"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUVHeGdhM00yRERzaW4yc0JTRXRMLUg2VWVtRExZbGhaMUhvWG10SXVYNmpEU3JMeWZqUmVOU0MxRkpzVVB5Tno5akxOQ2l5dWU5ZWEyeEEwMTl3UkI4V0w5MnotTXBVZTFjQ3RNUGFfVFlSTXZsdmxBYUdraXN1clVpSmR3b19nMGF2Qmc0QjZUSzV0cUlHYzZZZ0VvN1VZOXpMalFaTEhhdGR6Yms1TTBseDBEMnRKVUJDWTZERzZ1a19DcVJfN1NR?oc=5",
-      "published": "2026-07-05 22:22",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXpKY2l5ZmhINHhFc2lIMG5DWGxURUdSTWZFaDRlRjhybVI2emZyX3BpVkhQNlcxa095d25tS3pjUFZ5NHE1Z3d5VE1sV1VUajY5OVJ0TVpHaXRBRWVNNTVtTFhJSlEtMVliRTFsQWplUTdraldzVXRSN1p3VXBZN082U2RWd29zLXFyYlMtLUdfeEw1b3c0NndXZEtVaWw5eTItZHZwY2o5dGVGM3hfbC1GWXE5MTk5ejB6RnY1UU9RZ01MX1I3UEFQRFVNakpKTUZqdQ?oc=5",
+      "published": "2026-07-07 05:15",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,82 +66,84 @@
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "입주 '가뭄' 속 \"집값 10억 올랐다\"…무주택자들의 한숨 깊어지는 이유",
-      "display_title": "입주 '가뭄' 속 \"집값 10억 올랐다\"…무주택자들의 한숨 깊어지는 이유",
-      "original_title": "가뜩이나 입주 '가뭄'인데...\"집값 10억 올랐다\" 피 마르는 무주택자들 - 머니투데이 - 머니투데이",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "연준 월러 이사, 인플레이션 전망 상향 조정에 7월 금리 인상 시사",
+      "display_title": "연준 월러 이사, 인플레이션 전망 상향 조정에 7월 금리 인상 시사",
+      "original_title": "Fed’s Waller flags July hike as inflation dots rise - TechStock²",
       "summary": [
-        "입주 물량 부족 현상 심화와 일부 지역의 가파른 집값 상승으로 무주택자들의 주택 구매 부담이 가중되고 있다.",
-        "정부의 부동산 규제 완화와 경기 부양책이 맞물려 주택 수요를 자극하는 반면, 공급은 여전히 부족한 상황이다.",
-        "주택 시장의 공급 부족은 단기적으로 집값 상승 압력으로 작용할 수 있으나, 정책 변화와 금리 인상 가능성을 함께 고려해야 한다."
+        "연준 월러 이사가 인플레이션 전망이 상향 조정되었음을 언급하며 7월 금리 인상 가능성을 시사했습니다.",
+        "이는 시장의 금리 인상 종료 기대감에 찬물을 끼얹는 발언으로, 매파적 통화정책 기조가 지속될 수 있음을 나타냅니다.",
+        "금리 인상 우려가 다시 부각될 경우 주식 시장 전반에 부정적인 영향을 미칠 수 있으므로, 향후 연준 인사들의 발언과 경제 지표를 주목해야 합니다."
       ],
-      "summary_text": "입주 물량 부족 현상 심화와 일부 지역의 가파른 집값 상승으로 무주택자들의 주택 구매 부담이 가중되고 있다. 정부의 부동산 규제 완화와 경기 부양책이 맞물려 주택 수요를 자극하는 반면, 공급은 여전히 부족한 상황이다. 주택 시장의 공급 부족은 단기적으로 집값 상승 압력으로 작용할 수 있으나, 정책 변화와 금리 인상 가능성을 함께 고려해야 한다.",
-      "description": "입주 물량 부족 현상이 심화되는 가운데 일부 지역에서 집값이 10억 원씩 오르며 무주택자들의 주택 마련 고통이 커지고 있다는 보도.",
-      "category": "부동산·정책",
+      "summary_text": "연준 월러 이사가 인플레이션 전망이 상향 조정되었음을 언급하며 7월 금리 인상 가능성을 시사했습니다. 이는 시장의 금리 인상 종료 기대감에 찬물을 끼얹는 발언으로, 매파적 통화정책 기조가 지속될 수 있음을 나타냅니다. 금리 인상 우려가 다시 부각될 경우 주식 시장 전반에 부정적인 영향을 미칠 수 있으므로, 향후 연준 인사들의 발언과 경제 지표를 주목해야 합니다.",
+      "description": "연방준비제도(Fed)의 크리스토퍼 월러 이사가 인플레이션 전망치가 상승함에 따라 7월 금리 인상 가능성을 시사했습니다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "건설",
+      "related_sector": "전반적 시장, 금융, 기술주",
       "related_stocks": [
-        "현대건설",
-        "삼성물산"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "부동산 시장의 과열은 가계 부채 증가와 향후 금리 인상 시 경기 침체 리스크를 키울 수 있어 전반적인 경제에 부담을 줄 수 있다.",
-      "key_signal": "정부의 추가 부동산 정책 발표 여부와 금리 인상 가능성, 그리고 주택 공급 계획 변화를 주시해야 한다.",
+      "investment_reason": "금리 인상 가능성 증가는 기업의 자금 조달 비용을 높이고 시장 유동성을 축소시켜 주식 시장 전반에 하방 압력으로 작용할 수 있기 때문입니다.",
+      "key_signal": "이번 주 발표될 미국 인플레이션 지표와 연준 다른 인사들의 발언을 통해 금리 인상 경로에 대한 시장 컨센서스 변화를 확인해야 합니다.",
       "keywords": [
-        "부동산",
-        "집값",
-        "무주택자",
-        "입주물량",
-        "부동산정책"
+        "연준",
+        "금리 인상",
+        "인플레이션",
+        "통화정책",
+        "매파"
       ],
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1udTlyeFJqNUZhT1FuYVc1XzllMjNBSzZKNTQ1LWMteUxSeXF2TG5RaGIwTTZST25PV0hWUUNnVS03dUlJSlI0WFNuMUwxSE93VVltSktLZEZSTjJvczQ3T2ktODBjeWxKMjVpNHd0SdIBb0FVX3lxTE1udTlyeFJqNUZhT1FuYVc1XzllMjNBSzZKNTQ1LWMteUxSeXF2TG5RaGIwTTZST25PV0hWUUNnVS03dUlJSlI0WFNuMUwxSE93VVltSktLZEZSTjJvczQ3T2ktODBjeWxKMjVpNHd0SQ?oc=5",
-      "published": "2026-07-06 06:30",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmUjROVW5jTVBydjJoU0lIYjkxd1JCenlFSEhYWEVFZXVia1lFUDNpZWJlMmhzM0ZwbF9paDJRZS1DX2VraTB5U2hkV1dQdWNDU0F3Q3d5UFRVSk5BMVpGYkx1WGUxVmhoN2xqQ3hFb09RM0tXVDVwNzdWMA?oc=5",
+      "published": "2026-07-07 05:00",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "\"교과서적 논리 무력화\" 반도체 수출 호조에도 한국 원/달러 환율이 높은 이유",
-      "display_title": "\"교과서적 논리 무력화\" 반도체 수출 호조에도 한국 원/달러 환율이 높은 이유",
-      "original_title": "\"교과서 같은 말 안 통해\" 반도체 수출로 달러 쓸어 담는 한국…환율은 왜 이럴까[주末머니] - v.daum.net",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목",
+      "display_title": "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목",
+      "original_title": "US stocks today: Nasdaq jumps over 1% as chip stocks rally, investors eye AI earnings - The Economic Times",
       "summary": [
-        "한국의 반도체 수출 호조로 달러 공급이 늘었음에도 불구하고, 원/달러 환율이 여전히 높은 수준을 유지하고 있다.",
-        "일반적으로 수출 증가는 환율 하락 요인이지만, 미국의 고금리 유지, 글로벌 경기 둔화 우려, 외국인 투자자들의 달러 유출 가능성 등 복합적 요인이 작용한다.",
-        "환율 변동성은 국내 기업의 수출 경쟁력 및 원자재 수입 비용에 직접적인 영향을 미치므로, 환율 동향을 면밀히 주시하며 투자 전략에 반영해야 한다."
+        "미국 나스닥 지수가 1% 넘게 상승했고, 특히 반도체 관련주가 강세를 보이며 시장 상승을 주도했습니다.",
+        "이는 인공지능(AI) 관련 기업들의 실적 발표에 대한 기대감이 반영된 것으로 해석됩니다.",
+        "AI 및 반도체 섹터의 긍정적인 모멘텀은 국내 관련 기업들에게도 호재로 작용할 가능성이 높습니다."
       ],
-      "summary_text": "한국의 반도체 수출 호조로 달러 공급이 늘었음에도 불구하고, 원/달러 환율이 여전히 높은 수준을 유지하고 있다. 일반적으로 수출 증가는 환율 하락 요인이지만, 미국의 고금리 유지, 글로벌 경기 둔화 우려, 외국인 투자자들의 달러 유출 가능성 등 복합적 요인이 작용한다. 환율 변동성은 국내 기업의 수출 경쟁력 및 원자재 수입 비용에 직접적인 영향을 미치므로, 환율 동향을 면밀히 주시하며 투자 전략에 반영해야 한다.",
-      "description": "한국이 반도체 수출로 달러를 많이 벌어들이고 있음에도 불구하고, 교과서적인 설명과는 다르게 원/달러 환율이 높은 수준을 유지하는 이유를 분석한다.",
-      "category": "증시·금리",
+      "summary_text": "미국 나스닥 지수가 1% 넘게 상승했고, 특히 반도체 관련주가 강세를 보이며 시장 상승을 주도했습니다. 이는 인공지능(AI) 관련 기업들의 실적 발표에 대한 기대감이 반영된 것으로 해석됩니다. AI 및 반도체 섹터의 긍정적인 모멘텀은 국내 관련 기업들에게도 호재로 작용할 가능성이 높습니다.",
+      "description": "미국 증시에서 나스닥 지수가 1% 이상 급등했으며, 반도체 주식들이 강세를 보였습니다. 투자자들은 다가오는 인공지능(AI) 관련 기업들의 실적 발표에 주목하고 있습니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체",
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI, IT 하드웨어",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스"
+        "SK하이닉스",
+        "한미반도체"
       ],
       "investment_view": "관심",
-      "investment_reason": "환율은 한국 경제의 핵심 변수 중 하나이며, 기업 실적과 외국인 투자자금 유출입에 큰 영향을 미치므로 투자 판단에 필수적이다.",
-      "key_signal": "미국 금리 인상 정책 변화, 글로벌 경기 회복 속도, 국내 무역수지 동향 등을 종합적으로 고려하여 환율의 추가적인 변동성을 예측해야 한다.",
+      "investment_reason": "미국 기술주의 상승, 특히 반도체와 AI 관련주의 강세는 국내 유사 산업의 기업 주가에도 긍정적인 투자 심리를 유발할 수 있기 때문입니다.",
+      "key_signal": "다가오는 미국 AI 관련 기업들의 실적 발표 내용이 국내 AI 및 반도체 관련주에 미칠 파급 효과를 예의주시해야 합니다.",
       "keywords": [
-        "환율",
-        "반도체 수출",
-        "원/달러 환율",
-        "무역수지",
-        "글로벌 경제"
+        "미국 증시",
+        "나스닥",
+        "반도체",
+        "AI",
+        "실적 기대감"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80OWJ0N09oMXY0UnRsVkhrekEwcjNHdW9fbHlnRFZuY0lQTVJxd3M4eE9lcWZUVGZWS2cweUViZnh0aVhqeHZoOThla1kyN1U?oc=5",
-      "published": "2026-07-05 14:56",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzN5WFNkdnl0bFBqek1aX1l2VFlveVBKLVRGSHlPeXRHOU1Db2txaGE0c0NhWUJ5bG5nVnVHOEVvRmhGMURkMlNzbGpPUlg4M29Tb0FUWjVHdzc2cnEwWlI1QXU3ck40bm1lQ0RpRzFfNUJYcW9vMzNfQW0zQW8yRFlreGRKMG1GSkk4U3kzQW9DOFdtWUwwQ25UM0lvRmo3bk01N1VLOHpFTFNkWGtPNDRHQUNKVWhINFFNYXNSRTdKcmZWeWFnSzhSV1dKYm5ORlFlUWZwWVdmUVNOUDFYMtIB5gFBVV95cUxOYmdWcEhKM2xBd3M3UUtfYWtWUHE5ZTF4TXpCNTE2OFVUdzU2ajNoazZ4WXlHZEVNNThFWG9jNFpCTnVucGpFRm1HZEJEMWJRYUc4bEhCZ0xHbkRCb0JsRDBMdElDVzBKNExZR0tYRjNqVG5IMlJBSTEyN2ZBT2tBNlRndW8tWXk2cW1GcU8wcEEwdGwteGxiLWJlelo4MXNwWUxsMVRkeFhLVnlIS0VxRlp1UVlpRG9LSTNUSHR4U1hROHBxZHRZNGNRb3BKRGFCZDJfYXNrbk9vVG9lNmloUUhucjhwdw?oc=5",
+      "published": "2026-07-07 05:05",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -152,33 +153,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 의장 워시, 인플레이션에 대해 모든 투자자가 듣고 싶어 했던 한 가지 발언",
-      "display_title": "연준 의장 워시, 인플레이션에 대해 모든 투자자가 듣고 싶어 했던 한 가지 발언",
-      "original_title": "Fed Chair Warsh Just Said the One Thing About Inflation Every Investor Wanted to Hear - AOL.com",
+      "title": "2035년까지 반도체 실리콘 재료 시장 성장 전망: AI, 자동차 및 생산 능력 확장이 수요 견인",
+      "display_title": "2035년까지 반도체 실리콘 재료 시장 성장 전망: AI, 자동차 및 생산 능력 확장이 수요 견인",
+      "original_title": "Semiconductor Silicon Materials Market Growth Outlook to 2035: AI, Automotive, and Capacity Expansion Fuel Demand - News and Statistics - IndexBox",
       "summary": [
-        "전 연준 의장 워시가 인플레이션에 대해 시장이 긍정적으로 해석할 만한 발언을 했다.",
-        "연준의 통화정책 방향과 인플레이션 억제 의지는 시장의 주요 관심사이다.",
-        "연준 인사들의 발언은 금리 인상 기대감에 영향을 미치므로 시장 흐름을 주시해야 한다."
+        "반도체 실리콘 재료 시장이 인공지능, 자동차 산업의 성장 및 생산 능력 확장에 힘입어 2035년까지 지속적인 성장을 보일 것으로 전망됩니다.",
+        "이는 장기적인 관점에서 반도체 산업 전반의 견조한 수요 증가를 시사하며, 특히 웨이퍼 및 관련 소재 기업들에게 긍정적입니다.",
+        "미래 산업의 핵심인 AI와 자동차 산업의 발전이 반도체 소재 산업의 성장 동력이 될 것이므로 관련 기업의 중장기 투자 매력을 점검해 볼 필요가 있습니다."
       ],
-      "summary_text": "전 연준 의장 워시가 인플레이션에 대해 시장이 긍정적으로 해석할 만한 발언을 했다. 연준의 통화정책 방향과 인플레이션 억제 의지는 시장의 주요 관심사이다. 연준 인사들의 발언은 금리 인상 기대감에 영향을 미치므로 시장 흐름을 주시해야 한다.",
-      "description": "전 연준 의장 워시가 인플레이션에 대해 모든 투자자가 듣고 싶어 했던 한 가지 발언을 했다.",
-      "category": "증시·금리",
+      "summary_text": "반도체 실리콘 재료 시장이 인공지능, 자동차 산업의 성장 및 생산 능력 확장에 힘입어 2035년까지 지속적인 성장을 보일 것으로 전망됩니다. 이는 장기적인 관점에서 반도체 산업 전반의 견조한 수요 증가를 시사하며, 특히 웨이퍼 및 관련 소재 기업들에게 긍정적입니다. 미래 산업의 핵심인 AI와 자동차 산업의 발전이 반도체 소재 산업의 성장 동력이 될 것이므로 관련 기업의 중장기 투자 매력을 점검해 볼 필요가 있습니다.",
+      "description": "인공지능(AI), 자동차 산업 성장, 그리고 반도체 생산 능력 확장이 2035년까지 반도체 실리콘 재료 시장의 수요를 견인할 것이라는 전망이 나왔습니다.",
+      "category": "기업·산업",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "금융",
-      "related_stocks": [],
-      "investment_view": "관심",
-      "investment_reason": "연준의 스탠스는 글로벌 금리 및 유동성 환경에 직접적인 영향을 미치므로 투자 결정에 중요하게 고려해야 한다.",
-      "key_signal": "연준 위원들의 발언과 인플레이션 관련 지표 변화를 면밀히 주시해야 한다.",
-      "keywords": [
-        "연준",
-        "인플레이션",
-        "금리",
-        "통화정책",
-        "시장심리"
+      "related_sector": "반도체 소재, AI, 자동차 부품",
+      "related_stocks": [
+        "SK실트론",
+        "원익QnC",
+        "동진쎄미켐"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80TGx2dmtJbTNpalRZdDNUYnZ0NEZjazdlaWR4U191NzJ6M0k4LWxYWWF4NGRiNUhjTWRxaGpDOXotWUZJZTczSkxBRElSNmZ1Y1lmZmNOZHBxM2lPTV9iWnhpdlJHTkU5d0JBejhfTVhSUmRieFBYSQ?oc=5",
-      "published": "2026-07-06 04:06",
+      "investment_view": "관심",
+      "investment_reason": "반도체 핵심 소재 시장의 장기적인 성장 전망은 관련 국내 기업들의 미래 실적에 긍정적인 영향을 미칠 것으로 예상되기 때문입니다.",
+      "key_signal": "반도체 웨이퍼 및 실리콘 소재 관련 국내 기업들의 생산 능력 확장 계획과 주요 고객사 동향을 지속적으로 확인해야 합니다.",
+      "keywords": [
+        "반도체 소재",
+        "실리콘 웨이퍼",
+        "AI",
+        "자동차",
+        "장기 성장"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcDVnNmVpUjd0d0Q3aUhzRGpxWDVpeEt5WE5qbFB3WXJfbEREUWJCUW1OUklFSjFYZERueVB3T0kxQmlxOWNxR3ZkQzBEWFlsUURuOGtvVUhBTUs3WEItUmNHaXV3ZTBZOExoQTVJUVNZMmVJOGREYWhiZkJKRVBnNEMtYUFDakJIblNWVVVVSDJGVXNycVRscWhVZzI0SklNYXZuNmNHM042ZHc0eXNBeEpFOG56RHItTnF3azBvTmRkZ0FzRWlKaDB3NTVNd0tOcVZKVXJHODhHd1U5WGZqUFFKTUdlMmhfX24xVlM0VnlEMlE?oc=5",
+      "published": "2026-07-07 03:46",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -187,82 +192,84 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "다우, S&P 500, 나스닥 선물 상승, AI 열풍이 사상 최고치 랠리 견인: 시스코, 루나, 온디스, 엔비디아, 노키아 주목",
-      "display_title": "다우, S&P 500, 나스닥 선물 상승, AI 열풍이 사상 최고치 랠리 견인: 시스코, 루나, 온디스, 엔비디아, 노키아 주목",
-      "original_title": "Dow, S&P 500, Nasdaq Futures Climb As AI Frenzy Drives Record Rally: Why CSCO, LUNR, ONDS, NVDA, NOK Are In Focus - Stocktwits",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[미래 K산업지도①] 호남 896조·충청 392조·영남 312조…기업 투자로 다시 짜는 산업지도",
+      "display_title": "[미래 K산업지도①] 호남 896조·충청 392조·영남 312조…기업 투자로 다시 짜는 산업지도",
+      "original_title": "[미래 K산업지도①] 호남 896조·충청 392조·영남 312조…기업 투자로 다시 짜는 산업지도 - 스트레이트뉴스",
       "summary": [
-        "AI 열풍이 지속적으로 시장을 견인하며 다우, S&P 500, 나스닥 선물 지수 모두 상승했다.",
-        "AI 기술 발전이 산업 전반에 미치는 영향이 확대되면서 관련 기업들의 가치가 재평가되고 있다.",
-        "AI 관련 핵심 기업 및 수혜가 예상되는 기업들에 대한 지속적인 관심이 필요하다."
+        "국내 기업들의 대규모 투자로 호남, 충청, 영남 등 각 지역에 총 1,600조원 이상의 투자 계획이 발표되며 미래 K산업 지도가 재편되고 있습니다.",
+        "이는 이차전지, 반도체, 미래차 등 핵심 산업의 생산 거점 확대를 통해 지역 경제 활성화와 국가 경쟁력 강화에 기여할 것으로 기대됩니다.",
+        "지역별 산업 클러스터 형성에 따른 수혜 기업 및 관련 인프라, 소재·부품 기업들에 대한 장기적인 투자 기회를 탐색할 수 있습니다."
       ],
-      "summary_text": "AI 열풍이 지속적으로 시장을 견인하며 다우, S&P 500, 나스닥 선물 지수 모두 상승했다. AI 기술 발전이 산업 전반에 미치는 영향이 확대되면서 관련 기업들의 가치가 재평가되고 있다. AI 관련 핵심 기업 및 수혜가 예상되는 기업들에 대한 지속적인 관심이 필요하다.",
-      "description": "다우, S&P 500, 나스닥 선물 지수가 AI 열풍에 힘입어 사상 최고치 랠리를 기록하며 상승했으며, 시스코(CSCO), 루나(LUNR), 온디스(ONDS), 엔비디아(NVDA), 노키아(NOK) 등이 주목받고 있다.",
-      "category": "증시·금리",
+      "summary_text": "국내 기업들의 대규모 투자로 호남, 충청, 영남 등 각 지역에 총 1,600조원 이상의 투자 계획이 발표되며 미래 K산업 지도가 재편되고 있습니다. 이는 이차전지, 반도체, 미래차 등 핵심 산업의 생산 거점 확대를 통해 지역 경제 활성화와 국가 경쟁력 강화에 기여할 것으로 기대됩니다. 지역별 산업 클러스터 형성에 따른 수혜 기업 및 관련 인프라, 소재·부품 기업들에 대한 장기적인 투자 기회를 탐색할 수 있습니다.",
+      "description": "기업들의 대규모 투자에 힘입어 호남, 충청, 영남 지역에 총 1,600조원 규모의 투자가 이뤄지며 미래 한국 산업 지도가 새롭게 그려지고 있다는 보도입니다.",
+      "category": "기업·산업",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "반도체",
+      "related_sector": "이차전지, 반도체, 미래차, 지역 개발, 건설",
       "related_stocks": [
-        "엔비디아",
-        "시스코"
+        "LG에너지솔루션",
+        "현대차",
+        "SKC"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 관련 기업들의 실적과 성장 모멘텀이 시장 상승을 주도하고 있으며, 당분간 이 추세가 지속될 가능성이 높다.",
-      "key_signal": "AI 기술 발전 속도와 관련 기업들의 실적 발표를 지속적으로 모니터링해야 한다.",
+      "investment_reason": "국내 핵심 산업의 대규모 지역별 투자는 관련 기업들의 장기적인 성장 동력을 확보하고 새로운 투자 기회를 창출할 수 있기 때문입니다.",
+      "key_signal": "각 지역별 투자 대상 산업과 구체적인 기업들의 투자 계획을 면밀히 분석하여 수혜가 예상되는 종목을 발굴해야 합니다.",
       "keywords": [
-        "AI 열풍",
-        "기술주",
-        "주식시장",
-        "엔비디아",
-        "성장주"
+        "K산업지도",
+        "지역 투자",
+        "이차전지",
+        "반도체",
+        "미래차"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMlRlYjR4azlSZVZmbVdnNHlGR2RfOUxRellPU1FieFJRUTNUOUFUckRWYVBZaS1ha1E2d0JxX0hhdmJldW53Ui1HWnVqNVR0UHp4UlV2Nk5hYzVDalBDaXp3NGRlTEhTdElPbFNGRGlITnlNRFlhZy1JUEFteWZzQ1RRUzVWWUFnV056Tk8zUjM3dmxVTGpXaVB6ejRJaXFPQ3FWMEVJM0dEdEhnUFVOMGx0RkoyT2tlbmlvUE9B?oc=5",
-      "published": "2026-07-05 15:22",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NaEVGWmszZ05XekxsRkk3RVE4WWVEb3loSVlGS1NCbk1KSEpLLXZfTDhLT29ER1NScEdiaWh6YVF6eTZpMGdkS1M0LWc5MkVNYkp5NzRiV2Rpd29VVUR0U1gtNEh2elIyOXk2aXhoR1NyMXpCak130gF3QVVfeXFMTU1oRUZaazNnTld6TGxGSTdFUThZZURveWhJWUZLU0JuTUpISkstdl9MOEtPb0RHU1JwR2JpaHphUXp5NmkwZ2RLUzQtZzkyRU1iSnk3NGJXZGl3b1VVRHRTWC00SHZ6UjI5eTZpeGhHU3IxekJqTXc?oc=5",
+      "published": "2026-07-06 20:10",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "폭스콘 2분기 매출, AI 서버 수요에 힘입어 40% 급증",
-      "display_title": "폭스콘 2분기 매출, AI 서버 수요에 힘입어 40% 급증",
-      "original_title": "Foxconn Q2 revenue jumps 40% on AI server demand - scanx.trade",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[기자수첩] 통화정책이 할 수 있는 것",
+      "display_title": "[기자수첩] 통화정책이 할 수 있는 것",
+      "original_title": "[기자수첩] 통화정책이 할 수 있는 것 - 머니투데이 - 머니투데이",
       "summary": [
-        "폭스콘의 2분기 매출이 AI 서버 수요 덕분에 40%나 크게 상승했다.",
-        "전 세계적인 AI 기술 발전과 데이터센터 확장이 AI 서버 시장을 견인하고 있다.",
-        "AI 서버 관련 기업들의 실적 호조는 관련 하드웨어 및 소프트웨어 생태계 전반에 긍정적 영향을 미칠 수 있다."
+        "해당 칼럼은 현재의 경제 상황에서 통화정책이 수행할 수 있는 역할과 그 한계에 대해 심층적으로 다루고 있습니다.",
+        "이는 물가 안정과 경기 부양 사이에서 중앙은행의 고민이 깊어지고 있으며, 통화정책만으로는 해결하기 어려운 구조적 문제들이 있음을 시사합니다.",
+        "투자자들은 통화정책의 방향성뿐만 아니라 정부의 재정 정책 및 산업 정책 변화 등 거시경제 전반의 흐름을 종합적으로 판단할 필요가 있습니다."
       ],
-      "summary_text": "폭스콘의 2분기 매출이 AI 서버 수요 덕분에 40%나 크게 상승했다. 전 세계적인 AI 기술 발전과 데이터센터 확장이 AI 서버 시장을 견인하고 있다. AI 서버 관련 기업들의 실적 호조는 관련 하드웨어 및 소프트웨어 생태계 전반에 긍정적 영향을 미칠 수 있다.",
-      "description": "폭스콘의 2분기 매출이 AI 서버 수요 증가에 따라 40% 급증했다.",
-      "category": "기업·산업",
+      "summary_text": "해당 칼럼은 현재의 경제 상황에서 통화정책이 수행할 수 있는 역할과 그 한계에 대해 심층적으로 다루고 있습니다. 이는 물가 안정과 경기 부양 사이에서 중앙은행의 고민이 깊어지고 있으며, 통화정책만으로는 해결하기 어려운 구조적 문제들이 있음을 시사합니다. 투자자들은 통화정책의 방향성뿐만 아니라 정부의 재정 정책 및 산업 정책 변화 등 거시경제 전반의 흐름을 종합적으로 판단할 필요가 있습니다.",
+      "description": "머니투데이 기자의 수첩으로, 통화정책이 경제에 미칠 수 있는 영향과 한계에 대해 논의하는 칼럼입니다.",
+      "category": "국내 거시경제",
       "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "반도체",
+      "market_impact": "중립",
+      "related_sector": "전반적 시장, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 서버 시장의 성장세는 관련 부품 및 장비 기업들에게 지속적인 수혜를 제공할 가능성이 높다.",
-      "key_signal": "AI 서버 수요 증가가 관련 산업 전반으로 확산되는지, 국내 기업들의 AI 관련 실적 개선 여부를 확인해야 한다.",
+      "investment_reason": "통화정책의 역할과 한계에 대한 이해는 향후 중앙은행의 정책 결정 방향을 예측하고 투자 전략을 수립하는 데 중요한 통찰력을 제공하기 때문입니다.",
+      "key_signal": "향후 한국은행의 금리 결정과 통화정책 방향이 물가와 경기 중 어느 쪽에 더 중점을 둘 것인지 유심히 지켜봐야 합니다.",
       "keywords": [
-        "폭스콘",
-        "AI 서버",
-        "반도체",
-        "IT 하드웨어",
-        "매출 성장"
+        "통화정책",
+        "한국은행",
+        "거시경제",
+        "금리",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDczWUsteFo4OVpzbGl4NmdQTTYyWl9adWxxMkJvWWJQUWozOFJwTWJCOFVCNzk1Y05qVWRFWnlQM3pEOFB4c3oyeTNZSEJPRy1VVXRZSHFPZzlxUlhDUTdjV0JEdmluZk5HYmUyNlZGeG5lSHpMcDEwcWZYU1hYQ2ZKZ1ZhRk1fUUE2NWtNejZsV3V2Wk5FR2s4WDJXVEpwVFFNaTJVMA?oc=5",
-      "published": "2026-07-06 04:41",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Q0J2UWUwYTFHaXZkeXUwMFBnbjRrTTNqQjZnMlJjTkhfSFduLWpOS3VVM1BPN2lsNGlfaldLY2xVeUs3TXl1X052alVrZnM2U0RRYXlEWEoxZ2prSGs0NEJRU0dCODNlSHpV0gFwQVVfeXFMUEduNkswUENJRjJyLVAzNGdmU00wd1hKX1pTek9OSkNfb3JHMk15RnNNZE4yOFVnVnRCSzNpdTRoSFdvLVJOSUFnMDVycXIwZEFYNHg5dlNYQV9wN2hkeW9icWk1ZDB0cGJPNE0zTFIyRA?oc=5",
+      "published": "2026-07-07 07:41",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -275,16 +282,15 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 서버 수요 증가와 반도체 업황 개선 기대감이 높은 가운데, 환율 변동이 기업 실적에 미치는 영향에도 주목해야 할 시점입니다.",
+      "reason": "미국 증시의 반도체 강세와 2분기 실적 호조에 대한 기대감이 높아지면서, 국내 대표 반도체 기업에 대한 투자 심리가 긍정적으로 개선될 수 있습니다.",
       "check_points": [
-        "글로벌 AI 반도체 시장 성장 추이",
-        "원/달러 환율 추이",
-        "외국인 및 기관 매매 동향"
+        "글로벌 기술주 및 반도체 업황 동향",
+        "AI 관련 신규 투자 확대 여부",
+        "환율 및 메모리 반도체 가격 추이"
       ],
       "related_news_titles": [
-        "\"교과서적 논리 무력화\" 반도체 수출 호조에도 한국 원/달러 환율이 높은 이유",
-        "폭스콘 2분기 매출, AI 서버 수요에 힘입어 40% 급증",
-        "다우, S&P 500, 나스닥 선물 상승, AI 열풍이 사상 최고치 랠리 견인: 시스코, 루나, 온디스, 엔비디아 주목"
+        "미국 증시 마감: 다우 또 사상 최고치, 나스닥 1.12% 상승; 삼성전자 2분기 실적 호조 및 SK하이닉스 美 상장 기대감에 반도체주 강세",
+        "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목"
       ]
     },
     {
@@ -293,50 +299,47 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "고대역폭 메모리(HBM) 등 AI 반도체 핵심 경쟁력을 바탕으로 AI 서버 수요 증가의 직접적인 수혜가 예상되며, 업황 회복 기대감이 높습니다.",
+      "reason": "미국 증시의 반도체주 강세와 더불어 SK하이닉스의 미국 상장 기대감이 더해지면서, 관련 투자심리 및 주가에 긍정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "HBM 시장 점유율 및 기술 개발 동향",
-        "반도체 업황 전반의 회복 속도",
-        "주요 고객사들의 AI 투자 확대 여부"
+        "AI 반도체(HBM) 수요 증가 및 생산 능력 확장",
+        "미국 상장 관련 구체적인 진행 상황",
+        "경쟁사 대비 기술 및 시장 점유율"
       ],
       "related_news_titles": [
-        "\"교과서적 논리 무력화\" 반도체 수출 호조에도 한국 원/달러 환율이 높은 이유",
-        "폭스콘 2분기 매출, AI 서버 수요에 힘입어 40% 급증",
-        "다우, S&P 500, 나스닥 선물 상승, AI 열풍이 사상 최고치 랠리 견인: 시스코, 루나, 온디스, 엔비디아 주목"
+        "미국 증시 마감: 다우 또 사상 최고치, 나스닥 1.12% 상승; 삼성전자 2분기 실적 호조 및 SK하이닉스 美 상장 기대감에 반도체주 강세",
+        "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목"
       ]
     },
     {
       "rank": 3,
-      "name": "이수페타시스",
+      "name": "한미반도체",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "반도체 장비",
       "opinion": "관심",
-      "reason": "AI 열풍과 AI 서버 수요 급증은 고다층 인쇄회로기판(MLB)의 필요성을 증대시키며, 동사의 실적 개선에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "reason": "미국 기술주의 상승과 AI 관련 실적 기대감에 힘입어 반도체 전반에 대한 긍정적 투자 심리가 확산되고 있으며, 특히 AI 반도체 생산에 필수적인 후공정 장비 기업으로서 주목받을 수 있습니다.",
       "check_points": [
-        "글로벌 AI 서버 출하량 전망",
-        "주요 고객사들의 투자 확대 여부",
-        "경쟁사 동향 및 기술력 격차"
+        "글로벌 AI 반도체 시장 성장 속도",
+        "주요 고객사의 투자 확대 및 신규 수주 동향",
+        "경쟁사 대비 기술 우위 확보 여부"
       ],
       "related_news_titles": [
-        "다우, S&P 500, 나스닥 선물 상승, AI 열풍이 사상 최고치 랠리 견인: 시스코, 루나, 온디스, 엔비디아 주목",
-        "폭스콘 2분기 매출, AI 서버 수요에 힘입어 40% 급증"
+        "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목"
       ]
     },
     {
       "rank": 4,
-      "name": "한국금융지주",
-      "market": "KOSPI",
-      "sector": "금융",
+      "name": "원익QnC",
+      "market": "KOSDAQ",
+      "sector": "반도체 소재·부품",
       "opinion": "관심",
-      "reason": "연준 의장의 인플레이션 관련 발언이 시장에 긍정적 영향을 미치며 투자 심리를 개선할 수 있지만, 금리 인상 중단 기대감과 경기 침체 우려가 공존하는 만큼 시장 방향성에 대한 신중한 접근이 필요합니다.",
+      "reason": "AI, 자동차 등 반도체 수요 증가와 생산 능력 확장이 전망되면서, 반도체 실리콘 재료 시장의 장기적인 성장이 예상되어 관련 국내 소재 기업의 미래 실적에 긍정적인 영향을 미칠 것으로 보입니다.",
       "check_points": [
-        "국내외 금리 인상 사이클 종료 시점",
-        "증시 거래대금 및 투자 심리 추이",
-        "부동산 시장의 안정화 여부"
+        "글로벌 반도체 업황 개선에 따른 소재 수요 증가",
+        "신규 고객 확보 및 제품 포트폴리오 확장",
+        "환율 및 원재료 가격 변동성"
       ],
       "related_news_titles": [
-        "부진한 고용 보고서가 연준의 금리 인상 가능성을 낮췄지만, S&P 500은 하락",
-        "연준 의장 워시, 인플레이션에 대해 모든 투자자가 듣고 싶어 했던 한 가지 발언"
+        "2035년까지 반도체 실리콘 재료 시장 성장 전망: AI, 자동차 및 생산 능력 확장이 수요 견인"
       ]
     }
   ],
