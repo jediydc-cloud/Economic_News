@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07 08:07",
-  "analysis_date": "2026-07-07",
+  "generated_at": "2026-07-08 08:02",
+  "analysis_date": "2026-07-08",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,95 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 증시에서 기술주와 반도체 섹터의 강세가 지속되는 가운데, 연준의 매파적 금리 인상 시그널이 시장의 불안감을 키우고 있습니다. 국내는 핵심 산업에 대한 대규모 투자 계획 발표로 활기가 기대됩니다.",
-    "국내거시경제": "국내 기업들의 이차전지, 반도체, 미래차 등 핵심 산업에 대한 1,600조 원 이상 대규모 지역 투자가 발표되어 장기적인 경제 활성화 및 산업 재편이 기대됩니다. 통화정책의 역할과 한계에 대한 중앙은행의 고민이 깊어지고 있습니다.",
-    "글로벌경제": "연준 월러 이사가 인플레이션 전망을 상향하며 7월 금리 인상 가능성을 시사, 매파적 통화정책 기조 지속 우려가 다시 부각되고 있습니다.",
-    "증시금리": "미국 증시 다우와 나스닥이 반도체주 강세에 힘입어 상승 마감했으나, 연준 이사의 금리 인상 발언으로 통화정책 불확실성이 재차 고조되었습니다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "삼성전자 2분기 실적 기대감 및 SK하이닉스 미국 상장 기대에 반도체주가 강세를 보였으며, AI와 자동차 산업 성장이 반도체 실리콘 재료 시장의 장기 성장을 견인할 것으로 전망됩니다. 국내는 지역별 핵심 산업에 대규모 투자가 계획되어 있습니다.",
-    "오늘의투자시사점": "반도체 및 AI 관련주는 미국 증시 강세와 장기 성장 전망에 힘입어 긍정적인 모멘텀을 유지할 것으로 보이나, 연준의 금리 인상 시그널에 따른 시장 변동성 확대에 유의해야 합니다. 국내 핵심 산업 투자에 따른 수혜 기업에도 관심을 가져야 합니다.",
-    "오늘의한줄": "미국발 반도체와 AI 훈풍 속 연준의 매파적 발언으로 금리 인상 우려가 재부각되며 시장의 기대와 경계심이 교차하는 하루가 예상됩니다."
+    "총평": "국내 경제는 AI 대전환과 미래 성장 동력 확보에 집중하는 가운데, 글로벌 증시는 반도체 업황 변동성과 지정학적, 정치적 불확실성이 공존하고 있습니다.",
+    "국내거시경제": "정부가 다음 주 AI 대전환, 미래 투자, 지역 균형 발전을 아우르는 하반기 경제정책 방향을 발표할 예정입니다. 이는 한국 경제의 새로운 성장 동력 확보에 중점을 둘 것으로 예상됩니다.",
+    "글로벌경제": "중동 긴장 고조로 국제 유가가 상승하고 금값이 하락하는 등 원자재 시장이 민감하게 반응하고 있습니다. 또한, 트럼프 전 대통령의 연준 비판으로 통화정책의 불확실성이 증대되고 있어 글로벌 시장의 주요 리스크로 작용할 수 있습니다.",
+    "증시금리": "삼성전자 실적 발표 이후 글로벌 반도체 관련 주식들이 매도세를 보이며 나스닥 지수가 하락했습니다. 이는 한국 증시의 반도체 섹터에도 영향을 미칠 수 있으므로 주의가 필요합니다.",
+    "부동산정책": "해당 사항 없음",
+    "기업산업": "한국 반도체 산업은 AI 호황을 누리고 있으나, 미래 세대 기술 준비를 위한 '마지막 기회'라는 전문가 경고에 주목해야 합니다. 한편, 친환경 에너지 전환 가속화에 힘입어 관련 ETF들이 투자자들의 관심을 받으며 수혜를 입고 있습니다.",
+    "오늘의투자시사점": "정부의 하반기 경제정책 방향 발표에 따른 AI, 미래 전략 산업 및 5극3특 관련 정책 수혜주에 관심을 가질 필요가 있습니다. 글로벌 반도체 업황 변동성과 지정학적, 정치적 리스크에 대비하며, 장기 성장 잠재력이 큰 친환경 에너지 섹터도 긍정적으로 검토해볼 수 있습니다.",
+    "오늘의한줄": "AI와 미래 성장 동력 모색 속 글로벌 불확실성 심화, 정책 수혜 및 장기 성장 섹터에 주목할 시점."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 증시 마감: 다우 또 사상 최고치, 나스닥 1.12% 상승; 삼성전자 2분기 실적 호조 및 SK하이닉스 美 상장 기대감에 반도체주 강세",
-      "display_title": "미국 증시 마감: 다우 또 사상 최고치, 나스닥 1.12% 상승; 삼성전자 2분기 실적 호조 및 SK하이닉스 美 상장 기대감에 반도체주 강세",
-      "original_title": "US Stocks Close: Dow Hits Another Record High, Nasdaq Rises 1.12%; Market Expects Samsung Electronics to Post Strong Q2 Earnings, SK Hynix Starts US Listing Process, Chip and Memory Stocks Lead Gains. - TradingKey",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "AI 호황 속 한국 반도체, \"HBM 이후 준비할 마지막 기회\" 전문가 경고",
+      "display_title": "AI 호황 속 한국 반도체, \"HBM 이후 준비할 마지막 기회\" 전문가 경고",
+      "original_title": "AI 호황에 취한 한국 반도체…전문가들 “HBM 이후 준비할 마지막 기회” [중국 반도체 굴기 2026 下] - 이투데이",
       "summary": [
-        "미국 증시에서 다우존스 지수가 사상 최고치를 경신하고 나스닥이 1.12% 상승했으며, 특히 반도체 및 메모리 관련주가 강세를 보였습니다.",
-        "이는 삼성전자의 2분기 호실적 기대감과 SK하이닉스의 미국 상장 추진 소식이 영향을 미쳤습니다.",
-        "국내 반도체 대장주에 대한 긍정적 시장 분위기가 형성되고 있어 관련 종목에 대한 관심이 필요합니다."
+        "AI 시장의 폭발적인 성장에 힘입어 한국 반도체 산업이 HBM 등 첨단 기술로 호황을 누리고 있지만, 전문가들은 이에 안주하지 말고 다음 세대 기술을 준비할 '마지막 기회'라고 경고했다.",
+        "중국 반도체의 기술 추격 및 자국 산업 육성 정책에 대한 장기적 대비가 필요하며, 현재의 호황을 미래 경쟁력 확보를 위한 투자 기회로 활용해야 한다는 지적이다.",
+        "한국 반도체 기업들은 현재의 AI 반도체 강점을 유지하면서도, 미래 기술 투자와 사업 다각화를 통해 장기적인 성장 동력을 확보하는 전략을 모색해야 한다."
       ],
-      "summary_text": "미국 증시에서 다우존스 지수가 사상 최고치를 경신하고 나스닥이 1.12% 상승했으며, 특히 반도체 및 메모리 관련주가 강세를 보였습니다. 이는 삼성전자의 2분기 호실적 기대감과 SK하이닉스의 미국 상장 추진 소식이 영향을 미쳤습니다. 국내 반도체 대장주에 대한 긍정적 시장 분위기가 형성되고 있어 관련 종목에 대한 관심이 필요합니다.",
-      "description": "다우존스 지수가 다시 사상 최고치를 기록하고 나스닥이 1.12% 상승하며 미국 증시가 마감되었습니다. 시장은 삼성전자의 강력한 2분기 실적 발표와 SK하이닉스의 미국 상장 추진을 기대하며 반도체 및 메모리 관련주가 상승을 주도했습니다.",
-      "category": "증시·금리",
+      "summary_text": "AI 시장의 폭발적인 성장에 힘입어 한국 반도체 산업이 HBM 등 첨단 기술로 호황을 누리고 있지만, 전문가들은 이에 안주하지 말고 다음 세대 기술을 준비할 '마지막 기회'라고 경고했다. 중국 반도체의 기술 추격 및 자국 산업 육성 정책에 대한 장기적 대비가 필요하며, 현재의 호황을 미래 경쟁력 확보를 위한 투자 기회로 활용해야 한다는 지적이다. 한국 반도체 기업들은 현재의 AI 반도체 강점을 유지하면서도, 미래 기술 투자와 사업 다각화를 통해 장기적인 성장 동력을 확보하는 전략을 모색해야 한다.",
+      "description": "인공지능(AI) 호황으로 한국 반도체 산업이 고성장하고 있으나, 전문가들은 고대역폭 메모리(HBM) 이후를 대비할 마지막 기회가 될 수 있다고 경고했다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT 하드웨어",
+      "market_impact": "중립",
+      "related_sector": "반도체, AI, IT 하드웨어",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스"
+        "SK하이닉스",
+        "한미반도체"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 증시의 강세와 국내 대표 반도체 기업들의 긍정적인 소식은 국내 증시의 관련 섹터에 대한 투자 심리를 크게 개선할 수 있기 때문입니다.",
-      "key_signal": "오늘 국내 증시 개장 시 반도체 관련주의 움직임과 외국인 수급 동향을 면밀히 주시해야 합니다.",
+      "investment_reason": "한국 경제의 핵심 동력인 반도체 산업의 지속 가능한 성장을 위해서는 현재의 호황을 넘어선 미래 기술 투자 및 전략 변화가 필수적이다.",
+      "key_signal": "주요 반도체 기업들의 R&D 투자 계획, 신기술 개발 동향, 그리고 중국 등 경쟁국의 기술 발전 상황을 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "미국 증시",
-        "반도체",
-        "삼성전자",
-        "SK하이닉스",
-        "나스닥"
+        "한국 반도체",
+        "AI 호황",
+        "HBM",
+        "미래 기술",
+        "중국 반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXpKY2l5ZmhINHhFc2lIMG5DWGxURUdSTWZFaDRlRjhybVI2emZyX3BpVkhQNlcxa095d25tS3pjUFZ5NHE1Z3d5VE1sV1VUajY5OVJ0TVpHaXRBRWVNNTVtTFhJSlEtMVliRTFsQWplUTdraldzVXRSN1p3VXBZN082U2RWd29zLXFyYlMtLUdfeEw1b3c0NndXZEtVaWw5eTItZHZwY2o5dGVGM3hfbC1GWXE5MTk5ejB6RnY1UU9RZ01MX1I3UEFQRFVNakpKTUZqdQ?oc=5",
-      "published": "2026-07-07 05:15",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10VWZaNUZIWFFRNWJ0MVJrR3hYcXl4SzI4ZmJoaXVGVXVBY19uNnUxbnFDdDVIenQxSlJjOXN5YzR1N0hlLUROLVF5emxZblRNazl4MA?oc=5",
+      "published": "2026-07-08 05:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "연준 월러 이사, 인플레이션 전망 상향 조정에 7월 금리 인상 시사",
-      "display_title": "연준 월러 이사, 인플레이션 전망 상향 조정에 7월 금리 인상 시사",
-      "original_title": "Fed’s Waller flags July hike as inflation dots rise - TechStock²",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "'AI 대전환·미래 투자·5극3특' 아우르는 하반기 경제전략 다음 주 발표",
+      "display_title": "'AI 대전환·미래 투자·5극3특' 아우르는 하반기 경제전략 다음 주 발표",
+      "original_title": "'AI대전환·미래투자·5극3특' 총망라…하반기 경제전략 다음주 발표 - 뉴스1",
       "summary": [
-        "연준 월러 이사가 인플레이션 전망이 상향 조정되었음을 언급하며 7월 금리 인상 가능성을 시사했습니다.",
-        "이는 시장의 금리 인상 종료 기대감에 찬물을 끼얹는 발언으로, 매파적 통화정책 기조가 지속될 수 있음을 나타냅니다.",
-        "금리 인상 우려가 다시 부각될 경우 주식 시장 전반에 부정적인 영향을 미칠 수 있으므로, 향후 연준 인사들의 발언과 경제 지표를 주목해야 합니다."
+        "정부가 인공지능(AI) 대전환, 미래 전략 산업 투자, 5대 거점 3대 특화 지역 육성 등 주요 과제를 담은 하반기 경제정책 방향을 다음 주에 발표할 계획이다.",
+        "이번 경제전략은 한국 경제의 새로운 성장 동력 확보와 구조적 전환을 목표로 하며, 기술 혁신, 산업 육성, 지역 균형 발전 등에 중점을 둘 것으로 예상된다.",
+        "발표될 정책 내용은 관련 산업의 투자 환경 조성 및 기업들의 성장에 직결될 수 있으므로, 투자자들은 정책의 구체적인 내용과 수혜 섹터에 주목해야 한다."
       ],
-      "summary_text": "연준 월러 이사가 인플레이션 전망이 상향 조정되었음을 언급하며 7월 금리 인상 가능성을 시사했습니다. 이는 시장의 금리 인상 종료 기대감에 찬물을 끼얹는 발언으로, 매파적 통화정책 기조가 지속될 수 있음을 나타냅니다. 금리 인상 우려가 다시 부각될 경우 주식 시장 전반에 부정적인 영향을 미칠 수 있으므로, 향후 연준 인사들의 발언과 경제 지표를 주목해야 합니다.",
-      "description": "연방준비제도(Fed)의 크리스토퍼 월러 이사가 인플레이션 전망치가 상승함에 따라 7월 금리 인상 가능성을 시사했습니다.",
-      "category": "증시·금리",
+      "summary_text": "정부가 인공지능(AI) 대전환, 미래 전략 산업 투자, 5대 거점 3대 특화 지역 육성 등 주요 과제를 담은 하반기 경제정책 방향을 다음 주에 발표할 계획이다. 이번 경제전략은 한국 경제의 새로운 성장 동력 확보와 구조적 전환을 목표로 하며, 기술 혁신, 산업 육성, 지역 균형 발전 등에 중점을 둘 것으로 예상된다. 발표될 정책 내용은 관련 산업의 투자 환경 조성 및 기업들의 성장에 직결될 수 있으므로, 투자자들은 정책의 구체적인 내용과 수혜 섹터에 주목해야 한다.",
+      "description": "정부가 인공지능(AI) 대전환, 미래 투자, 지역 균형 발전(5극3특) 등을 총망라하는 하반기 경제정책 방향을 다음 주에 발표할 예정이다.",
+      "category": "국내 거시경제",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전반적 시장, 금융, 기술주",
+      "market_impact": "긍정",
+      "related_sector": "AI, 반도체, 미래차, 바이오, 지역개발, 건설",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "금리 인상 가능성 증가는 기업의 자금 조달 비용을 높이고 시장 유동성을 축소시켜 주식 시장 전반에 하방 압력으로 작용할 수 있기 때문입니다.",
-      "key_signal": "이번 주 발표될 미국 인플레이션 지표와 연준 다른 인사들의 발언을 통해 금리 인상 경로에 대한 시장 컨센서스 변화를 확인해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "정부의 하반기 경제전략은 한국 경제의 성장 방향과 투자 우선순위를 제시하며, 특정 산업 및 기업에 직접적인 긍정적 영향을 미칠 수 있다.",
+      "key_signal": "다음 주 발표될 하반기 경제전략의 구체적인 내용과 예산 배정 계획, 그리고 핵심 투자 분야에 대한 정부의 의지를 면밀히 분석해야 한다.",
       "keywords": [
-        "연준",
-        "금리 인상",
-        "인플레이션",
-        "통화정책",
-        "매파"
+        "하반기 경제전략",
+        "AI 대전환",
+        "미래 투자",
+        "5극3특",
+        "국내 경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmUjROVW5jTVBydjJoU0lIYjkxd1JCenlFSEhYWEVFZXVia1lFUDNpZWJlMmhzM0ZwbF9paDJRZS1DX2VraTB5U2hkV1dQdWNDU0F3Q3d5UFRVSk5BMVpGYkx1WGUxVmhoN2xqQ3hFb09RM0tXVDVwNzdWMA?oc=5",
-      "published": "2026-07-07 05:00",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45N2NxYzFyNjFpNndyVjRESmRESlY0N3NKbHBWbUNsNEZhRXE1Mk1GRkdmeDM5R3JDSFFRTElVb1ViREowdDFCc3l1bkxZRmh1MXpoU29MRHV6Zw?oc=5",
+      "published": "2026-07-08 05:45",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -111,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목",
-      "display_title": "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목",
-      "original_title": "US stocks today: Nasdaq jumps over 1% as chip stocks rally, investors eye AI earnings - The Economic Times",
+      "title": "삼성전자 실적 발표 후 반도체주 매도세로 나스닥 하락",
+      "display_title": "삼성전자 실적 발표 후 반도체주 매도세로 나스닥 하락",
+      "original_title": "Nasdaq down as chip stocks sell off after Samsung earnings - Proactive Investors",
       "summary": [
-        "미국 나스닥 지수가 1% 넘게 상승했고, 특히 반도체 관련주가 강세를 보이며 시장 상승을 주도했습니다.",
-        "이는 인공지능(AI) 관련 기업들의 실적 발표에 대한 기대감이 반영된 것으로 해석됩니다.",
-        "AI 및 반도체 섹터의 긍정적인 모멘텀은 국내 관련 기업들에게도 호재로 작용할 가능성이 높습니다."
+        "삼성전자의 실적 발표 이후 글로벌 반도체 관련 주식들이 매도세를 보이면서 나스닥 종합 지수가 하락했다.",
+        "이는 삼성전자의 실적이 시장 기대에 미치지 못했거나, 실적 발표가 반도체 업황에 대한 우려를 증폭시켰기 때문으로 분석된다.",
+        "한국 증시의 반도체 관련주 역시 삼성전자 실적과 글로벌 반도체 시장 분위기에 영향을 받을 수 있으므로 주의 깊게 지켜볼 필요가 있다."
       ],
-      "summary_text": "미국 나스닥 지수가 1% 넘게 상승했고, 특히 반도체 관련주가 강세를 보이며 시장 상승을 주도했습니다. 이는 인공지능(AI) 관련 기업들의 실적 발표에 대한 기대감이 반영된 것으로 해석됩니다. AI 및 반도체 섹터의 긍정적인 모멘텀은 국내 관련 기업들에게도 호재로 작용할 가능성이 높습니다.",
-      "description": "미국 증시에서 나스닥 지수가 1% 이상 급등했으며, 반도체 주식들이 강세를 보였습니다. 투자자들은 다가오는 인공지능(AI) 관련 기업들의 실적 발표에 주목하고 있습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, IT 하드웨어",
+      "summary_text": "삼성전자의 실적 발표 이후 글로벌 반도체 관련 주식들이 매도세를 보이면서 나스닥 종합 지수가 하락했다. 이는 삼성전자의 실적이 시장 기대에 미치지 못했거나, 실적 발표가 반도체 업황에 대한 우려를 증폭시켰기 때문으로 분석된다. 한국 증시의 반도체 관련주 역시 삼성전자 실적과 글로벌 반도체 시장 분위기에 영향을 받을 수 있으므로 주의 깊게 지켜볼 필요가 있다.",
+      "description": "삼성전자의 실적 발표 이후 반도체 관련 주식들이 매도세를 보이며 나스닥 지수가 하락했다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "반도체",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
         "한미반도체"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 기술주의 상승, 특히 반도체와 AI 관련주의 강세는 국내 유사 산업의 기업 주가에도 긍정적인 투자 심리를 유발할 수 있기 때문입니다.",
-      "key_signal": "다가오는 미국 AI 관련 기업들의 실적 발표 내용이 국내 AI 및 반도체 관련주에 미칠 파급 효과를 예의주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "삼성전자 실적은 한국 반도체 산업 전체의 방향성을 제시하며, 글로벌 반도체 시장의 바로미터로 작용하므로 한국 증시 전반에 미치는 영향이 크다.",
+      "key_signal": "삼성전자의 상세 실적 발표 내용과 컨퍼런스콜에서 제시될 향후 전망, 그리고 다른 글로벌 반도체 기업들의 주가 흐름을 면밀히 관찰해야 한다.",
       "keywords": [
-        "미국 증시",
+        "삼성전자",
+        "실적 발표",
         "나스닥",
         "반도체",
-        "AI",
-        "실적 기대감"
+        "매도세"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzN5WFNkdnl0bFBqek1aX1l2VFlveVBKLVRGSHlPeXRHOU1Db2txaGE0c0NhWUJ5bG5nVnVHOEVvRmhGMURkMlNzbGpPUlg4M29Tb0FUWjVHdzc2cnEwWlI1QXU3ck40bm1lQ0RpRzFfNUJYcW9vMzNfQW0zQW8yRFlreGRKMG1GSkk4U3kzQW9DOFdtWUwwQ25UM0lvRmo3bk01N1VLOHpFTFNkWGtPNDRHQUNKVWhINFFNYXNSRTdKcmZWeWFnSzhSV1dKYm5ORlFlUWZwWVdmUVNOUDFYMtIB5gFBVV95cUxOYmdWcEhKM2xBd3M3UUtfYWtWUHE5ZTF4TXpCNTE2OFVUdzU2ajNoazZ4WXlHZEVNNThFWG9jNFpCTnVucGpFRm1HZEJEMWJRYUc4bEhCZ0xHbkRCb0JsRDBMdElDVzBKNExZR0tYRjNqVG5IMlJBSTEyN2ZBT2tBNlRndW8tWXk2cW1GcU8wcEEwdGwteGxiLWJlelo4MXNwWUxsMVRkeFhLVnlIS0VxRlp1UVlpRG9LSTNUSHR4U1hROHBxZHRZNGNRb3BKRGFCZDJfYXNrbk9vVG9lNmloUUhucjhwdw?oc=5",
-      "published": "2026-07-07 05:05",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2QyT3g1eXBiUnAxU1RYWXA3TEFfMmhtSU9CU0lSNlJhUnBTU0Fkc2tnaTlwNWZnWkxHV0tKcGxkYnQwRl9JNU5XOHl2RE80N05TNmh2NG8yZ2NlTlBlbll5SFNtbVlFbktVV0V0b21vNTVVRlZ5enFIZUR0OTAwc09yRHRXT0YzSVNvRmFWSnhLZHM1Ul94bVBDRXhSZk5pQkhTazllQnpDVEJUcGM0ZFZaakRJSTdaNG5hR1JBUVNVLXpfWTFNcEZnZw?oc=5",
+      "published": "2026-07-08 04:49",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -153,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "2035년까지 반도체 실리콘 재료 시장 성장 전망: AI, 자동차 및 생산 능력 확장이 수요 견인",
-      "display_title": "2035년까지 반도체 실리콘 재료 시장 성장 전망: AI, 자동차 및 생산 능력 확장이 수요 견인",
-      "original_title": "Semiconductor Silicon Materials Market Growth Outlook to 2035: AI, Automotive, and Capacity Expansion Fuel Demand - News and Statistics - IndexBox",
+      "title": "중동 긴장 고조 속 유가 상승, 금값 하락에 캐나다 증시(TSX) 보합세",
+      "display_title": "중동 긴장 고조 속 유가 상승, 금값 하락에 캐나다 증시(TSX) 보합세",
+      "original_title": "TSX steady as oil gains, gold dips amid renewed Middle East tensions - Investing.com",
       "summary": [
-        "반도체 실리콘 재료 시장이 인공지능, 자동차 산업의 성장 및 생산 능력 확장에 힘입어 2035년까지 지속적인 성장을 보일 것으로 전망됩니다.",
-        "이는 장기적인 관점에서 반도체 산업 전반의 견조한 수요 증가를 시사하며, 특히 웨이퍼 및 관련 소재 기업들에게 긍정적입니다.",
-        "미래 산업의 핵심인 AI와 자동차 산업의 발전이 반도체 소재 산업의 성장 동력이 될 것이므로 관련 기업의 중장기 투자 매력을 점검해 볼 필요가 있습니다."
+        "중동 지역의 지정학적 긴장이 다시 고조되면서 국제 유가가 상승하고 안전자산인 금값이 하락하는 등 국제 원자재 시장이 민감하게 반응하고 있다.",
+        "이러한 상황 속에서도 캐나다 증시는 보합세를 유지했으나, 이는 원유 생산국으로서 유가 상승이 긍정적으로 작용한 측면도 반영된 것으로 보인다.",
+        "지정학적 리스크는 글로벌 공급망과 원자재 가격에 직접적인 영향을 미치므로, 한국 투자자들은 국제 유가 및 금값 동향을 예의주시하며 관련 산업에 미칠 영향을 고려해야 한다."
       ],
-      "summary_text": "반도체 실리콘 재료 시장이 인공지능, 자동차 산업의 성장 및 생산 능력 확장에 힘입어 2035년까지 지속적인 성장을 보일 것으로 전망됩니다. 이는 장기적인 관점에서 반도체 산업 전반의 견조한 수요 증가를 시사하며, 특히 웨이퍼 및 관련 소재 기업들에게 긍정적입니다. 미래 산업의 핵심인 AI와 자동차 산업의 발전이 반도체 소재 산업의 성장 동력이 될 것이므로 관련 기업의 중장기 투자 매력을 점검해 볼 필요가 있습니다.",
-      "description": "인공지능(AI), 자동차 산업 성장, 그리고 반도체 생산 능력 확장이 2035년까지 반도체 실리콘 재료 시장의 수요를 견인할 것이라는 전망이 나왔습니다.",
-      "category": "기업·산업",
+      "summary_text": "중동 지역의 지정학적 긴장이 다시 고조되면서 국제 유가가 상승하고 안전자산인 금값이 하락하는 등 국제 원자재 시장이 민감하게 반응하고 있다. 이러한 상황 속에서도 캐나다 증시는 보합세를 유지했으나, 이는 원유 생산국으로서 유가 상승이 긍정적으로 작용한 측면도 반영된 것으로 보인다. 지정학적 리스크는 글로벌 공급망과 원자재 가격에 직접적인 영향을 미치므로, 한국 투자자들은 국제 유가 및 금값 동향을 예의주시하며 관련 산업에 미칠 영향을 고려해야 한다.",
+      "description": "중동 지역의 긴장이 다시 고조되면서 유가가 상승하고 금값이 하락하는 가운데, 캐나다 토론토 증권거래소(TSX) 지수는 보합세를 유지했다.",
+      "category": "글로벌 경제",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체 소재, AI, 자동차 부품",
+      "market_impact": "중립",
+      "related_sector": "에너지, 정유, 방산, 원자재",
       "related_stocks": [
-        "SK실트론",
-        "원익QnC",
-        "동진쎄미켐"
+        "SK이노베이션",
+        "S-Oil",
+        "한국항공우주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "반도체 핵심 소재 시장의 장기적인 성장 전망은 관련 국내 기업들의 미래 실적에 긍정적인 영향을 미칠 것으로 예상되기 때문입니다.",
-      "key_signal": "반도체 웨이퍼 및 실리콘 소재 관련 국내 기업들의 생산 능력 확장 계획과 주요 고객사 동향을 지속적으로 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "중동 지정학적 리스크는 국제 유가 변동성을 높여 국내 정유, 항공 등 관련 산업에 직간접적인 영향을 미치며 물가 상승 압력으로 작용할 수 있다.",
+      "key_signal": "중동 지역의 외교적 상황 및 군사적 움직임에 대한 뉴스를 지속적으로 확인하고, 국제 유가(WTI, 브렌트유) 및 금 가격의 변동 폭을 주시해야 한다.",
       "keywords": [
-        "반도체 소재",
-        "실리콘 웨이퍼",
-        "AI",
-        "자동차",
-        "장기 성장"
+        "중동 긴장",
+        "지정학적 리스크",
+        "유가 상승",
+        "금값 하락",
+        "원자재"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcDVnNmVpUjd0d0Q3aUhzRGpxWDVpeEt5WE5qbFB3WXJfbEREUWJCUW1OUklFSjFYZERueVB3T0kxQmlxOWNxR3ZkQzBEWFlsUURuOGtvVUhBTUs3WEItUmNHaXV3ZTBZOExoQTVJUVNZMmVJOGREYWhiZkJKRVBnNEMtYUFDakJIblNWVVVVSDJGVXNycVRscWhVZzI0SklNYXZuNmNHM042ZHc0eXNBeEpFOG56RHItTnF3azBvTmRkZ0FzRWlKaDB3NTVNd0tOcVZKVXJHODhHd1U5WGZqUFFKTUdlMmhfX24xVlM0VnlEMlE?oc=5",
-      "published": "2026-07-07 03:46",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1g4NkZCTEVSU0xhdEVrSGVwSWQ5SzhkcTdVemt6RjE0ejhtXzc5VDg0Z1M5UVdYOVplQy05RDFVZGpBS0haLXlMbTRJRk9QTHNUUWMyaVREeWdRZjZWc2dhQjRDeWRCdndyZkVDUmRsNEJ3S3djTVV6WVRzUHp5Tm10MVRhZ05XQUw5SndhWHBMQkRidlA1c2s1V21DdFhWVGoteWw3R0hrNWRPQkk4OUd5Uk9sRWQ4T3VlUWJVV0dUTmRQbXhF?oc=5",
+      "published": "2026-07-08 01:26",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -192,84 +193,84 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[미래 K산업지도①] 호남 896조·충청 392조·영남 312조…기업 투자로 다시 짜는 산업지도",
-      "display_title": "[미래 K산업지도①] 호남 896조·충청 392조·영남 312조…기업 투자로 다시 짜는 산업지도",
-      "original_title": "[미래 K산업지도①] 호남 896조·충청 392조·영남 312조…기업 투자로 다시 짜는 산업지도 - 스트레이트뉴스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "트럼프 대통령, 또 다시 연준 비판…월스트리트에 재앙 가능성",
+      "display_title": "트럼프 대통령, 또 다시 연준 비판…월스트리트에 재앙 가능성",
+      "original_title": "President Donald Trump Took a Direct Jab at the Fed, Yet Again -- and It's a Disaster in the Making for Wall Street - AOL.com",
       "summary": [
-        "국내 기업들의 대규모 투자로 호남, 충청, 영남 등 각 지역에 총 1,600조원 이상의 투자 계획이 발표되며 미래 K산업 지도가 재편되고 있습니다.",
-        "이는 이차전지, 반도체, 미래차 등 핵심 산업의 생산 거점 확대를 통해 지역 경제 활성화와 국가 경쟁력 강화에 기여할 것으로 기대됩니다.",
-        "지역별 산업 클러스터 형성에 따른 수혜 기업 및 관련 인프라, 소재·부품 기업들에 대한 장기적인 투자 기회를 탐색할 수 있습니다."
+        "도널드 트럼프 전 대통령이 연방준비제도(Fed)의 정책에 대해 또다시 비판적인 입장을 표명하며 시장에 불확실성을 가중시키고 있다.",
+        "정치적 압력에 의한 통화정책 간섭 가능성은 연준의 독립성을 훼손하고, 이는 금융 시장의 예측 불가능성을 높여 월스트리트에 부정적인 영향을 미칠 수 있다.",
+        "미국 차기 대선 결과와 연준의 독립성 유지 여부는 향후 글로벌 금융 시장의 주요 변수가 될 것이므로 관련 동향에 주목해야 한다."
       ],
-      "summary_text": "국내 기업들의 대규모 투자로 호남, 충청, 영남 등 각 지역에 총 1,600조원 이상의 투자 계획이 발표되며 미래 K산업 지도가 재편되고 있습니다. 이는 이차전지, 반도체, 미래차 등 핵심 산업의 생산 거점 확대를 통해 지역 경제 활성화와 국가 경쟁력 강화에 기여할 것으로 기대됩니다. 지역별 산업 클러스터 형성에 따른 수혜 기업 및 관련 인프라, 소재·부품 기업들에 대한 장기적인 투자 기회를 탐색할 수 있습니다.",
-      "description": "기업들의 대규모 투자에 힘입어 호남, 충청, 영남 지역에 총 1,600조원 규모의 투자가 이뤄지며 미래 한국 산업 지도가 새롭게 그려지고 있다는 보도입니다.",
-      "category": "기업·산업",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "이차전지, 반도체, 미래차, 지역 개발, 건설",
+      "summary_text": "도널드 트럼프 전 대통령이 연방준비제도(Fed)의 정책에 대해 또다시 비판적인 입장을 표명하며 시장에 불확실성을 가중시키고 있다. 정치적 압력에 의한 통화정책 간섭 가능성은 연준의 독립성을 훼손하고, 이는 금융 시장의 예측 불가능성을 높여 월스트리트에 부정적인 영향을 미칠 수 있다. 미국 차기 대선 결과와 연준의 독립성 유지 여부는 향후 글로벌 금융 시장의 주요 변수가 될 것이므로 관련 동향에 주목해야 한다.",
+      "description": "도널드 트럼프 대통령이 다시 한번 연방준비제도(Fed)를 직접 비판하며 월스트리트에 잠재적 재앙을 초래할 수 있다는 우려가 제기되고 있다.",
+      "category": "글로벌 경제",
+      "importance": 7,
+      "market_impact": "부정",
+      "related_sector": "금융, 증권",
       "related_stocks": [
-        "LG에너지솔루션",
-        "현대차",
-        "SKC"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 핵심 산업의 대규모 지역별 투자는 관련 기업들의 장기적인 성장 동력을 확보하고 새로운 투자 기회를 창출할 수 있기 때문입니다.",
-      "key_signal": "각 지역별 투자 대상 산업과 구체적인 기업들의 투자 계획을 면밀히 분석하여 수혜가 예상되는 종목을 발굴해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 통화정책 불확실성은 글로벌 금리, 환율 및 자산 시장에 광범위한 영향을 미치며, 이는 한국 증시에도 간접적인 파급 효과를 줄 수 있다.",
+      "key_signal": "트럼프 전 대통령의 발언 수위와 연준의 대응, 그리고 미국 대선 관련 여론 동향을 주시하며 정책 불확실성 증대 여부를 판단해야 한다.",
       "keywords": [
-        "K산업지도",
-        "지역 투자",
-        "이차전지",
-        "반도체",
-        "미래차"
+        "트럼프",
+        "연준",
+        "통화정책",
+        "독립성",
+        "월스트리트"
       ],
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NaEVGWmszZ05XekxsRkk3RVE4WWVEb3loSVlGS1NCbk1KSEpLLXZfTDhLT29ER1NScEdiaWh6YVF6eTZpMGdkS1M0LWc5MkVNYkp5NzRiV2Rpd29VVUR0U1gtNEh2elIyOXk2aXhoR1NyMXpCak130gF3QVVfeXFMTU1oRUZaazNnTld6TGxGSTdFUThZZURveWhJWUZLU0JuTUpISkstdl9MOEtPb0RHU1JwR2JpaHphUXp5NmkwZ2RLUzQtZzkyRU1iSnk3NGJXZGl3b1VVRHRTWC00SHZ6UjI5eTZpeGhHU3IxekJqTXc?oc=5",
-      "published": "2026-07-06 20:10",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjQwYWRrTURCRmJKNzZ4aE1qdWNCaXNwaDhZcUd6VHV3WDh0bDE5WEVCR01fRUE2ck5ZRThxVWZHZm1DbGxqZFEtRi1Sb01mdF9JYmNRcEstMUxhNEJaZWt3VDI5U3drV2FuMVY5RXZBSWdQRXc2RnVsVjhVb09lQWhqNmU?oc=5",
+      "published": "2026-07-07 22:53",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[기자수첩] 통화정책이 할 수 있는 것",
-      "display_title": "[기자수첩] 통화정책이 할 수 있는 것",
-      "original_title": "[기자수첩] 통화정책이 할 수 있는 것 - 머니투데이 - 머니투데이",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "친환경 에너지 ETF, '그린 웨이브' 타고 수혜",
+      "display_title": "친환경 에너지 ETF, '그린 웨이브' 타고 수혜",
+      "original_title": "Riding the Green Wave: Clean Energy ETFs Benefiting - ETF Database",
       "summary": [
-        "해당 칼럼은 현재의 경제 상황에서 통화정책이 수행할 수 있는 역할과 그 한계에 대해 심층적으로 다루고 있습니다.",
-        "이는 물가 안정과 경기 부양 사이에서 중앙은행의 고민이 깊어지고 있으며, 통화정책만으로는 해결하기 어려운 구조적 문제들이 있음을 시사합니다.",
-        "투자자들은 통화정책의 방향성뿐만 아니라 정부의 재정 정책 및 산업 정책 변화 등 거시경제 전반의 흐름을 종합적으로 판단할 필요가 있습니다."
+        "글로벌적으로 친환경 에너지 전환 추세가 가속화되면서, 관련 상장지수펀드(ETF)들이 투자자들의 관심을 받으며 수익을 내고 있다.",
+        "이는 각국 정부의 친환경 정책 강화, 기업들의 ESG 경영 확산, 그리고 신재생에너지 기술 발전이 맞물려 나타나는 현상이다.",
+        "투자자들은 친환경 에너지 섹터의 장기 성장 잠재력을 고려하여 관련 ETF 및 개별 종목에 대한 투자 기회를 모색할 수 있다."
       ],
-      "summary_text": "해당 칼럼은 현재의 경제 상황에서 통화정책이 수행할 수 있는 역할과 그 한계에 대해 심층적으로 다루고 있습니다. 이는 물가 안정과 경기 부양 사이에서 중앙은행의 고민이 깊어지고 있으며, 통화정책만으로는 해결하기 어려운 구조적 문제들이 있음을 시사합니다. 투자자들은 통화정책의 방향성뿐만 아니라 정부의 재정 정책 및 산업 정책 변화 등 거시경제 전반의 흐름을 종합적으로 판단할 필요가 있습니다.",
-      "description": "머니투데이 기자의 수첩으로, 통화정책이 경제에 미칠 수 있는 영향과 한계에 대해 논의하는 칼럼입니다.",
-      "category": "국내 거시경제",
+      "summary_text": "글로벌적으로 친환경 에너지 전환 추세가 가속화되면서, 관련 상장지수펀드(ETF)들이 투자자들의 관심을 받으며 수익을 내고 있다. 이는 각국 정부의 친환경 정책 강화, 기업들의 ESG 경영 확산, 그리고 신재생에너지 기술 발전이 맞물려 나타나는 현상이다. 투자자들은 친환경 에너지 섹터의 장기 성장 잠재력을 고려하여 관련 ETF 및 개별 종목에 대한 투자 기회를 모색할 수 있다.",
+      "description": "친환경 에너지 테마의 상장지수펀드(ETF)들이 전 세계적인 친환경 기조에 힘입어 수혜를 받고 있다.",
+      "category": "기업·산업",
       "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "전반적 시장, 금융",
+      "market_impact": "긍정",
+      "related_sector": "신재생에너지, 친환경, 전기차, 2차전지",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "한화솔루션",
+        "현대에너지솔루션",
+        "두산에너빌리티"
       ],
       "investment_view": "관심",
-      "investment_reason": "통화정책의 역할과 한계에 대한 이해는 향후 중앙은행의 정책 결정 방향을 예측하고 투자 전략을 수립하는 데 중요한 통찰력을 제공하기 때문입니다.",
-      "key_signal": "향후 한국은행의 금리 결정과 통화정책 방향이 물가와 경기 중 어느 쪽에 더 중점을 둘 것인지 유심히 지켜봐야 합니다.",
+      "investment_reason": "기후 변화 대응 및 에너지 전환은 거스를 수 없는 글로벌 메가 트렌드이며, 관련 산업은 장기적인 성장 잠재력을 보유하고 있다.",
+      "key_signal": "각국의 친환경 에너지 정책 변화, 기술 개발 동향, 그리고 원자재 가격 변동이 친환경 에너지 섹터에 미치는 영향을 꾸준히 모니터링해야 한다.",
       "keywords": [
-        "통화정책",
-        "한국은행",
-        "거시경제",
-        "금리",
-        "인플레이션"
+        "친환경 에너지",
+        "ETF",
+        "그린 웨이브",
+        "신재생에너지",
+        "ESG"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Q0J2UWUwYTFHaXZkeXUwMFBnbjRrTTNqQjZnMlJjTkhfSFduLWpOS3VVM1BPN2lsNGlfaldLY2xVeUs3TXl1X052alVrZnM2U0RRYXlEWEoxZ2prSGs0NEJRU0dCODNlSHpV0gFwQVVfeXFMUEduNkswUENJRjJyLVAzNGdmU00wd1hKX1pTek9OSkNfb3JHMk15RnNNZE4yOFVnVnRCSzNpdTRoSFdvLVJOSUFnMDVycXIwZEFYNHg5dlNYQV9wN2hkeW9icWk1ZDB0cGJPNE0zTFIyRA?oc=5",
-      "published": "2026-07-07 07:41",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZU1UcXhWb3QyVE5uWVo1a3BFMzQ3NGlDeXNlejZPbGJtR0VxTV9rNVlkakVqdFlZb194UTAzVnFUdlJXQUJmckVjZG9na0F3eTRUaFdwRGU1V1UtUkUyajFGYmxaVXhTUHBJNlEycjVmaEcwVW1kcEx5WVp4bDcyY3BjQTlrOHIyaDZSRjd3blRjcmlY?oc=5",
+      "published": "2026-07-08 04:56",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -282,15 +283,16 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 증시의 반도체 강세와 2분기 실적 호조에 대한 기대감이 높아지면서, 국내 대표 반도체 기업에 대한 투자 심리가 긍정적으로 개선될 수 있습니다.",
+      "reason": "한국 반도체 산업의 핵심이자 AI 대전환의 선두 주자로, 미래 기술 투자와 정부의 하반기 경제전략 수혜 기대감이 높습니다. 다만, 최근 실적 발표 이후 단기적인 매도세는 주시해야 할 부분입니다.",
       "check_points": [
-        "글로벌 기술주 및 반도체 업황 동향",
-        "AI 관련 신규 투자 확대 여부",
-        "환율 및 메모리 반도체 가격 추이"
+        "글로벌 반도체 시장 동향 및 수급",
+        "정부의 AI 및 반도체 투자 전략 구체화",
+        "차세대 HBM 등 고부가 기술 개발 현황"
       ],
       "related_news_titles": [
-        "미국 증시 마감: 다우 또 사상 최고치, 나스닥 1.12% 상승; 삼성전자 2분기 실적 호조 및 SK하이닉스 美 상장 기대감에 반도체주 강세",
-        "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목"
+        "AI 호황 속 한국 반도체, \"HBM 이후 준비할 마지막 기회\" 전문가 경고",
+        "'AI 대전환·미래 투자·5극3특' 아우르는 하반기 경제전략 다음 주 발표",
+        "삼성전자 실적 발표 후 반도체주 매도세로 나스닥 하락"
       ]
     },
     {
@@ -299,47 +301,47 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 증시의 반도체주 강세와 더불어 SK하이닉스의 미국 상장 기대감이 더해지면서, 관련 투자심리 및 주가에 긍정적인 영향을 미칠 수 있습니다.",
+      "reason": "HBM 등 고대역폭 메모리 시장의 선두 주자로서 AI 반도체 수요 증가의 직접적인 수혜가 예상됩니다. 미래 기술 준비의 중요성이 부각되는 가운데, AI 산업 성장의 핵심 동력으로 주목됩니다.",
       "check_points": [
-        "AI 반도체(HBM) 수요 증가 및 생산 능력 확장",
-        "미국 상장 관련 구체적인 진행 상황",
-        "경쟁사 대비 기술 및 시장 점유율"
+        "HBM 생산 능력 및 고객사 확보 현황",
+        "글로벌 AI 서버 시장 성장세",
+        "반도체 업황 회복 속도"
       ],
       "related_news_titles": [
-        "미국 증시 마감: 다우 또 사상 최고치, 나스닥 1.12% 상승; 삼성전자 2분기 실적 호조 및 SK하이닉스 美 상장 기대감에 반도체주 강세",
-        "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목"
+        "AI 호황 속 한국 반도체, \"HBM 이후 준비할 마지막 기회\" 전문가 경고",
+        "삼성전자 실적 발표 후 반도체주 매도세로 나스닥 하락"
       ]
     },
     {
       "rank": 3,
-      "name": "한미반도체",
+      "name": "한화솔루션",
       "market": "KOSPI",
-      "sector": "반도체 장비",
+      "sector": "신재생에너지",
       "opinion": "관심",
-      "reason": "미국 기술주의 상승과 AI 관련 실적 기대감에 힘입어 반도체 전반에 대한 긍정적 투자 심리가 확산되고 있으며, 특히 AI 반도체 생산에 필수적인 후공정 장비 기업으로서 주목받을 수 있습니다.",
+      "reason": "기후 변화 대응 및 에너지 전환이라는 거스를 수 없는 글로벌 메가 트렌드의 직접적인 수혜주로, 친환경 에너지 ETF 수혜 소식과 함께 장기적인 성장 잠재력이 높게 평가됩니다.",
       "check_points": [
-        "글로벌 AI 반도체 시장 성장 속도",
-        "주요 고객사의 투자 확대 및 신규 수주 동향",
-        "경쟁사 대비 기술 우위 확보 여부"
+        "태양광 등 친환경 에너지 사업의 수주 및 실적 개선",
+        "정부의 신재생에너지 정책 지원",
+        "글로벌 에너지 시장 변화 동향"
       ],
       "related_news_titles": [
-        "미국 증시: 나스닥 1% 이상 상승, 반도체주 강세 및 AI 관련 실적 주목"
+        "친환경 에너지 ETF, '그린 웨이브' 타고 수혜"
       ]
     },
     {
       "rank": 4,
-      "name": "원익QnC",
-      "market": "KOSDAQ",
-      "sector": "반도체 소재·부품",
+      "name": "네이버",
+      "market": "KOSPI",
+      "sector": "IT 서비스",
       "opinion": "관심",
-      "reason": "AI, 자동차 등 반도체 수요 증가와 생산 능력 확장이 전망되면서, 반도체 실리콘 재료 시장의 장기적인 성장이 예상되어 관련 국내 소재 기업의 미래 실적에 긍정적인 영향을 미칠 것으로 보입니다.",
+      "reason": "정부의 하반기 경제전략에서 'AI 대전환'이 강조됨에 따라 국내 AI 및 IT 산업을 이끄는 주요 기업으로서 정책 수혜 기대감이 있습니다. AI 기술을 활용한 서비스 확장이 관건입니다.",
       "check_points": [
-        "글로벌 반도체 업황 개선에 따른 소재 수요 증가",
-        "신규 고객 확보 및 제품 포트폴리오 확장",
-        "환율 및 원재료 가격 변동성"
+        "AI 관련 신규 서비스 출시 및 성과",
+        "클라우드, 커머스 등 핵심 사업 성장세",
+        "정부의 디지털 및 AI 투자 정책 변화"
       ],
       "related_news_titles": [
-        "2035년까지 반도체 실리콘 재료 시장 성장 전망: AI, 자동차 및 생산 능력 확장이 수요 견인"
+        "'AI 대전환·미래 투자·5극3특' 아우르는 하반기 경제전략 다음 주 발표"
       ]
     }
   ],
