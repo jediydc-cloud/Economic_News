@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08 08:02",
-  "analysis_date": "2026-07-08",
+  "generated_at": "2026-07-09 08:07",
+  "analysis_date": "2026-07-09",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 경제는 AI 대전환과 미래 성장 동력 확보에 집중하는 가운데, 글로벌 증시는 반도체 업황 변동성과 지정학적, 정치적 불확실성이 공존하고 있습니다.",
-    "국내거시경제": "정부가 다음 주 AI 대전환, 미래 투자, 지역 균형 발전을 아우르는 하반기 경제정책 방향을 발표할 예정입니다. 이는 한국 경제의 새로운 성장 동력 확보에 중점을 둘 것으로 예상됩니다.",
-    "글로벌경제": "중동 긴장 고조로 국제 유가가 상승하고 금값이 하락하는 등 원자재 시장이 민감하게 반응하고 있습니다. 또한, 트럼프 전 대통령의 연준 비판으로 통화정책의 불확실성이 증대되고 있어 글로벌 시장의 주요 리스크로 작용할 수 있습니다.",
-    "증시금리": "삼성전자 실적 발표 이후 글로벌 반도체 관련 주식들이 매도세를 보이며 나스닥 지수가 하락했습니다. 이는 한국 증시의 반도체 섹터에도 영향을 미칠 수 있으므로 주의가 필요합니다.",
-    "부동산정책": "해당 사항 없음",
-    "기업산업": "한국 반도체 산업은 AI 호황을 누리고 있으나, 미래 세대 기술 준비를 위한 '마지막 기회'라는 전문가 경고에 주목해야 합니다. 한편, 친환경 에너지 전환 가속화에 힘입어 관련 ETF들이 투자자들의 관심을 받으며 수혜를 입고 있습니다.",
-    "오늘의투자시사점": "정부의 하반기 경제정책 방향 발표에 따른 AI, 미래 전략 산업 및 5극3특 관련 정책 수혜주에 관심을 가질 필요가 있습니다. 글로벌 반도체 업황 변동성과 지정학적, 정치적 리스크에 대비하며, 장기 성장 잠재력이 큰 친환경 에너지 섹터도 긍정적으로 검토해볼 수 있습니다.",
-    "오늘의한줄": "AI와 미래 성장 동력 모색 속 글로벌 불확실성 심화, 정책 수혜 및 장기 성장 섹터에 주목할 시점."
+    "총평": "중동 지정학적 긴장 고조로 유가 급등 및 글로벌 증시 하락세가 뚜렷했습니다. 국내 증시도 높은 변동성 속에 반도체주가 약세를 보였으며, 이제 글로벌 빅테크 실적에 시선이 쏠리고 있습니다.",
+    "국내거시경제": "글로벌 리스크로 국내 증시 변동성이 확대되며 반도체주가 하락하고 원/달러 환율은 1500원 아래로 내려왔습니다.",
+    "글로벌경제": "이란 휴전 종료 발언으로 중동 긴장이 고조되고 국제 유가가 급등하며 전 세계적인 경기 둔화 우려를 키웠습니다.",
+    "증시금리": "미 증시는 나스닥 상승에도 다우와 S&P 500이 하락했으며, 전 세계 증시는 지정학적 리스크와 유가 상승 여파로 전반적인 약세를 기록했습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "삼성전자 실적 발표 이후 글로벌 IT 수요 및 반도체 업황의 향방을 가늠할 글로벌 빅테크 기업들의 실적 발표에 시장의 관심이 집중됩니다.",
+    "오늘의투자시사점": "중동 리스크와 유가 변동성에 따른 시장 불안정성에 대비해 방어적 포트폴리오를 고려하고, 에너지 관련주와 인플레이션 민감주 전략을 재검토하며 글로벌 빅테크 실적에 주목해야 합니다.",
+    "오늘의한줄": "중동발 지정학적 긴장 고조가 유가 급등과 글로벌 증시 하락을 이끌며 시장 변동성 관리가 중요한 하루였습니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "AI 호황 속 한국 반도체, \"HBM 이후 준비할 마지막 기회\" 전문가 경고",
-      "display_title": "AI 호황 속 한국 반도체, \"HBM 이후 준비할 마지막 기회\" 전문가 경고",
-      "original_title": "AI 호황에 취한 한국 반도체…전문가들 “HBM 이후 준비할 마지막 기회” [중국 반도체 굴기 2026 下] - 이투데이",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
+      "display_title": "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
+      "original_title": "The Iran War Ceasefire Has Ended. Here's What It Means for the Stock Market. - The Globe and Mail",
       "summary": [
-        "AI 시장의 폭발적인 성장에 힘입어 한국 반도체 산업이 HBM 등 첨단 기술로 호황을 누리고 있지만, 전문가들은 이에 안주하지 말고 다음 세대 기술을 준비할 '마지막 기회'라고 경고했다.",
-        "중국 반도체의 기술 추격 및 자국 산업 육성 정책에 대한 장기적 대비가 필요하며, 현재의 호황을 미래 경쟁력 확보를 위한 투자 기회로 활용해야 한다는 지적이다.",
-        "한국 반도체 기업들은 현재의 AI 반도체 강점을 유지하면서도, 미래 기술 투자와 사업 다각화를 통해 장기적인 성장 동력을 확보하는 전략을 모색해야 한다."
+        "이란 전쟁 휴전이 공식적으로 종료되어 중동 지정학적 긴장이 고조될 전망이다.",
+        "휴전 종료는 국제 유가 상승 압력을 높이고, 글로벌 증시의 변동성 확대 요인으로 작용할 수 있다.",
+        "중동 정세 불안정으로 인한 에너지 가격 급등과 전반적인 시장 리스크 증가에 대비하여 방어적인 포트폴리오 전략을 고려해야 한다."
       ],
-      "summary_text": "AI 시장의 폭발적인 성장에 힘입어 한국 반도체 산업이 HBM 등 첨단 기술로 호황을 누리고 있지만, 전문가들은 이에 안주하지 말고 다음 세대 기술을 준비할 '마지막 기회'라고 경고했다. 중국 반도체의 기술 추격 및 자국 산업 육성 정책에 대한 장기적 대비가 필요하며, 현재의 호황을 미래 경쟁력 확보를 위한 투자 기회로 활용해야 한다는 지적이다. 한국 반도체 기업들은 현재의 AI 반도체 강점을 유지하면서도, 미래 기술 투자와 사업 다각화를 통해 장기적인 성장 동력을 확보하는 전략을 모색해야 한다.",
-      "description": "인공지능(AI) 호황으로 한국 반도체 산업이 고성장하고 있으나, 전문가들은 고대역폭 메모리(HBM) 이후를 대비할 마지막 기회가 될 수 있다고 경고했다.",
-      "category": "기업·산업",
+      "summary_text": "이란 전쟁 휴전이 공식적으로 종료되어 중동 지정학적 긴장이 고조될 전망이다. 휴전 종료는 국제 유가 상승 압력을 높이고, 글로벌 증시의 변동성 확대 요인으로 작용할 수 있다. 중동 정세 불안정으로 인한 에너지 가격 급등과 전반적인 시장 리스크 증가에 대비하여 방어적인 포트폴리오 전략을 고려해야 한다.",
+      "description": "이란 전쟁의 휴전이 종료되면서 주식 시장에 미칠 영향에 대한 분석이 나오고 있습니다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, AI, IT 하드웨어",
+      "market_impact": "부정",
+      "related_sector": "정유, 방산, 항공, 해운",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "SK이노베이션",
+        "S-Oil",
+        "한화에어로스페이스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "한국 경제의 핵심 동력인 반도체 산업의 지속 가능한 성장을 위해서는 현재의 호황을 넘어선 미래 기술 투자 및 전략 변화가 필수적이다.",
-      "key_signal": "주요 반도체 기업들의 R&D 투자 계획, 신기술 개발 동향, 그리고 중국 등 경쟁국의 기술 발전 상황을 지속적으로 모니터링해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "이란 휴전 종료는 중동 불안정 심화와 유가 급등 가능성을 높여 글로벌 경제와 주식 시장 전반에 큰 부정적 영향을 미칠 수 있으므로 매우 주의해야 합니다.",
+      "key_signal": "이란의 다음 행동과 주요 산유국의 대응, 그리고 국제 유가 및 해운 운임의 변화를 긴밀히 주시해야 합니다.",
       "keywords": [
-        "한국 반도체",
-        "AI 호황",
-        "HBM",
-        "미래 기술",
-        "중국 반도체"
+        "이란전쟁",
+        "휴전종료",
+        "지정학적위험",
+        "유가급등",
+        "주식시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10VWZaNUZIWFFRNWJ0MVJrR3hYcXl4SzI4ZmJoaXVGVXVBY19uNnUxbnFDdDVIenQxSlJjOXN5YzR1N0hlLUROLVF5emxZblRNazl4MA?oc=5",
-      "published": "2026-07-08 05:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQODN6NVZfaEJ2MEpQNFhCakp4WFpjVkJtSkYzSEhHUTZKTUVBQXNId2NjVHkwOHdGSmpfN0c5d25DdjBDSG4zZTJOZTZGakhGOUZ0X3cweUJGRVJRNTBVN01TbkZnV21yaW9mUXlYblpYNEhzVWIwdlBYSktqcVgyS21qT0EwXzZhdVZzeUEwcHNTSHc5Z2twemsyWVVoUXc0ekRMOW92WHpPTGZhN0stblh1YUpvbWJhdjJPN01hUk9FbGQxVHc3TVFpcWVoUDNFUFpKQlNuaE14djNLV19Sc0xhWEh0TkQxSnJ2WXl5Yw?oc=5",
+      "published": "2026-07-09 05:25",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "'AI 대전환·미래 투자·5극3특' 아우르는 하반기 경제전략 다음 주 발표",
-      "display_title": "'AI 대전환·미래 투자·5극3특' 아우르는 하반기 경제전략 다음 주 발표",
-      "original_title": "'AI대전환·미래투자·5극3특' 총망라…하반기 경제전략 다음주 발표 - 뉴스1",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "트럼프의 이란 휴전 '종료' 발언에 다우와 나스닥 추가 하락",
+      "display_title": "트럼프의 이란 휴전 '종료' 발언에 다우와 나스닥 추가 하락",
+      "original_title": "Dow and Nasdaq lose more ground as Trump says Iran ceasefire 'over' - Proactive financial news",
       "summary": [
-        "정부가 인공지능(AI) 대전환, 미래 전략 산업 투자, 5대 거점 3대 특화 지역 육성 등 주요 과제를 담은 하반기 경제정책 방향을 다음 주에 발표할 계획이다.",
-        "이번 경제전략은 한국 경제의 새로운 성장 동력 확보와 구조적 전환을 목표로 하며, 기술 혁신, 산업 육성, 지역 균형 발전 등에 중점을 둘 것으로 예상된다.",
-        "발표될 정책 내용은 관련 산업의 투자 환경 조성 및 기업들의 성장에 직결될 수 있으므로, 투자자들은 정책의 구체적인 내용과 수혜 섹터에 주목해야 한다."
+        "트럼프 전 대통령이 이란 휴전 종료를 언급하며 미국 주요 증시(다우, 나스닥)가 하락했다.",
+        "이란과의 휴전 종료는 지정학적 리스크를 증폭시키고 시장에 불안감을 조성하여 투자 심리를 위축시켰다.",
+        "중동 정세의 불안정성이 증시 전반에 미칠 부정적 영향을 대비하고, 변동성이 큰 시장에서 안전 자산 선호 심리를 고려해야 한다."
       ],
-      "summary_text": "정부가 인공지능(AI) 대전환, 미래 전략 산업 투자, 5대 거점 3대 특화 지역 육성 등 주요 과제를 담은 하반기 경제정책 방향을 다음 주에 발표할 계획이다. 이번 경제전략은 한국 경제의 새로운 성장 동력 확보와 구조적 전환을 목표로 하며, 기술 혁신, 산업 육성, 지역 균형 발전 등에 중점을 둘 것으로 예상된다. 발표될 정책 내용은 관련 산업의 투자 환경 조성 및 기업들의 성장에 직결될 수 있으므로, 투자자들은 정책의 구체적인 내용과 수혜 섹터에 주목해야 한다.",
-      "description": "정부가 인공지능(AI) 대전환, 미래 투자, 지역 균형 발전(5극3특) 등을 총망라하는 하반기 경제정책 방향을 다음 주에 발표할 예정이다.",
-      "category": "국내 거시경제",
+      "summary_text": "트럼프 전 대통령이 이란 휴전 종료를 언급하며 미국 주요 증시(다우, 나스닥)가 하락했다. 이란과의 휴전 종료는 지정학적 리스크를 증폭시키고 시장에 불안감을 조성하여 투자 심리를 위축시켰다. 중동 정세의 불안정성이 증시 전반에 미칠 부정적 영향을 대비하고, 변동성이 큰 시장에서 안전 자산 선호 심리를 고려해야 한다.",
+      "description": "도널드 트럼프 전 대통령이 이란과의 휴전이 '끝났다'고 발언하면서 다우존스 산업평균지수와 나스닥 종합지수가 추가 하락했습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "AI, 반도체, 미래차, 바이오, 지역개발, 건설",
+      "market_impact": "부정",
+      "related_sector": "전반적 시장, 정유, 방산",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "정부의 하반기 경제전략은 한국 경제의 성장 방향과 투자 우선순위를 제시하며, 특정 산업 및 기업에 직접적인 긍정적 영향을 미칠 수 있다.",
-      "key_signal": "다음 주 발표될 하반기 경제전략의 구체적인 내용과 예산 배정 계획, 그리고 핵심 투자 분야에 대한 정부의 의지를 면밀히 분석해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "트럼프의 발언으로 인한 이란 휴전 종료 소식은 미국 증시 하락을 야기하며 글로벌 지정학적 위험이 즉각적으로 시장에 반영되는 모습을 보여주므로 매우 주의해야 합니다.",
+      "key_signal": "트럼프의 발언 이후 이란의 공식적인 반응과 국제 사회의 중재 노력 여부, 그리고 시장의 추가적인 반응을 관찰해야 합니다.",
       "keywords": [
-        "하반기 경제전략",
-        "AI 대전환",
-        "미래 투자",
-        "5극3특",
-        "국내 경제"
+        "트럼프",
+        "이란휴전",
+        "증시하락",
+        "지정학적위험",
+        "시장불안"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45N2NxYzFyNjFpNndyVjRESmRESlY0N3NKbHBWbUNsNEZhRXE1Mk1GRkdmeDM5R3JDSFFRTElVb1ViREowdDFCc3l1bkxZRmh1MXpoU29MRHV6Zw?oc=5",
-      "published": "2026-07-08 05:45",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekN3cmg1Tlh5Z2V2NmRHWUx1Q3R4eXRPVk9jSGFBZGs1U3czUUtiV2l6dWNILUI1allWSC11TERlU0ZGWVNXZnZ0c0t0ZkhNbFhURGNEaTZPcjMtcXNJVmVPQXRxT092VVBfbGhBZEU3ek9RUVo5R1o2djZ6ZWNQbUZFVHE2WGxQMDE0YkRJQkFMZDRDcGhhbVRnamNGTkplOWpJTGtyd1BhcUV1aUZyUC1LVXNrcnlyaUFUTG4zZ0RoMFQ5QWhtNlBBU0YtdVhOMnNV?oc=5",
+      "published": "2026-07-09 04:48",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "삼성전자 실적 발표 후 반도체주 매도세로 나스닥 하락",
-      "display_title": "삼성전자 실적 발표 후 반도체주 매도세로 나스닥 하락",
-      "original_title": "Nasdaq down as chip stocks sell off after Samsung earnings - Proactive Investors",
+      "title": "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락",
+      "display_title": "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락",
+      "original_title": "Oil Prices Rise, and Stocks Drop Worldwide After Trump Says Ceasefire With Iran Is 'Over' - U.S. News & World Report",
       "summary": [
-        "삼성전자의 실적 발표 이후 글로벌 반도체 관련 주식들이 매도세를 보이면서 나스닥 종합 지수가 하락했다.",
-        "이는 삼성전자의 실적이 시장 기대에 미치지 못했거나, 실적 발표가 반도체 업황에 대한 우려를 증폭시켰기 때문으로 분석된다.",
-        "한국 증시의 반도체 관련주 역시 삼성전자 실적과 글로벌 반도체 시장 분위기에 영향을 받을 수 있으므로 주의 깊게 지켜볼 필요가 있다."
+        "트럼프 전 대통령의 이란 휴전 종료 발언 이후 유가가 상승하고 전 세계 증시가 일제히 하락했다.",
+        "지정학적 긴장 고조가 원유 공급 불안정 우려를 키워 유가 상승을 초래하고, 이는 글로벌 경기 둔화 우려로 이어져 주식 시장에 부정적인 영향을 미쳤다.",
+        "글로벌 시장의 동시다발적 하락은 광범위한 리스크 회피 심리를 반영하며, 지정학적 위험이 해소될 때까지 보수적인 투자 자세를 유지해야 한다."
       ],
-      "summary_text": "삼성전자의 실적 발표 이후 글로벌 반도체 관련 주식들이 매도세를 보이면서 나스닥 종합 지수가 하락했다. 이는 삼성전자의 실적이 시장 기대에 미치지 못했거나, 실적 발표가 반도체 업황에 대한 우려를 증폭시켰기 때문으로 분석된다. 한국 증시의 반도체 관련주 역시 삼성전자 실적과 글로벌 반도체 시장 분위기에 영향을 받을 수 있으므로 주의 깊게 지켜볼 필요가 있다.",
-      "description": "삼성전자의 실적 발표 이후 반도체 관련 주식들이 매도세를 보이며 나스닥 지수가 하락했다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "트럼프 전 대통령의 이란 휴전 종료 발언 이후 유가가 상승하고 전 세계 증시가 일제히 하락했다. 지정학적 긴장 고조가 원유 공급 불안정 우려를 키워 유가 상승을 초래하고, 이는 글로벌 경기 둔화 우려로 이어져 주식 시장에 부정적인 영향을 미쳤다. 글로벌 시장의 동시다발적 하락은 광범위한 리스크 회피 심리를 반영하며, 지정학적 위험이 해소될 때까지 보수적인 투자 자세를 유지해야 한다.",
+      "description": "도널드 트럼프 전 대통령이 이란과의 휴전이 '끝났다'고 발표한 후 국제 유가가 상승하고 전 세계적으로 주식 시장이 하락했습니다.",
+      "category": "글로벌 경제",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "반도체",
+      "related_sector": "전반적 시장, 정유, 방산, 항공",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
       "investment_view": "주의",
-      "investment_reason": "삼성전자 실적은 한국 반도체 산업 전체의 방향성을 제시하며, 글로벌 반도체 시장의 바로미터로 작용하므로 한국 증시 전반에 미치는 영향이 크다.",
-      "key_signal": "삼성전자의 상세 실적 발표 내용과 컨퍼런스콜에서 제시될 향후 전망, 그리고 다른 글로벌 반도체 기업들의 주가 흐름을 면밀히 관찰해야 한다.",
+      "investment_reason": "이란 휴전 종료 소식이 유가 상승과 전 세계 증시 하락으로 이어진 것은 글로벌 경제에 대한 지정학적 리스크의 즉각적이고 광범위한 영향을 보여주므로 투자에 매우 주의해야 합니다.",
+      "key_signal": "국제 유가와 에너지 관련 원자재 가격 변동성, 그리고 각국 증시의 추가 조정 여부를 지속적으로 확인해야 합니다.",
       "keywords": [
-        "삼성전자",
-        "실적 발표",
-        "나스닥",
-        "반도체",
-        "매도세"
+        "유가상승",
+        "글로벌증시",
+        "이란",
+        "지정학적위험",
+        "시장불안"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2QyT3g1eXBiUnAxU1RYWXA3TEFfMmhtSU9CU0lSNlJhUnBTU0Fkc2tnaTlwNWZnWkxHV0tKcGxkYnQwRl9JNU5XOHl2RE80N05TNmh2NG8yZ2NlTlBlbll5SFNtbVlFbktVV0V0b21vNTVVRlZ5enFIZUR0OTAwc09yRHRXT0YzSVNvRmFWSnhLZHM1Ul94bVBDRXhSZk5pQkhTazllQnpDVEJUcGM0ZFZaakRJSTdaNG5hR1JBUVNVLXpfWTFNcEZnZw?oc=5",
-      "published": "2026-07-08 04:49",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSmV3QUlfeC1ITWd2X2t4X0FGR3A1b0ZEVnloYzh5UjViazQ4dlg5ZmxlWXhNQmpTRlRsNHc2dHdCbG9UNVpNUVFDRl9JaTYzQ0hPUTZlbEFSRjhnX2dIQVlNdUFWcUJGeUFHTHlYc1doQ2loQlllbGNkTmI0MENUaGxnTmZmYjd5OE9ScnRjX2dHejdIdHFIdVZCMXVCcThEQ01mRy1RM0tRelJKVjRYdmJNeGpoT2RiR2NoMHJocXFCX3RRYTRj?oc=5",
+      "published": "2026-07-09 04:19",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "중동 긴장 고조 속 유가 상승, 금값 하락에 캐나다 증시(TSX) 보합세",
-      "display_title": "중동 긴장 고조 속 유가 상승, 금값 하락에 캐나다 증시(TSX) 보합세",
-      "original_title": "TSX steady as oil gains, gold dips amid renewed Middle East tensions - Investing.com",
+      "title": "오늘 증시: 나스닥 상승, 다우 및 S&P 500 하락, 미-이란 긴장 고조로 유가 상승",
+      "display_title": "오늘 증시: 나스닥 상승, 다우 및 S&P 500 하락, 미-이란 긴장 고조로 유가 상승",
+      "original_title": "Stock market today: Nasdaq rises, Dow and S&P 500 retreat as oil prices climb on renewed US-Iran tensions - Yahoo! Finance Canada",
       "summary": [
-        "중동 지역의 지정학적 긴장이 다시 고조되면서 국제 유가가 상승하고 안전자산인 금값이 하락하는 등 국제 원자재 시장이 민감하게 반응하고 있다.",
-        "이러한 상황 속에서도 캐나다 증시는 보합세를 유지했으나, 이는 원유 생산국으로서 유가 상승이 긍정적으로 작용한 측면도 반영된 것으로 보인다.",
-        "지정학적 리스크는 글로벌 공급망과 원자재 가격에 직접적인 영향을 미치므로, 한국 투자자들은 국제 유가 및 금값 동향을 예의주시하며 관련 산업에 미칠 영향을 고려해야 한다."
+        "미 증시에서 나스닥은 상승했지만, 미-이란 긴장으로 유가가 오르면서 다우와 S&P 500은 하락했다.",
+        "지정학적 리스크(미-이란 긴장)가 고조되면서 국제 유가가 상승하고 이는 광범위한 시장 지수에 부정적인 영향을 미쳤다.",
+        "지정학적 리스크와 유가 변동성이 시장 전반에 미치는 영향을 주시하며, 에너지 관련주 및 인플레이션 민감주에 대한 투자 전략을 재고할 필요가 있다."
       ],
-      "summary_text": "중동 지역의 지정학적 긴장이 다시 고조되면서 국제 유가가 상승하고 안전자산인 금값이 하락하는 등 국제 원자재 시장이 민감하게 반응하고 있다. 이러한 상황 속에서도 캐나다 증시는 보합세를 유지했으나, 이는 원유 생산국으로서 유가 상승이 긍정적으로 작용한 측면도 반영된 것으로 보인다. 지정학적 리스크는 글로벌 공급망과 원자재 가격에 직접적인 영향을 미치므로, 한국 투자자들은 국제 유가 및 금값 동향을 예의주시하며 관련 산업에 미칠 영향을 고려해야 한다.",
-      "description": "중동 지역의 긴장이 다시 고조되면서 유가가 상승하고 금값이 하락하는 가운데, 캐나다 토론토 증권거래소(TSX) 지수는 보합세를 유지했다.",
+      "summary_text": "미 증시에서 나스닥은 상승했지만, 미-이란 긴장으로 유가가 오르면서 다우와 S&P 500은 하락했다. 지정학적 리스크(미-이란 긴장)가 고조되면서 국제 유가가 상승하고 이는 광범위한 시장 지수에 부정적인 영향을 미쳤다. 지정학적 리스크와 유가 변동성이 시장 전반에 미치는 영향을 주시하며, 에너지 관련주 및 인플레이션 민감주에 대한 투자 전략을 재고할 필요가 있다.",
+      "description": "오늘 주식 시장에서는 나스닥이 상승한 반면, 다우와 S&P 500은 하락했습니다. 이는 미국과 이란 간의 긴장이 다시 고조되면서 유가가 상승한 영향입니다.",
       "category": "글로벌 경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "에너지, 정유, 방산, 원자재",
+      "market_impact": "부정",
+      "related_sector": "정유, 항공, 해운, 반도체",
       "related_stocks": [
         "SK이노베이션",
         "S-Oil",
-        "한국항공우주"
+        "대한항공"
       ],
       "investment_view": "주의",
-      "investment_reason": "중동 지정학적 리스크는 국제 유가 변동성을 높여 국내 정유, 항공 등 관련 산업에 직간접적인 영향을 미치며 물가 상승 압력으로 작용할 수 있다.",
-      "key_signal": "중동 지역의 외교적 상황 및 군사적 움직임에 대한 뉴스를 지속적으로 확인하고, 국제 유가(WTI, 브렌트유) 및 금 가격의 변동 폭을 주시해야 한다.",
+      "investment_reason": "미-이란 긴장 고조와 유가 상승은 글로벌 경제에 불확실성을 가중시키고 시장 전반의 변동성을 높일 수 있으므로 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "미-이란 관계의 추가 전개와 국제 유가 추이를 면밀히 모니터링하여 에너지 관련 섹터 및 전반적인 시장 심리에 미칠 영향을 예측해야 합니다.",
       "keywords": [
-        "중동 긴장",
-        "지정학적 리스크",
-        "유가 상승",
-        "금값 하락",
-        "원자재"
+        "유가",
+        "지정학적위험",
+        "미증시",
+        "이란",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1g4NkZCTEVSU0xhdEVrSGVwSWQ5SzhkcTdVemt6RjE0ejhtXzc5VDg0Z1M5UVdYOVplQy05RDFVZGpBS0haLXlMbTRJRk9QTHNUUWMyaVREeWdRZjZWc2dhQjRDeWRCdndyZkVDUmRsNEJ3S3djTVV6WVRzUHp5Tm10MVRhZ05XQUw5SndhWHBMQkRidlA1c2s1V21DdFhWVGoteWw3R0hrNWRPQkk4OUd5Uk9sRWQ4T3VlUWJVV0dUTmRQbXhF?oc=5",
-      "published": "2026-07-08 01:26",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnNHT3NVZE5qX2JjX1laSkdtTE9wSGVrcTJVVVk0NXRXZDQ3N21mdUh2azVCWllqUWRZRUctZ21MLWM3d1VjcHRwRjRDT3NuUmp0cWtzX0N2X2tzSktQa2c2OE1Yc2pQbGZJSnRXeG92ZW43Nk4tUnZaNXpieHljUXJXWnRWVlNxV25uUzBwelhSbXFYWUxxQlJ6WklDWUhXcS0xb3RVNGhiWmNPRi1YUEx3?oc=5",
+      "published": "2026-07-09 05:01",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,84 +193,83 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "트럼프 대통령, 또 다시 연준 비판…월스트리트에 재앙 가능성",
-      "display_title": "트럼프 대통령, 또 다시 연준 비판…월스트리트에 재앙 가능성",
-      "original_title": "President Donald Trump Took a Direct Jab at the Fed, Yet Again -- and It's a Disaster in the Making for Wall Street - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[마켓 프리뷰] 역대급 변동성에 반도체주 '털썩'…환율 1500원 하회",
+      "display_title": "[마켓 프리뷰] 역대급 변동성에 반도체주 '털썩'…환율 1500원 하회",
+      "original_title": "[마켓 프리뷰] 역대급 변동성에 반도체주 '털썩'…환율 1500원 하회 - v.daum.net",
       "summary": [
-        "도널드 트럼프 전 대통령이 연방준비제도(Fed)의 정책에 대해 또다시 비판적인 입장을 표명하며 시장에 불확실성을 가중시키고 있다.",
-        "정치적 압력에 의한 통화정책 간섭 가능성은 연준의 독립성을 훼손하고, 이는 금융 시장의 예측 불가능성을 높여 월스트리트에 부정적인 영향을 미칠 수 있다.",
-        "미국 차기 대선 결과와 연준의 독립성 유지 여부는 향후 글로벌 금융 시장의 주요 변수가 될 것이므로 관련 동향에 주목해야 한다."
+        "국내 증시에서 역대급 변동성이 발생하며 반도체주가 하락했고, 원/달러 환율은 1500원 아래로 하락했다.",
+        "글로벌 지정학적 위험과 유가 상승 등의 영향으로 국내 증시의 투자 심리가 위축되고, 주요 수출 품목인 반도체 업종이 직접적인 타격을 받았다.",
+        "반도체 업종의 추가 하락 가능성과 환율 변동이 수출 기업 실적에 미칠 영향을 주시하며, 시장 변동성 관리가 중요하다."
       ],
-      "summary_text": "도널드 트럼프 전 대통령이 연방준비제도(Fed)의 정책에 대해 또다시 비판적인 입장을 표명하며 시장에 불확실성을 가중시키고 있다. 정치적 압력에 의한 통화정책 간섭 가능성은 연준의 독립성을 훼손하고, 이는 금융 시장의 예측 불가능성을 높여 월스트리트에 부정적인 영향을 미칠 수 있다. 미국 차기 대선 결과와 연준의 독립성 유지 여부는 향후 글로벌 금융 시장의 주요 변수가 될 것이므로 관련 동향에 주목해야 한다.",
-      "description": "도널드 트럼프 대통령이 다시 한번 연방준비제도(Fed)를 직접 비판하며 월스트리트에 잠재적 재앙을 초래할 수 있다는 우려가 제기되고 있다.",
-      "category": "글로벌 경제",
-      "importance": 7,
+      "summary_text": "국내 증시에서 역대급 변동성이 발생하며 반도체주가 하락했고, 원/달러 환율은 1500원 아래로 하락했다. 글로벌 지정학적 위험과 유가 상승 등의 영향으로 국내 증시의 투자 심리가 위축되고, 주요 수출 품목인 반도체 업종이 직접적인 타격을 받았다. 반도체 업종의 추가 하락 가능성과 환율 변동이 수출 기업 실적에 미칠 영향을 주시하며, 시장 변동성 관리가 중요하다.",
+      "description": "최근 시장의 역대급 변동성으로 인해 반도체 관련 주식들이 하락세를 보였으며, 원/달러 환율은 1500원 아래로 떨어졌습니다.",
+      "category": "국내 거시경제",
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "금융, 증권",
+      "related_sector": "반도체, IT, 통화",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준의 통화정책 불확실성은 글로벌 금리, 환율 및 자산 시장에 광범위한 영향을 미치며, 이는 한국 증시에도 간접적인 파급 효과를 줄 수 있다.",
-      "key_signal": "트럼프 전 대통령의 발언 수위와 연준의 대응, 그리고 미국 대선 관련 여론 동향을 주시하며 정책 불확실성 증대 여부를 판단해야 한다.",
+      "investment_reason": "국내 증시의 높은 변동성과 핵심 섹터인 반도체주의 약세, 그리고 환율 하락은 국내 기업 실적에 중요한 영향을 미칠 수 있으므로 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "글로벌 불확실성 속에서 국내 반도체 업황의 회복 시점과 환율의 추가 변동성, 외국인 투자자의 매매 동향을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "트럼프",
-        "연준",
-        "통화정책",
-        "독립성",
-        "월스트리트"
+        "국내증시",
+        "변동성",
+        "반도체주",
+        "환율",
+        "삼성전자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjQwYWRrTURCRmJKNzZ4aE1qdWNCaXNwaDhZcUd6VHV3WDh0bDE5WEVCR01fRUE2ck5ZRThxVWZHZm1DbGxqZFEtRi1Sb01mdF9JYmNRcEstMUxhNEJaZWt3VDI5U3drV2FuMVY5RXZBSWdQRXc2RnVsVjhVb09lQWhqNmU?oc=5",
-      "published": "2026-07-07 22:53",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lcWhPZDdRbVhfbzBVN1A0YWNUaWEtQ011SjhEdTAxaDBKblJtV1B0WXFzN1RpQ2dHUzVIU2k2SzVCZDBYbVBLQTViYTB2RUk?oc=5",
+      "published": "2026-07-09 07:31",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "친환경 에너지 ETF, '그린 웨이브' 타고 수혜",
-      "display_title": "친환경 에너지 ETF, '그린 웨이브' 타고 수혜",
-      "original_title": "Riding the Green Wave: Clean Energy ETFs Benefiting - ETF Database",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[투자노트] 삼성전자 실적이 남긴 것…이제 빅테크 어닝콜을 볼 차례",
+      "display_title": "[투자노트] 삼성전자 실적이 남긴 것…이제 빅테크 어닝콜을 볼 차례",
+      "original_title": "[투자노트] 삼성전자 실적이 남긴 것…이젠 빅테크 어닝콜을 볼 차례 - 네이트",
       "summary": [
-        "글로벌적으로 친환경 에너지 전환 추세가 가속화되면서, 관련 상장지수펀드(ETF)들이 투자자들의 관심을 받으며 수익을 내고 있다.",
-        "이는 각국 정부의 친환경 정책 강화, 기업들의 ESG 경영 확산, 그리고 신재생에너지 기술 발전이 맞물려 나타나는 현상이다.",
-        "투자자들은 친환경 에너지 섹터의 장기 성장 잠재력을 고려하여 관련 ETF 및 개별 종목에 대한 투자 기회를 모색할 수 있다."
+        "삼성전자 실적 발표가 끝난 후, 이제 투자자들은 글로벌 빅테크 기업들의 어닝콜 결과에 주목해야 한다.",
+        "삼성전자 실적은 글로벌 IT 수요와 반도체 업황의 주요 선행 지표 역할을 하며, 이후 빅테크 기업들의 실적이 전체 IT 시장 동향을 더욱 명확히 할 것이다.",
+        "글로벌 빅테크 기업들의 실적 발표는 국내 증시, 특히 기술주 및 반도체 관련 주식에 중요한 방향성을 제시할 것이므로, 실적 발표 내용을 면밀히 분석해야 한다."
       ],
-      "summary_text": "글로벌적으로 친환경 에너지 전환 추세가 가속화되면서, 관련 상장지수펀드(ETF)들이 투자자들의 관심을 받으며 수익을 내고 있다. 이는 각국 정부의 친환경 정책 강화, 기업들의 ESG 경영 확산, 그리고 신재생에너지 기술 발전이 맞물려 나타나는 현상이다. 투자자들은 친환경 에너지 섹터의 장기 성장 잠재력을 고려하여 관련 ETF 및 개별 종목에 대한 투자 기회를 모색할 수 있다.",
-      "description": "친환경 에너지 테마의 상장지수펀드(ETF)들이 전 세계적인 친환경 기조에 힘입어 수혜를 받고 있다.",
+      "summary_text": "삼성전자 실적 발표가 끝난 후, 이제 투자자들은 글로벌 빅테크 기업들의 어닝콜 결과에 주목해야 한다. 삼성전자 실적은 글로벌 IT 수요와 반도체 업황의 주요 선행 지표 역할을 하며, 이후 빅테크 기업들의 실적이 전체 IT 시장 동향을 더욱 명확히 할 것이다. 글로벌 빅테크 기업들의 실적 발표는 국내 증시, 특히 기술주 및 반도체 관련 주식에 중요한 방향성을 제시할 것이므로, 실적 발표 내용을 면밀히 분석해야 한다.",
+      "description": "삼성전자 실적 발표가 남긴 의미를 되짚어보고, 이제는 글로벌 빅테크 기업들의 어닝콜 결과에 주목해야 할 시점임을 강조하는 투자 노트입니다.",
       "category": "기업·산업",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "신재생에너지, 친환경, 전기차, 2차전지",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "반도체, IT, 소프트웨어, 클라우드",
       "related_stocks": [
-        "한화솔루션",
-        "현대에너지솔루션",
-        "두산에너빌리티"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "관심",
-      "investment_reason": "기후 변화 대응 및 에너지 전환은 거스를 수 없는 글로벌 메가 트렌드이며, 관련 산업은 장기적인 성장 잠재력을 보유하고 있다.",
-      "key_signal": "각국의 친환경 에너지 정책 변화, 기술 개발 동향, 그리고 원자재 가격 변동이 친환경 에너지 섹터에 미치는 영향을 꾸준히 모니터링해야 한다.",
+      "investment_reason": "삼성전자 실적을 통해 국내 IT 산업의 현재를 확인하고, 이어질 글로벌 빅테크 어닝콜을 통해 미래 IT 시장 방향성과 국내 증시의 영향을 예측할 수 있기 때문입니다.",
+      "key_signal": "마이크로소프트, 애플, 구글 등 주요 글로벌 빅테크 기업들의 어닝콜 내용과 향후 가이던스를 통해 IT 업황의 전반적인 추이를 판단해야 합니다.",
       "keywords": [
-        "친환경 에너지",
-        "ETF",
-        "그린 웨이브",
-        "신재생에너지",
-        "ESG"
+        "삼성전자",
+        "빅테크",
+        "어닝콜",
+        "반도체",
+        "IT업황"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZU1UcXhWb3QyVE5uWVo1a3BFMzQ3NGlDeXNlejZPbGJtR0VxTV9rNVlkakVqdFlZb194UTAzVnFUdlJXQUJmckVjZG9na0F3eTRUaFdwRGU1V1UtUkUyajFGYmxaVXhTUHBJNlEycjVmaEcwVW1kcEx5WVp4bDcyY3BjQTlrOHIyaDZSRjd3blRjcmlY?oc=5",
-      "published": "2026-07-08 04:56",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RbnItTVRsUVJReVZFRGF4OG90Qm5pZWFzUEh3dU4zVDdsdTNWNDVmUUhGLUMtOFZVeEtabDhCUGVtTVlqQ2kxcXQzaTZUQlh4bkFz?oc=5",
+      "published": "2026-07-09 07:39",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -283,65 +282,69 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "한국 반도체 산업의 핵심이자 AI 대전환의 선두 주자로, 미래 기술 투자와 정부의 하반기 경제전략 수혜 기대감이 높습니다. 다만, 최근 실적 발표 이후 단기적인 매도세는 주시해야 할 부분입니다.",
+      "reason": "국내 증시의 핵심 종목으로, 현재 반도체주의 높은 변동성과 향후 글로벌 빅테크 어닝콜을 통해 IT 시장의 방향성을 가늠할 중요한 지표입니다.",
       "check_points": [
-        "글로벌 반도체 시장 동향 및 수급",
-        "정부의 AI 및 반도체 투자 전략 구체화",
-        "차세대 HBM 등 고부가 기술 개발 현황"
+        "글로벌 빅테크 기업 어닝콜 결과 및 실적 발표",
+        "반도체 업황 회복 시그널 및 수요 동향",
+        "외국인 및 기관 투자자 매매 동향"
       ],
       "related_news_titles": [
-        "AI 호황 속 한국 반도체, \"HBM 이후 준비할 마지막 기회\" 전문가 경고",
-        "'AI 대전환·미래 투자·5극3특' 아우르는 하반기 경제전략 다음 주 발표",
-        "삼성전자 실적 발표 후 반도체주 매도세로 나스닥 하락"
+        "[마켓 프리뷰] 역대급 변동성에 반도체주 '털썩'…환율 1500원 하회",
+        "[투자노트] 삼성전자 실적이 남긴 것…이제 빅테크 어닝콜을 볼 차례"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "정유",
       "opinion": "관심",
-      "reason": "HBM 등 고대역폭 메모리 시장의 선두 주자로서 AI 반도체 수요 증가의 직접적인 수혜가 예상됩니다. 미래 기술 준비의 중요성이 부각되는 가운데, AI 산업 성장의 핵심 동력으로 주목됩니다.",
+      "reason": "이란 휴전 종료 및 미-이란 긴장 고조로 인한 국제 유가 상승은 정유사들의 수익성에 직접적인 영향을 미칠 수 있으므로 유가 동향과 함께 주목해야 합니다.",
       "check_points": [
-        "HBM 생산 능력 및 고객사 확보 현황",
-        "글로벌 AI 서버 시장 성장세",
-        "반도체 업황 회복 속도"
+        "국제 유가(WTI, 브렌트유) 변동성 및 추이",
+        "중동 지정학적 리스크 관련 추가 뉴스",
+        "정유사 정제마진 및 재고 평가 이익 변화"
       ],
       "related_news_titles": [
-        "AI 호황 속 한국 반도체, \"HBM 이후 준비할 마지막 기회\" 전문가 경고",
-        "삼성전자 실적 발표 후 반도체주 매도세로 나스닥 하락"
+        "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
+        "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락",
+        "오늘 증시: 나스닥 상승, 다우 및 S&P 500 하락, 미-이란 긴장 고조로 유가 상승"
       ]
     },
     {
       "rank": 3,
-      "name": "한화솔루션",
+      "name": "한화에어로스페이스",
       "market": "KOSPI",
-      "sector": "신재생에너지",
+      "sector": "방산",
       "opinion": "관심",
-      "reason": "기후 변화 대응 및 에너지 전환이라는 거스를 수 없는 글로벌 메가 트렌드의 직접적인 수혜주로, 친환경 에너지 ETF 수혜 소식과 함께 장기적인 성장 잠재력이 높게 평가됩니다.",
+      "reason": "중동 불안정 심화 및 글로벌 지정학적 리스크 고조는 방산 산업 전반에 대한 투자 심리 개선과 수혜 기대감을 높일 수 있습니다.",
       "check_points": [
-        "태양광 등 친환경 에너지 사업의 수주 및 실적 개선",
-        "정부의 신재생에너지 정책 지원",
-        "글로벌 에너지 시장 변화 동향"
+        "중동 및 글로벌 안보 상황 변화",
+        "각국 국방비 증액 관련 정책 발표",
+        "주요 방산 프로젝트 수주 소식 및 수출 동향"
       ],
       "related_news_titles": [
-        "친환경 에너지 ETF, '그린 웨이브' 타고 수혜"
+        "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
+        "트럼프의 이란 휴전 '종료' 발언에 다우와 나스닥 추가 하락",
+        "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락"
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "대한항공",
       "market": "KOSPI",
-      "sector": "IT 서비스",
-      "opinion": "관심",
-      "reason": "정부의 하반기 경제전략에서 'AI 대전환'이 강조됨에 따라 국내 AI 및 IT 산업을 이끄는 주요 기업으로서 정책 수혜 기대감이 있습니다. AI 기술을 활용한 서비스 확장이 관건입니다.",
+      "sector": "항공",
+      "opinion": "주의",
+      "reason": "미-이란 긴장 고조로 인한 유가 상승은 항공사들의 유류비 부담을 가중시켜 실적에 부정적인 영향을 미칠 수 있으므로 주의 깊은 관찰이 필요합니다.",
       "check_points": [
-        "AI 관련 신규 서비스 출시 및 성과",
-        "클라우드, 커머스 등 핵심 사업 성장세",
-        "정부의 디지털 및 AI 투자 정책 변화"
+        "국제 유가 동향 및 항공유 가격 변화",
+        "항공 화물 및 여객 수요 변동성",
+        "환율 변동이 유류비 및 부채에 미치는 영향"
       ],
       "related_news_titles": [
-        "'AI 대전환·미래 투자·5극3특' 아우르는 하반기 경제전략 다음 주 발표"
+        "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
+        "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락",
+        "오늘 증시: 나스닥 상승, 다우 및 S&P 500 하락, 미-이란 긴장 고조로 유가 상승"
       ]
     }
   ],
