@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09 08:07",
-  "analysis_date": "2026-07-09",
+  "generated_at": "2026-07-10 08:12",
+  "analysis_date": "2026-07-10",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "중동 지정학적 긴장 고조로 유가 급등 및 글로벌 증시 하락세가 뚜렷했습니다. 국내 증시도 높은 변동성 속에 반도체주가 약세를 보였으며, 이제 글로벌 빅테크 실적에 시선이 쏠리고 있습니다.",
-    "국내거시경제": "글로벌 리스크로 국내 증시 변동성이 확대되며 반도체주가 하락하고 원/달러 환율은 1500원 아래로 내려왔습니다.",
-    "글로벌경제": "이란 휴전 종료 발언으로 중동 긴장이 고조되고 국제 유가가 급등하며 전 세계적인 경기 둔화 우려를 키웠습니다.",
-    "증시금리": "미 증시는 나스닥 상승에도 다우와 S&P 500이 하락했으며, 전 세계 증시는 지정학적 리스크와 유가 상승 여파로 전반적인 약세를 기록했습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "삼성전자 실적 발표 이후 글로벌 IT 수요 및 반도체 업황의 향방을 가늠할 글로벌 빅테크 기업들의 실적 발표에 시장의 관심이 집중됩니다.",
-    "오늘의투자시사점": "중동 리스크와 유가 변동성에 따른 시장 불안정성에 대비해 방어적 포트폴리오를 고려하고, 에너지 관련주와 인플레이션 민감주 전략을 재검토하며 글로벌 빅테크 실적에 주목해야 합니다.",
-    "오늘의한줄": "중동발 지정학적 긴장 고조가 유가 급등과 글로벌 증시 하락을 이끌며 시장 변동성 관리가 중요한 하루였습니다."
+    "총평": "글로벌 증시는 중동 리스크와 금리 인상 우려로 하락했으나, 반도체 랠리로 일부 기술주는 강세를 보였다. 국내는 성장률 상향에도 물가 부담과 서민 경제의 어려움이 지속되며, 중앙은행의 불확실성 증가는 시장 변동성을 키울 수 있다.",
+    "국내거시경제": "ADB가 올해 한국 성장률을 2.6%로 상향했으나, 물가 전망치도 2.7%로 함께 올려 인플레이션 압박이 지속될 전망이다. 이는 가계의 물가·금리·임금 삼중고 심화로 이어져 소비 심리 위축 가능성이 크다.",
+    "글로벌경제": "글로벌 중앙은행들이 통화정책에 대한 선제적 안내(포워드 가이던스) 종료를 시사하며 정책 불확실성이 증가했다. 이는 시장의 예측 가능성을 낮춰 변동성 확대로 이어질 수 있다.",
+    "증시금리": "중동 지정학적 리스크 심화와 미국 금리 인상 확률 85% 도달로 다우지수가 급락했다. 다만, SK하이닉스·마이크론 주도 반도체 랠리로 나스닥은 상승하며 사상 최고치를 경신했다. 그러나 잠재적 위험 요인(인플레이션, 금리 상승)은 여전히 지속되고 있다.",
+    "부동산정책": "특이사항 없음.",
+    "기업산업": "중동 긴장 속에서도 SK하이닉스, 마이크론 등 반도체 업종이 글로벌 증시 랠리를 주도하며 국내 관련 기업에도 긍정적인 기대감을 높이고 있다.",
+    "오늘의투자시사점": "중동 지정학적 위험과 미국 통화 긴축 가능성으로 시장 변동성 확대에 대비해야 한다. 국내는 소비 심리 위축 가능성에 유의하고, 글로벌 반도체 업종의 강세는 긍정적이나 잠재적 위험 요인들을 간과하지 않는 보수적 포트폴리오 관리가 필요하다.",
+    "오늘의한줄": "글로벌 불확실성 속 기술주 강세와 국내 물가 부담 지속, 보수적 관점 유지."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
-      "display_title": "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
-      "original_title": "The Iran War Ceasefire Has Ended. Here's What It Means for the Stock Market. - The Globe and Mail",
+      "title": "이란 휴전 붕괴와 금리 인상 확률 85% 도달로 다우지수 577포인트 하락",
+      "display_title": "이란 휴전 붕괴와 금리 인상 확률 85% 도달로 다우지수 577포인트 하락",
+      "original_title": "Dow Sheds 577 Points as Iran Ceasefire Collapses and Rate Hike Odds Hit 85% - Tech Times",
       "summary": [
-        "이란 전쟁 휴전이 공식적으로 종료되어 중동 지정학적 긴장이 고조될 전망이다.",
-        "휴전 종료는 국제 유가 상승 압력을 높이고, 글로벌 증시의 변동성 확대 요인으로 작용할 수 있다.",
-        "중동 정세 불안정으로 인한 에너지 가격 급등과 전반적인 시장 리스크 증가에 대비하여 방어적인 포트폴리오 전략을 고려해야 한다."
+        "이란 휴전 붕괴와 미국 금리 인상 확률 85%로 다우지수가 577포인트 급락했다.",
+        "중동 지정학적 리스크 심화와 미국 연준의 고금리 장기화 가능성이 시장에 불안감을 키우고 있다.",
+        "지정학적 위험과 통화 긴축 가능성이 높아지면서 시장 변동성이 확대될 수 있으므로 보수적인 접근이 필요하다."
       ],
-      "summary_text": "이란 전쟁 휴전이 공식적으로 종료되어 중동 지정학적 긴장이 고조될 전망이다. 휴전 종료는 국제 유가 상승 압력을 높이고, 글로벌 증시의 변동성 확대 요인으로 작용할 수 있다. 중동 정세 불안정으로 인한 에너지 가격 급등과 전반적인 시장 리스크 증가에 대비하여 방어적인 포트폴리오 전략을 고려해야 한다.",
-      "description": "이란 전쟁의 휴전이 종료되면서 주식 시장에 미칠 영향에 대한 분석이 나오고 있습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "이란 휴전 붕괴와 미국 금리 인상 확률 85%로 다우지수가 577포인트 급락했다. 중동 지정학적 리스크 심화와 미국 연준의 고금리 장기화 가능성이 시장에 불안감을 키우고 있다. 지정학적 위험과 통화 긴축 가능성이 높아지면서 시장 변동성이 확대될 수 있으므로 보수적인 접근이 필요하다.",
+      "description": "이란 휴전 협상 붕괴와 금리 인상 가능성이 85%에 달하면서 다우지수가 577포인트 급락했다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "정유, 방산, 항공, 해운",
+      "related_sector": "금융, 성장주, 에너지",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한화에어로스페이스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "이란 휴전 종료는 중동 불안정 심화와 유가 급등 가능성을 높여 글로벌 경제와 주식 시장 전반에 큰 부정적 영향을 미칠 수 있으므로 매우 주의해야 합니다.",
-      "key_signal": "이란의 다음 행동과 주요 산유국의 대응, 그리고 국제 유가 및 해운 운임의 변화를 긴밀히 주시해야 합니다.",
+      "investment_reason": "중동 리스크 심화와 미국 금리 인상 가능성 증가는 글로벌 증시 전반에 부정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "중동 정세 변화와 미국 연준의 금리 정책 관련 발언에 촉각을 곤두세워야 한다.",
       "keywords": [
-        "이란전쟁",
-        "휴전종료",
-        "지정학적위험",
-        "유가급등",
-        "주식시장"
+        "다우지수",
+        "금리인상",
+        "중동",
+        "지정학적 리스크",
+        "시장변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQODN6NVZfaEJ2MEpQNFhCakp4WFpjVkJtSkYzSEhHUTZKTUVBQXNId2NjVHkwOHdGSmpfN0c5d25DdjBDSG4zZTJOZTZGakhGOUZ0X3cweUJGRVJRNTBVN01TbkZnV21yaW9mUXlYblpYNEhzVWIwdlBYSktqcVgyS21qT0EwXzZhdVZzeUEwcHNTSHc5Z2twemsyWVVoUXc0ekRMOW92WHpPTGZhN0stblh1YUpvbWJhdjJPN01hUk9FbGQxVHc3TVFpcWVoUDNFUFpKQlNuaE14djNLV19Sc0xhWEh0TkQxSnJ2WXl5Yw?oc=5",
-      "published": "2026-07-09 05:25",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanR6bE1TSUVGTmZQYnpKbWRwUjlmQzJkTmNIU2syMDI1WnN4RHZCRXpmNzdHdUdobHc0V3NmQXNxTGl6X3c1VHdlT2ppUnFsUjdJZ3RWTlo3TmgzZE5OaDBVOC0yLUZVVmhiS3YzbnVJVkNvekFSUmEzcTNiMlFGVjA4VDA5UGJIVHpZSEV0TWxMYlotc2xoNXV3WnJTbDJ1SExIcDVWbnozbWlFdUhQbDRNRUlSNGxJMDZENXVoVQ?oc=5",
+      "published": "2026-07-10 03:49",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,84 +67,79 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "트럼프의 이란 휴전 '종료' 발언에 다우와 나스닥 추가 하락",
-      "display_title": "트럼프의 이란 휴전 '종료' 발언에 다우와 나스닥 추가 하락",
-      "original_title": "Dow and Nasdaq lose more ground as Trump says Iran ceasefire 'over' - Proactive financial news",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "성장률 전망 상향에도…서민 경제, 물가·금리·임금 '삼중고' 직면",
+      "display_title": "성장률 전망 상향에도…서민 경제, 물가·금리·임금 '삼중고' 직면",
+      "original_title": "성장률 전망 올랐는데…서민경제, 물가·금리·임금 '삼중고’ - 뉴시스",
       "summary": [
-        "트럼프 전 대통령이 이란 휴전 종료를 언급하며 미국 주요 증시(다우, 나스닥)가 하락했다.",
-        "이란과의 휴전 종료는 지정학적 리스크를 증폭시키고 시장에 불안감을 조성하여 투자 심리를 위축시켰다.",
-        "중동 정세의 불안정성이 증시 전반에 미칠 부정적 영향을 대비하고, 변동성이 큰 시장에서 안전 자산 선호 심리를 고려해야 한다."
+        "한국의 성장률 전망은 상향되었지만, 서민 경제는 물가, 금리, 임금의 '삼중고'로 어려움을 겪고 있다.",
+        "거시 경제 지표는 개선되는 것처럼 보이나, 실질적인 가계 구매력과 체감 경기는 여전히 좋지 않음을 보여준다.",
+        "소비 심리 위축 가능성을 시사하므로 내수 관련 업종에 부정적일 수 있으며, 정부의 민생 안정 정책 방향을 주시해야 한다."
       ],
-      "summary_text": "트럼프 전 대통령이 이란 휴전 종료를 언급하며 미국 주요 증시(다우, 나스닥)가 하락했다. 이란과의 휴전 종료는 지정학적 리스크를 증폭시키고 시장에 불안감을 조성하여 투자 심리를 위축시켰다. 중동 정세의 불안정성이 증시 전반에 미칠 부정적 영향을 대비하고, 변동성이 큰 시장에서 안전 자산 선호 심리를 고려해야 한다.",
-      "description": "도널드 트럼프 전 대통령이 이란과의 휴전이 '끝났다'고 발언하면서 다우존스 산업평균지수와 나스닥 종합지수가 추가 하락했습니다.",
-      "category": "증시·금리",
+      "summary_text": "한국의 성장률 전망은 상향되었지만, 서민 경제는 물가, 금리, 임금의 '삼중고'로 어려움을 겪고 있다. 거시 경제 지표는 개선되는 것처럼 보이나, 실질적인 가계 구매력과 체감 경기는 여전히 좋지 않음을 보여준다. 소비 심리 위축 가능성을 시사하므로 내수 관련 업종에 부정적일 수 있으며, 정부의 민생 안정 정책 방향을 주시해야 한다.",
+      "description": "국내 성장률 전망치가 상향 조정되었음에도 불구하고, 서민 경제는 높은 물가, 금리, 그리고 정체된 임금이라는 '삼중고'에 시달리고 있다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전반적 시장, 정유, 방산",
+      "related_sector": "유통, 소비재, 금융",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "롯데쇼핑",
+        "신세계"
       ],
       "investment_view": "주의",
-      "investment_reason": "트럼프의 발언으로 인한 이란 휴전 종료 소식은 미국 증시 하락을 야기하며 글로벌 지정학적 위험이 즉각적으로 시장에 반영되는 모습을 보여주므로 매우 주의해야 합니다.",
-      "key_signal": "트럼프의 발언 이후 이란의 공식적인 반응과 국제 사회의 중재 노력 여부, 그리고 시장의 추가적인 반응을 관찰해야 합니다.",
+      "investment_reason": "서민 경제의 어려움은 국내 소비 침체로 이어져 내수 관련 기업의 실적에 부정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "정부의 물가 안정 및 서민 지원 정책 방향과 소매 판매 지표 등 내수 관련 경제 지표를 확인해야 한다.",
       "keywords": [
-        "트럼프",
-        "이란휴전",
-        "증시하락",
-        "지정학적위험",
-        "시장불안"
+        "성장률",
+        "물가",
+        "금리",
+        "임금",
+        "서민경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekN3cmg1Tlh5Z2V2NmRHWUx1Q3R4eXRPVk9jSGFBZGs1U3czUUtiV2l6dWNILUI1allWSC11TERlU0ZGWVNXZnZ0c0t0ZkhNbFhURGNEaTZPcjMtcXNJVmVPQXRxT092VVBfbGhBZEU3ek9RUVo5R1o2djZ6ZWNQbUZFVHE2WGxQMDE0YkRJQkFMZDRDcGhhbVRnamNGTkplOWpJTGtyd1BhcUV1aUZyUC1LVXNrcnlyaUFUTG4zZ0RoMFQ5QWhtNlBBU0YtdVhOMnNV?oc=5",
-      "published": "2026-07-09 04:48",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaFY0aVFKY2NGMjBwajliTk9xVXhVc1VEYjNZNHBYbElRdDBYM0xOdzRsdndxazZteUtTRDd2TVlyOFY2SFp6VHJzMnNsV1dxeGJpY0VWQ2FCTEVMZWtvN9IBeEFVX3lxTE5wMkVrSy0wU1Etb1c3U2V1akx6RlNLcEZJU18zeWltc1Z5U0l3bksxb2J6cll2MlpGZFBObGg3aDdiQWtqNXo2UUtYUm9LeEZzY2o0WXNCaU5mVWU0YWd4bmhkSllzeEJidlV5amVkNUprYmRnOU9qdg?oc=5",
+      "published": "2026-07-10 06:30",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락",
-      "display_title": "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락",
-      "original_title": "Oil Prices Rise, and Stocks Drop Worldwide After Trump Says Ceasefire With Iran Is 'Over' - U.S. News & World Report",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3%에서 2.7%로 상향",
+      "display_title": "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3%에서 2.7%로 상향",
+      "original_title": "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3→2.7% - 네이트",
       "summary": [
-        "트럼프 전 대통령의 이란 휴전 종료 발언 이후 유가가 상승하고 전 세계 증시가 일제히 하락했다.",
-        "지정학적 긴장 고조가 원유 공급 불안정 우려를 키워 유가 상승을 초래하고, 이는 글로벌 경기 둔화 우려로 이어져 주식 시장에 부정적인 영향을 미쳤다.",
-        "글로벌 시장의 동시다발적 하락은 광범위한 리스크 회피 심리를 반영하며, 지정학적 위험이 해소될 때까지 보수적인 투자 자세를 유지해야 한다."
+        "ADB가 올해 한국의 성장률 전망치를 2.6%로 상향했으나, 물가 상승률 전망치도 2.3%에서 2.7%로 함께 상향 조정했다.",
+        "수출 호조 등에 따른 경제 회복 기대감을 반영하지만, 동시에 인플레이션 압력이 지속될 수 있음을 시사한다.",
+        "견고한 성장률은 긍정적이나, 물가 상승은 한국은행의 금리 인하 지연 가능성을 높여 금융시장에 부담을 줄 수 있다."
       ],
-      "summary_text": "트럼프 전 대통령의 이란 휴전 종료 발언 이후 유가가 상승하고 전 세계 증시가 일제히 하락했다. 지정학적 긴장 고조가 원유 공급 불안정 우려를 키워 유가 상승을 초래하고, 이는 글로벌 경기 둔화 우려로 이어져 주식 시장에 부정적인 영향을 미쳤다. 글로벌 시장의 동시다발적 하락은 광범위한 리스크 회피 심리를 반영하며, 지정학적 위험이 해소될 때까지 보수적인 투자 자세를 유지해야 한다.",
-      "description": "도널드 트럼프 전 대통령이 이란과의 휴전이 '끝났다'고 발표한 후 국제 유가가 상승하고 전 세계적으로 주식 시장이 하락했습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "ADB가 올해 한국의 성장률 전망치를 2.6%로 상향했으나, 물가 상승률 전망치도 2.3%에서 2.7%로 함께 상향 조정했다. 수출 호조 등에 따른 경제 회복 기대감을 반영하지만, 동시에 인플레이션 압력이 지속될 수 있음을 시사한다. 견고한 성장률은 긍정적이나, 물가 상승은 한국은행의 금리 인하 지연 가능성을 높여 금융시장에 부담을 줄 수 있다.",
+      "description": "아시아개발은행(ADB)이 올해 한국의 경제 성장률 전망치를 2.6%로 0.7%p 상향 조정한 반면, 물가 상승률 전망치도 2.3%에서 2.7%로 함께 상향 조정했다.",
+      "category": "국내 거시경제",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전반적 시장, 정유, 방산, 항공",
-      "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "이란 휴전 종료 소식이 유가 상승과 전 세계 증시 하락으로 이어진 것은 글로벌 경제에 대한 지정학적 리스크의 즉각적이고 광범위한 영향을 보여주므로 투자에 매우 주의해야 합니다.",
-      "key_signal": "국제 유가와 에너지 관련 원자재 가격 변동성, 그리고 각국 증시의 추가 조정 여부를 지속적으로 확인해야 합니다.",
+      "market_impact": "중립",
+      "related_sector": "증시 전반, 금융, 소비재",
+      "related_stocks": [],
+      "investment_view": "관심",
+      "investment_reason": "국내 경제 성장률 상향은 긍정적이나, 동반 물가 상승은 한국은행의 통화 정책 방향에 중요한 영향을 미쳐 시장 전반에 파급 효과를 줄 수 있기 때문이다.",
+      "key_signal": "한국은행의 통화정책 회의 결과와 소비자물가지수 발표를 통해 물가 및 금리 인상 압력 변화를 확인해야 한다.",
       "keywords": [
-        "유가상승",
-        "글로벌증시",
-        "이란",
-        "지정학적위험",
-        "시장불안"
+        "ADB",
+        "한국경제",
+        "성장률",
+        "물가상승률",
+        "한국은행"
       ],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSmV3QUlfeC1ITWd2X2t4X0FGR3A1b0ZEVnloYzh5UjViazQ4dlg5ZmxlWXhNQmpTRlRsNHc2dHdCbG9UNVpNUVFDRl9JaTYzQ0hPUTZlbEFSRjhnX2dIQVlNdUFWcUJGeUFHTHlYc1doQ2loQlllbGNkTmI0MENUaGxnTmZmYjd5OE9ScnRjX2dHejdIdHFIdVZCMXVCcThEQ01mRy1RM0tRelJKVjRYdmJNeGpoT2RiR2NoMHJocXFCX3RRYTRj?oc=5",
-      "published": "2026-07-09 04:19",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nSXJGNE5Va0JQajhyN29oUDhpdzB5aUhaTGJjRGF5R0VEV1hmMDg5aGpybWp1NW5uVUt0NWJjTllGWWZWa09Gc2IzaUxtNERIQXZJ?oc=5",
+      "published": "2026-07-09 10:32",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,37 +149,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 증시: 나스닥 상승, 다우 및 S&P 500 하락, 미-이란 긴장 고조로 유가 상승",
-      "display_title": "오늘 증시: 나스닥 상승, 다우 및 S&P 500 하락, 미-이란 긴장 고조로 유가 상승",
-      "original_title": "Stock market today: Nasdaq rises, Dow and S&P 500 retreat as oil prices climb on renewed US-Iran tensions - Yahoo! Finance Canada",
+      "title": "중동 긴장에도 불구하고 SK하이닉스, 마이크론 주도로 칩 랠리, 나스닥 1.3% 상승",
+      "display_title": "중동 긴장에도 불구하고 SK하이닉스, 마이크론 주도로 칩 랠리, 나스닥 1.3% 상승",
+      "original_title": "SK Hynix, Micron Lead Chip Rally as Nasdaq Gains 1.3% Despite Middle East Tensions - bloomingbit",
       "summary": [
-        "미 증시에서 나스닥은 상승했지만, 미-이란 긴장으로 유가가 오르면서 다우와 S&P 500은 하락했다.",
-        "지정학적 리스크(미-이란 긴장)가 고조되면서 국제 유가가 상승하고 이는 광범위한 시장 지수에 부정적인 영향을 미쳤다.",
-        "지정학적 리스크와 유가 변동성이 시장 전반에 미치는 영향을 주시하며, 에너지 관련주 및 인플레이션 민감주에 대한 투자 전략을 재고할 필요가 있다."
+        "SK하이닉스와 마이크론이 반도체 랠리를 주도하며 나스닥 지수가 1.3% 상승했다.",
+        "중동 지역의 지정학적 긴장감 속에서도 기술주, 특히 반도체 섹터의 강세가 돋보였다.",
+        "글로벌 기술주와 반도체 업종의 강세는 국내 관련 기업에도 긍정적인 영향을 미칠 수 있다."
       ],
-      "summary_text": "미 증시에서 나스닥은 상승했지만, 미-이란 긴장으로 유가가 오르면서 다우와 S&P 500은 하락했다. 지정학적 리스크(미-이란 긴장)가 고조되면서 국제 유가가 상승하고 이는 광범위한 시장 지수에 부정적인 영향을 미쳤다. 지정학적 리스크와 유가 변동성이 시장 전반에 미치는 영향을 주시하며, 에너지 관련주 및 인플레이션 민감주에 대한 투자 전략을 재고할 필요가 있다.",
-      "description": "오늘 주식 시장에서는 나스닥이 상승한 반면, 다우와 S&P 500은 하락했습니다. 이는 미국과 이란 간의 긴장이 다시 고조되면서 유가가 상승한 영향입니다.",
-      "category": "글로벌 경제",
+      "summary_text": "SK하이닉스와 마이크론이 반도체 랠리를 주도하며 나스닥 지수가 1.3% 상승했다. 중동 지역의 지정학적 긴장감 속에서도 기술주, 특히 반도체 섹터의 강세가 돋보였다. 글로벌 기술주와 반도체 업종의 강세는 국내 관련 기업에도 긍정적인 영향을 미칠 수 있다.",
+      "description": "중동 지역의 긴장 상황에도 불구하고 SK하이닉스와 마이크론이 반도체 주식 상승을 이끌며 나스닥 지수가 1.3% 상승했다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "정유, 항공, 해운, 반도체",
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT하드웨어",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "대한항공"
+        "SK하이닉스",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미-이란 긴장 고조와 유가 상승은 글로벌 경제에 불확실성을 가중시키고 시장 전반의 변동성을 높일 수 있으므로 주의 깊게 살펴봐야 합니다.",
-      "key_signal": "미-이란 관계의 추가 전개와 국제 유가 추이를 면밀히 모니터링하여 에너지 관련 섹터 및 전반적인 시장 심리에 미칠 영향을 예측해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "글로벌 반도체 업종의 강세가 국내 주요 IT 기업들의 주가에 긍정적인 모멘텀으로 작용할 수 있기 때문이다.",
+      "key_signal": "국내 반도체 관련 기업들의 주가 흐름과 외국인 투자자 동향을 주시해야 한다.",
       "keywords": [
-        "유가",
-        "지정학적위험",
-        "미증시",
-        "이란",
-        "인플레이션"
+        "반도체",
+        "나스닥",
+        "SK하이닉스",
+        "기술주",
+        "미국증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnNHT3NVZE5qX2JjX1laSkdtTE9wSGVrcTJVVVk0NXRXZDQ3N21mdUh2azVCWllqUWRZRUctZ21MLWM3d1VjcHRwRjRDT3NuUmp0cWtzX0N2X2tzSktQa2c2OE1Yc2pQbGZJSnRXeG92ZW43Nk4tUnZaNXpieHljUXJXWnRWVlNxV25uUzBwelhSbXFYWUxxQlJ6WklDWUhXcS0xb3RVNGhiWmNPRi1YUEx3?oc=5",
-      "published": "2026-07-09 05:01",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YMHppX2MycXBLYlBCYS1femREblQ2bVlTSTNId2xFOG9wRkh4N25RMEZMbmx0TkpBMUtGWm9zdmlTelZsS0pJZTIyVDVFeExVVlVjbw?oc=5",
+      "published": "2026-07-10 07:54",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,83 +187,84 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[마켓 프리뷰] 역대급 변동성에 반도체주 '털썩'…환율 1500원 하회",
-      "display_title": "[마켓 프리뷰] 역대급 변동성에 반도체주 '털썩'…환율 1500원 하회",
-      "original_title": "[마켓 프리뷰] 역대급 변동성에 반도체주 '털썩'…환율 1500원 하회 - v.daum.net",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "글로벌 중앙은행장들, 유럽중앙은행 포럼에서 선제적 안내 종료 시사",
+      "display_title": "글로벌 중앙은행장들, 유럽중앙은행 포럼에서 선제적 안내 종료 시사",
+      "original_title": "Global central bankers signal end of forward guidance at ECB’s forum - Financial Nigeria",
       "summary": [
-        "국내 증시에서 역대급 변동성이 발생하며 반도체주가 하락했고, 원/달러 환율은 1500원 아래로 하락했다.",
-        "글로벌 지정학적 위험과 유가 상승 등의 영향으로 국내 증시의 투자 심리가 위축되고, 주요 수출 품목인 반도체 업종이 직접적인 타격을 받았다.",
-        "반도체 업종의 추가 하락 가능성과 환율 변동이 수출 기업 실적에 미칠 영향을 주시하며, 시장 변동성 관리가 중요하다."
+        "글로벌 중앙은행장들이 ECB 포럼에서 통화정책에 대한 선제적 안내(포워드 가이던스) 종료 가능성을 시사했다.",
+        "이는 정책 결정의 유연성을 확보하고 시장의 과도한 기대를 관리하려는 의도로 해석될 수 있으며, 불확실성을 높일 수 있다.",
+        "중앙은행의 예측 가능성이 낮아지면서 시장 변동성이 커질 수 있으므로, 각국 중앙은행의 실제 정책 결정에 더욱 주목해야 한다."
       ],
-      "summary_text": "국내 증시에서 역대급 변동성이 발생하며 반도체주가 하락했고, 원/달러 환율은 1500원 아래로 하락했다. 글로벌 지정학적 위험과 유가 상승 등의 영향으로 국내 증시의 투자 심리가 위축되고, 주요 수출 품목인 반도체 업종이 직접적인 타격을 받았다. 반도체 업종의 추가 하락 가능성과 환율 변동이 수출 기업 실적에 미칠 영향을 주시하며, 시장 변동성 관리가 중요하다.",
-      "description": "최근 시장의 역대급 변동성으로 인해 반도체 관련 주식들이 하락세를 보였으며, 원/달러 환율은 1500원 아래로 떨어졌습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "글로벌 중앙은행장들이 ECB 포럼에서 통화정책에 대한 선제적 안내(포워드 가이던스) 종료 가능성을 시사했다. 이는 정책 결정의 유연성을 확보하고 시장의 과도한 기대를 관리하려는 의도로 해석될 수 있으며, 불확실성을 높일 수 있다. 중앙은행의 예측 가능성이 낮아지면서 시장 변동성이 커질 수 있으므로, 각국 중앙은행의 실제 정책 결정에 더욱 주목해야 한다.",
+      "description": "글로벌 중앙은행장들이 유럽중앙은행(ECB) 포럼에서 향후 통화 정책에 대한 선제적 안내(포워드 가이던스)를 종료할 것이라고 시사했다.",
+      "category": "글로벌 경제",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "반도체, IT, 통화",
+      "related_sector": "금융, 채권, 모든 시장 전반",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
       "investment_view": "주의",
-      "investment_reason": "국내 증시의 높은 변동성과 핵심 섹터인 반도체주의 약세, 그리고 환율 하락은 국내 기업 실적에 중요한 영향을 미칠 수 있으므로 주의 깊게 살펴봐야 합니다.",
-      "key_signal": "글로벌 불확실성 속에서 국내 반도체 업황의 회복 시점과 환율의 추가 변동성, 외국인 투자자의 매매 동향을 면밀히 관찰해야 합니다.",
+      "investment_reason": "중앙은행의 소통 방식 변화는 향후 금리 및 통화 정책의 불확실성을 높여 시장 변동성을 키울 수 있기 때문이다.",
+      "key_signal": "주요국 중앙은행들의 통화정책 발표와 회의록 공개 시 시장 반응을 면밀히 분석해야 한다.",
       "keywords": [
-        "국내증시",
-        "변동성",
-        "반도체주",
-        "환율",
-        "삼성전자"
+        "중앙은행",
+        "포워드가이던스",
+        "통화정책",
+        "시장변동성",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lcWhPZDdRbVhfbzBVN1A0YWNUaWEtQ011SjhEdTAxaDBKblJtV1B0WXFzN1RpQ2dHUzVIU2k2SzVCZDBYbVBLQTViYTB2RUk?oc=5",
-      "published": "2026-07-09 07:31",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFp4YndkaTNqa1VvSGM0b1hUdVF0dEpOcnFPUjQzWDgtOUNXclFYNldyemdwYkFDUXo5blZ0WGJlcEtxVGRQZ2J1Zk9CWHQ3cVhNX000T05fLU4xYUN5cUZNUEl5ZUpCMl9YaWhWOEtMb1NaMlBmV2loOXdkaTg5U1NrYjltZmR4SVBiSXZvSnhLYVJSUW5tcWV0WURCUlVQY3dEaGdCZklxX0xBeUdyUUJsOGlxRmc2MVdMcGd5cFhyT3hFYldMVHk0bWFZaDZzSG1VN3FydjhIdw?oc=5",
+      "published": "2026-07-10 02:28",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[투자노트] 삼성전자 실적이 남긴 것…이제 빅테크 어닝콜을 볼 차례",
-      "display_title": "[투자노트] 삼성전자 실적이 남긴 것…이제 빅테크 어닝콜을 볼 차례",
-      "original_title": "[투자노트] 삼성전자 실적이 남긴 것…이젠 빅테크 어닝콜을 볼 차례 - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "S&P 500과 나스닥 지수 사상 최고치 경신, 하지만 월스트리트의 두 가지 주요 위험 요인은 악화 지속",
+      "display_title": "S&P 500과 나스닥 지수 사상 최고치 경신, 하지만 월스트리트의 두 가지 주요 위험 요인은 악화 지속",
+      "original_title": "The S&P 500 and Nasdaq Composite Just Hit Record Highs -- but Wall Street's 2 Biggest Risk Factors Keep Getting Worse - AOL.com",
       "summary": [
-        "삼성전자 실적 발표가 끝난 후, 이제 투자자들은 글로벌 빅테크 기업들의 어닝콜 결과에 주목해야 한다.",
-        "삼성전자 실적은 글로벌 IT 수요와 반도체 업황의 주요 선행 지표 역할을 하며, 이후 빅테크 기업들의 실적이 전체 IT 시장 동향을 더욱 명확히 할 것이다.",
-        "글로벌 빅테크 기업들의 실적 발표는 국내 증시, 특히 기술주 및 반도체 관련 주식에 중요한 방향성을 제시할 것이므로, 실적 발표 내용을 면밀히 분석해야 한다."
+        "S&P 500과 나스닥 지수가 사상 최고치를 기록했지만, 월스트리트의 주요 위험 요인(인플레이션, 금리 상승 등)은 악화되고 있다.",
+        "시장은 단기적으로 낙관적인 흐름을 보이지만, 기저에는 인플레이션 압력과 통화 긴축 가능성 등 잠재적 위험이 도사리고 있다.",
+        "낙관적인 시장 분위기 속에서도 잠재적 위험 요인들을 간과하지 말고, 변동성 확대에 대비한 포트폴리오 관리가 중요하다."
       ],
-      "summary_text": "삼성전자 실적 발표가 끝난 후, 이제 투자자들은 글로벌 빅테크 기업들의 어닝콜 결과에 주목해야 한다. 삼성전자 실적은 글로벌 IT 수요와 반도체 업황의 주요 선행 지표 역할을 하며, 이후 빅테크 기업들의 실적이 전체 IT 시장 동향을 더욱 명확히 할 것이다. 글로벌 빅테크 기업들의 실적 발표는 국내 증시, 특히 기술주 및 반도체 관련 주식에 중요한 방향성을 제시할 것이므로, 실적 발표 내용을 면밀히 분석해야 한다.",
-      "description": "삼성전자 실적 발표가 남긴 의미를 되짚어보고, 이제는 글로벌 빅테크 기업들의 어닝콜 결과에 주목해야 할 시점임을 강조하는 투자 노트입니다.",
-      "category": "기업·산업",
+      "summary_text": "S&P 500과 나스닥 지수가 사상 최고치를 기록했지만, 월스트리트의 주요 위험 요인(인플레이션, 금리 상승 등)은 악화되고 있다. 시장은 단기적으로 낙관적인 흐름을 보이지만, 기저에는 인플레이션 압력과 통화 긴축 가능성 등 잠재적 위험이 도사리고 있다. 낙관적인 시장 분위기 속에서도 잠재적 위험 요인들을 간과하지 말고, 변동성 확대에 대비한 포트폴리오 관리가 중요하다.",
+      "description": "S&P 500과 나스닥 종합지수가 사상 최고치를 경신했음에도 불구하고, 월스트리트의 가장 큰 두 가지 위험 요인(예: 인플레이션, 금리 인상 등)은 계속해서 악화되고 있다.",
+      "category": "증시·금리",
       "importance": 8,
       "market_impact": "중립",
-      "related_sector": "반도체, IT, 소프트웨어, 클라우드",
+      "related_sector": "증시 전반, 기술주, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "삼성전자 실적을 통해 국내 IT 산업의 현재를 확인하고, 이어질 글로벌 빅테크 어닝콜을 통해 미래 IT 시장 방향성과 국내 증시의 영향을 예측할 수 있기 때문입니다.",
-      "key_signal": "마이크로소프트, 애플, 구글 등 주요 글로벌 빅테크 기업들의 어닝콜 내용과 향후 가이던스를 통해 IT 업황의 전반적인 추이를 판단해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "주요 지수 상승에도 불구하고 잠재적 거시경제 위험 요인들이 악화되고 있어 시장의 급격한 변동성 확대 가능성에 대비해야 하기 때문이다.",
+      "key_signal": "인플레이션 지표, 중앙은행 금리 정책 방향, 기업 실적 발표 등 주요 경제 지표와 시장 리스크 요인을 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "삼성전자",
-        "빅테크",
-        "어닝콜",
-        "반도체",
-        "IT업황"
+        "S&P500",
+        "나스닥",
+        "사상최고치",
+        "위험요인",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RbnItTVRsUVJReVZFRGF4OG90Qm5pZWFzUEh3dU4zVDdsdTNWNDVmUUhGLUMtOFZVeEtabDhCUGVtTVlqQ2kxcXQzaTZUQlh4bkFz?oc=5",
-      "published": "2026-07-09 07:39",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByRDdZM2lVaGx5RURGM3V5NTB2S2hiMW5CcXB2Nm8yVUhiTjd5dmhvRXhEUWxWU0I0ZEVUUUxEYk5SM3h2ME1YWGhGc0dwV05pWEw5NVFfdHhBRnM5R2ZLTWttdjIySWliTUw4bjJkb2owai1GODdSc1N3?oc=5",
+      "published": "2026-07-09 15:25",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -278,73 +273,68 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "국내 증시의 핵심 종목으로, 현재 반도체주의 높은 변동성과 향후 글로벌 빅테크 어닝콜을 통해 IT 시장의 방향성을 가늠할 중요한 지표입니다.",
+      "reason": "중동 긴장 상황 속에서도 마이크론과 함께 칩 랠리를 주도하며 나스닥 지수 상승에 기여하는 등 글로벌 반도체 업종의 강세가 국내 주요 IT 기업의 주가에 긍정적인 모멘텀으로 작용할 수 있기 때문입니다.",
       "check_points": [
-        "글로벌 빅테크 기업 어닝콜 결과 및 실적 발표",
-        "반도체 업황 회복 시그널 및 수요 동향",
-        "외국인 및 기관 투자자 매매 동향"
+        "글로벌 반도체 수요 동향",
+        "인공지능(AI) 관련 칩 시장 성장세",
+        "미국 주요 반도체 기업들의 실적 발표"
       ],
       "related_news_titles": [
-        "[마켓 프리뷰] 역대급 변동성에 반도체주 '털썩'…환율 1500원 하회",
-        "[투자노트] 삼성전자 실적이 남긴 것…이제 빅테크 어닝콜을 볼 차례"
+        "중동 긴장에도 불구하고 SK하이닉스, 마이크론 주도로 칩 랠리, 나스닥 1.3% 상승"
       ]
     },
     {
       "rank": 2,
-      "name": "SK이노베이션",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "정유",
-      "opinion": "관심",
-      "reason": "이란 휴전 종료 및 미-이란 긴장 고조로 인한 국제 유가 상승은 정유사들의 수익성에 직접적인 영향을 미칠 수 있으므로 유가 동향과 함께 주목해야 합니다.",
+      "sector": "금융 (증권)",
+      "opinion": "주의",
+      "reason": "이란 휴전 붕괴와 미국 금리 인상 확률 증가, S&P 500 및 나스닥 지수 사상 최고치 경신에도 불구하고 악화되는 월스트리트의 주요 위험 요인들이 언급되며 금융권 전반, 특히 증권 업종의 변동성 확대 가능성이 제기되고 있기 때문입니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유) 변동성 및 추이",
-        "중동 지정학적 리스크 관련 추가 뉴스",
-        "정유사 정제마진 및 재고 평가 이익 변화"
+        "미국 금리 인상 속도 및 횟수 전망",
+        "국내외 증시 변동성 확대 여부",
+        "중동 지정학적 리스크 추이"
       ],
       "related_news_titles": [
-        "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
-        "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락",
-        "오늘 증시: 나스닥 상승, 다우 및 S&P 500 하락, 미-이란 긴장 고조로 유가 상승"
+        "이란 휴전 붕괴와 금리 인상 확률 85% 도달로 다우지수 577포인트 하락",
+        "S&P 500과 나스닥 지수 사상 최고치 경신, 하지만 월스트리트의 두 가지 주요 위험 요인은 악화 지속"
       ]
     },
     {
       "rank": 3,
-      "name": "한화에어로스페이스",
+      "name": "롯데쇼핑",
       "market": "KOSPI",
-      "sector": "방산",
-      "opinion": "관심",
-      "reason": "중동 불안정 심화 및 글로벌 지정학적 리스크 고조는 방산 산업 전반에 대한 투자 심리 개선과 수혜 기대감을 높일 수 있습니다.",
+      "sector": "유통",
+      "opinion": "주의",
+      "reason": "ADB의 한국 성장률 전망 상향에도 불구하고, 서민 경제가 물가, 금리, 임금의 '삼중고'에 직면하여 국내 소비 침체 우려가 커지고 있으며, 이는 유통 및 소비재 기업의 실적에 부정적인 영향을 미칠 수 있기 때문입니다.",
       "check_points": [
-        "중동 및 글로벌 안보 상황 변화",
-        "각국 국방비 증액 관련 정책 발표",
-        "주요 방산 프로젝트 수주 소식 및 수출 동향"
+        "국내 소비자물가지수(CPI) 동향",
+        "한국은행 기준금리 인상 가능성",
+        "국내 소비 심리 지수 변화"
       ],
       "related_news_titles": [
-        "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
-        "트럼프의 이란 휴전 '종료' 발언에 다우와 나스닥 추가 하락",
-        "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락"
+        "성장률 전망 상향에도…서민 경제, 물가·금리·임금 '삼중고' 직면"
       ]
     },
     {
       "rank": 4,
-      "name": "대한항공",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "항공",
+      "sector": "금융 (은행지주)",
       "opinion": "주의",
-      "reason": "미-이란 긴장 고조로 인한 유가 상승은 항공사들의 유류비 부담을 가중시켜 실적에 부정적인 영향을 미칠 수 있으므로 주의 깊은 관찰이 필요합니다.",
+      "reason": "글로벌 중앙은행장들이 유럽중앙은행 포럼에서 선제적 안내(Forward Guidance) 종료를 시사하며 향후 통화정책 불확실성을 높이고 있으며, ADB의 국내 물가 상승 전망은 한국은행의 통화 정책 방향에 중요한 영향을 미쳐 금융 시장 전반의 변동성을 키울 수 있기 때문입니다.",
       "check_points": [
-        "국제 유가 동향 및 항공유 가격 변화",
-        "항공 화물 및 여객 수요 변동성",
-        "환율 변동이 유류비 및 부채에 미치는 영향"
+        "글로벌 주요 중앙은행들의 향후 통화정책 발표 내용",
+        "국내외 금융시장 변동성 확대 여부",
+        "한국은행의 통화정책 방향"
       ],
       "related_news_titles": [
-        "이란 전쟁 휴전이 끝났다. 이것이 주식 시장에 의미하는 바는 무엇인가.",
-        "트럼프의 이란 휴전 '종료' 발언 후 유가 상승 및 전 세계 주식 하락",
-        "오늘 증시: 나스닥 상승, 다우 및 S&P 500 하락, 미-이란 긴장 고조로 유가 상승"
+        "글로벌 중앙은행장들, 유럽중앙은행 포럼에서 선제적 안내 종료 시사",
+        "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3%에서 2.7%로 상향"
       ]
     }
   ],
