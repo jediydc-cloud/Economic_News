@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10 08:12",
-  "analysis_date": "2026-07-10",
+  "generated_at": "2026-07-11 07:59",
+  "analysis_date": "2026-07-11",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,53 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 증시는 중동 리스크와 금리 인상 우려로 하락했으나, 반도체 랠리로 일부 기술주는 강세를 보였다. 국내는 성장률 상향에도 물가 부담과 서민 경제의 어려움이 지속되며, 중앙은행의 불확실성 증가는 시장 변동성을 키울 수 있다.",
-    "국내거시경제": "ADB가 올해 한국 성장률을 2.6%로 상향했으나, 물가 전망치도 2.7%로 함께 올려 인플레이션 압박이 지속될 전망이다. 이는 가계의 물가·금리·임금 삼중고 심화로 이어져 소비 심리 위축 가능성이 크다.",
-    "글로벌경제": "글로벌 중앙은행들이 통화정책에 대한 선제적 안내(포워드 가이던스) 종료를 시사하며 정책 불확실성이 증가했다. 이는 시장의 예측 가능성을 낮춰 변동성 확대로 이어질 수 있다.",
-    "증시금리": "중동 지정학적 리스크 심화와 미국 금리 인상 확률 85% 도달로 다우지수가 급락했다. 다만, SK하이닉스·마이크론 주도 반도체 랠리로 나스닥은 상승하며 사상 최고치를 경신했다. 그러나 잠재적 위험 요인(인플레이션, 금리 상승)은 여전히 지속되고 있다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "중동 긴장 속에서도 SK하이닉스, 마이크론 등 반도체 업종이 글로벌 증시 랠리를 주도하며 국내 관련 기업에도 긍정적인 기대감을 높이고 있다.",
-    "오늘의투자시사점": "중동 지정학적 위험과 미국 통화 긴축 가능성으로 시장 변동성 확대에 대비해야 한다. 국내는 소비 심리 위축 가능성에 유의하고, 글로벌 반도체 업종의 강세는 긍정적이나 잠재적 위험 요인들을 간과하지 않는 보수적 포트폴리오 관리가 필요하다.",
-    "오늘의한줄": "글로벌 불확실성 속 기술주 강세와 국내 물가 부담 지속, 보수적 관점 유지."
+    "총평": "한국 경제 성장률 상향 조정과 AI칩 수요 폭증 소식은 긍정적입니다. 다만, 미국 증시의 실적 시즌과 지정학적 긴장은 단기 변동성을 높일 수 있습니다.",
+    "국내거시경제": "IMF와 ADB가 올해 한국 경제성장률 전망치를 1.9%에서 2.6%로 대폭 상향했습니다. 이는 반도체 수출 회복과 내수 개선 기대를 반영한 것입니다.",
+    "글로벌경제": "다음 주 대만 TSMC의 실적 발표가 예정되어 있으며, 이는 글로벌 반도체 업황 및 AI칩 수요 동향을 파악하는 핵심 지표가 될 것입니다.",
+    "증시금리": "미국 증시는 어닝 시즌과 지정학적 긴장으로 변동성 확대에 직면했습니다. 그러나 메타 급등에 힘입어 나스닥은 상승세를 보였고, 전문가들은 증시에 저평가된 유망 종목이 많다고 분석합니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "최태원 SK그룹 회장은 AI칩 공급이 고객사들의 수요를 5~6배 밑돈다고 언급하며, HBM 등 AI 반도체 시장의 폭발적인 성장세를 재확인했습니다.",
+    "오늘의투자시사점": "한국 경제의 긍정적 모멘텀과 AI 반도체 시장의 높은 성장 잠재력에 주목하며, HBM 관련 기업에 대한 지속적인 관심이 필요합니다. 동시에 미국 증시의 불확실성과 지정학적 리스크를 주시하며 변동성에 대비하고, 저평가된 성장주 발굴 기회를 모색해야 합니다.",
+    "오늘의한줄": "한국 경제의 밝은 전망과 AI 반도체 성장 기회가 공존하나, 글로벌 증시의 변동성 확대에 대한 신중한 접근이 요구됩니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "이란 휴전 붕괴와 금리 인상 확률 85% 도달로 다우지수 577포인트 하락",
-      "display_title": "이란 휴전 붕괴와 금리 인상 확률 85% 도달로 다우지수 577포인트 하락",
-      "original_title": "Dow Sheds 577 Points as Iran Ceasefire Collapses and Rate Hike Odds Hit 85% - Tech Times",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "최태원 \"AI칩 공급 늘 부족... 고객들 5~6배 증산 원해\"",
+      "display_title": "최태원 \"AI칩 공급 늘 부족... 고객들 5~6배 증산 원해\"",
+      "original_title": "최태원 \"AI칩 늘 부족…고객들 공급 5~6배 늘리길 원해\" - 한국경제",
       "summary": [
-        "이란 휴전 붕괴와 미국 금리 인상 확률 85%로 다우지수가 577포인트 급락했다.",
-        "중동 지정학적 리스크 심화와 미국 연준의 고금리 장기화 가능성이 시장에 불안감을 키우고 있다.",
-        "지정학적 위험과 통화 긴축 가능성이 높아지면서 시장 변동성이 확대될 수 있으므로 보수적인 접근이 필요하다."
+        "최태원 SK그룹 회장이 AI칩 공급 부족 현상이 심각하며, 고객사들이 현재보다 5~6배 많은 공급을 요구하고 있다고 언급했다.",
+        "이는 인공지능(AI) 기술 발전과 확산에 따른 폭발적인 AI칩 수요 증가를 방증하며, HBM 등 고성능 메모리 반도체 시장의 성장세를 뒷받침한다.",
+        "AI칩 관련 반도체 기업들의 향후 실적 성장 가능성이 매우 높음을 시사하며, HBM 등 AI 반도체 생산 기업에 대한 관심이 더욱 필요하다."
       ],
-      "summary_text": "이란 휴전 붕괴와 미국 금리 인상 확률 85%로 다우지수가 577포인트 급락했다. 중동 지정학적 리스크 심화와 미국 연준의 고금리 장기화 가능성이 시장에 불안감을 키우고 있다. 지정학적 위험과 통화 긴축 가능성이 높아지면서 시장 변동성이 확대될 수 있으므로 보수적인 접근이 필요하다.",
-      "description": "이란 휴전 협상 붕괴와 금리 인상 가능성이 85%에 달하면서 다우지수가 577포인트 급락했다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 성장주, 에너지",
+      "summary_text": "최태원 SK그룹 회장이 AI칩 공급 부족 현상이 심각하며, 고객사들이 현재보다 5~6배 많은 공급을 요구하고 있다고 언급했다. 이는 인공지능(AI) 기술 발전과 확산에 따른 폭발적인 AI칩 수요 증가를 방증하며, HBM 등 고성능 메모리 반도체 시장의 성장세를 뒷받침한다. AI칩 관련 반도체 기업들의 향후 실적 성장 가능성이 매우 높음을 시사하며, HBM 등 AI 반도체 생산 기업에 대한 관심이 더욱 필요하다.",
+      "description": "최태원 SK그룹 회장이 AI칩 공급이 여전히 부족하며 고객들이 현재보다 5~6배 더 많은 공급을 원한다고 밝혔다.",
+      "category": "기업·산업",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK하이닉스",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중동 리스크 심화와 미국 금리 인상 가능성 증가는 글로벌 증시 전반에 부정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "중동 정세 변화와 미국 연준의 금리 정책 관련 발언에 촉각을 곤두세워야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "AI칩에 대한 압도적인 수요 증가는 관련 반도체 기업들의 장기적인 성장 동력이 될 것이며, 이는 국내 핵심 기업들의 실적에 지대한 영향을 미칩니다.",
+      "key_signal": "HBM 등 AI 반도체 생산 기업들의 capa 증설 계획과 실제 공급량 추이, 그리고 AI 산업 전반의 투자 확대 여부를 지속적으로 주시해야 합니다.",
       "keywords": [
-        "다우지수",
-        "금리인상",
-        "중동",
-        "지정학적 리스크",
-        "시장변동성"
+        "AI칩",
+        "SK그룹",
+        "HBM",
+        "반도체수요",
+        "공급부족"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanR6bE1TSUVGTmZQYnpKbWRwUjlmQzJkTmNIU2syMDI1WnN4RHZCRXpmNzdHdUdobHc0V3NmQXNxTGl6X3c1VHdlT2ppUnFsUjdJZ3RWTlo3TmgzZE5OaDBVOC0yLUZVVmhiS3YzbnVJVkNvekFSUmEzcTNiMlFGVjA4VDA5UGJIVHpZSEV0TWxMYlotc2xoNXV3WnJTbDJ1SExIcDVWbnozbWlFdUhQbDRNRUlSNGxJMDZENXVoVQ?oc=5",
-      "published": "2026-07-10 03:49",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tN3ZuRTFMTW5wX0s2Qjk3LWMwc3NYLUlGdzhiOWV1d21oYWs3RDhMa08wakdLdXc5OWZUMU85TGpyV3I2a1M5WnRSeUk5VTMzY2pfZ2w5UGxtd9IBVEFVX3lxTE5hTGtxa1ZkMEowdnc2OXR5N1JCc3A5UXF2cTV6a1Rwc2s3bnFVVkprMXdwazZ3RnRyYXdEZ3UyUkxFQU0tb1lCYzNxbVItSDBJM0t1Uw?oc=5",
+      "published": "2026-07-11 02:11",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,36 +69,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "성장률 전망 상향에도…서민 경제, 물가·금리·임금 '삼중고' 직면",
-      "display_title": "성장률 전망 상향에도…서민 경제, 물가·금리·임금 '삼중고' 직면",
-      "original_title": "성장률 전망 올랐는데…서민경제, 물가·금리·임금 '삼중고’ - 뉴시스",
+      "title": "IMF·ADB, 올해 한국 경제성장률 1.9%→2.6%로 상향 전망",
+      "display_title": "IMF·ADB, 올해 한국 경제성장률 1.9%→2.6%로 상향 전망",
+      "original_title": "IMF·ADB, 올해 한국 경제성장률 1.9%→2.6%로 상향 전망 - 대한민국 정책브리핑",
       "summary": [
-        "한국의 성장률 전망은 상향되었지만, 서민 경제는 물가, 금리, 임금의 '삼중고'로 어려움을 겪고 있다.",
-        "거시 경제 지표는 개선되는 것처럼 보이나, 실질적인 가계 구매력과 체감 경기는 여전히 좋지 않음을 보여준다.",
-        "소비 심리 위축 가능성을 시사하므로 내수 관련 업종에 부정적일 수 있으며, 정부의 민생 안정 정책 방향을 주시해야 한다."
+        "IMF와 ADB가 2026년 한국 경제성장률 전망치를 1.9%에서 2.6%로 대폭 상향 조정했다.",
+        "이는 반도체 수출 회복과 내수 개선에 대한 기대를 반영한 것으로, 한국 경제의 긍정적인 모멘텀을 시사한다.",
+        "상향된 성장률 전망은 국내 기업들의 실적 개선과 투자 심리 회복에 긍정적으로 작용하며, 국내 증시에도 긍정적인 영향을 미칠 수 있다."
       ],
-      "summary_text": "한국의 성장률 전망은 상향되었지만, 서민 경제는 물가, 금리, 임금의 '삼중고'로 어려움을 겪고 있다. 거시 경제 지표는 개선되는 것처럼 보이나, 실질적인 가계 구매력과 체감 경기는 여전히 좋지 않음을 보여준다. 소비 심리 위축 가능성을 시사하므로 내수 관련 업종에 부정적일 수 있으며, 정부의 민생 안정 정책 방향을 주시해야 한다.",
-      "description": "국내 성장률 전망치가 상향 조정되었음에도 불구하고, 서민 경제는 높은 물가, 금리, 그리고 정체된 임금이라는 '삼중고'에 시달리고 있다.",
+      "summary_text": "IMF와 ADB가 2026년 한국 경제성장률 전망치를 1.9%에서 2.6%로 대폭 상향 조정했다. 이는 반도체 수출 회복과 내수 개선에 대한 기대를 반영한 것으로, 한국 경제의 긍정적인 모멘텀을 시사한다. 상향된 성장률 전망은 국내 기업들의 실적 개선과 투자 심리 회복에 긍정적으로 작용하며, 국내 증시에도 긍정적인 영향을 미칠 수 있다.",
+      "description": "국제통화기금(IMF)과 아시아개발은행(ADB)이 올해 한국의 경제성장률 전망치를 기존 1.9%에서 2.6%로 상향 조정했습니다.",
       "category": "국내 거시경제",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "유통, 소비재, 금융",
+      "market_impact": "긍정",
+      "related_sector": "전반적인 국내 경제",
       "related_stocks": [
-        "롯데쇼핑",
-        "신세계"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "서민 경제의 어려움은 국내 소비 침체로 이어져 내수 관련 기업의 실적에 부정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "정부의 물가 안정 및 서민 지원 정책 방향과 소매 판매 지표 등 내수 관련 경제 지표를 확인해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "주요 국제기구의 경제성장률 상향 조정은 한국 경제의 펀더멘털 개선을 의미하며, 국내 증시 전반에 긍정적인 투자 심리를 형성할 수 있습니다.",
+      "key_signal": "성장률 상향 조정의 근거가 된 반도체 등 주요 수출 산업의 동향과 내수 회복세를 지속적으로 확인해야 합니다.",
       "keywords": [
-        "성장률",
-        "물가",
-        "금리",
-        "임금",
-        "서민경제"
+        "한국경제",
+        "경제성장률",
+        "IMF",
+        "ADB",
+        "반도체수출"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaFY0aVFKY2NGMjBwajliTk9xVXhVc1VEYjNZNHBYbElRdDBYM0xOdzRsdndxazZteUtTRDd2TVlyOFY2SFp6VHJzMnNsV1dxeGJpY0VWQ2FCTEVMZWtvN9IBeEFVX3lxTE5wMkVrSy0wU1Etb1c3U2V1akx6RlNLcEZJU18zeWltc1Z5U0l3bksxb2J6cll2MlpGZFBObGg3aDdiQWtqNXo2UUtYUm9LeEZzY2o0WXNCaU5mVWU0YWd4bmhkSllzeEJidlV5amVkNUprYmRnOU9qdg?oc=5",
-      "published": "2026-07-10 06:30",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xYmZBbThiRURLUm1GcUJ1ZWhSNmwtRjB3Y083dXFMOERnamZ1bFFJWXdvVmZIV1dJdkVtYUhSNkVKSWRlS1lxeS1YTy1scEVBRWJteEE3NU5DZHdFdE1PUEpkYWdGaDJsNTBkWA?oc=5",
+      "published": "2026-07-11 06:01",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -108,38 +107,42 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3%에서 2.7%로 상향",
-      "display_title": "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3%에서 2.7%로 상향",
-      "original_title": "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3→2.7% - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "다음 주 TSMC 실적 발표: 2.3조 달러 시가총액 방향을 좌우할 7가지 핵심 질문",
+      "display_title": "다음 주 TSMC 실적 발표: 2.3조 달러 시가총액 방향을 좌우할 7가지 핵심 질문",
+      "original_title": "TSMC Earnings Call Next Week: Seven Key Questions to Dictate the Direction of Its $2.3 Trillion Market Cap - finance.biggo.com",
       "summary": [
-        "ADB가 올해 한국의 성장률 전망치를 2.6%로 상향했으나, 물가 상승률 전망치도 2.3%에서 2.7%로 함께 상향 조정했다.",
-        "수출 호조 등에 따른 경제 회복 기대감을 반영하지만, 동시에 인플레이션 압력이 지속될 수 있음을 시사한다.",
-        "견고한 성장률은 긍정적이나, 물가 상승은 한국은행의 금리 인하 지연 가능성을 높여 금융시장에 부담을 줄 수 있다."
+        "다음 주 대만 TSMC의 실적 발표가 예정되어 있으며, 이는 2.3조 달러에 달하는 시가총액의 방향을 좌우할 핵심적인 이벤트이다.",
+        "TSMC는 글로벌 반도체 산업의 핵심 파운드리 기업으로, 그 실적과 가이던스는 전 세계 기술 산업 및 공급망에 막대한 영향을 미친다.",
+        "TSMC의 실적 발표 내용을 통해 AI칩 수요, 글로벌 반도체 업황, 그리고 첨단 파운드리 기술 경쟁 동향을 파악하고 국내 관련 기업 투자에 참고해야 한다."
       ],
-      "summary_text": "ADB가 올해 한국의 성장률 전망치를 2.6%로 상향했으나, 물가 상승률 전망치도 2.3%에서 2.7%로 함께 상향 조정했다. 수출 호조 등에 따른 경제 회복 기대감을 반영하지만, 동시에 인플레이션 압력이 지속될 수 있음을 시사한다. 견고한 성장률은 긍정적이나, 물가 상승은 한국은행의 금리 인하 지연 가능성을 높여 금융시장에 부담을 줄 수 있다.",
-      "description": "아시아개발은행(ADB)이 올해 한국의 경제 성장률 전망치를 2.6%로 0.7%p 상향 조정한 반면, 물가 상승률 전망치도 2.3%에서 2.7%로 함께 상향 조정했다.",
-      "category": "국내 거시경제",
+      "summary_text": "다음 주 대만 TSMC의 실적 발표가 예정되어 있으며, 이는 2.3조 달러에 달하는 시가총액의 방향을 좌우할 핵심적인 이벤트이다. TSMC는 글로벌 반도체 산업의 핵심 파운드리 기업으로, 그 실적과 가이던스는 전 세계 기술 산업 및 공급망에 막대한 영향을 미친다. TSMC의 실적 발표 내용을 통해 AI칩 수요, 글로벌 반도체 업황, 그리고 첨단 파운드리 기술 경쟁 동향을 파악하고 국내 관련 기업 투자에 참고해야 한다.",
+      "description": "다음 주 예정된 TSMC의 실적 발표 컨퍼런스 콜에서 2.3조 달러에 달하는 시가총액의 향방을 결정할 7가지 핵심 질문에 주목해야 합니다.",
+      "category": "기업·산업",
       "importance": 9,
       "market_impact": "중립",
-      "related_sector": "증시 전반, 금융, 소비재",
-      "related_stocks": [],
-      "investment_view": "관심",
-      "investment_reason": "국내 경제 성장률 상향은 긍정적이나, 동반 물가 상승은 한국은행의 통화 정책 방향에 중요한 영향을 미쳐 시장 전반에 파급 효과를 줄 수 있기 때문이다.",
-      "key_signal": "한국은행의 통화정책 회의 결과와 소비자물가지수 발표를 통해 물가 및 금리 인상 압력 변화를 확인해야 한다.",
-      "keywords": [
-        "ADB",
-        "한국경제",
-        "성장률",
-        "물가상승률",
-        "한국은행"
+      "related_sector": "반도체",
+      "related_stocks": [
+        "TSMC",
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nSXJGNE5Va0JQajhyN29oUDhpdzB5aUhaTGJjRGF5R0VEV1hmMDg5aGpybWp1NW5uVUt0NWJjTllGWWZWa09Gc2IzaUxtNERIQXZJ?oc=5",
-      "published": "2026-07-09 10:32",
+      "investment_view": "관심",
+      "investment_reason": "TSMC의 실적 발표는 글로벌 반도체 시장의 방향성을 제시하고, 국내 주요 반도체 기업들의 투자 심리 및 실적 전망에 직접적인 영향을 주기 때문입니다.",
+      "key_signal": "TSMC 실적 발표 시 제시될 AI칩 수요 전망, 생산능력, 마진율 등 핵심 지표와 가이던스를 면밀히 분석해야 합니다.",
+      "keywords": [
+        "TSMC",
+        "반도체",
+        "실적발표",
+        "AI칩",
+        "파운드리"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JLWt1aE5YcEl2WHdyTHI4RVVZMEt4QVZRc0gzNWNURGMxcnltQU5UUE5fR2dPenhxSkZ5R1dyckJ5SUdWd2FRMnFzSjdBNUxfYWdNY2hwdUtIU2RZSDRPXzBvTTlYY2diamJoT21kTTIxYkRPTFE?oc=5",
+      "published": "2026-07-10 18:46",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -149,36 +152,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "중동 긴장에도 불구하고 SK하이닉스, 마이크론 주도로 칩 랠리, 나스닥 1.3% 상승",
-      "display_title": "중동 긴장에도 불구하고 SK하이닉스, 마이크론 주도로 칩 랠리, 나스닥 1.3% 상승",
-      "original_title": "SK Hynix, Micron Lead Chip Rally as Nasdaq Gains 1.3% Despite Middle East Tensions - bloomingbit",
+      "title": "미국 증시, 실적 발표와 지정학적 긴장 속 주요 시험대 직면",
+      "display_title": "미국 증시, 실적 발표와 지정학적 긴장 속 주요 시험대 직면",
+      "original_title": "U.S. Stock Market Faces Major Tests Amid Earnings and Geopolitical Tensions - Devdiscourse",
       "summary": [
-        "SK하이닉스와 마이크론이 반도체 랠리를 주도하며 나스닥 지수가 1.3% 상승했다.",
-        "중동 지역의 지정학적 긴장감 속에서도 기술주, 특히 반도체 섹터의 강세가 돋보였다.",
-        "글로벌 기술주와 반도체 업종의 강세는 국내 관련 기업에도 긍정적인 영향을 미칠 수 있다."
+        "미국 증시가 어닝 시즌과 지정학적 긴장이라는 두 가지 주요 불확실성에 직면해 있다.",
+        "기업들의 실적 발표는 시장의 향방을 결정하는 중요한 변수이며, 중동이나 아시아 등 전 세계 지정학적 리스크는 투자 심리를 위축시킬 수 있다.",
+        "변동성 확대에 대비하여 기업 실적 발표 내용을 면밀히 분석하고 지정학적 이슈의 전개를 주시하며 방어적인 포트폴리오 전략을 고려해야 한다."
       ],
-      "summary_text": "SK하이닉스와 마이크론이 반도체 랠리를 주도하며 나스닥 지수가 1.3% 상승했다. 중동 지역의 지정학적 긴장감 속에서도 기술주, 특히 반도체 섹터의 강세가 돋보였다. 글로벌 기술주와 반도체 업종의 강세는 국내 관련 기업에도 긍정적인 영향을 미칠 수 있다.",
-      "description": "중동 지역의 긴장 상황에도 불구하고 SK하이닉스와 마이크론이 반도체 주식 상승을 이끌며 나스닥 지수가 1.3% 상승했다.",
+      "summary_text": "미국 증시가 어닝 시즌과 지정학적 긴장이라는 두 가지 주요 불확실성에 직면해 있다. 기업들의 실적 발표는 시장의 향방을 결정하는 중요한 변수이며, 중동이나 아시아 등 전 세계 지정학적 리스크는 투자 심리를 위축시킬 수 있다. 변동성 확대에 대비하여 기업 실적 발표 내용을 면밀히 분석하고 지정학적 이슈의 전개를 주시하며 방어적인 포트폴리오 전략을 고려해야 한다.",
+      "description": "미국 증시가 기업 실적 발표 시즌과 지정학적 긴장이라는 두 가지 주요 요인으로 인해 중요한 시험대에 놓였습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT하드웨어",
-      "related_stocks": [
-        "SK하이닉스",
-        "삼성전자"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 반도체 업종의 강세가 국내 주요 IT 기업들의 주가에 긍정적인 모멘텀으로 작용할 수 있기 때문이다.",
-      "key_signal": "국내 반도체 관련 기업들의 주가 흐름과 외국인 투자자 동향을 주시해야 한다.",
+      "market_impact": "부정",
+      "related_sector": "전반적인 증시",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "기업 실적과 지정학적 리스크는 글로벌 증시 전반의 변동성을 키우고 투자 심리에 직접적인 영향을 미치기 때문입니다.",
+      "key_signal": "주요 기업들의 실적 발표 내용과 지정학적 긴장 완화 또는 심화 여부를 면밀히 모니터링해야 합니다.",
       "keywords": [
-        "반도체",
-        "나스닥",
-        "SK하이닉스",
-        "기술주",
-        "미국증시"
+        "미국증시",
+        "어닝시즌",
+        "지정학적위험",
+        "시장변동성",
+        "투자심리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YMHppX2MycXBLYlBCYS1femREblQ2bVlTSTNId2xFOG9wRkh4N25RMEZMbmx0TkpBMUtGWm9zdmlTelZsS0pJZTIyVDVFeExVVlVjbw?oc=5",
-      "published": "2026-07-10 07:54",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYklVVUNUNGo5S2xyMk9HTDVCU3pDZFJZMDR1Tnl5aUw0UFhzd01IbFF3cElUdzRqWFJBcW13WWUtdlVYa2ZNY2FxZC1SbGhGaVh5OWNlX3lITmkxZ2pXbXFQMjY5RmJWRGFzcjNpaXU4ZGR1a3ZCN3BjYWp2LTdGRnVINm5QVm5qejhvblVIbk15Sk9xU0piYWROQ0Q2d0NzLWYyZkRiQzVLOVFYRGNPakNNOUhlNmJ1aWUxa1UwTkZSTm1KRUZHQXRCRdIBywFBVV95cUxQYklVVUNUNGo5S2xyMk9HTDVCU3pDZFJZMDR1Tnl5aUw0UFhzd01IbFF3cElUdzRqWFJBcW13WWUtdlVYa2ZNY2FxZC1SbGhGaVh5OWNlX3lITmkxZ2pXbXFQMjY5RmJWRGFzcjNpaXU4ZGR1a3ZCN3BjYWp2LTdGRnVINm5QVm5qejhvblVIbk15Sk9xU0piYWROQ0Q2d0NzLWYyZkRiQzVLOVFYRGNPakNNOUhlNmJ1aWUxa1UwTkZSTm1KRUZHQXRCRQ?oc=5",
+      "published": "2026-07-11 05:22",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -190,37 +190,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "글로벌 중앙은행장들, 유럽중앙은행 포럼에서 선제적 안내 종료 시사",
-      "display_title": "글로벌 중앙은행장들, 유럽중앙은행 포럼에서 선제적 안내 종료 시사",
-      "original_title": "Global central bankers signal end of forward guidance at ECB’s forum - Financial Nigeria",
+      "title": "나스닥 지수, SP500, 다우존스 전망 – 메타 6.2% 급등에 나스닥 상승세",
+      "display_title": "나스닥 지수, SP500, 다우존스 전망 – 메타 6.2% 급등에 나스닥 상승세",
+      "original_title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Gains Ground As Meta Rallies 6.2% - FXEmpire",
       "summary": [
-        "글로벌 중앙은행장들이 ECB 포럼에서 통화정책에 대한 선제적 안내(포워드 가이던스) 종료 가능성을 시사했다.",
-        "이는 정책 결정의 유연성을 확보하고 시장의 과도한 기대를 관리하려는 의도로 해석될 수 있으며, 불확실성을 높일 수 있다.",
-        "중앙은행의 예측 가능성이 낮아지면서 시장 변동성이 커질 수 있으므로, 각국 중앙은행의 실제 정책 결정에 더욱 주목해야 한다."
+        "메타(Meta) 주가가 6.2% 급등하며 나스닥 지수 상승을 견인했다.",
+        "특정 대형 기술주의 강세가 지수 전체에 긍정적인 영향을 미칠 수 있음을 보여주며, 시장의 기술주 투자 심리가 여전히 강함을 시사한다.",
+        "기술주 중심의 미국 증시 흐름을 이해하고, 실적 발표 시즌에 개별 기술 기업들의 성과가 지수에 미칠 영향을 주시해야 한다."
       ],
-      "summary_text": "글로벌 중앙은행장들이 ECB 포럼에서 통화정책에 대한 선제적 안내(포워드 가이던스) 종료 가능성을 시사했다. 이는 정책 결정의 유연성을 확보하고 시장의 과도한 기대를 관리하려는 의도로 해석될 수 있으며, 불확실성을 높일 수 있다. 중앙은행의 예측 가능성이 낮아지면서 시장 변동성이 커질 수 있으므로, 각국 중앙은행의 실제 정책 결정에 더욱 주목해야 한다.",
-      "description": "글로벌 중앙은행장들이 유럽중앙은행(ECB) 포럼에서 향후 통화 정책에 대한 선제적 안내(포워드 가이던스)를 종료할 것이라고 시사했다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "금융, 채권, 모든 시장 전반",
+      "summary_text": "메타(Meta) 주가가 6.2% 급등하며 나스닥 지수 상승을 견인했다. 특정 대형 기술주의 강세가 지수 전체에 긍정적인 영향을 미칠 수 있음을 보여주며, 시장의 기술주 투자 심리가 여전히 강함을 시사한다. 기술주 중심의 미국 증시 흐름을 이해하고, 실적 발표 시즌에 개별 기술 기업들의 성과가 지수에 미칠 영향을 주시해야 한다.",
+      "description": "메타(Meta) 주가가 6.2% 급등하면서 나스닥 지수가 상승세를 보였으며, SP500 및 다우존스 지수 전망도 함께 제시되었습니다.",
+      "category": "증시·금리",
+      "importance": 7,
+      "market_impact": "긍정",
+      "related_sector": "IT",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "Meta Platforms"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중앙은행의 소통 방식 변화는 향후 금리 및 통화 정책의 불확실성을 높여 시장 변동성을 키울 수 있기 때문이다.",
-      "key_signal": "주요국 중앙은행들의 통화정책 발표와 회의록 공개 시 시장 반응을 면밀히 분석해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "대형 기술주의 움직임은 나스닥을 비롯한 주요 지수에 큰 영향을 미치므로 시장 전체의 방향성을 파악하는 데 중요합니다.",
+      "key_signal": "주요 기술 기업들의 실적 발표와 이들의 주가 흐름이 미국 증시에 미치는 영향을 지속적으로 관찰해야 합니다.",
       "keywords": [
-        "중앙은행",
-        "포워드가이던스",
-        "통화정책",
-        "시장변동성",
-        "금리"
+        "나스닥",
+        "메타",
+        "기술주",
+        "SP500",
+        "주가지수"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFp4YndkaTNqa1VvSGM0b1hUdVF0dEpOcnFPUjQzWDgtOUNXclFYNldyemdwYkFDUXo5blZ0WGJlcEtxVGRQZ2J1Zk9CWHQ3cVhNX000T05fLU4xYUN5cUZNUEl5ZUpCMl9YaWhWOEtMb1NaMlBmV2loOXdkaTg5U1NrYjltZmR4SVBiSXZvSnhLYVJSUW5tcWV0WURCUlVQY3dEaGdCZklxX0xBeUdyUUJsOGlxRmc2MVdMcGd5cFhyT3hFYldMVHk0bWFZaDZzSG1VN3FydjhIdw?oc=5",
-      "published": "2026-07-10 02:28",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXFyMVJIbkhZRnhKTTk1REl0RUtEMnN0d3JWOFRtaU42UWtUS1pjbjJoU3NwN25zWFBBU09PazdPdFV6YVBBRFktYzhia09Gdk1jNDc1WFB5OUxKaWNmM3JEeXdMWTZoN2dXX1VNSDFaUzh1ZWxfQkdRdWU2dS1LWE1WQ2VlMDg4T0pSZm1jdWhycTUyTFY5WUF1VGVueUI1d045SG9vRDRiRzRZYkRiNDMyZFV1dVNUVVhkbEFUWjlPQWpJaDlJSg?oc=5",
+      "published": "2026-07-11 04:04",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -232,37 +230,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500과 나스닥 지수 사상 최고치 경신, 하지만 월스트리트의 두 가지 주요 위험 요인은 악화 지속",
-      "display_title": "S&P 500과 나스닥 지수 사상 최고치 경신, 하지만 월스트리트의 두 가지 주요 위험 요인은 악화 지속",
-      "original_title": "The S&P 500 and Nasdaq Composite Just Hit Record Highs -- but Wall Street's 2 Biggest Risk Factors Keep Getting Worse - AOL.com",
+      "title": "전문가들은 증시에 저평가된 종목이 많다고 말한다. 하반기 유망주 45개 선정.",
+      "display_title": "전문가들은 증시에 저평가된 종목이 많다고 말한다. 하반기 유망주 45개 선정.",
+      "original_title": "The Stock Market Is Full of Bargains, Our Roundtable Pros Say. 45 Picks for the Second Half. - Barron's",
       "summary": [
-        "S&P 500과 나스닥 지수가 사상 최고치를 기록했지만, 월스트리트의 주요 위험 요인(인플레이션, 금리 상승 등)은 악화되고 있다.",
-        "시장은 단기적으로 낙관적인 흐름을 보이지만, 기저에는 인플레이션 압력과 통화 긴축 가능성 등 잠재적 위험이 도사리고 있다.",
-        "낙관적인 시장 분위기 속에서도 잠재적 위험 요인들을 간과하지 말고, 변동성 확대에 대비한 포트폴리오 관리가 중요하다."
+        "배런스 전문가들이 현 주식 시장에 매력적인 저평가 종목들이 많으며, 하반기를 위한 45개 유망주를 선정했다.",
+        "시장의 단기적인 변동성에도 불구하고, 장기적인 관점에서 성장 가능성이 높은 기업들이 저평가되어 있을 수 있다는 시각을 제시한다.",
+        "전문가들의 분석을 참고하여 개별 기업의 펀더멘털을 분석하고, 장기적인 성장 잠재력을 가진 저평가 종목을 발굴하는 기회로 삼을 수 있다."
       ],
-      "summary_text": "S&P 500과 나스닥 지수가 사상 최고치를 기록했지만, 월스트리트의 주요 위험 요인(인플레이션, 금리 상승 등)은 악화되고 있다. 시장은 단기적으로 낙관적인 흐름을 보이지만, 기저에는 인플레이션 압력과 통화 긴축 가능성 등 잠재적 위험이 도사리고 있다. 낙관적인 시장 분위기 속에서도 잠재적 위험 요인들을 간과하지 말고, 변동성 확대에 대비한 포트폴리오 관리가 중요하다.",
-      "description": "S&P 500과 나스닥 종합지수가 사상 최고치를 경신했음에도 불구하고, 월스트리트의 가장 큰 두 가지 위험 요인(예: 인플레이션, 금리 인상 등)은 계속해서 악화되고 있다.",
+      "summary_text": "배런스 전문가들이 현 주식 시장에 매력적인 저평가 종목들이 많으며, 하반기를 위한 45개 유망주를 선정했다. 시장의 단기적인 변동성에도 불구하고, 장기적인 관점에서 성장 가능성이 높은 기업들이 저평가되어 있을 수 있다는 시각을 제시한다. 전문가들의 분석을 참고하여 개별 기업의 펀더멘털을 분석하고, 장기적인 성장 잠재력을 가진 저평가 종목을 발굴하는 기회로 삼을 수 있다.",
+      "description": "배런스 라운드테이블 전문가들은 현재 주식 시장에 저평가된 투자 기회가 많으며, 하반기 유망 종목 45개를 선정했습니다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "증시 전반, 기술주, 금융",
+      "importance": 7,
+      "market_impact": "긍정",
+      "related_sector": "전반적인 증시",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "주요 지수 상승에도 불구하고 잠재적 거시경제 위험 요인들이 악화되고 있어 시장의 급격한 변동성 확대 가능성에 대비해야 하기 때문이다.",
-      "key_signal": "인플레이션 지표, 중앙은행 금리 정책 방향, 기업 실적 발표 등 주요 경제 지표와 시장 리스크 요인을 지속적으로 모니터링해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "전문가들의 구체적인 투자 아이디어는 하반기 포트폴리오 재편 및 저평가 종목 발굴에 중요한 참고 자료가 될 수 있기 때문입니다.",
+      "key_signal": "해당 기사에 제시된 종목들의 투자 근거와 현재 가치를 면밀히 분석하고, 자신의 투자 전략과 부합하는지 검토해야 합니다.",
       "keywords": [
-        "S&P500",
-        "나스닥",
-        "사상최고치",
-        "위험요인",
-        "인플레이션"
+        "저평가주",
+        "유망주",
+        "하반기투자",
+        "시장전망",
+        "투자전략"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByRDdZM2lVaGx5RURGM3V5NTB2S2hiMW5CcXB2Nm8yVUhiTjd5dmhvRXhEUWxWU0I0ZEVUUUxEYk5SM3h2ME1YWGhGc0dwV05pWEw5NVFfdHhBRnM5R2ZLTWttdjIySWliTUw4bjJkb2owai1GODdSc1N3?oc=5",
-      "published": "2026-07-09 15:25",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakROenp3WGN2V0ticVhJYkpYbGJQd2d6LWZTc29pS2xYZWczeHI0N0s2Nm1CVXZ1amNWTlNDWnpQbXJUdDdGeW5RUGZ4RnVERWFMZHVzd2JEVWo1cmZxS3lTZEY4emU2R25VMlRtcFcyZmlwM2N4YUphMWlLMVZBMUR0aw?oc=5",
+      "published": "2026-07-11 03:09",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -273,68 +271,72 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "SK하이닉스",
+      "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "중동 긴장 상황 속에서도 마이크론과 함께 칩 랠리를 주도하며 나스닥 지수 상승에 기여하는 등 글로벌 반도체 업종의 강세가 국내 주요 IT 기업의 주가에 긍정적인 모멘텀으로 작용할 수 있기 때문입니다.",
+      "reason": "최태원 회장의 AI칩 수요 급증 발언과 IMF·ADB의 한국 경제성장률 상향 전망 등 긍정적 뉴스에 다수 언급되며, 글로벌 반도체 업황의 핵심 지표인 TSMC 실적 발표의 영향권에 있어 주목됩니다.",
       "check_points": [
-        "글로벌 반도체 수요 동향",
-        "인공지능(AI) 관련 칩 시장 성장세",
-        "미국 주요 반도체 기업들의 실적 발표"
+        "AI칩(HBM) 생산 및 수주 동향",
+        "TSMC 실적 발표가 파운드리 및 메모리 시장에 미치는 영향",
+        "글로벌 경기 회복에 따른 스마트폰 등 전방산업 수요 변화"
       ],
       "related_news_titles": [
-        "중동 긴장에도 불구하고 SK하이닉스, 마이크론 주도로 칩 랠리, 나스닥 1.3% 상승"
+        "최태원 \"AI칩 공급 늘 부족... 고객들 5~6배 증산 원해\"",
+        "IMF·ADB, 올해 한국 경제성장률 1.9%→2.6%로 상향 전망",
+        "다음 주 TSMC 실적 발표: 2.3조 달러 시가총액 방향을 좌우할 7가지 핵심 질문"
       ]
     },
     {
       "rank": 2,
-      "name": "미래에셋증권",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "금융 (증권)",
-      "opinion": "주의",
-      "reason": "이란 휴전 붕괴와 미국 금리 인상 확률 증가, S&P 500 및 나스닥 지수 사상 최고치 경신에도 불구하고 악화되는 월스트리트의 주요 위험 요인들이 언급되며 금융권 전반, 특히 증권 업종의 변동성 확대 가능성이 제기되고 있기 때문입니다.",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "최태원 회장의 AI칩 증산 발언으로 고대역폭 메모리(HBM) 시장의 압도적인 수요가 재확인되어 실적 개선 기대감이 높으며, 국내 경제성장률 상향과 TSMC 실적 발표 등 반도체 업황 전반에 긍정적인 모멘텀을 가집니다.",
       "check_points": [
-        "미국 금리 인상 속도 및 횟수 전망",
-        "국내외 증시 변동성 확대 여부",
-        "중동 지정학적 리스크 추이"
+        "HBM 생산 능력 확대 및 수율 개선",
+        "주요 고객사 AI 서버 투자 확대 여부",
+        "글로벌 D램 가격 동향"
       ],
       "related_news_titles": [
-        "이란 휴전 붕괴와 금리 인상 확률 85% 도달로 다우지수 577포인트 하락",
-        "S&P 500과 나스닥 지수 사상 최고치 경신, 하지만 월스트리트의 두 가지 주요 위험 요인은 악화 지속"
+        "최태원 \"AI칩 공급 늘 부족... 고객들 5~6배 증산 원해\"",
+        "IMF·ADB, 올해 한국 경제성장률 1.9%→2.6%로 상향 전망",
+        "다음 주 TSMC 실적 발표: 2.3조 달러 시가총액 방향을 좌우할 7가지 핵심 질문"
       ]
     },
     {
       "rank": 3,
-      "name": "롯데쇼핑",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "유통",
-      "opinion": "주의",
-      "reason": "ADB의 한국 성장률 전망 상향에도 불구하고, 서민 경제가 물가, 금리, 임금의 '삼중고'에 직면하여 국내 소비 침체 우려가 커지고 있으며, 이는 유통 및 소비재 기업의 실적에 부정적인 영향을 미칠 수 있기 때문입니다.",
+      "sector": "IT 서비스",
+      "opinion": "관심",
+      "reason": "전문가들이 하반기 유망주 및 저평가 종목으로 선정하며 투자 매력이 부각되고 있으며, 미국 나스닥 대형 기술주 강세가 국내 IT 기업 투자심리에도 긍정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "국내 소비자물가지수(CPI) 동향",
-        "한국은행 기준금리 인상 가능성",
-        "국내 소비 심리 지수 변화"
+        "커머스, 핀테크 등 주요 사업 부문 성장률",
+        "신규 AI 서비스 출시 및 수익화 동향",
+        "광고 시장 회복세"
       ],
       "related_news_titles": [
-        "성장률 전망 상향에도…서민 경제, 물가·금리·임금 '삼중고' 직면"
+        "나스닥 지수, SP500, 다우존스 전망 – 메타 6.2% 급등에 나스닥 상승세",
+        "전문가들은 증시에 저평가된 종목이 많다고 말한다. 하반기 유망주 45개 선정."
       ]
     },
     {
       "rank": 4,
-      "name": "KB금융",
+      "name": "카카오",
       "market": "KOSPI",
-      "sector": "금융 (은행지주)",
-      "opinion": "주의",
-      "reason": "글로벌 중앙은행장들이 유럽중앙은행 포럼에서 선제적 안내(Forward Guidance) 종료를 시사하며 향후 통화정책 불확실성을 높이고 있으며, ADB의 국내 물가 상승 전망은 한국은행의 통화 정책 방향에 중요한 영향을 미쳐 금융 시장 전반의 변동성을 키울 수 있기 때문입니다.",
+      "sector": "IT 서비스",
+      "opinion": "관심",
+      "reason": "전문가들이 하반기 유망주로 지목한 저평가 종목 중 하나로, 실적 개선과 함께 플랫폼 사업의 안정적인 성장을 기대할 수 있으며, 전반적인 IT 및 기술주에 대한 긍정적 분위기 속에서 주목할 필요가 있습니다.",
       "check_points": [
-        "글로벌 주요 중앙은행들의 향후 통화정책 발표 내용",
-        "국내외 금융시장 변동성 확대 여부",
-        "한국은행의 통화정책 방향"
+        "카카오톡 선물하기, 광고 등 핵심 플랫폼 수익성",
+        "신사업 추진 및 투자 계획",
+        "SM엔터테인먼트 등 투자 자회사 가치 변화"
       ],
       "related_news_titles": [
-        "글로벌 중앙은행장들, 유럽중앙은행 포럼에서 선제적 안내 종료 시사",
-        "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3%에서 2.7%로 상향"
+        "나스닥 지수, SP500, 다우존스 전망 – 메타 6.2% 급등에 나스닥 상승세",
+        "전문가들은 증시에 저평가된 종목이 많다고 말한다. 하반기 유망주 45개 선정."
       ]
     }
   ],
