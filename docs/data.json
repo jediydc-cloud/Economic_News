@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13 07:47",
-  "analysis_date": "2026-07-13",
+  "generated_at": "2026-07-14 07:57",
+  "analysis_date": "2026-07-14",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,50 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미 연준의 강력한 인플레이션 억제 의지와 주요 지표 발표가 임박하면서 국내외 시장의 변동성 확대가 예상됩니다. 국내 증시는 하반기 기대감 속 환율·금리 부담이 교차하는 상황입니다.",
-    "국내거시경제": "하반기 코스피는 최고 12600포인트까지 상승할 수 있다는 긍정적 전망이 나오지만, 금리, 환율, 중동 지정학적 리스크가 변수로 작용합니다. 한편, 코스닥 시장은 고환율과 고금리라는 이중고에 직면하며 반등 시점에 대한 우려가 커지고 있습니다.",
-    "글로벌경제": "미국 CPI 발표가 월스트리트의 향후 랠리를 결정할 핵심 변수로 작용할 전망입니다. 연준은 의회에 \"인플레이션을 반드시 잡겠다\"는 강력한 메시지를 전달하며, 물가 안정을 위한 긴축 정책 지속 의지를 재확인했습니다.",
-    "증시금리": "연준 의장과 FOMC의 핵심 발언이 금융 시장의 판도를 바꿀 잠재적 신호로 주목받고 있습니다. 다음 주 화요일에는 미국 CPI, 주요 은행 실적, 연준 발표가 90분 내에 집중되어 시장의 단기 변동성 확대를 예고합니다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "높은 환율과 금리 환경은 국내 기업들의 자금 조달 및 실적에 부정적 영향을 미칠 수 있습니다. 특히 성장주 중심의 코스닥 기업들은 이러한 거시경제 변수에 더욱 민감할 것으로 예상됩니다.",
-    "오늘의투자시사점": "다음 주 집중된 미국 경제 지표와 연준 발언을 예의주시하며 시장의 단기 변동성 확대에 대비해야 합니다. 국내 증시는 거시경제 변수에 민감하게 반응할 수 있으므로, 유연한 전략과 개별 기업 펀더멘털 점검을 통해 신중하게 접근해야 합니다.",
-    "오늘의한줄": "연준의 긴축 의지와 주요 경제 지표 발표가 임박한 가운데, 국내외 시장의 변동성 확대에 대비하며 신중한 투자 전략을 유지해야 합니다."
+    "총평": "국내외 증시는 반도체 약세, AI 시장 과열 우려, 지정학적 긴장 고조가 맞물려 하락했습니다. SK하이닉스 등 주요 기술주는 밸류에이션 부담에 직면했습니다.",
+    "국내거시경제": "AI 반도체 선두 기업인 SK하이닉스의 급락은 국내 증시 투자 심리에 부정적 영향을 미쳤습니다.",
+    "글로벌경제": "미국-이란 긴장 고조 및 불안정한 국제 정세가 글로벌 시장의 불확실성을 키우고 있습니다.",
+    "증시금리": "미국 증시는 기술주와 반도체 약세로 하락했으며, 국내 SK하이닉스도 큰 폭으로 떨어졌습니다. AI 시장 변동성이 증시 전반의 위험 요인으로 작용했습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "AI 인프라 과잉 공급 우려가 확산되며 반도체 기업들에 대한 매도세가 나타났습니다. 테슬라 등 고성장 기술주의 밸류에이션에 대한 신중론도 제기됩니다.",
+    "오늘의투자시사점": "AI 반도체 섹터의 과열 기대 심리를 경계하고, 기업의 펀더멘털과 실제 수요를 면밀히 점검해야 합니다. 지정학적 위험의 전개 상황을 예의주시하며 시장 변동성 확대에 대비하십시오.",
+    "오늘의한줄": "지정학적 위험과 AI 시장의 과열 우려가 기술주 전반의 조정을 촉발하며 신중한 접근이 필요한 시기입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "연준 의장 케빈 워시와 FOMC의 8단어 발언, 월스트리트의 잠재적 판도 변화 예고",
-      "display_title": "연준 의장 케빈 워시와 FOMC의 8단어 발언, 월스트리트의 잠재적 판도 변화 예고",
-      "original_title": "This 8-Word Statement From Fed Chair Kevin Warsh and the FOMC Is a Potential Game Changer for Wall Street - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[금융 한 입] SK하이닉스 역대급 폭락...美나스닥 상장 흥행의 '그늘' - BBS불교방송",
+      "display_title": "[금융 한 입] SK하이닉스 역대급 폭락...美나스닥 상장 흥행의 '그늘' - BBS불교방송",
+      "original_title": "[금융 한 입] SK하이닉스 역대급 폭락...美나스닥 상장 흥행의 '그늘' - BBS불교방송",
       "summary": [
-        "연준 의장 케빈 워시와 FOMC의 핵심 발언이 발표되어 금융 시장에 큰 영향을 미칠 것으로 예상됩니다.",
-        "이 발언은 시장의 금리 전망이나 통화 정책 방향에 대한 새로운 신호를 담고 있을 가능성이 높습니다.",
-        "투자자들은 연준의 향후 정책 기조 변화 가능성을 주시하며 포트폴리오 전략을 재검토해야 합니다."
+        "SK하이닉스 주가가 역대급 폭락을 기록했으며, 이는 미국 나스닥 상장 흥행의 이면에 가려진 리스크에 대한 우려 때문으로 보입니다.",
+        "AI 반도체 시장의 과열 우려 및 최근 기술주 전반의 조정 분위기와 맞물려 주요 종목에 대한 투자 심리가 악화되었습니다.",
+        "AI 반도체 선두 기업의 주가 급락은 섹터 전반의 조정 신호일 수 있으므로 투자에 유의해야 합니다."
       ],
-      "summary_text": "연준 의장 케빈 워시와 FOMC의 핵심 발언이 발표되어 금융 시장에 큰 영향을 미칠 것으로 예상됩니다. 이 발언은 시장의 금리 전망이나 통화 정책 방향에 대한 새로운 신호를 담고 있을 가능성이 높습니다. 투자자들은 연준의 향후 정책 기조 변화 가능성을 주시하며 포트폴리오 전략을 재검토해야 합니다.",
-      "description": "연준 의장 케빈 워시와 FOMC의 8단어 성명은 월스트리트에 잠재적인 판도 변화를 가져올 수 있습니다.",
+      "summary_text": "SK하이닉스 주가가 역대급 폭락을 기록했으며, 이는 미국 나스닥 상장 흥행의 이면에 가려진 리스크에 대한 우려 때문으로 보입니다. AI 반도체 시장의 과열 우려 및 최근 기술주 전반의 조정 분위기와 맞물려 주요 종목에 대한 투자 심리가 악화되었습니다. AI 반도체 선두 기업의 주가 급락은 섹터 전반의 조정 신호일 수 있으므로 투자에 유의해야 합니다.",
+      "description": "SK하이닉스가 역대급 폭락을 기록하며, 미국 나스닥 상장 흥행 뒤에 드리워진 그늘에 대한 우려가 커지고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "전반적 증시, 금융",
-      "related_stocks": [],
-      "investment_view": "관심",
-      "investment_reason": "연준의 통화 정책 방향은 글로벌 증시와 국내 증시의 향방을 결정하는 가장 중요한 요인 중 하나이기 때문입니다.",
-      "key_signal": "연준의 8단어 성명 내용과 그에 대한 시장의 해석을 면밀히 분석하여 금리 인상 또는 인하 기대 변화를 확인해야 합니다.",
-      "keywords": [
-        "연준",
-        "FOMC",
-        "금리",
-        "통화정책",
-        "월스트리트"
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "반도체, IT, 인공지능",
+      "related_stocks": [
+        "SK하이닉스",
+        "삼성전자",
+        "한미반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96dVYxWlRqNVZobVplZUVZbUl6X0kzc29zQkhUWUZuQW54RURpQ2d1RWV3MzIzRVNYNFlQeEV5ZW8yMVZ0ckJEYm5tRnNfMTBGN25nYmw5d2RJNTVIWTJjcWFqd0tzNnBtNTdBMnhqSG5qYmkxblZvdUpR?oc=5",
-      "published": "2026-07-13 03:40",
+      "investment_view": "주의",
+      "investment_reason": "SK하이닉스의 급락은 국내외 반도체 시장의 과열 우려와 조정 가능성을 시사하며, 관련 종목 투자에 대한 신중한 접근이 필요합니다.",
+      "key_signal": "SK하이닉스 주가 반등 여부와 AI 반도체 산업 전반의 투자 심리 변화를 면밀히 관찰해야 합니다.",
+      "keywords": [
+        "SK하이닉스",
+        "반도체",
+        "AI 반도체",
+        "나스닥 상장",
+        "주가 폭락"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11QU1qTDRiSHBzdHF2ZUE1NWdndEpmclZMQloxOTVuSnVEVTVqa3htZlo0WGdSN003QnJQaFZncnVuajdza01iSHNyNVdCNU5DTHh0WDFET3VXZllEVm1DU0ZFdEEtN25lMVE0?oc=5",
+      "published": "2026-07-14 04:12",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -66,37 +70,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다음 주 미국 증시: CPI, 은행 실적, 연준 발표가 90분 내에 집중될 화요일의 시험대",
-      "display_title": "다음 주 미국 증시: CPI, 은행 실적, 연준 발표가 90분 내에 집중될 화요일의 시험대",
-      "original_title": "US Stock Market Week Ahead: CPI, Bank Earnings and the Fed Converge in a 90-Minute Tuesday Test - TechStock²",
+      "title": "미국 증시 하락 마감, 반도체 주식 하락 및 미국-이란 긴장 고조 영향 - Seeking Alpha",
+      "display_title": "미국 증시 하락 마감, 반도체 주식 하락 및 미국-이란 긴장 고조 영향 - Seeking Alpha",
+      "original_title": "U.S. stocks end lower as chip stocks fall, U.S.-Iran tensions rise - Seeking Alpha",
       "summary": [
-        "다음 주 화요일, 미국 증시에는 CPI 발표, 주요 은행 실적, 연준의 발언 등 핵심 경제 지표와 이벤트가 90분 내에 집중될 예정입니다.",
-        "이러한 중요 이벤트들의 동시 발생은 시장에 단기적인 변동성을 극대화시키며 향후 방향성을 결정할 수 있습니다.",
-        "투자자들은 화요일의 주요 발표 내용과 그에 따른 시장 반응을 면밀히 관찰하며 신중한 접근이 필요합니다."
+        "미국 증시가 하락 마감했으며, 이는 반도체 주식의 약세와 미국-이란 간 긴장 고조 때문으로 분석됩니다.",
+        "지정학적 위험과 주요 기술 섹터의 부진이 미국 시장 전반에 부정적인 영향을 미쳤습니다.",
+        "반도체 섹터의 추가 하락 가능성과 지정학적 위험 확산 여부를 주시해야 합니다."
       ],
-      "summary_text": "다음 주 화요일, 미국 증시에는 CPI 발표, 주요 은행 실적, 연준의 발언 등 핵심 경제 지표와 이벤트가 90분 내에 집중될 예정입니다. 이러한 중요 이벤트들의 동시 발생은 시장에 단기적인 변동성을 극대화시키며 향후 방향성을 결정할 수 있습니다. 투자자들은 화요일의 주요 발표 내용과 그에 따른 시장 반응을 면밀히 관찰하며 신중한 접근이 필요합니다.",
-      "description": "다가오는 주 미국 증시에서는 소비자물가지수(CPI), 주요 은행 실적 발표, 연준의 발언이 화요일 90분 내에 집중되어 시장의 큰 시험대가 될 것입니다.",
+      "summary_text": "미국 증시가 하락 마감했으며, 이는 반도체 주식의 약세와 미국-이란 간 긴장 고조 때문으로 분석됩니다. 지정학적 위험과 주요 기술 섹터의 부진이 미국 시장 전반에 부정적인 영향을 미쳤습니다. 반도체 섹터의 추가 하락 가능성과 지정학적 위험 확산 여부를 주시해야 합니다.",
+      "description": "미국 증시가 반도체 주식의 하락과 미국-이란 간 긴장 고조로 인해 하락 마감했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "전반적 증시, 금융, 기술주",
+      "market_impact": "부정",
+      "related_sector": "반도체, IT, 에너지",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "여러 핵심 경제 지표와 정책 결정 변수가 동시에 발표되어 시장 변동성이 극도로 높아질 것으로 예상되므로 신중한 대응이 필요하기 때문입니다.",
-      "key_signal": "화요일에 발표될 CPI 수치, 주요 은행들의 실적 내용, 그리고 연준의 발언을 종합적으로 분석하여 시장의 단기 및 중장기 방향성을 가늠해야 합니다.",
+      "investment_reason": "지정학적 위험과 반도체 업종의 약세가 글로벌 증시에 연쇄적인 부정적 영향을 미칠 수 있으므로 주의가 필요합니다.",
+      "key_signal": "미국-이란 긴장 상황과 반도체 관련 기업들의 실적 및 전망 변화를 면밀히 살펴야 합니다.",
       "keywords": [
-        "CPI",
-        "은행실적",
-        "연준",
-        "미국증시",
-        "변동성"
+        "미국 증시",
+        "반도체 주식",
+        "미국-이란 긴장",
+        "지정학적 위험",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUQxR2xIbnVtT0Z4T09XSVJjR0FSWU1lM0xJUkJrOWt4UXlDUTl1a2dTYkRmLXg0Vmd3ekxaalp3NVhCTnY3WkNJOXo5cWtxcWFtLVloekVmWHhuY3poTnI4bG1PX001dXg3UDdxQ0c3aUNnT1FoQWZMN0pia3Q5Wnc4M0pkc3Jtd0hWRTB2YlhnMkh5endNVkhXV2dIVnNueS1oVEFodkwyT2lWMHpfM0lVZW4?oc=5",
-      "published": "2026-07-13 02:29",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmRicVdScEdSenJjN1FvQUQwTnVUbEEtNWtKUE1fX2gyamVSZzhRNzNWVG0zSWstLXBwUXR4aFd0XzByUXg0TkNmTWVHLXFRT1lKTHNLb2F6azZNWC1BVERvY1RZdV8tQWNkUTM1X3RyUnVXc0hOQ1o2c0NKV3ZENkFGalJtRjdo?oc=5",
+      "published": "2026-07-14 05:02",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -108,37 +111,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "CPI 데이터, 월스트리트의 다음 랠리를 결정할 중대 변수",
-      "display_title": "CPI 데이터, 월스트리트의 다음 랠리를 결정할 중대 변수",
-      "original_title": "CPI Data Could Make or Break Wall Street’s Next Rally - TechStock²",
+      "title": "미국-이란 긴장 고조 및 AI 시장 변동성 속 기술주 급락 - Devdiscourse",
+      "display_title": "미국-이란 긴장 고조 및 AI 시장 변동성 속 기술주 급락 - Devdiscourse",
+      "original_title": "Tech Shares Tumble Amid Escalating U.S.-Iran Tensions and AI Market Volatility - Devdiscourse",
       "summary": [
-        "다가오는 소비자물가지수(CPI) 발표가 미국 증시의 향후 방향을 결정할 핵심 변수로 작용할 전망입니다.",
-        "CPI 수치는 인플레이션 압력을 나타내며, 연방준비제도(Fed)의 금리 결정에 직접적인 영향을 미칩니다.",
-        "예상보다 높은 CPI는 긴축 우려를, 낮은 CPI는 완화 기대를 높여 시장에 큰 변동성을 가져올 수 있습니다."
+        "미국-이란 간 긴장 고조와 AI 시장의 변동성이 겹치면서 기술주가 크게 하락했습니다.",
+        "지정학적 위험과 함께 AI 관련 산업의 과열 우려 및 시장 기대치 조정이 기술주 하락을 부추겼습니다.",
+        "기술주 투자에 있어 지정학적 위험뿐만 아니라 AI 시장의 펀더멘털 변화도 면밀히 분석해야 합니다."
       ],
-      "summary_text": "다가오는 소비자물가지수(CPI) 발표가 미국 증시의 향후 방향을 결정할 핵심 변수로 작용할 전망입니다. CPI 수치는 인플레이션 압력을 나타내며, 연방준비제도(Fed)의 금리 결정에 직접적인 영향을 미칩니다. 예상보다 높은 CPI는 긴축 우려를, 낮은 CPI는 완화 기대를 높여 시장에 큰 변동성을 가져올 수 있습니다.",
-      "description": "소비자물가지수(CPI) 데이터 발표가 월스트리트의 다음 증시 랠리를 성공시키거나 좌절시킬 수 있습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "전반적 증시, 인플레이션 관련",
+      "summary_text": "미국-이란 간 긴장 고조와 AI 시장의 변동성이 겹치면서 기술주가 크게 하락했습니다. 지정학적 위험과 함께 AI 관련 산업의 과열 우려 및 시장 기대치 조정이 기술주 하락을 부추겼습니다. 기술주 투자에 있어 지정학적 위험뿐만 아니라 AI 시장의 펀더멘털 변화도 면밀히 분석해야 합니다.",
+      "description": "미국-이란 간 긴장 고조와 AI 시장의 변동성으로 인해 기술주가 급락했습니다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "IT, 반도체, 인공지능, 소프트웨어",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "CPI 결과에 따라 연준의 통화정책 스탠스가 변화하고 이는 글로벌 증시 및 국내 증시에 직접적인 영향을 미치기 때문입니다.",
-      "key_signal": "발표될 CPI 데이터의 수치와 시장 예상치와의 괴리를 확인하고, 이에 따른 금리 인상 가능성 변화를 예측해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "기술주는 지정학적 위험과 AI 시장의 변동성에 크게 노출되어 있어 투자 결정 시 신중한 접근이 필요합니다.",
+      "key_signal": "미국-이란 긴장 완화 여부와 AI 산업의 성장 동력 지속 가능성을 확인해야 합니다.",
       "keywords": [
-        "CPI",
-        "인플레이션",
-        "연준",
-        "금리",
-        "증시"
+        "기술주",
+        "AI 시장",
+        "미국-이란 긴장",
+        "변동성",
+        "인공지능"
       ],
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SZUthbk1iMDY2NnBsZEhMWW1ZMmNJZWo2dnByRkVaZ1V1Yy13dkJzUzZocEFVZzZyVGtCb2NNQ05XODduSTl0VzQwYXFiZzFUbGIyVjI3dmVjZERCYjlDZ2hMT3BLUlB3Nzd0SXpsbkhMQlVTNlQtUG02aERGZw?oc=5",
-      "published": "2026-07-13 06:36",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWHF3RlRkSWRoQnlBSk5QUXlUMG5GTmRuUFUzOVhTNkJFU3AzaVpLZDlOY3B5ZXpuX0FfM0NvX0tkZkhhLXdDY3RRME5oR1ItMVlZaTE3dXJSaEMtbzFVQzZsM0thX21BN0Q3eW5laFVhZy1GT0VaNUFZLWJzYWVSaktSNklGTVRHVmpMcVBxSFQ3X0FjMnRweVYzR0pEMHhIVzNHWlVZSU5yYjhUTzRmODRDaU5XR1Y0WVRFTlVwSWdUSklCbEthXzlFQ3dUcFnSAc8BQVVfeXFMT1hxd0ZUZElkaEJ5QUpOUFF5VDBuRk5kblBVMzlYUzZCRVNwM2laS2Q5TmNweWV6bl9BXzNDb19LZGZIYS13Q2N0UTBOaEdSLTFZWWkxN3VyUmhDLW8xVUM2bDNLYV9tQTdEN3luZWhVYWctRk9FWjVBWS1ic2FlUmpLUjZJRk1UR1ZqTHFQcUhUN19BYzJ0cHlWM0dKRDB4SFczR1pVWUlOcmI4VE80Zjg0Q2lOV0dWNFlURU5VcElnVEpJQmxLYV85RUN3VHBZ?oc=5",
+      "published": "2026-07-14 05:01",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -147,125 +149,126 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[하반기 증시 전망] 코스피 최고 1만2600 전망…금리·환율·중동 ‘변수’",
-      "display_title": "[하반기 증시 전망] 코스피 최고 1만2600 전망…금리·환율·중동 ‘변수’",
-      "original_title": "[하반기 증시 전망] 코스피 최고 1만2600 전망…금리·환율·중동 ‘변수’ - 대한경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "AI 인프라 과잉 공급 우려: 2026년 반도체 주식 매도 분석 - Intellectia AI",
+      "display_title": "AI 인프라 과잉 공급 우려: 2026년 반도체 주식 매도 분석 - Intellectia AI",
+      "original_title": "AI Infrastructure Overcapacity Concerns: Chip Stocks Selloff Analysis 2026 - Intellectia AI",
       "summary": [
-        "전문가들은 하반기 코스피 지수가 최고 1만2600포인트까지 상승할 수 있다고 긍정적인 전망을 내놓았습니다.",
-        "하지만 이러한 전망에는 국내외 금리 변동, 원/달러 환율 추이, 그리고 중동 지역의 지정학적 리스크가 주요 불확실성으로 남아있습니다.",
-        "투자자들은 긍정적 전망 속에서도 주요 변수들의 변화를 주시하며 유연하게 투자 전략을 조정할 필요가 있습니다."
+        "AI 인프라 시장의 과잉 공급 우려가 제기되면서 반도체 주식의 매도세가 나타났습니다.",
+        "AI 기술 발전에 대한 과도한 기대로 인해 인프라 투자가 급증했으나, 실제 수요가 이를 따라가지 못할 것이라는 우려가 확산되고 있습니다.",
+        "AI 관련 반도체 기업에 대한 투자 시 펀더멘털과 실제 수요를 면밀히 분석하여 과도한 기대 심리를 경계해야 합니다."
       ],
-      "summary_text": "전문가들은 하반기 코스피 지수가 최고 1만2600포인트까지 상승할 수 있다고 긍정적인 전망을 내놓았습니다. 하지만 이러한 전망에는 국내외 금리 변동, 원/달러 환율 추이, 그리고 중동 지역의 지정학적 리스크가 주요 불확실성으로 남아있습니다. 투자자들은 긍정적 전망 속에서도 주요 변수들의 변화를 주시하며 유연하게 투자 전략을 조정할 필요가 있습니다.",
-      "description": "하반기 코스피 지수가 최고 1만2600까지 상승할 것으로 전망되지만, 금리, 환율, 중동 정세가 주요 변수로 작용할 것으로 분석됩니다.",
-      "category": "국내 거시경제",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "전반적 증시, 수출주, 에너지",
+      "summary_text": "AI 인프라 시장의 과잉 공급 우려가 제기되면서 반도체 주식의 매도세가 나타났습니다. AI 기술 발전에 대한 과도한 기대로 인해 인프라 투자가 급증했으나, 실제 수요가 이를 따라가지 못할 것이라는 우려가 확산되고 있습니다. AI 관련 반도체 기업에 대한 투자 시 펀더멘털과 실제 수요를 면밀히 분석하여 과도한 기대 심리를 경계해야 합니다.",
+      "description": "AI 인프라의 과잉 공급 우려가 2026년 반도체 주식 매도세의 원인으로 분석되었습니다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "반도체, 인공지능, 데이터센터, 클라우드 컴퓨팅",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK하이닉스",
+        "삼성전자",
+        "엔비디아"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시의 하반기 목표치와 주요 변수들을 명확히 제시하여 투자자들이 거시적 관점에서 포트폴리오를 점검하는 데 중요한 정보를 제공하기 때문입니다.",
-      "key_signal": "코스피 상승 전망의 전제 조건인 금리, 환율 안정과 중동 정세 변화를 면밀히 모니터링하여 예상 경로 이탈 시 대응 전략을 세워야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "AI 인프라 과잉 공급 우려는 반도체 산업의 단기적 조정 가능성을 높이고 있어 신중한 접근이 필요합니다.",
+      "key_signal": "AI 데이터센터 투자 추이와 주요 AI 기업들의 실제 수요 발표를 통해 과잉 공급 우려의 현실화 여부를 판단해야 합니다.",
       "keywords": [
-        "코스피",
-        "하반기전망",
-        "금리",
-        "환율",
-        "중동리스크"
+        "AI 인프라",
+        "과잉 공급",
+        "반도체 주식",
+        "매도세",
+        "인공지능"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBidkFWdGJNNXc1OTdOUk5qMENobXZyTWh6SGFCSDNqdnFtM3M0NGNGdnpWQmtzckZqSWR5QjFQQjk2bnR0enVZbGJXY19FOWlLaUxieWt4RWFraVFMUEdNNF9SSmpOUWcwQ0d0V2lxWTVjYVlC?oc=5",
-      "published": "2026-07-13 06:40",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhOUh3ajZIR0ZBeEZYSEpwcG5TLS00b1BzamRyRWxfWW9YclhhSHMzRmp5SWpTN3BOYWxhSWJkM2lrUG5JNHAyMEhtMkFpWVlCb29YU1dYcC0yRlM0VFNUQ21RV3FTcUszdVFJcHVkamFYQnduaHhxQW5Xd0o?oc=5",
+      "published": "2026-07-14 03:16",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[하반기 증시 전망] 환율·금리 '이중고'…코스닥 언제 반등하나",
-      "display_title": "[하반기 증시 전망] 환율·금리 '이중고'…코스닥 언제 반등하나",
-      "original_title": "[하반기 증시 전망] 환율·금리 '이중고'…코스닥 언제 반등하나 - 대한경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "주간 시장 업데이트 – 7/13/26: 불안정한 평화 회담이 시장 위험으로 남아 - AdvisorHub",
+      "display_title": "주간 시장 업데이트 – 7/13/26: 불안정한 평화 회담이 시장 위험으로 남아 - AdvisorHub",
+      "original_title": "The Weekly Market Update – 7/13/26: Fragile Peace Talks Remain a Market Risk - AdvisorHub",
       "summary": [
-        "하반기 국내 증시가 높은 환율과 금리라는 이중 부담에 직면하며, 특히 코스닥 시장의 반등 시점에 대한 우려가 커지고 있습니다.",
-        "고금리는 성장주 중심의 코스닥 기업들에 자금 조달 부담을 가중시키고, 고환율은 수입 물가 상승으로 이어져 기업 실적에 부정적 영향을 줄 수 있습니다.",
-        "투자자들은 코스닥 시장의 반등을 위해서는 환율과 금리 안정화가 필수적임을 인지하고, 개별 기업의 펀더멘털을 더욱 꼼꼼히 점검해야 합니다."
+        "주간 시장 업데이트에서 불안정한 평화 회담이 여전히 시장의 주요 위험 요인으로 지목되었습니다.",
+        "특정 지정학적 위험이 해소되지 않고 지속적으로 시장에 불확실성을 제공하고 있는 상황입니다.",
+        "투자자들은 지정학적 이벤트의 전개 상황을 면밀히 주시하며 시장 변동성에 대비해야 합니다."
       ],
-      "summary_text": "하반기 국내 증시가 높은 환율과 금리라는 이중 부담에 직면하며, 특히 코스닥 시장의 반등 시점에 대한 우려가 커지고 있습니다. 고금리는 성장주 중심의 코스닥 기업들에 자금 조달 부담을 가중시키고, 고환율은 수입 물가 상승으로 이어져 기업 실적에 부정적 영향을 줄 수 있습니다. 투자자들은 코스닥 시장의 반등을 위해서는 환율과 금리 안정화가 필수적임을 인지하고, 개별 기업의 펀더멘털을 더욱 꼼꼼히 점검해야 합니다.",
-      "description": "하반기 국내 증시 전망에서 환율과 금리의 이중고가 지속되는 가운데, 코스닥 시장의 반등 시점에 대한 관심이 높아지고 있습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "주간 시장 업데이트에서 불안정한 평화 회담이 여전히 시장의 주요 위험 요인으로 지목되었습니다. 특정 지정학적 위험이 해소되지 않고 지속적으로 시장에 불확실성을 제공하고 있는 상황입니다. 투자자들은 지정학적 이벤트의 전개 상황을 면밀히 주시하며 시장 변동성에 대비해야 합니다.",
+      "description": "주간 시장 업데이트에 따르면 불안정한 평화 회담이 여전히 시장의 주요 위험 요인으로 남아있습니다.",
+      "category": "글로벌 경제",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "코스닥, 성장주, 기술주",
+      "related_sector": "글로벌 증시, 방산, 에너지",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "환율과 금리라는 거시적 압박 속에서 코스닥 시장 전반의 투자 심리가 위축될 수 있으므로 신중한 접근이 필요하기 때문입니다.",
-      "key_signal": "환율과 금리의 안정화 추세, 그리고 코스닥 대표 기업들의 실적 개선 여부가 코스닥 반등의 핵심 신호가 될 것입니다.",
+      "investment_reason": "지정학적 불안정은 글로벌 투자 심리를 위축시키고 시장 변동성을 확대할 수 있기 때문에 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "평화 회담의 진전 여부와 관련 지역의 지정학적 상황 변화를 주시해야 합니다.",
       "keywords": [
-        "코스닥",
-        "환율",
-        "금리",
-        "하반기전망",
-        "성장주"
+        "평화 회담",
+        "지정학적 위험",
+        "시장 변동성",
+        "글로벌 경제",
+        "불확실성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2LVkwSEE3OWloMmJxLS1ya29DRmdQQ2hYeWY1Q09yNGhZT3REVXJKTTh1RU1DSDFWcFc3YUsyYVZqYjZ5TzZFckNDQkVjcE03ODBDSHEzRW1WR0dZejVaVDJPU0t6UEVYQWtyVjljYlo0QmIx?oc=5",
-      "published": "2026-07-13 06:40",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWEFGeW05RU9hcF9EYk5WajhuR2N3SWVabERDUGZMcldoN3ZxMWIzV3FmeXFHSUhRd0g2S1c2TVJ6TmxWQ2RURWhmOE5FcC1XTHUwQzF5SXZvNFJhbXpjT1poQk5uN2JRVHpNR1A0dGp2aUtLQkRjRGl3V3FsRXZzT3Q3aXh2MFJlNkpjM1NLNlhCQnBpWXFURmdxdVBBOS1qQ0ptX3VqenlWekM0NU53SQ?oc=5",
+      "published": "2026-07-14 06:48",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "연준, 의회에 \"인플레이션을 반드시 잡겠다\" 메시지 전달",
-      "display_title": "연준, 의회에 \"인플레이션을 반드시 잡겠다\" 메시지 전달",
-      "original_title": "Fed's message to Congress: We will bring down inflation - AOL.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "테슬라 1조 5천억 달러 가치, ‘황제의 새 옷’인가 - 글로벌이코노믹",
+      "display_title": "테슬라 1조 5천억 달러 가치, ‘황제의 새 옷’인가 - 글로벌이코노믹",
+      "original_title": "테슬라 1조5000억달러 가치, ‘황제의 새 옷’인가 - 글로벌이코노믹",
       "summary": [
-        "연준이 의회에 인플레이션 억제에 대한 강력한 의지를 재확인하며 물가 안정 목표를 강조했습니다.",
-        "이는 현재의 높은 인플레이션 상황에 대한 연준의 경각심과 선제적 대응 가능성을 시사합니다.",
-        "투자자들은 연준의 인플레이션 진정 노력이 예상보다 강한 긴축 정책으로 이어질 수 있음을 염두에 두어야 합니다."
+        "테슬라의 1조 5천억 달러에 달하는 기업 가치가 과대평가되었을 가능성에 대한 의문이 제기되고 있습니다.",
+        "성장 기대감에 기반한 높은 밸류에이션이 형성되었으나, 실제 실적과 미래 성장 동력에 대한 회의적인 시각이 존재합니다.",
+        "테슬라와 같은 고성장주의 높은 밸류에이션을 신중하게 평가하고, 실제 실적과 성장 스토리의 현실성을 검증해야 합니다."
       ],
-      "summary_text": "연준이 의회에 인플레이션 억제에 대한 강력한 의지를 재확인하며 물가 안정 목표를 강조했습니다. 이는 현재의 높은 인플레이션 상황에 대한 연준의 경각심과 선제적 대응 가능성을 시사합니다. 투자자들은 연준의 인플레이션 진정 노력이 예상보다 강한 긴축 정책으로 이어질 수 있음을 염두에 두어야 합니다.",
-      "description": "연방준비제도(Fed)가 의회에 인플레이션을 반드시 통제하겠다는 강력한 메시지를 보냈습니다.",
-      "category": "글로벌 경제",
-      "importance": 7,
+      "summary_text": "테슬라의 1조 5천억 달러에 달하는 기업 가치가 과대평가되었을 가능성에 대한 의문이 제기되고 있습니다. 성장 기대감에 기반한 높은 밸류에이션이 형성되었으나, 실제 실적과 미래 성장 동력에 대한 회의적인 시각이 존재합니다. 테슬라와 같은 고성장주의 높은 밸류에이션을 신중하게 평가하고, 실제 실적과 성장 스토리의 현실성을 검증해야 합니다.",
+      "description": "테슬라의 1조 5천억 달러 가치 평가가 과연 합당한지, '황제의 새 옷' 신드롬처럼 허상일 수 있다는 의문을 제기합니다.",
+      "category": "기업·산업",
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "금융, 성장주",
+      "related_sector": "전기차, 자율주행, 인공지능, 배터리",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "테슬라",
+        "현대차",
+        "기아"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준의 강력한 인플레이션 억제 의지는 추가적인 금리 인상 가능성을 높여 시장 전반에 부담을 줄 수 있기 때문입니다.",
-      "key_signal": "연준의 인플레이션 진정 발언이 실제 금리 인상이나 긴축 정책 강화로 이어질지 여부를 지켜봐야 합니다.",
+      "investment_reason": "테슬라와 같은 시장 선도 기업의 과대평가 우려는 전반적인 성장주 시장의 조정 신호가 될 수 있으므로 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "테슬라의 분기별 실적 발표와 신기술 개발 현황을 통해 현재의 기업 가치가 정당화되는지 지속적으로 확인해야 합니다.",
       "keywords": [
-        "연준",
-        "인플레이션",
-        "금리",
-        "통화정책"
+        "테슬라",
+        "기업 가치",
+        "과대평가",
+        "전기차",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXZIczFQeXlmUzQzUWdhNllBUTVQOXo3cjFydFdwS2hhdFlPWVViZ0JsQnVxYTcxQ2dHQVJJWnlmYjFpVTk4dDR2WWdUMXNKM0FPVmcxSmFvTjhIdERMamNkc3BZZXdhUzlXSW5FbHVNdUZBbzc2R2ROOFhRRnExNg?oc=5",
-      "published": "2026-07-13 05:24",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ245RDRWZHhNb1hBWWtRUjRIVV9TbkQzT1UyNUhSSGx1WkE5MEhZempsTS1EU2ZGN2ZEZmVXby0wbUVTMm41ZlZweDJlUi10YlUyZ014QnVFV2ZhZ1RYTGhQWGRldkpVV1BublI5ZjZPZHhqeC1tUXNaTE5CY09CSnpvQVhMZXN0?oc=5",
+      "published": "2026-07-14 05:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -274,74 +277,71 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "KB금융",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "금융지주",
+      "sector": "반도체",
       "opinion": "주의",
-      "reason": "다음 주 미국 CPI 발표, 은행 실적, 연준 발표 등 핵심 경제 지표와 정책 결정 변수가 집중되어 시장 변동성이 극도로 높아질 것으로 예상되며, 특히 은행 실적 발표가 예고되어 금융주의 직접적인 영향을 점검할 필요가 있습니다.",
+      "reason": "SK하이닉스 급락, AI 인프라 과잉 공급 우려 등 복합적 요인으로 반도체 시장의 조정 가능성이 높아졌으며, 지정학적 위험 또한 글로벌 기술주 전반에 부정적 영향을 미치고 있습니다.",
       "check_points": [
-        "미국 은행 실적 발표 결과",
-        "연준의 통화 정책 스탠스 변화",
-        "금리 변동성 및 국내 금융시장 건전성"
+        "글로벌 반도체 수요 및 재고 동향",
+        "미국-이란 긴장 완화 여부",
+        "외국인 및 기관 투자자 매매 추이"
       ],
       "related_news_titles": [
-        "다음 주 미국 증시: CPI, 은행 실적, 연준 발표가 90분 내에 집중될 화요일의 시험대",
-        "연준 의장 케빈 워시와 FOMC의 8단어 발언, 월스트리트의 잠재적 판도 변화 예고",
-        "연준, 의회에 \"인플레이션을 반드시 잡겠다\" 메시지 전달"
+        "SK하이닉스 역대급 폭락...美나스닥 상장 흥행의 '그늘'",
+        "미국 증시 하락 마감, 반도체 주식 하락 및 미국-이란 긴장 고조 영향",
+        "미국-이란 긴장 고조 및 AI 시장 변동성 속 기술주 급락"
       ]
     },
     {
       "rank": 2,
-      "name": "NAVER",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "인터넷서비스",
+      "sector": "반도체",
       "opinion": "주의",
-      "reason": "연준의 강력한 인플레이션 억제 의지가 추가 금리 인상 가능성을 높여 성장주 전반에 부담을 줄 수 있으며, 환율과 금리라는 거시적 압박 속에서 코스닥 및 성장주 투자 심리가 위축될 수 있으므로 관련 종목에 대한 신중한 접근이 필요합니다.",
+      "reason": "자체적인 '역대급 폭락' 뉴스 언급과 함께, AI 인프라 과잉 공급 우려 및 전반적인 반도체 업종의 조정 가능성이 제기되고 있어 투자 심리 위축이 예상됩니다.",
       "check_points": [
-        "미국 CPI 발표 및 연준의 금리 인상 기조 변화",
-        "원/달러 환율 추이",
-        "국내외 경기 둔화 우려 및 플랫폼 사업 성장성"
+        "HBM 등 고대역폭 메모리 수요 전망 변화",
+        "주요 고객사 재고 수준",
+        "경쟁사 동향"
       ],
       "related_news_titles": [
-        "[하반기 증시 전망] 환율·금리 '이중고'…코스닥 언제 반등하나",
-        "연준, 의회에 \"인플레이션을 반드시 잡겠다\" 메시지 전달",
-        "다음 주 미국 증시: CPI, 은행 실적, 연준 발표가 90분 내에 집중될 화요일의 시험대"
+        "SK하이닉스 역대급 폭락...美나스닥 상장 흥행의 '그늘'",
+        "미국 증시 하락 마감, 반도체 주식 하락 및 미국-이란 긴장 고조 영향",
+        "미국-이란 긴장 고조 및 AI 시장 변동성 속 기술주 급락"
       ]
     },
     {
       "rank": 3,
-      "name": "삼성전자",
+      "name": "한미반도체",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "하반기 코스피 시장에 대한 긍정적 전망이 제시되었으나, 금리, 환율, 중동 정세 등 주요 거시 변수들이 동시에 작용하며 국내 증시의 방향성을 결정할 예정이므로, 국내 증시를 대표하는 수출주이자 대형주인 삼성전자의 움직임을 주시해야 합니다.",
+      "sector": "반도체 장비",
+      "opinion": "주의",
+      "reason": "SK하이닉스 등 주요 반도체 기업의 폭락 언급과 AI 인프라 과잉 공급 우려는 전반적인 반도체 장비 업종에도 부정적인 영향을 미칠 수 있어 신중한 접근이 필요합니다.",
       "check_points": [
-        "글로벌 경기 회복세 및 주요 수출국(미국, 중국) 경제 지표",
-        "원/달러 환율 변동성",
-        "반도체 업황 회복 속도 및 메모리 가격 추이"
+        "AI 반도체 장비 신규 수주 여부",
+        "주요 고객사들의 Capex(설비투자) 계획 변경",
+        "글로벌 반도체 업황 지표"
       ],
       "related_news_titles": [
-        "[하반기 증시 전망] 코스피 최고 1만2600 전망…금리·환율·중동 ‘변수’",
-        "CPI 데이터, 월스트리트의 다음 랠리를 결정할 중대 변수",
-        "연준 의장 케빈 워시와 FOMC의 8단어 발언, 월스트리트의 잠재적 판도 변화 예고"
+        "SK하이닉스 역대급 폭락...美나스닥 상장 흥행의 '그늘'",
+        "AI 인프라 과잉 공급 우려: 2026년 반도체 주식 매도 분석"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "관심",
-      "reason": "CPI 데이터가 월스트리트의 다음 랠리를 결정할 중대 변수로 지목되었으며, 연준의 통화 정책 방향에 따라 글로벌 및 국내 증시의 변동성이 확대될 것으로 예상되어, 증시의 흐름에 민감하게 반응하는 증권주의 움직임을 통해 시장 전반의 투자 심리를 파악할 수 있습니다.",
+      "sector": "자동차",
+      "opinion": "주의",
+      "reason": "테슬라의 과대평가 우려가 글로벌 성장주 전반의 조정 신호로 해석될 수 있으며, 이는 전기차 시장 성장 둔화 및 투자 심리 위축으로 이어질 가능성이 있습니다.",
       "check_points": [
-        "국내외 증시 변동성 및 거래량 변화",
-        "금리 변화에 따른 채권 평가 손익",
-        "부동산 프로젝트 파이낸싱(PF) 건전성 및 하반기 IPO 시장 전망"
+        "글로벌 전기차 시장 경쟁 심화 양상",
+        "주요국 금리 및 경제 지표",
+        "성장주 전반의 투자심리 변화"
       ],
       "related_news_titles": [
-        "CPI 데이터, 월스트리트의 다음 랠리를 결정할 중대 변수",
-        "[하반기 증시 전망] 코스피 최고 1만2600 전망…금리·환율·중동 ‘변수’",
-        "[하반기 증시 전망] 환율·금리 '이중고'…코스닥 언제 반등하나"
+        "테슬라 1조 5천억 달러 가치, ‘황제의 새 옷’인가"
       ]
     }
   ],
