@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16 07:58",
-  "analysis_date": "2026-07-16",
+  "generated_at": "2026-07-17 07:57",
+  "analysis_date": "2026-07-17",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 금리 인상 가능성으로 인한 부담과 해외 인플레이션 둔화 기대감이 교차하며 시장은 혼조세를 보일 것으로 예상됩니다.",
-    "국내거시경제": "오늘 한국은행 금통위가 개최되며 기준금리 인상 가능성이 높게 점쳐집니다. 이는 기업 자금 조달 비용 증가 및 소비 심리 위축으로 이어져 국내 증시에 부담을 줄 수 있습니다.",
-    "글로벌경제": "최신 미국 인플레이션 데이터 둔화는 연준의 긴축 완화 기대감을 높이는 긍정적 요인입니다. 그러나 이란 전쟁 휴전 종료로 중동 지정학적 긴장이 고조되며 유가 변동성과 글로벌 불확실성이 증대될 수 있습니다.",
-    "증시금리": "미국 증시가 인플레이션 둔화에 힘입어 상승 마감했고, 국내 코스피도 급등하며 달러-원 환율이 하락했습니다. 이는 글로벌 금리 인상 속도 조절 기대감과 외국인 투자 심리 개선을 반영한 것으로 분석됩니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
-    "오늘의투자시사점": "국내 금리 인상 가능성에 대비하여 방어적인 투자 전략을 고려하고, 금리 민감도가 낮은 업종에 주목할 필요가 있습니다. 한편, 글로벌 인플레이션 둔화와 미국 증시의 긍정적 흐름은 국내 증시에도 순풍으로 작용할 수 있으나, 중동 리스크에 따른 유가 변동성에 유의해야 합니다.",
-    "오늘의한줄": "국내 금리 인상 우려와 글로벌 인플레이션 둔화 기대가 교차하는 가운데, 신중한 접근이 요구됩니다."
+    "총평": "글로벌 악재와 연준의 매파적 기조 속에 국내 증시가 급락하며 투자 심리가 크게 위축되었습니다. 유가 급등과 안전자산 선호는 인플레이션 우려를 높이는 가운데, 미국 PPI 둔화에도 불구하고 혼재된 시장 신호가 나타나고 있습니다.",
+    "국내거시경제": "코스피와 코스닥 지수가 7000선, 800선 아래로 동시 급락하며 국내 증시가 큰 폭의 하락세를 기록했습니다. 이는 글로벌 불확실성, 금리 인하 기대 약화, 유가 급등 등 대외 악재와 국내 수급 불안정 및 기업 실적 불확실성이 복합적으로 작용한 결과입니다.",
+    "글로벌경제": "국제 유가가 하루 만에 11% 급등하며 인플레이션 재점화 우려를 낳고 있습니다. 연준의 크리스토퍼 월러 총재는 금리 인하 요구를 일축하며 매파적 기조를 재확인, 고금리 장기화 가능성이 커졌습니다.",
+    "증시금리": "국제 금값이 4,000달러를 돌파하며 사상 최고치를 경신, 안전자산 선호 심리가 강화되었습니다. 미국 생산자물가지수(PPI)는 인플레이션 둔화를 시사했지만, 연준의 금리 인하 기대 약화와 채권 수익률 상승이 지속되며 증시에 부담을 주고 있습니다. 미국 증시는 기술 대기업 강세로 상승했지만, 반도체 기업들은 하락하며 섹터별 차별화가 나타났습니다.",
+    "부동산정책": "오늘 발표된 주요 뉴스 중 부동산 정책 관련 내용은 없습니다.",
+    "기업산업": "국내 증시에서는 코스닥 하락이 성장주 전반의 투자 심리 위축을 반영했으며, 해외에서는 마이크론과 샌디스크의 급락으로 반도체 섹터의 불안정성이 부각되어 기업별, 산업별 차별화가 심화될 전망입니다.",
+    "오늘의투자시사점": "글로벌 경제 불확실성 증대와 연준의 매파적 기조 장기화로 국내외 증시 변동성이 확대되고 있습니다. 투자 심리 위축에 대비하여 보수적인 관점을 유지하고, 안전자산에 대한 관심과 함께 섹터별 차별화에 유의하는 전략이 필요합니다.",
+    "오늘의한줄": "대외 악재와 연준의 매파적 스탠스에 국내 증시가 급락한 가운데, 보수적인 투자 전략으로 시장 변동성에 대응해야 합니다."
   },
   "top_news": [
     {
@@ -28,36 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "오늘(16일) 7월 한국은행 금통위 개최…기준금리 인상 전망 우세",
-      "display_title": "오늘(16일) 7월 한국은행 금통위 개최…기준금리 인상 전망 우세",
-      "original_title": "오늘(16일) 7월 한은 금통위…기준금리 인상 전망 우세 - 한국금융신문",
+      "title": "코스피 6% 넘게 급락…이틀도 못 간 ‘7000선’",
+      "display_title": "코스피 6% 넘게 급락…이틀도 못 간 ‘7000선’",
+      "original_title": "코스피 6% 넘게 급락…이틀도 못 간 ‘7000선’ - 경향신문",
       "summary": [
-        "7월 한국은행 금융통화위원회(금통위)가 오늘 개최되며, 기준금리 인상 가능성이 높게 점쳐지고 있다.",
-        "국내 물가 상승 압력과 미국 연방준비제도(Fed)의 통화 정책 기조를 고려할 때, 한국은행도 금리 인상을 통해 물가 안정을 도모할 것으로 예상된다.",
-        "기준금리 인상은 대출 금리 상승과 기업의 자금 조달 비용 증가로 이어져, 증시에 전반적인 부담을 줄 수 있다."
+        "코스피 지수가 6% 이상 급락하며 7000선이 이틀 만에 다시 붕괴되었습니다.",
+        "이는 글로벌 경제 불확실성, 미국 금리 인하 기대 약화, 유가 급등 등 복합적인 대외 악재와 국내 수급 불안정이 겹친 결과로 보입니다.",
+        "시장 변동성 확대에 따른 투자 심리 위축이 지속될 수 있으므로 보수적인 접근이 필요합니다."
       ],
-      "summary_text": "7월 한국은행 금융통화위원회(금통위)가 오늘 개최되며, 기준금리 인상 가능성이 높게 점쳐지고 있다. 국내 물가 상승 압력과 미국 연방준비제도(Fed)의 통화 정책 기조를 고려할 때, 한국은행도 금리 인상을 통해 물가 안정을 도모할 것으로 예상된다. 기준금리 인상은 대출 금리 상승과 기업의 자금 조달 비용 증가로 이어져, 증시에 전반적인 부담을 줄 수 있다.",
-      "description": "오늘(16일) 한국은행 금융통화위원회가 열리며, 현재 기준금리 인상에 대한 전망이 우세한 상황입니다.",
+      "summary_text": "코스피 지수가 6% 이상 급락하며 7000선이 이틀 만에 다시 붕괴되었습니다. 이는 글로벌 경제 불확실성, 미국 금리 인하 기대 약화, 유가 급등 등 복합적인 대외 악재와 국내 수급 불안정이 겹친 결과로 보입니다. 시장 변동성 확대에 따른 투자 심리 위축이 지속될 수 있으므로 보수적인 접근이 필요합니다.",
+      "description": "코스피 지수가 6% 이상 급락하며 겨우 이틀 유지했던 7000선이 다시 무너졌다는 경향신문 기사.",
       "category": "국내 거시경제",
       "importance": 10,
       "market_impact": "부정",
-      "related_sector": "은행, 보험, 건설, 증권",
+      "related_sector": "증권, 전업종",
       "related_stocks": [
-        "카카오뱅크",
-        "삼성생명"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "한국은행의 기준금리 결정은 대출 금리, 기업 자금 조달 비용, 그리고 전반적인 시장 유동성에 직접적인 영향을 미치기 때문이다.",
-      "key_signal": "금통위의 최종 금리 결정 내용과 향후 통화 정책 방향에 대한 코멘트를 집중적으로 확인해야 한다.",
+      "investment_reason": "코스피 급락은 시장 전반의 투자 심리를 크게 위축시키고 추가 하락 가능성을 높이므로, 투자 포트폴리오 점검 및 리스크 관리가 시급하기 때문에 주의해야 합니다.",
+      "key_signal": "외국인 및 기관 투자자의 수급 동향, 주요 경제 지표 발표, 그리고 글로벌 증시의 회복 여부를 면밀히 주시해야 합니다.",
       "keywords": [
-        "한국은행",
-        "금통위",
-        "기준금리",
-        "금리인상",
-        "국내경제"
+        "코스피",
+        "증시급락",
+        "7000선",
+        "투자심리",
+        "시장변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lSVdNMnhkOVNFQWNXdkdvNVFnLU9FVU9DUmpvZ2pta2VuTmxZUk5ZanU1aHV4V1VuNGZzdlAxU2pyM0FRTXNTWktxN2pJd1kwZTAtUlZLOFNSbkEzWVZjYm5TNzVaRVFVY295ckk1enRaODBVOGR6b1AwWm4?oc=5",
-      "published": "2026-07-16 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91aE10ZHpsTTdBbTk4SDdMeEVtR1NIRHZtWldZeUFkMXVRckpCdnNERmdMNUdzU2FFY1J3WWNSZHpSTldnRnFxQTd0LXRzaDIzZXNzUW9FdWJpV0ZsX1Y40gFfQVVfeXFMT3VoTXRkemxNN0FtOThIN0x4RW1HU0hEdm1aV1l5QWQxdVFySkJ2c0RGZ0w1R3NTYUVjUndZY1JkelJOV2dGcXFBN3QtdHNoMjNlc3NRb0V1YmlXRmxfVjg?oc=5",
+      "published": "2026-07-16 21:36",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -69,36 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "한국은행 내일 금리 인상 시 증시 영향 분석",
-      "display_title": "한국은행 내일 금리 인상 시 증시 영향 분석",
-      "original_title": "한국은행 내일 금리 인상, 결국 증시 이렇게 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 - MSN",
+      "title": "코스피 7,000선· 코스닥 800선 동시에 또 무너져",
+      "display_title": "코스피 7,000선· 코스닥 800선 동시에 또 무너져",
+      "original_title": "코스피 7,000선· 코스닥 800선 동시에 또 무너져 - 연합뉴스",
       "summary": [
-        "한국은행의 금리 인상 가능성이 제기되며, 이는 국내 증시에 부정적인 영향을 미칠 수 있다는 분석이 나왔다.",
-        "금리 인상은 기업의 자금 조달 비용을 증가시키고 소비 심리를 위축시켜 전반적인 경기 둔화와 증시 하락 압력으로 작용할 수 있다.",
-        "금리 인상 시기에 방어적인 투자 전략을 고려하고, 금리 민감도가 낮은 업종에 주목할 필요가 있다."
+        "코스피와 코스닥 지수가 각각 7,000선과 800선을 동시에 이탈하며 국내 증시의 급격한 하락세를 보였습니다.",
+        "글로벌 경기 둔화 우려와 연준의 매파적 스탠스, 그리고 국내 기업 실적에 대한 불확실성이 복합적으로 작용한 결과입니다.",
+        "기술주 중심의 코스닥 지수 하락은 성장주 전반에 대한 투자 심리 위축을 반영하고 있습니다."
       ],
-      "summary_text": "한국은행의 금리 인상 가능성이 제기되며, 이는 국내 증시에 부정적인 영향을 미칠 수 있다는 분석이 나왔다. 금리 인상은 기업의 자금 조달 비용을 증가시키고 소비 심리를 위축시켜 전반적인 경기 둔화와 증시 하락 압력으로 작용할 수 있다. 금리 인상 시기에 방어적인 투자 전략을 고려하고, 금리 민감도가 낮은 업종에 주목할 필요가 있다.",
-      "description": "신얼 상상인증권 팀장이 한국은행의 내일 금리 인상 가능성에 따른 증시 영향을 전략적 관점에서 분석합니다.",
+      "summary_text": "코스피와 코스닥 지수가 각각 7,000선과 800선을 동시에 이탈하며 국내 증시의 급격한 하락세를 보였습니다. 글로벌 경기 둔화 우려와 연준의 매파적 스탠스, 그리고 국내 기업 실적에 대한 불확실성이 복합적으로 작용한 결과입니다. 기술주 중심의 코스닥 지수 하락은 성장주 전반에 대한 투자 심리 위축을 반영하고 있습니다.",
+      "description": "코스피 지수가 7,000선, 코스닥 지수가 800선을 동시에 다시 하회하며 국내 증시의 심각한 약세를 보여준다는 연합뉴스 보도.",
       "category": "국내 거시경제",
       "importance": 10,
       "market_impact": "부정",
-      "related_sector": "은행, 보험, 건설, 증권",
+      "related_sector": "증권, 전업종",
       "related_stocks": [
-        "카카오뱅크",
-        "삼성생명"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "한국은행의 금리 인상은 국내 기업 실적과 투자 심리에 직접적인 악영향을 줄 수 있어 투자 전략 재검토가 필요하다.",
-      "key_signal": "한국은행의 금리 인상 폭과 향후 통화 정책 스탠스를 확인하고 이에 맞춰 포트폴리오를 조정해야 한다.",
+      "investment_reason": "국내 양대 지수가 주요 심리적 지지선을 동시에 하회한 것은 시장의 깊은 불안감을 보여주며, 투자자들은 당분간 보수적인 관점으로 리스크 관리에 집중해야 합니다.",
+      "key_signal": "국내외 거시경제 지표와 기업 실적 전망, 그리고 외국인 투자자들의 매매 동향을 면밀히 분석하며 시장의 반등 가능성을 탐색해야 합니다.",
       "keywords": [
-        "한국은행",
-        "금리인상",
-        "증시전망",
-        "국내증시",
-        "통화정책"
+        "코스피",
+        "코스닥",
+        "증시하락",
+        "7000선",
+        "800선"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPWGNoaUZLeFRsRFdkamh2OWJfWVBsTzIwM3VXRmdUcFF1c3RnNWU2RGp3MzlvOU0zQ1JpVzZRLUY4MkcwbllvdnNGQnQwam95WUVTcm40N29FaXZRYlg1OFBuOG9Xc0dxdXBGemhhV3NhbnFUa2pISjgzM0EtZVlaVTB5TXd2cVZvd25xQUswRHBwUnFKbjFmVTNpRm5MQkYtOFo1N044VlotVHJ1aDhoUTYweVo4UElMYjhmdFB2ZkZlaFFMc0NYeXpQOXBKcF9Oa3RvTWgxcXpHOUtoam1wYmZ4UVV2T1VYaGRlSmdIN1RaQ0d1Q285bExwR2JXMEQ2bmc3dnUwLVJfWWJYZ3ZMbmRqTDNYbk5semVGNlFFRlVXVGdvQW13bmItZ0ZfWERkREw5RGY3TmZGdGdodFdiRjQ4cFhUdGJfbHNsU2JqQlNVM3ZDMUJLNVhaMHV3N3VGSGZ6UXBaRkJ5d1gtUGJZX2tzZE1wQ29wTFpueTFfeC1meHVtTnJxS2w5bUhUSTFibW9LRDhTcERRUEZqLVJwU1psT0p1Wk1GSVU3T2RKVzZUdWQ5X3V5TDlFR2s4YW1FbW84aUtWZWZ0VGN0dVEzOVVxZnZGR1J1R0t5RkxwZWdERFFReHlNVHN6QXhZQlVlbHdUU0I2MFhsYU15eEo2c1k1R0tUZw?oc=5",
-      "published": "2026-07-15 23:54",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTeURtMXJlcWxhenBveWczTFhxdjE3VFFlOG9ZbHRSNkNPUDBiamVoWXhPRHI5Z2lNc3FnclpCclZvTVJhNmtsM0JhdVphTTFCa0RfdXlQWmtxd3ZLWU1HYdIBYEFVX3lxTFBTeURtMXJlcWxhenBveWczTFhxdjE3VFFlOG9ZbHRSNkNPUDBiamVoWXhPRHI5Z2lNc3FnclpCclZvTVJhNmtsM0JhdVphTTFCa0RfdXlQWmtxd3ZLWU1HYQ?oc=5",
+      "published": "2026-07-16 20:48",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -110,33 +112,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "최신 인플레이션 데이터가 연준 의장과 주식 시장에 희소식인 이유",
-      "display_title": "최신 인플레이션 데이터가 연준 의장과 주식 시장에 희소식인 이유",
-      "original_title": "Here's Why the Latest Inflation Data Was Good News for Fed Chair Kevin Warsh and the Stock Market - The Motley Fool",
+      "title": "금, 4,000달러 돌파... 채권 수익률 상승 및 연준 금리 인하 기대 약화 영향",
+      "display_title": "금, 4,000달러 돌파... 채권 수익률 상승 및 연준 금리 인하 기대 약화 영향",
+      "original_title": "Gold breaks $4,000 as yields rise, Fed-rate relief fades - Kitco PM Report - KITCO",
       "summary": [
-        "최신 인플레이션 데이터가 긍정적으로 발표되어 연방준비제도(Fed)의 정책 결정에 안도감을 주고 주식 시장에 호재로 작용했다.",
-        "인플레이션 완화는 연준이 금리 인상 속도를 조절하거나 인하를 고려할 여지를 제공하여 투자 심리를 개선시킨다.",
-        "인플레이션 둔화는 금리 안정화 기대감으로 이어져 증시 전반에 긍정적인 영향을 미칠 수 있다."
+        "국제 금값이 온스당 4,000달러를 돌파하며 사상 최고치를 경신했습니다.",
+        "이는 연방준비제도(Fed)의 금리 인하 기대감이 약해지고 채권 수익률이 상승한 것이 주요 원인으로 분석됩니다.",
+        "고금리 환경 지속 가능성이 커지면서 안전자산 선호 심리가 강화되고 인플레이션 헤지 수요가 증가하는 것으로 보입니다."
       ],
-      "summary_text": "최신 인플레이션 데이터가 긍정적으로 발표되어 연방준비제도(Fed)의 정책 결정에 안도감을 주고 주식 시장에 호재로 작용했다. 인플레이션 완화는 연준이 금리 인상 속도를 조절하거나 인하를 고려할 여지를 제공하여 투자 심리를 개선시킨다. 인플레이션 둔화는 금리 안정화 기대감으로 이어져 증시 전반에 긍정적인 영향을 미칠 수 있다.",
-      "description": "최근 발표된 인플레이션 데이터가 연방준비제도 의장과 전반적인 주식 시장에 긍정적인 영향을 미친 이유를 설명합니다.",
+      "summary_text": "국제 금값이 온스당 4,000달러를 돌파하며 사상 최고치를 경신했습니다. 이는 연방준비제도(Fed)의 금리 인하 기대감이 약해지고 채권 수익률이 상승한 것이 주요 원인으로 분석됩니다. 고금리 환경 지속 가능성이 커지면서 안전자산 선호 심리가 강화되고 인플레이션 헤지 수요가 증가하는 것으로 보입니다.",
+      "description": "연방준비제도(Fed)의 금리 인하 기대감이 줄어들고 채권 수익률이 오르면서 금값이 온스당 4,000달러를 돌파했다는 Kitco 보고서 내용.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전 업종, 기술주",
-      "related_stocks": [],
-      "investment_view": "관심",
-      "investment_reason": "미국 인플레이션 둔화는 연준의 금리 정책에 영향을 미쳐 국내외 증시 방향을 결정하는 주요 변수이기 때문이다.",
-      "key_signal": "향후 발표될 인플레이션 지표와 연준 위원들의 발언을 지속적으로 모니터링해야 한다.",
-      "keywords": [
-        "인플레이션",
-        "연준",
-        "금리",
-        "주식시장",
-        "미국경제"
+      "market_impact": "중립",
+      "related_sector": "비철금속, 귀금속",
+      "related_stocks": [
+        "한국금거래소",
+        "엘컴텍"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmpwOXl2Z0NEZmF5Vm94UFJRWHp6MFdIcGhxaXNkNkpyT2J0RzRTcVVZclZ2X3d2UTRGWFVOWmFtZlNTdU9zRnJFc2pnUjhhRUdqakZlWU0xV1UwTE1YSlNrRkhkM2ZlVzJZNW5nTVhhYWpwcXVGbWFFYkthamFHU1NsNWYwWXUxNnBEeGo4SzdJYW5yeWpQMA?oc=5",
-      "published": "2026-07-15 23:37",
+      "investment_view": "관심",
+      "investment_reason": "금값의 급등은 글로벌 고금리 환경 지속과 인플레이션 우려를 반영하며, 안전자산 투자 매력을 높이는 신호이기 때문에 주목해야 합니다.",
+      "key_signal": "연준의 통화정책 기조 변화와 채권 수익률 추이를 지속적으로 모니터링하여 금값의 추가적인 움직임을 예측해야 합니다.",
+      "keywords": [
+        "금값",
+        "채권수익률",
+        "연준",
+        "금리인하",
+        "안전자산"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDFWeW1xdEVKN0J1TDc1akpCVlRWYm5najRJNWxEeVY2NE1YQlA1bFlwV3BsT25DNGRqSERibERuLTBab2ZKVWQwa01QLXNfWnFycWtYdWtiZU51T3NCbW9MYXNDaF9yYlZQdUhZblhOdDN4Q3kzTFhETG42RlMxSU84YUxEbDBkR3RBZFJKSHNOQWY2Q2lwMW15M2lwQ1g0bEtoWWdCN0pKTzItZk8td3Rn?oc=5",
+      "published": "2026-07-17 07:20",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -145,42 +150,41 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[마켓 프리뷰] 코스피 급등으로 7280선 회복…달러·원 환율 이틀 연속 하락, 시장 영향은?",
-      "display_title": "[마켓 프리뷰] 코스피 급등으로 7280선 회복…달러·원 환율 이틀 연속 하락, 시장 영향은?",
-      "original_title": "[마켓 프리뷰] 코스피 급등에 7280선 회복…달러·원 이틀 연속 하락 · 시장 영향은? - supple.kr",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "유가 11% 급등, 미국 인플레이션 둔화 데이터에도 연준에 새로운 질문 제기",
+      "display_title": "유가 11% 급등, 미국 인플레이션 둔화 데이터에도 연준에 새로운 질문 제기",
+      "original_title": "Oil Jumps 11%, Raising Fresh Questions for Fed After Softer U.S. Inflation Data - TechStock²",
       "summary": [
-        "코스피 지수가 급등하며 7280선을 회복했고, 달러-원 환율은 이틀 연속 하락세를 기록했다.",
-        "글로벌 인플레이션 둔화 기대감 및 국내외 금리 인상 속도 조절 가능성이 반영되며 외국인 투자 심리가 개선된 것으로 보인다.",
-        "환율 안정과 증시 상승은 외국인 자금 유입을 촉진하여 추가 상승 동력으로 작용할 수 있다."
+        "국제 유가가 하루 만에 11% 급등하며 인플레이션 재점화 우려를 낳고 있습니다.",
+        "이는 최근 미국 인플레이션 지표 둔화에도 불구하고 연방준비제도(Fed)의 금리 인하 경로에 대한 의문을 제기하고 있습니다.",
+        "고유가는 기업 비용 부담 및 소비 심리 위축으로 이어져 증시 전반에 부정적인 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "코스피 지수가 급등하며 7280선을 회복했고, 달러-원 환율은 이틀 연속 하락세를 기록했다. 글로벌 인플레이션 둔화 기대감 및 국내외 금리 인상 속도 조절 가능성이 반영되며 외국인 투자 심리가 개선된 것으로 보인다. 환율 안정과 증시 상승은 외국인 자금 유입을 촉진하여 추가 상승 동력으로 작용할 수 있다.",
-      "description": "코스피 지수가 급등하여 7280선을 회복했으며, 달러·원 환율이 이틀 연속 하락세를 보였습니다. 이에 따른 시장 영향을 분석합니다.",
-      "category": "증시·금리",
+      "summary_text": "국제 유가가 하루 만에 11% 급등하며 인플레이션 재점화 우려를 낳고 있습니다. 이는 최근 미국 인플레이션 지표 둔화에도 불구하고 연방준비제도(Fed)의 금리 인하 경로에 대한 의문을 제기하고 있습니다. 고유가는 기업 비용 부담 및 소비 심리 위축으로 이어져 증시 전반에 부정적인 영향을 미칠 수 있습니다.",
+      "description": "최근 미국 인플레이션 데이터가 둔화되었음에도 불구하고 국제 유가가 11% 급등하면서 연방준비제도(Fed)의 통화정책 결정에 새로운 복잡성을 더하고 있다는 소식.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전 업종, 수출주",
+      "market_impact": "부정",
+      "related_sector": "정유, 화학, 항공, 운송",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "현대차"
+        "S-Oil",
+        "GS"
       ],
-      "investment_view": "관심",
-      "investment_reason": "코스피 급등과 원화 강세는 외국인 자금 유입 및 국내 증시의 긍정적 흐름을 시사하므로 투자 전략 수립에 중요하다.",
-      "key_signal": "외국인 순매수 지속 여부와 달러-원 환율의 추가 하락 가능성을 면밀히 관찰해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "유가 급등은 인플레이션 압력을 다시 높여 연준의 긴축 기조 장기화를 야기할 수 있으며, 이는 전반적인 시장 센티먼트에 부정적 영향을 미치기 때문에 주의해야 합니다.",
+      "key_signal": "향후 유가 변동성과 연준의 인플레이션 전망 및 통화 정책 발언을 주시해야 합니다.",
       "keywords": [
-        "코스피",
-        "달러-원",
-        "환율",
-        "주식시장",
-        "외국인투자"
+        "유가",
+        "인플레이션",
+        "연준",
+        "금리",
+        "에너지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EY2RFdy1vSUNrX3NLRXRfeGgyQjJkTjczeTFmTWFUVHpLYjNwd1pUSGtGVE9vMWNIbk9mN1ZWU2x4NVRCSDI0U1FJVWJSZWdITmY0Yk5jZFZkb1Jw?oc=5",
-      "published": "2026-07-16 07:28",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1JYWk1zWEJTV0xSQ3pKb1o1UTBuYVR1OFpCTnQ1QzFVWnBmbTZMVURlT3ZuRExhYUM4NE5FdTY1NE44WktzUTdsa3BnVWV4djk5amJSQm5KaEROTW9uUDFpazY3VUFZRjE0b05WTmNaSENmZzhtbG1uOUxFWEUwV2hwcG5GZmNMaVcxMGhBSllVU0NLaUlHcDJ0d0lqZw?oc=5",
+      "published": "2026-07-17 06:51",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -190,37 +194,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이란 전쟁 휴전 종료, 주식 시장에 미칠 영향은?",
-      "display_title": "이란 전쟁 휴전 종료, 주식 시장에 미칠 영향은?",
-      "original_title": "The Iran War Ceasefire Has Ended. Here's What It Means for the Stock Market. - AOL.com",
+      "title": "미국 생산자물가지수(PPI) 인플레이션 완화 확인, 기술 대기업 지원에 미국 증시 2거래일 연속 상승, 중국 컨셉주 급등, 마이크론과 샌디스크 8% 급락",
+      "display_title": "미국 생산자물가지수(PPI) 인플레이션 완화 확인, 기술 대기업 지원에 미국 증시 2거래일 연속 상승, 중국 컨셉주 급등, 마이크론과 샌디스크 8% 급락",
+      "original_title": "US PPI confirms easing inflation, tech giants support US stocks for two consecutive gains, Chinese concept stocks surge, Micron and SanDisk plummet 8% - Bitget",
       "summary": [
-        "이란 전쟁의 휴전이 종료되면서 중동 지역의 지정학적 긴장이 고조될 우려가 커졌다.",
-        "중동 지역의 불안정은 유가 상승 압력을 가하고 글로벌 경제 불확실성을 증대시켜 투자 심리를 위축시킬 수 있다.",
-        "유가 변동성 확대 및 안전자산 선호 심리가 강화될 가능성에 대비해야 한다."
+        "미국 생산자물가지수(PPI)가 인플레이션 완화를 확인시켜주며 시장에 긍정적 신호를 보냈습니다.",
+        "기술 대기업들의 강세로 미국 증시가 2거래일 연속 상승했지만, 마이크론과 샌디스크는 8% 급락하며 반도체 섹터의 불안정성을 드러냈습니다.",
+        "인플레이션 둔화는 금리 인하 기대를 높일 수 있지만, 개별 기업의 실적과 업황에 따라 섹터별 차별화가 심화될 수 있음을 시사합니다."
       ],
-      "summary_text": "이란 전쟁의 휴전이 종료되면서 중동 지역의 지정학적 긴장이 고조될 우려가 커졌다. 중동 지역의 불안정은 유가 상승 압력을 가하고 글로벌 경제 불확실성을 증대시켜 투자 심리를 위축시킬 수 있다. 유가 변동성 확대 및 안전자산 선호 심리가 강화될 가능성에 대비해야 한다.",
-      "description": "이란 전쟁의 휴전이 종료됨에 따라 이것이 주식 시장에 어떤 의미를 가지는지 분석합니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "정유, 방위산업, 항공",
+      "summary_text": "미국 생산자물가지수(PPI)가 인플레이션 완화를 확인시켜주며 시장에 긍정적 신호를 보냈습니다. 기술 대기업들의 강세로 미국 증시가 2거래일 연속 상승했지만, 마이크론과 샌디스크는 8% 급락하며 반도체 섹터의 불안정성을 드러냈습니다. 인플레이션 둔화는 금리 인하 기대를 높일 수 있지만, 개별 기업의 실적과 업황에 따라 섹터별 차별화가 심화될 수 있음을 시사합니다.",
+      "description": "미국 생산자물가지수(PPI)가 인플레이션 완화를 보여준 가운데 기술 대기업들의 강세로 미국 증시가 이틀 연속 상승했으나, 마이크론과 샌디스크는 8% 급락하며 반도체 섹터에 부정적인 영향을 미쳤다는 소식. 한편 중국 컨셉주는 급등.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "반도체, IT하드웨어, 기술주",
       "related_stocks": [
-        "S-OIL",
-        "SK이노베이션",
-        "한화에어로스페이스"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "지정학적 리스크 증가는 유가 상승과 시장 불확실성을 키워 투자 심리를 악화시킬 수 있기 때문이다.",
-      "key_signal": "중동 지역의 추가적인 군사적 움직임과 국제 유가 동향을 면밀히 주시해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "PPI 둔화는 긍정적 신호이나, 반도체 대형주 급락은 국내 반도체 기업에도 영향을 미칠 수 있어 섹터별 차별화 전략이 필요하기 때문에 관심 있게 지켜봐야 합니다.",
+      "key_signal": "인플레이션 지표와 함께 주요 반도체 기업들의 실적 및 가이던스를 면밀히 분석하여 국내 관련주 투자 전략을 수립해야 합니다.",
       "keywords": [
-        "이란",
-        "전쟁",
-        "휴전",
-        "지정학적 리스크",
-        "유가"
+        "PPI",
+        "인플레이션",
+        "기술주",
+        "반도체",
+        "증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jTkVfajhzTFVDa2w5X2lBVjNOckJJd0N2ZnZzN2V3bmpmT25lUVo3SW5zeUF3eXYtNnRWcGZDSmlxcGZCaTJPX1pKVEViTXJyRFM4X3JuU0JUOUJnQkE1VElEUVpkQXhqRDdvLU4tV0tTOWVlempLNDRic3d2WWs?oc=5",
-      "published": "2026-07-16 02:01",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xZFdtNnB1Qk1PWUhsNVNPU04tQ1Q2R18wdmdFVHVTQlVUU2EwWTZCWWUyVkktTGU4Q1pJbDdjaUthMTkwenpzU3VjSWgwOEprdFlwZjZRN2hyWUNGam1yZURITdIBY0FVX3lxTE8xZFdtNnB1Qk1PWUhsNVNPU04tQ1Q2R18wdmdFVHVTQlVUU2EwWTZCWWUyVkktTGU4Q1pJbDdjaUthMTkwenpzU3VjSWgwOEprdFlwZjZRN2hyWUNGam1yZURITQ?oc=5",
+      "published": "2026-07-17 00:49",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -232,37 +235,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "뉴욕 증시, 인플레이션 둔화에 상승 마감",
-      "display_title": "뉴욕 증시, 인플레이션 둔화에 상승 마감",
-      "original_title": "New York Stock Market Rises on Cooling Inflation - 조선일보",
+      "title": "연준 총재 크리스토퍼 월러, 도널드 트럼프 대통령의 금리 인하 요구에 쐐기 박다",
+      "display_title": "연준 총재 크리스토퍼 월러, 도널드 트럼프 대통령의 금리 인하 요구에 쐐기 박다",
+      "original_title": "Fed Governor Christopher Waller Just Drove a Dagger Through President Donald Trump's Demand for Lower Interest Rates - AOL.com",
       "summary": [
-        "뉴욕 증시가 인플레이션 둔화 소식에 반응하며 상승 마감했다.",
-        "인플레이션 완화는 미국 연방준비제도(Fed)의 긴축 정책 기조가 완화될 수 있다는 기대를 불러일으켜 투자 심리를 개선시켰다.",
-        "미국 증시의 긍정적인 흐름은 국내 증시에도 순풍으로 작용할 가능성이 높다."
+        "크리스토퍼 월러 연방준비제도(Fed) 총재가 금리 인하 요구를 일축하며 매파적 발언을 이어갔습니다.",
+        "이는 정치적 압력에도 불구하고 연준이 독립적으로 인플레이션 억제에 집중할 것임을 시사합니다.",
+        "연준의 고금리 정책 장기화 가능성이 커지면서 시장의 금리 인하 기대감이 더욱 약화될 수 있습니다."
       ],
-      "summary_text": "뉴욕 증시가 인플레이션 둔화 소식에 반응하며 상승 마감했다. 인플레이션 완화는 미국 연방준비제도(Fed)의 긴축 정책 기조가 완화될 수 있다는 기대를 불러일으켜 투자 심리를 개선시켰다. 미국 증시의 긍정적인 흐름은 국내 증시에도 순풍으로 작용할 가능성이 높다.",
-      "description": "뉴욕 증시가 인플레이션 둔화 소식에 힘입어 상승세로 마감했습니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "전 업종, 기술주",
+      "summary_text": "크리스토퍼 월러 연방준비제도(Fed) 총재가 금리 인하 요구를 일축하며 매파적 발언을 이어갔습니다. 이는 정치적 압력에도 불구하고 연준이 독립적으로 인플레이션 억제에 집중할 것임을 시사합니다. 연준의 고금리 정책 장기화 가능성이 커지면서 시장의 금리 인하 기대감이 더욱 약화될 수 있습니다.",
+      "description": "크리스토퍼 월러 연방준비제도(Fed) 총재가 도널드 트럼프 전 대통령의 금리 인하 요구를 일축하며 매파적인 입장을 고수했다는 소식.",
+      "category": "글로벌 경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "증권, 은행, 금융",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 증시의 인플레이션 둔화에 따른 상승은 국내 증시에도 긍정적인 투자 분위기를 조성할 수 있기 때문이다.",
-      "key_signal": "미국 증시의 상승 동력이 지속될 수 있는지 여부를 확인하며 국내 증시 대응 전략을 수립해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "연준 고위 인사의 매파적 발언은 금리 인하 기대감을 낮추고 고금리 환경 지속에 대한 우려를 증폭시켜 증시 전반에 부정적인 영향을 미칠 수 있기 때문에 주의해야 합니다.",
+      "key_signal": "연준 고위 인사들의 추가 발언과 금리 인하 시점에 대한 시장 컨센서스 변화를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "뉴욕증시",
-        "인플레이션",
-        "증시상승",
-        "미국경제",
-        "금리"
+        "연준",
+        "금리인하",
+        "통화정책",
+        "매파",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkRmbmZ5aDFhM0p0WjEtdzZWUUlNNGdJRzN3LUI5MVlQRTRhTG1BODMyZlVuT21BSUJCMWZ0MVFQY0xXaTV0NEg1ZFlUWGYtS3U2V0lvcFZ5STdpMUFlbVJVbjhhbGdpOElGTHpXX0lNMUxiQWJlSV9JSjBsX1VWbXphV1k?oc=5",
-      "published": "2026-07-16 05:26",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWJ1aE54YmZVSW5CZXUtVmVHZmxxWnJKQ0dBNHdsQk15RUFJZDdTLUJLMllIUnBTTjlzYVZ4ckNneUZxb2UyT3BBMzJ1V1FwbFBEMEptaVdGZUpDSnZ5Q2hIZ2xjeWVtenhGZ1ZDOU93ZjNWSkZBYS02MnBicUpLeEtCT2NuS1E?oc=5",
+      "published": "2026-07-16 15:32",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -273,65 +276,68 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "sector": "반도체",
+      "name": "엘컴텍",
+      "market": "KOSDAQ",
+      "sector": "비철금속, 귀금속",
       "opinion": "관심",
-      "reason": "코스피 급등 및 원화 강세로 외국인 자금 유입 기대감이 높아지며 국내 증시 전반에 긍정적인 흐름이 예상됩니다. 특히, 수출 비중이 높은 대형 기술주에 관심이 필요하며, 미국 인플레이션 둔화는 전반적인 기술주 투자 심리에 긍정적입니다.",
+      "reason": "글로벌 고금리 환경 지속과 인플레이션 우려가 반영되며 금값이 4,000달러를 돌파, 안전자산으로서 금의 투자 매력이 부각되고 있어 관련주에 대한 관심이 필요한 시점입니다.",
       "check_points": [
-        "외국인 순매수 동향",
-        "글로벌 반도체 업황 지표"
+        "글로벌 금값 및 은값 추이",
+        "원자재 시장 변동성",
+        "환율 변화에 따른 영향"
       ],
       "related_news_titles": [
-        "[마켓 프리뷰] 코스피 급등으로 7280선 회복…달러·원 환율 이틀 연속 하락, 시장 영향은?",
-        "최신 인플레이션 데이터가 연준 의장과 주식 시장에 희소식인 이유"
+        "금, 4,000달러 돌파... 채권 수익률 상승 및 연준 금리 인하 기대 약화 영향"
       ]
     },
     {
       "rank": 2,
-      "name": "카카오뱅크",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "은행",
-      "opinion": "주의",
-      "reason": "한국은행 금통위의 기준금리 인상 가능성이 높아지면서 대출 금리 상승에 따른 가계 부담 증가 및 기업 자금 조달 비용 상승 등 국내 경제 전반에 부정적인 영향을 미칠 수 있습니다. 특히 은행업종은 대출 수요 위축 및 건전성 악화 우려로 주의가 필요합니다.",
+      "sector": "반도체, IT하드웨어",
+      "opinion": "관심",
+      "reason": "미국 생산자물가지수(PPI) 둔화는 긍정적 신호이나, 마이크론과 샌디스크 등 미국 반도체 대형주가 급락한 점은 국내 반도체 기업에도 영향을 미칠 수 있어 섹터 내 차별화 전략과 함께 면밀한 모니터링이 필요합니다.",
       "check_points": [
-        "한국은행 금통위의 최종 금리 결정",
-        "대출 연체율 및 건전성 지표"
+        "글로벌 반도체 업황 및 재고 상황",
+        "미국 기술주(특히 반도체) 움직임",
+        "국내 수출 데이터 및 환율 변동성"
       ],
       "related_news_titles": [
-        "오늘(16일) 7월 한국은행 금통위 개최…기준금리 인상 전망 우세",
-        "한국은행 내일 금리 인상 시 증시 영향 분석"
+        "미국 생산자물가지수(PPI) 인플레이션 완화 확인, 기술 대기업 지원에 미국 증시 2거래일 연속 상승, 중국 컨셉주 급등, 마이크론과 샌디스크 8% 급락"
       ]
     },
     {
       "rank": 3,
-      "name": "S-OIL",
+      "name": "S-Oil",
       "market": "KOSPI",
-      "sector": "정유",
+      "sector": "정유, 화학",
       "opinion": "주의",
-      "reason": "이란 전쟁 휴전 종료 소식은 중동 지역의 지정학적 리스크를 고조시키고, 국제 유가 변동성 확대로 이어질 수 있습니다. 이는 정유 기업의 원가 부담 증가 및 시장 불확실성을 키워 투자 심리에 부정적인 영향을 줄 수 있습니다.",
+      "reason": "유가가 11% 급등하며 인플레이션 압력을 다시 높이고 연준의 긴축 기조 장기화 우려를 키우고 있어, 정유 및 화학 섹터의 원가 부담 증가와 전반적인 시장 센티먼트 악화 가능성에 대비해야 합니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유) 추이",
-        "중동 지역 정세 변화"
+        "국제 유가 추이 및 글로벌 에너지 수급",
+        "글로벌 경기 둔화 가능성",
+        "정유 마진 변동성 및 정부 정책 변화"
       ],
       "related_news_titles": [
-        "이란 전쟁 휴전 종료, 주식 시장에 미칠 영향은?"
+        "유가 11% 급등, 미국 인플레이션 둔화 데이터에도 연준에 새로운 질문 제기"
       ]
     },
     {
       "rank": 4,
       "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "관심",
-      "reason": "뉴욕 증시가 인플레이션 둔화에 힘입어 상승 마감하면서 국내 증시에도 긍정적인 투자 분위기가 조성될 가능성이 높습니다. 시장 전반의 활성화는 증권사의 거래량 및 수수료 수익 증가로 이어질 수 있어 주목됩니다.",
+      "sector": "증권, 금융",
+      "opinion": "주의",
+      "reason": "코스피/코스닥 지수가 심리적 지지선을 하회하고 연준 고위 인사의 매파적 발언이 금리 인하 기대를 약화시키면서, 시장 전반의 투자 심리가 위축되고 증권업종의 실적에 부정적인 영향을 미칠 수 있어 리스크 관리에 집중해야 합니다.",
       "check_points": [
-        "국내 증시 거래량 변화",
-        "외국인 투자자의 증권 업종 순매수 동향"
+        "국내 증시 거래대금 및 시장 변동성",
+        "금리 인하 기대감 변화 및 연준의 통화정책 스탠스",
+        "투자 심리 지표 및 고객 예탁금 추이"
       ],
       "related_news_titles": [
-        "뉴욕 증시, 인플레이션 둔화에 상승 마감",
-        "[마켓 프리뷰] 코스피 급등으로 7280선 회복…달러·원 환율 이틀 연속 하락, 시장 영향은?"
+        "코스피 6% 넘게 급락…이틀도 못 간 ‘7000선’",
+        "코스피 7,000선· 코스닥 800선 동시에 또 무너져",
+        "연준 총재 크리스토퍼 월러, 도널드 트럼프 대통령의 금리 인하 요구에 쐐기 박다"
       ]
     }
   ],
