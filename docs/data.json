@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18 07:50",
-  "analysis_date": "2026-07-18",
+  "generated_at": "2026-07-19 07:49",
+  "analysis_date": "2026-07-19",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 증시는 금리 인상과 반도체 부진으로 급락했으나, 이번 주 미국 빅테크 실적과 연준의 통화 정책 스탠스가 반등의 핵심 변수로 부상하고 있습니다. 한편, 글로벌 디스인플레이션 정체와 중동 지정학적 리스크는 인플레이션 압력을 가중시킬 수 있습니다.",
-    "국내거시경제": "금리 인상 조치 첫날 코스피·코스닥 동반 사이드카 발동 등 국내 증시가 큰 충격을 받았습니다. 경기 둔화 우려와 반도체 업황 부진이 겹치며 매크로 환경 변화에 민감한 상황입니다.",
-    "글로벌경제": "IMF는 글로벌 디스인플레이션 정체 가능성을 시사하며 인플레이션 압력 지속을 경고했습니다. 이란의 인프라 공격은 중동 지정학적 리스크와 유가 상승 압력을 고조시키고 있어 주의가 필요합니다.",
-    "증시금리": "코스피는 반도체 부진과 금리 인상 악재로 6% 급락하며 6800선까지 밀렸습니다. 이번 주 엔비디아, 알파벳, 인텔 등 미국 빅테크 실적 발표와 연준 의사록 공개가 국내 증시의 방향성을 결정할 중요한 변수입니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "미국 주요 빅테크 기업들의 실적 발표가 본격화되며, AI 관련 산업의 성장세와 투자 동향에 대한 중요한 지표가 될 것입니다. 이는 국내 AI 및 반도체 섹터의 투자 심리에 직접적인 영향을 미칠 전망입니다.",
-    "오늘의투자시사점": "현재 시장은 금리 인상 기조와 지정학적 리스크로 인한 불확실성이 높은 만큼 보수적인 투자 전략을 유지해야 합니다. 글로벌 빅테크 실적 발표 결과와 연준의 통화 정책 스탠스, 반도체 업황 개선 여부를 면밀히 주시하며 대응할 필요가 있습니다.",
-    "오늘의한줄": "국내 증시는 금리 인상과 반도체 부진으로 약세를 보이나, 미국 빅테크 실적과 연준의 정책이 반등의 기회를 제공할지 주목됩니다."
+    "총평": "연준의 통화정책 기대감으로 글로벌 증시 선물은 긍정적 흐름을 보였으나, 금리 불확실성으로 자금시장의 신중한 포지셔닝이 확산되고 있습니다. 국내 경제는 반도체 수출 주도 경상흑자에도 불구하고 내수 부진이 심화되며 수출-내수 간 온도차가 확대되고 있습니다. 첨단 산업 성장과 인플레이션 헤지 수단에 대한 관심이 높아지는 시점입니다.",
+    "국내거시경제": "반도체 수출 호조에 힘입어 기록적인 경상수지 흑자를 달성했으나, 고금리·고물가 등으로 인한 가계 소비 위축이 내수 부진을 장기화시키며 경제의 불균형이 심화되고 있습니다.",
+    "글로벌경제": "연준의 통화정책 결정에 대한 기대감이 이란 및 유가 불안을 압도하며 미국 주요 지수 선물이 상승했습니다. 그러나 연준의 향후 금리 정책에 대한 불확실성으로 인해 자금시장 펀드들이 투자 자산의 만기를 단축하는 등 시장 전반의 경계심이 높아지고 있습니다.",
+    "증시금리": "연준의 통화정책 회의 결과가 시장 방향성을 결정할 핵심 변수로 부각되며, 금리 환경 변화에 대한 기대감이 증시 선물을 견인했습니다. 동시에 10년 만에 인플레이션을 능가하는 수익률이 보장되는 채권 투자 기회가 부상하며 포트폴리오 다변화 및 인플레이션 헤지 수단으로 주목받고 있습니다.",
+    "부동산정책": "해당 사항 없음.",
+    "기업산업": "전기차(EV), 인공지능(AI) 인프라, 재생 에너지 등 첨단 산업의 핵심 부품인 전력 인덕터가 지능형 전력 전자의 미래를 주도하며 관련 산업의 성장이 기대됩니다. 이와 함께 K바이오, 스마트카, 미국 테크 액티브 등 특정 섹터의 상장지수펀드(ETF)에 대한 시장의 관심도 지속되고 있습니다.",
+    "오늘의투자시사점": "연준의 통화정책 결정에 따른 시장 변동성을 주시하며, 반도체 및 AI, EV, 재생에너지 등 성장성이 높은 첨단 산업 관련 기업에 대한 장기적 관점의 접근이 유효합니다. 금리 불확실성 및 인플레이션 헤지를 위해 초단기채, 인플레이션 연동 채권 등 포트폴리오 다변화 전략을 적극적으로 고려할 필요가 있습니다.",
+    "오늘의한줄": "연준 정책과 내수 부진의 복합적 환경 속, 첨단 산업 성장과 안정적 채권 투자를 통한 포트폴리오 다변화가 핵심입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[주간증시전망] 6800선까지 밀린 코스피…빅테크 실적이 반등의 분수령",
-      "display_title": "[주간증시전망] 6800선까지 밀린 코스피…빅테크 실적이 반등의 분수령",
-      "original_title": "[주간증시전망] 6800선까지 밀린 코스피…빅테크 실적이 반등 가를 분수령 - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "연준 결정이 이란, 유가 불안을 압도하며 다우, S&P 500, 나스닥 선물 상승: SWRM, MU, ONDS, SOFI, LULU 주목",
+      "display_title": "연준 결정이 이란, 유가 불안을 압도하며 다우, S&P 500, 나스닥 선물 상승: SWRM, MU, ONDS, SOFI, LULU 주목",
+      "original_title": "Dow, S&P 500, Nasdaq Futures Creep Higher As Fed Decision Tops Iran, Oil Fears: Why SWRM, MU, ONDS, SOFI, LULU Are In Focus - Stocktwits",
       "summary": [
-        "코스피 지수가 6800선까지 하락하며 약세를 이어가는 가운데, 이번 주 글로벌 빅테크 기업들의 실적이 국내 증시 반등의 핵심 변수로 부상했습니다.",
-        "특히 미국 주요 기술 기업들의 실적 발표는 국내 반도체, IT 섹터의 투자 심리에 직접적인 영향을 미칠 것으로 예상됩니다.",
-        "미국 빅테크 실적 발표를 통해 글로벌 경기 및 산업 동향을 파악하고, 국내 증시의 방향성을 예측하는 데 활용해야 합니다."
+        "연준의 결정에 대한 기대감이 이란, 유가 불안 등 지정학적 리스크를 누르고 미국 주요 지수 선물(다우, S&P 500, 나스닥)이 상승했습니다.",
+        "시장은 연준의 통화 정책 방향에 더 큰 비중을 두며, 지정학적 위험보다는 금리 환경 변화에 민감하게 반응하고 있습니다.",
+        "연준의 통화정책 회의 결과가 시장 방향성을 결정할 핵심 변수로 작용할 것이며, 언급된 개별 종목들의 움직임에 주목해야 합니다."
       ],
-      "summary_text": "코스피 지수가 6800선까지 하락하며 약세를 이어가는 가운데, 이번 주 글로벌 빅테크 기업들의 실적이 국내 증시 반등의 핵심 변수로 부상했습니다. 특히 미국 주요 기술 기업들의 실적 발표는 국내 반도체, IT 섹터의 투자 심리에 직접적인 영향을 미칠 것으로 예상됩니다. 미국 빅테크 실적 발표를 통해 글로벌 경기 및 산업 동향을 파악하고, 국내 증시의 방향성을 예측하는 데 활용해야 합니다.",
-      "description": "코스피 지수가 6800선까지 하락한 가운데, 이번 주 글로벌 빅테크 기업들의 실적 발표가 국내 증시의 반등 여부를 결정할 중요한 분수령이 될 것이라는 전망입니다.",
+      "summary_text": "연준의 결정에 대한 기대감이 이란, 유가 불안 등 지정학적 리스크를 누르고 미국 주요 지수 선물(다우, S&P 500, 나스닥)이 상승했습니다. 시장은 연준의 통화 정책 방향에 더 큰 비중을 두며, 지정학적 위험보다는 금리 환경 변화에 민감하게 반응하고 있습니다. 연준의 통화정책 회의 결과가 시장 방향성을 결정할 핵심 변수로 작용할 것이며, 언급된 개별 종목들의 움직임에 주목해야 합니다.",
+      "description": "연방준비제도(Fed)의 결정 기대감이 이란 및 유가 관련 우려를 상쇄하며 다우, S&P 500, 나스닥 선물 지수가 소폭 상승했습니다. SWRM, MU, ONDS, SOFI, LULU가 주목받고 있습니다.",
       "category": "증시·금리",
-      "importance": 10,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT, 소프트웨어",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "반도체, 금융기술, 의류, 기술주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "마이크론테크놀로지",
+        "소파이",
+        "룰루레몬"
       ],
       "investment_view": "관심",
-      "investment_reason": "국내 증시의 단기적인 반등 여부가 글로벌 빅테크 기업 실적에 크게 좌우될 것으로 예상되기 때문에 면밀한 분석이 필요합니다.",
-      "key_signal": "이번 주 예정된 마이크로소프트, 알파벳, 인텔 등 미국 주요 빅테크 기업들의 실적 발표 결과와 가이던스를 최우선으로 체크해야 합니다.",
+      "investment_reason": "연준의 통화 정책 방향이 시장 전반과 개별 종목에 큰 영향을 미치므로, 주요 매크로 이벤트와 함께 종목별 반응을 주시해야 합니다.",
+      "key_signal": "이번 주 연준의 금리 결정 및 성명 내용에 따라 시장의 단기적인 방향이 결정될 것이므로, 관련 발표를 집중적으로 확인해야 합니다.",
       "keywords": [
-        "코스피",
-        "주간증시",
-        "빅테크실적",
-        "반도체",
-        "IT"
+        "연준",
+        "금리",
+        "선물지수",
+        "유가",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUZXh0SV9jRXFUUWlYUk1ubG12ZDQzZTFRNmYzanpwMWF0dm9xSEpiU05CM2RhVG0xNjFRY1JqVklzU0pseGJxeV9iQ1VjZXV2UEJz?oc=5",
-      "published": "2026-07-18 07:03",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xfMVg2N2F6VVJSV1M1RGQxUEVEVFVXa2VDZXZiWnNsLWZnVmZEa1pjZzBwTUhtN3NXTHpNdG5ER3ZQMUZkMmgtbEV3OUtJa2p0dVd6RFhud0tiajkwdVI5RzhTQ0xsSi1JWGt1TjB6ZGdwMThrUWllTUx1Q3V6U20zUWVuMTB5djQ0LVdrc2c4X2g0eDhKZGlTX2tpbF9ZczRZdk14UlZIUzhuZGtrZDRDQ1FXcGlQb1hMdE5idlJwaW1VdVZv?oc=5",
+      "published": "2026-07-18 21:32",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,37 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "‘엎친 데 덮친 격’ 코스피 6% 급락…반도체 휘청이는 와중에 금리인상까지",
-      "display_title": "‘엎친 데 덮친 격’ 코스피 6% 급락…반도체 휘청이는 와중에 금리인상까지",
-      "original_title": "‘엎친데 덮친 격’ 코스피 6% 급락…반도체 휘청이는데 금리인상까지 - MSN",
+      "title": "반도체 주도 기록적 경상흑자, 심화되는 수출-내수 온도차",
+      "display_title": "반도체 주도 기록적 경상흑자, 심화되는 수출-내수 온도차",
+      "original_title": "반도체가 이끈 기록적 경상흑자…커지는 '수출-내수 온도차' - 뉴스1",
       "summary": [
-        "코스피 지수가 반도체 섹터의 부진과 금리 인상이라는 이중 악재로 인해 6% 급락하는 모습을 보이며 시장에 충격을 주었습니다.",
-        "이는 글로벌 경기 둔화 우려, 기술주 약세, 그리고 국내외 통화 긴축 정책의 영향이 복합적으로 작용한 결과로 분석됩니다.",
-        "현재 시장은 매크로 환경 변화에 민감하게 반응하고 있으므로, 반도체 업황 개선 여부와 금리 인상 기조 변화에 대한 지속적인 관찰이 중요합니다."
+        "반도체 수출 호조로 한국이 기록적인 경상수지 흑자를 달성했으나, 수출의 강세와 달리 내수 경기는 부진하여 경제의 '온도차'가 확대되고 있습니다.",
+        "글로벌 반도체 경기 회복에 따른 수출 증가는 긍정적이나, 고금리, 고물가 등으로 인한 가계 소비 위축이 내수 부진의 주요 원인으로 작용하고 있습니다.",
+        "수출 중심 기업, 특히 반도체 관련 기업은 긍정적이지만, 내수 경기 회복 지연은 소비재 및 내수 관련 기업들에게는 부담으로 작용할 수 있습니다."
       ],
-      "summary_text": "코스피 지수가 반도체 섹터의 부진과 금리 인상이라는 이중 악재로 인해 6% 급락하는 모습을 보이며 시장에 충격을 주었습니다. 이는 글로벌 경기 둔화 우려, 기술주 약세, 그리고 국내외 통화 긴축 정책의 영향이 복합적으로 작용한 결과로 분석됩니다. 현재 시장은 매크로 환경 변화에 민감하게 반응하고 있으므로, 반도체 업황 개선 여부와 금리 인상 기조 변화에 대한 지속적인 관찰이 중요합니다.",
-      "description": "코스피가 6% 급락하며 큰 폭의 하락세를 보였습니다. 이는 반도체 산업의 부진과 더불어 금리 인상이라는 악재가 겹쳤기 때문입니다.",
-      "category": "증시·금리",
-      "importance": 10,
-      "market_impact": "부정",
-      "related_sector": "국내 거시경제, 반도체, 금융",
+      "summary_text": "반도체 수출 호조로 한국이 기록적인 경상수지 흑자를 달성했으나, 수출의 강세와 달리 내수 경기는 부진하여 경제의 '온도차'가 확대되고 있습니다. 글로벌 반도체 경기 회복에 따른 수출 증가는 긍정적이나, 고금리, 고물가 등으로 인한 가계 소비 위축이 내수 부진의 주요 원인으로 작용하고 있습니다. 수출 중심 기업, 특히 반도체 관련 기업은 긍정적이지만, 내수 경기 회복 지연은 소비재 및 내수 관련 기업들에게는 부담으로 작용할 수 있습니다.",
+      "description": "반도체 수출 호조에 힘입어 사상 최대 경상수지 흑자를 달성했지만, 수출 부문과 내수 경제 간의 성장 격차가 커지고 있습니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "반도체, 수출주, 내수주, 유통, 소비재",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
-        "카카오"
+        "현대차"
       ],
-      "investment_view": "주의",
-      "investment_reason": "국내 증시의 급락을 야기한 주요 원인들이 단기간 내 해소되기 어려울 수 있어 투자자들의 보수적인 접근이 필요한 시점입니다.",
-      "key_signal": "국내외 금리 인상 속도와 반도체 산업의 선행 지표 변화를 면밀히 주시하며 시장의 추가적인 하락 리스크를 관리해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "한국 경제의 핵심인 반도체와 수출 동향을 파악하고, 수출-내수 간 불균형이 주식 시장에 미칠 영향을 예측하는 데 중요합니다.",
+      "key_signal": "반도체 수출의 지속 가능성과 내수 부진을 해소하기 위한 정부 정책의 효과를 주시해야 합니다.",
       "keywords": [
-        "코스피급락",
+        "경상수지",
         "반도체",
-        "금리인상",
-        "거시경제",
-        "시장충격"
+        "수출",
+        "내수",
+        "경제지표"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQS0pfczFCUTdXNDNtNzVzTElfbzMwZlJidzlWeEtzRDlYX2Y2NnFYME1MY1d2RkYxLVd4d0Q4WUd5akRRZGdPSm9JbnlyV1NKOG8yT0Q2X1ZVd3h1MVJQUng4c090S3NaMUZnSG5IQ2h5RnJ5cnBCMktBZ19aS0JrZnBpMEh2OWp3WXhRWTZDaTV3T2IyQi1oX3kyMVA5SlJ6ek9XRWMzNTNDdUNKQ193bVVXN2xkM1dOLVhQS3VLdXlyVXVhN0psZlJhdW5fc2FRYXhrS1JlQzhiM1lyNVhpTms0NnNpandqUzQ3c3V1MXlSS29IbkdlUW81VVM4UUt6S2RTaE5qNmdVWVUteVpWRmhQaENUcGJXSnI4cnZlWFZ5eUVhZURCQ0l5TnpIZGN6SHpCVlRDSlVWa3NBbDA1U0pmT2FCTlVLdGFES3l5ZUJQb1lkSDFFTDVTb3FFaC0tYjAwakw2bEYzMTlzSG1ueVNTMGxCaTFSLVhOOEs1ZDIwUFVjVXZ5bVdIVWUyUzAzZDRCaEhtM3FMWHFvcVhGLUJjMmRUd2dp?oc=5",
-      "published": "2026-07-18 02:48",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZOFN0T0YtMzh2a2tsM19BZjRTOWtJMHpBQjVsaFBaaXdKM21aT2d3Y195eWxMTU01bXZBNjRIVm42WjBrZlZseEI1bGpsaVdvRDFhUA?oc=5",
+      "published": "2026-07-19 07:10",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -109,42 +109,42 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "금리 인상 첫날부터 타격…코스피·코스닥 동반 사이드카 발동",
-      "display_title": "금리 인상 첫날부터 타격…코스피·코스닥 동반 사이드카 발동",
-      "original_title": "금리인상 첫날부터 멍들었다... 코스피·코스닥 동반 사이드카 - MSN",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "10년 만의 채권 투자 기회: 인플레이션 헤지가 보장된 상품",
+      "display_title": "10년 만의 채권 투자 기회: 인플레이션 헤지가 보장된 상품",
+      "original_title": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation - MarketWatch",
       "summary": [
-        "금리 인상 조치가 시작된 첫날, 코스피와 코스닥 양대 지수에서 동반 사이드카가 발동될 정도로 국내 증시가 급락했습니다.",
-        "이는 시장의 예상보다 강한 금리 인상 기조와 경기 둔화 우려가 복합적으로 작용하여 투자 심리를 크게 위축시킨 결과입니다.",
-        "당분간 금리 인상 기조와 그에 따른 기업 실적 및 소비 위축 가능성을 고려하여 보수적인 투자 전략을 유지할 필요가 있습니다."
+        "인플레이션을 능가하는 수익률이 보장되는 10년 만의 채권 투자 기회가 부상하고 있습니다.",
+        "고금리 및 인플레이션 환경에서 안정적인 수익과 자산 보호를 추구하는 투자자들에게 매력적인 대안으로 제시됩니다.",
+        "주식 시장 변동성이 큰 시기에 포트폴리오 다변화 및 인플레이션 헤지 수단으로 채권 투자 고려가 필요합니다."
       ],
-      "summary_text": "금리 인상 조치가 시작된 첫날, 코스피와 코스닥 양대 지수에서 동반 사이드카가 발동될 정도로 국내 증시가 급락했습니다. 이는 시장의 예상보다 강한 금리 인상 기조와 경기 둔화 우려가 복합적으로 작용하여 투자 심리를 크게 위축시킨 결과입니다. 당분간 금리 인상 기조와 그에 따른 기업 실적 및 소비 위축 가능성을 고려하여 보수적인 투자 전략을 유지할 필요가 있습니다.",
-      "description": "금리 인상 조치 시행 첫날, 코스피와 코스닥 양 시장 모두 사이드카가 발동될 정도로 큰 폭의 하락세를 기록하며 시장이 큰 타격을 입었습니다.",
+      "summary_text": "인플레이션을 능가하는 수익률이 보장되는 10년 만의 채권 투자 기회가 부상하고 있습니다. 고금리 및 인플레이션 환경에서 안정적인 수익과 자산 보호를 추구하는 투자자들에게 매력적인 대안으로 제시됩니다. 주식 시장 변동성이 큰 시기에 포트폴리오 다변화 및 인플레이션 헤지 수단으로 채권 투자 고려가 필요합니다.",
+      "description": "지금 놓치고 있는 채권 투자는 10년 만의 최고의 기회이며, 인플레이션을 확실히 이길 수 있습니다.",
       "category": "증시·금리",
-      "importance": 10,
-      "market_impact": "부정",
-      "related_sector": "국내 거시경제, 금융, 증권",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "채권, 자산운용",
       "related_stocks": [
-        "삼성전자",
-        "카카오",
-        "KB금융"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "금리 인상으로 인한 유동성 축소와 경기 침체 우려가 국내 증시에 당분간 지속적인 하방 압력으로 작용할 가능성이 높기 때문입니다.",
-      "key_signal": "국내외 금리 인상 기조의 변화와 경제 지표 발표를 면밀히 살피고, 각 기업의 실적 전망치 하향 조정 여부를 확인하며 시장에 대응해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "인플레이션 헤지가 가능한 안정적인 투자처는 포트폴리오 위험 관리 및 수익률 방어에 중요하기 때문입니다.",
+      "key_signal": "고정 수입 투자 기회가 확산될 경우 주식 시장의 유동성 변화를 주시해야 합니다.",
       "keywords": [
-        "금리인상",
-        "사이드카",
-        "코스피",
-        "코스닥",
-        "시장충격"
+        "채권",
+        "인플레이션",
+        "고정수익",
+        "자산배분",
+        "헤지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPNVpMMmJ1c1prRXUxOTlJTzgxNGk1VVljV1hxZGktdXhLSmt0bmVDYXlnQWFiNktwLTBxeG5TSTV4anJBRkNtMEx3SjUtX2pTTmhfd1AxRzRrbXZaVXVncng5UmFzWk0tMzdCLTdUa0I4Y3ZOTS1adEFGQnJUN0N1RXFiZWY1YWNkNXktNER0SFlrVlJSbHBfVDJHTkhEVWJVdFhoM1ZWQTRxaV8xN09RbmlHZ0psVjVodkxqWHctT1h6NkFHaU5QQWlWdVIyOVQwUnlDZjJDYUpEZ2dmNHpaQkc0WV9JYTJkbEtqNjdZTkw4cGlCbHdfTmRndmtROFd3c2hCakNlc1c3cFRsd194SlFnbGZ5aXA4NHVzQmY5T0VmOFZ4VEhHZzZhZmVON2FPYmZ4T2Rod1M4bWxJRTlSZ0RIWE50VWQxaEg4QWVUdXNGeW1iQ3Y3Nml1bzB2eDB1d25xbzU3Zm12V2hmalUycXdJN2tQdklCaXR1VkFCbERDSEFKQXVfSnJ6dkVOYWhUYjNNQ05DRVQ?oc=5",
-      "published": "2026-07-17 22:32",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSE8yYWlGbVU2eVoyNS1Sb2Q0QlZQQVBsVlBmZzU2Tmh2OVZLdi0yd0p4ejN0bXN5bU4wWTJzZWRTcVZBaTdWYlRBWUp4ckc2ZTFFUHhBY0JHN0FGLUJ4VDUzUmdmanVVNEI1Z1p6RDBvOEF4dHNyWU10UlZpWi1KdGwtYnIzeWsxbnpITFFaWU11WElVdExuTjlwNV84bXV6WnhRdkhOOU9CRl9WV2RNWkJfemU0OTNGczJrRklmMzZDYnM?oc=5",
+      "published": "2026-07-19 02:57",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,37 +154,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "엔비디아 실적 및 연준 의사록 발표 앞두고 나스닥, S&P 500 선물 상승: 테슬라, SLS, IBRX, CAVA, POET, BA 주목",
-      "display_title": "엔비디아 실적 및 연준 의사록 발표 앞두고 나스닥, S&P 500 선물 상승: 테슬라, SLS, IBRX, CAVA, POET, BA 주목",
-      "original_title": "Nasdaq, S&P 500 Futures Rise Ahead Of Nvidia Earnings, Fed Minutes: Why TSLA, SLS, IBRX, CAVA, POET, BA Are In Focus - Stocktwits",
+      "title": "전력 인덕터: EV 확장, AI 인프라, 재생 에너지 혁신을 통한 지능형 전력 전자의 미래 주도",
+      "display_title": "전력 인덕터: EV 확장, AI 인프라, 재생 에너지 혁신을 통한 지능형 전력 전자의 미래 주도",
+      "original_title": "Power Inductors Driving the Future of Intelligent Power Electronics Through EV Expansion, AI Infrastructure, and Renewable Energy Innovation - Spherical Insights",
       "summary": [
-        "엔비디아 실적 발표와 연준 FOMC 의사록 공개를 앞두고 미국 증시 선물 지수가 상승세를 보이며 시장의 기대감을 반영하고 있습니다.",
-        "이는 빅테크 실적 기대감과 함께 금리 인상 속도 조절에 대한 희망이 복합적으로 작용한 결과로 풀이됩니다.",
-        "미국 주요 기업 실적과 연준의 통화 정책 스탠스는 국내 증시에도 큰 영향을 미치므로 주요 변수를 지속적으로 모니터링해야 합니다."
+        "전력 인덕터는 전기차, AI 인프라, 재생 에너지 등 첨단 산업 분야에서 지능형 전력 전자 기술의 핵심 부품으로 부상하고 있습니다.",
+        "이들 산업의 급속한 성장은 고성능 전력 관리 솔루션의 수요를 증가시키며, 관련 부품 산업의 동반 성장을 촉진하고 있습니다.",
+        "전력 인덕터 제조 및 관련 전력 전자 부품 산업은 미래 핵심 산업의 성장과 직결되어 있어 장기적인 투자 기회를 제공합니다."
       ],
-      "summary_text": "엔비디아 실적 발표와 연준 FOMC 의사록 공개를 앞두고 미국 증시 선물 지수가 상승세를 보이며 시장의 기대감을 반영하고 있습니다. 이는 빅테크 실적 기대감과 함께 금리 인상 속도 조절에 대한 희망이 복합적으로 작용한 결과로 풀이됩니다. 미국 주요 기업 실적과 연준의 통화 정책 스탠스는 국내 증시에도 큰 영향을 미치므로 주요 변수를 지속적으로 모니터링해야 합니다.",
-      "description": "엔비디아 실적 발표와 연방공개시장위원회(FOMC) 의사록 공개를 앞두고 나스닥 및 S&P 500 선물 지수가 상승했으며, 테슬라 등 일부 종목이 주목받고 있습니다.",
-      "category": "증시·금리",
-      "importance": 9,
+      "summary_text": "전력 인덕터는 전기차, AI 인프라, 재생 에너지 등 첨단 산업 분야에서 지능형 전력 전자 기술의 핵심 부품으로 부상하고 있습니다. 이들 산업의 급속한 성장은 고성능 전력 관리 솔루션의 수요를 증가시키며, 관련 부품 산업의 동반 성장을 촉진하고 있습니다. 전력 인덕터 제조 및 관련 전력 전자 부품 산업은 미래 핵심 산업의 성장과 직결되어 있어 장기적인 투자 기회를 제공합니다.",
+      "description": "전력 인덕터가 전기차(EV) 확장, 인공지능(AI) 인프라 구축, 재생 에너지 혁신을 통해 지능형 전력 전자의 미래를 이끌고 있습니다.",
+      "category": "기업·산업",
+      "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "반도체, IT, 전기차",
+      "related_sector": "전력 반도체, 전기차 부품, AI 인프라, 재생에너지",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "LG에너지솔루션"
+        "삼성전기",
+        "LG이노텍"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 주요 기업 실적 및 연준의 통화 정책 방향이 국내 증시 투자 심리에 직접적인 영향을 미치기 때문입니다.",
-      "key_signal": "엔비디아 실적 발표 내용과 연준 FOMC 의사록의 세부 내용을 확인하여 시장의 기대감이 유지될지, 혹은 변화할지 파악해야 합니다.",
+      "investment_reason": "미래 핵심 산업의 성장에 필수적인 핵심 부품 시장의 성장 잠재력이 매우 높기 때문입니다.",
+      "key_signal": "전기차, AI, 재생에너지 관련 산업의 성장이 지속될 경우 전력 인덕터 및 전력 전자 부품 기업들의 실적 개선을 기대할 수 있습니다.",
       "keywords": [
-        "엔비디아",
-        "FOMC",
-        "미국증시",
-        "선물",
-        "빅테크"
+        "전력인덕터",
+        "전기차",
+        "AI",
+        "재생에너지",
+        "전력전자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEZuOVk0MS12VnI0U3FRX1E4Tk1nZTJrM0dzTGtpbDF0ZGxvTFVad3RRdFV0X2J4RXpxRW9ncEJ2V0dDcHpxNVVPQlMxeXZtdTVNRnZZUkJhd0NrbVAwY1lsMWptTW9obmI0Y0ZnSzktYWhURkxyTnZZMGxRajEwc2U4cURlX1NnVFRkT3Y3OG9sRkVsVlJCdVV6ZldGZ1VZQndoU0E2Z19DT0o0ODhncnpWd19QNDZ2bzNsdWs3UUJ4VzRUVkZ2XzFCN1BsVDBuZHR3?oc=5",
-      "published": "2026-07-17 21:17",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPR1llVkNianJPNTltSE9QVGVIVDRCSDVVcVZtT0NRS3NBWUdlbThSREkzWU9qVzhHbUJEdnZiUGthbmJFdnFXY1AyN3JtOUhUdGpvMGp2LVJJTThHTzlxaXJuRjNwbHl5LWZMeFFiTUpRaVg0ektjR0dXZTZ6c3F2M09oeVV2OGpUTVNTWmQyU2xjc1NORlNjOFFHd2xZZkhNRDJ6RTgyWFlVaExnTHg0ekxKVG5BRko5ZEVVQXp1Q1dNaU9INDZ1UVhuWDF2WjhyUHdER3lqNm1fR2UwQjJtS1NBQWNYWDVXZThPVWhIVm0zcW9HZGJaWEx2ZGJzMWdEUUtjcFJ6RTFqdw?oc=5",
+      "published": "2026-07-18 21:05",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -196,37 +195,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "월가 주간 전망: 미국 기업 실적 발표 본격화 속에 알파벳, 인텔 실적 및 AI 관련 투자 동향 주목",
-      "display_title": "월가 주간 전망: 미국 기업 실적 발표 본격화 속에 알파벳, 인텔 실적 및 AI 관련 투자 동향 주목",
-      "original_title": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters",
+      "title": "미국 증시: 연준 금리 불확실성으로 자금시장 펀드 만기 단축, 신중한 포지셔닝 확산",
+      "display_title": "미국 증시: 연준 금리 불확실성으로 자금시장 펀드 만기 단축, 신중한 포지셔닝 확산",
+      "original_title": "US Stock Market: Money market funds shorten maturities as Fed rate uncertainty drives cautious positioning - The Economic Times",
       "summary": [
-        "이번 주 미국에서는 알파벳(Google 모회사)과 인텔 등 주요 빅테크 기업들의 실적 발표가 예정되어 있습니다.",
-        "이들 기업의 실적은 특히 AI 관련 산업의 성장세와 투자 방향에 대한 중요한 지표가 될 것으로 예상됩니다.",
-        "글로벌 AI 시장의 주요 기업 실적은 국내 AI 관련주 및 반도체 섹터의 투자 심리에 직접적인 영향을 미칠 수 있습니다."
+        "연준의 향후 금리 정책에 대한 불확실성이 커지면서, 자금시장 펀드들이 투자 자산의 만기를 단축하며 유동성을 확보하고 있습니다.",
+        "이는 금리 인상 또는 인하 사이클의 전환점이나 변동성이 높은 시기에 투자자들이 장기 고정금리 투자를 회피하고 단기 고금리 자산을 선호하는 경향을 반영합니다.",
+        "시장 전반의 투자 심리가 위축되고 있으며, 금리 변동성에 대한 경계심이 높아지고 있어 보수적인 자산 배분이 필요할 수 있습니다."
       ],
-      "summary_text": "이번 주 미국에서는 알파벳(Google 모회사)과 인텔 등 주요 빅테크 기업들의 실적 발표가 예정되어 있습니다. 이들 기업의 실적은 특히 AI 관련 산업의 성장세와 투자 방향에 대한 중요한 지표가 될 것으로 예상됩니다. 글로벌 AI 시장의 주요 기업 실적은 국내 AI 관련주 및 반도체 섹터의 투자 심리에 직접적인 영향을 미칠 수 있습니다.",
-      "description": "다가오는 한 주 동안 미국 기업들의 실적 발표가 본격화되며, 특히 알파벳과 인텔의 실적 및 AI 관련 투자 동향에 월가가 주목하고 있습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "AI, 반도체, 클라우드",
+      "summary_text": "연준의 향후 금리 정책에 대한 불확실성이 커지면서, 자금시장 펀드들이 투자 자산의 만기를 단축하며 유동성을 확보하고 있습니다. 이는 금리 인상 또는 인하 사이클의 전환점이나 변동성이 높은 시기에 투자자들이 장기 고정금리 투자를 회피하고 단기 고금리 자산을 선호하는 경향을 반영합니다. 시장 전반의 투자 심리가 위축되고 있으며, 금리 변동성에 대한 경계심이 높아지고 있어 보수적인 자산 배분이 필요할 수 있습니다.",
+      "description": "연방준비제도(Fed)의 금리 정책 불확실성으로 인해 자금시장 펀드(MMF)가 만기를 단축하며 더욱 신중한 투자 포지션을 취하고 있습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "자산운용, 금융, 채권",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "KB금융",
+        "신한지주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 AI 및 반도체 시장의 방향성을 제시할 주요 기업들의 실적이 국내 관련 산업의 투자 전략 수립에 중요한 단서가 되기 때문입니다.",
-      "key_signal": "알파벳과 인텔의 실적 발표에서 AI 관련 사업부의 성장률, 투자 계획, 그리고 전망에 대한 언급을 집중적으로 살펴봐야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 금리 불확실성 증가는 시장 변동성을 높이고 투자 심리를 위축시켜 전반적인 투자 환경에 부정적인 영향을 줄 수 있기 때문입니다.",
+      "key_signal": "연준의 다음 금리 결정 및 성명에서 금리 경로에 대한 명확한 신호가 나올 때까지 시장의 불확실성이 지속될 수 있습니다.",
       "keywords": [
-        "알파벳",
-        "인텔",
-        "AI",
-        "기업실적",
-        "빅테크"
+        "연준",
+        "금리인상",
+        "금리인하",
+        "자금시장펀드",
+        "불확실성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmJhQmIyVFFQQ2FDdzIwZThieC00dE9yZEZNMVRSb20tRFAxVlZLYURkU1VYMC1ESlpFZ1poUnFoU0hJbno2VEd1VTB4Nl96YThVdTZUcDJiSmhWbFJhc0dzT0xnZE10aW9jZHRhdmRlWEE4cXF1MlNsdjNVTzZEZmtxLUFtLWN3YUJrbVB5eDd0cVkwaGJrTnVuLUwyeTBjUERETjNfMUZ3cWlzTklCeDJOTDd3SnVYaGNuUQ?oc=5",
-      "published": "2026-07-18 06:40",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaVVUbFlONGVWci0yUXNuUjRfeTdBem9HYnc3dFdlOEM2X2tLVjNGaDhNa3VRV0tUS293Q0FxYzRvOVhzYjhaejVVMHFpTmRkMERjblRQa0V1MDFPSmFjd0hxSHVFVzVBLUViLUlZSUdObEZoNTFSaWJGS2ZYdl9DcjlUa3g3UFJlajc2Ylh6Y1VWR2d3NmZISzVpZ3hZOUE0T2szd3VYT2c0WXMyZjR2cHBQdEMxdkNJQ3pkek5xSjFNamh2ZHBSTENySEtubmppejBuNnJra3FQYzZQa3d3Y2tkcHpsOWliSW1wQXU5OS05S3dUYjF3WFNGRU83bjI0TllkYXZxa0YxNV8xU1NV0gGUAkFVX3lxTFBIdjItelhyaEtQeU40anB0RXRJLVhKeUg4bC11SllUZ3BKSE9RcHJvQU5PTktCY0N3aS01UXd5UF9nRGMtclEtVEtqTmZVRUo0SzRiYURWN3B3VUV3cXZmSUJoVkJBQkRvVlJKUUpRbmczMGo3bFF5ejFWd3JjdDdZd3NvcEs5a2pxemV5YWpkc1hqV3ZFWjJsRGxDWEd5OEhCTm0weF9NRG0zaXlvV1JYOTFtOVFCTm5MbHZZUWtpNVd4RVg4TzJpanZWT3oxb1dDenZFYXZoa0I4bXdOUmhEMHNteU9HUjJ3d0gxYzBtc21ET3hXd2xUdVJhY3Y1UlNUZzktdTM0alpCWGVzSG9rckpreg?oc=5",
+      "published": "2026-07-18 13:35",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -235,41 +233,42 @@
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "IMF, 글로벌 디스인플레이션 정체 확인 속 이란, 반다르 압바스 인프라 공격",
-      "display_title": "IMF, 글로벌 디스인플레이션 정체 확인 속 이란, 반다르 압바스 인프라 공격",
-      "original_title": "Iran Strikes Bandar Abbas Infrastructure as IMF Confirms Global Disinflation Has Stalled - Tech Times",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "K바이오·스마트카·초단기채·미국 테크 액티브 [이주의 상장ETF]",
+      "display_title": "K바이오·스마트카·초단기채·미국 테크 액티브 [이주의 상장ETF]",
+      "original_title": "K바이오·스마트카·초단기채·美테크액티브 [이주의 상장ETF] - IT조선",
       "summary": [
-        "IMF가 글로벌 물가상승률 둔화(디스인플레이션) 추세가 정체되고 있음을 확인하며 인플레이션 압력이 지속될 가능성을 시사했습니다.",
-        "동시에 이란이 주요 항구 인프라를 공격했다는 소식은 중동 지역 지정학적 리스크를 고조시키고 유가 상승 압력을 가중시킬 수 있습니다.",
-        "지정학적 리스크와 인플레이션 재점화 가능성은 글로벌 경제 전반과 국내 증시에 부정적인 영향을 미칠 수 있으므로 주의 깊은 관찰이 필요합니다."
+        "이번 주 투자자들이 주목해야 할 상장지수펀드(ETF) 목록에 K바이오, 스마트카, 초단기채, 미국 테크 액티브 분야가 포함되었습니다.",
+        "이들 ETF는 각각 국내 바이오 산업 성장, 미래 모빌리티 트렌드, 금리 불확실성 대응, 미국 기술주 투자 등 다양한 시장 흐름과 투자 전략을 반영하고 있습니다.",
+        "투자자들은 언급된 섹터와 투자 전략에 대한 시장의 관심이 높다는 점을 인지하고, 개별 종목 투자 외에 관련 ETF를 통해 분산 투자 기회를 모색할 수 있습니다."
       ],
-      "summary_text": "IMF가 글로벌 물가상승률 둔화(디스인플레이션) 추세가 정체되고 있음을 확인하며 인플레이션 압력이 지속될 가능성을 시사했습니다. 동시에 이란이 주요 항구 인프라를 공격했다는 소식은 중동 지역 지정학적 리스크를 고조시키고 유가 상승 압력을 가중시킬 수 있습니다. 지정학적 리스크와 인플레이션 재점화 가능성은 글로벌 경제 전반과 국내 증시에 부정적인 영향을 미칠 수 있으므로 주의 깊은 관찰이 필요합니다.",
-      "description": "국제통화기금(IMF)이 글로벌 디스인플레이션(물가상승률 둔화)이 정체 상태에 있음을 확인한 가운데, 이란이 반다르 압바스 인프라를 공격했다는 소식입니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "에너지, 정유, 해운, 국내 거시경제",
+      "summary_text": "이번 주 투자자들이 주목해야 할 상장지수펀드(ETF) 목록에 K바이오, 스마트카, 초단기채, 미국 테크 액티브 분야가 포함되었습니다. 이들 ETF는 각각 국내 바이오 산업 성장, 미래 모빌리티 트렌드, 금리 불확실성 대응, 미국 기술주 투자 등 다양한 시장 흐름과 투자 전략을 반영하고 있습니다. 투자자들은 언급된 섹터와 투자 전략에 대한 시장의 관심이 높다는 점을 인지하고, 개별 종목 투자 외에 관련 ETF를 통해 분산 투자 기회를 모색할 수 있습니다.",
+      "description": "이번 주 주목할 상장지수펀드(ETF)로 K바이오, 스마트카, 초단기채, 미국 테크 액티브 관련 상품들이 소개되었습니다.",
+      "category": "기업·산업",
+      "importance": 7,
+      "market_impact": "중립",
+      "related_sector": "바이오, 헬스케어, 스마트카, 모빌리티, 반도체, 기술주, 채권",
       "related_stocks": [
-        "S-OIL",
-        "흥아해운"
+        "삼성바이오로직스",
+        "셀트리온",
+        "현대차"
       ],
-      "investment_view": "주의",
-      "investment_reason": "지정학적 리스크 고조와 인플레이션 압력 지속은 글로벌 경기 침체 우려를 키우고 국내 증시에 하방 압력을 가할 수 있기 때문입니다.",
-      "key_signal": "이란-중동 지역의 추가적인 지정학적 긴장 고조 여부와 국제 유가 변동성, 그리고 IMF 및 각국 중앙은행의 인플레이션 전망 변화를 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "특정 산업 섹터와 투자 전략에 대한 시장의 관심도를 파악하고, 포트폴리오 다변화 및 트렌드 추종에 대한 아이디어를 얻을 수 있기 때문입니다.",
+      "key_signal": "K바이오, 스마트카 등 성장 산업 테마와 금리 변동성 대응을 위한 초단기채 ETF에 대한 투자자들의 수요 변화를 관찰해야 합니다.",
       "keywords": [
-        "IMF",
-        "디스인플레이션",
-        "이란",
-        "지정학적리스크",
-        "유가"
+        "ETF",
+        "K바이오",
+        "스마트카",
+        "초단기채",
+        "미국테크"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLTZMMXZEQ3BBMkpmRlA2aGhpV1lDaXNrVFZQd0xUeDViRmh6SmRIZ29aaW5fd0dIT3ZyeXRoNF9zbFBoR3ZoY2dTWHlFNXpmU0FUNDJKRXJ1YW1aSEhpNENGaGxQTFU2d2NwYzFBZE1RaGF2QlJua0w5RUhuU3V3dnJnX2xkSHdqLXJWaGpGS0pNcE5xN05RLVFMblBraWtoM0Q2dHg0WVhfWEpNMm9qVlNsN3NpWkJqN1N0OXVneS1NSTllZF9nRHJyN181RzlEOFRkRzFoYw?oc=5",
-      "published": "2026-07-18 01:17",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TQTRtY0pwdi00SmVTeEhmdWVUZE5Sa3RwQmt4MF9zRnBwRlZZeWt6Q1VMY0F4aG96VHVIZVN3VFRmSWpucDRBRDRzV1B4Sk1Kc3ZRSzAzQTZZWGxSMUxIX0UzLXFqQzQ0WVRhMFR3eGnSAXRBVV95cUxORURMMzEzY3ZYUGxxR01EQm1nZE9UUTN4OVRla2pXOWFXWWFBQ3Z5MFZJSGNOb2VXcFpjeXZCdEZkcEhrVUI0RGtySWlGZGdVYU9yZ0ZOM3ZGdUlqUDJkM0p1X1dOOVJvVTlxVkFPTTljV3Nadw?oc=5",
+      "published": "2026-07-19 06:20",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -282,67 +281,64 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 빅테크 기업 실적 발표, 엔비디아 실적 및 AI 관련 투자 동향 등 국내 증시 반등을 이끌 핵심 동향에 직접적으로 연결되어 있어 투자 심리 변화를 면밀히 관찰해야 합니다.",
+      "reason": "글로벌 반도체 시장의 긍정적 흐름과 함께 국내 수출을 주도하며 기록적인 경상흑자 달성에 핵심적인 역할을 하고 있어, 업황 개선 기대감이 높습니다.",
       "check_points": [
-        "글로벌 빅테크 기업 실적 발표 결과",
-        "엔비디아 등 주요 반도체 기업 실적 및 가이던스",
-        "연준 의사록 발표 내용 및 금리 정책 방향"
+        "글로벌 IT 수요 회복 속도",
+        "메모리 반도체 가격 동향",
+        "AI 반도체 시장 경쟁력 강화 여부"
       ],
       "related_news_titles": [
-        "[주간증시전망] 6800선까지 밀린 코스피…빅테크 실적이 반등의 분수령",
-        "‘엎친 데 덮친 격’ 코스피 6% 급락…반도체 휘청이는 와중에 금리인상까지",
-        "금리 인상 첫날부터 타격…코스피·코스닥 동반 사이드카 발동"
+        "연준 결정이 이란, 유가 불안을 압도하며 다우, S&P 500, 나스닥 선물 상승: SWRM, MU, ONDS, SOFI, LULU 주목",
+        "반도체 주도 기록적 경상흑자, 심화되는 수출-내수 온도차"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "삼성전기",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "전자부품",
       "opinion": "관심",
-      "reason": "글로벌 빅테크 및 AI 관련 기업들의 실적 발표와 투자 동향이 반도체 시장 전반에 미치는 영향이 커, 동사의 주가 방향성을 결정하는 중요한 변수가 될 것으로 예상됩니다.",
+      "reason": "전기차, AI 인프라, 재생에너지 등 미래 핵심 산업 성장에 필수적인 '전력 인덕터' 시장의 확대로 직접적인 수혜가 예상되는 첨단 부품 기업입니다.",
       "check_points": [
-        "글로벌 주요 반도체 기업 실적 발표",
-        "AI 산업 내 고성능 메모리 수요 변화",
-        "전반적인 증시 반등 여부"
+        "AI 및 EV 시장의 성장세",
+        "주요 고객사 확보 및 신규 수주 동향",
+        "전력 인덕터 기술 경쟁력"
       ],
       "related_news_titles": [
-        "[주간증시전망] 6800선까지 밀린 코스피…빅테크 실적이 반등의 분수령",
-        "‘엎친 데 덮친 격’ 코스피 6% 급락…반도체 휘청이는 와중에 금리인상까지",
-        "엔비디아 실적 및 연준 의사록 발표 앞두고 나스닥, S&P 500 선물 상승: 테슬라, SLS, IBRX, CAVA, POET, BA 주목"
+        "전력 인덕터: EV 확장, AI 인프라, 재생 에너지 혁신을 통한 지능형 전력 전자의 미래 주도"
       ]
     },
     {
       "rank": 3,
-      "name": "네이버",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "IT, 소프트웨어",
+      "sector": "자동차",
       "opinion": "관심",
-      "reason": "글로벌 빅테크 기업 실적과 AI 관련 투자 동향은 국내 IT 플랫폼 기업의 성장 전략 및 시장 평가에 중요한 영향을 미치므로, 관련 소식에 주목할 필요가 있습니다.",
+      "reason": "'스마트카' 및 '모빌리티' 섹터에 대한 시장의 관심이 높아지는 가운데, 국내 대표 완성차 기업으로서 미래차 기술 경쟁력과 시장 확장이 기대됩니다.",
       "check_points": [
-        "글로벌 빅테크 기업의 클라우드 및 AI 부문 실적",
-        "AI 기술 개발 및 사업화 동향",
-        "국내외 경기 회복에 따른 광고/커머스 시장 변화"
+        "전기차 전환 전략의 성공 여부",
+        "자율주행 등 미래차 기술 개발 현황",
+        "글로벌 판매량 및 시장 점유율 변화"
       ],
       "related_news_titles": [
-        "[주간증시전망] 6800선까지 밀린 코스피…빅테크 실적이 반등의 분수령",
-        "월가 주간 전망: 미국 기업 실적 발표 본격화 속에 알파벳, 인텔 실적 및 AI 관련 투자 동향 주목"
+        "K바이오·스마트카·초단기채·미국 테크 액티브 [이주의 상장ETF]"
       ]
     },
     {
       "rank": 4,
-      "name": "LG에너지솔루션",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "전기차, 배터리",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "나스닥 선물 상승 및 테슬라 등 글로벌 전기차 관련 기업들의 동향은 국내 2차전지 기업의 투자 심리에 직접적인 영향을 미칠 수 있으므로, 관련 발표를 주시해야 합니다.",
+      "reason": "연준의 금리 불확실성 속에서 '인플레이션 헤지가 가능한 채권 투자'에 대한 관심이 높아지는 만큼, 자산운용 및 다양한 투자 상품 제공 역량이 부각될 수 있습니다.",
       "check_points": [
-        "테슬라 등 주요 전기차 기업 실적 및 생산 계획",
-        "글로벌 친환경 정책 및 EV 시장 성장세",
-        "원자재 가격 변동성"
+        "금리 변동성 환경에서의 자산운용 전략",
+        "채권 상품 및 해외 투자 상품 경쟁력",
+        "시장 변동성 대응 능력"
       ],
       "related_news_titles": [
-        "엔비디아 실적 및 연준 의사록 발표 앞두고 나스닥, S&P 500 선물 상승: 테슬라, SLS, IBRX, CAVA, POET, BA 주목"
+        "10년 만의 채권 투자 기회: 인플레이션 헤지가 보장된 상품",
+        "미국 증시: 연준 금리 불확실성으로 자금시장 펀드 만기 단축, 신중한 포지셔닝 확산"
       ]
     }
   ],
