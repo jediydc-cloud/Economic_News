@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20 07:52",
-  "analysis_date": "2026-07-20",
+  "generated_at": "2026-07-21 08:01",
+  "analysis_date": "2026-07-21",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 증시는 고금리 우려와 반도체 업황 둔화로 하방 압력이 지속되는 가운데, 해외는 연준의 매파적 스탠스와 지정학적 리스크에 노출되었으나 AI 열풍은 긍정적 모멘텀을 제공합니다.",
-    "국내거시경제": "지난주 한국 증시는 기준금리 인상(2.75%)과 반도체주 매도세로 급락했으며, 한국은행의 추가 금리 인상 시사로 고금리 환경이 국내 증시 하방 압력을 높이고 있습니다.",
-    "글로벌경제": "이번 주 ECB 금리 결정, 알파벳·테슬라·인텔 등 빅테크 실적, 글로벌 PMI 발표가 예정되어 있어 글로벌 통화정책 방향과 기업 실적, 경기 건전성 판단에 중요한 변수가 될 것입니다.",
-    "증시금리": "연준 월러 이사가 금리 인하 요구를 일축하며 연준의 매파적 스탠스 유지를 시사, 금리 인하 기대감을 축소시켰고, 호르무즈 해협 긴장과 겹치며 미국 증시 선물에 하락 압력을 가했습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "AI 열풍이 미국 증시 선물 상승세를 견인하며 AI 인프라 및 서비스 관련 기업들이 핵심 수혜를 입고 있습니다. 장기적인 성장 잠재력을 가진 AI 관련 종목에 대한 지속적인 관심이 요구됩니다.",
-    "오늘의투자시사점": "국내는 반도체 업황 바닥 확인과 금리 인상 기조 변화에 주목하며 금리 수혜주/피해주 구분이 중요합니다. 해외는 연준의 매파적 스탠스 및 지정학적 리스크에 대비하되, AI 관련 핵심 기술 및 서비스 기업의 장기 성장 잠재력을 파악하는 투자가 유효합니다.",
-    "오늘의한줄": "고금리와 지정학적 불확실성 속 국내외 증시 변동성 확대가 예상되나, AI 산업 성장 동력은 여전히 유효하여 선택과 집중이 필요한 시점입니다."
+    "총평": "중동 지정학적 리스크와 유가 급등, 글로벌 경기 둔화 우려가 복합적으로 작용하며 국내외 증시 전반에 강한 하방 압력을 가하고 있습니다.",
+    "국내거시경제": "국제 유가가 배럴당 90달러를 재돌파하며 고물가, 고금리, 고환율의 '3고 현상'에 대한 우려가 커지고 있습니다. 이는 국내 물가 불안을 심화시키고 한국은행의 긴축 기조를 장기화할 수 있습니다.",
+    "글로벌경제": "미국-이란 긴장 고조로 국제 유가가 상승하며 글로벌 인플레이션 압력이 가중되고 있습니다. 무디스 애널리틱스는 고금리 장기화, 지정학적 리스크 등으로 글로벌 경제가 급격한 둔화 국면에 진입하고 있다고 경고했습니다.",
+    "증시금리": "중국 AI 투자 위축 우려와 중동 지정학적 리스크로 국내 증시가 급락하며 매도 사이드카가 발동되었습니다. 미국 증시 역시 유가 상승과 빅테크 실적 대기 속에 하락 마감했으나, S&P 500은 반도체주의 단기 반등에 힘입어 회복세를 보이기도 했습니다.",
+    "부동산정책": "해당 사항 없음",
+    "기업산업": "유가 상승과 글로벌 경기 둔화는 국내 기업들의 원가 부담을 가중시키고 수출 중심의 실적에 부정적인 영향을 미칠 수 있습니다.",
+    "오늘의투자시사점": "대외 불확실성과 지정학적 리스크 증대로 인해 국내외 증시의 변동성이 크게 확대될 수 있습니다. 방어적인 투자 전략을 유지하고, 유가 변동성 및 주요국의 경제 지표, 기업 실적 발표를 면밀히 주시하며 리스크 관리에 집중해야 합니다.",
+    "오늘의한줄": "중동 리스크와 유가 급등, 글로벌 경기 둔화 우려가 겹치며 시장 변동성이 커지고 있어 보수적인 접근이 필요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,36 +28,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "한국증시, 주간 급락 '삼전·닉스 매도 패닉' 및 '기준금리 2.75%로 인상'...이번주 반도체 반등 포인트는?",
-      "display_title": "한국증시, 주간 급락 '삼전·닉스 매도 패닉' 및 '기준금리 2.75%로 인상'...이번주 반도체 반등 포인트는?",
-      "original_title": "한국증시, 주간 급락 '삼전•닉스 매도 패닉' 및 '기준금리 2.75%로 인상'...이번주 반도체 반등 포인트는? [이완수의 한국금융시장 핫이슈] - citytimes.co.kr",
+      "title": "中 AI 충격에 중동 리스크까지, 코스피·코스닥 동반 매도사이드카…세계 1위 수익률에서 '세계 꼴찌'로 추락한 코스피",
+      "display_title": "中 AI 충격에 중동 리스크까지, 코스피·코스닥 동반 매도사이드카…세계 1위 수익률에서 '세계 꼴찌'로 추락한 코스피",
+      "original_title": "中 AI 충격에 중동 리스크까지, 코스피·코스닥 동반 매도사이드카…세계 1위 수익률이었는데 '세계 꼴찌'로 추락한 코스피 [시티타임스 헤드라인 5] - citytimes.co.kr",
       "summary": [
-        "지난주 한국 증시가 삼성전자 및 SK하이닉스 등 반도체주 매도세와 한국은행의 기준금리 2.75% 인상으로 급락했다.",
-        "고금리 환경과 주력 산업인 반도체 업황 둔화 우려가 복합적으로 작용하여 국내 증시의 하방 압력을 높였다.",
-        "반도체 업황의 바닥 확인과 금리 인상 기조의 변화 여부가 국내 증시 반등의 핵심이 될 것이므로 관련 지표를 주시해야 한다."
+        "중국 AI 산업의 부진과 중동발 지정학적 리스크가 겹치면서 국내 증시(코스피·코스닥)에 매도 사이드카가 발동되었고, 코스피 수익률이 급락했다.",
+        "중국의 AI 관련 투자 위축 가능성, 유가 급등을 야기하는 중동 긴장 등이 투자 심리를 급격히 악화시키며 외국인 및 기관의 대규모 매도를 촉발했다.",
+        "대외 불확실성 증대로 인해 국내 증시의 변동성이 크게 확대될 수 있으므로, 방어적인 투자 전략과 함께 대외 리스크 해소 여부를 주시해야 한다."
       ],
-      "summary_text": "지난주 한국 증시가 삼성전자 및 SK하이닉스 등 반도체주 매도세와 한국은행의 기준금리 2.75% 인상으로 급락했다. 고금리 환경과 주력 산업인 반도체 업황 둔화 우려가 복합적으로 작용하여 국내 증시의 하방 압력을 높였다. 반도체 업황의 바닥 확인과 금리 인상 기조의 변화 여부가 국내 증시 반등의 핵심이 될 것이므로 관련 지표를 주시해야 한다.",
-      "description": "지난주 한국 증시가 삼성전자와 SK하이닉스 매도세에 급락했으며, 한국은행이 기준금리를 2.75%로 인상했다. 이번 주 반도체주의 반등 가능성에 대한 분석이 필요하다.",
-      "category": "국내 거시경제",
+      "summary_text": "중국 AI 산업의 부진과 중동발 지정학적 리스크가 겹치면서 국내 증시(코스피·코스닥)에 매도 사이드카가 발동되었고, 코스피 수익률이 급락했다. 중국의 AI 관련 투자 위축 가능성, 유가 급등을 야기하는 중동 긴장 등이 투자 심리를 급격히 악화시키며 외국인 및 기관의 대규모 매도를 촉발했다. 대외 불확실성 증대로 인해 국내 증시의 변동성이 크게 확대될 수 있으므로, 방어적인 투자 전략과 함께 대외 리스크 해소 여부를 주시해야 한다.",
+      "description": "중국 AI 산업의 충격과 중동 리스크가 겹치면서 코스피와 코스닥 시장에 동반 매도 사이드카가 발동되었고, 한때 세계 1위였던 코스피 수익률이 세계 최하위로 떨어졌다.",
+      "category": "증시·금리",
       "importance": 10,
       "market_impact": "부정",
-      "related_sector": "반도체, IT, 금융",
+      "related_sector": "반도체, 기술주, 에너지",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "국내 증시의 핵심인 반도체 섹터의 불안과 한국은행의 금리 인상은 시장 전반에 큰 영향을 미치므로 주의 깊은 접근이 필요하다.",
-      "key_signal": "한국 반도체 기업들의 실적 전망과 한국은행의 추가 금리 인상 여부 및 글로벌 반도체 업황 지표를 집중적으로 살펴야 한다.",
+      "investment_reason": "중국 AI 산업의 부진과 중동 리스크가 복합적으로 국내 증시에 심각한 하방 압력을 가하고 있으며, 단기적으로 높은 변동성에 대비해야 하기 때문이다.",
+      "key_signal": "중국의 AI 산업 정책 변화, 중동 정세의 안정화 여부, 외국인 투자자들의 수급 동향을 최우선적으로 파악해야 한다.",
       "keywords": [
-        "한국증시",
-        "반도체",
-        "삼성전자",
-        "SK하이닉스",
-        "금리인상"
+        "코스피",
+        "코스닥",
+        "매도 사이드카",
+        "중국 AI",
+        "중동 리스크"
       ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVjExc0dCVE9DdUVmRGxzT1lkbFF4Z0VYQzhKTDZxUFdmMnItdW9MVnl4Qk8zQXhpcXhqeEZSalJFVXZtQlg1c3hoX2JVTEh6WE1NdEdibWh2Y1V0bzVLWDVnS04ySXBXbUdrZE9zc1dEUdIBckFVX3lxTE9PVjExc0dCVE9DdUVmRGxzT1lkbFF4Z0VYQzhKTDZxUFdmMnItdW9MVnl4Qk8zQXhpcXhqeEZSalJFVXZtQlg1c3hoX2JVTEh6WE1NdEdibWh2Y1V0bzVLWDVnS04ySXBXbUdrZE9zc1dEUQ?oc=5",
-      "published": "2026-07-19 19:52",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hOXVfZkowMDR3LUFRWGpZMHNBOVJfSmxFSjBxN1RvWmJIRkJVNklGU2NNaXBlZWgzX0JEQWpnNWZpbm42elpGdnl3cFhYVmpzX2kzZlFfNGdxX19vVzJ2TlotTk1hLTFZeFRWSG1waEwzd9IBckFVX3lxTE5hOXVfZkowMDR3LUFRWGpZMHNBOVJfSmxFSjBxN1RvWmJIRkJVNklGU2NNaXBlZWgzX0JEQWpnNWZpbm42elpGdnl3cFhYVmpzX2kzZlFfNGdxX19vVzJ2TlotTk1hLTFZeFRWSG1waEwzdw?oc=5",
+      "published": "2026-07-20 19:49",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -69,37 +69,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 월러 이사, 트럼프의 금리 인하 요구 일축",
-      "display_title": "연준 월러 이사, 트럼프의 금리 인하 요구 일축",
-      "original_title": "Fed Governor Christopher Waller just drove a dagger through President Donald Trump's demand for lower interest rates - MSN",
+      "title": "미국-이란 긴장 고조로 유가 상승",
+      "display_title": "미국-이란 긴장 고조로 유가 상승",
+      "original_title": "Petrol prices climb as US–Iran tensions disrupt markets - Al Jazeera",
       "summary": [
-        "연준 월러 이사가 도널드 트럼프 대통령의 금리 인하 요구에 대해 부정적인 입장을 표명했다.",
-        "이는 잠재적 차기 대통령의 정책 선호와 연준의 독립성 유지 간의 긴장을 보여주며, 연준의 매파적 스탠스 유지 가능성을 시사한다.",
-        "연준의 금리 인하 기대감이 축소되며 시장 전반에 부정적인 영향을 미칠 수 있으므로 투자에 주의해야 한다."
+        "미국과 이란 간의 긴장이 고조되면서 국제 유가가 상승하고 있다.",
+        "중동 지역의 지정학적 불안정은 원유 공급에 대한 우려를 심화시켜 유가 상승의 주요 동인이 되고 있다.",
+        "유가 상승은 국내 물가에 부정적인 영향을 미치고, 기업들의 원가 부담을 가중시켜 실적 악화 및 소비 위축으로 이어질 수 있다."
       ],
-      "summary_text": "연준 월러 이사가 도널드 트럼프 대통령의 금리 인하 요구에 대해 부정적인 입장을 표명했다. 이는 잠재적 차기 대통령의 정책 선호와 연준의 독립성 유지 간의 긴장을 보여주며, 연준의 매파적 스탠스 유지 가능성을 시사한다. 연준의 금리 인하 기대감이 축소되며 시장 전반에 부정적인 영향을 미칠 수 있으므로 투자에 주의해야 한다.",
-      "description": "연준 월러 이사는 도널드 트럼프 대통령의 금리 인하 요구를 강력히 반대하는 입장을 표명했다.",
-      "category": "증시·금리",
+      "summary_text": "미국과 이란 간의 긴장이 고조되면서 국제 유가가 상승하고 있다. 중동 지역의 지정학적 불안정은 원유 공급에 대한 우려를 심화시켜 유가 상승의 주요 동인이 되고 있다. 유가 상승은 국내 물가에 부정적인 영향을 미치고, 기업들의 원가 부담을 가중시켜 실적 악화 및 소비 위축으로 이어질 수 있다.",
+      "description": "미국과 이란 간의 긴장이 고조되면서 시장이 불안정해지고 휘발유 가격이 상승하고 있다.",
+      "category": "글로벌 경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 성장주",
+      "related_sector": "정유, 항공, 운송, 화학",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK이노베이션",
+        "S-Oil",
+        "대한항공"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준 고위 인사의 매파적 발언은 시장의 금리 전망에 직접적인 영향을 미치므로 주의 깊게 살펴봐야 한다.",
-      "key_signal": "연준의 향후 금리 정책 방향에 대한 추가적인 힌트와 시장의 반응을 주시해야 한다.",
+      "investment_reason": "유가 상승은 인플레이션 압력을 높여 통화 긴축 우려를 다시 불러오고, 기업들의 수익성을 악화시키는 주요 요인이기 때문이다.",
+      "key_signal": "미국-이란 관계의 추가적인 진전 상황과 국제 유가 추이를 면밀히 모니터링해야 한다.",
       "keywords": [
-        "연준",
-        "금리인하",
-        "매파적",
-        "월러",
-        "통화정책"
+        "유가",
+        "미국-이란",
+        "중동",
+        "인플레이션",
+        "에너지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWDhJYzdvQnA1RkladTlLV1VmVXZma0cwSVpCeDhhN185cHlEMUpSeEdPNG9jcU1RbTZaaDJDXzMtNV9UaTRQWURxZGJvUW9vc3VFcVZ2UEtFZjFCYVFZWFpQbHl0N0JtM19KV3Q0TGladnBrNG1Bb0UyZ2RmeDZOa056Z0lXM0I1TTEyZ1RBRWJ0cTZfRHZEWTJWNmZuaUVaMU1qcjB4ZUpmWVE5N2IzYm9xaENhRDltSGl5YWJaWW5BZ1JGMTVybW9QTjNNei1ZTGlDTnNVT1pfc1M4MXhFYVR5N243VWR3bGhzUFBtR01icDIzZUtGVFpJUFM?oc=5",
-      "published": "2026-07-20 03:48",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSk8zbzdpQUdYbG5lVmZmVkpIOTZxTzVhOUVHbThueDNXVmdhWUJQWnV1ZHZrdzE3VWNyam4zYlZmUUU4ak00S25iWVQwZjEzVWwxbDhRYk5MdnZ6aTVka2FLaVoxanVraGF1OTdhWTBNcV9lQzdueEc5RVlLVXRHZmZYbHdUaXkxSmRJOGlydHUwRTNtMmfSAZsBQVVfeXFMTmFBa3ZaQUo4YkthRy05TGQzSGVCY3pUb3dDdW8tZUtmbk91YlZETTBIaEktd3VWWkI0eHBlT0g5QTRMc01oa2hiMTVaODZ2T1JhN2ZKWXZzdjRoN0dqRnhfUGRkWnZrTlo1ZWZqTGs4WU9SakkwWDh6Um84U0xLSTdOdWhxd3VmRTBNTjZZRkhZeGxWazFscVFiTHM?oc=5",
+      "published": "2026-07-21 02:51",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -111,37 +111,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주간 전망: ECB 금리 결정 임박; 알파벳, 테슬라, 인텔 실적 발표; 글로벌 PMI 발표",
-      "display_title": "주간 전망: ECB 금리 결정 임박; 알파벳, 테슬라, 인텔 실적 발표; 글로벌 PMI 발표",
-      "original_title": "Week Ahead: ECB Interest Rate Decision Looms; Alphabet, Tesla, Intel Earnings Debut; Global Flash PMIs Revealed - TradingKey",
+      "title": "글로벌 경제 급격한 둔화 조짐, 인도도 성장세 꺾일 수 있어: 무디스 애널리틱스",
+      "display_title": "글로벌 경제 급격한 둔화 조짐, 인도도 성장세 꺾일 수 있어: 무디스 애널리틱스",
+      "original_title": "Global economy tipping towards a sharp slowdown, India 'may lose a step' too: Moody's Analytics - MSN",
       "summary": [
-        "이번 주 ECB 금리 결정, 주요 빅테크 기업(알파벳, 테슬라, 인텔) 실적 발표, 글로벌 PMI 지수 발표 등 중요한 경제 및 기업 이벤트가 집중되어 있다.",
-        "이들 이벤트는 글로벌 통화정책 방향, 기업 실적 전망, 경기 건전성 판단에 핵심적인 영향을 미칠 것이다.",
-        "투자자들은 이들 이벤트를 통해 글로벌 경제 및 주요 기업의 펀더멘털을 파악하고 투자 전략을 수정할 필요가 있다."
+        "무디스 애널리틱스가 글로벌 경제가 급격한 둔화 국면에 접어들고 있으며, 인도를 포함한 주요 신흥국도 예외가 아닐 것이라고 전망했다.",
+        "고금리 장기화, 지정학적 리스크, 중국 경제 둔화 등이 복합적으로 작용하여 글로벌 경제의 하방 압력이 커지고 있다.",
+        "글로벌 경기 둔화는 한국의 수출 중심 경제에 직접적인 타격을 줄 수 있으며, 기업 실적 및 투자 심리 위축으로 이어질 수 있다."
       ],
-      "summary_text": "이번 주 ECB 금리 결정, 주요 빅테크 기업(알파벳, 테슬라, 인텔) 실적 발표, 글로벌 PMI 지수 발표 등 중요한 경제 및 기업 이벤트가 집중되어 있다. 이들 이벤트는 글로벌 통화정책 방향, 기업 실적 전망, 경기 건전성 판단에 핵심적인 영향을 미칠 것이다. 투자자들은 이들 이벤트를 통해 글로벌 경제 및 주요 기업의 펀더멘털을 파악하고 투자 전략을 수정할 필요가 있다.",
-      "description": "이번 주에는 유럽중앙은행(ECB)의 금리 결정, 알파벳, 테슬라, 인텔 등 주요 기업 실적 발표, 글로벌 제조업 구매관리자지수(PMI) 발표가 예정되어 있다.",
+      "summary_text": "무디스 애널리틱스가 글로벌 경제가 급격한 둔화 국면에 접어들고 있으며, 인도를 포함한 주요 신흥국도 예외가 아닐 것이라고 전망했다. 고금리 장기화, 지정학적 리스크, 중국 경제 둔화 등이 복합적으로 작용하여 글로벌 경제의 하방 압력이 커지고 있다. 글로벌 경기 둔화는 한국의 수출 중심 경제에 직접적인 타격을 줄 수 있으며, 기업 실적 및 투자 심리 위축으로 이어질 수 있다.",
+      "description": "무디스 애널리틱스는 글로벌 경제가 급격한 둔화로 기울고 있으며, 인도 또한 성장세가 꺾일 수 있다고 경고했다.",
       "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "기술주, 자동차, 반도체, 글로벌 경제 전반",
+      "market_impact": "부정",
+      "related_sector": "수출주 전반, 제조업, 해운",
       "related_stocks": [
-        "알파벳",
-        "테슬라",
-        "인텔"
+        "삼성전자",
+        "현대차",
+        "POSCO홀딩스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 통화정책, 주요 기업 실적, 경기 지표 발표는 국내외 시장에 광범위한 영향을 미치므로 반드시 확인해야 한다.",
-      "key_signal": "ECB의 금리 결정과 빅테크 기업들의 실적 가이던스, 그리고 글로벌 PMI 지수 결과에 주목해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "글로벌 경기 둔화는 국내 경제 성장에 직접적인 악영향을 미치고, 수출 의존도가 높은 한국 기업들의 실적을 훼손할 가능성이 크기 때문이다.",
+      "key_signal": "무디스 외 다른 주요 기관들의 글로벌 경기 전망 보고서와 국내 수출 지표를 계속해서 확인해야 한다.",
       "keywords": [
-        "ECB",
-        "금리",
-        "실적발표",
-        "PMI",
-        "글로벌경제"
+        "글로벌 경제",
+        "경기 둔화",
+        "무디스",
+        "인도",
+        "수출"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlBaZGtUQllBamMzOG1oTWQ3MFNMV29ZWUlqX3NKc1JZam56cFZRdmM2ZlNBSmdrZ1FrRmVCZGgxVDlhWGFFNVFaV2JSN0FwMG9JWmhQLXlKOV9pM19XSktGb1hScElrZ2Zkc2pXRVNXVFY2ZDFPREd0MmZfaTQwX1Q3cTlma25oOF96dU5EMlFqSEJRVVJvX3BQSTVLeVVMTGU2dWU3NjZzZDdkRUJ4dFJvbEYxVWJjOUxvd19jZXJheXBpT1FiazFDX2s?oc=5",
-      "published": "2026-07-19 22:09",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGdwdzBnTGxwUzFjMFppN3Y2empVTllIUkUyam1iOEdtWkR5SU9MWnVqM0dZUnRWbEViSS1GTFNYTFF4ODY4YWRhRFFBQjY3WkFUS1Q1amlidGJjMkpKRjJtdUp5YlNuZkpMQU5kRV91VU41MXNwU1R2RnBKUHM5dXBQWkt6dUQ0QkRObFVLdTFyRUd0RHpkQnVQZFFnXzZ1Qk9qeVYwcklwMldjZHVmUHI3dFJ3ZjN3V3lVZmdWQTk0STJpRUk0T0U5VGhxYS1MQzdheUdGd2tZX0U?oc=5",
+      "published": "2026-07-21 05:10",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -153,37 +153,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[마켓 프리뷰] 한 주 내내 '롤러코스피'…한은 추가 금리 인상 예고",
-      "display_title": "[마켓 프리뷰] 한 주 내내 '롤러코스피'…한은 추가 금리 인상 예고",
-      "original_title": "[마켓 프리뷰] 한 주 내내 '롤러코스피'…한은 추가 금리 인상 예고 - v.daum.net",
+      "title": "유가 90달러 재돌파…다시 커지는 '3高 파고'",
+      "display_title": "유가 90달러 재돌파…다시 커지는 '3高 파고'",
+      "original_title": "유가 90달러 재돌파…다시 커지는 '3高 파고' - 네이트",
       "summary": [
-        "지난 주 코스피는 높은 변동성을 보였고, 한국은행이 추가 금리 인상을 시사했다.",
-        "이는 국내 인플레이션 압력 및 미국과의 금리 격차 우려 등으로 인해 한국은행이 긴축 기조를 유지할 것임을 시사한다.",
-        "국내 증시는 금리 인상에 대한 부담으로 변동성이 지속될 수 있으며, 금리 인상 수혜주와 피해주를 구분하여 투자 전략을 세워야 한다."
+        "국제 유가가 배럴당 90달러를 재돌파하며 고금리, 고물가, 고환율의 '3고(高) 현상'에 대한 우려가 증폭되고 있다.",
+        "중동 지정학적 리스크 심화와 OPEC+의 감산 기조 유지 등이 유가 상승을 부추기고 있으며, 이는 글로벌 인플레이션 압력을 가중시키고 있다.",
+        "유가 상승은 국내 물가 불안을 심화시키고 한국은행의 긴축 기조를 장기화시킬 수 있으며, 기업들의 원가 부담을 높여 실적에 부정적인 영향을 미칠 수 있다."
       ],
-      "summary_text": "지난 주 코스피는 높은 변동성을 보였고, 한국은행이 추가 금리 인상을 시사했다. 이는 국내 인플레이션 압력 및 미국과의 금리 격차 우려 등으로 인해 한국은행이 긴축 기조를 유지할 것임을 시사한다. 국내 증시는 금리 인상에 대한 부담으로 변동성이 지속될 수 있으며, 금리 인상 수혜주와 피해주를 구분하여 투자 전략을 세워야 한다.",
-      "description": "지난 한 주간 코스피가 변동성이 심한 '롤러코스터' 장세를 보였으며, 한국은행이 추가 금리 인상을 예고했다.",
+      "summary_text": "국제 유가가 배럴당 90달러를 재돌파하며 고금리, 고물가, 고환율의 '3고(高) 현상'에 대한 우려가 증폭되고 있다. 중동 지정학적 리스크 심화와 OPEC+의 감산 기조 유지 등이 유가 상승을 부추기고 있으며, 이는 글로벌 인플레이션 압력을 가중시키고 있다. 유가 상승은 국내 물가 불안을 심화시키고 한국은행의 긴축 기조를 장기화시킬 수 있으며, 기업들의 원가 부담을 높여 실적에 부정적인 영향을 미칠 수 있다.",
+      "description": "국제 유가가 90달러를 다시 돌파하면서 고금리, 고물가, 고환율의 '3고(高) 현상' 우려가 다시 커지고 있다.",
       "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 성장주, 건설, 부동산",
+      "related_sector": "정유, 운송, 화학, 소비재",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK이노베이션",
+        "대한항공",
+        "CJ제일제당"
       ],
       "investment_view": "주의",
-      "investment_reason": "한국은행의 추가 금리 인상 예고는 국내 증시의 유동성 및 기업 실적에 직접적인 부담으로 작용할 수 있기 때문이다.",
-      "key_signal": "한국은행의 다음 통화정책 회의 결과와 추가적인 금리 인상 시그널을 면밀히 주시해야 한다.",
+      "investment_reason": "유가 급등은 국내 물가 및 금리 인상 압박을 가중시키고 기업 실적에 부정적인 영향을 미치며, 투자 심리를 위축시키는 핵심 요인이기 때문이다.",
+      "key_signal": "국제 유가의 추가적인 변동성과 국내 물가 지표 및 한국은행의 통화정책 스탠스 변화를 주시해야 한다.",
       "keywords": [
+        "유가",
+        "3고 현상",
+        "인플레이션",
         "한국은행",
-        "금리인상",
-        "코스피",
-        "통화정책",
-        "변동성"
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ydXRLLTVTSE9oeVRrLUlFZkg5ZEltbEd1R2pWVnZ3UDZYWEhVdXVvZEgzVkxBNk80VEdVdVMxYmZzdTU2Z3JCMUczX0pHZ1k?oc=5",
-      "published": "2026-07-20 07:34",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYM2dLaDRMZGZLbmFnVzVnSE15S3FiajNhWXpjbUI0UXBESXAzU3p2Z1ZZbkg0VzhLLW16c0EtQUlEUjVFOXpaTFQ0eUdwTHhwdGtz?oc=5",
+      "published": "2026-07-21 04:32",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -195,37 +195,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우존스 선물 및 나스닥, 호르무즈 해협 긴장 고조와 연준 매파적 신호 속 하락 출발",
-      "display_title": "다우존스 선물 및 나스닥, 호르무즈 해협 긴장 고조와 연준 매파적 신호 속 하락 출발",
-      "original_title": "Dow Jones Futures and Nasdaq Open the Week Lower Amid Hormuz Escalation and Hawkish Fed Signals - FXLeaders",
+      "title": "유가 상승과 빅테크 실적 대기 속에 월가 하락 마감",
+      "display_title": "유가 상승과 빅테크 실적 대기 속에 월가 하락 마감",
+      "original_title": "Wall Street ends lower as oil prices rise, investors await big tech earnings - Seeking Alpha",
       "summary": [
-        "호르무즈 해협 긴장 및 연준의 매파적 신호로 미국 증시 선물 및 나스닥이 하락 출발했다.",
-        "중동 지정학적 리스크와 연준의 긴축적 통화정책 유지 가능성이 복합적으로 시장에 부담을 주어 투자 심리가 위축될 수 있다.",
-        "글로벌 불확실성과 금리 인상 압력이 겹치며 국내 시장에도 부정적 영향을 줄 수 있으므로 주의 깊게 관찰해야 한다."
+        "유가 상승과 빅테크 실적 발표를 앞두고 미국 증시가 하락 마감했다.",
+        "중동 긴장 고조로 인한 유가 상승은 인플레이션 우려를 다시 키우고 있으며, 주요 빅테크 기업의 실적은 시장 방향성을 결정할 중요한 변수이다.",
+        "유가 변동성과 빅테크 실적 발표가 국내 증시에도 영향을 미칠 수 있으므로 관련 동향을 주시해야 한다."
       ],
-      "summary_text": "호르무즈 해협 긴장 및 연준의 매파적 신호로 미국 증시 선물 및 나스닥이 하락 출발했다. 중동 지정학적 리스크와 연준의 긴축적 통화정책 유지 가능성이 복합적으로 시장에 부담을 주어 투자 심리가 위축될 수 있다. 글로벌 불확실성과 금리 인상 압력이 겹치며 국내 시장에도 부정적 영향을 줄 수 있으므로 주의 깊게 관찰해야 한다.",
-      "description": "호르무즈 해협의 긴장 고조와 연준의 매파적 신호로 인해 다우존스 선물과 나스닥이 주 초반 하락세로 출발했다.",
+      "summary_text": "유가 상승과 빅테크 실적 발표를 앞두고 미국 증시가 하락 마감했다. 중동 긴장 고조로 인한 유가 상승은 인플레이션 우려를 다시 키우고 있으며, 주요 빅테크 기업의 실적은 시장 방향성을 결정할 중요한 변수이다. 유가 변동성과 빅테크 실적 발표가 국내 증시에도 영향을 미칠 수 있으므로 관련 동향을 주시해야 한다.",
+      "description": "유가 상승과 투자자들의 빅테크 기업 실적 발표 대기 속에서 월스트리트 증시가 하락 마감했다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "에너지, 기술주, 방산",
+      "related_sector": "에너지, 기술주, 반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "NAVER"
       ],
       "investment_view": "주의",
-      "investment_reason": "지정학적 리스크와 연준의 매파적 스탠스가 글로벌 증시에 복합적으로 작용하여 국내 시장에도 부정적 영향을 줄 수 있기 때문이다.",
-      "key_signal": "호르무즈 해협 상황 변화와 연준의 추가적인 통화 정책 시그널을 면밀히 모니터링해야 한다.",
+      "investment_reason": "유가 상승은 인플레이션 압력을 높여 통화 긴축 우려를 다시 불러올 수 있으며, 빅테크 실적은 글로벌 기술주 전반에 투자 심리를 좌우할 핵심 지표이기 때문이다.",
+      "key_signal": "오늘 발표될 빅테크 기업들의 실적 내용과 유가 추가 상승 여부를 면밀히 확인해야 한다.",
       "keywords": [
-        "호르무즈",
-        "연준",
-        "매파적",
-        "나스닥",
-        "지정학적 리스크"
+        "월스트리트",
+        "유가",
+        "빅테크",
+        "인플레이션",
+        "실적"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYmlpZXpqYThfWFgyTVl4RmdNMnktazRUT2tzbGlFVy1JU080c2J5QzRGc1pMQ182Z0h2ek9xNnBpejZaSGxUVlVZUGdQelo2T0Y2SFF0SDVXVVZGZjRhei1JUzNqdUlOTU9hMFhReUNzb2liZ0stUVRfQ29CNGMzNTJCZ3hsbXE5eEE0bFhLVUppTHBoN3N3amI4TUoxckVnMjdMbUV5SVhyTVFlbjNBNHRRVFNrS0pkdXp1bndTLXRFSk5sRmVGZ0hYSXB4dThYZk83TA?oc=5",
-      "published": "2026-07-20 07:09",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTVNTlJLZFhjenN6TkkyT1Uwc2hpOWtMUTdyQjdmWjZiQWJEQmdrYTFMYmN1bVNkWVJBNjR5Qzc3eFR4dTN3aHd4WVJya0dNQ3I4WUxDeUpMNmd4YmJwUVFrc2VweTBoMFdJa21hMW5UTHBaU1owSHZ5RGR3VjZKN3NTai05NkRLZlpwZzI1OFZldw?oc=5",
+      "published": "2026-07-21 05:09",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -237,37 +237,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 열풍이 기록적 랠리 이끌며 다우, S&P 500, 나스닥 선물 상승: CSCO, LUNR, ONDS, NVDA, NOK에 주목하는 이유",
-      "display_title": "AI 열풍이 기록적 랠리 이끌며 다우, S&P 500, 나스닥 선물 상승: CSCO, LUNR, ONDS, NVDA, NOK에 주목하는 이유",
-      "original_title": "Dow, S&P 500, Nasdaq Futures Climb As AI Frenzy Drives Record Rally: Why CSCO, LUNR, ONDS, NVDA, NOK Are In Focus - Stocktwits",
+      "title": "S&P 500, 반도체 매도세 진정 속 반등했으나 중동 불확실성 지속",
+      "display_title": "S&P 500, 반도체 매도세 진정 속 반등했으나 중동 불확실성 지속",
+      "original_title": "S&P 500 Forecast: SPX rebounds as chip selloff pauses, Middle East uncertainty persists - FOREX.com",
       "summary": [
-        "AI 열풍이 미국 증시 선물 시장의 상승세를 견인하며 다우, S&P 500, 나스닥이 올랐고, 특정 AI 관련 종목들이 주목받고 있다.",
-        "AI 기술 발전과 산업 적용 확대에 대한 기대감이 시장 전반의 랠리를 이끌고 있으며, 특히 AI 인프라 및 관련 서비스 기업들이 수혜를 입고 있다.",
-        "AI 관련 핵심 기술 및 서비스 기업들에 대한 지속적인 관심이 필요하며, 장기적인 성장 잠재력을 가진 종목을 발굴해야 한다."
+        "S&P 500 지수가 반도체주의 과매도 현상이 잠시 멈추면서 회복세를 보였지만, 중동 지역의 지정학적 긴장은 여전히 시장의 불안 요인으로 남아있다.",
+        "반도체 섹터의 단기적 반등은 긍정적이나, 이란-미국 갈등 등 중동발 지정학적 리스크는 유가 및 글로벌 경제에 지속적인 불확실성을 제공하고 있다.",
+        "반도체 섹터의 기술적 반등 가능성과 동시에 중동 리스크가 재차 부각될 경우 시장 변동성이 커질 수 있음에 유의해야 한다."
       ],
-      "summary_text": "AI 열풍이 미국 증시 선물 시장의 상승세를 견인하며 다우, S&P 500, 나스닥이 올랐고, 특정 AI 관련 종목들이 주목받고 있다. AI 기술 발전과 산업 적용 확대에 대한 기대감이 시장 전반의 랠리를 이끌고 있으며, 특히 AI 인프라 및 관련 서비스 기업들이 수혜를 입고 있다. AI 관련 핵심 기술 및 서비스 기업들에 대한 지속적인 관심이 필요하며, 장기적인 성장 잠재력을 가진 종목을 발굴해야 한다.",
-      "description": "인공지능(AI) 열풍에 힘입어 다우, S&P 500, 나스닥 선물이 상승세를 보였으며, 시스코(CSCO), 루나(LUNR), 온디스(ONDS), 엔비디아(NVDA), 노키아(NOK)가 주목받고 있다.",
-      "category": "기업·산업",
+      "summary_text": "S&P 500 지수가 반도체주의 과매도 현상이 잠시 멈추면서 회복세를 보였지만, 중동 지역의 지정학적 긴장은 여전히 시장의 불안 요인으로 남아있다. 반도체 섹터의 단기적 반등은 긍정적이나, 이란-미국 갈등 등 중동발 지정학적 리스크는 유가 및 글로벌 경제에 지속적인 불확실성을 제공하고 있다. 반도체 섹터의 기술적 반등 가능성과 동시에 중동 리스크가 재차 부각될 경우 시장 변동성이 커질 수 있음에 유의해야 한다.",
+      "description": "S&P 500 지수가 반도체 매도세가 잠시 멈추면서 반등했지만, 중동 지역의 불확실성은 여전히 지속되고 있다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "AI, 반도체, 소프트웨어, 클라우드, 통신장비",
+      "market_impact": "중립",
+      "related_sector": "반도체, 에너지",
       "related_stocks": [
-        "엔비디아",
-        "시스코",
-        "노키아"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 기술의 발전과 시장 확장은 향후 수년간 글로벌 산업의 핵심 동력이 될 것이므로 관련 기업에 대한 투자는 필수적이다.",
-      "key_signal": "AI 기술 발전의 실제 성과와 AI 관련 기업들의 실적 성장세를 지속적으로 확인해야 한다.",
+      "investment_view": "중립",
+      "investment_reason": "반도체 섹터의 단기적 흐름과 중동 리스크의 복합적인 영향이 국내 증시 방향성에도 중요한 변수가 될 수 있기 때문이다.",
+      "key_signal": "반도체 업종의 수급 동향과 중동 정세 변화에 대한 추가 뉴스를 주시해야 한다.",
       "keywords": [
-        "AI",
-        "엔비디아",
-        "기술주",
-        "나스닥",
-        "인공지능"
+        "S&P 500",
+        "반도체",
+        "중동",
+        "지정학적 리스크",
+        "유가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMlRlYjR4azlSZVZmbVdnNHlGR2RfOUxRellPU1FieFJRUTNUOUFUckRWYVBZaS1ha1E2d0JxX0hhdmJldW53Ui1HWnVqNVR0UHp4UlV2Nk5hYzVDalBDaXp3NGRlTEhTdElPbFNGRGlITnlNRFlhZy1JUEFteWZzQ1RRUzVWWUFnV056Tk8zUjM3dmxVTGpXaVB6ejRJaXFPQ3FWMEVJM0dEdEhnUFVOMGx0RkoyT2tlbmlvUE9B?oc=5",
-      "published": "2026-07-19 17:34",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcXhBTVlCbjY5U0VzT05qMkxxdHV5Nmh2RjZUMlZRTHJ6Qmh6cHJ4V2pPUmVfOXU4ZDlCMTlaeUpOQTFpaC1tOS1XVEhmU0wwZDNIYzBSQ0MzVFhGX2x4YVQyWWVMX2pndTJWdlcwbEJ6dndBZkg3dzE0T3U1akNmNVZ6UmtxX28xd011RzdSQzhaemM0aHZkeFU2LUhxa1NVSUs4Z25BYUxURk5OSS1MSFZZdEtkVXlXQUg0ZkU2a3JUQVdNSEpZVDVaOUMzMUhMVXR5d0IyQ0JBcC12SGp1bDNXRmxjZ2ZoZWfSAeoBQVVfeXFMTnF4QU1ZQm42OVNFc09OajJMcXR1eTZodkY2VDJWUUxyekJoenByeFdqT1JlXzl1OGQ5QjE5WnlKTkExaWgtbTktV1RIZlNMMGQzSGMwUkNDM1RYRl9seGFUMlllTF9qZ3UyVnZXMGxCenZ3QWZIN3cxNE91NWpDZjVWelJrcV9vMXdNdUc3UkM4WnpjNGh2ZHhVNi1IcWtTVUlLOGduQWFMVEZOTkktTEhWWXRLZFV5V0FINGZFNmtyVEFXTUhKWVQ1WjlDMzFITFV0eXdCMkNCQXAtdkhqdWwzV0ZsY2dmaGVn?oc=5",
+      "published": "2026-07-21 03:54",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -282,15 +281,16 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "국내 증시 핵심인 반도체 섹터의 불안정과 국내외 금리 인상 기조는 부담 요인이지만, 글로벌 AI 열풍에 따른 HBM 등 고대역폭 메모리 수요 증가와 기술 경쟁력은 주가 반등의 중요한 동인이 될 수 있습니다.",
+      "reason": "중국 AI 산업의 부진과 글로벌 경기 둔화 우려, 미국 빅테크 실적 대기 등 복합적인 요인으로 높은 변동성이 예상되며, 국내 증시 전반에 미치는 영향이 매우 크므로 면밀한 관찰이 필요합니다.",
       "check_points": [
-        "글로벌 AI 수요 추이 및 HBM 경쟁 심화 여부",
-        "국내외 금리 인상 기조 변화 및 외국인 매매 동향",
-        "반도체 업황 전반의 회복 시점"
+        "중국 AI 관련 투자심리 변화",
+        "글로벌 반도체 업황 지표",
+        "미국 빅테크 기업 실적 발표 결과"
       ],
       "related_news_titles": [
-        "한국증시, 주간 급락 '삼전·닉스 매도 패닉' 및 '기준금리 2.75%로 인상'...이번주 반도체 반등 포인트는?",
-        "AI 열풍이 기록적 랠리 이끌며 다우, S&P 500, 나스닥 선물 상승: CSCO, LUNR, ONDS, NVDA, NOK에 주목하는 이유"
+        "中 AI 충격에 중동 리스크까지, 코스피·코스닥 동반 매도사이드카…세계 1위 수익률에서 '세계 꼴찌'로 추락한 코스피",
+        "글로벌 경제 급격한 둔화 조짐, 인도도 성장세 꺾일 수 있어: 무디스 애널리틱스",
+        "유가 상승과 빅테크 실적 대기 속에 월가 하락 마감"
       ]
     },
     {
@@ -299,50 +299,52 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성전자와 유사하게 거시경제적 하방 압력이 존재하지만, HBM 시장에서 선두적인 입지를 바탕으로 AI 열풍의 직접적인 수혜가 기대됩니다. 글로벌 경쟁사의 움직임과 함께 관심 있게 지켜볼 필요가 있습니다.",
+      "reason": "반도체 산업의 핵심 기업으로서 중국 AI 산업의 부진 및 글로벌 기술주 전반의 투자심리 변화에 직접적인 영향을 받으며, 시장 변동성 확대 시 함께 주목해야 할 종목입니다.",
       "check_points": [
-        "HBM 생산능력 확대 및 주요 고객사 확보 현황",
-        "경쟁사의 HBM 기술 발전 및 시장 점유율 변화",
-        "반도체 업황 전반의 회복 강도"
+        "AI 반도체 수요 전망 및 관련 뉴스",
+        "메모리 반도체 가격 추이 (DRAM, NAND)",
+        "글로벌 경쟁사 실적 및 투자 계획"
       ],
       "related_news_titles": [
-        "한국증시, 주간 급락 '삼전·닉스 매도 패닉' 및 '기준금리 2.75%로 인상'...이번주 반도체 반등 포인트는?",
-        "AI 열풍이 기록적 랠리 이끌며 다우, S&P 500, 나스닥 선물 상승: CSCO, LUNR, ONDS, NVDA, NOK에 주목하는 이유"
+        "中 AI 충격에 중동 리스크까지, 코스피·코스닥 동반 매도사이드카…세계 1위 수익률에서 '세계 꼴찌'로 추락한 코스피",
+        "유가 상승과 빅테크 실적 대기 속에 월가 하락 마감",
+        "S&P 500, 반도체 매도세 진정 속 반등했으나 중동 불확실성 지속"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "금융",
-      "opinion": "주의",
-      "reason": "한국은행의 기준금리 인상 및 추가 인상 예고, 연준 고위 인사의 매파적 발언 등 국내외 금리 환경이 금융권의 수익성 및 유동성에 직접적인 부담으로 작용할 수 있습니다.",
+      "sector": "정유",
+      "opinion": "관심",
+      "reason": "미국-이란 긴장 고조로 국제 유가가 재차 90달러를 돌파하는 등 상승 압력이 지속되고 있어, 정유업종 대표주로서 유가 변동에 따른 주가 흐름을 주시해야 합니다.",
       "check_points": [
-        "한국은행 및 연준의 추가 금리 인상 여부",
-        "시장 금리 변동성 및 증시 거래대금 추이",
-        "부동산 시장 등 금융 시장 전반의 건전성"
+        "국제 유가(WTI, 브렌트유) 추이",
+        "중동 지역 지정학적 리스크 전개 방향",
+        "정유 제품 스프레드 변화"
       ],
       "related_news_titles": [
-        "한국증시, 주간 급락 '삼전·닉스 매도 패닉' 및 '기준금리 2.75%로 인상'...",
-        "연준 월러 이사, 트럼프의 금리 인하 요구 일축",
-        "[마켓 프리뷰] 한 주 내내 '롤러코스피'…한은 추가 금리 인상 예고"
+        "미국-이란 긴장 고조로 유가 상승",
+        "유가 90달러 재돌파…다시 커지는 '3高 파고'",
+        "유가 상승과 빅테크 실적 대기 속에 월가 하락 마감"
       ]
     },
     {
       "rank": 4,
-      "name": "한미반도체",
+      "name": "대한항공",
       "market": "KOSPI",
-      "sector": "반도체 장비",
-      "opinion": "관심",
-      "reason": "글로벌 AI 열풍이 엔비디아와 같은 기업들의 랠리를 이끌고 있으며, 이는 HBM(고대역폭 메모리) 생산에 필수적인 반도체 장비 수요 증가로 이어져 직접적인 수혜를 기대할 수 있습니다.",
+      "sector": "운송",
+      "opinion": "주의",
+      "reason": "국제 유가 상승은 항공유 비용 부담을 가중시키고, 글로벌 경제 둔화 조짐은 여객 및 화물 수요 감소로 이어질 수 있어 실적 악화 가능성에 대한 주의가 필요합니다.",
       "check_points": [
-        "주요 고객사의 HBM 관련 투자 확대 여부",
-        "HBM 관련 장비 신규 수주 동향",
-        "경쟁사의 기술 발전 및 시장 진입 경쟁"
+        "국제 유가 동향 및 항공유 가격 추이",
+        "글로벌 항공 여객 및 화물 수요 지표",
+        "원/달러 환율 변동성"
       ],
       "related_news_titles": [
-        "AI 열풍이 기록적 랠리 이끌며 다우, S&P 500, 나스닥 선물 상승: CSCO, LUNR, ONDS, NVDA, NOK에 주목하는 이유",
-        "한국증시, 주간 급락 '삼전·닉스 매도 패닉' ...이번주 반도체 반등 포인트는?"
+        "미국-이란 긴장 고조로 유가 상승",
+        "유가 90달러 재돌파…다시 커지는 '3高 파고'",
+        "글로벌 경제 급격한 둔화 조짐, 인도도 성장세 꺾일 수 있어: 무디스 애널리틱스"
       ]
     }
   ],
