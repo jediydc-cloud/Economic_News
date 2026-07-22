@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22 07:56",
-  "analysis_date": "2026-07-22",
+  "generated_at": "2026-07-23 08:03",
+  "analysis_date": "2026-07-23",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 경제는 한국은행의 사상 최대 순이익과 환율 급변동 속에서 거시 지표 변화가 두드러졌습니다. 글로벌 시장에서는 반도체 섹터의 강세와 주요 인사들의 시장 경고가 교차하며 투자자들의 세심한 관찰과 유연한 대응이 요구되는 하루였습니다.",
-    "국내거시경제": "한국은행은 상반기 순이익이 고환율과 증시 활황에 힘입어 10조원을 돌파하며 사상 최대 실적을 기록했습니다. 한편, 원/달러 환율은 SK하이닉스 등 주요 수출 기업의 대규모 달러 매도 물량 유입에 힘입어 1560원에서 1470원대로 급락하여 국내 기업의 수출 경쟁력과 외화 부채에 복합적인 영향을 미칠 수 있습니다.",
-    "글로벌경제": "케빈 워시 연방준비제도 의장의 첫 주요 정책 움직임이 있었고, 채권 시장은 이미 반응했으나 대다수 투자자들이 그 중요성을 간과했을 가능성이 제기됩니다. 연준 의장의 정책 변화는 글로벌 금리 및 유동성에 광범위한 영향을 미치므로 시장의 미묘한 움직임을 파악하는 것이 중요합니다.",
-    "증시금리": "JP모건 제이미 다이먼 CEO는 주식 및 채권 시장에 대한 이중 경고를 내놓았으며, 투자자들이 채권 시장 포지션을 이미 조정한 것으로 분석했습니다. 긍정적인 소식으로는 미국 반도체 기업 마이크론의 주가가 12% 급등하며 나스닥 랠리를 견인했고, 이는 국내 반도체 기업들의 투자 심리에도 긍정적인 영향을 미칠 수 있습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "전기차 배터리, 풍력 터빈 등 미래 산업의 핵심 소재인 희토류 관련주들이 장기적인 관점에서 공급망 안정화와 함께 구조적 성장을 기대하며 투자 매력이 부각되고 있습니다.",
-    "오늘의투자시사점": "국내 거시경제의 양면적 지표(한은 실적 호조 vs. 환율 급변동)를 주시하며 기업들의 실적 및 환율 민감도를 점검해야 합니다. 글로벌 시장에서는 반도체 섹터의 강세를 긍정적으로 보되, 주요 금융기관장의 시장 경고와 연준의 미묘한 정책 변화에 대한 대비책을 마련해야 합니다. 또한, 희토류와 같은 미래 산업의 핵심 소재 관련 기업들은 장기적인 관점에서 포트폴리오에 편입을 고려할 수 있습니다.",
-    "오늘의한줄": "국내외 거시경제와 시장 심리 변화 속에서, 반도체 및 미래 핵심 소재 산업의 성장 잠재력에 주목하며 유연한 투자 전략을 유지해야 합니다."
+    "총평": "이란 위기 심화와 유가 상승으로 연준의 긴축 우려가 커지며 글로벌 증시의 랠리가 둔화되고 있습니다. 특히 반도체 모멘텀 약화와 테슬라의 실적 부진이 투자 심리에 부담을 주고 있습니다.",
+    "국내거시경제": "글로벌 반도체 업황 둔화 신호와 에너지 가격 상승은 국내 증시 및 물가 압력에 영향을 줄 수 있습니다. 전기차 및 AI 관련 국내 기업 투자 심리도 테슬라 실적 부진의 영향을 받을 것으로 보입니다.",
+    "글로벌경제": "지정학적 리스크(이란 위기) 심화로 유가 상승과 인플레이션 압력이 커지고 있으며, 연준의 긴축 기조 강화 가능성이 높아지고 있습니다. 연준 내부의 정책 방향 불일치도 시장의 주요 리스크로 부상했습니다.",
+    "증시금리": "반도체 모멘텀 둔화와 유가 상승으로 미국 주요 증시 랠리가 소멸되었습니다. 연준의 금리 인상 가능성 및 통화 정책 불확실성으로 증시 변동성 확대에 유의해야 하며, 미국 국채 금리 상승으로 고배당 주식의 상대적 매력이 약화되었습니다.",
+    "부동산정책": "관련된 주요 뉴스는 없습니다.",
+    "기업산업": "테슬라가 2분기 '어닝 쇼크'를 기록하며 AI 투자 확대에 따른 현금흐름 적자와 수익성 하락을 겪었습니다. 이는 글로벌 전기차 및 AI 관련 기업들의 투자심리에 부정적 영향을 미칠 수 있습니다.",
+    "오늘의투자시사점": "지정학적 리스크와 연준의 통화정책 불확실성에 대비하여 시장 변동성 확대에 유의해야 합니다. 반도체, AI, 전기차 등 주요 기술 산업의 업황 변화와 실적 추이를 면밀히 살피고, 고금리 환경에서 배당주 투자 시 국채 금리와의 비교를 통해 투자 매력을 평가하는 것이 중요합니다.",
+    "오늘의한줄": "지정학적 리스크, 연준의 긴축 우려, 주요 기업 실적 부진으로 시장 전반의 변동성 확대에 주의가 필요한 시점입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "한국은행, 상반기 순이익 첫 10조원 상회…고환율·증시 활황에 전년비 2배 급증",
-      "display_title": "한국은행, 상반기 순이익 첫 10조원 상회…고환율·증시 활황에 전년비 2배 급증",
-      "original_title": "한국은행, 상반기 순익 첫 10조원 상회…고환율·증시에 전년비 2배 뛰었다 - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "이란 위기 심화로 연준 금리 인상 가능성 높아지는 강세장",
+      "display_title": "이란 위기 심화로 연준 금리 인상 가능성 높아지는 강세장",
+      "original_title": "The Bull Market Faces Higher Likelihood of a Fed Rate Hike as Iran Crisis Intensifies - Moomoo",
       "summary": [
-        "한국은행이 상반기 순이익 10조 원을 돌파하며 사상 최대 실적을 기록했다.",
-        "이러한 실적은 고환율 기조 유지와 국내 증시의 활황에 따른 외화자산 운용수익 증가에 기인한다.",
-        "한국은행의 실적 호조는 국내 경제 전반의 긍정적인 흐름을 반영하지만, 고환율 장기화에 따른 부작용도 함께 고려해야 한다."
+        "지정학적 리스크(이란 위기) 심화로 연준의 금리 인상 가능성이 높아지고 있습니다.",
+        "유가 상승 등 인플레이션 압력이 커지면서 연준의 긴축 기조가 강화될 수 있습니다.",
+        "금리 인상은 강세장에 부담으로 작용할 수 있으므로 시장 변동성 확대에 대비해야 합니다."
       ],
-      "summary_text": "한국은행이 상반기 순이익 10조 원을 돌파하며 사상 최대 실적을 기록했다. 이러한 실적은 고환율 기조 유지와 국내 증시의 활황에 따른 외화자산 운용수익 증가에 기인한다. 한국은행의 실적 호조는 국내 경제 전반의 긍정적인 흐름을 반영하지만, 고환율 장기화에 따른 부작용도 함께 고려해야 한다.",
-      "description": "한국은행이 상반기 중 10조 원이 넘는 순이익을 기록하며 사상 최대치를 경신했는데, 이는 고환율과 증시 활황의 영향이 컸다.",
-      "category": "국내 거시경제",
+      "summary_text": "지정학적 리스크(이란 위기) 심화로 연준의 금리 인상 가능성이 높아지고 있습니다. 유가 상승 등 인플레이션 압력이 커지면서 연준의 긴축 기조가 강화될 수 있습니다. 금리 인상은 강세장에 부담으로 작용할 수 있으므로 시장 변동성 확대에 대비해야 합니다.",
+      "description": "이란 위기가 심화되면서 연방준비제도(Fed)의 금리 인상 가능성이 커져 강세장에 부담을 주고 있습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "국내 거시경제, 금융",
+      "market_impact": "부정",
+      "related_sector": "에너지, 금융",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "우리금융지주"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "한국은행의 순이익 증가는 국내 경제 전반의 건전성을 시사하며, 특히 고환율과 증시 활황이 금융권 및 수출 기업에 미칠 긍정적 영향을 가늠할 수 있기 때문이다.",
-      "key_signal": "한국은행의 실적 호조가 국내 경제 성장의 지속 가능성을 보여주는지, 또는 특정 요인에 일시적으로 기인한 것인지 심층 분석이 필요하다.",
+      "investment_view": "주의",
+      "investment_reason": "지정학적 리스크가 인플레이션을 자극하여 연준의 긴축 기조를 강화할 수 있으므로, 금리 민감 주식에 대한 투자 전략 재검토가 필요합니다.",
+      "key_signal": "이란 관련 지정학적 뉴스 흐름과 유가 움직임, 그리고 연준 관계자 발언을 주시해야 합니다.",
       "keywords": [
-        "한국은행",
-        "순이익",
-        "고환율",
-        "증시 활황",
-        "거시경제"
+        "연준",
+        "금리 인상",
+        "이란 위기",
+        "인플레이션",
+        "강세장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRmpQUEtPTFhVLXZzREYtVGdYbEZhN3JoT2NJQm9oY244VDJ6TERJa3AtcG1fb2FJcC1iT1BpSUl1cjI5d05tVHYtZnhrQTd0Y0JB?oc=5",
-      "published": "2026-07-22 05:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXpzZ3EtbGFVREd2dGVwNFhMcjB3bWpuaUFqUE1iaFBRM2RzM08tSHdKOExZMV9QSThxWnJXbHlwbHlHRHUzUlNWWjlkVG5EWTZPbWdEdU1CVHJRbU1mN1lUZjZEcUxxXzM0dXZsNEM5VXhIR0JRc3VlYlpIMVk0NlZWWDl1R1JtUFZUaVlvcWdjRW1HMXdrZG9Odw?oc=5",
+      "published": "2026-07-23 04:45",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,36 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "“1560원 위협하더니 1470원대로”…환율 급락의 숨은 주역은 SK하이닉스",
-      "display_title": "“1560원 위협하더니 1470원대로”…환율 급락의 숨은 주역은 SK하이닉스",
-      "original_title": "\"1560원 위협하더니 1470원대로\"…환율 급락의 숨은 주역은 SK하이닉스 By EBN - Investing.com 한국어",
+      "title": "테슬라 2분기 '어닝 쇼크', AI 투자로 현금흐름 적자 전환",
+      "display_title": "테슬라 2분기 '어닝 쇼크', AI 투자로 현금흐름 적자 전환",
+      "original_title": "테슬라, 2분기 '어닝 쇼크'…AI 투자에 현금흐름도 적자 전환 - 네이트",
       "summary": [
-        "원/달러 환율이 1560원대에서 1470원대로 급락하는 양상을 보였으며, 그 주역 중 하나로 SK하이닉스가 지목되었다.",
-        "이는 SK하이닉스와 같은 주요 수출 기업의 대규모 달러 매도 물량이 시장에 유입되어 환율 하락을 부추겼을 가능성을 시사한다.",
-        "환율 급락은 국내 기업의 수출 경쟁력에 영향을 미치고, 외화 부채 부담을 줄이는 등 거시경제에 다양한 영향을 줄 수 있다."
+        "테슬라가 2분기 '어닝 쇼크'를 기록하며 시장 기대에 못 미치는 실적을 발표했습니다.",
+        "AI 등 미래 기술 투자 확대가 현금흐름 적자 전환의 주요 원인으로 지목되었습니다.",
+        "테슬라의 실적 부진은 글로벌 전기차 시장과 AI 투자 관련 기업들의 투자심리에 영향을 줄 수 있습니다."
       ],
-      "summary_text": "원/달러 환율이 1560원대에서 1470원대로 급락하는 양상을 보였으며, 그 주역 중 하나로 SK하이닉스가 지목되었다. 이는 SK하이닉스와 같은 주요 수출 기업의 대규모 달러 매도 물량이 시장에 유입되어 환율 하락을 부추겼을 가능성을 시사한다. 환율 급락은 국내 기업의 수출 경쟁력에 영향을 미치고, 외화 부채 부담을 줄이는 등 거시경제에 다양한 영향을 줄 수 있다.",
-      "description": "최근 1560원대까지 치솟았던 원/달러 환율이 1470원대로 급락한 배경에는 SK하이닉스 같은 특정 기업의 영향이 있었다.",
-      "category": "국내 거시경제",
+      "summary_text": "테슬라가 2분기 '어닝 쇼크'를 기록하며 시장 기대에 못 미치는 실적을 발표했습니다. AI 등 미래 기술 투자 확대가 현금흐름 적자 전환의 주요 원인으로 지목되었습니다. 테슬라의 실적 부진은 글로벌 전기차 시장과 AI 투자 관련 기업들의 투자심리에 영향을 줄 수 있습니다.",
+      "description": "테슬라가 2분기 실적 발표에서 시장의 예상치를 크게 하회하는 '어닝 쇼크'를 기록했으며, AI 투자 확대로 현금흐름마저 적자로 전환되었습니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, 외환",
+      "market_impact": "부정",
+      "related_sector": "전기차, 인공지능(AI), 2차전지, 자율주행",
       "related_stocks": [
-        "SK하이닉스",
-        "삼성전자"
+        "삼성SDI",
+        "LG에너지솔루션",
+        "에코프로"
       ],
-      "investment_view": "관심",
-      "investment_reason": "특정 기업의 대규모 외환 거래가 환율에 미치는 영향은 국내 거시경제와 수출 기업의 실적에 직접적인 파급 효과를 가져오므로 주목해야 한다.",
-      "key_signal": "SK하이닉스 외에 환율 변동에 영향을 미칠 수 있는 다른 주요 기업이나 외환 시장 동향을 파악하고, 환율 하락이 국내 수출 기업 실적에 미칠 영향을 분석해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "테슬라의 실적은 전기차 및 자율주행 시장의 성장세와 AI 투자 관련 기업들의 전망에 대한 중요한 지표가 되므로 국내 관련주에 영향을 미칩니다.",
+      "key_signal": "테슬라의 향후 판매 전략, AI 투자 성과, 그리고 경쟁사들의 동향 변화를 면밀히 살펴야 합니다.",
       "keywords": [
-        "원달러 환율",
-        "환율 급락",
-        "SK하이닉스",
-        "외환 시장",
-        "수출 기업"
+        "테슬라",
+        "어닝 쇼크",
+        "AI 투자",
+        "전기차",
+        "현금흐름"
       ],
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TOGxaeWVGRXpIWHZEQnlMdU1WdUI3X09UVWNOZEFqLXZ0ZDVCa2p4UTNUelp1NmVVU0pVLTJlMm5IU1JqemNrMUxMNy01dHNkUk4zUktUWTE2ZnJTd0pUbVd2N1dCbjZhakNtUDQxZlQ?oc=5",
-      "published": "2026-07-22 01:53",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1aDhDSWhOWXFCakREeGZ1c0dRZHgzTFIwWUJqN2pQdU5RRXhEWG0zajAyTFVuWjVUbDdrTm51MVhFVnNPZnJ3SDZIaVdNTjhXNHdJ?oc=5",
+      "published": "2026-07-23 07:19",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -108,41 +109,42 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "제이미 다이먼, 주식 및 채권 시장 이중 경고: 투자자들은 이미 한 가지 행동을 취했다",
-      "display_title": "제이미 다이먼, 주식 및 채권 시장 이중 경고: 투자자들은 이미 한 가지 행동을 취했다",
-      "original_title": "Jamie Dimon's dual stock and bond market warning: Investors already acted on one of the two calls - CNBC",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "테슬라, 판매량 증가에도 이익 감소…AI 투자 부담으로 수익성 흔들림(종합)",
+      "display_title": "테슬라, 판매량 증가에도 이익 감소…AI 투자 부담으로 수익성 흔들림(종합)",
+      "original_title": "테슬라, 판매 늘었지만 이익 줄었다…AI 투자 부담에 수익성 흔들(종합) - edaily.co.kr",
       "summary": [
-        "제이미 다이먼 JP모건 CEO가 주식과 채권 시장에 대한 이중 경고를 내놓았다.",
-        "그는 투자자들이 이미 경고 중 한 가지, 특히 채권 시장에 대해 선제적으로 포지션을 조정한 것으로 분석했다.",
-        "글로벌 주요 금융기관장의 시장 경고는 전체 투자 심리에 영향을 미칠 수 있으므로 향후 시장 반응을 면밀히 관찰해야 한다."
+        "테슬라가 판매량 증가에도 불구하고 수익성이 하락하며 이익이 감소했습니다.",
+        "이는 AI 등 신기술 투자에 대한 막대한 비용 부담 때문인 것으로 분석됩니다.",
+        "성장을 위한 투자가 단기 수익성을 압박할 수 있으므로, 장기 성장성과 단기 수익성 간의 균형을 평가해야 합니다."
       ],
-      "summary_text": "제이미 다이먼 JP모건 CEO가 주식과 채권 시장에 대한 이중 경고를 내놓았다. 그는 투자자들이 이미 경고 중 한 가지, 특히 채권 시장에 대해 선제적으로 포지션을 조정한 것으로 분석했다. 글로벌 주요 금융기관장의 시장 경고는 전체 투자 심리에 영향을 미칠 수 있으므로 향후 시장 반응을 면밀히 관찰해야 한다.",
-      "description": "제이미 다이먼은 주식 및 채권 시장에 대한 이중 경고를 발표했으며, 투자자들은 이미 이 중 하나에 대해 조치를 취한 것으로 보인다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "금융, 증권",
+      "summary_text": "테슬라가 판매량 증가에도 불구하고 수익성이 하락하며 이익이 감소했습니다. 이는 AI 등 신기술 투자에 대한 막대한 비용 부담 때문인 것으로 분석됩니다. 성장을 위한 투자가 단기 수익성을 압박할 수 있으므로, 장기 성장성과 단기 수익성 간의 균형을 평가해야 합니다.",
+      "description": "테슬라가 2분기에 판매량은 증가했지만, AI 투자 부담 등으로 인해 이익이 감소하며 전반적인 수익성이 흔들리고 있습니다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "전기차, 인공지능(AI), 2차전지",
       "related_stocks": [
-        "KB금융",
-        "신한지주"
+        "LG에너지솔루션",
+        "삼성SDI",
+        "현대차"
       ],
       "investment_view": "주의",
-      "investment_reason": "글로벌 금융 리더의 시장 경고는 투자 심리에 광범위한 영향을 미칠 수 있으며, 특히 채권 시장의 움직임이 주식 시장에 파급될 가능성을 주시해야 하기 때문이다.",
-      "key_signal": "다이먼의 경고가 주식 시장에 추가적인 조정 압력을 가할지, 혹은 이미 시장에 반영되어 영향이 제한적일지 확인하며 투자 전략을 점검해야 한다.",
+      "investment_reason": "테슬라의 수익성 악화는 전기차 산업 전반의 경쟁 심화와 AI 투자 비용 증가에 대한 우려를 증폭시키므로, 관련 국내 기업들의 투자 매력도를 재평가해야 합니다.",
+      "key_signal": "테슬라의 가격 인하 정책과 AI 기술 개발 진행 상황, 그리고 수익성 개선을 위한 전략 변화를 주시해야 합니다.",
       "keywords": [
-        "제이미 다이먼",
-        "시장 경고",
-        "주식 시장",
-        "채권 시장",
-        "글로벌 금융"
+        "테슬라",
+        "수익성",
+        "AI 투자",
+        "전기차 시장",
+        "비용 부담"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFUwRE5YZnYzWEttOVFiNE8zZjdKVjJhaG5fazduRUlUWkZ1U1M5NXhYMzdhMXZKeW5HNXdvakc1bXp1N1dZVTVvZ1RjVm9vbm5lS2twOXhvYVBWcm13cTRpbDBzaWhOZEh3YnIyYlMxVUtxQUc5TXZPTGpOTkZxeEh3WFJZV1Bibk9PTTVB0gGTAUFVX3lxTE05Q0N6S1NYb1FHQ2lEUkJDeXhaelRaekV0Vy0yMENGVFRBcmtjT3ozOVdobmk3R1Jqc0lqMkg3bVBmWHhPa1RtV0hsVUZxY2RodUExM2doclFkWlNWeXZwbHZiak13Tk5PaEluLWZWZG9YNWpHUzIxbmJ6REQ3YzdhYkZRRlpNbUlDcm9kaUoxTzBUaw?oc=5",
-      "published": "2026-07-22 05:37",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUdPLWlrMlR6Y1AtV2I4OTJUTlZkUUJPd1o2UnYtdVBqVGRuSVZELWJfMV9zNkRwWGxkWWhab3ZUa3dmSV9WQjFDdGF0RHRDLVhMYjhVQk1peVJUaWdSZjJTZV9RUWdseTV1SHVhbWl0TkY2cjNDa1J4ZEJvSk1lSw?oc=5",
+      "published": "2026-07-23 06:09",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -152,36 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "마이크론 12% 급등에 나스닥 랠리",
-      "display_title": "마이크론 12% 급등에 나스닥 랠리",
-      "original_title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Rallies As Micron Soars 12% - FXEmpire",
+      "title": "숨겨진 연준의 불일치가 시장의 가장 큰 리스크가 될 수 있다",
+      "display_title": "숨겨진 연준의 불일치가 시장의 가장 큰 리스크가 될 수 있다",
+      "original_title": "A Hidden Fed Disconnect Could Become the Market's Biggest Risk - Sahm",
       "summary": [
-        "미국 반도체 기업 마이크론(Micron)의 주가가 12% 급등하며 나스닥 지수 상승을 견인했다.",
-        "이는 반도체 산업의 긍정적인 전망 또는 특정 호재에 대한 시장의 강한 기대를 반영한 것으로 보인다.",
-        "마이크론의 강세는 국내 반도체 기업들의 투자 심리에도 긍정적인 영향을 미칠 수 있다."
+        "연준 내부의 정책 방향이나 소통에서의 불일치가 시장에 큰 위험으로 작용할 수 있습니다.",
+        "시장 예상과 다른 연준의 행보는 투자 심리 위축 및 변동성 확대로 이어질 수 있습니다.",
+        "연준의 통화 정책 불확실성에 대비하고, 관련 발언과 경제 지표를 면밀히 분석해야 합니다."
       ],
-      "summary_text": "미국 반도체 기업 마이크론(Micron)의 주가가 12% 급등하며 나스닥 지수 상승을 견인했다. 이는 반도체 산업의 긍정적인 전망 또는 특정 호재에 대한 시장의 강한 기대를 반영한 것으로 보인다. 마이크론의 강세는 국내 반도체 기업들의 투자 심리에도 긍정적인 영향을 미칠 수 있다.",
-      "description": "마이크론 주가가 12% 급등하며 나스닥 지수가 강세를 보였다.",
+      "summary_text": "연준 내부의 정책 방향이나 소통에서의 불일치가 시장에 큰 위험으로 작용할 수 있습니다. 시장 예상과 다른 연준의 행보는 투자 심리 위축 및 변동성 확대로 이어질 수 있습니다. 연준의 통화 정책 불확실성에 대비하고, 관련 발언과 경제 지표를 면밀히 분석해야 합니다.",
+      "description": "연방준비제도(Fed) 내부의 불일치 또는 시장과의 소통 단절이 향후 시장에 가장 큰 위험으로 작용할 수 있다는 분석입니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체",
+      "market_impact": "부정",
+      "related_sector": "금융, 통화정책",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "마이크론의 급등은 글로벌 반도체 업황 개선에 대한 기대를 높이며, 국내 대표 반도체 기업들의 주가에도 긍정적인 모멘텀으로 작용할 수 있기 때문이다.",
-      "key_signal": "마이크론 주가 급등의 배경(예: 실적, 가이던스, 신기술)을 정확히 파악하고 국내 반도체 기업들의 동향을 함께 살펴봐야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 정책 불확실성은 전반적인 시장 심리와 투자 방향에 큰 영향을 미치므로, 시장의 방향성을 예측하기 어렵게 만듭니다.",
+      "key_signal": "연준 위원들의 공개 발언, FOMC 회의록, 경제 지표 발표 등을 통해 정책 기조의 일관성을 확인해야 합니다.",
       "keywords": [
-        "마이크론",
-        "나스닥",
-        "반도체",
-        "주가 급등",
-        "반도체 업황"
+        "연준",
+        "통화 정책",
+        "시장 리스크",
+        "불확실성",
+        "소통"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDVpaWNydkNLa3JVNXNnQlFSaVo1Z2tGbHZfbFplYXpXVElZZzZoQ1FCY1NqZEwweXpRYWlRTmNhTnNvQ2w1b3FmYlJlZUZuMzJFclU3MGVtTGhOUk0zYUdGYXJlZ3pfZjFCcXE3YjFxMm40M3RMV3YzcjVpYVBhR0NScmpidEFwZ3RVWDFSZGJsVFV1RGdfbjVoX2t6UmxlU1VaY3NWb0NNUFk0Z21ESU13czJmOVRUbW8tREZrWVo?oc=5",
-      "published": "2026-07-22 04:19",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFpOYS1aWUlEQW5qYXlsci1UT01hRU1BdXZxczZ2VldlOUJlQW9FSzJDS1RCdFRWejNwQzVQNFpBTG9VZjhCTURsSGN3UVlVdFFFS3lPaHJWV2s0UlRkTGpNdGNRNWJwQ2lBWkdiUTYzUVFaOEVwYU1IMEtLV0oyNGhQaF9Lb3VwcmFkaDB5QlQwQklqRE10d2RLVlh5QXc5WTctcUZXQVVHWDc4ZkRldnBTVQ?oc=5",
+      "published": "2026-07-23 04:49",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,36 +196,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "케빈 워시 연준 의장 첫 주요 조치, 채권 시장은 이미 반응했지만 대부분의 투자자들은 놓쳤다",
-      "display_title": "케빈 워시 연준 의장 첫 주요 조치, 채권 시장은 이미 반응했지만 대부분의 투자자들은 놓쳤다",
-      "original_title": "Kevin Warsh Made His First Big Move as Fed Chair, and the Bond Market Has Taken Action -- but Most Investors Missed It - The Motley Fool",
+      "title": "오늘 증시: 반도체 주식 모멘텀 둔화와 유가 상승으로 다우, S&P 500, 나스닥 랠리 소멸",
+      "display_title": "오늘 증시: 반도체 주식 모멘텀 둔화와 유가 상승으로 다우, S&P 500, 나스닥 랠리 소멸",
+      "original_title": "Stock market today: Dow, S&P 500, Nasdaq rally fizzles as chip stock momentum fades, oil rises - AOL.com",
       "summary": [
-        "케빈 워시(Kevin Warsh) 연방준비제도(Fed) 의장으로서의 첫 주요 정책 움직임이 있었다.",
-        "이 조치에 채권 시장은 이미 반응했으나, 대다수 투자자들은 그 중요성을 간과했을 가능성이 크다.",
-        "연준 의장의 정책 변화는 금리, 유동성, 시장 전반에 큰 영향을 미치므로 시장의 미묘한 움직임을 파악하는 것이 중요하다."
+        "미국 주요 증시 랠리가 반도체 모멘텀 둔화와 유가 상승으로 인해 동력을 잃고 있습니다.",
+        "반도체는 글로벌 기술주의 핵심이며, 유가 상승은 인플레이션 압력을 가중시키는 요인입니다.",
+        "반도체 업황 둔화 신호와 에너지 가격 상승은 국내 증시, 특히 반도체 관련주와 전반적인 물가 압력에 영향을 줄 수 있습니다."
       ],
-      "summary_text": "케빈 워시(Kevin Warsh) 연방준비제도(Fed) 의장으로서의 첫 주요 정책 움직임이 있었다. 이 조치에 채권 시장은 이미 반응했으나, 대다수 투자자들은 그 중요성을 간과했을 가능성이 크다. 연준 의장의 정책 변화는 금리, 유동성, 시장 전반에 큰 영향을 미치므로 시장의 미묘한 움직임을 파악하는 것이 중요하다.",
-      "description": "케빈 워시 연준 의장이 첫 주요 정책 결정을 내렸고, 채권 시장은 즉각적으로 반응했지만 대다수 투자자들은 그 의미를 파악하지 못했다.",
-      "category": "글로벌 경제",
+      "summary_text": "미국 주요 증시 랠리가 반도체 모멘텀 둔화와 유가 상승으로 인해 동력을 잃고 있습니다. 반도체는 글로벌 기술주의 핵심이며, 유가 상승은 인플레이션 압력을 가중시키는 요인입니다. 반도체 업황 둔화 신호와 에너지 가격 상승은 국내 증시, 특히 반도체 관련주와 전반적인 물가 압력에 영향을 줄 수 있습니다.",
+      "description": "반도체 주식의 상승세가 약화되고 유가가 상승하면서 다우존스, S&P 500, 나스닥 등 주요 미국 증시의 랠리가 꺾였습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "금융, 채권",
+      "market_impact": "부정",
+      "related_sector": "반도체, 에너지, 기술주",
       "related_stocks": [
-        "KB금융",
-        "신한지주"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준 의장의 초기 정책 스탠스는 향후 통화 정책 방향을 결정하며, 이는 국내외 증시 및 금리 시장에 광범위한 영향을 미칠 수 있어 면밀한 분석이 필요하기 때문이다.",
-      "key_signal": "워시 의장의 첫 조치가 구체적으로 무엇이며, 채권 시장이 어떻게 반응했는지 정확히 파악하여 향후 연준의 통화 정책 방향을 예측해야 한다.",
+      "investment_reason": "미국 반도체주의 약세는 국내 증시의 주축인 반도체 관련주에 직접적인 하방 압력으로 작용하며, 유가 상승은 인플레이션 우려를 키웁니다.",
+      "key_signal": "미국 필라델피아 반도체 지수와 국제 유가 동향을 주시하고, 국내 반도체 기업들의 실적 전망 변화를 확인해야 합니다.",
       "keywords": [
-        "연준",
-        "케빈 워시",
-        "통화 정책",
-        "채권 시장",
-        "글로벌 금리"
+        "반도체",
+        "유가 상승",
+        "미국 증시",
+        "인플레이션",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcU5GdTJyVmJfajZ5WE1GbVplZ3pMMEFUaWpfUlhzOV9WYW5LRGR2X25jV2VWcU5qRG5PN2p1NmdCR2pyMTJQT1E1SzNxM1BMZEt4bnVnbl9UUnpSZGdSVmQyeXF4Z3VCTDQtR1NUeTVleUhoWVN2LS1rZUFnRXB6Z2FZSUVyUTdBdHBhendqWnFjNVM0V0E?oc=5",
-      "published": "2026-07-21 18:06",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wSlNia0FyRW1faFo4U1JFTVNjcXFBbXkyRFF3OEsyNko2eGdEOWVESkNVQ0otRWF5X2xveXFNX1RPWF9HMDN2Vnk4YzlHT0lFblVCYU1ZNWZLMEtwUWNiQUpfQV9IWU14aEVWTXdQU2M5UExZS2o4?oc=5",
+      "published": "2026-07-23 02:48",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -234,37 +237,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "지금 구매해야 할 최고의 희토류 관련주 (2026년 7월)",
-      "display_title": "지금 구매해야 할 최고의 희토류 관련주 (2026년 7월)",
-      "original_title": "Best Rare Earth Stocks to Buy Now July 2026 - Zacks Investment Research",
+      "title": "현재 DVY 3.3% 배당 수익률, 국채 4.55% 금리에 비해 매력도 약화",
+      "display_title": "현재 DVY 3.3% 배당 수익률, 국채 4.55% 금리에 비해 매력도 약화",
+      "original_title": "DVY’s 3.3% Yield Looks Weak Against 4.55% Treasury Rates Right Now - 24/7 Wall St.",
       "summary": [
-        "2026년 7월 현재 시점에서 투자 매력이 높은 희토류 관련주들이 주목받고 있다.",
-        "희토류는 전기차 배터리, 풍력 터빈, 첨단 전자제품 등 미래 산업의 핵심 소재로 중요성이 증대되고 있다.",
-        "장기적인 관점에서 희토류 공급망 안정화와 관련된 기업들은 구조적 성장을 기대할 수 있다."
+        "DVY ETF의 3.3% 배당 수익률이 4.55%의 미국 국채 금리보다 낮아 매력이 감소했습니다.",
+        "안전 자산인 국채 금리가 높아지면서 고배당 주식이나 ETF의 상대적 매력이 하락하고 있습니다.",
+        "고금리 환경에서는 배당주 투자 시 국채 금리와의 비교를 통해 실질적인 투자 매력을 평가해야 합니다."
       ],
-      "summary_text": "2026년 7월 현재 시점에서 투자 매력이 높은 희토류 관련주들이 주목받고 있다. 희토류는 전기차 배터리, 풍력 터빈, 첨단 전자제품 등 미래 산업의 핵심 소재로 중요성이 증대되고 있다. 장기적인 관점에서 희토류 공급망 안정화와 관련된 기업들은 구조적 성장을 기대할 수 있다.",
-      "description": "2026년 7월 현재 시장에서 주목할 만한 최고의 희토류 관련주들을 분석한다.",
-      "category": "기업·산업",
+      "summary_text": "DVY ETF의 3.3% 배당 수익률이 4.55%의 미국 국채 금리보다 낮아 매력이 감소했습니다. 안전 자산인 국채 금리가 높아지면서 고배당 주식이나 ETF의 상대적 매력이 하락하고 있습니다. 고금리 환경에서는 배당주 투자 시 국채 금리와의 비교를 통해 실질적인 투자 매력을 평가해야 합니다.",
+      "description": "고배당 ETF인 DVY의 3.3% 배당 수익률이 현재 4.55%에 달하는 미국 국채 금리에 비해 투자 매력이 떨어진다는 분석입니다.",
+      "category": "증시·금리",
       "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "희토류, 2차전지, 소재",
+      "market_impact": "부정",
+      "related_sector": "고배당주, 금융, 채권",
       "related_stocks": [
-        "에코프로비엠",
-        "포스코퓨처엠",
-        "세노텍"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "희토류는 미래 첨단 산업의 필수 소재로, 장기적인 수요 증가와 공급망 재편 이슈로 인해 구조적 성장 가능성이 높아 투자 매력이 크다.",
-      "key_signal": "글로벌 희토류 공급망 변화와 각국 정부의 자원 확보 정책이 관련 기업들의 주가에 미칠 영향을 지속적으로 모니터링해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "국채 금리 상승은 배당주를 포함한 전반적인 주식 시장의 밸류에이션에 부담을 주므로, 고배당 전략 재검토가 필요합니다.",
+      "key_signal": "미국 국채 금리 동향과 고배당 ETF로의 자금 흐름 변화를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "희토류",
-        "핵심 광물",
-        "2차전지",
-        "공급망",
-        "미래 산업"
+        "배당 수익률",
+        "국채 금리",
+        "고금리",
+        "ETF",
+        "증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5",
-      "published": "2026-07-22 05:01",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkF0ZzhZemY0bHFHZC1hZEN3bVRwLTc3SzZUSVlfTFBZLUpMR04yUVZXX0p5V0ItSVBfbmJFODVCTUhjYTNYUF9feVdkUTBwWmVNRHlEYWVzOUluOERNWGFaNmNCd1hYMERLelpxaURsZElmMzlsVTNLNEM0YXEyc2IzUXJTWGxaa2RNcldTUlV4ZnZyYkg4ckd6UzJveUM5RjhxTVVsRWhibVE?oc=5",
+      "published": "2026-07-23 05:38",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -275,70 +278,65 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "SK하이닉스",
+      "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "대규모 외환 거래로 인한 환율 안정화 기여 소식과 더불어 글로벌 반도체 업황 개선 기대감에 따른 마이크론 급등세가 긍정적 모멘텀으로 작용할 수 있습니다.",
+      "opinion": "주의",
+      "reason": "미국 반도체주의 모멘텀 둔화 소식은 국내 증시의 주축인 삼성전자에 직접적인 하방 압력으로 작용할 수 있으며, 국채 금리 상승으로 인한 배당주 매력도 약화 또한 전반적인 밸류에이션에 부담을 줄 수 있습니다.",
       "check_points": [
-        "글로벌 메모리 반도체 가격 동향",
-        "인공지능(AI) 관련 고부가 메모리 수요 지속 여부",
-        "원/달러 환율 변동성"
+        "미국 주요 반도체 기업들의 주가 및 실적 발표 동향",
+        "글로벌 금리 인상 기조와 환율 변동성이 반도체 업황에 미치는 영향"
       ],
       "related_news_titles": [
-        "“1560원 위협하더니 1470원대로”…환율 급락의 숨은 주역은 SK하이닉스",
-        "마이크론 12% 급등에 나스닥 랠리"
+        "오늘 증시: 반도체 주식 모멘텀 둔화와 유가 상승으로 다우, S&P 500, 나스닥 랠리 소멸",
+        "현재 DVY 3.3% 배당 수익률, 국채 4.55% 금리에 비해 매력도 약화"
       ]
     },
     {
       "rank": 2,
-      "name": "삼성전자",
+      "name": "LG에너지솔루션",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "마이크론의 급등은 글로벌 반도체 업황 개선에 대한 기대감을 높이며, 국내 대표 반도체 기업인 삼성전자의 주가에도 긍정적인 모멘텀으로 작용할 수 있습니다.",
+      "sector": "2차전지",
+      "opinion": "주의",
+      "reason": "테슬라의 어닝 쇼크와 수익성 악화는 전기차 및 2차전지 산업 전반에 대한 우려를 증폭시키며, 국내 주요 배터리 관련 기업들의 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "글로벌 IT 수요 회복 속도",
-        "메모리 및 파운드리 부문의 실적 개선 여부",
-        "AI 반도체 시장 내 경쟁 구도 및 기술 리더십"
+        "테슬라 등 주요 전기차 업체의 향후 판매량 및 수익성 전망",
+        "글로벌 전기차 시장의 성장 둔화 및 경쟁 심화 정도"
       ],
       "related_news_titles": [
-        "마이크론 12% 급등에 나스닥 랠리",
-        "“1560원 위협하더니 1470원대로”…환율 급락의 숨은 주역은 SK하이닉스"
+        "테슬라 2분기 '어닝 쇼크', AI 투자로 현금흐름 적자 전환",
+        "테슬라, 판매량 증가에도 이익 감소…AI 투자 부담으로 수익성 흔들림(종합)"
       ]
     },
     {
       "rank": 3,
-      "name": "KB금융",
+      "name": "한국금융지주",
       "market": "KOSPI",
       "sector": "금융",
-      "opinion": "관심",
-      "reason": "한국은행의 상반기 순이익 급증은 국내 경제 전반의 건전성과 금융권의 긍정적인 환경을 시사하며, 이는 주요 금융지주의 실적 개선 기대감으로 이어질 수 있습니다.",
+      "opinion": "주의",
+      "reason": "이란 위기 심화로 인한 연준의 금리 인상 가능성과 연준 정책의 불확실성은 금융 시장 전반의 투자 심리를 위축시키고, 금리 민감주인 증권사를 포함한 금융주의 투자 전략 재검토를 필요하게 합니다.",
       "check_points": [
-        "글로벌 금융 리더의 시장 경고에 따른 투자 심리 변화",
-        "국내외 금리 및 채권 시장 변동성",
-        "기업 대출 건전성 및 연체율 추이"
+        "미국 및 국내 금리 인상/인하 기조와 연준의 통화 정책 발언",
+        "글로벌 증시 변동성 및 국내 증권 시장 거래대금 추이"
       ],
       "related_news_titles": [
-        "한국은행, 상반기 순이익 첫 10조원 상회…고환율·증시 활황에 전년비 2배 급증",
-        "제이미 다이먼, 주식 및 채권 시장 이중 경고: 투자자들은 이미 한 가지 행동을 취했다",
-        "케빈 워시 연준 의장 첫 주요 조치, 채권 시장은 이미 반응했지만 대부분의 투자자들은 놓쳤다"
+        "이란 위기 심화로 연준 금리 인상 가능성 높아지는 강세장",
+        "숨겨진 연준의 불일치가 시장의 가장 큰 리스크가 될 수 있다"
       ]
     },
     {
       "rank": 4,
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "sector": "2차전지 소재",
-      "opinion": "관심",
-      "reason": "희토류는 미래 첨단 산업의 필수 소재로, 2차전지 양극재의 핵심 원료이기도 합니다. 희토류 관련 시장의 장기적인 수요 증가와 공급망 재편 이슈는 2차전지 소재 기업에 구조적 성장 기회를 제공할 수 있습니다.",
+      "name": "현대차",
+      "market": "KOSPI",
+      "sector": "자동차",
+      "opinion": "주의",
+      "reason": "테슬라의 수익성 악화 소식은 전기차 산업 전반의 경쟁 심화 및 AI 투자 비용 부담에 대한 우려를 증폭시키며, 국내 완성차 업체의 전기차 전환 전략 및 수익성에 미칠 영향을 주시해야 합니다.",
       "check_points": [
-        "글로벌 전기차 시장 성장률 및 배터리 수요 동향",
-        "핵심 광물 가격 변동성 및 안정적인 공급망 확보 노력",
-        "기술 경쟁력 강화 및 신규 고객사 확보 여부"
+        "글로벌 전기차 시장의 수요 변화 및 경쟁 구도 심화 정도",
+        "현대차의 전기차 판매량 및 생산 계획, 수익성 변화 추이"
       ],
       "related_news_titles": [
-        "지금 구매해야 할 최고의 희토류 관련주 (2026년 7월)"
+        "테슬라, 판매량 증가에도 이익 감소…AI 투자 부담으로 수익성 흔들림(종합)"
       ]
     }
   ],
