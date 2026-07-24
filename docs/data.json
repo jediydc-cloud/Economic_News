@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24 07:56",
-  "analysis_date": "2026-07-24",
+  "generated_at": "2026-07-25 08:01",
+  "analysis_date": "2026-07-25",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미 증시는 유가 급등과 국채금리 상승, AI 투자 경쟁에 따른 빅테크 CAPEX 부담 우려로 급락했습니다. 국내는 3%대 성장 가능성으로 금리 인상 명분이 커졌고, 부동산 정책 재설계 논의가 활발합니다.",
-    "국내거시경제": "한국 경제가 5년 만에 3%대 성장을 달성할 가능성이 커지면서, 한국은행의 기준금리 인상 논의에 힘이 실리고 있습니다.",
-    "글로벌경제": "브렌트유가 배럴당 100달러를 돌파하며 고유가 시대에 진입했고, 미국 국채금리 또한 급등하며 인플레이션 압력과 경기 둔화 우려를 키우고 있습니다.",
-    "증시금리": "미국 증시는 유가 급등, 국채금리 상승과 빅테크 CAPEX 우려로 급락했으며, 특히 나스닥은 2% 이상 하락하며 기술주 전반에 대한 투심이 악화되었습니다. 다만 메모리 반도체는 AI 수요에 힘입어 차별적 강세를 보였습니다.",
-    "부동산정책": "부동산 정책 국민대토론회에서 주택 공급, 금융 규제, 세금 제도 등 전반적인 정책 재설계 필요성이 강조되었습니다.",
-    "기업산업": "AI 투자 경쟁 심화에 따른 빅테크 기업의 CAPEX 우려가 기술주 전반의 하락을 이끌었으나, AI 수요와 연계된 메모리 반도체는 강세를 보였습니다. 고유가 환경은 에너지 관련주에 긍정적이지만, 전반적인 기업 실적에는 부담으로 작용할 수 있습니다.",
-    "오늘의투자시사점": "글로벌 증시의 변동성 확대에 대비하고, 고유가 및 금리 인상 가능성 속에 방어적인 포트폴리오 전략이 중요합니다. 국내는 금리 인상 시 가치주/금융주에, 부동산 정책 변화 시 건설/금융주에 관심이 필요합니다.",
-    "오늘의한줄": "글로벌 증시는 고유가와 빅테크 CAPEX 우려로 급락, 국내는 성장 기대 속 금리 및 부동산 정책 변화에 주목해야 합니다."
+    "총평": "국내 경제는 내수 침체와 가계부채 심화로 구조적 위기 우려가 커지는 가운데, 해외에서는 미 연준 결정, 기술주 실적, 유가 변동이 증시를 압박하며 높은 변동성이 예상됩니다. 투자 심리 위축과 불확실성 증대로 신중한 접근이 필요합니다.",
+    "국내거시경제": "내수 붕괴와 자영업 폐업 증가는 한국 경제의 구조적 균열을 심화시키고 있습니다. 반도체 호황에도 낙수효과가 미미하여 하반기 성장은 내수 회복에 달렸다는 분석입니다. 고물가 속 경기 둔화 우려(스태그플레이션)와 가계부채 문제는 서민 경제에 큰 부담으로 작용하고 있습니다.",
+    "글로벌경제": "기업 실적, 금리, 유가가 복합적으로 충돌하며 글로벌 시장의 불확실성을 키우고 있습니다. 국제 유가 및 채권 수익률 상승은 인플레이션 우려를 자극하고 미국 증시에 압박을 가하는 요인입니다.",
+    "증시금리": "이번 주 미국 증시는 연준의 금리 결정과 대규모 기술주 실적 발표로 시험대에 오르며 높은 변동성이 예상됩니다. 유가 및 채권 수익률 상승은 투자 심리를 불안하게 하고 증시 하방 압력을 가중시키고 있습니다. 국내 증시 또한 연이은 급락과 사이드카 발동으로 개인 투자자들의 심리가 극도로 위축된 상태입니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "해외 기술 기업들의 실적 발표가 글로벌 증시에 중요한 변수로 작용할 것입니다. 국내 내수 부진이 장기화될 경우 소비재, 유통, 서비스 업종의 실적에 부정적인 영향을 미칠 수 있습니다.",
+    "오늘의투자시사점": "국내 경제의 구조적 위기와 해외 거시경제 변수(연준 결정, 유가, 기술주 실적)들이 시장 변동성을 높일 것으로 보입니다. 불확실성이 큰 시기이므로 무리한 투자를 자제하고, 시장 흐름을 주시하며 위험 관리에 집중해야 합니다. 특히 내수 부진 관련 업종과 고변동성 종목에 대한 주의가 요구됩니다.",
+    "오늘의한줄": "국내외 경제 불확실성과 시장 변동성이 최고조에 달하며 신중한 투자 전략이 필수적인 한 주가 될 것입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 증시 폭락: 3대 지수 하락, 나스닥 2% 이상 급락, 구글·테슬라 대규모 CAPEX 우려, 기술주 주도 하락세 속 메모리 반도체는 강세",
-      "display_title": "미국 증시 폭락: 3대 지수 하락, 나스닥 2% 이상 급락, 구글·테슬라 대규모 CAPEX 우려, 기술주 주도 하락세 속 메모리 반도체는 강세",
-      "original_title": "US Stocks Close: Three Major Indices Tumble, Nasdaq Falls Over 2%, Market Worries Over Google and Tesla’s Massive Capital Expenditures, Tech Stocks Lead Declines, Memory Stocks Find Support Against the Trend - TradingKey",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "한국 경제 위기 신호, 구조적 균열 심화: 내수 붕괴, 자영업 폐업 폭증, 스태그플레이션과 가계부채 충돌",
+      "display_title": "한국 경제 위기 신호, 구조적 균열 심화: 내수 붕괴, 자영업 폐업 폭증, 스태그플레이션과 가계부채 충돌",
+      "original_title": "한국 경제 위기 신호, 구조적 균열이 커진다 -> 내수 붕괴와 자영업 폐업 폭증, 서민 경제의 경고등 => 스태그플레이션 공포와 가계부채 한계치의 충돌 | - 데일리머니",
       "summary": [
-        "미국 주요 증시가 구글, 테슬라 등 빅테크 기업의 대규모 Capex 투자 우려와 함께 급락했으며, 특히 나스닥은 2% 이상 하락했다.",
-        "AI 투자 경쟁 심화에 따른 기업들의 막대한 자본 지출이 이익률에 부담을 줄 수 있다는 인식이 확산되며 기술주 전반에 대한 투심이 악화되었다.",
-        "기술주 전반의 조정 가능성에 대비하되, 메모리 반도체는 AI 수요와 맞물려 차별적인 강세를 보일 수 있어 선별적 접근이 필요하다."
+        "한국 경제가 내수 부진과 자영업 폐업 증가, 높은 가계부채 및 스태그플레이션 우려로 구조적 위기에 직면했다는 경고.",
+        "고물가 속 경기 둔화 우려가 커지면서 서민 경제의 어려움이 가중되고, 만성적인 가계부채 문제가 심화되고 있음.",
+        "소비 심리 위축과 내수 부진은 국내 소비재, 유통, 서비스 업종의 실적에 부정적인 영향을 미칠 수 있으므로 주의해야 함."
       ],
-      "summary_text": "미국 주요 증시가 구글, 테슬라 등 빅테크 기업의 대규모 Capex 투자 우려와 함께 급락했으며, 특히 나스닥은 2% 이상 하락했다. AI 투자 경쟁 심화에 따른 기업들의 막대한 자본 지출이 이익률에 부담을 줄 수 있다는 인식이 확산되며 기술주 전반에 대한 투심이 악화되었다. 기술주 전반의 조정 가능성에 대비하되, 메모리 반도체는 AI 수요와 맞물려 차별적인 강세를 보일 수 있어 선별적 접근이 필요하다.",
-      "description": "미국 3대 주요 지수가 일제히 하락했으며, 특히 나스닥은 2% 이상 급락했다. 시장은 구글과 테슬라의 막대한 자본 지출에 대한 우려를 표했으며, 기술주가 하락세를 주도한 반면, 메모리 반도체 주식은 역대 흐름과 달리 지지세를 보였다.",
-      "category": "증시·금리",
-      "importance": 9,
+      "summary_text": "한국 경제가 내수 부진과 자영업 폐업 증가, 높은 가계부채 및 스태그플레이션 우려로 구조적 위기에 직면했다는 경고. 고물가 속 경기 둔화 우려가 커지면서 서민 경제의 어려움이 가중되고, 만성적인 가계부채 문제가 심화되고 있음. 소비 심리 위축과 내수 부진은 국내 소비재, 유통, 서비스 업종의 실적에 부정적인 영향을 미칠 수 있으므로 주의해야 함.",
+      "description": "한국 경제에서 내수 붕괴와 자영업 폐업 증가가 서민 경제의 경고등으로 작용하며, 스태그플레이션 우려와 가계부채 문제가 심각하게 충돌하고 있다는 분석입니다.",
+      "category": "국내 거시경제",
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "IT하드웨어, 반도체, 인터넷",
+      "related_sector": "소비재, 유통, 서비스, 금융, 부동산",
       "related_stocks": [
-        "테슬라",
-        "알파벳",
-        "SK하이닉스"
+        "롯데쇼핑",
+        "신세계",
+        "하나금융지주"
       ],
       "investment_view": "주의",
-      "investment_reason": "빅테크 기업들의 자본 지출 확대가 기업 이익에 미칠 영향과 AI 관련 산업 전반의 투자심리 변화를 주시해야 하기 때문입니다.",
-      "key_signal": "미국 증시의 기술주 조정이 국내 관련 섹터에 미칠 영향과 메모리 반도체 업종의 견조한 흐름 지속 여부를 확인해야 합니다.",
+      "investment_reason": "국내 내수 부진과 가계부채, 스태그플레이션 우려는 한국 경제의 전반적인 성장 모멘텀을 약화시키고 특정 산업의 실적에 치명적인 영향을 줄 수 있기 때문입니다.",
+      "key_signal": "정부의 내수 활성화 정책과 가계부채 관리 방안, 그리고 실제 소비 지표 변화를 면밀히 모니터링해야 합니다.",
       "keywords": [
-        "미국증시",
-        "기술주",
-        "나스닥",
-        "AI투자",
-        "메모리반도체"
+        "한국경제",
+        "내수침체",
+        "자영업",
+        "가계부채",
+        "스태그플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN3BlMUxyTENrMzh1N3c3dktCTFRxT2w5VDNpci12RVI0V1AweWpONVBqMXVfd3R0dF90N1ZkSnpDb0lqV1RqTlRMR3FncG9MWDZYczBLZUhSZUtuN3hkNzdxd0txY3ZWaFprdEY2UUE0U21uTkw5NThteU13LVhNUm5YUHYzTU9HNFVsZ1hVcFdPR05iMWlnWTI2d0JuSjFweHRtWGZ0Z3NUWkNYbklKa1dSTlptMnR1WDFQa0ttbElTcnZ6TnF5TF9JTkU?oc=5",
-      "published": "2026-07-24 05:15",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OMTVyanYyaU9uMHJqY0w3aVdhbHRKTWRuQTB2S2tXUUJCNFc4VnZKeml5UnY4Xzh5WjBMdDZXVG1hYnBWNjc1U1dRNTZCbTNsRlhNajYxZW9WcHYtTU5YT1NJUlZPcENXMHdzRDdzbkhKU1IxLXc?oc=5",
+      "published": "2026-07-25 04:18",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "브렌트유 $100 돌파, AI 군비 경쟁 의문 제기; 미국 증시 폭락, 나스닥 2% 이상 급락",
-      "display_title": "브렌트유 $100 돌파, AI 군비 경쟁 의문 제기; 미국 증시 폭락, 나스닥 2% 이상 급락",
-      "original_title": "Brent Crude Tops $100, AI Arms Race Questioned; US Stocks Routed as Nasdaq Plunges Over 2% - finance.biggo.com",
+      "title": "다가오는 월스트리트 주간: 연준 결정과 기술주 실적 발표 홍수로부터 시험대에 오르는 미국 주식",
+      "display_title": "다가오는 월스트리트 주간: 연준 결정과 기술주 실적 발표 홍수로부터 시험대에 오르는 미국 주식",
+      "original_title": "Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge - Reuters",
       "summary": [
-        "국제 유가(브렌트유)가 배럴당 100달러를 돌파하고 AI 투자 경쟁에 대한 우려가 커지면서 미국 나스닥 지수가 2% 넘게 급락했다.",
-        "중동 지정학적 불안에 따른 유가 상승은 인플레이션 압력을 가중시키고 소비 심리를 위축시키며, AI 투자 과열에 대한 회의론은 기술주 하락을 부추겼다.",
-        "유가 상승은 에너지 관련주에 긍정적이나, 전반적인 인플레이션과 경기 둔화 우려를 키워 증시에는 부담으로 작용할 수 있어 주의가 필요하다."
+        "이번 주 미국 증시는 연준의 금리 결정과 대규모 기술주 실적 발표라는 두 가지 주요 변수에 직면하게 됨.",
+        "이 두 요인은 시장의 방향성과 투자 심리에 결정적인 영향을 미칠 수 있으며, 높은 변동성을 예고함.",
+        "연준의 매파적/비둘기파적 스탠스와 기술 기업들의 실적 가이던스에 따라 국내 증시도 큰 영향을 받을 수 있으므로 대비가 필요함."
       ],
-      "summary_text": "국제 유가(브렌트유)가 배럴당 100달러를 돌파하고 AI 투자 경쟁에 대한 우려가 커지면서 미국 나스닥 지수가 2% 넘게 급락했다. 중동 지정학적 불안에 따른 유가 상승은 인플레이션 압력을 가중시키고 소비 심리를 위축시키며, AI 투자 과열에 대한 회의론은 기술주 하락을 부추겼다. 유가 상승은 에너지 관련주에 긍정적이나, 전반적인 인플레이션과 경기 둔화 우려를 키워 증시에는 부담으로 작용할 수 있어 주의가 필요하다.",
-      "description": "브렌트유 가격이 배럴당 100달러를 돌파했으며, 인공지능(AI) 군비 경쟁에 대한 의문이 제기되는 가운데 미국 증시는 나스닥이 2% 이상 폭락하는 등 전반적으로 약세를 보였다.",
+      "summary_text": "이번 주 미국 증시는 연준의 금리 결정과 대규모 기술주 실적 발표라는 두 가지 주요 변수에 직면하게 됨. 이 두 요인은 시장의 방향성과 투자 심리에 결정적인 영향을 미칠 수 있으며, 높은 변동성을 예고함. 연준의 매파적/비둘기파적 스탠스와 기술 기업들의 실적 가이던스에 따라 국내 증시도 큰 영향을 받을 수 있으므로 대비가 필요함.",
+      "description": "이번 주 월스트리트 증시는 연방준비제도(Fed)의 금리 결정과 주요 기술 기업들의 실적 발표로 인해 중요한 시험대에 오를 것입니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "정유, 에너지, IT소프트웨어",
+      "market_impact": "중립",
+      "related_sector": "기술주, 반도체, 인터넷, 금융",
       "related_stocks": [
-        "S-Oil",
-        "SK이노베이션",
-        "카카오"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
-      "investment_view": "주의",
-      "investment_reason": "고유가가 경기 둔화 우려를 심화시키고 AI 투자 과열 논란이 기술주 밸류에이션에 부담을 줄 수 있어 투자 전략 재점검이 필요합니다.",
-      "key_signal": "국제 유가 동향과 AI 관련 기업들의 실적 및 가이던스를 면밀히 모니터링해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "연준의 통화정책 방향과 글로벌 기술 기업들의 실적은 한국 증시에도 직접적인 영향을 미치는 핵심 변수이기 때문입니다.",
+      "key_signal": "연준의 금리 결정 내용과 기술주 실적 발표를 통해 향후 시장의 흐름을 예측하고 포트폴리오를 조정해야 합니다.",
       "keywords": [
-        "브렌트유",
-        "유가상승",
-        "AI투자",
-        "나스닥",
-        "인플레이션"
+        "연준",
+        "금리결정",
+        "기술주실적",
+        "월스트리트",
+        "시장변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85MmhOMkZCVGxSaGlTaG81YUJNN3VwTVQ1aWxIbjlwSnBFVEc5UC0zdXBLUnd4WjlpbjQ4NFpyWktCZWRvT0h5Yk94VDhXU2VZUGlkUXFOQ1Nvdjl3aDhxdFBEODFVRjNGUlVVMG1JUGFnZTV6Smc?oc=5",
-      "published": "2026-07-24 07:35",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajIyMHNIZTNQeFlkNHB6ekVuZjNtbFhOcXgtRFhXR095VXRnaUJHSDhwRjFaX19BVTY2RlBoY0d2bEk0cEdxSXlxZ2otVHcwUDNjbGtMWi12U182MkhIR1FrS2dWY1p3NEdSZHAxSmFDZ1BWT2sxSU8tYWxDd255TmpTUGFBeWY3M3VUWlBJb3ZybDdnWm8tM2tGT25XbUZQZmkwX1NlU3BjZl9pcUVHWTBQWDBpTEZrQmFTSVNXaw?oc=5",
+      "published": "2026-07-25 05:16",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,42 +109,42 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "브렌트유 배럴당 $100 돌파, 테슬라와 알파벳 급락으로 월스트리트 하락",
-      "display_title": "브렌트유 배럴당 $100 돌파, 테슬라와 알파벳 급락으로 월스트리트 하락",
-      "original_title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - The Washington Post",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "반도체 호황으로 번 돈은 어디로? 하반기 성장은 '내수 낙수효과'에 달려있다",
+      "display_title": "반도체 호황으로 번 돈은 어디로? 하반기 성장은 '내수 낙수효과'에 달려있다",
+      "original_title": "반도체로 번 돈 어디로…하반기 성장, '내수 낙수효과'에 달렸다 - 머니투데이 - 머니투데이",
       "summary": [
-        "브렌트유가 배럴당 100달러를 넘어섰고, 테슬라와 알파벳(구글) 등 주요 기술 기업 주가가 급락하며 미국 증시가 약세를 기록했다.",
-        "중동발 지정학적 리스크로 인한 유가 상승과, AI 관련 투자 비용 증가 우려가 빅테크 기업 주가에 부정적인 영향을 미치고 있다.",
-        "고유가 환경은 물가 상승 압력을 가중시키고 기업 실적에 부담을 줄 수 있으며, AI 투자 대장주들의 변동성은 관련 국내 기업에도 영향을 미칠 수 있다."
+        "반도체 호황에도 불구하고 그 효과가 내수로 이어지지 않아 하반기 경제 성장이 불투명하며, 내수 회복이 중요 과제로 부상.",
+        "수출 중심의 성장 한계와 내수 경기 부진이 지속되면서 경제의 불균형 심화 우려가 제기됨.",
+        "내수 관련 정책 및 소비 지표 변화에 주목해야 하며, 내수 활성화가 지연될 경우 소비재 및 서비스 업종의 어려움이 지속될 수 있음."
       ],
-      "summary_text": "브렌트유가 배럴당 100달러를 넘어섰고, 테슬라와 알파벳(구글) 등 주요 기술 기업 주가가 급락하며 미국 증시가 약세를 기록했다. 중동발 지정학적 리스크로 인한 유가 상승과, AI 관련 투자 비용 증가 우려가 빅테크 기업 주가에 부정적인 영향을 미치고 있다. 고유가 환경은 물가 상승 압력을 가중시키고 기업 실적에 부담을 줄 수 있으며, AI 투자 대장주들의 변동성은 관련 국내 기업에도 영향을 미칠 수 있다.",
-      "description": "브렌트유 가격이 배럴당 100달러를 돌파했으며, 테슬라와 알파벳(구글)의 주가가 급락하면서 월스트리트 증시가 전반적으로 하락세를 보였다.",
-      "category": "증시·금리",
+      "summary_text": "반도체 호황에도 불구하고 그 효과가 내수로 이어지지 않아 하반기 경제 성장이 불투명하며, 내수 회복이 중요 과제로 부상. 수출 중심의 성장 한계와 내수 경기 부진이 지속되면서 경제의 불균형 심화 우려가 제기됨. 내수 관련 정책 및 소비 지표 변화에 주목해야 하며, 내수 활성화가 지연될 경우 소비재 및 서비스 업종의 어려움이 지속될 수 있음.",
+      "description": "반도체 산업의 호황으로 벌어들인 수익이 내수로 이어져 경제 전반의 '낙수효과'를 창출해야만 하반기 국내 성장이 가능하다는 분석입니다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "정유, 전기차, 인터넷",
+      "related_sector": "반도체, 소비재, 유통, 서비스, 내수관련주",
       "related_stocks": [
-        "테슬라",
-        "알파벳",
-        "현대차"
+        "삼성전자",
+        "현대차",
+        "이마트"
       ],
-      "investment_view": "주의",
-      "investment_reason": "국제 유가 변동성과 글로벌 빅테크 기업들의 주가 흐름이 국내 시장, 특히 관련 산업에 미칠 파급 효과를 예측해야 합니다.",
-      "key_signal": "테슬라 및 알파벳 등 주요 기술 기업의 실적 발표와 유가 동향을 주의 깊게 살펴야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "한국 경제의 구조적인 문제점과 하반기 성장을 위한 핵심 동력을 제시하며, 이는 국내 투자 전략 수립에 매우 중요한 인사이트를 제공하기 때문입니다.",
+      "key_signal": "정부의 내수 부양책과 실제 소비 지표, 그리고 반도체 외 다른 산업의 성장 기여도를 종합적으로 살펴야 합니다.",
       "keywords": [
-        "브렌트유",
-        "유가급등",
-        "테슬라",
-        "알파벳",
-        "기술주하락"
+        "반도체호황",
+        "내수낙수효과",
+        "경제성장",
+        "소비심리",
+        "국내경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNkU1bndyS29HSUdCUll1VC1hTnNuNV9Nb2FDMmNjZEpEQ3hKaWRHWWlZdVJfRlpCOFBoc29KajhqLWxsSVZHUGh4ZHltUkUxc3VvNTZIcms0ajJhSnkyUlVoSXhLUmtyeENRczdiQzl6cVRwYnJpTUdnY2h6OVJBajZrckpOVU0zS3lYMm5rNXNZcERtV1pKTVBqMFA0Ul8wZl9nampFQjNzLXpDenlZZXl2akJ2ZWZGZjhudzBMbW9fSHlnNDJHUlBvTm5JbVRkSmxn?oc=5",
-      "published": "2026-07-24 05:13",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yRkxEMVVHb0dIR0tJWmNIdmFUemVzbFVFeENNamkxYm5XbVlDYjgwNXFLalhGcVg2N0x1QkdZaFpiVkVPXzNIVktheWlRN0RiUFVZM0RTU0MxLTFFUHdjV1ZsODlnQkQyLVQ00gFwQVVfeXFMUHpiSEFTNHZ4dFg1OVZjazYzYzhJWHFPTVJSLUNyanZsOVpaSGFnbU8xOExzb3dWYjZtV09TVWxGbnNPNjJYbmNVU1ZDQ08xb2JtNlpHZ2c5VUREendOSDc4bV93R1VTVlVfQXpxaURlQw?oc=5",
+      "published": "2026-07-25 07:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "$100 유가와 국채금리 급등이 증시 강타하며 S&P500 VIX 지수 상승",
-      "display_title": "$100 유가와 국채금리 급등이 증시 강타하며 S&P500 VIX 지수 상승",
-      "original_title": "S&P500: VIX Rises as $100 Oil and Treasury Yield Spike Hammer Stocks - FXEmpire",
+      "title": "주간 정리: 실적, 금리, 유가가 충돌할 때",
+      "display_title": "주간 정리: 실적, 금리, 유가가 충돌할 때",
+      "original_title": "Weekly Roundup: When Earnings, Rates, and Oil Collide - TheStreet Pro",
       "summary": [
-        "국제 유가가 100달러를 넘어선 가운데 미국 국채금리까지 급등하며 S&P500 지수 하락과 VIX 지수 상승을 초래, 시장의 공포감이 커졌다.",
-        "고유가는 인플레이션 우려를 증폭시키고, 국채금리 상승은 기업의 자금 조달 비용을 높이며 주식의 매력을 상대적으로 떨어뜨리는 요인으로 작용한다.",
-        "금리 및 유가 상승은 경기 둔화와 기업 실적 악화 가능성을 높여 시장 전반의 변동성을 확대시킬 수 있으므로, 신중한 접근과 포트폴리오 방어 전략이 중요하다."
+        "기업 실적, 금리, 유가라는 세 가지 주요 변수가 동시에 시장에 복합적인 영향을 미치고 있음.",
+        "투자자들이 다양한 거시경제 지표와 기업 펀더멘털을 동시에 고려해야 하는 복잡한 시장 상황.",
+        "이번 주 시장은 이 세 가지 요인의 상호작용에 따라 변동성이 커질 수 있으므로 다각적인 분석이 필요함."
       ],
-      "summary_text": "국제 유가가 100달러를 넘어선 가운데 미국 국채금리까지 급등하며 S&P500 지수 하락과 VIX 지수 상승을 초래, 시장의 공포감이 커졌다. 고유가는 인플레이션 우려를 증폭시키고, 국채금리 상승은 기업의 자금 조달 비용을 높이며 주식의 매력을 상대적으로 떨어뜨리는 요인으로 작용한다. 금리 및 유가 상승은 경기 둔화와 기업 실적 악화 가능성을 높여 시장 전반의 변동성을 확대시킬 수 있으므로, 신중한 접근과 포트폴리오 방어 전략이 중요하다.",
-      "description": "국제 유가가 100달러를 돌파하고 국채금리가 급등하면서 증시가 큰 타격을 입었고, 이에 따라 S&P500 VIX 지수(공포지수)도 상승했다.",
+      "summary_text": "기업 실적, 금리, 유가라는 세 가지 주요 변수가 동시에 시장에 복합적인 영향을 미치고 있음. 투자자들이 다양한 거시경제 지표와 기업 펀더멘털을 동시에 고려해야 하는 복잡한 시장 상황. 이번 주 시장은 이 세 가지 요인의 상호작용에 따라 변동성이 커질 수 있으므로 다각적인 분석이 필요함.",
+      "description": "주간 시장 요약 보고서에 따르면 기업 실적, 금리 변동, 유가 동향이 복합적으로 시장에 영향을 미치고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 정유, IT",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "전 산업, 에너지, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "카카오"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "주의",
-      "investment_reason": "고유가와 고금리가 복합적으로 작용하여 주식시장의 전반적인 투자심리를 위축시키고 변동성을 확대시킬 수 있기 때문입니다.",
-      "key_signal": "국제 유가와 미국 국채금리의 변동 추이, 그리고 VIX 지수 흐름을 통해 시장의 공포 심리를 지속적으로 점검해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "시장을 움직이는 핵심 동인들의 복합적인 작용을 이해하고 향후 시장 방향성을 예측하는 데 중요한 통찰을 제공하기 때문입니다.",
+      "key_signal": "기업 실적 발표 시즌, 주요국 금리 결정, 국제 유가 동향을 통합적으로 분석하여 투자 전략에 반영해야 합니다.",
       "keywords": [
-        "국제유가",
-        "국채금리",
-        "S&P500",
-        "VIX지수",
-        "금리인상"
+        "기업실적",
+        "금리",
+        "유가",
+        "시장변동성",
+        "거시경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1cwZXptc0kyOEJKMnBpbzlza3QxdUVka2gxemVSOUoxV2dkTG9ib2c2NXc2N1lWLTFnNVIzaDQ4LXRPY1FtUlhOb1JDdFJlZ3RIRXhtYkk1c3JWbUtaN2VpczhSNzdiRFFTdFhjN3FIeGp6TGNvWnZwTlJteUdYYjZmcW5YSjBmaTZ2aUdnb0xaOHhjVW5qSTlTbVhacGNPTE9lZWFlMGtERmlQb0pQMGJ5SVhRS2s?oc=5",
-      "published": "2026-07-24 02:45",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYmdFVVp3WmtzTXRUNlJIZW1XQmhWcXU2aG9keDcwNV9oNW1DUURvbXFBZDFOWXlZYm9nV2NqaGpMZlBscmxBM0FmUTNESkVNcndHZWpUbm82Ums4ODdOdzhEb3lPbGFCaENEa2pLS2VpZVY2NmNNbHlDUExfWjdXWFJ5ak9faXQxUjhucFRmQQ?oc=5",
+      "published": "2026-07-25 07:15",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,42 +193,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "5년 만에 '연 3%대 성장' 가시권… 금리인상 명분도 커졌다",
-      "display_title": "5년 만에 '연 3%대 성장' 가시권… 금리인상 명분도 커졌다",
-      "original_title": "5년 만에 '연 3%대 성장' 가시권… 금리인상 명분도 커졌다 - 머니투데이 - 머니투데이",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "유가 및 채권 수익률 상승이 투자자들을 불안하게 하고 미국 주식 시장을 압박",
+      "display_title": "유가 및 채권 수익률 상승이 투자자들을 불안하게 하고 미국 주식 시장을 압박",
+      "original_title": "Rising oil and bond yields rattle investors and pressure US stocks - Межа. Новини України.",
       "summary": [
-        "한국 경제가 5년 만에 연간 3%대 성장을 달성할 가능성이 커지면서, 한국은행의 기준금리 인상 논의에 힘이 실리고 있다.",
-        "견조한 경제 성장은 물가 상승 압력과 자산시장 과열을 동반할 수 있어, 이를 제어하기 위한 통화정책 정상화 필요성이 제기된다.",
-        "금리 인상은 대출 부담을 가중시키고 부동산 시장에 영향을 미치며, 성장주보다는 가치주, 금융주에 대한 관심이 높아질 수 있다."
+        "국제 유가 상승과 채권 수익률 상승이 동시에 나타나며 미국 증시에 부정적인 영향을 미치고 있음.",
+        "유가 상승은 인플레이션 우려를 키우고, 채권 수익률 상승은 기업의 자금 조달 비용 증가 및 주식의 매력도 감소로 이어짐.",
+        "이러한 거시경제 지표들의 동향은 국내 증시에도 유사한 압박 요인으로 작용할 수 있으므로 주의 깊게 살펴야 함."
       ],
-      "summary_text": "한국 경제가 5년 만에 연간 3%대 성장을 달성할 가능성이 커지면서, 한국은행의 기준금리 인상 논의에 힘이 실리고 있다. 견조한 경제 성장은 물가 상승 압력과 자산시장 과열을 동반할 수 있어, 이를 제어하기 위한 통화정책 정상화 필요성이 제기된다. 금리 인상은 대출 부담을 가중시키고 부동산 시장에 영향을 미치며, 성장주보다는 가치주, 금융주에 대한 관심이 높아질 수 있다.",
-      "description": "한국 경제가 5년 만에 연간 3%대 성장률 달성 가시권에 들어서면서, 중앙은행의 금리 인상 명분 또한 커지고 있다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "은행, 금융지주, 건설",
+      "summary_text": "국제 유가 상승과 채권 수익률 상승이 동시에 나타나며 미국 증시에 부정적인 영향을 미치고 있음. 유가 상승은 인플레이션 우려를 키우고, 채권 수익률 상승은 기업의 자금 조달 비용 증가 및 주식의 매력도 감소로 이어짐. 이러한 거시경제 지표들의 동향은 국내 증시에도 유사한 압박 요인으로 작용할 수 있으므로 주의 깊게 살펴야 함.",
+      "description": "국제 유가와 채권 수익률이 동반 상승하면서 투자 심리가 위축되고 미국 주식 시장에 하방 압력을 가하고 있습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "에너지, 금융, 고성장주",
       "related_stocks": [
-        "카카오뱅크",
-        "KB금융",
-        "신한지주"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 경제 성장률 전망과 금리 인상 가능성이 높아지면서 자산 시장 전반에 큰 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "한국은행의 통화정책 스탠스 변화와 금리 인상 시기 및 폭에 대한 시장의 전망을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "유가 상승은 인플레이션 압력을 높이고 채권 금리 상승은 기업의 자금 조달 비용과 할인율에 악영향을 미쳐 시장 전반의 투자 심리를 위축시키기 때문입니다.",
+      "key_signal": "국제 유가와 미국 장기 채권 금리 추이를 모니터링하며 인플레이션 및 금리 인상 가능성에 대한 시장의 반응을 파악해야 합니다.",
       "keywords": [
-        "경제성장률",
-        "금리인상",
-        "한국은행",
-        "통화정책",
-        "국내경제"
+        "유가상승",
+        "채권수익률",
+        "인플레이션",
+        "증시압박",
+        "금리인상"
       ],
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVTlkM0pycGpNM3E5azRJMWxKem5SNGpzMTZ5NFZQU1JnNDFUVVVmTkhkUE5ZcnJQMk5ZblBfYkw0dkI0Zkh0S2NDd2Y5Y0dlU3FMcHJiSW1XdjlhNk5BRnpnSDJPc3RKdE55V3ZyWXXSAXBBVV95cUxQTVU5ZDNKcnBqTTNxOWs0STFsSnpuUjRqczE2eTRWUFNSZzQxVFVVZk5IZFBOWXJyUDJOWW5QX2JMNHZCNGZIdEtjQ3dmOWNHZVNxTHByYkltV3Y5YTZOQUZ6Z0gyT3N0SnROeVd2cll1?oc=5",
-      "published": "2026-07-24 04:00",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwdDJady1tbDhVaTc2ck9NZlRhN1RPaG5rNE5sa3M0RWtfcU1wa1NUNFJSTk04STJfeU1fTDNla1hfbnNwdlpLRExrMjFKdDFsNnNsUmN0VGI3SU0wOElXMGVn?oc=5",
+      "published": "2026-07-25 02:28",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -238,37 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "부동산 정책 국민대토론회가 던진 과제…“공급·금융·세제 전면 재설계 필요”",
-      "display_title": "부동산 정책 국민대토론회가 던진 과제…“공급·금융·세제 전면 재설계 필요”",
-      "original_title": "부동산 정책 국민대토론회가 던진 과제…“공급·금융·세제 전면 재설계 필요” - 뉴스프리존",
+      "title": "“이번 주 내내 사이드카, 국내 주식 못하겠습니다”...저점 매수했더니 '지하실'로",
+      "display_title": "“이번 주 내내 사이드카, 국내 주식 못하겠습니다”...저점 매수했더니 '지하실'로",
+      "original_title": "“이번주 내내 사이드카, 국장 못하겠습니다”…저점매수 했더니 지하실로 - 매일경제",
       "summary": [
-        "최근 열린 부동산 정책 국민대토론회에서 주택 공급, 금융 규제, 세금 제도 등 부동산 시장 전반의 정책 재설계 필요성이 강조되었다.",
-        "현행 부동산 정책이 시장의 실제 수요를 반영하지 못하고 부작용을 낳고 있다는 인식이 확산되면서, 근본적인 개선 방안 모색의 목소리가 커지고 있다.",
-        "향후 부동산 정책 변화는 건설, 금융, 관련 자산 가치에 직접적인 영향을 미칠 수 있으므로, 정책 방향성과 시행 시기를 면밀히 주시해야 한다."
+        "국내 증시에서 연이은 사이드카 발동과 저점 매수 실패로 개인 투자자들의 투자 심리가 극도로 위축된 상황.",
+        "시장의 급락과 변동성 확대가 심화되면서, 투자자들이 손실을 보고 투자 의욕을 상실하는 악순환이 발생하고 있음.",
+        "높은 시장 변동성에 대한 경계심을 유지하고, 섣부른 저점 매수보다는 시장 상황을 관망하거나 분할 매수 전략을 고려해야 함."
       ],
-      "summary_text": "최근 열린 부동산 정책 국민대토론회에서 주택 공급, 금융 규제, 세금 제도 등 부동산 시장 전반의 정책 재설계 필요성이 강조되었다. 현행 부동산 정책이 시장의 실제 수요를 반영하지 못하고 부작용을 낳고 있다는 인식이 확산되면서, 근본적인 개선 방안 모색의 목소리가 커지고 있다. 향후 부동산 정책 변화는 건설, 금융, 관련 자산 가치에 직접적인 영향을 미칠 수 있으므로, 정책 방향성과 시행 시기를 면밀히 주시해야 한다.",
-      "description": "부동산 정책 국민대토론회에서 주택 공급, 금융 규제, 세제 개편 등 전반적인 부동산 정책의 재설계가 필요하다는 과제가 제기되었다.",
-      "category": "부동산·정책",
+      "summary_text": "국내 증시에서 연이은 사이드카 발동과 저점 매수 실패로 개인 투자자들의 투자 심리가 극도로 위축된 상황. 시장의 급락과 변동성 확대가 심화되면서, 투자자들이 손실을 보고 투자 의욕을 상실하는 악순환이 발생하고 있음. 높은 시장 변동성에 대한 경계심을 유지하고, 섣부른 저점 매수보다는 시장 상황을 관망하거나 분할 매수 전략을 고려해야 함.",
+      "description": "국내 증시에서 연이은 사이드카 발동과 저점 매수 이후 추가 하락을 경험한 개인 투자자들의 절망적인 심리를 보여주는 기사입니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "건설, 부동산, 금융",
+      "market_impact": "부정",
+      "related_sector": "증권, 금융투자, 전 산업",
       "related_stocks": [
-        "현대건설",
-        "GS건설",
-        "삼성생명"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "정부의 부동산 정책 변화가 건설 경기, 금융 시장, 그리고 가계 자산에 광범위한 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "부동산 정책 재설계의 구체적인 내용과 시행 일정, 그리고 시장의 반응을 지속적으로 모니터링해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "개인 투자자들의 극심한 손실과 투자 의욕 상실은 단기적으로 시장의 추가적인 하락 압력으로 작용할 수 있으며, 투자 심리 회복에 오랜 시간이 걸릴 수 있기 때문입니다.",
+      "key_signal": "국내 증시의 변동성 확대 원인을 파악하고, 투자 심리 회복을 위한 긍정적인 시장 신호가 나타나는지 면밀히 주시해야 합니다.",
       "keywords": [
-        "부동산정책",
-        "주택공급",
-        "금융규제",
-        "세제개편",
-        "부동산시장"
+        "국내증시",
+        "사이드카",
+        "투자심리",
+        "저점매수",
+        "시장변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUFRuUHpBcktMeVZkVTZ1ak5mR1g5S3ZWS3cwd0RDblRlc0dNdE9RZG5tQ1g0MDNFN1h3SXprRkNkWDBQaDFJRlNGTWlPbUFDaVNfblQ5TU1MaUtzV2wwRWI5TVh1c1NPSG9MTlR3MlowaFnSAXdBVV95cUxQcExPYnFPV1hZQkRjR01VZjZMRTVLQTBNaEdKUXVicWVDNWxLN0FxTlhpSU1lSUVlcy0zTnQ0SUJBeDJOaFZfWXRwVkhSdjlqbjZSTTNOWm40VHBYSkZWVWF1RlIzOWFBa29SYm96bGM5RDJ0a3ZDWQ?oc=5",
-      "published": "2026-07-24 07:33",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11Qkp1TlIza2tfT2xYUFpZMktJSVQ1ZUwySzdxNXJERFFrYVFfZjN1aUI0SC0tNE9PUVBXNjB1dGl1bktrZ1dYR2RvOTVwVWhuMUE?oc=5",
+      "published": "2026-07-24 20:19",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -279,69 +279,69 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "SK하이닉스",
+      "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 기술주 전반의 급락세 속에서도 메모리 반도체 업종은 상대적인 강세를 보였다는 점에 주목해야 합니다. AI 수요 확대로 인한 고부가가치 메모리 시장의 성장에 대한 기대감이 반영된 것으로 풀이됩니다.",
+      "reason": "연준의 통화정책 방향과 글로벌 기술 기업들의 실적은 한국 증시 전반, 특히 핵심인 반도체 산업에 직접적인 영향을 미치는 변수이기 때문입니다. 반도체 호황이 국내 내수 부진과 상충하는 현 상황에서 그 역할에 주목해야 합니다.",
       "check_points": [
-        "글로벌 AI 서버 투자 확대 여부",
-        "메모리 반도체 가격 동향",
-        "경쟁사의 CAPEX 전략 변화"
+        "월스트리트 주간 글로벌 기술주 실적 발표 결과",
+        "연준의 금리 결정 및 향후 통화정책 가이던스",
+        "글로벌 반도체 업황 지표 변화"
       ],
       "related_news_titles": [
-        "미국 증시 폭락: 3대 지수 하락, 나스닥 2% 이상 급락, 구글·테슬라 대규모 CAPEX 우려, 기술주 주도 하락세 속 메모리 반도체는 강세",
-        "$100 유가와 국채금리 급등이 증시 강타하며 S&P500 VIX 지수 상승"
+        "다가오는 월스트리트 주간: 연준 결정과 기술주 실적 발표 홍수로부터 시험대에 오르는 미국 주식",
+        "반도체 호황으로 번 돈은 어디로? 하반기 성장은 '내수 낙수효과'에 달려있다"
       ]
     },
     {
       "rank": 2,
-      "name": "S-Oil",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "정유",
-      "opinion": "관심",
-      "reason": "브렌트유가 배럴당 100달러를 돌파하며 고유가 흐름이 심화되고 있습니다. 이는 단기적으로 정유 기업들의 정제마진 개선에 긍정적인 영향을 미칠 수 있어 관련 종목에 대한 관심이 필요합니다.",
+      "sector": "에너지",
+      "opinion": "주의",
+      "reason": "유가 및 채권 수익률 상승이 인플레이션 압력을 높이고 미국 증시를 압박하며 시장 불안을 가중시키는 상황에서, 에너지 섹터 대표 종목인 SK이노베이션의 주가 변동성에 주목할 필요가 있습니다.",
       "check_points": [
-        "국제 유가 추가 상승 가능성",
-        "정제마진 스프레드 변화",
-        "글로벌 경기 둔화 우려에 따른 수요 영향"
+        "국제 유가(WTI, 브렌트유) 추이",
+        "글로벌 채권 수익률 동향 및 시장 반응",
+        "정유사 실적 가이던스 변화 여부"
       ],
       "related_news_titles": [
-        "브렌트유 $100 돌파, AI 군비 경쟁 의문 제기; 미국 증시 폭락, 나스닥 2% 이상 급락",
-        "브렌트유 배럴당 $100 돌파, 테슬라와 알파벳 급락으로 월스트리트 하락",
-        "$100 유가와 국채금리 급등이 증시 강타하며 S&P500 VIX 지수 상승"
+        "주간 정리: 실적, 금리, 유가가 충돌할 때",
+        "유가 및 채권 수익률 상승이 투자자들을 불안하게 하고 미국 주식 시장을 압박"
       ]
     },
     {
       "rank": 3,
-      "name": "KB금융",
+      "name": "롯데쇼핑",
       "market": "KOSPI",
-      "sector": "은행",
-      "opinion": "관심",
-      "reason": "국내 경제 성장률이 5년 만에 연 3%대 성장을 가시권에 두면서 금리 인상 명분이 커지고 있습니다. 이는 은행권의 순이자마진(NIM) 개선으로 이어져 실적에 긍정적인 영향을 줄 수 있습니다.",
+      "sector": "유통",
+      "opinion": "주의",
+      "reason": "국내 경제 위기 신호와 함께 내수 붕괴, 자영업 폐업 폭증, 가계부채 충돌 등 구조적 균열이 심화되면서 소비재 및 유통 업종에 치명적인 영향을 미칠 수 있어, 관련 대표 종목의 실적과 시장 흐름을 면밀히 관찰해야 합니다.",
       "check_points": [
-        "한국은행의 기준금리 인상 시점 및 폭",
-        "경기 성장세 지속 여부",
-        "부동산 대출 건전성"
+        "국내 소비 심리 지수 및 소매판매 데이터",
+        "유통업체 분기별 실적 발표 내용 및 가이던스",
+        "정부의 내수 부양 또는 가계부채 관리 정책 방향"
       ],
       "related_news_titles": [
-        "5년 만에 '연 3%대 성장' 가시권… 금리인상 명분도 커졌다"
+        "한국 경제 위기 신호, 구조적 균열 심화: 내수 붕괴, 자영업 폐업 폭증, 스태그플레이션과 가계부채 충돌",
+        "반도체 호황으로 번 돈은 어디로? 하반기 성장은 '내수 낙수효과'에 달려있다"
       ]
     },
     {
       "rank": 4,
-      "name": "현대차",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "전기차",
+      "sector": "증권",
       "opinion": "주의",
-      "reason": "테슬라와 알파벳 등 글로벌 빅테크 기업들의 급락세는 전기차 및 첨단 기술 관련 산업 전반의 투자심리에 부정적인 영향을 미 미칠 수 있습니다. 특히 테슬라의 주가 하락은 국내 전기차 관련 기업들의 주가에도 간접적인 영향을 줄 수 있어 주의가 필요합니다.",
+      "reason": "개인 투자자들의 극심한 손실과 투자 의욕 상실은 단기적으로 시장의 추가 하락 압력으로 작용하며, 증권업 전반의 실적에 부정적인 영향을 미칠 수 있습니다. 시장 심리 회복 여부를 가늠하는 지표로서 중요합니다.",
       "check_points": [
-        "글로벌 전기차 판매량 추이 및 경쟁 심화 여부",
-        "미국 시장 내 주요 경쟁사 주가 동향",
-        "환율 변동성 및 원자재 가격 동향"
+        "국내 증시 일평균 거래대금 변화",
+        "개인 투자자 예탁금 및 신용잔고 추이",
+        "증권사 분기 실적 발표 내용 및 수수료 수익 동향"
       ],
       "related_news_titles": [
-        "브렌트유 배럴당 $100 돌파, 테슬라와 알파벳 급락으로 월스트리트 하락"
+        "“이번 주 내내 사이드카, 국내 주식 못하겠습니다”...저점 매수했더니 '지하실'로"
       ]
     }
   ],
