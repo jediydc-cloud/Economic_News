@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25 08:01",
-  "analysis_date": "2026-07-25",
+  "generated_at": "2026-07-26 07:55",
+  "analysis_date": "2026-07-26",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,94 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 경제는 내수 침체와 가계부채 심화로 구조적 위기 우려가 커지는 가운데, 해외에서는 미 연준 결정, 기술주 실적, 유가 변동이 증시를 압박하며 높은 변동성이 예상됩니다. 투자 심리 위축과 불확실성 증대로 신중한 접근이 필요합니다.",
-    "국내거시경제": "내수 붕괴와 자영업 폐업 증가는 한국 경제의 구조적 균열을 심화시키고 있습니다. 반도체 호황에도 낙수효과가 미미하여 하반기 성장은 내수 회복에 달렸다는 분석입니다. 고물가 속 경기 둔화 우려(스태그플레이션)와 가계부채 문제는 서민 경제에 큰 부담으로 작용하고 있습니다.",
-    "글로벌경제": "기업 실적, 금리, 유가가 복합적으로 충돌하며 글로벌 시장의 불확실성을 키우고 있습니다. 국제 유가 및 채권 수익률 상승은 인플레이션 우려를 자극하고 미국 증시에 압박을 가하는 요인입니다.",
-    "증시금리": "이번 주 미국 증시는 연준의 금리 결정과 대규모 기술주 실적 발표로 시험대에 오르며 높은 변동성이 예상됩니다. 유가 및 채권 수익률 상승은 투자 심리를 불안하게 하고 증시 하방 압력을 가중시키고 있습니다. 국내 증시 또한 연이은 급락과 사이드카 발동으로 개인 투자자들의 심리가 극도로 위축된 상태입니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "해외 기술 기업들의 실적 발표가 글로벌 증시에 중요한 변수로 작용할 것입니다. 국내 내수 부진이 장기화될 경우 소비재, 유통, 서비스 업종의 실적에 부정적인 영향을 미칠 수 있습니다.",
-    "오늘의투자시사점": "국내 경제의 구조적 위기와 해외 거시경제 변수(연준 결정, 유가, 기술주 실적)들이 시장 변동성을 높일 것으로 보입니다. 불확실성이 큰 시기이므로 무리한 투자를 자제하고, 시장 흐름을 주시하며 위험 관리에 집중해야 합니다. 특히 내수 부진 관련 업종과 고변동성 종목에 대한 주의가 요구됩니다.",
-    "오늘의한줄": "국내외 경제 불확실성과 시장 변동성이 최고조에 달하며 신중한 투자 전략이 필수적인 한 주가 될 것입니다."
+    "총평": "이번 주 시장은 빅테크 실적 발표와 미국 FOMC 회의라는 거대한 변수들을 앞두고 변동성 확대가 예상됩니다. 지정학적 리스크와 유가 상승 부담 속에서도 특정 기술주에 대한 쏠림 현상이 혼재하는 복합적인 양상을 보이고 있습니다.",
+    "국내거시경제": "6월 원화 실질 실효환율이 금융위기 이후 최저 수준으로 하락했습니다. 고금리 장기화, 무역수지 불확실성, 지정학적 리스크 등이 원화 약세를 심화시키며 국내 증시에 부담으로 작용할 수 있습니다.",
+    "글로벌경제": "미국 연방준비제도(Fed)의 통화정책 회의 결과와 이란 관련 지정학적 리스크가 글로벌 시장의 불확실성을 높이고 있습니다. 그럼에도 불구하고 특정 기술주들에 대한 투자자들의 강한 매수세가 유입되는 모습도 관찰됩니다.",
+    "증시금리": "미국 다우존스 선물 시장에서 매도 신호가 포착되었고, 주요 3대 지수는 고유가와 반도체주 약세로 2주 연속 하락 마감했습니다. 반면, 지정학적 충돌 소식에도 나스닥과 S&P 500 선물은 상승하는 등 기술주 중심의 시장 쏠림 현상이 심화되고 있으며, 미국 4대 기술 기업 시가총액은 S&P 500 금융 섹터 전체를 능가했습니다.",
+    "부동산정책": "관련 뉴스 없음.",
+    "기업산업": "빅테크 기업들의 연이은 실적 발표가 예정되어 있어 시장 전반의 투자 심리를 좌우할 전망입니다. 엔비디아(NVDA) 등 특정 기술 및 성장주에는 강한 매수세가 유입되고 있으나, 반도체주 전반의 약세는 우려 요인으로 작용하고 있습니다.",
+    "오늘의투자시사점": "주요 빅테크 실적 발표와 FOMC 회의 결과가 임박한 만큼, 시장 변동성 확대에 대비하며 신중한 접근이 필요합니다. 원화 약세 장기화와 고유가 추세, 반도체 섹터의 추가 하락 가능성을 경계해야 합니다. 동시에 개별 기술주의 펀더멘털과 성장성에 주목하는 선별적 투자 전략을 고려해 볼 수 있습니다.",
+    "오늘의한줄": "핵심 이벤트들이 집중된 한 주, 시장은 높은 변동성 속에서도 기술주 펀더멘털에 집중하는 선별적 움직임을 보일 것입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "한국 경제 위기 신호, 구조적 균열 심화: 내수 붕괴, 자영업 폐업 폭증, 스태그플레이션과 가계부채 충돌",
-      "display_title": "한국 경제 위기 신호, 구조적 균열 심화: 내수 붕괴, 자영업 폐업 폭증, 스태그플레이션과 가계부채 충돌",
-      "original_title": "한국 경제 위기 신호, 구조적 균열이 커진다 -> 내수 붕괴와 자영업 폐업 폭증, 서민 경제의 경고등 => 스태그플레이션 공포와 가계부채 한계치의 충돌 | - 데일리머니",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "다우존스 선물: 시장 매도 신호 포착; 애플 실적, 이란 뉴스, 연준 회의 주목",
+      "display_title": "다우존스 선물: 시장 매도 신호 포착; 애플 실적, 이란 뉴스, 연준 회의 주목",
+      "original_title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus - Investor's Business Daily",
       "summary": [
-        "한국 경제가 내수 부진과 자영업 폐업 증가, 높은 가계부채 및 스태그플레이션 우려로 구조적 위기에 직면했다는 경고.",
-        "고물가 속 경기 둔화 우려가 커지면서 서민 경제의 어려움이 가중되고, 만성적인 가계부채 문제가 심화되고 있음.",
-        "소비 심리 위축과 내수 부진은 국내 소비재, 유통, 서비스 업종의 실적에 부정적인 영향을 미칠 수 있으므로 주의해야 함."
+        "핵심사실: 다우존스 선물 시장에서 매도 신호가 발생했으며, 주요 이벤트들이 시장의 불확실성을 높이고 있다.",
+        "배경·맥락: 애플 실적 발표, 이란 관련 지정학적 리스크, 연준 통화정책 회의가 임박하여 투자자들의 관망세가 짙어지고 있다.",
+        "투자 시사점: 주요 빅테크 실적과 연준 발표를 앞두고 시장 변동성이 커질 수 있으므로 신중한 접근이 필요하다."
       ],
-      "summary_text": "한국 경제가 내수 부진과 자영업 폐업 증가, 높은 가계부채 및 스태그플레이션 우려로 구조적 위기에 직면했다는 경고. 고물가 속 경기 둔화 우려가 커지면서 서민 경제의 어려움이 가중되고, 만성적인 가계부채 문제가 심화되고 있음. 소비 심리 위축과 내수 부진은 국내 소비재, 유통, 서비스 업종의 실적에 부정적인 영향을 미칠 수 있으므로 주의해야 함.",
-      "description": "한국 경제에서 내수 붕괴와 자영업 폐업 증가가 서민 경제의 경고등으로 작용하며, 스태그플레이션 우려와 가계부채 문제가 심각하게 충돌하고 있다는 분석입니다.",
-      "category": "국내 거시경제",
-      "importance": 10,
+      "summary_text": "핵심사실: 다우존스 선물 시장에서 매도 신호가 발생했으며, 주요 이벤트들이 시장의 불확실성을 높이고 있다. 배경·맥락: 애플 실적 발표, 이란 관련 지정학적 리스크, 연준 통화정책 회의가 임박하여 투자자들의 관망세가 짙어지고 있다. 투자 시사점: 주요 빅테크 실적과 연준 발표를 앞두고 시장 변동성이 커질 수 있으므로 신중한 접근이 필요하다.",
+      "description": "다우존스 선물 시장에서 매도 신호가 감지되었으며, 애플 실적 발표, 이란 관련 소식, 연준 회의 결과가 시장의 주요 관심사로 부상하고 있습니다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "소비재, 유통, 서비스, 금융, 부동산",
+      "related_sector": "IT하드웨어, 증권",
       "related_stocks": [
-        "롯데쇼핑",
-        "신세계",
-        "하나금융지주"
+        "Apple"
       ],
       "investment_view": "주의",
-      "investment_reason": "국내 내수 부진과 가계부채, 스태그플레이션 우려는 한국 경제의 전반적인 성장 모멘텀을 약화시키고 특정 산업의 실적에 치명적인 영향을 줄 수 있기 때문입니다.",
-      "key_signal": "정부의 내수 활성화 정책과 가계부채 관리 방안, 그리고 실제 소비 지표 변화를 면밀히 모니터링해야 합니다.",
+      "investment_reason": "주요 기업 실적 발표와 거시경제 이벤트가 시장 방향성을 결정할 수 있어 투자 결정에 신중해야 한다.",
+      "key_signal": "애플 실적 결과와 연준의 통화정책 스탠스, 이란 관련 지정학적 리스크 전개를 면밀히 확인해야 한다.",
       "keywords": [
-        "한국경제",
-        "내수침체",
-        "자영업",
-        "가계부채",
-        "스태그플레이션"
+        "다우존스",
+        "매도신호",
+        "애플실적",
+        "연준",
+        "지정학적위험"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OMTVyanYyaU9uMHJqY0w3aVdhbHRKTWRuQTB2S2tXUUJCNFc4VnZKeml5UnY4Xzh5WjBMdDZXVG1hYnBWNjc1U1dRNTZCbTNsRlhNajYxZW9WcHYtTU5YT1NJUlZPcENXMHdzRDdzbkhKU1IxLXc?oc=5",
-      "published": "2026-07-25 04:18",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3p3SzdOVDFES19TRHFQWmlIQ3BpZUVqTDdkdUV1bUd3alFyYzVubHNmU3FVWnpYS2JFZDJiZHVpWDJFV3V3OEdfWFd0YmNMOTB2UF9WaktUaUNKd21JV0hacllkdlI1UnNjTDQzV1MzanFXTFJUQWVHN284dVBKTUJXdEthVFg1T1Z3bmFnamFzZXd4OVpjMTVZcTB0MXNqeHRYS1lCX21xbjZhck1xMGs3bXRUV2xuQ3YwbnN1cmo?oc=5",
+      "published": "2026-07-26 07:02",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "다가오는 월스트리트 주간: 연준 결정과 기술주 실적 발표 홍수로부터 시험대에 오르는 미국 주식",
-      "display_title": "다가오는 월스트리트 주간: 연준 결정과 기술주 실적 발표 홍수로부터 시험대에 오르는 미국 주식",
-      "original_title": "Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge - Reuters",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "빅테크 실적 릴레이… FOMC도 변수 [주간증시전망]",
+      "display_title": "빅테크 실적 릴레이… FOMC도 변수 [주간증시전망]",
+      "original_title": "빅테크 실적 릴레이… FOMC도 변수 [주간증시전망] - IT조선",
       "summary": [
-        "이번 주 미국 증시는 연준의 금리 결정과 대규모 기술주 실적 발표라는 두 가지 주요 변수에 직면하게 됨.",
-        "이 두 요인은 시장의 방향성과 투자 심리에 결정적인 영향을 미칠 수 있으며, 높은 변동성을 예고함.",
-        "연준의 매파적/비둘기파적 스탠스와 기술 기업들의 실적 가이던스에 따라 국내 증시도 큰 영향을 받을 수 있으므로 대비가 필요함."
+        "핵심사실: 이번 주 글로벌 증시는 빅테크 기업들의 연이은 실적 발표와 미국 FOMC 회의 결과에 따라 큰 영향을 받을 것으로 예상된다.",
+        "배경·맥락: 기술 기업들의 실적은 시장 전반의 투자 심리를 좌우하며, FOMC의 금리 결정 및 통화정책 스탠스는 거시경제 방향성을 제시한다.",
+        "투자 시사점: 주요 빅테크 기업의 실적 발표 내용과 FOMC의 메시지를 면밀히 분석하여 시장의 흐름 변화에 대비해야 한다."
       ],
-      "summary_text": "이번 주 미국 증시는 연준의 금리 결정과 대규모 기술주 실적 발표라는 두 가지 주요 변수에 직면하게 됨. 이 두 요인은 시장의 방향성과 투자 심리에 결정적인 영향을 미칠 수 있으며, 높은 변동성을 예고함. 연준의 매파적/비둘기파적 스탠스와 기술 기업들의 실적 가이던스에 따라 국내 증시도 큰 영향을 받을 수 있으므로 대비가 필요함.",
-      "description": "이번 주 월스트리트 증시는 연방준비제도(Fed)의 금리 결정과 주요 기술 기업들의 실적 발표로 인해 중요한 시험대에 오를 것입니다.",
+      "summary_text": "핵심사실: 이번 주 글로벌 증시는 빅테크 기업들의 연이은 실적 발표와 미국 FOMC 회의 결과에 따라 큰 영향을 받을 것으로 예상된다. 배경·맥락: 기술 기업들의 실적은 시장 전반의 투자 심리를 좌우하며, FOMC의 금리 결정 및 통화정책 스탠스는 거시경제 방향성을 제시한다. 투자 시사점: 주요 빅테크 기업의 실적 발표 내용과 FOMC의 메시지를 면밀히 분석하여 시장의 흐름 변화에 대비해야 한다.",
+      "description": "이번 주 증시에서는 빅테크 기업들의 실적 발표와 미국 연방공개시장위원회(FOMC) 회의가 주요 변수로 작용할 전망입니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "중립",
-      "related_sector": "기술주, 반도체, 인터넷, 금융",
+      "related_sector": "IT하드웨어, 소프트웨어, 반도체, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "연준의 통화정책 방향과 글로벌 기술 기업들의 실적은 한국 증시에도 직접적인 영향을 미치는 핵심 변수이기 때문입니다.",
-      "key_signal": "연준의 금리 결정 내용과 기술주 실적 발표를 통해 향후 시장의 흐름을 예측하고 포트폴리오를 조정해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "빅테크 실적과 FOMC 발표가 시장의 주요 변동 요인으로 작용할 수 있어, 투자 결정 전 결과를 확인하는 것이 중요하다.",
+      "key_signal": "빅테크 실적 발표 내용과 FOMC 회의에서 발표될 금리 결정 및 제롬 파월 의장의 발언에 촉각을 세워야 한다.",
       "keywords": [
-        "연준",
-        "금리결정",
-        "기술주실적",
-        "월스트리트",
-        "시장변동성"
+        "빅테크",
+        "실적발표",
+        "FOMC",
+        "금리",
+        "주간전망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajIyMHNIZTNQeFlkNHB6ekVuZjNtbFhOcXgtRFhXR095VXRnaUJHSDhwRjFaX19BVTY2RlBoY0d2bEk0cEdxSXlxZ2otVHcwUDNjbGtMWi12U182MkhIR1FrS2dWY1p3NEdSZHAxSmFDZ1BWT2sxSU8tYWxDd255TmpTUGFBeWY3M3VUWlBJb3ZybDdnWm8tM2tGT25XbUZQZmkwX1NlU3BjZl9pcUVHWTBQWDBpTEZrQmFTSVNXaw?oc=5",
-      "published": "2026-07-25 05:16",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1T1EtdE56c3NUUElTdnhORjNfRVo0TGZfdnBaci16d295Y1FNY1VYSUMzV1NzWGlTR2VIQXB0bW9zMmxUbk1ySmtjUkZvekp1M2Y1WHhMRE1RNTZMdGc5c0ZoS29BVk1kQjRVUW93NzDSAXRBVV95cUxPdDc1aVFqckJsYmItdzBfUWhSaHhRc3g3QlZMTlIyTXZVZWVnT2NOTGwzTXpuTHFQdXNTVzFkTF9UdUhqTGJzcFJtWVVuclU5dUc1cW02T01LSE1nS0k2Nl9iejF5Y01TaVhjOGpuQ2VIUm9mSw?oc=5",
+      "published": "2026-07-26 06:10",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +110,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "반도체 호황으로 번 돈은 어디로? 하반기 성장은 '내수 낙수효과'에 달려있다",
-      "display_title": "반도체 호황으로 번 돈은 어디로? 하반기 성장은 '내수 낙수효과'에 달려있다",
-      "original_title": "반도체로 번 돈 어디로…하반기 성장, '내수 낙수효과'에 달렸다 - 머니투데이 - 머니투데이",
+      "title": "6월 원화 실질가치, 금융위기 이후 최저…엔화는 역대 최저 수준",
+      "display_title": "6월 원화 실질가치, 금융위기 이후 최저…엔화는 역대 최저 수준",
+      "original_title": "6월 원화 실질가치 금융위기 이후 가장 낮아…엔화는 역대 최저 - 네이트",
       "summary": [
-        "반도체 호황에도 불구하고 그 효과가 내수로 이어지지 않아 하반기 경제 성장이 불투명하며, 내수 회복이 중요 과제로 부상.",
-        "수출 중심의 성장 한계와 내수 경기 부진이 지속되면서 경제의 불균형 심화 우려가 제기됨.",
-        "내수 관련 정책 및 소비 지표 변화에 주목해야 하며, 내수 활성화가 지연될 경우 소비재 및 서비스 업종의 어려움이 지속될 수 있음."
+        "핵심사실: 6월 원화의 실질 실효환율이 금융위기 이후 가장 낮은 수준으로 하락했으며, 엔화는 역대 최저치를 기록했다.",
+        "배경·맥락: 고금리 장기화, 무역수지 불확실성, 지정학적 리스크 등 복합적인 요인이 원화 약세를 심화시키고 있으며, 엔화는 일본은행의 완화적 통화정책 기조가 영향을 미치고 있다.",
+        "투자 시사점: 원화 약세는 수출 기업에게 긍정적일 수 있으나, 수입물가 상승 및 외국인 투자자 이탈 가능성을 높여 국내 증시에 부담으로 작용할 수 있다."
       ],
-      "summary_text": "반도체 호황에도 불구하고 그 효과가 내수로 이어지지 않아 하반기 경제 성장이 불투명하며, 내수 회복이 중요 과제로 부상. 수출 중심의 성장 한계와 내수 경기 부진이 지속되면서 경제의 불균형 심화 우려가 제기됨. 내수 관련 정책 및 소비 지표 변화에 주목해야 하며, 내수 활성화가 지연될 경우 소비재 및 서비스 업종의 어려움이 지속될 수 있음.",
-      "description": "반도체 산업의 호황으로 벌어들인 수익이 내수로 이어져 경제 전반의 '낙수효과'를 창출해야만 하반기 국내 성장이 가능하다는 분석입니다.",
+      "summary_text": "핵심사실: 6월 원화의 실질 실효환율이 금융위기 이후 가장 낮은 수준으로 하락했으며, 엔화는 역대 최저치를 기록했다. 배경·맥락: 고금리 장기화, 무역수지 불확실성, 지정학적 리스크 등 복합적인 요인이 원화 약세를 심화시키고 있으며, 엔화는 일본은행의 완화적 통화정책 기조가 영향을 미치고 있다. 투자 시사점: 원화 약세는 수출 기업에게 긍정적일 수 있으나, 수입물가 상승 및 외국인 투자자 이탈 가능성을 높여 국내 증시에 부담으로 작용할 수 있다.",
+      "description": "지난 6월 원화의 실질 실효환율이 금융위기 이후 가장 낮은 수준을 기록했으며, 엔화 또한 역대 최저치를 경신했습니다.",
       "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "반도체, 소비재, 유통, 서비스, 내수관련주",
+      "related_sector": "수출주, 금융, 반도체",
       "related_stocks": [
         "삼성전자",
-        "현대차",
-        "이마트"
+        "SK하이닉스",
+        "현대차"
       ],
       "investment_view": "관심",
-      "investment_reason": "한국 경제의 구조적인 문제점과 하반기 성장을 위한 핵심 동력을 제시하며, 이는 국내 투자 전략 수립에 매우 중요한 인사이트를 제공하기 때문입니다.",
-      "key_signal": "정부의 내수 부양책과 실제 소비 지표, 그리고 반도체 외 다른 산업의 성장 기여도를 종합적으로 살펴야 합니다.",
+      "investment_reason": "원화 약세는 수출 기업의 경쟁력 강화에 기여할 수 있지만, 전반적인 경제 상황 및 물가 압력에 미치는 영향을 주시해야 한다.",
+      "key_signal": "원화 약세 추이가 국내 수출입 기업 실적에 미칠 영향과 물가 상승 압력에 대한 정부 및 중앙은행의 대응을 면밀히 지켜봐야 한다.",
       "keywords": [
-        "반도체호황",
-        "내수낙수효과",
-        "경제성장",
-        "소비심리",
-        "국내경제"
+        "원화약세",
+        "실질환율",
+        "엔화",
+        "금융위기",
+        "수출"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yRkxEMVVHb0dIR0tJWmNIdmFUemVzbFVFeENNamkxYm5XbVlDYjgwNXFLalhGcVg2N0x1QkdZaFpiVkVPXzNIVktheWlRN0RiUFVZM0RTU0MxLTFFUHdjV1ZsODlnQkQyLVQ00gFwQVVfeXFMUHpiSEFTNHZ4dFg1OVZjazYzYzhJWHFPTVJSLUNyanZsOVpaSGFnbU8xOExzb3dWYjZtV09TVWxGbnNPNjJYbmNVU1ZDQ08xb2JtNlpHZ2c5VUREendOSDc4bV93R1VTVlVfQXpxaURlQw?oc=5",
-      "published": "2026-07-25 07:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ScklZNU1HU0tZZ1FkSlFiX1drZGF0ekpubFVTMGdpZTNCWWVGeTRYbW5JWGI0dXAtNEVKRTc5MEJuclA2Z2pnMVJXVE1venp3S0ZJ?oc=5",
+      "published": "2026-07-26 05:55",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -154,37 +152,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주간 정리: 실적, 금리, 유가가 충돌할 때",
-      "display_title": "주간 정리: 실적, 금리, 유가가 충돌할 때",
-      "original_title": "Weekly Roundup: When Earnings, Rates, and Oil Collide - TheStreet Pro",
+      "title": "미국 주간 전망: 4대 주요 기술 기업 시가총액이 S&P 500 금융 부문 전체를 능가",
+      "display_title": "미국 주간 전망: 4대 주요 기술 기업 시가총액이 S&P 500 금융 부문 전체를 능가",
+      "original_title": "US Week Ahead: Four Major Tech Firms Surpass S&P 500 Financials Sector in Weight - TechStock²",
       "summary": [
-        "기업 실적, 금리, 유가라는 세 가지 주요 변수가 동시에 시장에 복합적인 영향을 미치고 있음.",
-        "투자자들이 다양한 거시경제 지표와 기업 펀더멘털을 동시에 고려해야 하는 복잡한 시장 상황.",
-        "이번 주 시장은 이 세 가지 요인의 상호작용에 따라 변동성이 커질 수 있으므로 다각적인 분석이 필요함."
+        "핵심사실: 미국 4대 주요 기술 기업의 시가총액이 S&P 500 금융 섹터 전체를 상회하는 수준으로 성장했다.",
+        "배경·맥락: 기술 기업들의 높은 성장세와 시장 지배력이 강화되면서, 증시 전반에서 기술 섹터의 비중이 압도적으로 커지고 있다.",
+        "투자 시사점: 기술주 중심의 시장 쏠림 현상이 심화되고 있으며, 이는 시장의 안정성 및 포트폴리오 다각화 측면에서 고려할 필요가 있다."
       ],
-      "summary_text": "기업 실적, 금리, 유가라는 세 가지 주요 변수가 동시에 시장에 복합적인 영향을 미치고 있음. 투자자들이 다양한 거시경제 지표와 기업 펀더멘털을 동시에 고려해야 하는 복잡한 시장 상황. 이번 주 시장은 이 세 가지 요인의 상호작용에 따라 변동성이 커질 수 있으므로 다각적인 분석이 필요함.",
-      "description": "주간 시장 요약 보고서에 따르면 기업 실적, 금리 변동, 유가 동향이 복합적으로 시장에 영향을 미치고 있습니다.",
+      "summary_text": "핵심사실: 미국 4대 주요 기술 기업의 시가총액이 S&P 500 금융 섹터 전체를 상회하는 수준으로 성장했다. 배경·맥락: 기술 기업들의 높은 성장세와 시장 지배력이 강화되면서, 증시 전반에서 기술 섹터의 비중이 압도적으로 커지고 있다. 투자 시사점: 기술주 중심의 시장 쏠림 현상이 심화되고 있으며, 이는 시장의 안정성 및 포트폴리오 다각화 측면에서 고려할 필요가 있다.",
+      "description": "다가오는 미국 주간 시장에서 4개의 주요 기술 기업의 시가총액이 S&P 500 전체 금융 부문 시가총액을 넘어섰다는 소식입니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "중립",
-      "related_sector": "전 산업, 에너지, 금융",
+      "related_sector": "IT하드웨어, 소프트웨어, 증권",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "시장을 움직이는 핵심 동인들의 복합적인 작용을 이해하고 향후 시장 방향성을 예측하는 데 중요한 통찰을 제공하기 때문입니다.",
-      "key_signal": "기업 실적 발표 시즌, 주요국 금리 결정, 국제 유가 동향을 통합적으로 분석하여 투자 전략에 반영해야 합니다.",
+      "investment_reason": "기술주 중심의 시장 재편이 심화되고 있어, 투자 포트폴리오 구성 시 기술 섹터의 비중과 리스크를 고려해야 한다.",
+      "key_signal": "기술주 쏠림 현상이 계속될지, 혹은 다른 섹터로의 순환매가 일어날지 시장의 움직임을 관찰해야 한다.",
       "keywords": [
-        "기업실적",
-        "금리",
-        "유가",
-        "시장변동성",
-        "거시경제"
+        "빅테크",
+        "시가총액",
+        "S&P500",
+        "금융섹터",
+        "시장쏠림"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYmdFVVp3WmtzTXRUNlJIZW1XQmhWcXU2aG9keDcwNV9oNW1DUURvbXFBZDFOWXlZYm9nV2NqaGpMZlBscmxBM0FmUTNESkVNcndHZWpUbm82Ums4ODdOdzhEb3lPbGFCaENEa2pLS2VpZVY2NmNNbHlDUExfWjdXWFJ5ak9faXQxUjhucFRmQQ?oc=5",
-      "published": "2026-07-25 07:15",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVhWRFJHdGpnTlJwSE1LajhVRjl5S0V5Ym1iXzV3LUhjei04TDRHamhBY0JocHpWQ2xoU3o4Q21sRXlDbl9RQjRUM2VIUkhVOExVQmNVaG5NZEZVOTFuUzZYWk5UeHFsWVphMWhTZ3loSnZyeWhlMVQtQnBHd3h0TGszYU1YWFBDNDY4MzVKZlJZQVppN01iUklkVl9hdV9p?oc=5",
+      "published": "2026-07-26 02:27",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -196,37 +194,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "유가 및 채권 수익률 상승이 투자자들을 불안하게 하고 미국 주식 시장을 압박",
-      "display_title": "유가 및 채권 수익률 상승이 투자자들을 불안하게 하고 미국 주식 시장을 압박",
-      "original_title": "Rising oil and bond yields rattle investors and pressure US stocks - Межа. Новини України.",
+      "title": "미국-이란의 새로운 충돌에도 불구하고 나스닥, S&P 500 선물 상승: NVDA, MU, NVTS, RDW, RACE가 오늘 투자자들을 끌어들이는 이유",
+      "display_title": "미국-이란의 새로운 충돌에도 불구하고 나스닥, S&P 500 선물 상승: NVDA, MU, NVTS, RDW, RACE가 오늘 투자자들을 끌어들이는 이유",
+      "original_title": "Nasdaq, S&P 500 Futures Climb Despite Fresh US-Iran Strikes: Why NVDA, MU, NVTS, RDW, RACE Are Keeping Traders Engaged Today - Stocktwits",
       "summary": [
-        "국제 유가 상승과 채권 수익률 상승이 동시에 나타나며 미국 증시에 부정적인 영향을 미치고 있음.",
-        "유가 상승은 인플레이션 우려를 키우고, 채권 수익률 상승은 기업의 자금 조달 비용 증가 및 주식의 매력도 감소로 이어짐.",
-        "이러한 거시경제 지표들의 동향은 국내 증시에도 유사한 압박 요인으로 작용할 수 있으므로 주의 깊게 살펴야 함."
+        "핵심사실: 미국-이란 간 지정학적 충돌 소식에도 불구하고 나스닥과 S&P 500 선물 지수가 상승세를 보이고 있다.",
+        "배경·맥락: 지정학적 리스크에도 불구하고 엔비디아(NVDA), 마이크론(MU) 등 특정 기술 및 성장주에 대한 투자자들의 강한 매수세가 유입되고 있다.",
+        "투자 시사점: 시장이 지정학적 불안정보다 개별 종목의 펀더멘털과 성장성에 더 집중하고 있으며, 특정 기술주들의 강세가 지속될 가능성이 있다."
       ],
-      "summary_text": "국제 유가 상승과 채권 수익률 상승이 동시에 나타나며 미국 증시에 부정적인 영향을 미치고 있음. 유가 상승은 인플레이션 우려를 키우고, 채권 수익률 상승은 기업의 자금 조달 비용 증가 및 주식의 매력도 감소로 이어짐. 이러한 거시경제 지표들의 동향은 국내 증시에도 유사한 압박 요인으로 작용할 수 있으므로 주의 깊게 살펴야 함.",
-      "description": "국제 유가와 채권 수익률이 동반 상승하면서 투자 심리가 위축되고 미국 주식 시장에 하방 압력을 가하고 있습니다.",
+      "summary_text": "핵심사실: 미국-이란 간 지정학적 충돌 소식에도 불구하고 나스닥과 S&P 500 선물 지수가 상승세를 보이고 있다. 배경·맥락: 지정학적 리스크에도 불구하고 엔비디아(NVDA), 마이크론(MU) 등 특정 기술 및 성장주에 대한 투자자들의 강한 매수세가 유입되고 있다. 투자 시사점: 시장이 지정학적 불안정보다 개별 종목의 펀더멘털과 성장성에 더 집중하고 있으며, 특정 기술주들의 강세가 지속될 가능성이 있다.",
+      "description": "미국과 이란 간의 새로운 충돌 소식에도 불구하고 나스닥과 S&P 500 선물 지수가 상승 중이며, 엔비디아(NVDA), 마이크론(MU) 등 일부 종목이 투자자들의 관심을 받고 있습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "에너지, 금융, 고성장주",
+      "market_impact": "중립",
+      "related_sector": "반도체, 자동차",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "NVDA",
+        "MU",
+        "RACE"
       ],
-      "investment_view": "주의",
-      "investment_reason": "유가 상승은 인플레이션 압력을 높이고 채권 금리 상승은 기업의 자금 조달 비용과 할인율에 악영향을 미쳐 시장 전반의 투자 심리를 위축시키기 때문입니다.",
-      "key_signal": "국제 유가와 미국 장기 채권 금리 추이를 모니터링하며 인플레이션 및 금리 인상 가능성에 대한 시장의 반응을 파악해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "지정학적 리스크에도 불구하고 시장이 특정 성장주에 집중하는 경향을 보여 관련 종목의 투자 기회를 모색할 수 있다.",
+      "key_signal": "지정학적 리스크가 시장 전반에 미치는 영향과 특정 기술주들의 독립적인 강세가 얼마나 지속될지 주목해야 한다.",
       "keywords": [
-        "유가상승",
-        "채권수익률",
-        "인플레이션",
-        "증시압박",
-        "금리인상"
+        "나스닥",
+        "S&P500",
+        "선물",
+        "지정학적위험",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwdDJady1tbDhVaTc2ck9NZlRhN1RPaG5rNE5sa3M0RWtfcU1wa1NUNFJSTk04STJfeU1fTDNla1hfbnNwdlpLRExrMjFKdDFsNnNsUmN0VGI3SU0wOElXMGVn?oc=5",
-      "published": "2026-07-25 02:28",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1VrRTBBd2VXeUNHd2xTYnh2QVMyaUM4Z3YxWG5KVWdOM1NXLWp1Z1piaGIzZ1lkbHJaT1RxM0JpQWdqcDVHc0dxX3FfVzFxUlJQYWUydDNlcTUyM2ZTSEEyTnZ5YVJpY0tZRVNrTkJlc2RHMmFFbjJURldTekR2RkZONE5QZlpUN3htOGd3QXNMQ0stbktvWVZweURkOGg1RGNFMnBPRFZNZ0t6ZnNDNHI1Zm9hTVpQM1Nocl9VYjNnUkRPelE?oc=5",
+      "published": "2026-07-26 00:05",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -235,42 +233,42 @@
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "“이번 주 내내 사이드카, 국내 주식 못하겠습니다”...저점 매수했더니 '지하실'로",
-      "display_title": "“이번 주 내내 사이드카, 국내 주식 못하겠습니다”...저점 매수했더니 '지하실'로",
-      "original_title": "“이번주 내내 사이드카, 국장 못하겠습니다”…저점매수 했더니 지하실로 - 매일경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "S&P 500, 다우, 나스닥 유가 상승 및 반도체주 약세로 2주 연속 하락 마감",
+      "display_title": "S&P 500, 다우, 나스닥 유가 상승 및 반도체주 약세로 2주 연속 하락 마감",
+      "original_title": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus - Yahoo Finance",
       "summary": [
-        "국내 증시에서 연이은 사이드카 발동과 저점 매수 실패로 개인 투자자들의 투자 심리가 극도로 위축된 상황.",
-        "시장의 급락과 변동성 확대가 심화되면서, 투자자들이 손실을 보고 투자 의욕을 상실하는 악순환이 발생하고 있음.",
-        "높은 시장 변동성에 대한 경계심을 유지하고, 섣부른 저점 매수보다는 시장 상황을 관망하거나 분할 매수 전략을 고려해야 함."
+        "핵심사실: 미국 주요 3대 지수가 고유가와 반도체주 약세로 인해 2주 연속 하락세를 기록했다.",
+        "배경·맥락: 국제 유가 상승은 인플레이션 압력을 높이고 소비 심리를 위축시키며, 반도체 산업 전반의 수요 둔화 우려가 반영된 것으로 보인다.",
+        "투자 시사점: 고유가 추세와 반도체 섹터의 추가 하락 가능성을 경계하며, 관련 종목의 투자에 주의해야 한다."
       ],
-      "summary_text": "국내 증시에서 연이은 사이드카 발동과 저점 매수 실패로 개인 투자자들의 투자 심리가 극도로 위축된 상황. 시장의 급락과 변동성 확대가 심화되면서, 투자자들이 손실을 보고 투자 의욕을 상실하는 악순환이 발생하고 있음. 높은 시장 변동성에 대한 경계심을 유지하고, 섣부른 저점 매수보다는 시장 상황을 관망하거나 분할 매수 전략을 고려해야 함.",
-      "description": "국내 증시에서 연이은 사이드카 발동과 저점 매수 이후 추가 하락을 경험한 개인 투자자들의 절망적인 심리를 보여주는 기사입니다.",
+      "summary_text": "핵심사실: 미국 주요 3대 지수가 고유가와 반도체주 약세로 인해 2주 연속 하락세를 기록했다. 배경·맥락: 국제 유가 상승은 인플레이션 압력을 높이고 소비 심리를 위축시키며, 반도체 산업 전반의 수요 둔화 우려가 반영된 것으로 보인다. 투자 시사점: 고유가 추세와 반도체 섹터의 추가 하락 가능성을 경계하며, 관련 종목의 투자에 주의해야 한다.",
+      "description": "S&P 500, 다우존스, 나스닥 지수가 유가 상승과 반도체 기업들의 약세로 인해 2주 연속 하락 마감했으며, PSKY, UBER, QCOM, VZ, INTC 등의 종목이 주목받고 있습니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "증권, 금융투자, 전 산업",
+      "related_sector": "반도체, 에너지, 통신, 운송",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "QCOM",
+        "INTC",
+        "UBER"
       ],
       "investment_view": "주의",
-      "investment_reason": "개인 투자자들의 극심한 손실과 투자 의욕 상실은 단기적으로 시장의 추가적인 하락 압력으로 작용할 수 있으며, 투자 심리 회복에 오랜 시간이 걸릴 수 있기 때문입니다.",
-      "key_signal": "국내 증시의 변동성 확대 원인을 파악하고, 투자 심리 회복을 위한 긍정적인 시장 신호가 나타나는지 면밀히 주시해야 합니다.",
+      "investment_reason": "유가 상승과 반도체 섹터의 약세는 단기적으로 시장의 하방 압력으로 작용할 수 있으므로 보수적인 관점 유지가 필요하다.",
+      "key_signal": "국제 유가 변동성, 반도체 업황 회복 시점, 그리고 주요 반도체 기업들의 실적 발표를 주시해야 한다.",
       "keywords": [
-        "국내증시",
-        "사이드카",
-        "투자심리",
-        "저점매수",
-        "시장변동성"
+        "유가상승",
+        "반도체약세",
+        "S&P500",
+        "나스닥",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11Qkp1TlIza2tfT2xYUFpZMktJSVQ1ZUwySzdxNXJERFFrYVFfZjN1aUI0SC0tNE9PUVBXNjB1dGl1bktrZ1dYR2RvOTVwVWhuMUE?oc=5",
-      "published": "2026-07-24 20:19",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHJoZHVOZXB3U1FfYV9fTG1CVWQxVkl6N0pyQ1RXeFBqdVhBNjhRZ3dseDExczRFaFdXTkE0c01COTZibDM2TFFNVHZYUmJZOGtINVRRcVRVOW81aWdGaFNWV2djZDhHeDZENkp5V2VwbkdMcGJfZ0xGU0pSeU5HNFFSZDR4alZIVjZoQ2hB?oc=5",
+      "published": "2026-07-25 07:54",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -283,65 +281,65 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "연준의 통화정책 방향과 글로벌 기술 기업들의 실적은 한국 증시 전반, 특히 핵심인 반도체 산업에 직접적인 영향을 미치는 변수이기 때문입니다. 반도체 호황이 국내 내수 부진과 상충하는 현 상황에서 그 역할에 주목해야 합니다.",
+      "reason": "원화 가치가 금융위기 이후 최저 수준을 기록하며, 수출 비중이 높은 삼성전자의 가격 경쟁력 강화에 긍정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "월스트리트 주간 글로벌 기술주 실적 발표 결과",
-        "연준의 금리 결정 및 향후 통화정책 가이던스",
-        "글로벌 반도체 업황 지표 변화"
+        "원/달러 환율 추이",
+        "글로벌 반도체 업황 및 재고 상황",
+        "주요 IT 기업들의 실적 발표 결과"
       ],
       "related_news_titles": [
-        "다가오는 월스트리트 주간: 연준 결정과 기술주 실적 발표 홍수로부터 시험대에 오르는 미국 주식",
-        "반도체 호황으로 번 돈은 어디로? 하반기 성장은 '내수 낙수효과'에 달려있다"
+        "6월 원화 실질가치, 금융위기 이후 최저…엔화는 역대 최저 수준",
+        "S&P 500, 다우, 나스닥 유가 상승 및 반도체주 약세로 2주 연속 하락 마감"
       ]
     },
     {
       "rank": 2,
-      "name": "SK이노베이션",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "에너지",
-      "opinion": "주의",
-      "reason": "유가 및 채권 수익률 상승이 인플레이션 압력을 높이고 미국 증시를 압박하며 시장 불안을 가중시키는 상황에서, 에너지 섹터 대표 종목인 SK이노베이션의 주가 변동성에 주목할 필요가 있습니다.",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "원화 약세는 삼성전자와 마찬가지로 SK하이닉스 등 국내 주요 수출 기업의 채산성 개선에 기여할 수 있는 요인입니다. 전반적인 반도체 업황과 함께 환율 효과를 주시할 필요가 있습니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유) 추이",
-        "글로벌 채권 수익률 동향 및 시장 반응",
-        "정유사 실적 가이던스 변화 여부"
+        "원/달러 환율 변동성",
+        "메모리 반도체(DRAM, NAND) 가격 동향",
+        "글로벌 지정학적 리스크 완화 여부"
       ],
       "related_news_titles": [
-        "주간 정리: 실적, 금리, 유가가 충돌할 때",
-        "유가 및 채권 수익률 상승이 투자자들을 불안하게 하고 미국 주식 시장을 압박"
+        "6월 원화 실질가치, 금융위기 이후 최저…엔화는 역대 최저 수준",
+        "S&P 500, 다우, 나스닥 유가 상승 및 반도체주 약세로 2주 연속 하락 마감"
       ]
     },
     {
       "rank": 3,
-      "name": "롯데쇼핑",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "유통",
-      "opinion": "주의",
-      "reason": "국내 경제 위기 신호와 함께 내수 붕괴, 자영업 폐업 폭증, 가계부채 충돌 등 구조적 균열이 심화되면서 소비재 및 유통 업종에 치명적인 영향을 미칠 수 있어, 관련 대표 종목의 실적과 시장 흐름을 면밀히 관찰해야 합니다.",
+      "sector": "자동차",
+      "opinion": "관심",
+      "reason": "원화 약세 기조가 지속될 경우, 현대차와 같은 국내 주요 수출 기업들은 해외 시장에서의 가격 경쟁력을 확보하고 수출 마진을 개선할 기회를 얻을 수 있습니다.",
       "check_points": [
-        "국내 소비 심리 지수 및 소매판매 데이터",
-        "유통업체 분기별 실적 발표 내용 및 가이던스",
-        "정부의 내수 부양 또는 가계부채 관리 정책 방향"
+        "원/달러 환율 및 주요국 통화 가치 변동",
+        "글로벌 자동차 시장 수요 및 판매량 추이",
+        "주요 국가의 통화 정책 및 금리 동향"
       ],
       "related_news_titles": [
-        "한국 경제 위기 신호, 구조적 균열 심화: 내수 붕괴, 자영업 폐업 폭증, 스태그플레이션과 가계부채 충돌",
-        "반도체 호황으로 번 돈은 어디로? 하반기 성장은 '내수 낙수효과'에 달려있다"
+        "6월 원화 실질가치, 금융위기 이후 최저…엔화는 역대 최저 수준"
       ]
     },
     {
       "rank": 4,
       "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "주의",
-      "reason": "개인 투자자들의 극심한 손실과 투자 의욕 상실은 단기적으로 시장의 추가 하락 압력으로 작용하며, 증권업 전반의 실적에 부정적인 영향을 미칠 수 있습니다. 시장 심리 회복 여부를 가늠하는 지표로서 중요합니다.",
+      "sector": "금융",
+      "opinion": "중립",
+      "reason": "빅테크 기업들의 실적 발표와 FOMC 회의 등 주요 거시경제 이벤트가 시장 변동성을 확대시킬 수 있으며, 금융 섹터는 이러한 시장 흐름에 민감하게 반응할 수 있습니다. 기술주 중심의 시장 재편 흐름 속에서 금융 섹터의 변화를 주시할 필요가 있습니다.",
       "check_points": [
-        "국내 증시 일평균 거래대금 변화",
-        "개인 투자자 예탁금 및 신용잔고 추이",
-        "증권사 분기 실적 발표 내용 및 수수료 수익 동향"
+        "FOMC 회의 결과 및 연준의 금리 인상 스탠스",
+        "글로벌 주요 증시의 거래량 및 투자심리",
+        "국내외 증시의 기술주 vs. 가치주 흐름 변화"
       ],
       "related_news_titles": [
-        "“이번 주 내내 사이드카, 국내 주식 못하겠습니다”...저점 매수했더니 '지하실'로"
+        "빅테크 실적 릴레이… FOMC도 변수 [주간증시전망]",
+        "미국 주간 전망: 4대 주요 기술 기업 시가총액이 S&P 500 금융 부문 전체를 능가"
       ]
     }
   ],
