@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28 08:01",
-  "analysis_date": "2026-07-28",
+  "generated_at": "2026-07-29 07:58",
+  "analysis_date": "2026-07-29",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 지정학적 긴장 완화에도 미국 기술주 약세가 두드러지며 혼조세를 보였고, 국내 증시는 이번 주 빅테크 기업 실적 발표에 따라 방향성이 결정될 중요한 기로에 섰습니다. 한편, 국내 부동산 시장의 불안정성도 주목됩니다.",
-    "국내거시경제": "이번 주 삼성전자, SK하이닉스 등 주요 빅테크 기업 실적 발표가 코스피 방향성을 결정할 중요한 변수입니다. 서울 아파트값이 1년 만에 역대급 폭등을 기록, 가계 부채 증가와 소비 위축 우려가 커지고 있습니다.",
-    "글로벌경제": "이란-미국 간 긴장 완화로 국제유가와 미국 국채 수익률이 하락하며 글로벌 증시는 혼조세를 나타냈습니다. 이는 안전자산 선호 약화 및 성장주에 긍정적 요인이 될 수 있습니다.",
-    "증시금리": "트럼프의 이란 공습 중단 결정으로 브렌트유가 8% 이상 급락했으나, 반도체주 약세와 기술주 경계심으로 나스닥 지수가 하락했습니다. 유가 및 국채 수익률 하락은 인플레이션 압력 완화와 증시 밸류에이션에 긍정적일 수 있습니다.",
-    "부동산정책": "이재명 정부 1년 만에 서울 아파트값이 역대 최고 수준으로 폭등하며 부동산 시장의 불안정성이 심화되고 있습니다. 이는 가계 부채와 소비 위축 등 거시경제 전반에 부정적 영향을 미칠 수 있습니다.",
-    "기업산업": "삼성전자, SK하이닉스 등 국내외 빅테크 기업들의 실적 발표는 반도체 업황 회복 기대감과 AI 관련 수요 반영 여부를 가늠하는 핵심 지표입니다. 실적에 따라 반도체 및 기술주 투자 심리가 크게 변화할 것입니다.",
-    "오늘의투자시사점": "지정학적 리스크 완화는 유가 관련 업종과 항공, 해운 등 운송 업종에 상반된 영향을 줄 수 있습니다. 국내 반도체 및 기술주는 미국 나스닥 흐름에 민감하므로 실적 발표 내용과 가이던스를 면밀히 분석하고 변동성 확대에 대비해야 합니다.",
-    "오늘의한줄": "글로벌 지정학적 긴장 완화에도 미국 기술주 약세가 지속되는 가운데, 국내 빅테크 기업 실적 발표가 이번 주 증시의 방향성을 결정할 핵심 변수입니다."
+    "총평": "글로벌 증시는 유가 하락의 긍정적 요인에도 불구하고 반도체 섹터의 부진으로 혼조세를 보였고, 국내 증시는 반도체 업황 둔화와 거시경제 불안정성에 직면해 있습니다.",
+    "국내거시경제": "반도체 섹터 부진이 코스피 정체를 이끌며 국내 경제 성장의 우려를 키우고 있습니다. 높은 집값, 폭염, 고금리가 복합적으로 작용해 성장의 하방 압력으로 작용 중입니다.",
+    "글로벌경제": "미국 증시는 AI와 지정학적 리스크 속 빅테크 실적과 연준 결정을 주시하고 있습니다. 유가 하락이 인플레이션 압력을 완화하며 긍정적이었으나, 반도체 섹터 부진으로 혼조세가 나타났습니다.",
+    "증시금리": "미국 증시는 유가 하락에도 불구하고 반도체 섹터 매도세로 양극화가 심화되었습니다. 국내 증시는 반도체 업황 부진과 거시경제 불안 요인으로 정체 국면입니다. 미 연준의 금리 결정과 빅테크 실적이 글로벌 증시 향방을 결정할 주요 변수입니다.",
+    "부동산정책": "높은 집값은 국내 경제 성장의 하방 압력으로 지목되며, 거시경제 불안 요인 중 하나로 작용하고 있습니다.",
+    "기업산업": "한-브라질 산업 협력이 공동생산 형태로 전환되며 글로벌 공급망 재편 및 현지 시장 확보 전략 변화를 예고했습니다. 반도체 섹터는 전반적으로 부진한 흐름을 보이며 관련 기업들에 압박으로 작용하고 있습니다.",
+    "오늘의투자시사점": "미국 빅테크 실적과 연준의 통화정책 결정을 면밀히 주시하며, 반도체 업황 회복 여부에 촉각을 세워야 합니다. 국내외 거시경제 불안정성과 유가 변동성이 복합적으로 작용하므로, 신중한 업종 선택과 분산 투자가 요구됩니다.",
+    "오늘의한줄": "글로벌 반도체 업황 둔화와 국내 거시경제 불안이 지속되는 가운데, 미국 연준과 빅테크 실적 발표가 시장 방향성의 주요 변수가 될 것입니다."
   },
   "top_news": [
     {
@@ -28,36 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "트럼프, 이란 공습 중단 및 협상 추진; 브렌트유 8% 이상 급락, 미국 증시는 혼조세",
-      "display_title": "트럼프, 이란 공습 중단 및 협상 추진; 브렌트유 8% 이상 급락, 미국 증시는 혼조세",
-      "original_title": "Trump Pauses Strikes on Iran to Create Room for Negotiations; Brent Crude Plunges Over 8%, U.S. Stocks Mixed - finance.biggo.com",
+      "title": "미 증시, AI 및 지정학적 우려 속 빅테크 실적 및 연준 결정 주시",
+      "display_title": "미 증시, AI 및 지정학적 우려 속 빅테크 실적 및 연준 결정 주시",
+      "original_title": "US Markets Look Ahead to Big Tech Earnings and Fed Decision Amid AI and Geopolitical Concerns: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance UK",
       "summary": [
-        "트럼프 대통령의 이란 공습 중단 결정으로 국제유가가 급락하고 미국 증시는 혼조세를 나타냈다.",
-        "이란과의 군사적 긴장 완화 기대감이 위험자산 선호 심리를 일부 회복시키고 유가 하락 압력을 가했다.",
-        "지정학적 리스크 완화는 유가 관련 업종과 항공, 해운 등 운송 업종에 상반된 영향을 미칠 수 있으므로 관련 기업의 주가 흐름을 주시해야 한다."
+        "미국 증시가 인공지능(AI)과 지정학적 리스크 속에서 빅테크 기업들의 실적 발표와 연준의 통화 정책 결정을 기다리고 있습니다.",
+        "빅테크 실적은 AI 성장 동력과 시장 기대치를 가늠하는 척도가 될 것이며, 연준의 결정은 금리 경로에 중요한 영향을 미칩니다.",
+        "이 두 가지 주요 이벤트는 글로벌 증시의 단기적인 방향성을 결정할 핵심 변수가 될 것이므로 면밀히 주시해야 합니다."
       ],
-      "summary_text": "트럼프 대통령의 이란 공습 중단 결정으로 국제유가가 급락하고 미국 증시는 혼조세를 나타냈다. 이란과의 군사적 긴장 완화 기대감이 위험자산 선호 심리를 일부 회복시키고 유가 하락 압력을 가했다. 지정학적 리스크 완화는 유가 관련 업종과 항공, 해운 등 운송 업종에 상반된 영향을 미칠 수 있으므로 관련 기업의 주가 흐름을 주시해야 한다.",
-      "description": "트럼프 대통령이 이란에 대한 공습을 중단하고 협상 여지를 만들면서 브렌트유 가격이 8% 이상 급락했고, 미국 증시는 혼조세를 보였습니다.",
+      "summary_text": "미국 증시가 인공지능(AI)과 지정학적 리스크 속에서 빅테크 기업들의 실적 발표와 연준의 통화 정책 결정을 기다리고 있습니다. 빅테크 실적은 AI 성장 동력과 시장 기대치를 가늠하는 척도가 될 것이며, 연준의 결정은 금리 경로에 중요한 영향을 미칩니다. 이 두 가지 주요 이벤트는 글로벌 증시의 단기적인 방향성을 결정할 핵심 변수가 될 것이므로 면밀히 주시해야 합니다.",
+      "description": "다우존스, S&P, 나스닥 등 미국 증시는 AI와 지정학적 우려 속에서 주요 빅테크 기업들의 실적 발표와 연방준비제도(Fed)의 통화 정책 결정을 앞두고 있습니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "중립",
-      "related_sector": "에너지, 항공, 해운",
+      "related_sector": "기술주, 반도체, 인터넷, 증권",
       "related_stocks": [
-        "대한항공",
-        "SK이노베이션"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "관심",
-      "investment_reason": "중동 지정학적 리스크 완화가 글로벌 유가 및 경제 전반에 미치는 영향이 커 투자 전략에 중요한 변화를 줄 수 있기 때문이다.",
-      "key_signal": "이란-미국 협상 진전 여부와 유가 변동성이 국내 관련 기업에 미칠 영향을 지속적으로 모니터링해야 한다.",
+      "investment_reason": "빅테크 실적과 연준의 통화 정책은 글로벌 증시 흐름을 좌우하는 핵심 요인이므로 투자 전략 수립에 필수적입니다.",
+      "key_signal": "주요 빅테크 기업들의 실적 가이던스와 연준 FOMC 회의 결과 및 파월 의장의 발언에 집중해야 합니다.",
       "keywords": [
-        "이란",
-        "유가",
-        "지정학적 리스크",
-        "미국 증시",
-        "트럼프"
+        "빅테크실적",
+        "연준결정",
+        "금리인상",
+        "AI",
+        "지정학적위험"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZejVmeC1uUlh2bS1iR3c1TURLS0laSVh1dlJkQU9LMExrdE9NVmhGOGMzLUMxaGhYY2pHcGx6ZkpDeDgzVC11YWRYS2U0dTRNekpIeFdpWlV3Nm1HYmpyYkNMb080VFBsR0NVNVlTTWJWLU04VlE?oc=5",
-      "published": "2026-07-28 07:35",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85a0h0WnFPSEQ4M0NEczJuVHEzd1g2NDNRYkhBWjVPWXBleDFISFJsZ1NkX0t5SzJtaDdGbUp4QUxVVktBRmY2RllaanJfNjMtdlFSWXRnSGdZeEl6MkFCSHhVQTVVaWNRcHVNWFVzcTF4MDNhdmVWVnNfSEFoZ2s?oc=5",
+      "published": "2026-07-28 19:52",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -69,37 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피 상승 여부 이번 주 결정될까... 삼성전자, SK하이닉스 및 빅테크 실적 발표 주목",
-      "display_title": "코스피 상승 여부 이번 주 결정될까... 삼성전자, SK하이닉스 및 빅테크 실적 발표 주목",
-      "original_title": "“코스피, 상승 판가름 날까”…이번 주 삼전닉스·빅테크 실적발표 - 매일경제",
+      "title": "[데일리 경제 분석] (7월 28일) 반도체 충격에 코스피 정체, 집값·폭염·금리가 드러낸 성장의 불안한 이면",
+      "display_title": "[데일리 경제 분석] (7월 28일) 반도체 충격에 코스피 정체, 집값·폭염·금리가 드러낸 성장의 불안한 이면",
+      "original_title": "[데일리 경제 분석] (7월 28일) 반도체 충격에 멈춰 선 코스피, 집값·폭염·금리가 성장의 불안한 이면을 드러냈다 - 미디어피아",
       "summary": [
-        "이번 주 삼성전자, SK하이닉스 등 국내외 주요 빅테크 기업들의 실적 발표가 예정되어 있어 코스피의 방향성을 가늠할 중요한 분수령이 될 전망이다.",
-        "이들 기업의 실적은 국내 증시의 시가총액 대부분을 차지하며, 특히 반도체 업황 회복 기대감과 AI 관련 수요가 실적에 어떻게 반영될지가 관건이다.",
-        "실적 발표 결과에 따라 반도체 및 기술주 섹터의 투자 심리가 크게 변화할 수 있으므로, 실적 내용과 가이던스를 면밀히 분석해야 한다."
+        "반도체 섹터의 부진이 코스피 지수를 정체시키는 주요 원인으로 작용하고 있으며, 국내 경제의 성장 동력에 대한 우려가 커지고 있습니다.",
+        "높은 집값, 폭염으로 인한 소비 위축, 그리고 고금리 기조가 복합적으로 작용하여 경제 성장의 하방 압력으로 작용하고 있습니다.",
+        "반도체 업황 회복 여부와 거시경제 불안 요인들이 국내 증시 및 실물 경제에 미칠 추가적인 영향을 면밀히 모니터링해야 합니다."
       ],
-      "summary_text": "이번 주 삼성전자, SK하이닉스 등 국내외 주요 빅테크 기업들의 실적 발표가 예정되어 있어 코스피의 방향성을 가늠할 중요한 분수령이 될 전망이다. 이들 기업의 실적은 국내 증시의 시가총액 대부분을 차지하며, 특히 반도체 업황 회복 기대감과 AI 관련 수요가 실적에 어떻게 반영될지가 관건이다. 실적 발표 결과에 따라 반도체 및 기술주 섹터의 투자 심리가 크게 변화할 수 있으므로, 실적 내용과 가이던스를 면밀히 분석해야 한다.",
-      "description": "이번 주 삼성전자와 SK하이닉스를 비롯한 국내외 빅테크 기업들의 실적 발표가 예정되어 있어 코스피 시장의 상승 방향성이 결정될지 주목된다.",
-      "category": "기업·산업",
-      "importance": 10,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT, 기술주",
+      "summary_text": "반도체 섹터의 부진이 코스피 지수를 정체시키는 주요 원인으로 작용하고 있으며, 국내 경제의 성장 동력에 대한 우려가 커지고 있습니다. 높은 집값, 폭염으로 인한 소비 위축, 그리고 고금리 기조가 복합적으로 작용하여 경제 성장의 하방 압력으로 작용하고 있습니다. 반도체 업황 회복 여부와 거시경제 불안 요인들이 국내 증시 및 실물 경제에 미칠 추가적인 영향을 면밀히 모니터링해야 합니다.",
+      "description": "7월 28일 데일리 경제 분석에 따르면, 반도체 섹터의 충격으로 코스피가 정체된 가운데, 높은 집값, 폭염, 그리고 금리 인상 등 국내 경제 성장의 불안정한 요소들이 부각되고 있습니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "반도체, 건설, 유통, 금융",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
-        "네이버"
+        "카카오"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시를 이끄는 핵심 기업들의 실적은 시장 전반의 방향성을 결정하고 투자 심리에 직접적인 영향을 미치기 때문이다.",
-      "key_signal": "삼성전자, SK하이닉스의 매출 및 영업이익, 특히 반도체 부문의 실적과 함께 향후 전망(가이던스)을 핵심적으로 확인해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 핵심 산업인 반도체 부진과 거시경제 전반의 불안 요인들이 국내 증시의 투자심리를 위축시킬 수 있어 주의가 필요합니다.",
+      "key_signal": "정부의 부동산 정책, 한국은행의 금리 정책 변화, 그리고 반도체 수출 데이터 등 국내 주요 경제 지표들을 종합적으로 살펴야 합니다.",
       "keywords": [
         "코스피",
-        "실적 발표",
-        "삼성전자",
-        "SK하이닉스",
-        "빅테크"
+        "반도체충격",
+        "금리",
+        "집값",
+        "폭염"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4WWV4OHRRa2xOVFVodm9ocGlHSUxjT1FLWUVzaXdpcHNhNlJGTngxcDl2Q2NTRFZzbjVaSm1JbUNhX3U0Vl9vaVp3NWhXWjZ0ZEE?oc=5",
-      "published": "2026-07-27 21:20",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HQ2RUdHZkRDBKZktTQWF0UDRjYU5FRUI5T05qUHBaWlNMVVZERU9LWU1VeDk4NzZ2VlB5Y1hNM0Q3M3Q1VF93NkVBUy1GSUVoUkJhaWxBdzJhbkNPRnJpM2xjMVdFUFdYbFI3Vg?oc=5",
+      "published": "2026-07-28 22:45",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -111,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "글로벌 증시 혼조, 이란-미국 휴전 소식에 유가 및 국채 수익률 하락",
-      "display_title": "글로벌 증시 혼조, 이란-미국 휴전 소식에 유가 및 국채 수익률 하락",
-      "original_title": "GLOBAL MARKETS-Stocks Mixed, Oil and Treasury Yields Drop on Iran-US Pause - KONTAN",
+      "title": "나스닥, S&P500, 다우존스 전망: 유가 4% 하락에 증시 상승",
+      "display_title": "나스닥, S&P500, 다우존스 전망: 유가 4% 하락에 증시 상승",
+      "original_title": "NASDAQ Index, SP500, Dow Jones Forecasts – Stocks Move Higher As Oil Dives 4% - FXEmpire",
       "summary": [
-        "이란-미국 간 긴장 완화로 글로벌 증시가 혼조세를 보였으며, 국제유가와 미국 국채 수익률이 모두 하락했다.",
-        "지정학적 리스크 완화는 안전자산 선호 심리를 약화시키고 원자재 가격에 하방 압력을 가하는 반면, 성장주에는 긍정적인 요인이 될 수 있다.",
-        "유가 하락은 인플레이션 압력을 낮추고 국채 수익률 하락은 증시 밸류에이션에 긍정적일 수 있으나, 단기적 변동성에 유의해야 한다."
+        "국제 유가가 4% 하락하면서 미국 주요 증시 지수(나스닥, S&P500, 다우존스)가 상승하는 모습을 보였습니다.",
+        "유가 하락은 인플레이션 압력을 완화하고 기업 비용 부담을 줄여 증시 전반에 긍정적으로 작용하는 경향이 있습니다.",
+        "에너지 비용 하락이 소비심리 및 기업 이익에 미칠 영향을 주시하며 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "이란-미국 간 긴장 완화로 글로벌 증시가 혼조세를 보였으며, 국제유가와 미국 국채 수익률이 모두 하락했다. 지정학적 리스크 완화는 안전자산 선호 심리를 약화시키고 원자재 가격에 하방 압력을 가하는 반면, 성장주에는 긍정적인 요인이 될 수 있다. 유가 하락은 인플레이션 압력을 낮추고 국채 수익률 하락은 증시 밸류에이션에 긍정적일 수 있으나, 단기적 변동성에 유의해야 한다.",
-      "description": "이란과 미국 간의 긴장 완화 소식이 전해지면서 글로벌 증시는 혼조세를 보였고, 국제유가와 국채 수익률은 하락했습니다.",
+      "summary_text": "국제 유가가 4% 하락하면서 미국 주요 증시 지수(나스닥, S&P500, 다우존스)가 상승하는 모습을 보였습니다. 유가 하락은 인플레이션 압력을 완화하고 기업 비용 부담을 줄여 증시 전반에 긍정적으로 작용하는 경향이 있습니다. 에너지 비용 하락이 소비심리 및 기업 이익에 미칠 영향을 주시하며 투자 전략을 수립해야 합니다.",
+      "description": "유가가 4% 급락하면서 나스닥, S&P500, 다우존스 등 미국 주요 지수가 상승세를 보일 것이라는 예측입니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "에너지, 채권, 기술주",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "증권, 소비재, 항공, 운수",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "대한항공",
+        "아시아나항공",
+        "현대차"
       ],
       "investment_view": "관심",
-      "investment_reason": "지정학적 리스크 변화가 국제유가, 채권 수익률, 그리고 글로벌 증시 전반에 복합적인 영향을 미치므로 투자 전략 수립에 필수적이다.",
-      "key_signal": "이란 사태의 추가적인 전개와 유가 및 금리 변화가 국내외 금융시장에 미칠 파급 효과를 예의주시해야 한다.",
+      "investment_reason": "유가 하락은 인플레이션 완화 및 기업 실적 개선 기대를 높여 증시 전반에 긍정적인 영향을 미칠 수 있습니다.",
+      "key_signal": "국제 유가 변동성이 국내 증시와 관련 산업에 미치는 파급 효과를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "이란",
-        "미국",
-        "유가",
-        "국채 수익률",
-        "글로벌 증시"
+        "유가하락",
+        "증시상승",
+        "인플레이션",
+        "에너지",
+        "미국증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnBLd3pmel9kZnN2cTc3WHZqdkpPc0xXUUJwTnBQRnNOSFVHdnFGSlhZUm1tUlE5dUFUbUxKV1ZNUnMzSzJTdlV6Undvby12cjVVMHQ2R2dVcENUcW9lc3BCdlQzbEJlUW1iQ1B1bGNJU2N5U1BLdnVQcUJxNnZGclNleklSbmVlSEx1VFRCNF9MeEdoWkRYenlXblZabWJqenF0Q2NlZTNGWWs?oc=5",
-      "published": "2026-07-28 06:52",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUQ2QlA0TldmWkpUa0VGMEJlaU55dG5LTnF0aTRYeFBjdHZDQmFFd1lrd2pCRy1kTGI2NUsxeG9RX1psTUVsa25pRlEwS3hsV3hDcm8yeTc3ZUZPajJtNGYwRDBZV2xoUWVLd2hZX0JhUUZaQWlNcG1BVjlBOEkwMjFaX09CYVdvSDNuZ0tHWEtPQ251WWVxem40emNkcXZGdURuVVR0LWQ1aXFJTzRueV84Zk4xT3QtQTFyNVF4Z2k?oc=5",
+      "published": "2026-07-29 04:38",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -153,36 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "반도체주 하락, 나스닥 지수 끌어내려",
-      "display_title": "반도체주 하락, 나스닥 지수 끌어내려",
-      "original_title": "Chip Stocks Drop, Dragging Down Nasdaq - WSJ",
+      "title": "이란 낙관론에 유가 하락에도 반도체 압박으로 미국 주가지수 선물 후퇴",
+      "display_title": "이란 낙관론에 유가 하락에도 반도체 압박으로 미국 주가지수 선물 후퇴",
+      "original_title": "US Stock Futures Retreat Amid Chip Pressure Even As Oil Pulls Back On Iran Optimism: APLD, CAPR, NVDA, AMKR In Focus - TradingView",
       "summary": [
-        "반도체 관련주들의 약세가 두드러지면서 나스닥 지수 하락에 큰 영향을 미쳤다.",
-        "AI 열풍으로 급등했던 반도체 섹터에 대한 차익실현 매물 출회 및 고평가 논란, 향후 수요 둔화 우려 등이 복합적으로 작용했다.",
-        "국내 증시의 핵심 섹터인 반도체 업종은 미국 반도체주의 흐름에 매우 민감하므로, 국내 반도체 대장주들의 변동성 확대에 대비해야 한다."
+        "이란 관련 낙관론으로 유가가 하락했음에도 불구하고, 반도체 섹터의 부진으로 미국 주가지수 선물은 하락했습니다.",
+        "이는 유가 하락의 긍정적 효과가 반도체 산업의 특정 압박 요인에 상쇄되며 시장에 복합적인 영향을 미쳤음을 보여줍니다.",
+        "반도체 업황 둔화 신호와 주요 반도체 기업들의 실적 및 전망이 국내 증시에 미칠 영향을 면밀히 분석해야 합니다."
       ],
-      "summary_text": "반도체 관련주들의 약세가 두드러지면서 나스닥 지수 하락에 큰 영향을 미쳤다. AI 열풍으로 급등했던 반도체 섹터에 대한 차익실현 매물 출회 및 고평가 논란, 향후 수요 둔화 우려 등이 복합적으로 작용했다. 국내 증시의 핵심 섹터인 반도체 업종은 미국 반도체주의 흐름에 매우 민감하므로, 국내 반도체 대장주들의 변동성 확대에 대비해야 한다.",
-      "description": "반도체 관련 주식들이 하락하면서 나스닥 종합지수 전반의 하락을 주도했습니다.",
+      "summary_text": "이란 관련 낙관론으로 유가가 하락했음에도 불구하고, 반도체 섹터의 부진으로 미국 주가지수 선물은 하락했습니다. 이는 유가 하락의 긍정적 효과가 반도체 산업의 특정 압박 요인에 상쇄되며 시장에 복합적인 영향을 미쳤음을 보여줍니다. 반도체 업황 둔화 신호와 주요 반도체 기업들의 실적 및 전망이 국내 증시에 미칠 영향을 면밀히 분석해야 합니다.",
+      "description": "이란 관련 낙관론으로 유가가 하락했지만, 반도체 섹터의 압박으로 인해 미국 주가지수 선물은 하락세를 보였습니다. APLD, CAPR, NVDA, AMKR 등이 주목받고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "반도체, 기술주",
+      "related_sector": "반도체, 증권",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스"
+        "SK하이닉스",
+        "한미반도체"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 반도체주의 하락은 국내 증시의 수출 및 시가총액 비중이 높은 반도체 섹터에 직접적인 부정적 영향을 미치기 때문이다.",
-      "key_signal": "미국 주요 반도체 기업들의 실적 발표와 향후 가이던스 변화를 면밀히 분석하여 국내 반도체 기업의 투자 전략을 수립해야 한다.",
+      "investment_reason": "반도체 업황의 약세는 국내 증시 및 관련 기업의 실적에 직접적인 부정적 영향을 미칠 수 있으므로 주의 깊게 살펴야 합니다.",
+      "key_signal": "주요 반도체 기업의 가이던스 변화와 반도체 수출 동향을 통해 업황 회복 시그널을 지속적으로 확인해야 합니다.",
       "keywords": [
-        "반도체",
-        "나스닥",
-        "AI",
-        "기술주",
-        "차익실현"
+        "반도체압박",
+        "주가지수선물",
+        "유가하락",
+        "이란",
+        "엔비디아"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHJNLUlYblRsTEE5TnF0ekN6VjdmTHhiVW5qV0JUcWp3QUR2ZnRGdDNjZHBlLUZRV0E0SXRuZXJjREF4S1c1bnV1bW4tZXBRTk5hbDRQdlAzTTVQWE1jQjhNcExHME1UakFaWTV5alFnR253elN5WHNnNHg5Ykw3VUlzMF81UHhuVTNaZEdSQXZCWnF3RUZ1RVlIbllEM0RKa2dUQ2ZiSEVYMUk?oc=5",
-      "published": "2026-07-28 03:50",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZUdOQnB5YUNkbkpyME5OVWhtWXNxLWc0YVhRMmNTWjNDbVZjNkxrOW8zR0RISWp4ZnRZVHZVR1dLQWJFVkpGbGhKbGJIRFowLUEwcUR1QkFacG9GM0V5Z19IaThHWkYtcldaMHVZdEdoTnVXXy1peHNyYVh0RDVpZkEzVWFoU1czM0dLRjVsYWt1ajk4MHR6TXRWeFFsUnNEVHNKNE8zWnhrSmtaUlUtZ1A5NTM4bUs1Z05QSlB2ZFBPUGU4aEVwb2tLWFVtam1zbW1NQmhTSkZucEJjQW5WbFdrS2Z5TnFQMi1fYnhSSlloa3lEcmdDMGtyWXZzTUZCSml3?oc=5",
+      "published": "2026-07-28 10:49",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -194,37 +196,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥 100 업데이트: 기술주 경계심 증폭에 따라 지수 하락",
-      "display_title": "나스닥 100 업데이트: 기술주 경계심 증폭에 따라 지수 하락",
-      "original_title": "Nasdaq 100 Update: NDX pulls back as tech caution grows - FOREX.com",
+      "title": "다우지수 상승에도 반도체 매도세로 미국 증시 양극화 심화",
+      "display_title": "다우지수 상승에도 반도체 매도세로 미국 증시 양극화 심화",
+      "original_title": "Dow Climbs While Chip Selloff Widens Divide in US Stocks - TechStock²",
       "summary": [
-        "나스닥 100 지수가 기술주에 대한 경계심 증가로 인해 하락세를 보였다.",
-        "고금리 환경 지속, 기업 실적 전망 불확실성, 과대평가 논란 등이 기술주 투자 심리에 부정적인 영향을 미치고 있다.",
-        "국내 증시의 기술주 및 반도체 관련 종목들도 미국 나스닥 흐름에 영향을 받으므로 관련 종목 투자에 주의가 필요하다."
+        "미국 증시에서 다우존스 지수는 상승했으나, 반도체 섹터의 매도세가 두드러지며 시장 내 업종 간 양극화가 심화되었습니다.",
+        "이는 시장 전반의 긍정적 흐름 속에서도 특정 고성장 섹터에 대한 투자심리가 위축될 수 있음을 시사합니다.",
+        "미국 반도체 섹터의 부진은 국내 반도체 관련 기업에도 부정적인 영향을 미칠 수 있으므로 주의 깊은 관찰이 필요합니다."
       ],
-      "summary_text": "나스닥 100 지수가 기술주에 대한 경계심 증가로 인해 하락세를 보였다. 고금리 환경 지속, 기업 실적 전망 불확실성, 과대평가 논란 등이 기술주 투자 심리에 부정적인 영향을 미치고 있다. 국내 증시의 기술주 및 반도체 관련 종목들도 미국 나스닥 흐름에 영향을 받으므로 관련 종목 투자에 주의가 필요하다.",
-      "description": "기술주에 대한 투자자들의 경계심이 커지면서 나스닥 100 지수가 조정을 받았습니다.",
+      "summary_text": "미국 증시에서 다우존스 지수는 상승했으나, 반도체 섹터의 매도세가 두드러지며 시장 내 업종 간 양극화가 심화되었습니다. 이는 시장 전반의 긍정적 흐름 속에서도 특정 고성장 섹터에 대한 투자심리가 위축될 수 있음을 시사합니다. 미국 반도체 섹터의 부진은 국내 반도체 관련 기업에도 부정적인 영향을 미칠 수 있으므로 주의 깊은 관찰이 필요합니다.",
+      "description": "다우존스 지수는 상승했지만, 반도체 섹터의 매도세가 심화되면서 미국 증시 내 업종별 양극화가 확대되고 있습니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "기술주, 반도체, 소프트웨어",
+      "related_sector": "반도체, 기술주, 증권",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
-        "네이버"
+        "한미반도체"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 기술주 약세는 국내 증시의 IT, 반도체 등 성장주 전반에 대한 투자 심리를 위축시킬 수 있기 때문이다.",
-      "key_signal": "나스닥 기술주의 추가적인 하락 여부와 국내 반도체, AI 관련 기업들의 주가 방어선 유지를 확인해야 한다.",
+      "investment_reason": "미국 반도체 섹터의 약세는 국내 반도체 기업들의 실적과 주가에 직접적인 영향을 줄 수 있으므로 주의가 요구됩니다.",
+      "key_signal": "글로벌 반도체 업황의 추가적인 둔화 여부와 미국 주요 반도체 기업들의 주가 흐름을 면밀히 지켜봐야 합니다.",
       "keywords": [
-        "나스닥",
-        "기술주",
-        "반도체",
-        "성장주",
-        "AI"
+        "반도체매도",
+        "미국증시",
+        "다우지수",
+        "섹터양극화",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1AtMHMweUdCQW1pblVjUmwtZmhCc29Jc081b1ZpZE9jdFNRSUV3MnVYVld0dDBFN1RjbnFxT0h0WThzSTZvdUwxOU9FY1JnaGIzcENZc040VnY1ZGhaMjRheThxS0NVbG5iSnZTOG9laUJBLUdfVExqYlV5NHV1Z0RZZTNuSWR6RW5pc1F6TkR6R1pEWHZ4V25TTjlJanNqQ0xj?oc=5",
-      "published": "2026-07-28 06:03",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDl1b2FjT0hxS0FJcGlYZDV6LUt2T1RQODdzYnJhUC03VlVQR0lLS0U4dzE2azd6RldJd1RjMHd3T3pIRWZqM19MTjEzMjAza2Z6ZXhuOVFyQmVYNlk3U0VhU3c4MGhUd19fX1ZEVGlrTklrWmNnOFJIVDNEczJHRElEVQ?oc=5",
+      "published": "2026-07-29 00:00",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -236,37 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "이재명 정부 1년 만에 서울 아파트값 '역대급 폭등' 수준 기록",
-      "display_title": "이재명 정부 1년 만에 서울 아파트값 '역대급 폭등' 수준 기록",
-      "original_title": "역대 가장 심하다...이재명 정부 1년 만에 서울 아파트값 '폭등 수준' - 위키트리",
+      "title": "'수출'에서 '공동생산'으로: 한·브라질 산업협력 공식 변화",
+      "display_title": "'수출'에서 '공동생산'으로: 한·브라질 산업협력 공식 변화",
+      "original_title": "'수출' 아닌 '공동생산'…한·브라질 산업협력 공식 바뀌었다 - KB Think",
       "summary": [
-        "이재명 정부 출범 1년 만에 서울 아파트값이 폭등 수준으로 상승하며 역대 최고치를 경신했다.",
-        "정부의 부동산 정책이 시장의 기대와 다르게 작동했거나, 유동성 공급, 공급 부족 등의 복합적인 요인이 작용한 결과로 분석된다.",
-        "부동산 시장의 불안정은 가계 부채 증가, 소비 위축 등 거시경제 전반에 부정적인 영향을 미칠 수 있어 정책 변화와 시장 동향을 주시해야 한다."
+        "한국과 브라질의 산업 협력 방식이 단순 수출을 넘어 현지 공동생산 형태로 전환되고 있습니다.",
+        "이는 글로벌 공급망 재편 및 현지 시장 맞춤 전략의 일환으로, 리스크 분산과 안정적인 시장 확보에 기여합니다.",
+        "향후 중남미 시장 진출을 모색하는 국내 기업들의 투자 전략에 중요한 시사점을 제공합니다."
       ],
-      "summary_text": "이재명 정부 출범 1년 만에 서울 아파트값이 폭등 수준으로 상승하며 역대 최고치를 경신했다. 정부의 부동산 정책이 시장의 기대와 다르게 작동했거나, 유동성 공급, 공급 부족 등의 복합적인 요인이 작용한 결과로 분석된다. 부동산 시장의 불안정은 가계 부채 증가, 소비 위축 등 거시경제 전반에 부정적인 영향을 미칠 수 있어 정책 변화와 시장 동향을 주시해야 한다.",
-      "description": "이재명 정부 출범 1년 만에 서울 아파트값이 역대 가장 심각한 수준으로 폭등하여 사회적 논란이 커지고 있습니다.",
-      "category": "부동산·정책",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "건설, 금융, 주택",
+      "summary_text": "한국과 브라질의 산업 협력 방식이 단순 수출을 넘어 현지 공동생산 형태로 전환되고 있습니다. 이는 글로벌 공급망 재편 및 현지 시장 맞춤 전략의 일환으로, 리스크 분산과 안정적인 시장 확보에 기여합니다. 향후 중남미 시장 진출을 모색하는 국내 기업들의 투자 전략에 중요한 시사점을 제공합니다.",
+      "description": "한국과 브라질 간 산업 협력 방식이 기존 수출 중심에서 공동생산 방식으로 변화하고 있다는 분석입니다.",
+      "category": "기업·산업",
+      "importance": 7,
+      "market_impact": "긍정",
+      "related_sector": "자동차, 방산, 에너지, 플랜트",
       "related_stocks": [
-        "현대건설",
-        "삼성물산",
-        "KB금융"
+        "현대차",
+        "한화에어로스페이스",
+        "삼성엔지니어링"
       ],
-      "investment_view": "주의",
-      "investment_reason": "서울 아파트값의 급등은 가계 부채 및 소비 심리에 부정적 영향을 미치고 향후 정부의 강력한 부동산 정책 변화를 유발할 수 있기 때문이다.",
-      "key_signal": "정부의 추가적인 부동산 규제 또는 공급 확대 정책 발표 여부와 금리 인상 등 금융 시장 환경 변화가 부동산 시장에 미칠 영향을 파악해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "새로운 공동생산 모델은 국내 기업의 안정적인 해외 시장 진출과 성장 기회를 확대할 수 있습니다.",
+      "key_signal": "한-브라질 공동생산 프로젝트 구체화 여부와 참여 국내 기업 동향을 주목해야 합니다.",
       "keywords": [
-        "서울 아파트",
-        "부동산",
-        "이재명 정부",
-        "주택 가격",
-        "폭등"
+        "한브라질",
+        "공동생산",
+        "산업협력",
+        "신흥시장",
+        "글로벌공급망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdkRkcGtQd1BNM2JFY19QNU5DMzdST0JqSFQ0ck12bC0wTjFzSlNRQ253ZVVBMlJueWZZMU51Uy1wRkY5TG5mTkYwQmF0SWxkOE5scDFR?oc=5",
-      "published": "2026-07-27 21:15",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5cElIcEFEejQ4YUxSSGM5aGk2eWdobjZrMnhLcjczYWZyM3VSMXlaOWxFcWpEbXN1aWpfVkluaUZyWnBFaGluMVFGTHFsYTRnNENfVVlEQkJHcXVra01pMjF2aENaRVl6UHg5QlBYamFDQQ?oc=5",
+      "published": "2026-07-29 05:40",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -281,62 +283,65 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "이번 주 예정된 실적 발표가 국내 증시의 방향성을 결정할 핵심 요인으로 주목받는 가운데, 미국 반도체 및 기술주의 하락세는 국내 시장에도 부정적인 영향을 미칠 수 있어 양방향 변동성을 면밀히 관찰해야 합니다.",
+      "reason": "미국 빅테크 기업들의 실적 발표와 연준의 통화 정책 결정이 글로벌 증시, 특히 국내 반도체 업황에 미칠 영향을 주시해야 합니다. 반도체 섹터에 대한 우려가 있지만, 주요 지표 변화에 따라 시장 반등의 기회가 될 수도 있습니다.",
       "check_points": [
-        "이번 주 발표될 실적 및 가이던스 내용",
-        "글로벌 반도체 업황 개선 기대감 및 나스닥 기술주 흐름"
+        "미국 주요 기술 기업 실적 발표 결과",
+        "연방준비제도(Fed)의 통화 정책 스탠스",
+        "글로벌 반도체 시장 수요 및 재고 동향"
       ],
       "related_news_titles": [
-        "코스피 상승 여부 이번 주 결정될까... 삼성전자, SK하이닉스 및 빅테크 실적 발표 주목",
-        "반도체주 하락, 나스닥 지수 끌어내려",
-        "나스닥 100 업데이트: 기술주 경계심 증폭에 따라 지수 하락"
+        "미 증시, AI 및 지정학적 우려 속 빅테크 실적 및 연준 결정 주시",
+        "[데일리 경제 분석] (7월 28일) 반도체 충격에 코스피 정체, 집값·폭염·금리가 드러낸 성장의 불안한 이면",
+        "이란 낙관론에 유가 하락에도 반도체 압박으로 미국 주가지수 선물 후퇴"
       ]
     },
     {
       "rank": 2,
-      "name": "SK이노베이션",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "에너지",
+      "sector": "자동차",
       "opinion": "관심",
-      "reason": "중동 지정학적 리스크 완화로 인한 국제 유가 급락은 정유 및 에너지 관련 기업들의 실적에 직접적인 영향을 미쳐 변동성이 확대될 수 있으므로, 유가 추이와 실적 전망을 종합적으로 고려한 투자 전략이 필요합니다.",
+      "reason": "국제 유가 하락은 생산 비용 절감과 소비 심리 개선으로 이어져 자동차 업종에 긍정적이며, 한-브라질 공동생산 협력은 새로운 해외 시장 진출 및 장기적인 성장 기회를 제공할 수 있습니다.",
       "check_points": [
-        "국제 유가(브렌트유, WTI)의 추가적인 변동성 및 안정화 여부",
-        "글로벌 경기 회복에 따른 석유 제품 수요 변화"
+        "국제 유가 추가 하락 여부 및 환율 변동성",
+        "브라질과의 산업 협력 구체화 진행 상황",
+        "글로벌 자동차 판매량 및 신차 출시 성과"
       ],
       "related_news_titles": [
-        "트럼프, 이란 공습 중단 및 협상 추진; 브렌트유 8% 이상 급락, 미국 증시는 혼조세",
-        "글로벌 증시 혼조, 이란-미국 휴전 소식에 유가 및 국채 수익률 하락"
+        "나스닥, S&P500, 다우존스 전망: 유가 4% 하락에 증시 상승",
+        "'수출'에서 '공동생산'으로: 한·브라질 산업협력 공식 변화"
       ]
     },
     {
       "rank": 3,
       "name": "대한항공",
       "market": "KOSPI",
-      "sector": "항공",
+      "sector": "항공운수",
       "opinion": "관심",
-      "reason": "국제 유가 급락은 항공유 비용 부담을 크게 줄여 항공업종의 수익성 개선에 긍정적인 영향을 미칠 수 있습니다. 유가 하락세의 지속 여부와 항공 수요 회복세를 연동하여 주가 흐름을 주목해야 합니다.",
+      "reason": "국제 유가가 4% 하락했다는 소식은 항공사들의 주요 비용인 유류비 부담을 크게 줄여 실적 개선에 긍정적인 영향을 미칠 수 있어 관심이 필요합니다.",
       "check_points": [
-        "국제 유가 하락세 지속 및 안정화 여부",
-        "국내외 항공 여객 및 화물 수요 회복 추이"
+        "국제 유가 변동성 및 추가 하락 가능성",
+        "항공 여객 및 화물 수요 회복세",
+        "환율 안정화 추이"
       ],
       "related_news_titles": [
-        "트럼프, 이란 공습 중단 및 협상 추진; 브렌트유 8% 이상 급락, 미국 증시는 혼조세"
+        "나스닥, S&P500, 다우존스 전망: 유가 4% 하락에 증시 상승"
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "한화에어로스페이스",
       "market": "KOSPI",
-      "sector": "IT서비스",
+      "sector": "방산/항공우주",
       "opinion": "관심",
-      "reason": "국내 주요 빅테크 기업의 실적 발표가 예정되어 시장의 관심이 집중되는 가운데, 미국 기술주 전반의 약세가 국내 IT 성장주 투자 심리를 위축시킬 수 있어, 실적과 대외 요인을 동시에 주시할 필요가 있습니다.",
+      "reason": "한-브라질 산업협력 모델 변화는 방산, 항공우주 등 국내 기업의 해외 시장 확장과 장기적인 성장 동력을 확보하는 데 긍정적인 요인이 될 수 있어 지속적인 모니터링이 필요합니다.",
       "check_points": [
-        "네이버의 실적 발표 내용 및 향후 가이던스",
-        "미국 기술주(나스닥)의 변동성 및 투자심리 변화"
+        "브라질과의 산업 협력 구체적인 수주 및 계약 소식",
+        "글로벌 방산 시장 수주 성과",
+        "항공우주 산업 투자 및 기술 개발 진행 상황"
       ],
       "related_news_titles": [
-        "코스피 상승 여부 이번 주 결정될까... 삼성전자, SK하이닉스 및 빅테크 실적 발표 주목",
-        "나스닥 100 업데이트: 기술주 경계심 증폭에 따라 지수 하락"
+        "'수출'에서 '공동생산'으로: 한·브라질 산업협력 공식 변화"
       ]
     }
   ],
