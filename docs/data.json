@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02 07:55",
-  "analysis_date": "2026-08-02",
+  "generated_at": "2026-08-03 07:56",
+  "analysis_date": "2026-08-03",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,137 +13,137 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "환율 하락 및 원화 강세 흐름 속에 국내 시장의 투자심리가 개선될 조짐입니다. 다만, 미국 고용 지표와 일본은행(BOJ)의 정책 방향이 글로벌 증시 변동성을 키울 수 있어 경계심을 유지해야 합니다.",
-    "국내거시경제": "SK하이닉스 등 주요 기업들의 달러 매도와 수출 호조로 원/달러 환율이 하락하며 원화 강세가 심화되고 있습니다. 이는 수입 물가 안정에 기여하지만, 수출 기업의 수익성에는 부담으로 작용할 수 있습니다.",
-    "글로벌경제": "글로벌 시장의 관심이 미국 연준에서 일본은행(BOJ)의 통화정책 변화 가능성으로 이동하고 있습니다. BOJ의 정책 수정은 엔화 강세와 글로벌 금리 상승 압력을 유발하며 아시아 증시에도 영향을 미칠 수 있습니다.",
-    "증시금리": "뉴욕 증시는 주요 고용 지표 발표를 앞두고 상승 마감했으나, 강력한 고용 지표는 연준의 추가 금리 인상 가능성을 높여 빅테크 등 성장주에 부담이 될 수 있습니다. 단기 시장 방향성은 고용 보고서에 좌우될 것입니다.",
-    "부동산정책": "해당 카테고리에 대한 주요 뉴스는 없습니다.",
-    "기업산업": "미국 정부의 글로벌파운드리 지원 및 이대통령의 AI·핵심광물 공급망 확대 외교는 첨단 산업과 자원 안보 관련 국내 기업들에게 중장기적인 성장 기회를 제공할 것으로 기대됩니다.",
-    "오늘의투자시사점": "국내 시장은 환율 안정과 정부의 산업 지원 정책에 주목하며 투자 심리가 개선될 수 있습니다. 특히 AI 및 핵심광물 관련 기업에 대한 중장기적 관심이 필요합니다. 다만, 미국 고용 지표와 BOJ 정책 변화가 글로벌 증시에 미칠 영향을 주시하며 보수적인 접근도 요구됩니다.",
-    "오늘의한줄": "환율 하락과 정부의 산업 지원책은 국내 증시에 긍정적이나, 글로벌 고용 지표와 일본은행의 정책 변화를 주시해야 합니다."
+    "총평": "글로벌 인플레이션 우려와 연준의 이례적 금리 조치로 미 증시가 급락하는 등 대외 악재가 지속되는 가운데, 국내 증시는 코스피 반등 기대감과 원화 강세에도 불구하고 70% 종목이 마이너스 수익률을 기록하며 불안정한 흐름을 보이고 있습니다.",
+    "국내거시경제": "코스피는 바닥을 다지며 반등 기대감이 커지고, 원화 가치는 금융위기 이후 최대 폭으로 상승했습니다. 다만, 국내 증시 상장 종목 70%가 마이너스 수익률을 기록하며 전반적인 불안정성이 심화되고 있습니다.",
+    "글로벌경제": "유가가 101달러를 돌파하며 미국 증시가 급락했고, 연준의 이례적인 금리 결정으로 월스트리트의 우려가 커졌습니다. 이번 주 고용 지표, 연준 연설, 주요 기술주 실적 발표가 예정되어 시장 변동성에 대비해야 합니다.",
+    "증시금리": "미국 증시는 고유가와 연준의 예상치 못한 조치로 급락했으며, 채권 시장은 연준 의장 발언에 독자적 움직임을 보였습니다. 국내 증시는 원화 강세와 코스피 반등 시도에도 불구하고 대다수 종목이 부진하며 전반적인 하방 압력이 높습니다.",
+    "부동산정책": "관련 뉴스 없음.",
+    "기업산업": "스페이스X, AMD, 팔란티어 등 주요 기술 기업의 실적 발표가 예정되어 해당 기업 및 섹터의 모멘텀을 가늠할 중요 지표가 될 것입니다.",
+    "오늘의투자시사점": "고유가발 인플레이션 압력과 연준의 불확실한 정책 스탠스로 글로벌 증시의 변동성이 확대될 수 있습니다. 국내 증시는 코스피 반등 기대감에도 종목별 차별화가 심화될 수 있어, 방어적이고 신중한 종목 선별 전략이 필요합니다. 주요 경제 지표 및 기업 실적 발표에 주목하며 시장 움직임을 예의주시해야 합니다.",
+    "오늘의한줄": "글로벌 악재와 국내 증시 불안정성이 교차하는 가운데, 신중한 접근과 개별 기업 분석이 중요한 시점입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "“1600원 위기 한 달 만에 뚝”…SK하이닉스·조선사 달러 매도에 환율 분위기 반전",
-      "display_title": "“1600원 위기 한 달 만에 뚝”…SK하이닉스·조선사 달러 매도에 환율 분위기 반전",
-      "original_title": "“1600원 위기 한 달 만에 뚝”…SK하이닉스·조선사가 푼 달러에 분위기 반전 - 매일경제 마켓",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "유가 101달러 돌파에 미국 증시 급락: 다우, 나스닥 500~600포인트 하락; 기술주 부진",
+      "display_title": "유가 101달러 돌파에 미국 증시 급락: 다우, 나스닥 500~600포인트 하락; 기술주 부진",
+      "original_title": "US Stock Market Crashes As Oil Boils Above 101: Dow Jones, Nasdaq Fall 500-600 Pts; Tech Stocks Drag - Goodreturns",
       "summary": [
-        "원/달러 환율이 SK하이닉스와 국내 주요 조선사들의 대규모 달러 매도에 힘입어 하락세로 전환되었습니다.",
-        "기업들의 수출 대금 유입 및 환헤지 수요가 시장에 달러 공급을 늘려 환율 안정에 기여한 것으로 분석됩니다.",
-        "환율 하락은 수입 물가 안정 및 외국인 투자 유치에 긍정적인 영향을 미칠 수 있으나, 수출 기업의 채산성에는 부정적일 수 있습니다."
+        "유가가 배럴당 101달러를 넘어서면서 미국 증시가 큰 폭으로 하락했으며, 특히 다우존스와 나스닥이 각각 500~600포인트 급락했다.",
+        "고유가는 인플레이션 압력을 가중시키고 기업 비용을 증가시켜 경제 성장을 둔화시킬 우려가 있어 증시에 부정적인 영향을 미친다.",
+        "유가 상승에 따른 인플레이션 압박과 경기 둔화 우려가 글로벌 증시 전반의 하방 압력으로 작용할 수 있으므로 보수적인 접근이 필요하다."
       ],
-      "summary_text": "원/달러 환율이 SK하이닉스와 국내 주요 조선사들의 대규모 달러 매도에 힘입어 하락세로 전환되었습니다. 기업들의 수출 대금 유입 및 환헤지 수요가 시장에 달러 공급을 늘려 환율 안정에 기여한 것으로 분석됩니다. 환율 하락은 수입 물가 안정 및 외국인 투자 유치에 긍정적인 영향을 미칠 수 있으나, 수출 기업의 채산성에는 부정적일 수 있습니다.",
-      "description": "한 달 전 1600원대 위기론까지 나왔던 원/달러 환율이 SK하이닉스와 조선사들의 대규모 달러 매도 영향으로 하락하며 분위기가 반전되었습니다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 조선, 수출주",
+      "summary_text": "유가가 배럴당 101달러를 넘어서면서 미국 증시가 큰 폭으로 하락했으며, 특히 다우존스와 나스닥이 각각 500~600포인트 급락했다. 고유가는 인플레이션 압력을 가중시키고 기업 비용을 증가시켜 경제 성장을 둔화시킬 우려가 있어 증시에 부정적인 영향을 미친다. 유가 상승에 따른 인플레이션 압박과 경기 둔화 우려가 글로벌 증시 전반의 하방 압력으로 작용할 수 있으므로 보수적인 접근이 필요하다.",
+      "description": "유가가 배럴당 101달러를 돌파하면서 미국 증시가 급락했다. 다우존스 지수와 나스닥 지수가 500~600포인트 하락했으며, 기술주가 하락세를 주도했다.",
+      "category": "증시·금리",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "에너지, 기술, 운송",
       "related_stocks": [
-        "SK하이닉스",
-        "HD현대중공업",
-        "삼성중공업"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "관심",
-      "investment_reason": "주요 수출 기업의 달러 매도가 환율 안정화에 기여하며 국내 경제 전반에 미치는 영향과 업종별 득실을 분석하는 것이 중요합니다.",
-      "key_signal": "기업들의 추가적인 달러 유입 규모와 정부의 환율 관련 스탠스 변화, 그리고 다른 수출 기업들의 실적에 미치는 영향을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "고유가발 인플레이션과 경기 둔화 우려가 미국 증시를 넘어 글로벌 증시 전반에 심각한 하방 압력을 가하기 때문이다.",
+      "key_signal": "유가 상승세가 지속될지 여부와 연준이 고유가발 인플레이션에 어떻게 대응할지에 대한 신호를 주시해야 한다.",
       "keywords": [
-        "환율",
-        "원달러",
-        "SK하이닉스",
-        "조선업",
-        "달러매도"
+        "유가",
+        "인플레이션",
+        "미국증시",
+        "기술주",
+        "다우존스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnR29kSWk3NWlBNXhWZ3B0eVJuenFPblA2aWl0S3BRN2VvQ2x3b0R2bUxRZXRrTGtJWHN3NFRmT19FV0RyV3pjaTVRZmRwc3JtY3c?oc=5",
-      "published": "2026-08-02 06:35",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPamN6VjBFbjdnN3plRG11NWdvQ1RQVG5wVjhwbzUxajIyZVpzWDR5S25qM0Y4VUUwWFBpX0IyaFItSVlpUGt2TjRWaXRwMDdzd3JRaWhBNnZXSUpYQWlnNjI3aGVoYmpYLUpHVmk2dDFfODZ5REY1ZW9SVEJrX3FwUy1IRXN1MGhUUHpqWFhlYmZmRXZjd0xZdEEwRTJQWVVqTkhjQm9JWHZaQTIxMHRvd1JXZGFsR3VJcFYtOXdkUnBKSWxTUXZNSkpTRWZaU2xpVHdUckdnNDFZUDNPZnfSAegBQVVfeXFMT081Vi1zaEt6WW1wS3pLOEcyNFdQb19ZN2NvckxySUwyY3diSEtOd21UUFlRRnNvVnR0b1pzU193NFY0Xy1aUlBBc0pqY2JGaW9BYmlGNkJTLVFSOExnbWlZekNuS1huQUtOUVoyT0haUndRU1ZCQUEyeVlzMmdqb19DRTBDeExPQWRSWUJpUUhRZV9PZHBEZnBJb3RoYmR1WFVoZ3FTVHFobWp1d2Z3N3B4T0RDTDRYTnptUnFtcjhmcVlsX0VIMDRXXzR5UmlORXlBSUtoZm1rRjd2WDlqbEJTX0o5SXJ2Wg?oc=5",
+      "published": "2026-08-03 03:05",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "7월 원화 절상률 8.8%, 금융위기 후 최고치…1,400원선 돌파 가능성은?",
-      "display_title": "7월 원화 절상률 8.8%, 금융위기 후 최고치…1,400원선 돌파 가능성은?",
-      "original_title": "7월 원화 절상률 8.8%, 금융위기 후 최고…1,400원선 깨질까 - 매일경제 마켓",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "연준의 최근 금리 결정, 10년 만의 이례적 조치에 월스트리트 우려",
+      "display_title": "연준의 최근 금리 결정, 10년 만의 이례적 조치에 월스트리트 우려",
+      "original_title": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street - AOL.com",
       "summary": [
-        "지난 7월 원화 가치가 8.8% 절상되어 금융위기 이후 가장 높은 월간 절상률을 기록했습니다.",
-        "이는 강한 수출 실적, 외국인 자금 유입, 미국 금리 인상 기대감 약화 등 복합적인 요인이 작용한 것으로 보입니다.",
-        "원화 강세는 수입 물가 안정에 기여하지만, 수출 기업의 가격 경쟁력 약화 및 환차손 발생 가능성에 대비해야 합니다."
+        "연준이 10년 만에 이례적인 금리 정책을 발표하여 시장에 불안감을 조성하고 있다.",
+        "특정 경제 지표나 시장 상황이 연준의 통상적인 금리 결정 기조를 벗어나게 했을 가능성이 높다.",
+        "예기치 못한 연준의 스탠스는 금융 시장의 변동성을 키우고 투자 심리를 위축시킬 수 있으므로 주의가 필요하다."
       ],
-      "summary_text": "지난 7월 원화 가치가 8.8% 절상되어 금융위기 이후 가장 높은 월간 절상률을 기록했습니다. 이는 강한 수출 실적, 외국인 자금 유입, 미국 금리 인상 기대감 약화 등 복합적인 요인이 작용한 것으로 보입니다. 원화 강세는 수입 물가 안정에 기여하지만, 수출 기업의 가격 경쟁력 약화 및 환차손 발생 가능성에 대비해야 합니다.",
-      "description": "7월 한 달간 원화 절상률이 8.8%를 기록하며 금융위기 이후 최고치를 경신했으며, 원/달러 환율 1,400원선 하향 돌파 가능성에 대한 관심이 커지고 있습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "연준이 10년 만에 이례적인 금리 정책을 발표하여 시장에 불안감을 조성하고 있다. 특정 경제 지표나 시장 상황이 연준의 통상적인 금리 결정 기조를 벗어나게 했을 가능성이 높다. 예기치 못한 연준의 스탠스는 금융 시장의 변동성을 키우고 투자 심리를 위축시킬 수 있으므로 주의가 필요하다.",
+      "description": "연방준비제도(Fed)의 최근 금리 결정에 10년 만에 보지 못한 이례적인 내용이 포함되어 있으며, 이는 월스트리트의 우려를 살 만하다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "수출주, 수입 관련주, 환율민감주",
+      "market_impact": "부정",
+      "related_sector": "금융, 증권",
       "related_stocks": [
-        "현대차",
-        "기아",
-        "대한항공"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "원화 강세는 국내 경제 전반에 큰 영향을 미치며, 특히 수출 기업의 실적과 수입 물가, 외국인 투자자금 흐름에 직접적인 영향을 주므로 투자 전략 수립에 필수적입니다.",
-      "key_signal": "원화 절상 추세가 지속될지 여부와 정부의 개입 가능성, 그리고 각 업종별 기업들이 환율 변동에 어떻게 대응하는지를 면밀히 관찰해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 이례적인 금리 결정은 시장에 큰 불확실성을 주어 투자 리스크를 높이기 때문이다.",
+      "key_signal": "연준의 구체적인 금리 결정 내용과 시장 반응, 그리고 향후 연준 관계자들의 발언을 주시해야 한다.",
       "keywords": [
-        "원화절상",
-        "환율",
-        "금융위기",
-        "수출기업",
-        "수입물가"
+        "연준",
+        "금리",
+        "월스트리트",
+        "시장변동성",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OdzdDY2xqRkYyZF9SVDBkUUtnR2xVaXdjZXAyWXF1SEg5WEJYcU1ZSVNfNDFBZEtEbVJzOUdST3U4WkE1Wm9iaVhTTU5LaXMtNXc?oc=5",
-      "published": "2026-08-02 05:53",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkFwNzhoR0RtcWJGSUhDdG1KblJ6bzlRZHBrWU5lN1NOMTFJUGxfQzBhellnczR4c2dzT0FPTW1RQ24xX2NlRms4eDV3MTZtcmJPbVM2VVc2d3dUWE1pb2N1UGxuZFdLc0pvVWthcTdhZmYwSTNnV0hxbEtxNEVEUVBSQjJJTlEy?oc=5",
+      "published": "2026-08-03 03:14",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "월스트리트, 주요 고용 지표 발표 앞두고 상승 마감... 빅테크 상승세 시험대 오를까",
-      "display_title": "월스트리트, 주요 고용 지표 발표 앞두고 상승 마감... 빅테크 상승세 시험대 오를까",
-      "original_title": "Wall Street Ends Higher Ahead of Key Jobs Data That Could Challenge Big-Tech Gains - TechStock²",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "바닥 다진 코스피 반등 기대감…원화 가치, 금융위기 이후 최대 상승",
+      "display_title": "바닥 다진 코스피 반등 기대감…원화 가치, 금융위기 이후 최대 상승",
+      "original_title": "바닥 다진 코스피 반등할까…원화 가치 금융위기 이후 최대 상승 [한강로 경제브리핑] - news.nate.com",
       "summary": [
-        "뉴욕 증시가 주요 고용 지표 발표를 앞두고 상승세로 마감했습니다.",
-        "강력한 고용 지표는 연준의 추가 금리 인상 가능성을 높여 빅테크 등 성장주에 부담을 줄 수 있습니다.",
-        "이번 주 발표될 고용 보고서 결과에 따라 시장의 단기 방향성이 결정될 수 있으므로 주목해야 합니다."
+        "코스피가 바닥을 다지며 반등 기대감이 커지고 있으며, 원화 가치는 금융위기 이후 가장 크게 상승했다.",
+        "원화 강세는 외국인 투자자 유입에 긍정적이며, 국내 증시의 저점 인식과 맞물려 투자 심리가 개선될 수 있다.",
+        "원화 강세와 코스피 반등 시도는 외국인 수급에 긍정적인 영향을 미쳐 국내 증시 전반에 활력을 불어넣을 수 있다."
       ],
-      "summary_text": "뉴욕 증시가 주요 고용 지표 발표를 앞두고 상승세로 마감했습니다. 강력한 고용 지표는 연준의 추가 금리 인상 가능성을 높여 빅테크 등 성장주에 부담을 줄 수 있습니다. 이번 주 발표될 고용 보고서 결과에 따라 시장의 단기 방향성이 결정될 수 있으므로 주목해야 합니다.",
-      "description": "월스트리트 증시가 주요 고용 지표 발표를 앞두고 상승 마감했지만, 이 지표가 빅테크 주식의 상승세를 위협할 수 있다는 전망이 나오고 있습니다.",
+      "summary_text": "코스피가 바닥을 다지며 반등 기대감이 커지고 있으며, 원화 가치는 금융위기 이후 가장 크게 상승했다. 원화 강세는 외국인 투자자 유입에 긍정적이며, 국내 증시의 저점 인식과 맞물려 투자 심리가 개선될 수 있다. 원화 강세와 코스피 반등 시도는 외국인 수급에 긍정적인 영향을 미쳐 국내 증시 전반에 활력을 불어넣을 수 있다.",
+      "description": "코스피 지수가 바닥을 다지고 반등할지 주목되는 가운데, 원화 가치가 금융위기 이후 최대 폭으로 상승했다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "기술주, 반도체",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "증권, IT, 자동차",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스"
+        "현대차"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국의 고용 지표는 연방준비제도(Fed)의 통화정책 방향을 가늠하는 중요한 지표이며, 이는 글로벌 증시와 국내 증시에 큰 영향을 미치기 때문에 주의 깊게 살펴야 합니다.",
-      "key_signal": "발표될 미국 고용보고서의 세부 내용(실업률, 임금 상승률 등)이 시장 예상치와 연준의 금리 인상 기대에 어떤 영향을 미치는지 확인해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "원화 강세와 코스피 반등 기대는 외국인 수급 개선과 국내 증시 전반의 상승 동력으로 작용할 수 있기 때문이다.",
+      "key_signal": "외국인 투자자의 매매 동향과 코스피의 특정 지지선 돌파 여부를 확인하여 추세 전환을 판단해야 한다.",
       "keywords": [
-        "월스트리트",
-        "고용지표",
-        "빅테크",
-        "금리인상",
-        "증시전망"
+        "코스피",
+        "원화",
+        "환율",
+        "외국인",
+        "반등"
       ],
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUVyS2taVGJwSDNCVDFKYnJYQnFkWEQyeE5XdzRCWGRBUWMtZ0FYUFJVbDBESXVTUzByUHFVbmZhT3M1SU8xbjQwTHJqZ1dXT1lFb2tuTTBVZzVhcW8xQ3JEdXk4LWpZWnZLM1JFNUV2UFQyeWU2YmtqMGVWVG9lY1ZTWV9UN0paLVc5OHlyS1hzc09wNTlfSmFjTXV0c2JNYkdLVlVB?oc=5",
-      "published": "2026-08-02 02:46",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zVmtJaHJ1NUtEZ05yazlMc1lPaWtrbEZRbmVmZGNpcWxsN2dYVk1WTWRNTU5QUWt1UEJNNHhjVE9vOFhkdVJ4S3Bmb2prc1hKbW1jRENndldrRW9QQ19nUg?oc=5",
+      "published": "2026-08-03 07:02",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -153,36 +153,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "USD/JPY, 나스닥 전망: 시장의 관심, 연준에서 일본은행(BOJ)으로 이동",
-      "display_title": "USD/JPY, 나스닥 전망: 시장의 관심, 연준에서 일본은행(BOJ)으로 이동",
-      "original_title": "USD/JPY, Nasdaq Forecast: Focus Shifts from Fed to BOJ - FOREX.com",
+      "title": "주간 전망: 고용 데이터, 연준 연설, 스페이스X·AMD·팔란티어 실적 발표",
+      "display_title": "주간 전망: 고용 데이터, 연준 연설, 스페이스X·AMD·팔란티어 실적 발표",
+      "original_title": "The Week Ahead: Jobs Data, Fed Speakers and SpaceX, AMD, Palantir Earnings - FXEmpire",
       "summary": [
-        "달러/엔 환율 및 나스닥 지수 전망에 있어 일본은행(BOJ)의 통화정책이 미국 연방준비제도(Fed)보다 더 큰 영향력을 가질 수 있다는 분석이 나왔습니다.",
-        "이는 일본은행이 점진적으로 초완화 정책을 수정할 가능성과 그에 따른 글로벌 유동성 및 자본 시장의 변화에 대한 기대감을 반영합니다.",
-        "BOJ의 정책 변화는 엔화 강세 및 글로벌 금리 상승 압력으로 이어질 수 있으며, 이는 한국을 포함한 아시아 증시에도 영향을 미칠 수 있습니다."
+        "이번 주에 미국 고용 지표 발표, 연준 인사들의 연설, 그리고 주요 기술 기업들의 실적 발표가 예정되어 있어 시장의 이목이 집중된다.",
+        "이 모든 이벤트는 향후 연준의 통화 정책 방향, 경제 성장 전망, 그리고 기술주의 실적 모멘텀을 가늠하는 중요한 지표가 될 것이다.",
+        "중요한 경제 데이터와 개별 기업 실적이 겹쳐 발표되는 만큼, 시장 변동성에 대비하고 투자 전략을 신중하게 수립해야 한다."
       ],
-      "summary_text": "달러/엔 환율 및 나스닥 지수 전망에 있어 일본은행(BOJ)의 통화정책이 미국 연방준비제도(Fed)보다 더 큰 영향력을 가질 수 있다는 분석이 나왔습니다. 이는 일본은행이 점진적으로 초완화 정책을 수정할 가능성과 그에 따른 글로벌 유동성 및 자본 시장의 변화에 대한 기대감을 반영합니다. BOJ의 정책 변화는 엔화 강세 및 글로벌 금리 상승 압력으로 이어질 수 있으며, 이는 한국을 포함한 아시아 증시에도 영향을 미칠 수 있습니다.",
-      "description": "USD/JPY 환율과 나스닥 지수 전망에 대한 시장의 관심이 미국 연방준비제도(Fed)에서 일본은행(BOJ)의 정책 결정으로 이동하고 있습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
+      "summary_text": "이번 주에 미국 고용 지표 발표, 연준 인사들의 연설, 그리고 주요 기술 기업들의 실적 발표가 예정되어 있어 시장의 이목이 집중된다. 이 모든 이벤트는 향후 연준의 통화 정책 방향, 경제 성장 전망, 그리고 기술주의 실적 모멘텀을 가늠하는 중요한 지표가 될 것이다. 중요한 경제 데이터와 개별 기업 실적이 겹쳐 발표되는 만큼, 시장 변동성에 대비하고 투자 전략을 신중하게 수립해야 한다.",
+      "description": "이번 주에는 고용 데이터 발표, 연방준비제도(Fed) 관계자들의 연설, 그리고 스페이스X, AMD, 팔란티어의 실적 발표가 예정되어 있다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "중립",
-      "related_sector": "외환시장, 글로벌증시, 금융주, 수출주",
+      "related_sector": "기술, 반도체, IT",
       "related_stocks": [
-        "삼성전자",
-        "현대차"
+        "AMD"
       ],
       "investment_view": "관심",
-      "investment_reason": "일본은행의 통화정책 변화는 글로벌 금융 시장의 큰 변동성을 야기할 수 있으며, 이는 엔화 및 달러의 가치, 그리고 글로벌 증시 전반에 직접적인 영향을 미치므로 한국 투자자에게도 중요한 사안입니다.",
-      "key_signal": "일본은행의 다음 통화정책 회의 결과와 구로다 총재의 발언, 그리고 엔화 환율의 급격한 변동 여부를 주시해야 합니다.",
+      "investment_reason": "거시 경제 지표와 주요 기술 기업 실적이 동시에 발표되어 글로벌 및 국내 증시의 향방을 결정하는 중요한 한 주가 될 것이기 때문이다.",
+      "key_signal": "고용 보고서의 세부 내용과 연준 인사들의 발언에서 금리 인상 속도 조절 힌트를 찾고, AMD 등 기술 기업 실적 발표에 따른 파급 효과를 주시해야 한다.",
       "keywords": [
-        "일본은행",
-        "BOJ",
+        "고용데이터",
         "연준",
-        "Fed",
-        "통화정책"
+        "AMD",
+        "기업실적",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFNldUUxYjE4TkFCbVJDaERsUVpwMzF4Z3NzaUNSRUNobVRNcGZHalhBZkxsVkl1cWtVSERwamRDZ3NrRFM0S1Y5dWpmTnpDeEViQ09Ob1JUampBLW12QVNzVks4Y1pPVWQ2UlhCMzE1ZUZlRWJpVHBFWVN5WEQ3WjB1MXc0cWRSaDNhOWlLTTVCSFQ3cm9DSHBkX0I?oc=5",
-      "published": "2026-08-01 21:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzMySHVIODVsVzNaeXJWeF81d29hT0Q0Y0hScGl6a1BmREZBc2hISmJBTVZuc1R5cHZKY3ItbTNHT2NxWnRkQ0VEbVgyR0pjUVFwNzBLVlVxYVZlZmZGd0RobU9oeXgzQlowX0xFSmFQRVhTaGhUSUZubVRMeEpsTzNfei1mRHJwdmNoOGFYWjBLbUdHVUN2UkFkckpHN3NOMmxWdmxwdUxOakJxLVF4cDJDMEY2U1lJYXhDbUtB?oc=5",
+      "published": "2026-08-03 03:28",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -194,37 +193,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "글로벌파운드리, 3억 달러 지원금 및 美 정부 지분 1% 확보로 실적 주목",
-      "display_title": "글로벌파운드리, 3억 달러 지원금 및 美 정부 지분 1% 확보로 실적 주목",
-      "original_title": "GlobalFoundries (NASDAQ:GFS) Earnings in Focus After Receiving $300 Million Award, U.S. Government Acquires 1% Stake - TechStock²",
+      "title": "채권 시장, 연준 의장 케빈 워시의 금리 정책 허세에 도전",
+      "display_title": "채권 시장, 연준 의장 케빈 워시의 금리 정책 허세에 도전",
+      "original_title": "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest Rates - The Motley Fool",
       "summary": [
-        "글로벌파운드리가 미국 정부로부터 3억 달러 규모의 지원금을 받고, 정부가 회사 지분 1%를 취득했습니다.",
-        "이는 미국의 반도체 공급망 강화 정책과 자국 내 생산 유도를 위한 노력의 일환으로 보입니다.",
-        "정부 지원 및 지분 참여는 기업의 안정성과 미래 성장 가능성에 긍정적인 신호로 작용할 수 있습니다."
+        "채권 시장이 연준 의장의 금리 발언에 대해 신뢰하지 않거나 반대되는 움직임을 보였다.",
+        "연준 고위 인사의 발언에도 불구하고 채권 시장이 독자적인 움직임을 보인 것은 통화 정책에 대한 시장의 다른 시각을 반영한다.",
+        "채권 시장의 반응은 향후 연준의 통화 정책 방향과 시장의 실제 기대치를 가늠하는 중요한 지표가 될 수 있다."
       ],
-      "summary_text": "글로벌파운드리가 미국 정부로부터 3억 달러 규모의 지원금을 받고, 정부가 회사 지분 1%를 취득했습니다. 이는 미국의 반도체 공급망 강화 정책과 자국 내 생산 유도를 위한 노력의 일환으로 보입니다. 정부 지원 및 지분 참여는 기업의 안정성과 미래 성장 가능성에 긍정적인 신호로 작용할 수 있습니다.",
-      "description": "글로벌파운드리가 3억 달러 지원금을 받고 미국 정부가 회사 지분 1%를 확보함에 따라 향후 실적에 대한 관심이 높아지고 있습니다.",
-      "category": "기업·산업",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 시스템반도체",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
+      "summary_text": "채권 시장이 연준 의장의 금리 발언에 대해 신뢰하지 않거나 반대되는 움직임을 보였다. 연준 고위 인사의 발언에도 불구하고 채권 시장이 독자적인 움직임을 보인 것은 통화 정책에 대한 시장의 다른 시각을 반영한다. 채권 시장의 반응은 향후 연준의 통화 정책 방향과 시장의 실제 기대치를 가늠하는 중요한 지표가 될 수 있다.",
+      "description": "채권 시장이 연준 의장 케빈 워시의 금리 관련 허세에 정면으로 맞섰다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "채권, 금융",
+      "related_stocks": [],
       "investment_view": "관심",
-      "investment_reason": "미국 정부의 반도체 산업 지원 확대와 자국 내 생산 강화 정책이 글로벌 반도체 시장에 미칠 영향과 관련 기업들의 수혜 여부를 파악해야 합니다.",
-      "key_signal": "미국 정부의 추가 반도체 산업 지원책 발표 여부와 글로벌 파운드리 기업들의 실적 변화를 주목해야 합니다.",
+      "investment_reason": "채권 시장의 연준 발언에 대한 반응은 향후 금리 방향성을 예측하는 데 중요한 단서가 되기 때문이다.",
+      "key_signal": "채권 수익률 동향과 연준 고위 관계자들의 추가적인 발언을 통해 시장과 정책 당국 간의 견해차를 확인해야 한다.",
       "keywords": [
-        "글로벌파운드리",
-        "반도체",
-        "미국정부",
-        "투자",
-        "공급망"
+        "채권시장",
+        "연준",
+        "금리",
+        "워시",
+        "시장심리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUJHdmJqTXo1QXg3cVZubjd0ZnU3aERVQlBzVUl1cDcxNk8zeTA3SWxQMXJSZFNMcGhkX1RlNVAtRmFGeW02czdqUGk2dVdZTWUxd0NOeG1JYVQ4SUtxLW9aTWdLSjlwZXZSQ3hrYmYyV3NFbkU1b2o0U2ZmSmhkcDdwc0V2cXpGVHF0dUVMNnFyanpVRV9mVVlZRTBJN1RkLWxyb3RSSUpTRWt2dml6N2k0YVZjOFhPWV9VOXpScmdueUhWLTVkZldn?oc=5",
-      "published": "2026-08-02 03:36",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcldqcGZSVDJnbkk0Q3BaenZuR2QtWHoxZTB0R3NKZmZNTU5qZXpzUlRyaC1KdFIxbmp3MnQ3MTRDYmlvd3pteHJaX3g5R1d0eVRmVVVKX2lMbEg5Z2Z3RG1QZ0k0V3BKSXJvNDRfbUxmS2QtWmNuMDZ0d0swYnZNcFc5RTYxREVsTTdra2FxNHpxVHhvTUVN?oc=5",
+      "published": "2026-08-02 23:06",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -236,37 +231,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "이대통령, 美·남미 '실용외교'로 AI 협력 및 핵심광물 공급망 확대 추진",
-      "display_title": "이대통령, 美·남미 '실용외교'로 AI 협력 및 핵심광물 공급망 확대 추진",
-      "original_title": "李대통령, 美·남미서 '실용외교'…AI 협력·핵심광물 공급망 확대 - 뉴스웍스",
+      "title": "불안정한 증시... 상장 종목 70%가 마이너스 수익률 기록",
+      "display_title": "불안정한 증시... 상장 종목 70%가 마이너스 수익률 기록",
+      "original_title": "멀미나는 증시... 상장 종목 70%가 \"마이너스\" - ainews1.co.kr",
       "summary": [
-        "이대통령이 미국과 남미 순방을 통해 인공지능(AI) 분야 협력을 강화하고 핵심광물 공급망 확대를 추진했습니다.",
-        "이는 첨단 산업 육성과 자원 안보 확보라는 두 가지 주요 국가 전략 목표를 동시에 달성하기 위한 노력입니다.",
-        "AI 기술 개발 및 핵심광물 확보는 미래 산업 경쟁력의 핵심 요소로, 관련 국내 기업들에게 중장기적인 성장 기회를 제공할 수 있습니다."
+        "국내 증시의 상장 종목 중 70%가 마이너스 수익률을 기록하며 시장 전반의 부진이 심화되고 있다.",
+        "고금리, 고물가, 경기 둔화 우려 등 복합적인 악재가 투자 심리를 위축시키고 시장 전반의 하락세를 부추기고 있다.",
+        "시장의 전반적인 하락세 속에서 종목 선별에 신중을 기하고, 방어적인 투자 전략을 고려해야 할 시점이다."
       ],
-      "summary_text": "이대통령이 미국과 남미 순방을 통해 인공지능(AI) 분야 협력을 강화하고 핵심광물 공급망 확대를 추진했습니다. 이는 첨단 산업 육성과 자원 안보 확보라는 두 가지 주요 국가 전략 목표를 동시에 달성하기 위한 노력입니다. AI 기술 개발 및 핵심광물 확보는 미래 산업 경쟁력의 핵심 요소로, 관련 국내 기업들에게 중장기적인 성장 기회를 제공할 수 있습니다.",
-      "description": "이대통령이 미국과 남미 순방에서 인공지능(AI) 협력 강화와 핵심광물 공급망 확대에 초점을 맞춘 '실용 외교'를 펼쳤습니다.",
-      "category": "기업·산업",
+      "summary_text": "국내 증시의 상장 종목 중 70%가 마이너스 수익률을 기록하며 시장 전반의 부진이 심화되고 있다. 고금리, 고물가, 경기 둔화 우려 등 복합적인 악재가 투자 심리를 위축시키고 시장 전반의 하락세를 부추기고 있다. 시장의 전반적인 하락세 속에서 종목 선별에 신중을 기하고, 방어적인 투자 전략을 고려해야 할 시점이다.",
+      "description": "국내 증시가 불안정한 흐름을 보이는 가운데, 상장된 전체 종목 중 70%가 마이너스 수익률을 기록하고 있다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "인공지능, 로봇, 반도체, 2차전지, 핵심광물",
+      "market_impact": "부정",
+      "related_sector": "전반적 시장, 증권",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "포스코퓨처엠"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "정부 주도의 AI 협력 및 핵심광물 공급망 확보는 국내 첨단 산업의 경쟁력을 강화하고 장기적인 성장 동력을 제공할 수 있어 관련 기업들에 대한 투자 가치를 높입니다.",
-      "key_signal": "각 협력 분야에서 구체적인 투자 및 사업 성과가 가시화되는지, 그리고 핵심광물 확보 관련 기업들의 실질적인 수혜 여부를 지속적으로 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "대다수 상장 종목이 마이너스 수익률을 기록하는 등 시장 전반의 침체가 심화되고 있어 투자 위험이 높기 때문이다.",
+      "key_signal": "시장 전체의 부진 속에서도 견조한 실적을 내거나 신사업 모멘텀이 있는 소수 종목을 발굴하는 데 집중해야 한다.",
       "keywords": [
-        "AI",
-        "핵심광물",
-        "공급망",
-        "실용외교",
-        "미국"
+        "국내증시",
+        "마이너스수익률",
+        "투자심리",
+        "시장침체",
+        "종목선별"
       ],
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Yb1drT19YTTlkeEF3OVZWQjRkNUJCemwzUjZuZHhzZHN5ck9PQWY3dl9aSndQTDF3UGlheUlHa1RzSExDZHE3eHhUa2o4ZWZUYk5Ua3A5eV9wcjRXZTdmUk1NeXM1ZzFlN2xjVzM1V2s2QWvSAXNBVV95cUxNWG9Xa09fWE05ZHhBdzlWVkI0ZDVCQnpsM1I2bmR4c2RzeXJPT0FmN3ZfWkp3UEwxd1BpYXlJR2tUc0hMQ2RxN3h4VGtqOGVmVGJOVGtwOXlfcHI0V2U3ZlJNTXlzNWcxZTdsY1czNVdrNkFr?oc=5",
-      "published": "2026-08-02 03:01",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LQXY4X290eGFuM19tdklmR0gycURvMUhxcmlucENpNjhaV2tyRHJuelNDdUJCS21RME53TVYzWW5IZzRNc3Z0c0lHWjRxWkJhVlo4Ukd1S0lYMHBlUnJiYlBIX2VXSDY1NFg0?oc=5",
+      "published": "2026-08-03 03:56",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -281,66 +276,64 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 고용 지표 발표와 일본은행의 통화정책 변화가 글로벌 증시에 미칠 영향에 주목하며, 미국 정부의 반도체 산업 지원 확대 및 AI 협력 강화 등 첨단 산업 정책 수혜 가능성을 함께 고려할 필요가 있습니다.",
+      "reason": "원화 강세와 코스피 반등 기대감으로 외국인 수급 개선이 예상되며, 이는 국내 증시의 핵심 종목인 삼성전자에 긍정적인 영향을 미칠 수 있기 때문입니다. 다만, 전반적인 시장 침체 속에서의 위치 또한 동시에 고려해야 합니다.",
       "check_points": [
-        "미국 고용 지표 결과와 연방준비제도(Fed)의 향후 통화정책 방향",
-        "일본은행(BOJ)의 정책 변화가 글로벌 금융 시장에 미치는 영향",
-        "미국 정부의 반도체 산업 지원 정책 구체화 및 AI 협력 진행 상황"
+        "원화 강세 및 외국인 수급 지속 여부",
+        "글로벌 반도체 업황 및 수요 전망",
+        "주요 경쟁사 실적 발표 동향"
       ],
       "related_news_titles": [
-        "월스트리트, 주요 고용 지표 발표 앞두고 상승 마감... 빅테크 상승세 시험대 오를까",
-        "USD/JPY, 나스닥 전망: 시장의 관심, 연준에서 일본은행(BOJ)으로 이동",
-        "글로벌파운드리, 3억 달러 지원금 및 美 정부 지분 1% 확보로 실적 주목"
+        "바닥 다진 코스피 반등 기대감…원화 가치, 금융위기 이후 최대 상승",
+        "불안정한 증시... 상장 종목 70%가 마이너스 수익률 기록"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "자동차",
       "opinion": "관심",
-      "reason": "주요 수출 기업의 달러 매도로 인한 환율 안정화 수혜가 예상되며, 미국 고용 지표에 따른 글로벌 반도체 업황의 변동성과 정부 주도의 AI 협력 및 반도체 공급망 강화 정책에 따른 장기적인 성장 동력 확보 가능성을 주목해야 합니다.",
+      "reason": "코스피 반등 기대감과 원화 강세는 외국인 수급 개선에 기여하여 국내 수출 기업인 현대차에 긍정적인 흐름을 가져올 수 있기 때문입니다.",
       "check_points": [
-        "원/달러 환율의 추가적인 안정화 추이 및 수출 실적에 미치는 영향",
-        "미국 고용 지표 발표 이후 글로벌 반도체 수요 및 투자 심리 변화",
-        "정부의 AI 협력 및 첨단 산업 지원 정책의 구체적인 내용과 실질적 수혜 여부"
+        "글로벌 판매량 및 신차 출시 성과",
+        "환율 변동이 수출 경쟁력에 미치는 영향",
+        "전기차 전환 전략 및 경쟁 심화 정도"
       ],
       "related_news_titles": [
-        "“1600원 위기 한 달 만에 뚝”…SK하이닉스·조선사 달러 매도에 환율 분위기 반전",
-        "월스트리트, 주요 고용 지표 발표 앞두고 상승 마감... 빅테크 상승세 시험대 오를까",
-        "이대통령, 美·남미 '실용외교'로 AI 협력 및 핵심광물 공급망 확대 추진"
+        "바닥 다진 코스피 반등 기대감…원화 가치, 금융위기 이후 최대 상승"
       ]
     },
     {
       "rank": 3,
-      "name": "HD현대중공업",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "조선",
-      "opinion": "관심",
-      "reason": "대규모 달러 매도 주체 중 하나로 지목되며 원/달러 환율 안정화에 기여함과 동시에 직접적인 환차익 및 사업 환경 개선 기대를 받고 있습니다. 전반적인 수출 환경 변화에 민감하게 반응할 수 있는 업종입니다.",
+      "sector": "에너지",
+      "opinion": "주의",
+      "reason": "유가 101달러 돌파는 고유가발 인플레이션과 경기 둔화 우려를 심화시켜 글로벌 증시 전반에 하방 압력을 가하고 있으며, 에너지 관련 종목의 투자 심리에 부정적인 영향을 미칠 수 있기 때문입니다.",
       "check_points": [
-        "원/달러 환율의 안정화 추이 지속 여부 및 실제 실적에 반영되는 시점",
-        "글로벌 해운 시황 및 신조선가 동향",
-        "수주잔고 및 추가 수주 소식"
+        "국제 유가(WTI, 브렌트유) 변동성",
+        "정제 마진 추이 및 석유화학 제품 수요",
+        "글로벌 경기 둔화에 따른 에너지 수요 변화"
       ],
       "related_news_titles": [
-        "“1600원 위기 한 달 만에 뚝”…SK하이닉스·조선사 달러 매도에 환율 분위기 반전"
+        "유가 101달러 돌파에 미국 증시 급락: 다우, 나스닥 500~600포인트 하락; 기술주 부진"
       ]
     },
     {
       "rank": 4,
-      "name": "포스코퓨처엠",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "2차전지 소재",
-      "opinion": "관심",
-      "reason": "정부의 '실용외교'를 통한 핵심광물 공급망 확대 추진은 2차전지 소재 산업의 안정적인 원료 확보에 긍정적인 영향을 미칠 수 있으며, 이는 장기적인 성장 동력과 경쟁력 강화에 기여할 것으로 기대됩니다.",
+      "sector": "증권",
+      "opinion": "주의",
+      "reason": "연준의 이례적인 금리 결정과 불안정한 증시 상황은 시장의 불확실성을 높여 증권 업종 전반에 투자 리스크를 가중시키고 있기 때문입니다.",
       "check_points": [
-        "정부의 핵심광물 공급망 확보 관련 구체적인 협력 성과 및 정책 지원",
-        "2차전지 소재 시장의 전반적인 수요 및 가격 동향",
-        "주요 고객사와의 공급 계약 및 생산 능력 확대 계획"
+        "미국 및 한국의 금리 인상 기조",
+        "증시 거래대금 및 투자심리 동향",
+        "시장 변동성 확대에 따른 잠재 리스크"
       ],
       "related_news_titles": [
-        "이대통령, 美·남미 '실용외교'로 AI 협력 및 핵심광물 공급망 확대 추진"
+        "연준의 최근 금리 결정, 10년 만의 이례적 조치에 월스트리트 우려",
+        "불안정한 증시... 상장 종목 70%가 마이너스 수익률 기록"
       ]
     }
   ],
