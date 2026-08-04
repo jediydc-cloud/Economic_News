@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04 07:59",
-  "analysis_date": "2026-08-04",
+  "generated_at": "2026-08-05 08:05",
+  "analysis_date": "2026-08-05",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 증시는 이란 협상 낙관론에 힘입어 랠리를 보였으나, 연준의 전례 없는 조치에 대한 경계심도 함께 작용하고 있습니다. 국내는 AI 및 반도체 산업의 경쟁력 강화와 공급망 안정화에 긍정적인 신호가 감지됩니다.",
-    "국내거시경제": "한미 양국은 '경제안보가 곧 국가안보'라는 기조 하에 AI, 조선, 반도체 등 핵심 산업 분야에서 협력을 확대해야 한다는 의견이 제시되었습니다. 또한, 글로벌 공급망 불안정 속에서도 한국은 피지컬 AI 핵심 밸류체인에서 비교적 안정적인 위치를 확보하고 있습니다.",
-    "글로벌경제": "이란 핵 협상에 대한 낙관적인 전망이 유가 안정화와 지정학적 불확실성 완화 기대를 높이며 월스트리트 랠리를 이끌었습니다. 한편, 연방준비제도(Fed)가 56년 만에 특정 정책 조치를 단행하여 향후 통화 정책 방향에 대한 면밀한 분석이 필요합니다.",
-    "증시금리": "이란 협상 낙관론으로 다우 지수가 사상 최고치를 경신하는 등 미국 증시가 강세를 보이며 8월을 시작했습니다. 그러나 연준의 전례 없는 조치는 금리, 유동성 등 전반적인 시장 환경에 중대한 변화를 가져올 수 있어 투자 시 주의가 요구됩니다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "온세미(onsemi)는 2026년 2분기 실적 발표에서 마진 확대와 AI 데이터센터 매출 2배 증가를 기록하며 AI 및 데이터센터 부문의 강력한 성장세를 입증했습니다. 국내에서는 한미 간 AI, 반도체, 조선 분야 협력 확대 논의와 함께 피지컬 AI 핵심 밸류체인에서의 한국 기업들의 경쟁 우위가 주목받고 있습니다.",
-    "오늘의투자시사점": "AI 및 반도체 관련 산업은 글로벌 성장 모멘텀과 국내 정책 지원으로 긍정적인 투자 기회를 제공할 수 있습니다. 이란 협상 진전으로 인한 유가 안정화는 에너지 비용 부담을 줄여 전반적인 기업 실적에 긍정적일 수 있습니다. 다만, 연준의 전례 없는 조치에 따른 시장 유동성 및 금리 변동성에 대비하는 신중한 접근이 필요합니다.",
-    "오늘의한줄": "이란 협상 낙관론이 증시 랠리를 이끌었으나 연준의 이례적 조치와 AI 산업의 성장에 주목하며 신중한 투자 전략이 필요한 하루입니다."
+    "총평": "미국 증시가 AI 실적 호조와 지정학적 긴장 완화에 힘입어 사상 최고치를 경신하며 긍정적인 투자심리가 형성되었습니다. 국내 증시에도 긍정적 영향이 예상되나, 미일 엔저 공조 가능성과 반도체 업종 내 차별화에 대한 세밀한 분석이 필요합니다.",
+    "국내거시경제": "미국과 일본 간 '엔저 공조' 가능성이 제기되며 국내 환율 변동성 확대 및 일부 국내 기업의 수출 경쟁력 약화 우려가 커지고 있습니다. 엔화 약세가 장기화될 경우 국내 수출입 환경에 미칠 영향을 주시해야 합니다.",
+    "글로벌경제": "AI 관련 기업들의 견조한 실적과 중동 지역의 지정학적 긴장 완화로 글로벌 증시는 긍정적인 흐름을 보였습니다. 유가 급락은 인플레이션 압력을 완화하여 향후 금리 인하 기대감을 높일 수 있습니다.",
+    "증시금리": "미국 다우 및 S&P 500 지수가 AI 실적 호조와 지정학적 긴장 완화에 힘입어 사상 최고치를 경신했습니다. 이는 글로벌 투자심리 개선으로 이어져 국내 증시에도 긍정적인 영향을 줄 것으로 예상됩니다. 유가 급락은 시장에 긍정적으로 작용할 수 있습니다.",
+    "부동산정책": "관련 뉴스 없음.",
+    "기업산업": "글로벌 반도체 기업 타워 세미컨덕터가 실리콘 포토닉스 부문의 고성장과 함께 기록적인 매출을 달성하며 AI 시대 핵심 기술의 중요성을 부각했습니다. 국내 선물 시장에서는 삼성전자의 약세와 SK하이닉스의 강세가 뚜렷, 반도체 업종 내 순환매와 기업별 차별화가 관찰됩니다.",
+    "오늘의투자시사점": "엔화 약세에 따른 국내 수출 기업의 경쟁력 변화를 주시하고, 반도체 업종 내에서는 각 기업의 기술 경쟁력과 사업 포트폴리오를 면밀히 분석해야 합니다. AI 시대 핵심 기술인 실리콘 포토닉스 관련 국내 기업에도 관심을 가질 필요가 있습니다.",
+    "오늘의한줄": "글로벌 증시의 AI 랠리와 지정학적 긴장 완화가 긍정적이지만, 국내는 엔저 우려와 반도체 업종 내 차별화에 주목하며 신중한 접근이 필요한 하루입니다."
   },
   "top_news": [
     {
@@ -28,36 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준이 56년 만에 전례 없는 조치를 취했으며, 이는 주식 시장에 중대한 영향을 미칠 것입니다.",
-      "display_title": "연준이 56년 만에 전례 없는 조치를 취했으며, 이는 주식 시장에 중대한 영향을 미칠 것입니다.",
-      "original_title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - The Motley Fool",
+      "title": "다우 및 S&P 500, AI 관련 실적 및 중동 협상 기대감에 사상 최고치 마감",
+      "display_title": "다우 및 S&P 500, AI 관련 실적 및 중동 협상 기대감에 사상 최고치 마감",
+      "original_title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters",
       "summary": [
-        "핵심사실: 연방준비제도(Fed)가 56년 만에 처음으로 특정 정책 조치를 단행했습니다.",
-        "배경·맥락: 이례적인 연준의 결정은 현재의 경제 상황과 향후 통화 정책 방향을 반영합니다.",
-        "투자 시사점: 연준의 조치는 금리, 유동성, 기업 이익 등 전반적인 주식 시장 환경에 큰 변화를 가져올 수 있습니다."
+        "다우존스와 S&P 500 지수가 AI 관련 기업 실적 호조와 중동 협상 기대로 사상 최고치를 기록했다.",
+        "기술 기업들의 견조한 AI 관련 성과가 시장을 견인했으며, 중동 지역의 지정학적 위험 완화 기대감도 긍정적으로 작용했다.",
+        "AI 산업의 지속적인 성장이 기술주 강세를 이끌 수 있으며, 중동 정세 안정은 유가 등 원자재 시장에 영향을 줄 수 있다."
       ],
-      "summary_text": "핵심사실: 연방준비제도(Fed)가 56년 만에 처음으로 특정 정책 조치를 단행했습니다. 배경·맥락: 이례적인 연준의 결정은 현재의 경제 상황과 향후 통화 정책 방향을 반영합니다. 투자 시사점: 연준의 조치는 금리, 유동성, 기업 이익 등 전반적인 주식 시장 환경에 큰 변화를 가져올 수 있습니다.",
-      "description": "연방준비제도(Fed)가 56년 만에 전례 없는 조치를 취했으며, 이는 주식 시장에 중대한 영향을 미칠 것으로 보입니다.",
+      "summary_text": "다우존스와 S&P 500 지수가 AI 관련 기업 실적 호조와 중동 협상 기대로 사상 최고치를 기록했다. 기술 기업들의 견조한 AI 관련 성과가 시장을 견인했으며, 중동 지역의 지정학적 위험 완화 기대감도 긍정적으로 작용했다. AI 산업의 지속적인 성장이 기술주 강세를 이끌 수 있으며, 중동 정세 안정은 유가 등 원자재 시장에 영향을 줄 수 있다.",
+      "description": "다우와 S&P 500 지수가 AI 관련 기업들의 실적 호조와 중동 지역 평화 협상에 대한 기대로 사상 최고치를 기록하며 마감했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융",
+      "market_impact": "긍정",
+      "related_sector": "인공지능, 반도체",
       "related_stocks": [
-        "KB금융",
-        "신한지주"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준의 이례적인 정책 변화는 시장 변동성을 높이고 투자 전략 재평가를 요구하기 때문입니다.",
-      "key_signal": "연준이 취한 구체적인 조치가 무엇인지, 그리고 그에 대한 시장과 전문가들의 해석을 면밀히 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 관련 기업들의 실적 호조는 기술주 투자 심리를 강화하며, 중동 정세 안정은 글로벌 경제 전반에 긍정적인 영향을 미칠 수 있습니다.",
+      "key_signal": "AI 관련 기업들의 다음 분기 실적 전망과 중동 협상 진행 상황을 지속적으로 확인해야 합니다.",
       "keywords": [
-        "연준",
-        "금리",
-        "통화정책",
-        "주식시장",
-        "경제정책"
+        "AI 실적",
+        "중동 협상",
+        "미국 증시",
+        "사상 최고",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNi1kSGZURFplYWNQTEN5NjVqZVRCOWd2eDZpREE3eThhNXgxaWV4S3Y5THI4WmNhYU5Rd0h4YzRjbFZEY19BTVBFaWtqb0dEejFhb240X0FUam1GLURQam5WREV5NVVGanJraVYyeWVrNGlVMnhxNGVUMElQR0VlSzZfVHpWWVQtWTczYzhJQlhvTGhLRGVF?oc=5",
-      "published": "2026-08-03 18:06",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
+      "published": "2026-08-05 05:28",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -69,36 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이란 협상 낙관론에 월스트리트 랠리, 다우 지수 사상 최고치 마감",
-      "display_title": "이란 협상 낙관론에 월스트리트 랠리, 다우 지수 사상 최고치 마감",
-      "original_title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+      "title": "미국 증시: AI 실적 호조에 다우 및 S&P 500 사상 최고치 마감, 유가는 급락",
+      "display_title": "미국 증시: AI 실적 호조에 다우 및 S&P 500 사상 최고치 마감, 유가는 급락",
+      "original_title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble - The Economic Times",
       "summary": [
-        "핵심사실: 이란 핵 협상에 대한 낙관적인 전망으로 미국 증시가 랠리를 펼치며 다우 지수가 사상 최고치를 경신했습니다.",
-        "배경·맥락: 이란과의 관계 개선은 글로벌 지정학적 불확실성을 완화하고 원유 시장에 긍정적인 영향을 미칠 수 있습니다.",
-        "투자 시사점: 국제 정세 완화는 투자 심리를 개선하고 에너지 관련 비용 부담을 줄여 전반적인 경제 활동에 긍정적입니다."
+        "다우와 S&P 500 지수가 AI 기업 실적 호조에 힘입어 사상 최고치를 경신한 반면, 유가는 급락했다.",
+        "AI 기술 관련 기업들의 견고한 성장세가 시장을 이끌었으며, 유가 하락은 글로벌 경기 둔화 우려 혹은 공급 증가 가능성을 시사할 수 있다.",
+        "기술주 중심의 시장 강세가 이어질 수 있으며, 유가 하락은 인플레이션 압력을 완화하여 금리 인하 기대감을 높일 수 있다."
       ],
-      "summary_text": "핵심사실: 이란 핵 협상에 대한 낙관적인 전망으로 미국 증시가 랠리를 펼치며 다우 지수가 사상 최고치를 경신했습니다. 배경·맥락: 이란과의 관계 개선은 글로벌 지정학적 불확실성을 완화하고 원유 시장에 긍정적인 영향을 미칠 수 있습니다. 투자 시사점: 국제 정세 완화는 투자 심리를 개선하고 에너지 관련 비용 부담을 줄여 전반적인 경제 활동에 긍정적입니다.",
-      "description": "이란 핵 협상에 대한 낙관론이 확산되며 월스트리트 증시가 강세를 보였고, 다우 지수는 사상 최고치를 기록했습니다.",
+      "summary_text": "다우와 S&P 500 지수가 AI 기업 실적 호조에 힘입어 사상 최고치를 경신한 반면, 유가는 급락했다. AI 기술 관련 기업들의 견고한 성장세가 시장을 이끌었으며, 유가 하락은 글로벌 경기 둔화 우려 혹은 공급 증가 가능성을 시사할 수 있다. 기술주 중심의 시장 강세가 이어질 수 있으며, 유가 하락은 인플레이션 압력을 완화하여 금리 인하 기대감을 높일 수 있다.",
+      "description": "미국 증시에서 AI 관련 기업들의 인상적인 실적 발표로 다우와 S&P 500 지수가 사상 최고치를 기록하며 마감했으며, 유가는 급락했습니다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "에너지",
+      "related_sector": "인공지능, 반도체, 에너지",
       "related_stocks": [
         "SK이노베이션",
-        "S-Oil"
+        "S-Oil",
+        "한국전력"
       ],
       "investment_view": "관심",
-      "investment_reason": "지정학적 긴장 완화는 글로벌 유가 안정과 투자 심리 개선으로 이어져 증시 전반에 긍정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "이란 핵 협상의 구체적인 진행 상황과 글로벌 유가 변동을 지속적으로 확인해야 합니다.",
+      "investment_reason": "AI 산업의 강력한 성장과 유가 하락으로 인한 인플레이션 압력 완화는 투자 환경에 긍정적인 변화를 가져올 수 있습니다.",
+      "key_signal": "AI 관련 기업들의 실적 모멘텀이 지속되는지, 그리고 유가 하락이 글로벌 경제에 미치는 영향을 주시해야 합니다.",
       "keywords": [
-        "월스트리트",
-        "이란",
-        "유가",
-        "증시",
-        "지정학"
+        "AI 실적",
+        "유가 급락",
+        "미국 증시",
+        "사상 최고",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
-      "published": "2026-08-04 05:26",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMnVwZzJNLVZqdklQRVVvUDRvSDVjZ1ZSVXc5UUdvMFMwd2FqMHE3NV9PNEtUUGVfMW1xWnlORElZMTlZVkpCVkJ6MEJ6eGlZcG1TLW5CS1V2VXk1Z29Sb0lER0xaeTNkczlNbjIyVGZYVXBrSkNBNFB0RHFUZFJHazNXOEw3NWUyeUJNNm5TbmhqSEFQNHFyQjJfZTduaWs4WUNucDBmQlg5Y2lqN0dtTHloWVV0bmlfODZiUmVjMVBNZzZ4d3h6MXpRR3dvVWJmTXlBQWZsb0h4UTVZM1ZYbDNpakJESU1XTF9sQk5iMnRDaVZtbUVqYjFLRjhfMHZua2pn0gGIAkFVX3lxTE10OE8wWFo1Rkp2cjI4WG5GUU1rN0dySjV6dDMtSXBUR2R4OUJNQUpIbjJuRkczbTE4SGVkbnVscFZLT21GcFU5UDNMUFFySlEzaF9CaW94dExuMEdiaWNzZmxjUjdtTHFOWUpSWmNtNzhUOThLQncteXhndWdMNndTUXBITmU1THdwQnh5SHVBakg4WmVncWVqaDNLMUZIamR1enZ1LUY2UDJCRHVlRlZldk1BSlhuTVJTUUZaZ1BSV0twQUdpWkJxVzMtS0Q0TFRaQjlTdHh3a3QtaWRlLUNDWUtnWE5WaWdRRXZNT0JXY3h3aW44SDRkM0p2ekJ0ODJEOXdsdVZlTQ?oc=5",
+      "published": "2026-08-05 05:09",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -107,84 +109,84 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "온세미(onsemi) 2026년 2분기 실적 발표: 마진 확대, AI 데이터센터 매출 2배 증가",
-      "display_title": "온세미(onsemi) 2026년 2분기 실적 발표: 마진 확대, AI 데이터센터 매출 2배 증가",
-      "original_title": "onsemi Q2 2026 slides: margins expand, AI data center revenue doubles - Investing.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[사설] 미·일 '엔저 공조', 환율 및 국내 증시에 미칠 영향 예의 주시해야",
+      "display_title": "[사설] 미·일 '엔저 공조', 환율 및 국내 증시에 미칠 영향 예의 주시해야",
+      "original_title": "[사설] 미·일 '엔저 공조'... 환율, 증시에 미칠 영향 예의 주시해야 - edaily.co.kr",
       "summary": [
-        "핵심사실: 온세미(onsemi)가 2026년 2분기에 마진을 확대하고 AI 데이터센터 매출을 두 배로 늘리는 등 견조한 실적을 발표했습니다.",
-        "배경·맥락: 이는 AI 및 데이터센터 부문의 강력한 성장세와 함께 전력반도체 등 온세미의 핵심 기술 경쟁력을 반영합니다.",
-        "투자 시사점: AI 데이터센터 시장의 폭발적인 성장과 고마진 제품 확대를 통해 온세미와 관련 반도체 기업들의 실적 개선이 기대됩니다."
+        "미국과 일본의 '엔저 공조' 가능성이 제기되며, 이는 환율과 국내 증시에 상당한 영향을 미칠 것으로 예상된다.",
+        "엔화 약세는 일본의 수출 경쟁력을 강화하고 국내 기업들에게는 부담으로 작용할 수 있으며, 환율 변동성이 커질 경우 외국인 투자자들의 투자 심리에 영향을 줄 수 있다.",
+        "엔화 약세로 인한 수출 경쟁력 변화에 민감한 국내 업종 및 기업들에 대한 분석이 필요하다."
       ],
-      "summary_text": "핵심사실: 온세미(onsemi)가 2026년 2분기에 마진을 확대하고 AI 데이터센터 매출을 두 배로 늘리는 등 견조한 실적을 발표했습니다. 배경·맥락: 이는 AI 및 데이터센터 부문의 강력한 성장세와 함께 전력반도체 등 온세미의 핵심 기술 경쟁력을 반영합니다. 투자 시사점: AI 데이터센터 시장의 폭발적인 성장과 고마진 제품 확대를 통해 온세미와 관련 반도체 기업들의 실적 개선이 기대됩니다.",
-      "description": "온세미컨덕터(onsemi)의 2026년 2분기 실적 발표에서 마진이 확대되었고, 특히 AI 데이터센터 관련 매출이 두 배 증가한 것으로 나타났습니다.",
-      "category": "기업·산업",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체",
+      "summary_text": "미국과 일본의 '엔저 공조' 가능성이 제기되며, 이는 환율과 국내 증시에 상당한 영향을 미칠 것으로 예상된다. 엔화 약세는 일본의 수출 경쟁력을 강화하고 국내 기업들에게는 부담으로 작용할 수 있으며, 환율 변동성이 커질 경우 외국인 투자자들의 투자 심리에 영향을 줄 수 있다. 엔화 약세로 인한 수출 경쟁력 변화에 민감한 국내 업종 및 기업들에 대한 분석이 필요하다.",
+      "description": "미일 간 '엔저 공조' 움직임에 따라 환율 변동성이 커질 것으로 예상되며, 이는 국내 증시에 복합적인 영향을 미칠 수 있어 주의 깊게 지켜봐야 합니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "자동차, 조선, 화학",
       "related_stocks": [
-        "SK하이닉스",
-        "한미반도체",
-        "이수페타시스"
+        "현대차",
+        "기아",
+        "LG화학"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 데이터센터 수요 급증에 따른 고성장 수혜가 예상되는 반도체 산업의 투자 기회를 시사하기 때문입니다.",
-      "key_signal": "AI 관련 반도체 기업들의 실적 발표와 데이터센터 투자 동향을 면밀히 분석해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미일 엔저 공조는 국내 수출 기업들의 경쟁 환경에 직접적인 영향을 미쳐 실적 및 주가에 변동성을 초래할 수 있으므로 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "미일 양국의 환율 관련 발언 및 정책 변화, 그리고 이에 따른 원/엔 환율의 실제 움직임을 면밀히 주시해야 합니다.",
       "keywords": [
-        "온세미",
-        "반도체",
-        "AI",
-        "데이터센터",
-        "실적"
+        "엔저 공조",
+        "환율",
+        "국내 증시",
+        "수출 경쟁력",
+        "거시경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWFBR2VFdEp1WTFuOVJwbGZONHRRT1MyelFXRVBjTndKOGhHRWtnQXZCdUJ2X2ZqU0phLXgwek1uajl2T2VQYkNhaHZlOUtBd21HUnc0eUh1QU9wUllQak5IWGg4aEtMTDlzLV9qT0c2ZGpoSkpxVW5PS1hQU1F4ZzRkYmJHT2d2aThaR1ZjYUYwZ3NydzFQMTJrRFdMUFZwelJRRW5hZThPNHFBX2pncDZTS0k2d093NXVNSl9reS0tZw?oc=5",
-      "published": "2026-08-04 07:43",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0lleDhKaGlqYUsybWhVX3p4YXFBcVliTjFyRVlpWFRKdWwtZVctYlpwa2pOMVNMQk5pV0FNTGdvRXpHOUtBOFVpNUpUYk5XM3Rra1ZXeU9oUUJYNmpOdXJiSFA3MTUxX2xWYk1TTHFIaUVyaTgwLXVZZmNWV3FRSQ?oc=5",
+      "published": "2026-08-05 05:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "\"경제안보가 곧 국가안보\"... 한미, AI·조선·반도체 협력 확대해야",
-      "display_title": "\"경제안보가 곧 국가안보\"... 한미, AI·조선·반도체 협력 확대해야",
-      "original_title": "\"경제안보가 곧 국가안보\"... 한미, AI·조선·반도체 협력 확대해야 | - investnews.co.kr",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "8월 4일 뉴욕 증시, 지정학적 긴장 완화에 S&P 500 및 다우 지수 사상 최고치 경신",
+      "display_title": "8월 4일 뉴욕 증시, 지정학적 긴장 완화에 S&P 500 및 다우 지수 사상 최고치 경신",
+      "original_title": "Stock Market Today, Aug. 4: S&P 500 and Dow Set New Highs on Easing Geopolitical Tensions - The Motley Fool",
       "summary": [
-        "핵심사실: 한미 양국이 '경제 안보=국가 안보'라는 기조 하에 AI, 조선, 반도체 등 핵심 산업 분야에서의 협력을 강화해야 한다는 의견이 제시되었습니다.",
-        "배경·맥락: 글로벌 공급망 재편 및 기술 패권 경쟁 심화 속에서 주요 동맹국 간 기술 협력의 중요성이 커지고 있습니다.",
-        "투자 시사점: 한미 협력 강화는 해당 산업의 경쟁력을 높이고 안정적인 성장을 지원하며 관련 기업들에게 긍정적인 영향을 미칠 수 있습니다."
+        "8월 4일 미국 증시에서 S&P 500과 다우존스 지수가 사상 최고치를 경신했다.",
+        "지정학적 긴장이 완화된 것이 주요 상승 요인으로 작용했다.",
+        "글로벌 투자심리 개선으로 국내 증시에도 긍정적인 영향이 예상된다."
       ],
-      "summary_text": "핵심사실: 한미 양국이 '경제 안보=국가 안보'라는 기조 하에 AI, 조선, 반도체 등 핵심 산업 분야에서의 협력을 강화해야 한다는 의견이 제시되었습니다. 배경·맥락: 글로벌 공급망 재편 및 기술 패권 경쟁 심화 속에서 주요 동맹국 간 기술 협력의 중요성이 커지고 있습니다. 투자 시사점: 한미 협력 강화는 해당 산업의 경쟁력을 높이고 안정적인 성장을 지원하며 관련 기업들에게 긍정적인 영향을 미칠 수 있습니다.",
-      "description": "\"경제안보가 곧 국가안보\"라는 인식 아래 한국과 미국이 AI, 조선, 반도체 분야에서의 협력을 확대해야 한다는 주장이 제기되었습니다.",
-      "category": "기업·산업",
+      "summary_text": "8월 4일 미국 증시에서 S&P 500과 다우존스 지수가 사상 최고치를 경신했다. 지정학적 긴장이 완화된 것이 주요 상승 요인으로 작용했다. 글로벌 투자심리 개선으로 국내 증시에도 긍정적인 영향이 예상된다.",
+      "description": "8월 4일 뉴욕 증시에서 S&P 500과 다우 지수가 지정학적 긴장 완화에 힘입어 사상 최고치를 기록했습니다.",
+      "category": "증시·금리",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "반도체",
+      "related_sector": "증권",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "HD현대중공업"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "국가 간 전략적 협력이 특정 산업의 경쟁력 강화와 장기적인 성장 동력으로 작용할 수 있기 때문입니다.",
-      "key_signal": "한미 간 구체적인 협력 프로젝트나 정책 발표 여부를 주시하며 관련 산업의 수혜 기업을 선별해야 합니다.",
+      "investment_reason": "글로벌 증시 강세는 국내 투자 심리에 긍정적 영향을 미치고 위험자산 선호도를 높일 수 있기 때문에 주목해야 합니다.",
+      "key_signal": "지정학적 긴장 완화 분위기가 지속되는지, 그리고 이것이 다른 시장에 미치는 파급 효과를 주시해야 합니다.",
       "keywords": [
-        "경제안보",
-        "한미협력",
-        "AI",
-        "반도체",
-        "조선"
+        "미국 증시",
+        "사상 최고",
+        "지정학적 긴장",
+        "S&P 500",
+        "다우"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zVmRtaFZ2dmhyZ0xJT2FCR2dHcU85TW1KQjVWOTMxWlZDT1IzWmxnUlB3NnJjazQ4ZGVKMjZmSnM3VE1qR3RCaUE1NUg1alpkWE9zZExfejVVakltMzd0VDAyWWdLNkFRNzVfWUUyYXRJdm9EaVE?oc=5",
-      "published": "2026-08-04 03:20",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVmI3WTM5eUhSbjFucEdNUmpRMFdxd0lQSFc5T0hsdWdtdE5sU0M2UWI0Mk9yVjlLMlR2VUdsbllCb1lfOHlnaUdTRlZxTUFEUlJ0cVhQbXJBXzFWUnFZNUxyT2E0ZUhhOVVWUzVxZk00cWpyRDZnUDZ3Tm14OVFGRERpei16WV8yd0JnRTdDSG9BUnJQdllEamNiZUx0aEFUMnRISDVmYnIzWWg1VG13VWo0NXkyTXhXbHQydVZOakVpNWNpVUVUVzdRb285cmg0eGZkaWxyaFZicExSYUo0bTNCNV9QUQ?oc=5",
+      "published": "2026-08-05 06:19",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -194,36 +196,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이란 협상 낙관론으로 8월 시작하며 월스트리트 랠리",
-      "display_title": "이란 협상 낙관론으로 8월 시작하며 월스트리트 랠리",
-      "original_title": "Wall Street rallies to kick off August on Iran talks optimism - KSL.com",
+      "title": "[TSEM 2026년 2분기 어닝콜] 타워 세미컨덕터, 기록적인 4억 6천만 달러 매출 달성, 실리콘 포토닉스 270% 성장으로 연간 매출 20억 달러 상회 전망",
+      "display_title": "[TSEM 2026년 2분기 어닝콜] 타워 세미컨덕터, 기록적인 4억 6천만 달러 매출 달성, 실리콘 포토닉스 270% 성장으로 연간 매출 20억 달러 상회 전망",
+      "original_title": "[TSEM Q2 2026 Earnings Call] Tower Semiconductor Posts Record $460M Quarter, Guides Above $2B Run Rate as Silicon Photonics Jumps 270% - finance.biggo.com",
       "summary": [
-        "핵심사실: 이란 핵 협상에 대한 긍정적인 기대감으로 8월 첫 거래일에 월스트리트 증시가 랠리를 기록했습니다.",
-        "배경·맥락: 이란 관련 지정학적 리스크 완화는 유가 안정화와 글로벌 경제 불확실성 감소에 기여할 수 있습니다.",
-        "투자 시사점: 국제 정세 완화에 따른 유가 하향 안정화는 기업 비용 절감 및 소비 심리 개선으로 이어져 증시 전반에 긍정적인 요인입니다."
+        "타워 세미컨덕터가 2026년 2분기에 4.6억 달러의 기록적인 매출을 달성하고, 실리콘 포토닉스 부문이 270% 성장하며 연간 매출 20억 달러 이상을 예상했다.",
+        "실리콘 포토닉스 기술은 데이터센터, 통신 등 고속 데이터 전송이 필요한 분야에서 핵심적인 역할을 하며, AI 시대에 더욱 중요성이 부각되고 있다.",
+        "실리콘 포토닉스 기술을 보유하거나 관련 투자를 진행하는 국내 반도체 기업들에 대한 관심이 필요하다."
       ],
-      "summary_text": "핵심사실: 이란 핵 협상에 대한 긍정적인 기대감으로 8월 첫 거래일에 월스트리트 증시가 랠리를 기록했습니다. 배경·맥락: 이란 관련 지정학적 리스크 완화는 유가 안정화와 글로벌 경제 불확실성 감소에 기여할 수 있습니다. 투자 시사점: 국제 정세 완화에 따른 유가 하향 안정화는 기업 비용 절감 및 소비 심리 개선으로 이어져 증시 전반에 긍정적인 요인입니다.",
-      "description": "이란 핵 협상에 대한 낙관론이 확산되며 8월을 시작하는 월스트리트 증시가 강세를 보였습니다.",
-      "category": "증시·금리",
-      "importance": 7,
+      "summary_text": "타워 세미컨덕터가 2026년 2분기에 4.6억 달러의 기록적인 매출을 달성하고, 실리콘 포토닉스 부문이 270% 성장하며 연간 매출 20억 달러 이상을 예상했다. 실리콘 포토닉스 기술은 데이터센터, 통신 등 고속 데이터 전송이 필요한 분야에서 핵심적인 역할을 하며, AI 시대에 더욱 중요성이 부각되고 있다. 실리콘 포토닉스 기술을 보유하거나 관련 투자를 진행하는 국내 반도체 기업들에 대한 관심이 필요하다.",
+      "description": "타워 세미컨덕터가 2026년 2분기 어닝콜에서 기록적인 4억 6천만 달러 매출을 발표했으며, 특히 실리콘 포토닉스 부문이 270% 성장하여 연간 매출이 20억 달러를 넘어설 것으로 전망했습니다.",
+      "category": "기업·산업",
+      "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "경기소비재",
+      "related_sector": "반도체, 실리콘 포토닉스, 통신",
       "related_stocks": [
-        "롯데쇼핑",
-        "신세계"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "이란 협상 낙관론은 유가 안정화 기대감을 높여 전반적인 시장 심리에 긍정적으로 작용할 수 있기 때문입니다.",
-      "key_signal": "이란 핵 협상 진전 여부와 국제 유가의 추가적인 움직임을 주목해야 합니다.",
+      "investment_reason": "실리콘 포토닉스의 폭발적 성장은 AI 및 데이터센터 인프라 확장에 필수적인 기술로, 관련 기술을 보유한 기업들의 성장 잠재력을 높입니다.",
+      "key_signal": "실리콘 포토닉스 기술의 상용화 및 적용 범위 확장에 대한 추가적인 소식과 관련 국내 기업들의 기술 개발 현황을 모니터링해야 합니다.",
       "keywords": [
-        "월스트리트",
-        "이란",
-        "유가",
-        "증시",
-        "투자심리"
+        "타워 세미컨덕터",
+        "실리콘 포토닉스",
+        "반도체",
+        "어닝콜",
+        "AI"
       ],
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEV2RnhSRGp1Y3Z2ODYzU3d3Qkx4RFdYYmJUVlZQVC10WDJhMERCLTJtbzQyNTZXc09QdEF2TDRfNnJkdXNrSl9JalpIRmsxNlZIWXd6ejBrTklEZWJkVGZKUmVIMklwN1g3cllxYU90LU90cW51ZVRCZURSZlB1TXVhX2ZDU3IwWVhNMWxIOVlKS0s3MHdIN245c2RCWE0?oc=5",
-      "published": "2026-08-04 04:09",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9acUpwbjBPeE1sYzFCbWo4VmRwUUdfbU9ybG5rODdKNUdoVXJYOE9CLVg3Qll2RVllS0JQODlUckJmZ1ByemZNemZ6eWkwbVN4dnBoYlhUNkNIU2dGbEE?oc=5",
+      "published": "2026-08-05 01:24",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -235,37 +237,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "머스크 \"1만 개 부품 공급망 부족\"... 한국은 걱정 없다고?[피지컬 AI 핵심 밸류체인]",
-      "display_title": "머스크 \"1만 개 부품 공급망 부족\"... 한국은 걱정 없다고?[피지컬 AI 핵심 밸류체인]",
-      "original_title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심 밸류체인] - v.daum.net",
+      "title": "[코스피 지수선물 옵션] 삼성전자 약세, SK하이닉스 강세…선물시장 업종별 순환매 뚜렷",
+      "display_title": "[코스피 지수선물 옵션] 삼성전자 약세, SK하이닉스 강세…선물시장 업종별 순환매 뚜렷",
+      "original_title": "[코스피 지수선물 옵션] 삼성전자 약세·SK하이닉스 강세…선물시장 업종별 순환매 뚜렷 - 핀포인트뉴스",
       "summary": [
-        "핵심사실: 일론 머스크가 1만 개 부품의 공급망 부족을 언급했지만, 국내 분석에 따르면 한국은 '피지컬 AI' 핵심 밸류체인에서 비교적 안정적인 위치를 점하고 있습니다.",
-        "배경·맥락: 글로벌 공급망 불안정은 여전하지만, 한국은 로봇 및 AI 관련 핵심 부품 생산 능력과 기술력을 바탕으로 리스크를 관리하고 있습니다.",
-        "투자 시사점: 공급망 리스크 속에서도 안정적인 위치를 가진 한국의 피지컬 AI 관련 기업들은 경쟁 우위를 확보하고 성장할 잠재력이 있습니다."
+        "국내 선물 시장에서 삼성전자는 약세, SK하이닉스는 강세를 보이며 반도체 업종 내에서도 차별화된 흐름과 업종별 순환매가 뚜렷했다.",
+        "특정 반도체 기업에 대한 개별적인 실적 전망이나 기술 경쟁력 우위가 투자자들의 매매 심리에 영향을 미치고 있다.",
+        "반도체 업종 내에서도 각 기업의 경쟁력과 사업 포트폴리오를 면밀히 분석하여 투자 전략을 세워야 한다."
       ],
-      "summary_text": "핵심사실: 일론 머스크가 1만 개 부품의 공급망 부족을 언급했지만, 국내 분석에 따르면 한국은 '피지컬 AI' 핵심 밸류체인에서 비교적 안정적인 위치를 점하고 있습니다. 배경·맥락: 글로벌 공급망 불안정은 여전하지만, 한국은 로봇 및 AI 관련 핵심 부품 생산 능력과 기술력을 바탕으로 리스크를 관리하고 있습니다. 투자 시사점: 공급망 리스크 속에서도 안정적인 위치를 가진 한국의 피지컬 AI 관련 기업들은 경쟁 우위를 확보하고 성장할 잠재력이 있습니다.",
-      "description": "일론 머스크가 1만 개 부품의 공급망 부족을 언급했으나, 한국은 '피지컬 AI' 핵심 밸류체인 내에서 우려가 적다는 내용입니다.",
+      "summary_text": "국내 선물 시장에서 삼성전자는 약세, SK하이닉스는 강세를 보이며 반도체 업종 내에서도 차별화된 흐름과 업종별 순환매가 뚜렷했다. 특정 반도체 기업에 대한 개별적인 실적 전망이나 기술 경쟁력 우위가 투자자들의 매매 심리에 영향을 미치고 있다. 반도체 업종 내에서도 각 기업의 경쟁력과 사업 포트폴리오를 면밀히 분석하여 투자 전략을 세워야 한다.",
+      "description": "코스피 지수선물 옵션 시장에서 삼성전자가 약세를 보인 반면 SK하이닉스는 강세를 나타내며, 선물 시장에서 업종별 순환매 현상이 뚜렷하게 관찰되었습니다.",
       "category": "기업·산업",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "로봇",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "반도체, 선물옵션",
       "related_stocks": [
-        "두산로보틱스",
-        "레인보우로보틱스",
-        "현대로템"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "글로벌 공급망 불안정 속에서 한국이 강점을 가진 피지컬 AI 핵심 밸류체인 기업들의 경쟁력과 성장 잠재력을 확인할 수 있기 때문입니다.",
-      "key_signal": "피지컬 AI 및 로봇 산업 내 한국 기업들의 핵심 부품 기술 개발 및 공급망 확보 현황을 지속적으로 모니터링해야 합니다.",
+      "investment_reason": "국내 주요 반도체 기업 간의 주가 흐름 차이는 업종 내 옥석 가리기의 필요성을 시사하며, 개별 기업의 투자 매력을 분석하는 데 중요한 단서가 됩니다.",
+      "key_signal": "삼성전자와 SK하이닉스의 개별적인 사업 부문별 실적 및 향후 전망, 그리고 반도체 업황의 세부 동향을 집중적으로 살펴봐야 합니다.",
       "keywords": [
-        "공급망",
-        "피지컬AI",
-        "로봇",
-        "한국기업",
-        "밸류체인"
+        "삼성전자",
+        "SK하이닉스",
+        "선물 시장",
+        "반도체",
+        "순환매"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EU0FqMjQ0N1NhZUNYLW1fMlhFdkk4bXV5a0pDeXU0TnJPT1lDSlFuRkNoQ0ZIRVhLNHdZOUpwU0JrVHc1cXFyb3ZnanVjUWM?oc=5",
-      "published": "2026-08-04 06:58",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04Tkt3cEpyakUtalVYM2I5bVJYSk5TeENZd0hROHJvQzJlZlB5T1ZuMW13ckZPQUdIczlOR0FTeXgyYTNSWmhPdGs0VGs2MkxCWV9iUm9vYjZ4bFMwTGk3TjZHVnI2THFLN0E4U01iMmFQb3fSAXdBVV95cUxNaXk0RW82LWRfb0NJVjU5QUxDVVBlb0RnSFhqNDFoZVozZGd3aldaYmRWRTZtUk1LZkk3Y1VCSHRpT1hMQW1XQlRPVjV2Rk51dlZsMXV6SFRzN3ZVdWYzcC1uRjlSbVR0UGduenlhQUtNY0tIcE05TQ?oc=5",
+      "published": "2026-08-04 16:41",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -276,68 +277,70 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "이수페타시스",
+      "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 온세미의 AI 데이터센터 매출 두 배 증가는 고성장 수혜가 예상되는 고다층 PCB 제조사인 이수페타시스에 긍정적인 투자 기회를 시사합니다.",
+      "reason": "AI 관련 기업들의 실적 호조 및 실리콘 포토닉스 기술의 폭발적 성장이 언급되며, 국내 반도체 산업의 핵심 기업인 삼성전자에 대한 긍정적 투자 심리가 형성될 수 있습니다. 비록 선물시장에서의 약세가 포착되기도 했으나, AI 시대의 필수 인프라 기술을 보유한 기업으로서 지속적인 관심이 필요합니다.",
       "check_points": [
-        "AI 데이터센터 투자 확대 지속 여부",
-        "고다층 PCB 신규 수주 상황",
-        "글로벌 반도체 업황 전반의 개선세"
+        "글로벌 AI 반도체 시장에서의 경쟁력 변화",
+        "실리콘 포토닉스 등 차세대 기술 개발 현황",
+        "외국인 및 기관 투자자 수급 동향"
       ],
       "related_news_titles": [
-        "온세미(onsemi) 2026년 2분기 실적 발표: 마진 확대, AI 데이터센터 매출 2배 증가",
-        "\"경제안보가 곧 국가안보\"... 한미, AI·조선·반도체 협력 확대해야"
+        "다우 및 S&P 500, AI 관련 실적 및 중동 협상 기대감에 사상 최고치 마감",
+        "[TSEM 2026년 2분기 어닝콜] 타워 세미컨덕터, 기록적인 4억 6천만 달러 매출 달성, 실리콘 포토닉스 270% 성장으로 연간 매출 20억 달러 상회 전망",
+        "[코스피 지수선물 옵션] 삼성전자 약세, SK하이닉스 강세…선물시장 업종별 순환매 뚜렷"
       ]
     },
     {
       "rank": 2,
-      "name": "두산로보틱스",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "로봇",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "머스크의 발언에서 확인된 글로벌 공급망의 중요성 속에서 한국이 강점을 가진 피지컬 AI 핵심 밸류체인 기업으로서 두산로보틱스의 경쟁력과 성장 잠재력이 부각됩니다.",
+      "reason": "타워 세미컨덕터의 실리콘 포토닉스 기술 성장은 AI 및 데이터센터 인프라 확장에 필수적인 요소로, 관련 기술을 보유한 SK하이닉스의 성장 잠재력을 높입니다. 또한, 선물시장에서 강세를 보이며 반도체 업종 내 긍정적인 흐름을 주도하고 있다는 점도 주목할 만합니다.",
       "check_points": [
-        "글로벌 협동 로봇 시장 성장률 추이",
-        "신규 고객사 확보 및 해외 시장 진출 성과",
-        "AI 기술 접목을 통한 신제품 개발 동향"
+        "고대역폭 메모리(HBM) 등 AI 반도체 시장 지배력",
+        "실리콘 포토닉스 관련 기술 개발 및 적용 계획",
+        "반도체 업황 회복 속도 및 D램 가격 추이"
       ],
       "related_news_titles": [
-        "머스크 \"1만 개 부품 공급망 부족\"... 한국은 걱정 없다고?[피지컬 AI 핵심 밸류체인]"
+        "[TSEM 2026년 2분기 어닝콜] 타워 세미컨덕터, 기록적인 4억 6천만 달러 매출 달성, 실리콘 포토닉스 270% 성장으로 연간 매출 20억 달러 상회 전망",
+        "[코스피 지수선물 옵션] 삼성전자 약세, SK하이닉스 강세…선물시장 업종별 순환매 뚜렷"
       ]
     },
     {
       "rank": 3,
-      "name": "SK이노베이션",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "에너지",
+      "sector": "인공지능",
       "opinion": "관심",
-      "reason": "이란 협상 낙관론은 지정학적 긴장 완화를 통해 글로벌 유가 안정 기대감을 높이며, 이는 SK이노베이션을 포함한 에너지 섹터 전반의 투자 심리 개선에 긍정적으로 작용할 수 있습니다.",
+      "reason": "미국 증시가 AI 관련 기업들의 실적 호조에 힘입어 사상 최고치를 경신하는 등 AI 산업에 대한 긍정적인 투자 심리가 확산되고 있습니다. 국내 대표적인 AI 기술 및 플랫폼 기업인 네이버는 이러한 글로벌 흐름 속에서 AI 관련 서비스 확장 및 신규 비즈니스 모델에 대한 기대로 주목받을 수 있습니다.",
       "check_points": [
-        "이란 핵 협상 진행 상황 및 결과",
-        "국제 유가 및 정유 마진 변동성",
-        "비정유 부문(배터리 등)의 실적 개선 여부"
+        "클라우드 및 AI 서비스의 수익성 개선 여부",
+        "글로벌 빅테크 기업과의 AI 기술 경쟁력",
+        "신규 AI 모델 및 서비스 출시 계획"
       ],
       "related_news_titles": [
-        "이란 협상 낙관론에 월스트리트 랠리, 다우 지수 사상 최고치 마감",
-        "이란 협상 낙관론으로 8월 시작하며 월스트리트 랠리"
+        "다우 및 S&P 500, AI 관련 실적 및 중동 협상 기대감에 사상 최고치 마감",
+        "미국 증시: AI 실적 호조에 다우 및 S&P 500 사상 최고치 마감, 유가는 급락"
       ]
     },
     {
       "rank": 4,
-      "name": "HD현대중공업",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "조선",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "한미 양국이 '경제안보가 곧 국가안보'라는 인식 아래 AI, 조선, 반도체 분야 협력을 확대하기로 한 점은 조선 산업의 장기적인 경쟁력 강화와 성장 동력 확보에 기여할 것으로 보입니다.",
+      "reason": "지정학적 긴장 완화 및 글로벌 증시의 사상 최고치 경신 소식은 국내 투자 심리에도 긍정적인 영향을 미쳐 위험자산 선호도를 높일 수 있습니다. 이는 증시 활성화로 이어져 국내 주요 증권사의 거래대금 증가 및 수익성 개선 기대로 작용할 수 있습니다.",
       "check_points": [
-        "신규 선박 수주 목표 달성 여부",
-        "글로벌 선가 상승 추이 및 건조 마진 개선",
-        "친환경 선박 기술 개발 및 시장 선점 전략"
+        "국내외 증시 거래대금 변화 추이",
+        "금리 및 환율 변동에 따른 실적 영향",
+        "해외 투자 부문 성과 및 신규 비즈니스 확장"
       ],
       "related_news_titles": [
-        "\"경제안보가 곧 국가안보\"... 한미, AI·조선·반도체 협력 확대해야"
+        "8월 4일 뉴욕 증시, 지정학적 긴장 완화에 S&P 500 및 다우 지수 사상 최고치 경신"
       ]
     }
   ],
