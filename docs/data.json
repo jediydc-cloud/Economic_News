@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05 08:05",
-  "analysis_date": "2026-08-05",
+  "generated_at": "2026-08-06 07:58",
+  "analysis_date": "2026-08-06",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 증시가 AI 실적 호조와 지정학적 긴장 완화에 힘입어 사상 최고치를 경신하며 긍정적인 투자심리가 형성되었습니다. 국내 증시에도 긍정적 영향이 예상되나, 미일 엔저 공조 가능성과 반도체 업종 내 차별화에 대한 세밀한 분석이 필요합니다.",
-    "국내거시경제": "미국과 일본 간 '엔저 공조' 가능성이 제기되며 국내 환율 변동성 확대 및 일부 국내 기업의 수출 경쟁력 약화 우려가 커지고 있습니다. 엔화 약세가 장기화될 경우 국내 수출입 환경에 미칠 영향을 주시해야 합니다.",
-    "글로벌경제": "AI 관련 기업들의 견조한 실적과 중동 지역의 지정학적 긴장 완화로 글로벌 증시는 긍정적인 흐름을 보였습니다. 유가 급락은 인플레이션 압력을 완화하여 향후 금리 인하 기대감을 높일 수 있습니다.",
-    "증시금리": "미국 다우 및 S&P 500 지수가 AI 실적 호조와 지정학적 긴장 완화에 힘입어 사상 최고치를 경신했습니다. 이는 글로벌 투자심리 개선으로 이어져 국내 증시에도 긍정적인 영향을 줄 것으로 예상됩니다. 유가 급락은 시장에 긍정적으로 작용할 수 있습니다.",
-    "부동산정책": "관련 뉴스 없음.",
-    "기업산업": "글로벌 반도체 기업 타워 세미컨덕터가 실리콘 포토닉스 부문의 고성장과 함께 기록적인 매출을 달성하며 AI 시대 핵심 기술의 중요성을 부각했습니다. 국내 선물 시장에서는 삼성전자의 약세와 SK하이닉스의 강세가 뚜렷, 반도체 업종 내 순환매와 기업별 차별화가 관찰됩니다.",
-    "오늘의투자시사점": "엔화 약세에 따른 국내 수출 기업의 경쟁력 변화를 주시하고, 반도체 업종 내에서는 각 기업의 기술 경쟁력과 사업 포트폴리오를 면밀히 분석해야 합니다. AI 시대 핵심 기술인 실리콘 포토닉스 관련 국내 기업에도 관심을 가질 필요가 있습니다.",
-    "오늘의한줄": "글로벌 증시의 AI 랠리와 지정학적 긴장 완화가 긍정적이지만, 국내는 엔저 우려와 반도체 업종 내 차별화에 주목하며 신중한 접근이 필요한 하루입니다."
+    "총평": "글로벌 경기 침체 경고음이 고조되는 가운데, 해외 증시는 혼조세를 보였습니다. 국내 증시는 반도체 업황 기대감에 힘입어 상승세를 이어갔습니다.",
+    "국내거시경제": "국내 증시는 반도체 업황 개선 기대감으로 강세를 보이며, 주요 산업의 긍정적 흐름이 시장 전반에 영향을 주었습니다.",
+    "글로벌경제": "금융 전략가들은 미국 경제 붕괴 시 세계 경제도 동반 붕괴할 것이며, 이미 세계가 경기 침체 국면에 있음을 경고하며 글로벌 경제 둔화에 대한 우려를 심화시켰습니다.",
+    "증시금리": "해외 증시는 혼조세를 보였습니다. 다우존스는 사상 최악의 세션을 기록했으나, 중동 협상 기대감에 다우 및 S&P500은 사상 최고치를 경신했습니다. 나스닥은 일부 기술주의 부진으로 하락했습니다. 국내 증시는 반도체 훈풍에 코스피 6,600선에 육박하며 코스닥도 4일 연속 상승했습니다.",
+    "부동산정책": "세금 부담 증가로 집주인들이 임차인을 내보내고 직접 거주하는 현상이 확산되며, 임대차 시장의 공급 위축 가능성이 제기되었습니다.",
+    "기업산업": "국내 반도체 업황 개선에 대한 기대감이 증폭되며 관련 산업에 긍정적인 영향을 미쳤습니다. 반면, 해외 대형 기술 기업인 스페이스X와 AMD는 부진한 주가를 기록했습니다.",
+    "오늘의투자시사점": "글로벌 경기 침체 가능성에 대비하여 포트폴리오의 방어적 자산 비중을 고려하고 위험 자산 노출을 재검토해야 합니다. 국내 반도체 업종의 실적 개선 추이를 주시하며 투자 기회를 모색하고, 글로벌 기술주 및 중동 지정학적 리스크 완화에 따른 시장 차별화에 유의해야 합니다.",
+    "오늘의한줄": "글로벌 경기 침체 경고와 해외 증시 혼조 속, 국내 증시는 반도체 강세에 힘입어 상승세를 이어갔습니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우 및 S&P 500, AI 관련 실적 및 중동 협상 기대감에 사상 최고치 마감",
-      "display_title": "다우 및 S&P 500, AI 관련 실적 및 중동 협상 기대감에 사상 최고치 마감",
-      "original_title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters",
+      "title": "\"미국 경제 붕괴 시 세계 경제도 붕괴\" 금융 전략가 경고",
+      "display_title": "\"미국 경제 붕괴 시 세계 경제도 붕괴\" 금융 전략가 경고",
+      "original_title": "\"If the U.S. Economy Crashes, the Global Economy Crashes\" - Financial strategist claims Watch full interview: https://youtu.be/tyvOOj3enjQ #trusttvnews #globaleconomy #recession - instagram.com",
       "summary": [
-        "다우존스와 S&P 500 지수가 AI 관련 기업 실적 호조와 중동 협상 기대로 사상 최고치를 기록했다.",
-        "기술 기업들의 견조한 AI 관련 성과가 시장을 견인했으며, 중동 지역의 지정학적 위험 완화 기대감도 긍정적으로 작용했다.",
-        "AI 산업의 지속적인 성장이 기술주 강세를 이끌 수 있으며, 중동 정세 안정은 유가 등 원자재 시장에 영향을 줄 수 있다."
+        "금융 전략가가 미국 경제 붕괴가 세계 경제 전반의 붕괴로 이어질 것이라고 경고했습니다.",
+        "이 발언은 전 세계 경제가 미국 경제에 대한 높은 의존도를 가지고 있음을 시사하며, 잠재적 경기 침체 우려를 강조합니다.",
+        "투자자들은 미국 경제 지표와 정책 변화를 주시하며 글로벌 경기 침체 가능성에 대비해야 합니다."
       ],
-      "summary_text": "다우존스와 S&P 500 지수가 AI 관련 기업 실적 호조와 중동 협상 기대로 사상 최고치를 기록했다. 기술 기업들의 견조한 AI 관련 성과가 시장을 견인했으며, 중동 지역의 지정학적 위험 완화 기대감도 긍정적으로 작용했다. AI 산업의 지속적인 성장이 기술주 강세를 이끌 수 있으며, 중동 정세 안정은 유가 등 원자재 시장에 영향을 줄 수 있다.",
-      "description": "다우와 S&P 500 지수가 AI 관련 기업들의 실적 호조와 중동 지역 평화 협상에 대한 기대로 사상 최고치를 기록하며 마감했습니다.",
-      "category": "증시·금리",
+      "summary_text": "금융 전략가가 미국 경제 붕괴가 세계 경제 전반의 붕괴로 이어질 것이라고 경고했습니다. 이 발언은 전 세계 경제가 미국 경제에 대한 높은 의존도를 가지고 있음을 시사하며, 잠재적 경기 침체 우려를 강조합니다. 투자자들은 미국 경제 지표와 정책 변화를 주시하며 글로벌 경기 침체 가능성에 대비해야 합니다.",
+      "description": "한 금융 전략가가 미국 경제가 붕괴하면 전 세계 경제가 함께 붕괴할 것이라고 주장하며 인터뷰를 통해 경고했다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "인공지능, 반도체",
+      "market_impact": "부정",
+      "related_sector": "없음",
       "related_stocks": [
         "네이버",
         "카카오",
         "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 관련 기업들의 실적 호조는 기술주 투자 심리를 강화하며, 중동 정세 안정은 글로벌 경제 전반에 긍정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "AI 관련 기업들의 다음 분기 실적 전망과 중동 협상 진행 상황을 지속적으로 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 경제의 건전성이 글로벌 시장과 투자 심리에 막대한 영향을 미치므로, 잠재적 위험에 대한 인식이 필수적입니다.",
+      "key_signal": "향후 발표될 미국의 경제 성장률, 고용 지표, 금리 정책 등을 통해 실제 경제 상황을 면밀히 파악해야 합니다.",
       "keywords": [
-        "AI 실적",
-        "중동 협상",
-        "미국 증시",
-        "사상 최고",
-        "기술주"
+        "미국 경제",
+        "글로벌 경제",
+        "경기 침체",
+        "금융 전략가",
+        "경제 붕괴"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
-      "published": "2026-08-05 05:28",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OG04cTlxeGcwX0R2SDE0QWNCa1FYNHJVaXVFdUpKZFBVZktmNDk3eWNoZDNpZzdKRU5wdURybTRTMFJZdXdNOVhSUmtVTmdfRVI2V01R?oc=5",
+      "published": "2026-08-05 21:36",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시: AI 실적 호조에 다우 및 S&P 500 사상 최고치 마감, 유가는 급락",
-      "display_title": "미국 증시: AI 실적 호조에 다우 및 S&P 500 사상 최고치 마감, 유가는 급락",
-      "original_title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble - The Economic Times",
+      "title": "다우존스: 2025년 4월 이후 최악의 세션, 51,594.14로 급락",
+      "display_title": "다우존스: 2025년 4월 이후 최악의 세션, 51,594.14로 급락",
+      "original_title": "Dow Jones: DJIA Plunges to 51 594,14 in Its Worst Session Since April 2025 - BBN Times",
       "summary": [
-        "다우와 S&P 500 지수가 AI 기업 실적 호조에 힘입어 사상 최고치를 경신한 반면, 유가는 급락했다.",
-        "AI 기술 관련 기업들의 견고한 성장세가 시장을 이끌었으며, 유가 하락은 글로벌 경기 둔화 우려 혹은 공급 증가 가능성을 시사할 수 있다.",
-        "기술주 중심의 시장 강세가 이어질 수 있으며, 유가 하락은 인플레이션 압력을 완화하여 금리 인하 기대감을 높일 수 있다."
+        "다우존스 산업평균지수가 2025년 4월 이후 가장 큰 폭으로 하락하며 51,594.14를 기록했습니다.",
+        "이는 시장에 예상치 못한 큰 충격이 있었음을 시사하며, 투자 심리 위축과 경기 둔화 우려를 반영할 수 있습니다.",
+        "투자자들은 급락의 원인을 분석하고, 글로벌 경기 침체 가능성과 추가적인 시장 변동성에 대비해야 합니다."
       ],
-      "summary_text": "다우와 S&P 500 지수가 AI 기업 실적 호조에 힘입어 사상 최고치를 경신한 반면, 유가는 급락했다. AI 기술 관련 기업들의 견고한 성장세가 시장을 이끌었으며, 유가 하락은 글로벌 경기 둔화 우려 혹은 공급 증가 가능성을 시사할 수 있다. 기술주 중심의 시장 강세가 이어질 수 있으며, 유가 하락은 인플레이션 압력을 완화하여 금리 인하 기대감을 높일 수 있다.",
-      "description": "미국 증시에서 AI 관련 기업들의 인상적인 실적 발표로 다우와 S&P 500 지수가 사상 최고치를 기록하며 마감했으며, 유가는 급락했습니다.",
+      "summary_text": "다우존스 산업평균지수가 2025년 4월 이후 가장 큰 폭으로 하락하며 51,594.14를 기록했습니다. 이는 시장에 예상치 못한 큰 충격이 있었음을 시사하며, 투자 심리 위축과 경기 둔화 우려를 반영할 수 있습니다. 투자자들은 급락의 원인을 분석하고, 글로벌 경기 침체 가능성과 추가적인 시장 변동성에 대비해야 합니다.",
+      "description": "다우존스 산업평균지수(DJIA)가 51,594.14로 급락하며 2025년 4월 이후 최악의 일일 하락폭을 기록했다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "인공지능, 반도체, 에너지",
+      "market_impact": "부정",
+      "related_sector": "전반적 시장",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 산업의 강력한 성장과 유가 하락으로 인한 인플레이션 압력 완화는 투자 환경에 긍정적인 변화를 가져올 수 있습니다.",
-      "key_signal": "AI 관련 기업들의 실적 모멘텀이 지속되는지, 그리고 유가 하락이 글로벌 경제에 미치는 영향을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 다우존스 지수의 급락은 글로벌 증시에 직접적인 영향을 미치며, 투자 심리를 위축시키고 시장 불안을 가중시킬 수 있습니다.",
+      "key_signal": "다우존스 급락의 구체적인 원인(경제 지표, 기업 실적, 지정학적 리스크 등)을 파악하고 향후 시장 흐름에 미칠 영향을 분석해야 합니다.",
       "keywords": [
-        "AI 실적",
-        "유가 급락",
-        "미국 증시",
-        "사상 최고",
-        "인플레이션"
+        "다우존스",
+        "DJIA",
+        "증시 급락",
+        "시장 변동성",
+        "투자 심리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMnVwZzJNLVZqdklQRVVvUDRvSDVjZ1ZSVXc5UUdvMFMwd2FqMHE3NV9PNEtUUGVfMW1xWnlORElZMTlZVkpCVkJ6MEJ6eGlZcG1TLW5CS1V2VXk1Z29Sb0lER0xaeTNkczlNbjIyVGZYVXBrSkNBNFB0RHFUZFJHazNXOEw3NWUyeUJNNm5TbmhqSEFQNHFyQjJfZTduaWs4WUNucDBmQlg5Y2lqN0dtTHloWVV0bmlfODZiUmVjMVBNZzZ4d3h6MXpRR3dvVWJmTXlBQWZsb0h4UTVZM1ZYbDNpakJESU1XTF9sQk5iMnRDaVZtbUVqYjFLRjhfMHZua2pn0gGIAkFVX3lxTE10OE8wWFo1Rkp2cjI4WG5GUU1rN0dySjV6dDMtSXBUR2R4OUJNQUpIbjJuRkczbTE4SGVkbnVscFZLT21GcFU5UDNMUFFySlEzaF9CaW94dExuMEdiaWNzZmxjUjdtTHFOWUpSWmNtNzhUOThLQncteXhndWdMNndTUXBITmU1THdwQnh5SHVBakg4WmVncWVqaDNLMUZIamR1enZ1LUY2UDJCRHVlRlZldk1BSlhuTVJTUUZaZ1BSV0twQUdpWkJxVzMtS0Q0TFRaQjlTdHh3a3QtaWRlLUNDWUtnWE5WaWdRRXZNT0JXY3h3aW44SDRkM0p2ekJ0ODJEOXdsdVZlTQ?oc=5",
-      "published": "2026-08-05 05:09",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTZPVVlfWjhlbl9MeTFzU0dyMXZHcS1tYUZhRU4zNmJnbUxZdDBJeUtSU1BoVlVnY2xWTkV2MF9VQjJzbzEzM19xTnZSaXdhSmF3THVuY3BnYnkwOEFFZ0o1MWdfNENEcHN1amZpUTVPOWloMG9KV0hIUnp1eFZObDkzY2FhendFZ0NGOFdmUk1zQTFpODJsSElkb3FVOWp3Y01OX3F1OEFRdWkyTjFicnl3RQ?oc=5",
+      "published": "2026-08-06 05:06",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,42 +109,38 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[사설] 미·일 '엔저 공조', 환율 및 국내 증시에 미칠 영향 예의 주시해야",
-      "display_title": "[사설] 미·일 '엔저 공조', 환율 및 국내 증시에 미칠 영향 예의 주시해야",
-      "original_title": "[사설] 미·일 '엔저 공조'... 환율, 증시에 미칠 영향 예의 주시해야 - edaily.co.kr",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "\"권력자들은 세계가 경기 침체 중임을 인지하고 있다\" 금융 전략가의 글로벌 위기 진단",
+      "display_title": "\"권력자들은 세계가 경기 침체 중임을 인지하고 있다\" 금융 전략가의 글로벌 위기 진단",
+      "original_title": "\"The people in power know the world is in recession\" - Financial strategist weighs in on Nigeria's economy and the global economic crisis Watch full interview: https://youtu.be/tyvOOj3enjQ #trusttvnews #globaleconomy #recession - instagram.com",
       "summary": [
-        "미국과 일본의 '엔저 공조' 가능성이 제기되며, 이는 환율과 국내 증시에 상당한 영향을 미칠 것으로 예상된다.",
-        "엔화 약세는 일본의 수출 경쟁력을 강화하고 국내 기업들에게는 부담으로 작용할 수 있으며, 환율 변동성이 커질 경우 외국인 투자자들의 투자 심리에 영향을 줄 수 있다.",
-        "엔화 약세로 인한 수출 경쟁력 변화에 민감한 국내 업종 및 기업들에 대한 분석이 필요하다."
+        "금융 전략가는 세계가 이미 경기 침체 국면에 있으며, 권력자들이 이를 인지하고 있다고 주장했습니다.",
+        "이 발언은 전 세계적인 경기 둔화에 대한 우려가 확산되고 있으며, 특히 신흥국 경제에 대한 영향을 시사합니다.",
+        "투자자들은 글로벌 경기 침체 가능성에 대비하여 포트폴리오의 방어적 자산 비중을 고려하고 위험 자산에 대한 노출을 재점검해야 합니다."
       ],
-      "summary_text": "미국과 일본의 '엔저 공조' 가능성이 제기되며, 이는 환율과 국내 증시에 상당한 영향을 미칠 것으로 예상된다. 엔화 약세는 일본의 수출 경쟁력을 강화하고 국내 기업들에게는 부담으로 작용할 수 있으며, 환율 변동성이 커질 경우 외국인 투자자들의 투자 심리에 영향을 줄 수 있다. 엔화 약세로 인한 수출 경쟁력 변화에 민감한 국내 업종 및 기업들에 대한 분석이 필요하다.",
-      "description": "미일 간 '엔저 공조' 움직임에 따라 환율 변동성이 커질 것으로 예상되며, 이는 국내 증시에 복합적인 영향을 미칠 수 있어 주의 깊게 지켜봐야 합니다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "자동차, 조선, 화학",
-      "related_stocks": [
-        "현대차",
-        "기아",
-        "LG화학"
-      ],
+      "summary_text": "금융 전략가는 세계가 이미 경기 침체 국면에 있으며, 권력자들이 이를 인지하고 있다고 주장했습니다. 이 발언은 전 세계적인 경기 둔화에 대한 우려가 확산되고 있으며, 특히 신흥국 경제에 대한 영향을 시사합니다. 투자자들은 글로벌 경기 침체 가능성에 대비하여 포트폴리오의 방어적 자산 비중을 고려하고 위험 자산에 대한 노출을 재점검해야 합니다.",
+      "description": "한 금융 전략가가 나이지리아 경제와 글로벌 경제 위기 상황에 대해 발언하며, 현재 권력을 쥔 사람들이 세계가 경기 침체 국면에 있다는 사실을 알고 있다고 주장했다.",
+      "category": "글로벌 경제",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "없음",
+      "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "미일 엔저 공조는 국내 수출 기업들의 경쟁 환경에 직접적인 영향을 미쳐 실적 및 주가에 변동성을 초래할 수 있으므로 주의 깊게 살펴봐야 합니다.",
-      "key_signal": "미일 양국의 환율 관련 발언 및 정책 변화, 그리고 이에 따른 원/엔 환율의 실제 움직임을 면밀히 주시해야 합니다.",
+      "investment_reason": "글로벌 경기 침체가 공식화될 경우 전 세계 증시와 투자 심리에 부정적인 영향을 미칠 수 있으므로 대비가 필요합니다.",
+      "key_signal": "각국 중앙은행의 경기 부양책 여부 및 주요 경제 지표 발표를 통해 경기 침체의 강도와 지속 여부를 판단해야 합니다.",
       "keywords": [
-        "엔저 공조",
-        "환율",
-        "국내 증시",
-        "수출 경쟁력",
-        "거시경제"
+        "경기 침체",
+        "글로벌 경제",
+        "나이지리아 경제",
+        "금융 전략가",
+        "경제 위기"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0lleDhKaGlqYUsybWhVX3p4YXFBcVliTjFyRVlpWFRKdWwtZVctYlpwa2pOMVNMQk5pV0FNTGdvRXpHOUtBOFVpNUpUYk5XM3Rra1ZXeU9oUUJYNmpOdXJiSFA3MTUxX2xWYk1TTHFIaUVyaTgwLXVZZmNWV3FRSQ?oc=5",
-      "published": "2026-08-05 05:00",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1N19jcXFxQUIwUGp6bmNHSG5JMWwwS1ZEXzFYWDVrQVRwc1FscDI0MndWUVdvTWtSSnl6bWJrdkJybTBLcmUzcy1OVTJzZmlWZER2MnNn?oc=5",
+      "published": "2026-08-05 21:17",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,37 +150,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "8월 4일 뉴욕 증시, 지정학적 긴장 완화에 S&P 500 및 다우 지수 사상 최고치 경신",
-      "display_title": "8월 4일 뉴욕 증시, 지정학적 긴장 완화에 S&P 500 및 다우 지수 사상 최고치 경신",
-      "original_title": "Stock Market Today, Aug. 4: S&P 500 and Dow Set New Highs on Easing Geopolitical Tensions - The Motley Fool",
+      "title": "중동 협상 기대감에 다우, S&P 사상 최고치 경신; 스페이스X, AMD는 나스닥 하락 견인",
+      "display_title": "중동 협상 기대감에 다우, S&P 사상 최고치 경신; 스페이스X, AMD는 나스닥 하락 견인",
+      "original_title": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq - The Korea Times",
       "summary": [
-        "8월 4일 미국 증시에서 S&P 500과 다우존스 지수가 사상 최고치를 경신했다.",
-        "지정학적 긴장이 완화된 것이 주요 상승 요인으로 작용했다.",
-        "글로벌 투자심리 개선으로 국내 증시에도 긍정적인 영향이 예상된다."
+        "중동 지역의 협상 기대감으로 다우존스 및 S&P500 지수가 사상 최고치를 경신했습니다.",
+        "반면 스페이스X와 AMD의 주가 부진은 기술주 중심의 나스닥 지수 하락을 야기하며, 시장 내 차별화된 흐름을 보였습니다.",
+        "투자자들은 중동 지정학적 리스크 완화에 따른 수혜 업종과 기술 대형주의 개별 리스크를 종합적으로 고려하여 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "8월 4일 미국 증시에서 S&P 500과 다우존스 지수가 사상 최고치를 경신했다. 지정학적 긴장이 완화된 것이 주요 상승 요인으로 작용했다. 글로벌 투자심리 개선으로 국내 증시에도 긍정적인 영향이 예상된다.",
-      "description": "8월 4일 뉴욕 증시에서 S&P 500과 다우 지수가 지정학적 긴장 완화에 힘입어 사상 최고치를 기록했습니다.",
+      "summary_text": "중동 지역의 협상 기대감으로 다우존스 및 S&P500 지수가 사상 최고치를 경신했습니다. 반면 스페이스X와 AMD의 주가 부진은 기술주 중심의 나스닥 지수 하락을 야기하며, 시장 내 차별화된 흐름을 보였습니다. 투자자들은 중동 지정학적 리스크 완화에 따른 수혜 업종과 기술 대형주의 개별 리스크를 종합적으로 고려하여 투자 전략을 수립해야 합니다.",
+      "description": "중동 지역의 협상 진전에 대한 기대감으로 다우존스와 S&P500 지수가 사상 최고치를 기록했으나, 스페이스X와 AMD의 부진은 나스닥 지수를 끌어내렸다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "증권",
+      "market_impact": "중립",
+      "related_sector": "에너지, 방산, 항공우주, 반도체, IT",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "AMD"
       ],
       "investment_view": "관심",
-      "investment_reason": "글로벌 증시 강세는 국내 투자 심리에 긍정적 영향을 미치고 위험자산 선호도를 높일 수 있기 때문에 주목해야 합니다.",
-      "key_signal": "지정학적 긴장 완화 분위기가 지속되는지, 그리고 이것이 다른 시장에 미치는 파급 효과를 주시해야 합니다.",
+      "investment_reason": "중동 정세의 안정화는 특정 섹터에 긍정적이지만, 기술 대형주의 개별 이슈가 시장 전반의 흐름을 상쇄할 수 있어 면밀한 분석이 필요합니다.",
+      "key_signal": "중동 협상의 구체적인 결과와 스페이스X 및 AMD를 포함한 주요 기술 기업들의 실적 및 미래 전망 발표를 주시해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "사상 최고",
-        "지정학적 긴장",
-        "S&P 500",
-        "다우"
+        "다우존스",
+        "S&P500",
+        "나스닥",
+        "중동 협상",
+        "스페이스X"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVmI3WTM5eUhSbjFucEdNUmpRMFdxd0lQSFc5T0hsdWdtdE5sU0M2UWI0Mk9yVjlLMlR2VUdsbllCb1lfOHlnaUdTRlZxTUFEUlJ0cVhQbXJBXzFWUnFZNUxyT2E0ZUhhOVVWUzVxZk00cWpyRDZnUDZ3Tm14OVFGRERpei16WV8yd0JnRTdDSG9BUnJQdllEamNiZUx0aEFUMnRISDVmYnIzWWg1VG13VWo0NXkyTXhXbHQydVZOakVpNWNpVUVUVzdRb285cmg0eGZkaWxyaFZicExSYUo0bTNCNV9QUQ?oc=5",
-      "published": "2026-08-05 06:19",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQncwSzdfNW8yR00wX1ZLYnFSYWhrZDhfZ2xHX3g5U2NKYjFMVXFTbmkwdERGSGhDVUlMQjdqNkd5NTZEWnJWZzVrcHk3YnpPaVZXeEwyOE1FX1JneWZMWDljUWstSm05TG1SOWVkZnpuM3I0M0ZWQl8zeXFUblo3dW00bExGYmpVQmlqSDNZLUliNTJZc1JQQ2l6LXV5X0NCTnB5NzE0bng2bjBqUlE2TUpR0gGyAUFVX3lxTFBCdzBLN181bzJHTTBfVkticVJhaGtkOF9nbEdfeDlTY0piMUxVcVNuaTB0REZIaENVSUxCN2o2R3k1NkRaclZnNWtweTdiek9pVld4TDI4TUVfUmd5ZkxYOWNRay1KbTlMbVI5ZWRmem4zcjQzRlZCXzN5cVRuWjd1bTRsTEZialVCaWpIM1ktSWI1MllzUlBDaXotdXlfQ0JOcHk3MTRueDZuMGpSUTZNSlE?oc=5",
+      "published": "2026-08-06 04:16",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,41 +187,41 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "[TSEM 2026년 2분기 어닝콜] 타워 세미컨덕터, 기록적인 4억 6천만 달러 매출 달성, 실리콘 포토닉스 270% 성장으로 연간 매출 20억 달러 상회 전망",
-      "display_title": "[TSEM 2026년 2분기 어닝콜] 타워 세미컨덕터, 기록적인 4억 6천만 달러 매출 달성, 실리콘 포토닉스 270% 성장으로 연간 매출 20억 달러 상회 전망",
-      "original_title": "[TSEM Q2 2026 Earnings Call] Tower Semiconductor Posts Record $460M Quarter, Guides Above $2B Run Rate as Silicon Photonics Jumps 270% - finance.biggo.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "반도체 업황 훈풍에 코스피 6,600선 육박…코스닥 4일 연속 상승",
+      "display_title": "반도체 업황 훈풍에 코스피 6,600선 육박…코스닥 4일 연속 상승",
+      "original_title": "반도체 훈풍에 코스피 6,600선 목전…코스닥 나흘째 상승 - 네이트",
       "summary": [
-        "타워 세미컨덕터가 2026년 2분기에 4.6억 달러의 기록적인 매출을 달성하고, 실리콘 포토닉스 부문이 270% 성장하며 연간 매출 20억 달러 이상을 예상했다.",
-        "실리콘 포토닉스 기술은 데이터센터, 통신 등 고속 데이터 전송이 필요한 분야에서 핵심적인 역할을 하며, AI 시대에 더욱 중요성이 부각되고 있다.",
-        "실리콘 포토닉스 기술을 보유하거나 관련 투자를 진행하는 국내 반도체 기업들에 대한 관심이 필요하다."
+        "반도체 업황 개선 기대감에 코스피 지수가 6,600선에 육박했으며, 코스닥은 4일 연속 상승세를 기록했습니다.",
+        "이는 국내 증시가 반도체 업종에 대한 높은 의존도를 보이며, 글로벌 반도체 사이클 회복에 긍정적으로 반응하고 있음을 나타냅니다.",
+        "투자자들은 반도체 업종의 실적 개선 추이와 글로벌 기술주 동향을 주시하며 관련 종목 투자 기회를 모색해야 합니다."
       ],
-      "summary_text": "타워 세미컨덕터가 2026년 2분기에 4.6억 달러의 기록적인 매출을 달성하고, 실리콘 포토닉스 부문이 270% 성장하며 연간 매출 20억 달러 이상을 예상했다. 실리콘 포토닉스 기술은 데이터센터, 통신 등 고속 데이터 전송이 필요한 분야에서 핵심적인 역할을 하며, AI 시대에 더욱 중요성이 부각되고 있다. 실리콘 포토닉스 기술을 보유하거나 관련 투자를 진행하는 국내 반도체 기업들에 대한 관심이 필요하다.",
-      "description": "타워 세미컨덕터가 2026년 2분기 어닝콜에서 기록적인 4억 6천만 달러 매출을 발표했으며, 특히 실리콘 포토닉스 부문이 270% 성장하여 연간 매출이 20억 달러를 넘어설 것으로 전망했습니다.",
-      "category": "기업·산업",
+      "summary_text": "반도체 업황 개선 기대감에 코스피 지수가 6,600선에 육박했으며, 코스닥은 4일 연속 상승세를 기록했습니다. 이는 국내 증시가 반도체 업종에 대한 높은 의존도를 보이며, 글로벌 반도체 사이클 회복에 긍정적으로 반응하고 있음을 나타냅니다. 투자자들은 반도체 업종의 실적 개선 추이와 글로벌 기술주 동향을 주시하며 관련 종목 투자 기회를 모색해야 합니다.",
+      "description": "반도체 업황 개선 기대감에 힘입어 코스피 지수가 6,600선에 근접했으며, 코스닥 지수는 4거래일 연속 상승세를 이어갔다.",
+      "category": "증시·금리",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "반도체, 실리콘 포토닉스, 통신",
+      "related_sector": "반도체, IT",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "실리콘 포토닉스의 폭발적 성장은 AI 및 데이터센터 인프라 확장에 필수적인 기술로, 관련 기술을 보유한 기업들의 성장 잠재력을 높입니다.",
-      "key_signal": "실리콘 포토닉스 기술의 상용화 및 적용 범위 확장에 대한 추가적인 소식과 관련 국내 기업들의 기술 개발 현황을 모니터링해야 합니다.",
+      "investment_reason": "반도체 업황 호조는 국내 증시 전반의 상승을 견인하는 핵심 동력이므로 관련 기업들의 실적과 성장 가능성을 주목해야 합니다.",
+      "key_signal": "국내외 반도체 기업들의 실적 발표와 신규 투자 계획, 그리고 AI 관련 수요 증가 추이를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "타워 세미컨덕터",
-        "실리콘 포토닉스",
+        "코스피",
+        "코스닥",
         "반도체",
-        "어닝콜",
-        "AI"
+        "업황 개선",
+        "증시 상승"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9acUpwbjBPeE1sYzFCbWo4VmRwUUdfbU9ybG5rODdKNUdoVXJYOE9CLVg3Qll2RVllS0JQODlUckJmZ1ByemZNemZ6eWkwbVN4dnBoYlhUNkNIU2dGbEE?oc=5",
-      "published": "2026-08-05 01:24",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZnRfNHh4QmphQ1IwZDhZRWltTDUxOFZHQTdtaFRFcFNfUkRrd1A1Vnc5YVBIQ2l4RGlWbjdqQm5iQ1hwY2pvX1NtNzMyelNxY1kyQm9uM2t0VVZzNTNsTA?oc=5",
+      "published": "2026-08-05 22:08",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -237,36 +231,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[코스피 지수선물 옵션] 삼성전자 약세, SK하이닉스 강세…선물시장 업종별 순환매 뚜렷",
-      "display_title": "[코스피 지수선물 옵션] 삼성전자 약세, SK하이닉스 강세…선물시장 업종별 순환매 뚜렷",
-      "original_title": "[코스피 지수선물 옵션] 삼성전자 약세·SK하이닉스 강세…선물시장 업종별 순환매 뚜렷 - 핀포인트뉴스",
+      "title": "\"세입자 나가주세요\"…세금 부담이 집주인 거주 유도 [시장톡]",
+      "display_title": "\"세입자 나가주세요\"…세금 부담이 집주인 거주 유도 [시장톡]",
+      "original_title": "\"세입자 나가주세요\"…세금이 집주인 귀소 부른다 [시장톡] - hankyung.com",
       "summary": [
-        "국내 선물 시장에서 삼성전자는 약세, SK하이닉스는 강세를 보이며 반도체 업종 내에서도 차별화된 흐름과 업종별 순환매가 뚜렷했다.",
-        "특정 반도체 기업에 대한 개별적인 실적 전망이나 기술 경쟁력 우위가 투자자들의 매매 심리에 영향을 미치고 있다.",
-        "반도체 업종 내에서도 각 기업의 경쟁력과 사업 포트폴리오를 면밀히 분석하여 투자 전략을 세워야 한다."
+        "세금 부담이 커지면서 집주인들이 임차인을 내보내고 직접 거주하는 이른바 '귀소' 현상이 나타나고 있습니다.",
+        "이는 정부의 부동산 세금 정책이 다주택자의 주택 소유 부담을 늘려 임대 시장의 공급을 위축시키고 있음을 시사합니다.",
+        "전월세 시장의 불안정성을 높일 수 있으므로, 임대차 시장 동향과 정부의 추가 정책 발표에 주목해야 합니다."
       ],
-      "summary_text": "국내 선물 시장에서 삼성전자는 약세, SK하이닉스는 강세를 보이며 반도체 업종 내에서도 차별화된 흐름과 업종별 순환매가 뚜렷했다. 특정 반도체 기업에 대한 개별적인 실적 전망이나 기술 경쟁력 우위가 투자자들의 매매 심리에 영향을 미치고 있다. 반도체 업종 내에서도 각 기업의 경쟁력과 사업 포트폴리오를 면밀히 분석하여 투자 전략을 세워야 한다.",
-      "description": "코스피 지수선물 옵션 시장에서 삼성전자가 약세를 보인 반면 SK하이닉스는 강세를 나타내며, 선물 시장에서 업종별 순환매 현상이 뚜렷하게 관찰되었습니다.",
-      "category": "기업·산업",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, 선물옵션",
+      "summary_text": "세금 부담이 커지면서 집주인들이 임차인을 내보내고 직접 거주하는 이른바 '귀소' 현상이 나타나고 있습니다. 이는 정부의 부동산 세금 정책이 다주택자의 주택 소유 부담을 늘려 임대 시장의 공급을 위축시키고 있음을 시사합니다. 전월세 시장의 불안정성을 높일 수 있으므로, 임대차 시장 동향과 정부의 추가 정책 발표에 주목해야 합니다.",
+      "description": "세금 부담 증가로 인해 집주인들이 투자 목적의 주택을 세를 놓기보다 직접 거주하려는 현상이 확산되고 있다는 분석이다.",
+      "category": "부동산·정책",
+      "importance": 7,
+      "market_impact": "부정",
+      "related_sector": "건설, 부동산",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "GS건설",
+        "현대건설"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 주요 반도체 기업 간의 주가 흐름 차이는 업종 내 옥석 가리기의 필요성을 시사하며, 개별 기업의 투자 매력을 분석하는 데 중요한 단서가 됩니다.",
-      "key_signal": "삼성전자와 SK하이닉스의 개별적인 사업 부문별 실적 및 향후 전망, 그리고 반도체 업황의 세부 동향을 집중적으로 살펴봐야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "세금 정책의 변화가 주택 임대 공급을 줄여 전월세 시장의 가격 상승 압력을 높일 수 있어 실수요자와 투자자 모두에게 영향을 줍니다.",
+      "key_signal": "정부의 추가 부동산 정책 발표와 전월세 거래량 및 가격 변동 추이를 면밀히 분석하여 시장 변화를 예측해야 합니다.",
       "keywords": [
-        "삼성전자",
-        "SK하이닉스",
-        "선물 시장",
-        "반도체",
-        "순환매"
+        "부동산 정책",
+        "세금 부담",
+        "집주인 귀소",
+        "전월세 시장",
+        "임대차"
       ],
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04Tkt3cEpyakUtalVYM2I5bVJYSk5TeENZd0hROHJvQzJlZlB5T1ZuMW13ckZPQUdIczlOR0FTeXgyYTNSWmhPdGs0VGs2MkxCWV9iUm9vYjZ4bFMwTGk3TjZHVnI2THFLN0E4U01iMmFQb3fSAXdBVV95cUxNaXk0RW82LWRfb0NJVjU5QUxDVVBlb0RnSFhqNDFoZVozZGd3aldaYmRWRTZtUk1LZkk3Y1VCSHRpT1hMQW1XQlRPVjV2Rk51dlZsMXV6SFRzN3ZVdWYzcC1uRjlSbVR0UGduenlhQUtNY0tIcE05TQ?oc=5",
-      "published": "2026-08-04 16:41",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SS1ZKa09BLU5NcGtYRXExMFVhb2hQY2tvNi1Wb3ZFNE5kdGwwQzdhOGRQeWZsTUljdmdCZDByMDJCSXRzTGVxZTNHYnVDS2p0R0lMcklUcTFlUQ?oc=5",
+      "published": "2026-08-06 06:30",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -281,16 +275,15 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 관련 기업들의 실적 호조 및 실리콘 포토닉스 기술의 폭발적 성장이 언급되며, 국내 반도체 산업의 핵심 기업인 삼성전자에 대한 긍정적 투자 심리가 형성될 수 있습니다. 비록 선물시장에서의 약세가 포착되기도 했으나, AI 시대의 필수 인프라 기술을 보유한 기업으로서 지속적인 관심이 필요합니다.",
+      "reason": "반도체 업황 훈풍이 국내 증시 상승을 견인하는 핵심 동력으로 작용하고 있으나, 미국 경제 붕괴 우려 등 글로벌 거시 경제 리스크도 함께 주시해야 합니다.",
       "check_points": [
-        "글로벌 AI 반도체 시장에서의 경쟁력 변화",
-        "실리콘 포토닉스 등 차세대 기술 개발 현황",
-        "외국인 및 기관 투자자 수급 동향"
+        "글로벌 반도체 수요 및 가격 동향",
+        "미·중 기술 패권 경쟁 심화 여부",
+        "외국인 투자자 수급 변화"
       ],
       "related_news_titles": [
-        "다우 및 S&P 500, AI 관련 실적 및 중동 협상 기대감에 사상 최고치 마감",
-        "[TSEM 2026년 2분기 어닝콜] 타워 세미컨덕터, 기록적인 4억 6천만 달러 매출 달성, 실리콘 포토닉스 270% 성장으로 연간 매출 20억 달러 상회 전망",
-        "[코스피 지수선물 옵션] 삼성전자 약세, SK하이닉스 강세…선물시장 업종별 순환매 뚜렷"
+        "반도체 업황 훈풍에 코스피 6,600선 육박…코스닥 4일 연속 상승",
+        "미국 경제 붕괴 시 세계 경제도 붕괴\" 금융 전략가 경고"
       ]
     },
     {
@@ -299,32 +292,30 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "타워 세미컨덕터의 실리콘 포토닉스 기술 성장은 AI 및 데이터센터 인프라 확장에 필수적인 요소로, 관련 기술을 보유한 SK하이닉스의 성장 잠재력을 높입니다. 또한, 선물시장에서 강세를 보이며 반도체 업종 내 긍정적인 흐름을 주도하고 있다는 점도 주목할 만합니다.",
+      "reason": "삼성전자와 함께 반도체 업황 훈풍의 직접적인 수혜주로, 국내 증시 상승세의 주요 동력이며, 특히 고대역폭 메모리(HBM) 시장에서의 경쟁력을 주목할 필요가 있습니다.",
       "check_points": [
-        "고대역폭 메모리(HBM) 등 AI 반도체 시장 지배력",
-        "실리콘 포토닉스 관련 기술 개발 및 적용 계획",
-        "반도체 업황 회복 속도 및 D램 가격 추이"
+        "고대역폭 메모리(HBM) 기술력 및 생산 capa",
+        "AI 반도체 시장 성장률",
+        "외국인 및 기관 투자자 동향"
       ],
       "related_news_titles": [
-        "[TSEM 2026년 2분기 어닝콜] 타워 세미컨덕터, 기록적인 4억 6천만 달러 매출 달성, 실리콘 포토닉스 270% 성장으로 연간 매출 20억 달러 상회 전망",
-        "[코스피 지수선물 옵션] 삼성전자 약세, SK하이닉스 강세…선물시장 업종별 순환매 뚜렷"
+        "반도체 업황 훈풍에 코스피 6,600선 육박…코스닥 4일 연속 상승"
       ]
     },
     {
       "rank": 3,
-      "name": "네이버",
+      "name": "한화에어로스페이스",
       "market": "KOSPI",
-      "sector": "인공지능",
+      "sector": "방산, 항공우주",
       "opinion": "관심",
-      "reason": "미국 증시가 AI 관련 기업들의 실적 호조에 힘입어 사상 최고치를 경신하는 등 AI 산업에 대한 긍정적인 투자 심리가 확산되고 있습니다. 국내 대표적인 AI 기술 및 플랫폼 기업인 네이버는 이러한 글로벌 흐름 속에서 AI 관련 서비스 확장 및 신규 비즈니스 모델에 대한 기대로 주목받을 수 있습니다.",
+      "reason": "중동 정세 안정화 기대감은 방산, 항공우주 섹터에 긍정적인 영향을 미칠 수 있으며, K-방산 수출 확대 모멘텀도 꾸준히 기대되고 있습니다.",
       "check_points": [
-        "클라우드 및 AI 서비스의 수익성 개선 여부",
-        "글로벌 빅테크 기업과의 AI 기술 경쟁력",
-        "신규 AI 모델 및 서비스 출시 계획"
+        "중동 정세 안정화 여부 및 실제 협상 진전",
+        "글로벌 방산 시장 수출 계약 동향",
+        "정책적 지원 강화 여부"
       ],
       "related_news_titles": [
-        "다우 및 S&P 500, AI 관련 실적 및 중동 협상 기대감에 사상 최고치 마감",
-        "미국 증시: AI 실적 호조에 다우 및 S&P 500 사상 최고치 마감, 유가는 급락"
+        "중동 협상 기대감에 다우, S&P 사상 최고치 경신; 스페이스X, AMD는 나스닥 하락 견인"
       ]
     },
     {
@@ -332,15 +323,15 @@
       "name": "미래에셋증권",
       "market": "KOSPI",
       "sector": "증권",
-      "opinion": "관심",
-      "reason": "지정학적 긴장 완화 및 글로벌 증시의 사상 최고치 경신 소식은 국내 투자 심리에도 긍정적인 영향을 미쳐 위험자산 선호도를 높일 수 있습니다. 이는 증시 활성화로 이어져 국내 주요 증권사의 거래대금 증가 및 수익성 개선 기대로 작용할 수 있습니다.",
+      "opinion": "주의",
+      "reason": "미국 다우존스 지수의 급락은 글로벌 증시 전반의 투자 심리를 위축시키고 국내 증권사들의 실적에 직접적인 영향을 미 미칠 수 있으므로, 시장 변동성 확대에 따른 영향을 면밀히 관찰해야 합니다.",
       "check_points": [
-        "국내외 증시 거래대금 변화 추이",
-        "금리 및 환율 변동에 따른 실적 영향",
-        "해외 투자 부문 성과 및 신규 비즈니스 확장"
+        "글로벌 증시의 추가 하락 또는 반등 여부",
+        "국내 거래량 및 투자 심리 변화",
+        "금리 인하 기대감의 변화"
       ],
       "related_news_titles": [
-        "8월 4일 뉴욕 증시, 지정학적 긴장 완화에 S&P 500 및 다우 지수 사상 최고치 경신"
+        "다우존스: 2025년 4월 이후 최악의 세션, 51,594.14로 급락"
       ]
     }
   ],
