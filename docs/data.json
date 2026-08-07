@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07 10:30",
-  "analysis_date": "2026-08-07",
+  "generated_at": "2026-08-08 07:34",
+  "analysis_date": "2026-08-08",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "중동 지정학적 리스크 고조로 유가 및 원/달러 환율이 급등하며 국내 증시에 부담을 주고 있습니다. 하지만 고금리 환경 속에서도 생산성 향상에 기여하는 AI 관련 기업의 투자 매력은 여전히 높게 평가됩니다.",
-    "국내거시경제": "중동 긴장 재고조로 유가와 원/달러 환율이 1420원대로 치솟으며 국내 물가 상승 압력과 투자 심리 위축이 우려됩니다. 수출 기업에 일부 긍정적일 수 있으나, 전반적인 금융 시장 불안정성 확대에 대비해야 합니다.",
-    "글로벌경제": "연준 고위 관계자의 발언은 통화정책 방향 설정에 중요한 단서가 되므로 핵심 시그널을 주시해야 합니다. 또한 미국 고용 보고서 발표를 앞두고 시장은 관망세이며, 결과에 따라 변동성이 커질 수 있습니다.",
-    "증시금리": "고금리 지속과 지정학적 리스크에 따른 환율 급등은 국내 증시 투심을 위축시키는 주요 요인입니다. 환율 변동에 민감한 수출입 관련주와 에너지 관련주의 동향을 주시하며 포트폴리오의 방어적 재조정을 고려할 필요가 있습니다.",
-    "부동산정책": "관련 뉴스 없음.",
-    "기업산업": "고금리 환경에서도 생산성 향상에 기여하는 AI 기업들의 투자 매력이 부각됩니다. 글로벌 AI 기업들이 한국을 아태지역 사업 전초기지로 삼아 투자를 늘리면서 국내 AI 산업 생태계 발전과 관련 기업들의 성장이 기대됩니다.",
-    "오늘의투자시사점": "지정학적 리스크와 환율 변동성 확대에 대비하여 방어적 포트폴리오 전략을 유지하고, 에너지 및 환율 민감 기업의 동향을 주시해야 합니다. 동시에 생산성 혁신 AI 기업에 대한 장기적 관점의 투자는 여전히 유효하며, 연준 발언과 고용 보고서 등 글로벌 경제 지표를 면밀히 분석하여 시장 방향을 가늠하는 것이 중요합니다.",
-    "오늘의한줄": "중동 리스크에 따른 환율 급등세 속에서도, 생산성 혁신 AI 기술 기업의 투자 매력은 지속될 전망입니다."
+    "총평": "미국 고용 둔화에 따른 금리 인상 완화 기대감으로 글로벌 증시가 상승 마감했으나, 국내 증시는 주주환원 실망감으로 하락세를 보였습니다.",
+    "국내거시경제": "코스피 급락에도 원화 가치가 강세를 유지, 외국인 투자 매력 또는 달러 약세의 영향으로 분석됩니다.",
+    "글로벌경제": "미국 고용 보고서가 예상치를 밑돌며 Fed의 금리 인상 속도 조절 기대감이 커졌고, 이는 위험 자산 선호 심리를 강화했습니다.",
+    "증시금리": "미국 증시는 부진한 고용 보고서에 금리 인상 우려가 완화되며 S&P 500 지수 사상 최고치를 기록하는 등 일제히 상승했습니다. 반면, 국내 증시는 SK하이닉스 주주환원 실망감에 코스피가 하락 전환했습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "미국 금리 인상 우려 완화는 성장주 및 기술주 투자심리를 개선하고 기업 실적에 긍정적일 수 있습니다. 반면 국내에서는 SK하이닉스 주주환원 실망에 주가가 하락했습니다.",
+    "오늘의투자시사점": "미국 금리 인상 완화 기대감에 따라 성장주, 기술주 등 위험 자산에 대한 관심을 가질 필요가 있습니다. 국내에서는 기업의 주주환원 정책이 시장 전반에 미치는 영향을 주시하며, 원화 강세가 수출 기업에는 부담, 수입 및 해외 투자에는 기회가 될 수 있습니다.",
+    "오늘의한줄": "미국 고용 둔화에 따른 금리 인상 완화 기대감으로 글로벌 증시가 상승했지만, 국내 증시는 개별 기업 이슈로 하락했습니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발",
-      "display_title": "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발",
-      "original_title": "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발 - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 주식, 예상치 못한 2.3만 명 고용 감소에 급등, 금리 인상 연기 기대감 증폭",
+      "display_title": "미국 주식, 예상치 못한 2.3만 명 고용 감소에 급등, 금리 인상 연기 기대감 증폭",
+      "original_title": "U.S. stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait - BNN Bloomberg",
       "summary": [
-        "중동 지역 긴장 재고조로 국제 유가가 상승하고 안전자산 선호 심리로 달러 가치가 급등했습니다.",
-        "이로 인해 원/달러 환율이 1420원대로 치솟으며 국내 물가 상승 압력과 외국인 투자 심리 위축을 야기할 수 있습니다.",
-        "환율 상승은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 및 전반적인 금융 시장 불안정을 초래할 수 있어 투자자들은 변동성에 대비해야 합니다."
+        "미국 고용주들이 2.3만 개 일자리를 예상치 못하게 줄이면서 증시가 상승했습니다.",
+        "이는 연방준비제도(Fed)의 금리 인상 속도 조절 가능성에 대한 기대감을 높였습니다.",
+        "금리 인상 압력 완화로 위험 자산 선호 심리가 강화될 수 있습니다."
       ],
-      "summary_text": "중동 지역 긴장 재고조로 국제 유가가 상승하고 안전자산 선호 심리로 달러 가치가 급등했습니다. 이로 인해 원/달러 환율이 1420원대로 치솟으며 국내 물가 상승 압력과 외국인 투자 심리 위축을 야기할 수 있습니다. 환율 상승은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 및 전반적인 금융 시장 불안정을 초래할 수 있어 투자자들은 변동성에 대비해야 합니다.",
-      "description": "중동 지역의 지정학적 긴장이 다시 고조되면서 국제 유가와 달러 가치가 상승했으며, 이에 따라 원/달러 환율이 1420원대에서 상승 출발했습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "미국 고용주들이 2.3만 개 일자리를 예상치 못하게 줄이면서 증시가 상승했습니다. 이는 연방준비제도(Fed)의 금리 인상 속도 조절 가능성에 대한 기대감을 높였습니다. 금리 인상 압력 완화로 위험 자산 선호 심리가 강화될 수 있습니다.",
+      "description": "고용주들이 예상치 못하게 2.3만 개의 일자리를 줄이면서 미국 주식이 급등, 금리 인상 연기 기대감이 증폭되었습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "정유, 항공, 해운, 반도체(수출주), 자동차",
+      "market_impact": "긍정",
+      "related_sector": "광범위",
       "related_stocks": [
-        "SK이노베이션",
-        "대한항공",
-        "현대차"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중동 지정학적 리스크가 국내 유가, 환율, 물가에 직접적인 영향을 미쳐 투자 환경 전반의 불확실성을 높입니다.",
-      "key_signal": "중동 정세의 변화와 유가, 환율의 추가 상승 여부를 면밀히 관찰하고, 수출주와 수입주에 미치는 영향을 분석해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 고용 지표는 Fed의 통화 정책 결정에 결정적인 영향을 미치며, 이는 전 세계 증시에 직접적인 파급 효과를 가져오기 때문입니다.",
+      "key_signal": "다음 FOMC 회의에서 Fed의 금리 결정 기조 변화 여부를 면밀히 주시해야 합니다.",
       "keywords": [
-        "중동",
-        "유가",
-        "달러",
-        "환율",
-        "인플레이션"
+        "미국증시",
+        "고용지표",
+        "금리인상",
+        "연준",
+        "경기침체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JOVhnR0ttWW5uSS1DWHhCZVcyTXBVTUVYSjFvQ3dOcGI4VVJsMkV1aks3ZnpnVk5haW1QUnJtUmdCeUZGMzVmU2s1bzUxYWRVM2N3N3k4V0lhejJLY1NZVA?oc=5",
-      "published": "2026-08-07 09:39",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHNnTU1CalN6R25jSVJiNzJjRFl5dEptYjRJY3M2MXlfT3Z2dGpOYnNINWo4Xy02N242MzB0akhPcV9EdWRXekFzcmdUdWJNcTU0aW9uUmhOUzdsNi1PNmNkUGZDVmVvZkViMzd6dTV2a3R1TUtXVkVhUmdzM3k3VEkySUJOdWhwVFZPTVZYb0swSmpmSl8tY3V1TGROTlhGQkhsc21xakNIM0ctdHlN?oc=5",
+      "published": "2026-08-08 05:29",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "호르무즈발 유가 상승에 투심 난조···'1420원 중후반 등락' [환율전망]",
-      "display_title": "호르무즈발 유가 상승에 투심 난조···'1420원 중후반 등락' [환율전망]",
-      "original_title": "호르무즈발 유가 상승에 투심 난조···\"1420원 중후반 등락\" [환율전망] - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "예상보다 부진한 고용 보고서에 금리 인상 우려 완화되며 S&P 최고치 마감",
+      "display_title": "예상보다 부진한 고용 보고서에 금리 인상 우려 완화되며 S&P 최고치 마감",
+      "original_title": "S&P closes at record high as soft jobs report eases rate-hike concerns - Reuters",
       "summary": [
-        "호르무즈 해협발 지정학적 리스크로 인한 국제 유가 상승이 국내 투자 심리를 위축시키고 있습니다.",
-        "유가 상승은 물가 상승 압력과 더불어 원/달러 환율을 1420원대 중후반에서 등락하게 만들며 금융 시장의 불안정성을 높입니다.",
-        "에너지 관련주와 환율 변동에 민감한 수출입 관련 기업들의 동향을 주시하고, 포트폴리오의 방어적인 재조정이 필요할 수 있습니다."
+        "미국 고용 보고서가 예상치를 하회하며 S&P 500 지수가 사상 최고치를 기록했습니다.",
+        "이는 연방준비제도(Fed)의 추가적인 금리 인상 가능성을 낮추는 요인으로 작용했습니다.",
+        "완화된 통화정책 기대감으로 성장주와 기술주에 대한 투자심리가 개선될 수 있습니다."
       ],
-      "summary_text": "호르무즈 해협발 지정학적 리스크로 인한 국제 유가 상승이 국내 투자 심리를 위축시키고 있습니다. 유가 상승은 물가 상승 압력과 더불어 원/달러 환율을 1420원대 중후반에서 등락하게 만들며 금융 시장의 불안정성을 높입니다. 에너지 관련주와 환율 변동에 민감한 수출입 관련 기업들의 동향을 주시하고, 포트폴리오의 방어적인 재조정이 필요할 수 있습니다.",
-      "description": "호르무즈 해협을 둘러싼 지정학적 리스크로 인한 유가 상승이 투자 심리를 불안하게 만들고 있으며, 원/달러 환율이 1420원 중후반에서 등락할 것으로 전망됩니다.",
-      "category": "국내 거시경제",
+      "summary_text": "미국 고용 보고서가 예상치를 하회하며 S&P 500 지수가 사상 최고치를 기록했습니다. 이는 연방준비제도(Fed)의 추가적인 금리 인상 가능성을 낮추는 요인으로 작용했습니다. 완화된 통화정책 기대감으로 성장주와 기술주에 대한 투자심리가 개선될 수 있습니다.",
+      "description": "예상보다 부진한 고용 보고서가 금리 인상 우려를 완화시키며 S&P가 사상 최고치로 마감했습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "정유, 화학, 항공, 해운, 자동차",
+      "market_impact": "긍정",
+      "related_sector": "기술",
       "related_stocks": [
-        "SK이노베이션",
-        "대한항공",
-        "현대차"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "호르무즈 해협발 유가 상승과 환율 불안은 국내 경제와 기업 실적에 중대한 부정적 영향을 미칠 수 있습니다.",
-      "key_signal": "호르무즈 해협 관련 뉴스 및 국제 유가 변동을 지속적으로 모니터링하고, 환율 안정화 시점을 예상해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 증시의 최고치 경신은 글로벌 투자심리에 긍정적인 영향을 미치며, 국내 증시에도 영향을 줄 수 있습니다.",
+      "key_signal": "미국 증시의 상승 모멘텀이 지속될지, 그리고 Fed의 정책 기조 변화 신호가 나타날지 주목해야 합니다.",
       "keywords": [
-        "호르무즈",
-        "유가",
-        "환율",
-        "투자심리",
-        "지정학적 리스크"
+        "S&P500",
+        "최고치",
+        "고용보고서",
+        "금리인상",
+        "연준"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04N3Fkc2FjR0NTa2xxN1pfMUI5TkVtYng0VFVBa3pKUjRRSXU3NUVHZEl6eTk2TGt2WGNCU0JFalFUZDBvUE9tWm1IVDNHX1EyYTFHbm5BMGFrdDRkTEVrRg?oc=5",
-      "published": "2026-08-07 08:19",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1d0RTF2VldzYWZCaFg3YzBhd2pEamRMWWU1VWNQOGZBSnFDVXFfZDNlVVowQzFwSmVHUDdObmQ4d1VDQnpZZmlhNS1xLWJabGxUMlNPSHc0NGY2SFptZ2QzOTgxTEZQVkpFblM4ZzI4anFIUkV1amFOZlNrRDRXbTUySWl0c1VMdjdiMWJxVUtNa0RmQXB5V3l6Rnl3aTRJQi1zOW1zTFFaZ1A4YjgxSnp3?oc=5",
+      "published": "2026-08-08 05:23",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "고금리 시장에서 생산성에 초점을 맞춘 AI 주식",
-      "display_title": "고금리 시장에서 생산성에 초점을 맞춘 AI 주식",
-      "original_title": "AI Stocks For Higher Rate Markets With A Focus On Productivity - simplywall.st",
+      "title": "부진한 고용 보고서가 Fed 금리 인상 우려 완화하며 다우, S&P 500, 나스닥 상승세로 한 주 마감",
+      "display_title": "부진한 고용 보고서가 Fed 금리 인상 우려 완화하며 다우, S&P 500, 나스닥 상승세로 한 주 마감",
+      "original_title": "Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears - Proactive financial news",
       "summary": [
-        "고금리 환경 속에서도 생산성 향상에 기여하는 AI 관련 기업들의 투자 매력이 부각되고 있습니다.",
-        "경기 둔화 우려와 고금리가 지속되는 상황에서, 비용 절감 및 효율성 증대 효과를 가져오는 AI 기술의 중요성이 커지고 있습니다.",
-        "AI 기술로 생산성 혁신을 이루는 기업들을 선별하여 장기적인 관점에서 접근하는 전략을 고려할 수 있습니다."
+        "부진한 고용 보고서 발표 후 미국 3대 지수가 모두 상승하며 한 주를 마감했습니다.",
+        "연방준비제도(Fed)의 금리 인상 속도 조절에 대한 기대감이 시장에 반영되었습니다.",
+        "위험 자산 선호 심리 강화로 주식 시장 전반에 긍정적인 흐름이 이어질 수 있습니다."
       ],
-      "summary_text": "고금리 환경 속에서도 생산성 향상에 기여하는 AI 관련 기업들의 투자 매력이 부각되고 있습니다. 경기 둔화 우려와 고금리가 지속되는 상황에서, 비용 절감 및 효율성 증대 효과를 가져오는 AI 기술의 중요성이 커지고 있습니다. AI 기술로 생산성 혁신을 이루는 기업들을 선별하여 장기적인 관점에서 접근하는 전략을 고려할 수 있습니다.",
-      "description": "고금리 시장 환경에서 생산성 향상에 중점을 둔 인공지능(AI) 관련 주식에 대한 투자 관심이 높아지고 있습니다.",
-      "category": "기업·산업",
+      "summary_text": "부진한 고용 보고서 발표 후 미국 3대 지수가 모두 상승하며 한 주를 마감했습니다. 연방준비제도(Fed)의 금리 인상 속도 조절에 대한 기대감이 시장에 반영되었습니다. 위험 자산 선호 심리 강화로 주식 시장 전반에 긍정적인 흐름이 이어질 수 있습니다.",
+      "description": "부진한 고용 보고서가 연준의 금리 인상 우려를 완화시키면서 다우, S&P 500, 나스닥이 상승세를 보이며 한 주를 마감했습니다.",
+      "category": "증시·금리",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "인공지능, 소프트웨어, 반도체",
+      "related_sector": "광범위",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "고금리 환경에서도 AI 기술을 통한 생산성 향상 기업들은 지속적인 성장 동력을 가질 수 있어 투자 가치가 높습니다.",
-      "key_signal": "AI 기술을 활용하여 실제 생산성 지표 개선을 입증하고 있는 기업들을 주목해야 합니다.",
+      "investment_reason": "주요 증시 지수 상승은 투자자 신뢰 회복과 전반적인 시장 분위기 개선에 기여하며 국내 증시에도 영향을 줄 수 있습니다.",
+      "key_signal": "이번 주 미 증시 강세가 다음 주에도 이어지는지, 그리고 다른 경제 지표들이 고용 보고서와 유사한 흐름을 보이는지 확인해야 합니다.",
       "keywords": [
-        "AI",
-        "인공지능",
-        "생산성",
-        "고금리",
-        "기술주"
+        "다우지수",
+        "나스닥",
+        "고용보고서",
+        "금리우려",
+        "주식시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaDZ5TWdrdElSdW5KaWE0QWxCOFF6TEFzbUZKMEFiMXdiOW1KTmVwVVR6ZjVfQjFpRnFLY2FVN3VENkVHdUU3eEFfX0FCN3lVUndsYzk5V1hYZkc1WFhHcVRROGVuLTdWaldFT3F0bHowMF9KNzEweUlzX0NYOVplM2NuYXhMRFpSWkdpWmNuMjNjUFhoRGxrcUNvcFFxb1NnTXhkRWttZ0ZPQ00ybDJNcWxsZ0lkTV9pTDRqZW5vNDZpczJSLVZ0ejV2RGFqaktWSndObVlNamtMRWPSAdsBQVVfeXFMTmg2eU1na3RJUnVuSmlhNEFsQjhRekxBc21GSjBBYjF3YjltSk5lcFVUemY1X0IxaUZxS2NhVTd1RDZFR3VFN3hBX19BQjd5VVJ3bGM5OVdYWGZHNVhYR3FUUThlbi03VmpXRU9xdGx6MDBfSjcxMHlJc19DWDlaZTNjbmF4TERaUlpHaVpjbjIzY1BYaERsa3FDb3BRcW9TZ014ZEVrbWdGT0NNMmwyTXFsbGdJZE1faUw0amVubzQ2aXMyUi1WdHo1dkRhampLVkp3Tm1ZTWprTEVj?oc=5",
-      "published": "2026-08-07 04:41",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHYzRXhCVmM3V01JRG5pNG40Y0x4UzBXOFRQYjFwbTcwblRxWHp0TEJESlJIRHViR3ZqSTdJOHJCdXlVc1BtWkszTmhKNUs3RGxLczUySVhBeTU0cXc2NEVpQm5hTFZfSmtrdVRpQ2pXalI2NV9XTzhaT3dib1BtQURMWVFUY0xaMXI5VVRKZGo3cF9oMW52bVdfRDBxZE4ySVI2YmF2cm0zUThhV2tJVVdSTVNOUG80Q1Q4QnVXeEc4cFBJam1FQ3RRR19iMGly?oc=5",
+      "published": "2026-08-08 05:17",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,33 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "케빈 워시 연준 의장이 10번 반복한 한 단어가 중앙은행 통화정책을 재편했다",
-      "display_title": "케빈 워시 연준 의장이 10번 반복한 한 단어가 중앙은행 통화정책을 재편했다",
-      "original_title": "One Word Repeated 10 Times by Fed Chair Kevin Warsh Has Effectively Reshaped the Central Bank's Monetary Policy Approach - AOL.com",
+      "title": "미국 주식, 2.3만 개 예상치 못한 일자리 감소에 급등, 금리 인상 연기 기대감 고조",
+      "display_title": "미국 주식, 2.3만 개 예상치 못한 일자리 감소에 급등, 금리 인상 연기 기대감 고조",
+      "original_title": "US stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait - WHEC.com",
       "summary": [
-        "과거 연준 고위 관계자의 발언이 중앙은행 통화정책에 중대한 영향을 미쳤으며, 이는 현재 정책 기조에도 시사하는 바가 큽니다.",
-        "연준 고위 관계자들의 발언은 시장의 기대와 통화정책 방향을 설정하는 데 결정적인 역할을 합니다.",
-        "현재 연준 의장을 비롯한 FOMC 위원들의 발언에서 시장의 방향을 가늠할 핵심적인 단어나 문맥을 찾아 투자 전략에 반영해야 합니다."
+        "미국에서 예상치 못한 2.3만 개의 일자리 감소 소식에 주식 시장이 큰 폭으로 상승했습니다.",
+        "이는 연방준비제도(Fed)가 금리 인상 정책을 완화하거나 연기할 수 있다는 기대를 불러일으켰습니다.",
+        "금리 인상 부담 감소는 기업들의 자금 조달 비용을 줄여 실적 개선에 긍정적으로 작용할 수 있습니다."
       ],
-      "summary_text": "과거 연준 고위 관계자의 발언이 중앙은행 통화정책에 중대한 영향을 미쳤으며, 이는 현재 정책 기조에도 시사하는 바가 큽니다. 연준 고위 관계자들의 발언은 시장의 기대와 통화정책 방향을 설정하는 데 결정적인 역할을 합니다. 현재 연준 의장을 비롯한 FOMC 위원들의 발언에서 시장의 방향을 가늠할 핵심적인 단어나 문맥을 찾아 투자 전략에 반영해야 합니다.",
-      "description": "과거 케빈 워시 연준 의장이 특정 단어를 여러 차례 반복 사용함으로써 연방준비제도(Fed)의 통화정책 기조에 큰 변화를 가져왔다는 분석입니다.",
-      "category": "글로벌 경제",
+      "summary_text": "미국에서 예상치 못한 2.3만 개의 일자리 감소 소식에 주식 시장이 큰 폭으로 상승했습니다. 이는 연방준비제도(Fed)가 금리 인상 정책을 완화하거나 연기할 수 있다는 기대를 불러일으켰습니다. 금리 인상 부담 감소는 기업들의 자금 조달 비용을 줄여 실적 개선에 긍정적으로 작용할 수 있습니다.",
+      "description": "미국 고용주들이 예상치 못하게 2.3만 개의 일자리를 줄이면서 미국 주식이 급등, 금리 인상 연기 기대감이 고조되었습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "금융, 증권",
-      "related_stocks": [],
-      "investment_view": "관심",
-      "investment_reason": "연준의 통화정책 기조 변화는 글로벌 금리 및 환율 시장에 지대한 영향을 미치므로 항상 주시해야 합니다.",
-      "key_signal": "현 연준 의장 및 FOMC 위원들의 발언에서 향후 통화정책 방향을 암시하는 핵심적인 신호를 파악해야 합니다.",
-      "keywords": [
-        "연준",
-        "통화정책",
-        "금리",
-        "FOMC",
-        "발언"
+      "market_impact": "긍정",
+      "related_sector": "금융",
+      "related_stocks": [
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SMzJTMjJUa0dySjlwckRvSjlCSWhHOWFyZ1NkRS1yYVFCTkRLcUdxb0lneHBpd0QtOTlDWWkyS242RC05b20tXzNRY1hhVW1ZbWlBRURhNUhfZkZRWWtPbUZOOFZJRW9EZ1ZGVHR0ZFBUQXFOQWV1TkZR?oc=5",
-      "published": "2026-08-07 01:03",
+      "investment_view": "관심",
+      "investment_reason": "미국 고용 지표 변화는 글로벌 유동성 환경에 직접적인 영향을 미치며, 국내 주식 시장의 투자 전략 수립에 중요한 단서가 됩니다.",
+      "key_signal": "연준 관계자들의 발언을 통해 고용 시장 둔화에 대한 Fed의 공식적인 입장을 파악하는 것이 중요합니다.",
+      "keywords": [
+        "미국주식",
+        "일자리감소",
+        "금리인상",
+        "연준정책",
+        "유동성"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQUZlYTFveG5mT3lKM25KTkV4OVFiOUtHSmRjQzRIdGJ5VHJRUGF2MDVQMXhGdlh1SElNZzdRbTlpeFEzTm5zMGJxX0N2YnhUNE42ZDg0SG84dENHZlVoY2FCUXlKUlNrYzF1NWRrU2ZqQkVGN0xCUHAyZ3MyQnplVEpsdnFnV28wUF9ncWtHeFRRTE93bW9jVEVKY0lQdXBxR1l0d25rV2YyY3dpM05EUU16c0RYRDlVbnVneFRybHR0dHhYaWJ3?oc=5",
+      "published": "2026-08-08 05:09",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -189,42 +193,42 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "트레이딩 데이: 고용 보고서 발표 전 관망세",
-      "display_title": "트레이딩 데이: 고용 보고서 발표 전 관망세",
-      "original_title": "Trading Day: Pause before jobs - The Mighty 790 KFGO",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "금리보다 수익률… 코스피 급락에도 원화가 강해진 이유는",
+      "display_title": "금리보다 수익률… 코스피 급락에도 원화가 강해진 이유는",
+      "original_title": "금리보다 수익률… 코스피 급락에도 원화가 강해진 이유는 - 조선비즈 - Chosunbiz",
       "summary": [
-        "미국 고용 보고서 발표를 앞두고 투자자들이 관망세를 보이며 시장 거래가 한산한 모습입니다.",
-        "고용 보고서는 연준의 향후 통화정책 방향을 가늠할 중요한 지표이므로, 시장은 보고서 결과에 촉각을 곤두세우고 있습니다.",
-        "고용 보고서 결과에 따라 시장의 변동성이 커질 수 있으므로, 발표 전후로 신중한 투자 전략을 유지해야 합니다."
+        "코스피 지수 급락에도 불구하고 원화 가치가 강세를 유지하는 이례적인 현상이 나타났습니다.",
+        "이는 국내 증시 하락에도 불구하고 외국인 투자자들의 한국 채권 및 주식에 대한 투자 매력이 유지되거나, 달러 약세 등의 외부 요인이 복합적으로 작용한 것으로 분석됩니다.",
+        "원화 강세는 수출 기업에는 부담이 될 수 있으나, 수입 기업 및 해외 투자에는 긍정적인 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "미국 고용 보고서 발표를 앞두고 투자자들이 관망세를 보이며 시장 거래가 한산한 모습입니다. 고용 보고서는 연준의 향후 통화정책 방향을 가늠할 중요한 지표이므로, 시장은 보고서 결과에 촉각을 곤두세우고 있습니다. 고용 보고서 결과에 따라 시장의 변동성이 커질 수 있으므로, 발표 전후로 신중한 투자 전략을 유지해야 합니다.",
-      "description": "미국 고용 보고서 발표를 앞두고 투자자들이 시장 동향을 관망하며 신중한 거래를 보이고 있습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
+      "summary_text": "코스피 지수 급락에도 불구하고 원화 가치가 강세를 유지하는 이례적인 현상이 나타났습니다. 이는 국내 증시 하락에도 불구하고 외국인 투자자들의 한국 채권 및 주식에 대한 투자 매력이 유지되거나, 달러 약세 등의 외부 요인이 복합적으로 작용한 것으로 분석됩니다. 원화 강세는 수출 기업에는 부담이 될 수 있으나, 수입 기업 및 해외 투자에는 긍정적인 영향을 미칠 수 있습니다.",
+      "description": "코스피 지수가 급락했음에도 불구하고, 금리보다는 수익률을 선호하는 시장 분위기 때문에 원화 가치가 강세를 보인 이유를 분석합니다.",
+      "category": "국내 거시경제",
+      "importance": 7,
       "market_impact": "중립",
-      "related_sector": "증권, 금융",
+      "related_sector": "환율 민감 업종",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "현대차",
+        "삼성전자",
+        "한국전력"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 고용 지표는 연준의 통화정책 방향과 글로벌 경기 전망에 결정적인 영향을 미치므로 주의 깊게 살펴야 합니다.",
-      "key_signal": "예정된 미국 고용 보고서 발표 결과와 시장의 반응을 확인하여 투자 방향을 설정해야 합니다.",
+      "investment_reason": "원화 강세는 국내 기업의 수익성 및 한국 시장의 외국인 투자심리에 직접적인 영향을 미치므로 투자 전략 수립 시 면밀한 분석이 필요합니다.",
+      "key_signal": "환율 변동 추이와 외국인 자금 유출입 동향을 지속적으로 모니터링하여 원화 강세의 지속 여부를 판단해야 합니다.",
       "keywords": [
-        "고용보고서",
-        "미국경제",
-        "연준",
-        "통화정책",
-        "시장관망"
+        "원화강세",
+        "코스피",
+        "금리",
+        "수익률",
+        "환율"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYOVNOV2J1OGhHNGdEc0xndWUxM2NoSFltTHRucTR1aVZzYjNRaUpJV1hpc3dDUmQ3YmNiQVRJUGtRQU9nTm05LWtLMGpwQ1Ayelg4YWNlWTV4U2I2UksydWJXY0c4RFRSRFE?oc=5",
-      "published": "2026-08-07 06:24",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEJFTnA0RHpkcWpIRTRTRzVWU1R1Qlk4MWNDUEplMDJRdGhQeUM0ZzFRa0VfMjIxWG85a1Y4OXU5akh5XzBkc1YzRFh1U1g3Z3M1ZkpyUDFZNktIajl5RzZnUHdOZmJaN1ZuWjFCVGZKRXBMM0U0MGdEZmcwM0Z3YlJmVjJZWUZpcnpvUlZLcm0wQ2R6WkQxanNR0gGaAUFVX3lxTE54QkVOcDREemRxakhFNFNHNVZTVHVCWTgxY0NQSmUwMlF0aFB5QzRnMVFrRV8yMjFYbzlrVjg5dTlqSHlfMGRzVjNEWHVTWDdnczVmSnJQMVk2S0hqOXlHNmdQd05mYlo3Vm5aMUJUZkpFcEwzRTQwZ0RmZzAzRndiUmZWMllZRmlyem9SVktybTBDZHpaRDFqc1E?oc=5",
+      "published": "2026-08-08 06:08",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -234,37 +238,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로",
-      "display_title": "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로",
-      "original_title": "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로 - 디지털데일리",
+      "title": "주주환원 실망에 SK하이닉스 하락… 코스피도 하락 전환",
+      "display_title": "주주환원 실망에 SK하이닉스 하락… 코스피도 하락 전환",
+      "original_title": "주주환원 실망에 SK하이닉스↓…코스피도 하락 전환 - news.nate.com",
       "summary": [
-        "글로벌 AI 기업들이 한국을 아태지역 사업 확장의 핵심 거점으로 삼아 투자를 늘리고 있습니다.",
-        "이는 한국의 우수한 IT 인프라, 숙련된 인재, 그리고 높은 기술 수용도 등이 복합적으로 작용한 결과입니다.",
-        "글로벌 AI 기업의 한국 투자 증가는 국내 AI 산업 생태계 발전과 관련 기업들의 동반 성장을 촉진할 수 있습니다."
+        "SK하이닉스의 주주환원 정책이 시장의 기대를 충족시키지 못하면서 주가가 하락했고, 코스피 지수도 동반 하락했습니다.",
+        "최근 기업들의 주주환원 확대가 기대되는 가운데, SK하이닉스의 정책이 실망감으로 작용하며 투자심리가 위축된 것으로 보입니다.",
+        "기업의 주주환원 정책은 개별 종목뿐 아니라 전체 시장의 투자심리에도 영향을 미치므로, 기업의 중장기 주주환원 계획을 중요하게 고려해야 합니다."
       ],
-      "summary_text": "글로벌 AI 기업들이 한국을 아태지역 사업 확장의 핵심 거점으로 삼아 투자를 늘리고 있습니다. 이는 한국의 우수한 IT 인프라, 숙련된 인재, 그리고 높은 기술 수용도 등이 복합적으로 작용한 결과입니다. 글로벌 AI 기업의 한국 투자 증가는 국내 AI 산업 생태계 발전과 관련 기업들의 동반 성장을 촉진할 수 있습니다.",
-      "description": "글로벌 인공지능(AI) 기업들이 한국을 아시아태평양 시장 공략의 전초기지로 삼아 투자를 확대하고 있습니다.",
-      "category": "기업·산업",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "인공지능, 소프트웨어, 클라우드, 반도체",
+      "summary_text": "SK하이닉스의 주주환원 정책이 시장의 기대를 충족시키지 못하면서 주가가 하락했고, 코스피 지수도 동반 하락했습니다. 최근 기업들의 주주환원 확대가 기대되는 가운데, SK하이닉스의 정책이 실망감으로 작용하며 투자심리가 위축된 것으로 보입니다. 기업의 주주환원 정책은 개별 종목뿐 아니라 전체 시장의 투자심리에도 영향을 미치므로, 기업의 중장기 주주환원 계획을 중요하게 고려해야 합니다.",
+      "description": "주주환원 정책에 대한 실망감으로 SK하이닉스 주가가 하락했고, 이는 코스피 지수 하락 전환에도 영향을 미쳤습니다.",
+      "category": "증시·금리",
+      "importance": 7,
+      "market_impact": "부정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "삼성전자",
         "SK하이닉스",
-        "네이버"
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 AI 기업들의 한국 시장 진출 및 투자는 국내 AI 관련 기업들의 성장 기회로 작용할 수 있습니다.",
-      "key_signal": "국내 AI 인프라 및 소프트웨어 기업 중 글로벌 기업과 협력 가능성이 높은 곳을 선별하여 투자 기회를 모색해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 대표 반도체 기업의 주주환원 정책은 시장 전반의 투자심리에 영향을 주며, 특히 대형주 투자에 중요한 지표가 됩니다.",
+      "key_signal": "SK하이닉스의 향후 주주환원 계획 변경 여부와 다른 대형주들의 주주환원 정책 방향을 주시해야 합니다.",
       "keywords": [
-        "AI",
-        "인공지능",
-        "한국시장",
-        "글로벌기업",
-        "기술투자"
+        "SK하이닉스",
+        "주주환원",
+        "코스피",
+        "반도체",
+        "투자심리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uTW80czEzS1BNV3Q1RGlramxhSmhOUU1fY2w2ekdiaUxWWWxiNjRDSlVlRm10ajRXbmY4TWEyWUxrNUR1VVA0cTVhWGc2d2FKbGVWS0x0enllbDFZeXltUC1qcUg?oc=5",
-      "published": "2026-08-07 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wVWFGZ0NfUUJiQk1HbWdfSm1WQXdwRHFid0FMc3pjNWRTTkd1dHdlQzZjQzRHVnR5eERlQi1FRUFHLW9fVDFaTFFoNnB4aWV0ZG9V?oc=5",
+      "published": "2026-08-07 20:03",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -275,70 +278,65 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "고금리 환경에서도 AI 기술을 통한 생산성 향상 기업들은 지속적인 성장 동력을 가질 수 있으며, 글로벌 AI 기업들의 한국 시장 진출로 국내 AI 관련 기업들의 성장 기회가 확대될 수 있습니다. SK하이닉스는 AI 반도체 핵심 기업으로 주목받고 있습니다.",
-      "check_points": [
-        "글로벌 AI 반도체 수요 증가 추이",
-        "주요 고객사의 AI 서버 투자 동향",
-        "고대역폭 메모리(HBM) 기술 경쟁력"
-      ],
-      "related_news_titles": [
-        "고금리 시장에서 생산성에 초점을 맞춘 AI 주식",
-        "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로"
-      ]
-    },
-    {
-      "rank": 2,
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 AI 기업들의 한국 시장 진출 및 투자는 국내 AI 관련 기업들의 성장 기회로 작용할 수 있으며, 삼성전자는 AI 반도체 시장의 주요 플레이어로 부각될 수 있습니다. AI 기술을 통한 생산성 향상 기대감도 있습니다.",
+      "reason": "미국 고용 지표 부진으로 인한 금리 인상 우려 완화는 글로벌 유동성 확대로 이어져 국내 대표 기술주 및 반도체 업종에 긍정적인 투자심리를 제공할 수 있습니다.",
       "check_points": [
-        "AI 관련 신기술 개발 및 투자 동향",
-        "글로벌 반도체 시장 수요 회복 속도",
-        "파운드리 및 메모리 부문의 AI 전략"
+        "미국 금리 인하 시점 구체화 여부",
+        "반도체 업황 개선 기대감 지속 여부"
       ],
       "related_news_titles": [
-        "고금리 시장에서 생산성에 초점을 맞춘 AI 주식",
-        "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로"
+        "미국 주식, 예상치 못한 2.3만 명 고용 감소에 급등, 금리 인상 연기 기대감 증폭",
+        "미국 주식, 2.3만 개 예상치 못한 일자리 감소에 급등, 금리 인상 연기 기대감 고조"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "네이버",
+      "market": "KOSPI",
+      "sector": "인터넷 서비스",
+      "opinion": "관심",
+      "reason": "금리 인상 지연 기대감은 성장주로 분류되는 인터넷 플랫폼 기업의 밸류에이션 부담을 완화하고, 전반적인 투자심리를 개선하는 요인으로 작용할 수 있습니다.",
+      "check_points": [
+        "미국 기술주 동향 및 나스닥 지수 흐름",
+        "국내 광고 및 이커머스 시장 성장률 추이"
+      ],
+      "related_news_titles": [
+        "미국 주식, 예상치 못한 2.3만 명 고용 감소에 급등, 금리 인상 연기 기대감 증폭",
+        "미국 주식, 2.3만 개 예상치 못한 일자리 감소에 급등, 금리 인상 연기 기대감 고조"
       ]
     },
     {
       "rank": 3,
-      "name": "SK이노베이션",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "정유",
-      "opinion": "주의",
-      "reason": "중동 지정학적 리스크 재고조로 인한 국제 유가 상승과 원-달러 환율 불안은 정유 기업의 원가 부담을 가중시키고 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+      "sector": "증권",
+      "opinion": "관심",
+      "reason": "미국 증시의 최고치 경신과 금리 인상 우려 완화는 전반적인 투자심리를 개선시켜 국내 증시 거래대금 증가 및 증권사의 실적 개선에 긍정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "국제 유가 변동성 (두바이유, WTI 등)",
-        "중동 정세 변화 및 지정학적 긴장 완화 여부",
-        "원-달러 환율 추이"
+        "국내 증시 거래량 및 거래대금 추이",
+        "외국인 투자자 국내 증시 순매수 규모"
       ],
       "related_news_titles": [
-        "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발",
-        "호르무즈발 유가 상승에 투심 난조···'1420원 중후반 등락' [환율전망]"
+        "예상보다 부진한 고용 보고서에 금리 인상 우려 완화되며 S&P 최고치 마감",
+        "부진한 고용 보고서가 Fed 금리 인상 우려 완화하며 다우, S&P 500, 나스닥 상승세로 한 주 마감"
       ]
     },
     {
       "rank": 4,
-      "name": "대한항공",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "항공",
+      "sector": "반도체",
       "opinion": "주의",
-      "reason": "유가 상승은 항공사의 핵심 비용인 유류비 부담을 직접적으로 증가시키고, 달러 강세는 외화 부채 상환 부담을 가중시켜 실적 악화로 이어질 수 있어 주의가 필요합니다.",
+      "reason": "주주환원 정책에 대한 시장의 실망감은 단기적인 주가 하락 압력으로 작용할 수 있으며, 이는 개별 종목의 수급에 부정적인 영향을 미칠 수 있어 신중한 접근이 필요합니다.",
       "check_points": [
-        "국제 유가 및 항공유 가격 추이",
-        "원-달러 환율 변동성",
-        "국제선 여객 및 화물 수요 변화"
+        "향후 주주환원 정책 추가 발표 여부",
+        "반도체 고대역폭 메모리(HBM) 시장 경쟁 심화 양상"
       ],
       "related_news_titles": [
-        "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발",
-        "호르무즈발 유가 상승에 투심 난조···'1420원 중후반 등락' [환율전망]"
+        "주주환원 실망에 SK하이닉스 하락… 코스피도 하락 전환"
       ]
     }
   ],
