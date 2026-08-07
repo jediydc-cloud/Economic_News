@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06 07:58",
-  "analysis_date": "2026-08-06",
+  "generated_at": "2026-08-07 10:30",
+  "analysis_date": "2026-08-07",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 경기 침체 경고음이 고조되는 가운데, 해외 증시는 혼조세를 보였습니다. 국내 증시는 반도체 업황 기대감에 힘입어 상승세를 이어갔습니다.",
-    "국내거시경제": "국내 증시는 반도체 업황 개선 기대감으로 강세를 보이며, 주요 산업의 긍정적 흐름이 시장 전반에 영향을 주었습니다.",
-    "글로벌경제": "금융 전략가들은 미국 경제 붕괴 시 세계 경제도 동반 붕괴할 것이며, 이미 세계가 경기 침체 국면에 있음을 경고하며 글로벌 경제 둔화에 대한 우려를 심화시켰습니다.",
-    "증시금리": "해외 증시는 혼조세를 보였습니다. 다우존스는 사상 최악의 세션을 기록했으나, 중동 협상 기대감에 다우 및 S&P500은 사상 최고치를 경신했습니다. 나스닥은 일부 기술주의 부진으로 하락했습니다. 국내 증시는 반도체 훈풍에 코스피 6,600선에 육박하며 코스닥도 4일 연속 상승했습니다.",
-    "부동산정책": "세금 부담 증가로 집주인들이 임차인을 내보내고 직접 거주하는 현상이 확산되며, 임대차 시장의 공급 위축 가능성이 제기되었습니다.",
-    "기업산업": "국내 반도체 업황 개선에 대한 기대감이 증폭되며 관련 산업에 긍정적인 영향을 미쳤습니다. 반면, 해외 대형 기술 기업인 스페이스X와 AMD는 부진한 주가를 기록했습니다.",
-    "오늘의투자시사점": "글로벌 경기 침체 가능성에 대비하여 포트폴리오의 방어적 자산 비중을 고려하고 위험 자산 노출을 재검토해야 합니다. 국내 반도체 업종의 실적 개선 추이를 주시하며 투자 기회를 모색하고, 글로벌 기술주 및 중동 지정학적 리스크 완화에 따른 시장 차별화에 유의해야 합니다.",
-    "오늘의한줄": "글로벌 경기 침체 경고와 해외 증시 혼조 속, 국내 증시는 반도체 강세에 힘입어 상승세를 이어갔습니다."
+    "총평": "중동 지정학적 리스크 고조로 유가 및 원/달러 환율이 급등하며 국내 증시에 부담을 주고 있습니다. 하지만 고금리 환경 속에서도 생산성 향상에 기여하는 AI 관련 기업의 투자 매력은 여전히 높게 평가됩니다.",
+    "국내거시경제": "중동 긴장 재고조로 유가와 원/달러 환율이 1420원대로 치솟으며 국내 물가 상승 압력과 투자 심리 위축이 우려됩니다. 수출 기업에 일부 긍정적일 수 있으나, 전반적인 금융 시장 불안정성 확대에 대비해야 합니다.",
+    "글로벌경제": "연준 고위 관계자의 발언은 통화정책 방향 설정에 중요한 단서가 되므로 핵심 시그널을 주시해야 합니다. 또한 미국 고용 보고서 발표를 앞두고 시장은 관망세이며, 결과에 따라 변동성이 커질 수 있습니다.",
+    "증시금리": "고금리 지속과 지정학적 리스크에 따른 환율 급등은 국내 증시 투심을 위축시키는 주요 요인입니다. 환율 변동에 민감한 수출입 관련주와 에너지 관련주의 동향을 주시하며 포트폴리오의 방어적 재조정을 고려할 필요가 있습니다.",
+    "부동산정책": "관련 뉴스 없음.",
+    "기업산업": "고금리 환경에서도 생산성 향상에 기여하는 AI 기업들의 투자 매력이 부각됩니다. 글로벌 AI 기업들이 한국을 아태지역 사업 전초기지로 삼아 투자를 늘리면서 국내 AI 산업 생태계 발전과 관련 기업들의 성장이 기대됩니다.",
+    "오늘의투자시사점": "지정학적 리스크와 환율 변동성 확대에 대비하여 방어적 포트폴리오 전략을 유지하고, 에너지 및 환율 민감 기업의 동향을 주시해야 합니다. 동시에 생산성 혁신 AI 기업에 대한 장기적 관점의 투자는 여전히 유효하며, 연준 발언과 고용 보고서 등 글로벌 경제 지표를 면밀히 분석하여 시장 방향을 가늠하는 것이 중요합니다.",
+    "오늘의한줄": "중동 리스크에 따른 환율 급등세 속에서도, 생산성 혁신 AI 기술 기업의 투자 매력은 지속될 전망입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "\"미국 경제 붕괴 시 세계 경제도 붕괴\" 금융 전략가 경고",
-      "display_title": "\"미국 경제 붕괴 시 세계 경제도 붕괴\" 금융 전략가 경고",
-      "original_title": "\"If the U.S. Economy Crashes, the Global Economy Crashes\" - Financial strategist claims Watch full interview: https://youtu.be/tyvOOj3enjQ #trusttvnews #globaleconomy #recession - instagram.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발",
+      "display_title": "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발",
+      "original_title": "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발 - 네이트",
       "summary": [
-        "금융 전략가가 미국 경제 붕괴가 세계 경제 전반의 붕괴로 이어질 것이라고 경고했습니다.",
-        "이 발언은 전 세계 경제가 미국 경제에 대한 높은 의존도를 가지고 있음을 시사하며, 잠재적 경기 침체 우려를 강조합니다.",
-        "투자자들은 미국 경제 지표와 정책 변화를 주시하며 글로벌 경기 침체 가능성에 대비해야 합니다."
+        "중동 지역 긴장 재고조로 국제 유가가 상승하고 안전자산 선호 심리로 달러 가치가 급등했습니다.",
+        "이로 인해 원/달러 환율이 1420원대로 치솟으며 국내 물가 상승 압력과 외국인 투자 심리 위축을 야기할 수 있습니다.",
+        "환율 상승은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 및 전반적인 금융 시장 불안정을 초래할 수 있어 투자자들은 변동성에 대비해야 합니다."
       ],
-      "summary_text": "금융 전략가가 미국 경제 붕괴가 세계 경제 전반의 붕괴로 이어질 것이라고 경고했습니다. 이 발언은 전 세계 경제가 미국 경제에 대한 높은 의존도를 가지고 있음을 시사하며, 잠재적 경기 침체 우려를 강조합니다. 투자자들은 미국 경제 지표와 정책 변화를 주시하며 글로벌 경기 침체 가능성에 대비해야 합니다.",
-      "description": "한 금융 전략가가 미국 경제가 붕괴하면 전 세계 경제가 함께 붕괴할 것이라고 주장하며 인터뷰를 통해 경고했다.",
-      "category": "글로벌 경제",
+      "summary_text": "중동 지역 긴장 재고조로 국제 유가가 상승하고 안전자산 선호 심리로 달러 가치가 급등했습니다. 이로 인해 원/달러 환율이 1420원대로 치솟으며 국내 물가 상승 압력과 외국인 투자 심리 위축을 야기할 수 있습니다. 환율 상승은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 및 전반적인 금융 시장 불안정을 초래할 수 있어 투자자들은 변동성에 대비해야 합니다.",
+      "description": "중동 지역의 지정학적 긴장이 다시 고조되면서 국제 유가와 달러 가치가 상승했으며, 이에 따라 원/달러 환율이 1420원대에서 상승 출발했습니다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "없음",
+      "related_sector": "정유, 항공, 해운, 반도체(수출주), 자동차",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "SK이노베이션",
+        "대한항공",
+        "현대차"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 경제의 건전성이 글로벌 시장과 투자 심리에 막대한 영향을 미치므로, 잠재적 위험에 대한 인식이 필수적입니다.",
-      "key_signal": "향후 발표될 미국의 경제 성장률, 고용 지표, 금리 정책 등을 통해 실제 경제 상황을 면밀히 파악해야 합니다.",
+      "investment_reason": "중동 지정학적 리스크가 국내 유가, 환율, 물가에 직접적인 영향을 미쳐 투자 환경 전반의 불확실성을 높입니다.",
+      "key_signal": "중동 정세의 변화와 유가, 환율의 추가 상승 여부를 면밀히 관찰하고, 수출주와 수입주에 미치는 영향을 분석해야 합니다.",
       "keywords": [
-        "미국 경제",
-        "글로벌 경제",
-        "경기 침체",
-        "금융 전략가",
-        "경제 붕괴"
+        "중동",
+        "유가",
+        "달러",
+        "환율",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OG04cTlxeGcwX0R2SDE0QWNCa1FYNHJVaXVFdUpKZFBVZktmNDk3eWNoZDNpZzdKRU5wdURybTRTMFJZdXdNOVhSUmtVTmdfRVI2V01R?oc=5",
-      "published": "2026-08-05 21:36",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JOVhnR0ttWW5uSS1DWHhCZVcyTXBVTUVYSjFvQ3dOcGI4VVJsMkV1aks3ZnpnVk5haW1QUnJtUmdCeUZGMzVmU2s1bzUxYWRVM2N3N3k4V0lhejJLY1NZVA?oc=5",
+      "published": "2026-08-07 09:39",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "다우존스: 2025년 4월 이후 최악의 세션, 51,594.14로 급락",
-      "display_title": "다우존스: 2025년 4월 이후 최악의 세션, 51,594.14로 급락",
-      "original_title": "Dow Jones: DJIA Plunges to 51 594,14 in Its Worst Session Since April 2025 - BBN Times",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "호르무즈발 유가 상승에 투심 난조···'1420원 중후반 등락' [환율전망]",
+      "display_title": "호르무즈발 유가 상승에 투심 난조···'1420원 중후반 등락' [환율전망]",
+      "original_title": "호르무즈발 유가 상승에 투심 난조···\"1420원 중후반 등락\" [환율전망] - 네이트",
       "summary": [
-        "다우존스 산업평균지수가 2025년 4월 이후 가장 큰 폭으로 하락하며 51,594.14를 기록했습니다.",
-        "이는 시장에 예상치 못한 큰 충격이 있었음을 시사하며, 투자 심리 위축과 경기 둔화 우려를 반영할 수 있습니다.",
-        "투자자들은 급락의 원인을 분석하고, 글로벌 경기 침체 가능성과 추가적인 시장 변동성에 대비해야 합니다."
+        "호르무즈 해협발 지정학적 리스크로 인한 국제 유가 상승이 국내 투자 심리를 위축시키고 있습니다.",
+        "유가 상승은 물가 상승 압력과 더불어 원/달러 환율을 1420원대 중후반에서 등락하게 만들며 금융 시장의 불안정성을 높입니다.",
+        "에너지 관련주와 환율 변동에 민감한 수출입 관련 기업들의 동향을 주시하고, 포트폴리오의 방어적인 재조정이 필요할 수 있습니다."
       ],
-      "summary_text": "다우존스 산업평균지수가 2025년 4월 이후 가장 큰 폭으로 하락하며 51,594.14를 기록했습니다. 이는 시장에 예상치 못한 큰 충격이 있었음을 시사하며, 투자 심리 위축과 경기 둔화 우려를 반영할 수 있습니다. 투자자들은 급락의 원인을 분석하고, 글로벌 경기 침체 가능성과 추가적인 시장 변동성에 대비해야 합니다.",
-      "description": "다우존스 산업평균지수(DJIA)가 51,594.14로 급락하며 2025년 4월 이후 최악의 일일 하락폭을 기록했다.",
-      "category": "증시·금리",
+      "summary_text": "호르무즈 해협발 지정학적 리스크로 인한 국제 유가 상승이 국내 투자 심리를 위축시키고 있습니다. 유가 상승은 물가 상승 압력과 더불어 원/달러 환율을 1420원대 중후반에서 등락하게 만들며 금융 시장의 불안정성을 높입니다. 에너지 관련주와 환율 변동에 민감한 수출입 관련 기업들의 동향을 주시하고, 포트폴리오의 방어적인 재조정이 필요할 수 있습니다.",
+      "description": "호르무즈 해협을 둘러싼 지정학적 리스크로 인한 유가 상승이 투자 심리를 불안하게 만들고 있으며, 원/달러 환율이 1420원 중후반에서 등락할 것으로 전망됩니다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전반적 시장",
+      "related_sector": "정유, 화학, 항공, 해운, 자동차",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK이노베이션",
+        "대한항공",
+        "현대차"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 다우존스 지수의 급락은 글로벌 증시에 직접적인 영향을 미치며, 투자 심리를 위축시키고 시장 불안을 가중시킬 수 있습니다.",
-      "key_signal": "다우존스 급락의 구체적인 원인(경제 지표, 기업 실적, 지정학적 리스크 등)을 파악하고 향후 시장 흐름에 미칠 영향을 분석해야 합니다.",
+      "investment_reason": "호르무즈 해협발 유가 상승과 환율 불안은 국내 경제와 기업 실적에 중대한 부정적 영향을 미칠 수 있습니다.",
+      "key_signal": "호르무즈 해협 관련 뉴스 및 국제 유가 변동을 지속적으로 모니터링하고, 환율 안정화 시점을 예상해야 합니다.",
       "keywords": [
-        "다우존스",
-        "DJIA",
-        "증시 급락",
-        "시장 변동성",
-        "투자 심리"
+        "호르무즈",
+        "유가",
+        "환율",
+        "투자심리",
+        "지정학적 리스크"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTZPVVlfWjhlbl9MeTFzU0dyMXZHcS1tYUZhRU4zNmJnbUxZdDBJeUtSU1BoVlVnY2xWTkV2MF9VQjJzbzEzM19xTnZSaXdhSmF3THVuY3BnYnkwOEFFZ0o1MWdfNENEcHN1amZpUTVPOWloMG9KV0hIUnp1eFZObDkzY2FhendFZ0NGOFdmUk1zQTFpODJsSElkb3FVOWp3Y01OX3F1OEFRdWkyTjFicnl3RQ?oc=5",
-      "published": "2026-08-06 05:06",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04N3Fkc2FjR0NTa2xxN1pfMUI5TkVtYng0VFVBa3pKUjRRSXU3NUVHZEl6eTk2TGt2WGNCU0JFalFUZDBvUE9tWm1IVDNHX1EyYTFHbm5BMGFrdDRkTEVrRg?oc=5",
+      "published": "2026-08-07 08:19",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,33 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "\"권력자들은 세계가 경기 침체 중임을 인지하고 있다\" 금융 전략가의 글로벌 위기 진단",
-      "display_title": "\"권력자들은 세계가 경기 침체 중임을 인지하고 있다\" 금융 전략가의 글로벌 위기 진단",
-      "original_title": "\"The people in power know the world is in recession\" - Financial strategist weighs in on Nigeria's economy and the global economic crisis Watch full interview: https://youtu.be/tyvOOj3enjQ #trusttvnews #globaleconomy #recession - instagram.com",
+      "title": "고금리 시장에서 생산성에 초점을 맞춘 AI 주식",
+      "display_title": "고금리 시장에서 생산성에 초점을 맞춘 AI 주식",
+      "original_title": "AI Stocks For Higher Rate Markets With A Focus On Productivity - simplywall.st",
       "summary": [
-        "금융 전략가는 세계가 이미 경기 침체 국면에 있으며, 권력자들이 이를 인지하고 있다고 주장했습니다.",
-        "이 발언은 전 세계적인 경기 둔화에 대한 우려가 확산되고 있으며, 특히 신흥국 경제에 대한 영향을 시사합니다.",
-        "투자자들은 글로벌 경기 침체 가능성에 대비하여 포트폴리오의 방어적 자산 비중을 고려하고 위험 자산에 대한 노출을 재점검해야 합니다."
+        "고금리 환경 속에서도 생산성 향상에 기여하는 AI 관련 기업들의 투자 매력이 부각되고 있습니다.",
+        "경기 둔화 우려와 고금리가 지속되는 상황에서, 비용 절감 및 효율성 증대 효과를 가져오는 AI 기술의 중요성이 커지고 있습니다.",
+        "AI 기술로 생산성 혁신을 이루는 기업들을 선별하여 장기적인 관점에서 접근하는 전략을 고려할 수 있습니다."
       ],
-      "summary_text": "금융 전략가는 세계가 이미 경기 침체 국면에 있으며, 권력자들이 이를 인지하고 있다고 주장했습니다. 이 발언은 전 세계적인 경기 둔화에 대한 우려가 확산되고 있으며, 특히 신흥국 경제에 대한 영향을 시사합니다. 투자자들은 글로벌 경기 침체 가능성에 대비하여 포트폴리오의 방어적 자산 비중을 고려하고 위험 자산에 대한 노출을 재점검해야 합니다.",
-      "description": "한 금융 전략가가 나이지리아 경제와 글로벌 경제 위기 상황에 대해 발언하며, 현재 권력을 쥔 사람들이 세계가 경기 침체 국면에 있다는 사실을 알고 있다고 주장했다.",
-      "category": "글로벌 경제",
+      "summary_text": "고금리 환경 속에서도 생산성 향상에 기여하는 AI 관련 기업들의 투자 매력이 부각되고 있습니다. 경기 둔화 우려와 고금리가 지속되는 상황에서, 비용 절감 및 효율성 증대 효과를 가져오는 AI 기술의 중요성이 커지고 있습니다. AI 기술로 생산성 혁신을 이루는 기업들을 선별하여 장기적인 관점에서 접근하는 전략을 고려할 수 있습니다.",
+      "description": "고금리 시장 환경에서 생산성 향상에 중점을 둔 인공지능(AI) 관련 주식에 대한 투자 관심이 높아지고 있습니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "없음",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "글로벌 경기 침체가 공식화될 경우 전 세계 증시와 투자 심리에 부정적인 영향을 미칠 수 있으므로 대비가 필요합니다.",
-      "key_signal": "각국 중앙은행의 경기 부양책 여부 및 주요 경제 지표 발표를 통해 경기 침체의 강도와 지속 여부를 판단해야 합니다.",
-      "keywords": [
-        "경기 침체",
-        "글로벌 경제",
-        "나이지리아 경제",
-        "금융 전략가",
-        "경제 위기"
+      "market_impact": "긍정",
+      "related_sector": "인공지능, 소프트웨어, 반도체",
+      "related_stocks": [
+        "네이버",
+        "카카오",
+        "SK하이닉스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1N19jcXFxQUIwUGp6bmNHSG5JMWwwS1ZEXzFYWDVrQVRwc1FscDI0MndWUVdvTWtSSnl6bWJrdkJybTBLcmUzcy1OVTJzZmlWZER2MnNn?oc=5",
-      "published": "2026-08-05 21:17",
+      "investment_view": "관심",
+      "investment_reason": "고금리 환경에서도 AI 기술을 통한 생산성 향상 기업들은 지속적인 성장 동력을 가질 수 있어 투자 가치가 높습니다.",
+      "key_signal": "AI 기술을 활용하여 실제 생산성 지표 개선을 입증하고 있는 기업들을 주목해야 합니다.",
+      "keywords": [
+        "AI",
+        "인공지능",
+        "생산성",
+        "고금리",
+        "기술주"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaDZ5TWdrdElSdW5KaWE0QWxCOFF6TEFzbUZKMEFiMXdiOW1KTmVwVVR6ZjVfQjFpRnFLY2FVN3VENkVHdUU3eEFfX0FCN3lVUndsYzk5V1hYZkc1WFhHcVRROGVuLTdWaldFT3F0bHowMF9KNzEweUlzX0NYOVplM2NuYXhMRFpSWkdpWmNuMjNjUFhoRGxrcUNvcFFxb1NnTXhkRWttZ0ZPQ00ybDJNcWxsZ0lkTV9pTDRqZW5vNDZpczJSLVZ0ejV2RGFqaktWSndObVlNamtMRWPSAdsBQVVfeXFMTmg2eU1na3RJUnVuSmlhNEFsQjhRekxBc21GSjBBYjF3YjltSk5lcFVUemY1X0IxaUZxS2NhVTd1RDZFR3VFN3hBX19BQjd5VVJ3bGM5OVdYWGZHNVhYR3FUUThlbi03VmpXRU9xdGx6MDBfSjcxMHlJc19DWDlaZTNjbmF4TERaUlpHaVpjbjIzY1BYaERsa3FDb3BRcW9TZ014ZEVrbWdGT0NNMmwyTXFsbGdJZE1faUw0amVubzQ2aXMyUi1WdHo1dkRhampLVkp3Tm1ZTWprTEVj?oc=5",
+      "published": "2026-08-07 04:41",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -150,35 +154,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "중동 협상 기대감에 다우, S&P 사상 최고치 경신; 스페이스X, AMD는 나스닥 하락 견인",
-      "display_title": "중동 협상 기대감에 다우, S&P 사상 최고치 경신; 스페이스X, AMD는 나스닥 하락 견인",
-      "original_title": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq - The Korea Times",
+      "title": "케빈 워시 연준 의장이 10번 반복한 한 단어가 중앙은행 통화정책을 재편했다",
+      "display_title": "케빈 워시 연준 의장이 10번 반복한 한 단어가 중앙은행 통화정책을 재편했다",
+      "original_title": "One Word Repeated 10 Times by Fed Chair Kevin Warsh Has Effectively Reshaped the Central Bank's Monetary Policy Approach - AOL.com",
       "summary": [
-        "중동 지역의 협상 기대감으로 다우존스 및 S&P500 지수가 사상 최고치를 경신했습니다.",
-        "반면 스페이스X와 AMD의 주가 부진은 기술주 중심의 나스닥 지수 하락을 야기하며, 시장 내 차별화된 흐름을 보였습니다.",
-        "투자자들은 중동 지정학적 리스크 완화에 따른 수혜 업종과 기술 대형주의 개별 리스크를 종합적으로 고려하여 투자 전략을 수립해야 합니다."
+        "과거 연준 고위 관계자의 발언이 중앙은행 통화정책에 중대한 영향을 미쳤으며, 이는 현재 정책 기조에도 시사하는 바가 큽니다.",
+        "연준 고위 관계자들의 발언은 시장의 기대와 통화정책 방향을 설정하는 데 결정적인 역할을 합니다.",
+        "현재 연준 의장을 비롯한 FOMC 위원들의 발언에서 시장의 방향을 가늠할 핵심적인 단어나 문맥을 찾아 투자 전략에 반영해야 합니다."
       ],
-      "summary_text": "중동 지역의 협상 기대감으로 다우존스 및 S&P500 지수가 사상 최고치를 경신했습니다. 반면 스페이스X와 AMD의 주가 부진은 기술주 중심의 나스닥 지수 하락을 야기하며, 시장 내 차별화된 흐름을 보였습니다. 투자자들은 중동 지정학적 리스크 완화에 따른 수혜 업종과 기술 대형주의 개별 리스크를 종합적으로 고려하여 투자 전략을 수립해야 합니다.",
-      "description": "중동 지역의 협상 진전에 대한 기대감으로 다우존스와 S&P500 지수가 사상 최고치를 기록했으나, 스페이스X와 AMD의 부진은 나스닥 지수를 끌어내렸다.",
-      "category": "증시·금리",
+      "summary_text": "과거 연준 고위 관계자의 발언이 중앙은행 통화정책에 중대한 영향을 미쳤으며, 이는 현재 정책 기조에도 시사하는 바가 큽니다. 연준 고위 관계자들의 발언은 시장의 기대와 통화정책 방향을 설정하는 데 결정적인 역할을 합니다. 현재 연준 의장을 비롯한 FOMC 위원들의 발언에서 시장의 방향을 가늠할 핵심적인 단어나 문맥을 찾아 투자 전략에 반영해야 합니다.",
+      "description": "과거 케빈 워시 연준 의장이 특정 단어를 여러 차례 반복 사용함으로써 연방준비제도(Fed)의 통화정책 기조에 큰 변화를 가져왔다는 분석입니다.",
+      "category": "글로벌 경제",
       "importance": 8,
       "market_impact": "중립",
-      "related_sector": "에너지, 방산, 항공우주, 반도체, IT",
-      "related_stocks": [
-        "AMD"
-      ],
+      "related_sector": "금융, 증권",
+      "related_stocks": [],
       "investment_view": "관심",
-      "investment_reason": "중동 정세의 안정화는 특정 섹터에 긍정적이지만, 기술 대형주의 개별 이슈가 시장 전반의 흐름을 상쇄할 수 있어 면밀한 분석이 필요합니다.",
-      "key_signal": "중동 협상의 구체적인 결과와 스페이스X 및 AMD를 포함한 주요 기술 기업들의 실적 및 미래 전망 발표를 주시해야 합니다.",
+      "investment_reason": "연준의 통화정책 기조 변화는 글로벌 금리 및 환율 시장에 지대한 영향을 미치므로 항상 주시해야 합니다.",
+      "key_signal": "현 연준 의장 및 FOMC 위원들의 발언에서 향후 통화정책 방향을 암시하는 핵심적인 신호를 파악해야 합니다.",
       "keywords": [
-        "다우존스",
-        "S&P500",
-        "나스닥",
-        "중동 협상",
-        "스페이스X"
+        "연준",
+        "통화정책",
+        "금리",
+        "FOMC",
+        "발언"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQncwSzdfNW8yR00wX1ZLYnFSYWhrZDhfZ2xHX3g5U2NKYjFMVXFTbmkwdERGSGhDVUlMQjdqNkd5NTZEWnJWZzVrcHk3YnpPaVZXeEwyOE1FX1JneWZMWDljUWstSm05TG1SOWVkZnpuM3I0M0ZWQl8zeXFUblo3dW00bExGYmpVQmlqSDNZLUliNTJZc1JQQ2l6LXV5X0NCTnB5NzE0bng2bjBqUlE2TUpR0gGyAUFVX3lxTFBCdzBLN181bzJHTTBfVkticVJhaGtkOF9nbEdfeDlTY0piMUxVcVNuaTB0REZIaENVSUxCN2o2R3k1NkRaclZnNWtweTdiek9pVld4TDI4TUVfUmd5ZkxYOWNRay1KbTlMbVI5ZWRmem4zcjQzRlZCXzN5cVRuWjd1bTRsTEZialVCaWpIM1ktSWI1MllzUlBDaXotdXlfQ0JOcHk3MTRueDZuMGpSUTZNSlE?oc=5",
-      "published": "2026-08-06 04:16",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SMzJTMjJUa0dySjlwckRvSjlCSWhHOWFyZ1NkRS1yYVFCTkRLcUdxb0lneHBpd0QtOTlDWWkyS242RC05b20tXzNRY1hhVW1ZbWlBRURhNUhfZkZRWWtPbUZOOFZJRW9EZ1ZGVHR0ZFBUQXFOQWV1TkZR?oc=5",
+      "published": "2026-08-07 01:03",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -187,41 +189,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "반도체 업황 훈풍에 코스피 6,600선 육박…코스닥 4일 연속 상승",
-      "display_title": "반도체 업황 훈풍에 코스피 6,600선 육박…코스닥 4일 연속 상승",
-      "original_title": "반도체 훈풍에 코스피 6,600선 목전…코스닥 나흘째 상승 - 네이트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "트레이딩 데이: 고용 보고서 발표 전 관망세",
+      "display_title": "트레이딩 데이: 고용 보고서 발표 전 관망세",
+      "original_title": "Trading Day: Pause before jobs - The Mighty 790 KFGO",
       "summary": [
-        "반도체 업황 개선 기대감에 코스피 지수가 6,600선에 육박했으며, 코스닥은 4일 연속 상승세를 기록했습니다.",
-        "이는 국내 증시가 반도체 업종에 대한 높은 의존도를 보이며, 글로벌 반도체 사이클 회복에 긍정적으로 반응하고 있음을 나타냅니다.",
-        "투자자들은 반도체 업종의 실적 개선 추이와 글로벌 기술주 동향을 주시하며 관련 종목 투자 기회를 모색해야 합니다."
+        "미국 고용 보고서 발표를 앞두고 투자자들이 관망세를 보이며 시장 거래가 한산한 모습입니다.",
+        "고용 보고서는 연준의 향후 통화정책 방향을 가늠할 중요한 지표이므로, 시장은 보고서 결과에 촉각을 곤두세우고 있습니다.",
+        "고용 보고서 결과에 따라 시장의 변동성이 커질 수 있으므로, 발표 전후로 신중한 투자 전략을 유지해야 합니다."
       ],
-      "summary_text": "반도체 업황 개선 기대감에 코스피 지수가 6,600선에 육박했으며, 코스닥은 4일 연속 상승세를 기록했습니다. 이는 국내 증시가 반도체 업종에 대한 높은 의존도를 보이며, 글로벌 반도체 사이클 회복에 긍정적으로 반응하고 있음을 나타냅니다. 투자자들은 반도체 업종의 실적 개선 추이와 글로벌 기술주 동향을 주시하며 관련 종목 투자 기회를 모색해야 합니다.",
-      "description": "반도체 업황 개선 기대감에 힘입어 코스피 지수가 6,600선에 근접했으며, 코스닥 지수는 4거래일 연속 상승세를 이어갔다.",
-      "category": "증시·금리",
+      "summary_text": "미국 고용 보고서 발표를 앞두고 투자자들이 관망세를 보이며 시장 거래가 한산한 모습입니다. 고용 보고서는 연준의 향후 통화정책 방향을 가늠할 중요한 지표이므로, 시장은 보고서 결과에 촉각을 곤두세우고 있습니다. 고용 보고서 결과에 따라 시장의 변동성이 커질 수 있으므로, 발표 전후로 신중한 투자 전략을 유지해야 합니다.",
+      "description": "미국 고용 보고서 발표를 앞두고 투자자들이 시장 동향을 관망하며 신중한 거래를 보이고 있습니다.",
+      "category": "글로벌 경제",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT",
+      "market_impact": "중립",
+      "related_sector": "증권, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "반도체 업황 호조는 국내 증시 전반의 상승을 견인하는 핵심 동력이므로 관련 기업들의 실적과 성장 가능성을 주목해야 합니다.",
-      "key_signal": "국내외 반도체 기업들의 실적 발표와 신규 투자 계획, 그리고 AI 관련 수요 증가 추이를 지속적으로 모니터링해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 고용 지표는 연준의 통화정책 방향과 글로벌 경기 전망에 결정적인 영향을 미치므로 주의 깊게 살펴야 합니다.",
+      "key_signal": "예정된 미국 고용 보고서 발표 결과와 시장의 반응을 확인하여 투자 방향을 설정해야 합니다.",
       "keywords": [
-        "코스피",
-        "코스닥",
-        "반도체",
-        "업황 개선",
-        "증시 상승"
+        "고용보고서",
+        "미국경제",
+        "연준",
+        "통화정책",
+        "시장관망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZnRfNHh4QmphQ1IwZDhZRWltTDUxOFZHQTdtaFRFcFNfUkRrd1A1Vnc5YVBIQ2l4RGlWbjdqQm5iQ1hwY2pvX1NtNzMyelNxY1kyQm9uM2t0VVZzNTNsTA?oc=5",
-      "published": "2026-08-05 22:08",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYOVNOV2J1OGhHNGdEc0xndWUxM2NoSFltTHRucTR1aVZzYjNRaUpJV1hpc3dDUmQ3YmNiQVRJUGtRQU9nTm05LWtLMGpwQ1Ayelg4YWNlWTV4U2I2UksydWJXY0c4RFRSRFE?oc=5",
+      "published": "2026-08-07 06:24",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -231,36 +234,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "\"세입자 나가주세요\"…세금 부담이 집주인 거주 유도 [시장톡]",
-      "display_title": "\"세입자 나가주세요\"…세금 부담이 집주인 거주 유도 [시장톡]",
-      "original_title": "\"세입자 나가주세요\"…세금이 집주인 귀소 부른다 [시장톡] - hankyung.com",
+      "title": "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로",
+      "display_title": "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로",
+      "original_title": "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로 - 디지털데일리",
       "summary": [
-        "세금 부담이 커지면서 집주인들이 임차인을 내보내고 직접 거주하는 이른바 '귀소' 현상이 나타나고 있습니다.",
-        "이는 정부의 부동산 세금 정책이 다주택자의 주택 소유 부담을 늘려 임대 시장의 공급을 위축시키고 있음을 시사합니다.",
-        "전월세 시장의 불안정성을 높일 수 있으므로, 임대차 시장 동향과 정부의 추가 정책 발표에 주목해야 합니다."
+        "글로벌 AI 기업들이 한국을 아태지역 사업 확장의 핵심 거점으로 삼아 투자를 늘리고 있습니다.",
+        "이는 한국의 우수한 IT 인프라, 숙련된 인재, 그리고 높은 기술 수용도 등이 복합적으로 작용한 결과입니다.",
+        "글로벌 AI 기업의 한국 투자 증가는 국내 AI 산업 생태계 발전과 관련 기업들의 동반 성장을 촉진할 수 있습니다."
       ],
-      "summary_text": "세금 부담이 커지면서 집주인들이 임차인을 내보내고 직접 거주하는 이른바 '귀소' 현상이 나타나고 있습니다. 이는 정부의 부동산 세금 정책이 다주택자의 주택 소유 부담을 늘려 임대 시장의 공급을 위축시키고 있음을 시사합니다. 전월세 시장의 불안정성을 높일 수 있으므로, 임대차 시장 동향과 정부의 추가 정책 발표에 주목해야 합니다.",
-      "description": "세금 부담 증가로 인해 집주인들이 투자 목적의 주택을 세를 놓기보다 직접 거주하려는 현상이 확산되고 있다는 분석이다.",
-      "category": "부동산·정책",
-      "importance": 7,
-      "market_impact": "부정",
-      "related_sector": "건설, 부동산",
+      "summary_text": "글로벌 AI 기업들이 한국을 아태지역 사업 확장의 핵심 거점으로 삼아 투자를 늘리고 있습니다. 이는 한국의 우수한 IT 인프라, 숙련된 인재, 그리고 높은 기술 수용도 등이 복합적으로 작용한 결과입니다. 글로벌 AI 기업의 한국 투자 증가는 국내 AI 산업 생태계 발전과 관련 기업들의 동반 성장을 촉진할 수 있습니다.",
+      "description": "글로벌 인공지능(AI) 기업들이 한국을 아시아태평양 시장 공략의 전초기지로 삼아 투자를 확대하고 있습니다.",
+      "category": "기업·산업",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "인공지능, 소프트웨어, 클라우드, 반도체",
       "related_stocks": [
-        "GS건설",
-        "현대건설"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
-      "investment_view": "주의",
-      "investment_reason": "세금 정책의 변화가 주택 임대 공급을 줄여 전월세 시장의 가격 상승 압력을 높일 수 있어 실수요자와 투자자 모두에게 영향을 줍니다.",
-      "key_signal": "정부의 추가 부동산 정책 발표와 전월세 거래량 및 가격 변동 추이를 면밀히 분석하여 시장 변화를 예측해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "글로벌 AI 기업들의 한국 시장 진출 및 투자는 국내 AI 관련 기업들의 성장 기회로 작용할 수 있습니다.",
+      "key_signal": "국내 AI 인프라 및 소프트웨어 기업 중 글로벌 기업과 협력 가능성이 높은 곳을 선별하여 투자 기회를 모색해야 합니다.",
       "keywords": [
-        "부동산 정책",
-        "세금 부담",
-        "집주인 귀소",
-        "전월세 시장",
-        "임대차"
+        "AI",
+        "인공지능",
+        "한국시장",
+        "글로벌기업",
+        "기술투자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SS1ZKa09BLU5NcGtYRXExMFVhb2hQY2tvNi1Wb3ZFNE5kdGwwQzdhOGRQeWZsTUljdmdCZDByMDJCSXRzTGVxZTNHYnVDS2p0R0lMcklUcTFlUQ?oc=5",
-      "published": "2026-08-06 06:30",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uTW80czEzS1BNV3Q1RGlramxhSmhOUU1fY2w2ekdiaUxWWWxiNjRDSlVlRm10ajRXbmY4TWEyWUxrNUR1VVA0cTVhWGc2d2FKbGVWS0x0enllbDFZeXltUC1qcUg?oc=5",
+      "published": "2026-08-07 06:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -271,67 +275,70 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "반도체 업황 훈풍이 국내 증시 상승을 견인하는 핵심 동력으로 작용하고 있으나, 미국 경제 붕괴 우려 등 글로벌 거시 경제 리스크도 함께 주시해야 합니다.",
-      "check_points": [
-        "글로벌 반도체 수요 및 가격 동향",
-        "미·중 기술 패권 경쟁 심화 여부",
-        "외국인 투자자 수급 변화"
-      ],
-      "related_news_titles": [
-        "반도체 업황 훈풍에 코스피 6,600선 육박…코스닥 4일 연속 상승",
-        "미국 경제 붕괴 시 세계 경제도 붕괴\" 금융 전략가 경고"
-      ]
-    },
-    {
-      "rank": 2,
       "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성전자와 함께 반도체 업황 훈풍의 직접적인 수혜주로, 국내 증시 상승세의 주요 동력이며, 특히 고대역폭 메모리(HBM) 시장에서의 경쟁력을 주목할 필요가 있습니다.",
+      "reason": "고금리 환경에서도 AI 기술을 통한 생산성 향상 기업들은 지속적인 성장 동력을 가질 수 있으며, 글로벌 AI 기업들의 한국 시장 진출로 국내 AI 관련 기업들의 성장 기회가 확대될 수 있습니다. SK하이닉스는 AI 반도체 핵심 기업으로 주목받고 있습니다.",
       "check_points": [
-        "고대역폭 메모리(HBM) 기술력 및 생산 capa",
-        "AI 반도체 시장 성장률",
-        "외국인 및 기관 투자자 동향"
+        "글로벌 AI 반도체 수요 증가 추이",
+        "주요 고객사의 AI 서버 투자 동향",
+        "고대역폭 메모리(HBM) 기술 경쟁력"
       ],
       "related_news_titles": [
-        "반도체 업황 훈풍에 코스피 6,600선 육박…코스닥 4일 연속 상승"
+        "고금리 시장에서 생산성에 초점을 맞춘 AI 주식",
+        "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "글로벌 AI 기업들의 한국 시장 진출 및 투자는 국내 AI 관련 기업들의 성장 기회로 작용할 수 있으며, 삼성전자는 AI 반도체 시장의 주요 플레이어로 부각될 수 있습니다. AI 기술을 통한 생산성 향상 기대감도 있습니다.",
+      "check_points": [
+        "AI 관련 신기술 개발 및 투자 동향",
+        "글로벌 반도체 시장 수요 회복 속도",
+        "파운드리 및 메모리 부문의 AI 전략"
+      ],
+      "related_news_titles": [
+        "고금리 시장에서 생산성에 초점을 맞춘 AI 주식",
+        "글로벌 AI 기업 몰리는 韓… 아태 공략 전초기지로"
       ]
     },
     {
       "rank": 3,
-      "name": "한화에어로스페이스",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "방산, 항공우주",
-      "opinion": "관심",
-      "reason": "중동 정세 안정화 기대감은 방산, 항공우주 섹터에 긍정적인 영향을 미칠 수 있으며, K-방산 수출 확대 모멘텀도 꾸준히 기대되고 있습니다.",
+      "sector": "정유",
+      "opinion": "주의",
+      "reason": "중동 지정학적 리스크 재고조로 인한 국제 유가 상승과 원-달러 환율 불안은 정유 기업의 원가 부담을 가중시키고 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "중동 정세 안정화 여부 및 실제 협상 진전",
-        "글로벌 방산 시장 수출 계약 동향",
-        "정책적 지원 강화 여부"
+        "국제 유가 변동성 (두바이유, WTI 등)",
+        "중동 정세 변화 및 지정학적 긴장 완화 여부",
+        "원-달러 환율 추이"
       ],
       "related_news_titles": [
-        "중동 협상 기대감에 다우, S&P 사상 최고치 경신; 스페이스X, AMD는 나스닥 하락 견인"
+        "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발",
+        "호르무즈발 유가 상승에 투심 난조···'1420원 중후반 등락' [환율전망]"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "대한항공",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "항공",
       "opinion": "주의",
-      "reason": "미국 다우존스 지수의 급락은 글로벌 증시 전반의 투자 심리를 위축시키고 국내 증권사들의 실적에 직접적인 영향을 미 미칠 수 있으므로, 시장 변동성 확대에 따른 영향을 면밀히 관찰해야 합니다.",
+      "reason": "유가 상승은 항공사의 핵심 비용인 유류비 부담을 직접적으로 증가시키고, 달러 강세는 외화 부채 상환 부담을 가중시켜 실적 악화로 이어질 수 있어 주의가 필요합니다.",
       "check_points": [
-        "글로벌 증시의 추가 하락 또는 반등 여부",
-        "국내 거래량 및 투자 심리 변화",
-        "금리 인하 기대감의 변화"
+        "국제 유가 및 항공유 가격 추이",
+        "원-달러 환율 변동성",
+        "국제선 여객 및 화물 수요 변화"
       ],
       "related_news_titles": [
-        "다우존스: 2025년 4월 이후 최악의 세션, 51,594.14로 급락"
+        "중동 긴장 재고조에 유가·달러↑…환율 1420원대 상승 출발",
+        "호르무즈발 유가 상승에 투심 난조···'1420원 중후반 등락' [환율전망]"
       ]
     }
   ],
