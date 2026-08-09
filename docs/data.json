@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09 07:28",
-  "analysis_date": "2026-08-09",
+  "generated_at": "2026-08-10 07:30",
+  "analysis_date": "2026-08-10",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 증시는 연준의 매파적 발언과 고용 둔화, AI 성장 기대감이 교차하며 변동성을 보였다. 국내는 AI 산업 육성 정책과 기업 실적 차별화가 주목된다.",
-    "국내거시경제": "정부의 AI 생태계 조성 메가프로젝트 추진은 대한민국 경제의 새로운 성장 동력으로 작용할 전망이다.",
-    "글로벌경제": "연준의 매파적 발언과 금리 동결 속 내부 이견이 존재하며 정책 불확실성이 지속된다. 미국 고용 지표 둔화는 금리 인하 기대를 높였으나, AI 성장 모멘텀과 중동 평화 기대감이 증시를 견인했다.",
-    "증시금리": "미국 증시는 연준의 긴축 경고에 급락했으나, 예기치 않은 고용 둔화 및 AI 실적 호조에 힘입어 사상 최고치를 경신하는 등 혼조세를 보였다. 연준의 금리 동결은 일시적 안도감을 주나 정책 불확실성은 여전하다.",
-    "부동산정책": "관련 뉴스 없음.",
-    "기업산업": "국내 AI 산업은 정부 주도 메가프로젝트로 성장 가속화가 기대되며, AI 소프트웨어 기업들은 실적에 따라 주가 차별화가 심화되고 있다.",
-    "오늘의투자시사점": "글로벌 금리 정책의 불확실성과 변동성에 대비하여 포트폴리오 관리가 필요하다. AI 산업의 강력한 성장 모멘텀을 주시하되, 개별 기업의 실적과 성장성을 면밀히 분석하는 옥석 가리기가 중요할 것이다.",
-    "오늘의한줄": "글로벌 긴축 경계 속 AI 산업의 성장 동력과 금리 인하 기대감이 시장 변동성을 키우고 있다."
+    "총평": "연준의 매파적 발언과 금리 동결 속 내부 이견이 시장 변동성을 키우는 가운데, 견조한 미국 고용 데이터가 일부 안도감을 제공했습니다. 국내는 주택 공급대책 발표에 관심이 쏠립니다.",
+    "국내거시경제": "정부의 주택 공급대책이 이르면 13일 발표될 예정이며, 부동산 시장 안정화에 대한 기대와 함께 실효성 있는 공급 확대 요구가 이어지고 있습니다.",
+    "글로벌경제": "연준 케빈 워시 의장의 '인플레이션 무관용' 발언은 강력한 긴축 의지를 시사하며 시장에 부담을 주었습니다. 신임 의장으로서 인플레이션 퇴치 정책 변화를 예고한 점과, 금리 동결 기조 속 내부 이견은 향후 통화정책 불확실성을 높이고 있습니다.",
+    "증시금리": "연준 의장의 매파적 발언에 다우지수가 급락하며 고금리 장기화 우려가 확산되었으나, 미국 고용 데이터가 금리 인상 압력을 완화하며 S&P 500 지수는 사상 최고치를 경신하는 등 혼조세를 보였습니다. 연준의 두 번째 연속 금리 동결 결정은 시장에 중립적 영향을 주었으나, 3명의 위원이 반대 의견을 제시하며 향후 정책 방향에 대한 불확실성을 남겼습니다.",
+    "부동산정책": "정부가 이르면 이달 13일 새로운 주택 공급대책을 발표할 예정으로, 시장의 이목이 집중되고 있습니다. 전문가들은 시장 안정을 위해 공공·민간을 총동원한 파격적인 공급 확대가 시급하다고 강조합니다.",
+    "기업산업": "해당 없음",
+    "오늘의투자시사점": "연준의 매파적 스탠스와 금리 정책 불확실성에 대비하여 방어적 포트폴리오를 유지하고 시장 변동성에 유의해야 합니다. 동시에 미국 고용 지표 호조와 국내 주택 공급대책의 구체적인 내용 발표를 주시하여 투자 전략에 반영하십시오.",
+    "오늘의한줄": "글로벌 통화정책 불확실성 속 국내 부동산 정책 변화에 주목하며 방어적 관점을 유지해야 합니다."
   },
   "top_news": [
     {
@@ -28,36 +28,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 의장 \"인플레이션 용납 불가\" 발언에 다우 840P 급락, 투자 포트폴리오 영향은?",
-      "display_title": "연준 의장 \"인플레이션 용납 불가\" 발언에 다우 840P 급락, 투자 포트폴리오 영향은?",
+      "title": "연준 의장 케빈 워시, '인플레이션에 무관용' 발언에 다우지수 840포인트 급락. 투자 포트폴리오에 미치는 영향은?",
+      "display_title": "연준 의장 케빈 워시, '인플레이션에 무관용' 발언에 다우지수 840포인트 급락. 투자 포트폴리오에 미치는 영향은?",
       "original_title": "Fed Chair Kevin Warsh Said the Central Bank Has \"No Tolerance\" for Inflation, and the Dow Dropped 840 Points. What It Means for Your Portfolio. - AOL.com",
       "summary": [
-        "연준 의장의 매파적 발언 이후 미국 다우지수가 840포인트 급락했다.",
-        "연준 의장이 인플레이션에 대한 강력한 경고 메시지를 보내며 금리 인하 기대감이 후퇴했다.",
-        "긴축 기조 유지 가능성에 대비해 변동성 관리가 중요하며, 성장주에 대한 압박이 지속될 수 있다."
+        "케빈 워시 연준 의장이 인플레이션에 대해 '무관용' 입장을 밝히면서 다우지수가 840포인트 급락했다.",
+        "이는 연준의 강력한 긴축 의지를 시장이 반영한 결과이며, 고금리 장기화에 대한 우려가 확산되고 있음을 시사한다.",
+        "투자자들은 연준의 매파적 스탠스가 지속될 경우 발생할 수 있는 시장 변동성에 대비하고, 방어적인 포트폴리오 전략을 고려해야 한다."
       ],
-      "summary_text": "연준 의장의 매파적 발언 이후 미국 다우지수가 840포인트 급락했다. 연준 의장이 인플레이션에 대한 강력한 경고 메시지를 보내며 금리 인하 기대감이 후퇴했다. 긴축 기조 유지 가능성에 대비해 변동성 관리가 중요하며, 성장주에 대한 압박이 지속될 수 있다.",
-      "description": "케빈 워시 연준 의장이 인플레이션에 \"무관용\" 원칙을 밝히면서 다우지수가 840포인트 하락했습니다. 이는 투자 포트폴리오에 어떤 의미인지 분석합니다.",
+      "summary_text": "케빈 워시 연준 의장이 인플레이션에 대해 '무관용' 입장을 밝히면서 다우지수가 840포인트 급락했다. 이는 연준의 강력한 긴축 의지를 시장이 반영한 결과이며, 고금리 장기화에 대한 우려가 확산되고 있음을 시사한다. 투자자들은 연준의 매파적 스탠스가 지속될 경우 발생할 수 있는 시장 변동성에 대비하고, 방어적인 포트폴리오 전략을 고려해야 한다.",
+      "description": "케빈 워시 연준 의장이 인플레이션에 대한 '무관용' 입장을 밝히자 다우지수가 840포인트 급락했다. 이에 대한 투자 포트폴리오의 의미를 분석한다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "기술주, 성장주",
-      "related_stocks": [
-        "애플",
-        "테슬라"
-      ],
+      "related_sector": "전반적 시장, 성장주, 기술주",
+      "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "연준의 강력한 인플레이션 억제 의지가 시장 금리 상승 압력으로 작용하며 증시 전반에 부정적 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "향후 연준 인사들의 발언과 물가 지표 발표를 주시하며 금리 인상 사이클의 지속 여부를 판단해야 한다.",
+      "investment_reason": "연준의 강력한 인플레이션 억제 의지는 긴축 기조 장기화로 이어져 주식 시장에 지속적인 하방 압력으로 작용할 수 있기 때문이다.",
+      "key_signal": "연준의 '무관용' 기조가 얼마나 지속될지, 그리고 추가적인 긴축 조치나 시장의 추가 하락 가능성을 예의주시해야 한다.",
       "keywords": [
         "연준",
+        "케빈 워시",
         "인플레이션",
-        "금리",
         "다우지수",
         "긴축"
       ],
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90NHRFUEpWQlFZVmNSMm9YUjhacG85cUVHaURGcVd3MTNybV9nWHpDOGpRdGI4RERkZ0h0cFVYRi02N1FuMDAzZll1bFBBeGJlMHBxZEw3a1lWRmRlNmdGcDgwc0Vub3kzdnBiTVljMUNWN2piTnpuSF9n?oc=5",
-      "published": "2026-08-08 23:37",
+      "published": "2026-08-10 02:04",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -69,36 +66,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 고용 2만3천명 예기치 않은 감소, 금리 인상 지연 기대감에 증시 급등",
-      "display_title": "미국 고용 2만3천명 예기치 않은 감소, 금리 인상 지연 기대감에 증시 급등",
-      "original_title": "U.S. stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait - Pittsburgh Post-Gazette",
+      "title": "새로운 연준 의장 케빈 워시, 2026년 5월 취임 시 인플레이션 퇴치를 위한 '정책 기조 변화' 약속, 그는 성공했는가?",
+      "display_title": "새로운 연준 의장 케빈 워시, 2026년 5월 취임 시 인플레이션 퇴치를 위한 '정책 기조 변화' 약속, 그는 성공했는가?",
+      "original_title": "New Fed Chair Kevin Warsh Promised a Policy \"Regime Change\" to Defeat Inflation When He Took Over in May 2026. Has He Delivered? - AOL.com",
       "summary": [
-        "미국 고용지표가 예상보다 부진하여 2만 3천개의 일자리가 감소했고, 이에 따라 증시가 급등했다.",
-        "고용시장 둔화는 연준의 금리 인상 압력을 완화하고 금리 인하 또는 동결 기조를 지지하는 요인으로 해석된다.",
-        "금리 인상 속도 조절 기대감으로 시장 위험 선호 심리가 개선될 수 있으며, 기술주 등 성장주에 긍정적인 영향을 미칠 수 있다."
+        "연준 새 의장 케빈 워시가 2026년 5월 취임 후 인플레이션 퇴치를 위한 '정책 기조 변화'를 약속했다.",
+        "기사는 워시 의장의 인플레이션 정책 이행 여부를 평가하며, 향후 통화 정책 방향을 가늠하는 중요한 지표이다.",
+        "투자자들은 연준의 통화 정책 변화가 시장에 미칠 영향과 인플레이션 추이를 주시해야 한다."
       ],
-      "summary_text": "미국 고용지표가 예상보다 부진하여 2만 3천개의 일자리가 감소했고, 이에 따라 증시가 급등했다. 고용시장 둔화는 연준의 금리 인상 압력을 완화하고 금리 인하 또는 동결 기조를 지지하는 요인으로 해석된다. 금리 인상 속도 조절 기대감으로 시장 위험 선호 심리가 개선될 수 있으며, 기술주 등 성장주에 긍정적인 영향을 미칠 수 있다.",
-      "description": "예상치 못하게 미국 기업들이 23,000개의 일자리를 줄이면서 금리 인상이 지연될 수 있다는 기대감이 커졌고, 이에 따라 미국 주식 시장이 크게 상승했습니다.",
-      "category": "증시·금리",
+      "summary_text": "연준 새 의장 케빈 워시가 2026년 5월 취임 후 인플레이션 퇴치를 위한 '정책 기조 변화'를 약속했다. 기사는 워시 의장의 인플레이션 정책 이행 여부를 평가하며, 향후 통화 정책 방향을 가늠하는 중요한 지표이다. 투자자들은 연준의 통화 정책 변화가 시장에 미칠 영향과 인플레이션 추이를 주시해야 한다.",
+      "description": "2026년 5월 취임한 새로운 연준 의장 케빈 워시는 인플레이션을 극복하기 위한 '정책 기조 변화'를 약속했다. 과연 그 약속을 이행했는지 평가한다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "기술주, 소비재",
-      "related_stocks": [
-        "엔비디아",
-        "아마존"
-      ],
+      "market_impact": "중립",
+      "related_sector": "금융, 전체 시장",
+      "related_stocks": [],
       "investment_view": "관심",
-      "investment_reason": "고용 둔화가 금리 인상 지연 또는 인하 가능성을 높여 시장 전반의 투자 심리를 개선하고 특히 성장주에 긍정적으로 작용할 수 있기 때문이다.",
-      "key_signal": "다음 고용 지표 및 물가 지표 발표를 통해 연준의 통화 정책 변화 가능성을 지속적으로 확인해야 한다.",
+      "investment_reason": "연준 의장의 통화 정책 방향은 글로벌 경제 및 금융 시장의 주요 변동성을 결정하는 핵심 요인이기 때문이다.",
+      "key_signal": "케빈 워시 연준 의장의 인플레이션 정책 기조 변화가 실제 시장에 어떤 영향을 미쳤는지 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "미국 고용",
-        "금리 인상",
-        "증시 상승",
         "연준",
-        "경제 지표"
+        "케빈 워시",
+        "인플레이션",
+        "통화정책",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVF9LaHJyc3ZlSm10a1d1VXhvN2RZcnkwYV9ZV3ljeXhKaEhhRkItQ2wwRGI0VHozQ3Q3T3NtaU5OTkZFakwzQmx0Tmx4Nmt0a1JSbTJwaDlHTnVEaGZOY3V1QkhYUjhlWnJldXN1TzJaR1lqR0NveUpwYVJYM1E0cG9rbjhqMnFYa05rR1Rldl93VzF4UHhtcmVobDZPVGQtNTFuVGRqbExSRXNfUlQxSzN5ZFhOUUxuMXJUYldOLXdJY3NWSGxDTQ?oc=5",
-      "published": "2026-08-08 11:25",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYZVd0bTBVTzlmeDRrcFRDSEVZZkVyVWM0RFJKbHdPV2VWQzNDcUhNX3loTlNMaV8xNzJleVVoVHJ1MmVIdnZTSzhoUDhHaEl6eUpBV2QyRndma0x4emZkVG5ucWNoMHZJWDNsdzZkcWhCUXh0aDllM3lkeV9OdDg?oc=5",
+      "published": "2026-08-10 04:49",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -110,36 +104,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 관련 실적 및 중동 평화 협상 기대감에 다우·S&P 500 사상 최고치 마감",
-      "display_title": "AI 관련 실적 및 중동 평화 협상 기대감에 다우·S&P 500 사상 최고치 마감",
-      "original_title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - AOL.com",
+      "title": "케빈 워시 의장 체제에서 연준, 두 번째 연속 금리 동결. 3명 위원 반대 속 향후 투자자들이 기대할 것은?",
+      "display_title": "케빈 워시 의장 체제에서 연준, 두 번째 연속 금리 동결. 3명 위원 반대 속 향후 투자자들이 기대할 것은?",
+      "original_title": "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - AOL.com",
       "summary": [
-        "미국 다우지수와 S&P 500 지수가 AI 관련 기업 실적 호조와 중동 평화 협상 기대로 사상 최고치를 경신했다.",
-        "AI 기술 발전과 상업적 성공이 시장을 견인하고 있으며, 지정학적 위험 완화 기대감도 긍정적 요인으로 작용했다.",
-        "AI 산업의 강력한 성장 모멘텀이 지속되고 있으며, 시장 전반의 위험 선호 심리 개선에 주목해야 한다."
+        "케빈 워시 연준 의장 체제에서 연준이 두 번째 회의 연속으로 기준금리를 동결했다.",
+        "금리 동결에도 불구하고 3명의 위원이 반대 의견을 제시한 것은 향후 정책 방향에 대한 연준 내부의 이견을 시사한다.",
+        "투자자들은 금리 동결의 배경과 반대 의견의 의미를 분석하여 다음 FOMC 회의에서의 금리 인상 가능성을 예측해야 한다."
       ],
-      "summary_text": "미국 다우지수와 S&P 500 지수가 AI 관련 기업 실적 호조와 중동 평화 협상 기대로 사상 최고치를 경신했다. AI 기술 발전과 상업적 성공이 시장을 견인하고 있으며, 지정학적 위험 완화 기대감도 긍정적 요인으로 작용했다. AI 산업의 강력한 성장 모멘텀이 지속되고 있으며, 시장 전반의 위험 선호 심리 개선에 주목해야 한다.",
-      "description": "인공지능(AI) 관련 기업들의 실적 호조와 중동 평화 협상에 대한 기대감으로 다우존스 산업평균지수와 S&P 500 지수가 사상 최고치를 기록하며 장을 마감했습니다.",
+      "summary_text": "케빈 워시 연준 의장 체제에서 연준이 두 번째 회의 연속으로 기준금리를 동결했다. 금리 동결에도 불구하고 3명의 위원이 반대 의견을 제시한 것은 향후 정책 방향에 대한 연준 내부의 이견을 시사한다. 투자자들은 금리 동결의 배경과 반대 의견의 의미를 분석하여 다음 FOMC 회의에서의 금리 인상 가능성을 예측해야 한다.",
+      "description": "케빈 워시 의장 지휘 아래 연준이 두 번 연속 금리를 동결했지만, 3명의 위원이 반대 의견을 표명했다. 투자자들이 다음에 무엇을 기대해야 할지 분석한다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "AI, 반도체, 소프트웨어",
-      "related_stocks": [
-        "마이크로소프트",
-        "엔비디아"
-      ],
+      "market_impact": "중립",
+      "related_sector": "금융, 전체 시장",
+      "related_stocks": [],
       "investment_view": "관심",
-      "investment_reason": "AI 산업의 강력한 실적 동력이 전체 시장의 상승을 견인하고 있으며, 이는 지속적인 투자 기회를 제공할 수 있기 때문이다.",
-      "key_signal": "AI 관련 기업들의 다음 분기 실적 발표와 중동 정세 변화를 주시하며 시장의 추가 상승 여부를 판단해야 한다.",
+      "investment_reason": "연준의 금리 결정은 시장 금리, 기업 자금 조달 비용, 소비 심리 등 광범위한 경제 지표에 직접적인 영향을 미치기 때문이다.",
+      "key_signal": "다음 FOMC 회의에서의 금리 인상 또는 인하 신호, 그리고 내부 이견이 어떻게 해소되는지 주시해야 한다.",
       "keywords": [
-        "AI",
-        "사상 최고치",
-        "다우지수",
-        "S&P 500",
-        "중동"
+        "연준",
+        "금리동결",
+        "케빈 워시",
+        "FOMC",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHZrWWozZVNZWFF2d0p5NGh0UFVybFFxZVNWNkktWjQtR3QzMjZLU18zbHJTbXpFRU9VSkpyTWdJcHhvYkFWTWpaR2R4NjBPS0gyNnRvTnV0M2cxZi1IQUxLZnN5NmdoblU0Rm5MazdtcGFkRXVFTWliZkF2Z3NkMkpVV0hSUVE?oc=5",
-      "published": "2026-08-09 00:03",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaS2RvOXRqYnhLTm5reDJqX0ItSHB0WGpQRnN4RWVTUUY1SDlsWTlEUzFlYlV5RUJNLWx0S09YMHJETXdYZ0hXVVYwcEM5MVRtVUIxdVpNNllhalRqbWlTd2pJU1ZTMVFTSVJIVXJYOTJVaHpyRVpleFBGY2F1WWc?oc=5",
+      "published": "2026-08-10 02:04",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -151,33 +142,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준, 2회 연속 금리 동결 결정… 3명 위원 반대 속 향후 투자 전략은?",
-      "display_title": "연준, 2회 연속 금리 동결 결정… 3명 위원 반대 속 향후 투자 전략은?",
-      "original_title": "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - AOL.com",
+      "title": "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
+      "display_title": "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
+      "original_title": "S&P record high after jobs data eases rate worries - Michael West Media",
       "summary": [
-        "연준이 두 번 연속 기준금리를 동결했으나, 3명의 위원이 금리 인상을 주장하며 반대 의견을 냈다.",
-        "금리 동결은 시장에 일시적 안도감을 주지만, 소수 의견의 매파적 시각은 여전히 긴축 가능성을 시사한다.",
-        "금리 인상에 대한 내부 이견이 존재하여 정책 불확실성이 상존하며, 향후 경제 지표에 따라 언제든 정책 방향이 바뀔 수 있다."
+        "미국 고용 데이터가 시장의 금리 인상 우려를 완화시키면서 S&P 500 지수가 사상 최고치를 기록했다.",
+        "이는 고용 시장이 견조하면서도 연준의 추가 긴축 필요성이 낮아질 수 있다는 기대감으로 해석된다.",
+        "투자자들은 고용 시장의 안정세와 연준의 통화 정책 스탠스 변화 가능성에 주목하여 시장의 상승 추세 지속 여부를 판단해야 한다."
       ],
-      "summary_text": "연준이 두 번 연속 기준금리를 동결했으나, 3명의 위원이 금리 인상을 주장하며 반대 의견을 냈다. 금리 동결은 시장에 일시적 안도감을 주지만, 소수 의견의 매파적 시각은 여전히 긴축 가능성을 시사한다. 금리 인상에 대한 내부 이견이 존재하여 정책 불확실성이 상존하며, 향후 경제 지표에 따라 언제든 정책 방향이 바뀔 수 있다.",
-      "description": "케빈 워시 연준 의장 체제에서 연준이 두 번째 회의 연속으로 금리를 동결했으며, 3명의 위원이 반대 의견을 냈습니다. 투자자들이 다음으로 무엇을 기대해야 할지 알아봅니다.",
+      "summary_text": "미국 고용 데이터가 시장의 금리 인상 우려를 완화시키면서 S&P 500 지수가 사상 최고치를 기록했다. 이는 고용 시장이 견조하면서도 연준의 추가 긴축 필요성이 낮아질 수 있다는 기대감으로 해석된다. 투자자들은 고용 시장의 안정세와 연준의 통화 정책 스탠스 변화 가능성에 주목하여 시장의 상승 추세 지속 여부를 판단해야 한다.",
+      "description": "최근 발표된 고용 데이터가 시장의 금리 인상 우려를 누그러뜨리면서 S&P 500 지수가 사상 최고치를 경신했다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "금융, 기술주",
-      "related_stocks": [],
-      "investment_view": "중립",
-      "investment_reason": "금리 동결은 긍정적이나, 내부적인 금리 인상 의견이 존재하는 것은 향후 정책 방향에 대한 불확실성을 높여 신중한 접근이 필요하기 때문이다.",
-      "key_signal": "연준 내부의 매파적 의견과 향후 발표될 경제 지표들을 면밀히 검토하여 다음 금리 결정의 방향성을 예측해야 한다.",
-      "keywords": [
-        "연준",
-        "금리 동결",
-        "통화정책",
-        "매파",
-        "미국 경제"
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "전체 시장, 기술주",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaS2RvOXRqYnhLTm5reDJqX0ItSHB0WGpQRnN4RWVTUUY1SDlsWTlEUzFlYlV5RUJNLWx0S09YMHJETXdYZ0hXVVYwcEM5MVRtVUIxdVpNNllhalRqbWlTd2pJU1ZTMVFTSVJIVXJYOTJVaHpyRVpleFBGY2F1WWc?oc=5",
-      "published": "2026-08-08 22:00",
+      "investment_view": "관심",
+      "investment_reason": "고용 데이터 개선으로 인한 금리 인상 우려 완화는 위험 자산 선호 심리를 자극하여 주식 시장에 긍정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "고용 지표와 인플레이션 지표의 상호 작용이 향후 연준의 통화 정책 방향에 어떤 영향을 미칠지 지속적으로 분석해야 한다.",
+      "keywords": [
+        "S&P500",
+        "고용지표",
+        "금리인상",
+        "연준",
+        "증시"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVdTTjYya0VpVlZHZmVxN0ZBZHdrWThoNVVoMTZ4a0JQRUhKM3hVWW1KdHVXelBwcGN0Wk9FcjFQSmJTZjhiRHhJX1hEeFZ2LXFIUnJ5a2xsbE5DTHFjc1NPeTNEQkhvc1RoUE1qMWlZUlJLNElNTmt6UG9ZY09kQlJMWQ?oc=5",
+      "published": "2026-08-10 06:12",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -189,37 +184,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[메가프로젝트] AI 생태계, 대한민국 '제3의 성장엔진'으로 부상",
-      "display_title": "[메가프로젝트] AI 생태계, 대한민국 '제3의 성장엔진'으로 부상",
-      "original_title": "[메가프로젝트, 대한민국을 다시 설계하다] ① AI 생태계로 여는 '제3의 성장엔진' - 뉴스핌",
+      "title": "[오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표",
+      "display_title": "[오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표",
+      "original_title": "[오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표 - 데일리안",
       "summary": [
-        "AI 생태계 조성이 대한민국 경제의 새로운 성장 동력으로 추진될 예정이다.",
-        "정부 주도의 메가프로젝트를 통해 AI 산업을 육성하고 국가 경쟁력을 강화하려는 의도가 담겨있다.",
-        "정부 정책 지원에 힘입어 국내 AI 관련 기업들의 성장이 가속화될 수 있으며, 장기적인 투자 기회를 모색할 필요가 있다."
+        "정부가 이르면 이달 13일(수)에 새로운 주택 공급대책을 발표할 것으로 예상된다.",
+        "이는 부동산 시장의 안정화를 위한 정부의 핵심 정책 방향을 제시하는 것으로, 시장의 큰 관심이 집중될 전망이다.",
+        "투자자들은 발표될 대책의 구체적인 내용, 특히 공급 지역, 물량, 규제 완화 여부 등을 면밀히 분석하여 투자 전략에 반영해야 한다."
       ],
-      "summary_text": "AI 생태계 조성이 대한민국 경제의 새로운 성장 동력으로 추진될 예정이다. 정부 주도의 메가프로젝트를 통해 AI 산업을 육성하고 국가 경쟁력을 강화하려는 의도가 담겨있다. 정부 정책 지원에 힘입어 국내 AI 관련 기업들의 성장이 가속화될 수 있으며, 장기적인 투자 기회를 모색할 필요가 있다.",
-      "description": "대한민국을 재설계하는 메가프로젝트의 일환으로 인공지능(AI) 생태계가 국가 경제의 '제3의 성장엔진'으로 부상하고 있다는 분석이 나왔습니다.",
-      "category": "기업·산업",
+      "summary_text": "정부가 이르면 이달 13일(수)에 새로운 주택 공급대책을 발표할 것으로 예상된다. 이는 부동산 시장의 안정화를 위한 정부의 핵심 정책 방향을 제시하는 것으로, 시장의 큰 관심이 집중될 전망이다. 투자자들은 발표될 대책의 구체적인 내용, 특히 공급 지역, 물량, 규제 완화 여부 등을 면밀히 분석하여 투자 전략에 반영해야 한다.",
+      "description": "정부가 이르면 이달 13일에 새로운 주택 공급대책을 발표할 예정이라는 소식이다.",
+      "category": "부동산·정책",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "AI, 소프트웨어, 데이터센터, 반도체",
+      "market_impact": "중립",
+      "related_sector": "건설, 부동산 개발, 건자재",
       "related_stocks": [
-        "NAVER",
-        "카카오",
-        "SK텔레콤"
+        "현대건설",
+        "GS건설",
+        "KCC"
       ],
       "investment_view": "관심",
-      "investment_reason": "국가적 차원의 AI 생태계 육성 프로젝트는 국내 AI 관련 기업들에게 강력한 성장 모멘텀을 제공하며 장기적인 투자 가치를 높일 수 있기 때문이다.",
-      "key_signal": "정부의 구체적인 AI 육성 정책과 투자 계획 발표를 주시하며 수혜 기업들을 선별해야 한다.",
+      "investment_reason": "정부의 주택 공급대책은 건설 및 건자재 관련 기업의 사업 기회와 부동산 시장의 중장기적인 가격 형성 요인에 직접적인 영향을 미치기 때문이다.",
+      "key_signal": "13일 발표될 공급대책의 세부 내용을 주의 깊게 살피고, 실제 시장에 미칠 파급 효과를 분석하여 선제적으로 대응해야 한다.",
       "keywords": [
-        "AI 생태계",
-        "대한민국",
-        "성장 동력",
-        "정부 정책",
-        "메가프로젝트"
+        "주택공급",
+        "부동산정책",
+        "정부대책",
+        "건설",
+        "부동산시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rYkF1VU1BWENkbVFOWjBjT2JNc2RqaU5tcldHS2k3eDB4R3psMUQtc0lNeHBjNmQ5WGJJRjdwa0wwdWFtcEd6QjZXejVnZlNZN19Rc2pkUG04dHhi?oc=5",
-      "published": "2026-08-09 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2QW9Ud0RJb1ZBZ2hVdW1adlQxTVpqYk9iZGJMZVVRUUZLQjZyMzBPdUppUGg4LURHUFRQUWRrZTZIeFNoUXpZOUpLQkdsYktpYW9v?oc=5",
+      "published": "2026-08-10 06:10",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -231,36 +226,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "AI 소프트웨어주 실적에 따른 차별화 심화… 美 고용 충격으로 금리 인하 압박 증가",
-      "display_title": "AI 소프트웨어주 실적에 따른 차별화 심화… 美 고용 충격으로 금리 인하 압박 증가",
-      "original_title": "AI 소프트웨어주 실적별 차별화… 美 고용 충격에 금리 인하 압박 급증 - 글로벌이코노믹",
+      "title": "[박근종 칼럼] 시장을 안심시킬 파격적인 공급 없이는 백약이 무효인 주택정책, 공공·민간 총동원 속도 내야",
+      "display_title": "[박근종 칼럼] 시장을 안심시킬 파격적인 공급 없이는 백약이 무효인 주택정책, 공공·민간 총동원 속도 내야",
+      "original_title": "[박근종 칼럼] 시장 안심시킬 파격적 공급 없인 백약이 무효인 주택정책, 공공·민간 총동원 속도 내야 - 더쎈뉴스",
       "summary": [
-        "AI 소프트웨어 기업들의 실적에 따라 주가 흐름이 차별화되고 있으며, 미국 고용 충격으로 금리 인하 압력이 커졌다.",
-        "AI 산업 내에서도 옥석 가리기가 진행되고 있으며, 미국 고용 지표 둔화는 연준의 통화 정책 전환 기대감을 높인다.",
-        "AI 소프트웨어 투자 시 개별 기업의 실적과 성장성을 더욱 면밀히 분석해야 하며, 금리 인하 기대감이 시장에 긍정적인 영향을 미칠 수 있다."
+        "박근종 칼럼니스트는 주택 시장의 불안을 해소하기 위해 공공과 민간이 총동원된 파격적인 주택 공급 확대가 시급하다고 주장했다.",
+        "현재의 주택 정책이 공급 부족 문제를 해결하지 못하고 있어 시장 안정에 한계가 있다는 비판적 시각을 담고 있다.",
+        "투자자들은 정부의 향후 공급 정책 발표와 실제 공급 확대 여부에 주목하여 부동산 시장의 중장기적인 방향을 예측해야 한다."
       ],
-      "summary_text": "AI 소프트웨어 기업들의 실적에 따라 주가 흐름이 차별화되고 있으며, 미국 고용 충격으로 금리 인하 압력이 커졌다. AI 산업 내에서도 옥석 가리기가 진행되고 있으며, 미국 고용 지표 둔화는 연준의 통화 정책 전환 기대감을 높인다. AI 소프트웨어 투자 시 개별 기업의 실적과 성장성을 더욱 면밀히 분석해야 하며, 금리 인하 기대감이 시장에 긍정적인 영향을 미칠 수 있다.",
-      "description": "AI 소프트웨어 관련 주식들이 실적에 따라 주가 흐름이 차별화되고 있는 가운데, 미국의 고용 지표 충격으로 인해 금리 인하 압박이 급증하고 있습니다.",
-      "category": "기업·산업",
+      "summary_text": "박근종 칼럼니스트는 주택 시장의 불안을 해소하기 위해 공공과 민간이 총동원된 파격적인 주택 공급 확대가 시급하다고 주장했다. 현재의 주택 정책이 공급 부족 문제를 해결하지 못하고 있어 시장 안정에 한계가 있다는 비판적 시각을 담고 있다. 투자자들은 정부의 향후 공급 정책 발표와 실제 공급 확대 여부에 주목하여 부동산 시장의 중장기적인 방향을 예측해야 한다.",
+      "description": "박근종 칼럼은 시장을 안정시키기 위해서는 파격적인 주택 공급이 필수적이며, 이를 위해 공공과 민간 부문을 총동원하여 속도를 내야 한다고 주장한다.",
+      "category": "부동산·정책",
       "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "AI 소프트웨어, 클라우드, SaaS",
+      "market_impact": "중립",
+      "related_sector": "건설, 부동산 개발",
       "related_stocks": [
-        "한글과컴퓨터",
-        "솔트룩스"
+        "현대건설",
+        "GS건설",
+        "대우건설"
       ],
       "investment_view": "관심",
-      "investment_reason": "금리 인하 기대감은 AI 소프트웨어주 전반에 긍정적이지만, 개별 기업의 실적 차별화가 심화되고 있어 옥석 가리기를 통해 유망 기업을 선별해야 할 시점이기 때문이다.",
-      "key_signal": "AI 소프트웨어 기업들의 분기별 실적 발표와 미국 고용 및 물가 지표를 지속적으로 모니터링하여 금리 인하 시점을 예측해야 한다.",
+      "investment_reason": "주택 공급 확대 정책은 건설 및 부동산 개발 관련 기업의 실적에 직접적인 영향을 미치며, 부동산 시장 전반의 흐름을 바꿀 수 있기 때문이다.",
+      "key_signal": "정부가 곧 발표할 주택 공급 대책의 구체적인 내용과 규모를 면밀히 살펴야 한다.",
       "keywords": [
-        "AI 소프트웨어",
-        "실적 차별화",
-        "미국 고용",
-        "금리 인하",
-        "기술주"
+        "주택정책",
+        "부동산",
+        "공급확대",
+        "공공주택",
+        "건설사"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUl9adzYycUVxWEZRUUZBQUxBMFl3OWtzYV83UThVTFZWT3R3bEdoWHFBTzBlS3NsMy1IUDVEWXI4RzRPQ2JUYlZsSW5hdGpwTUM3WHJKZFZkazJXdTVpaTNuY3RjYW9yZDAtQU1zVU4tUUNURWMzUTRFRFhUeUdCUm1lc2tfNVhO?oc=5",
-      "published": "2026-08-09 04:05",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zejFaY2k4STdXWERXVUJkb0w2cERZMXhEdVI5Sl8wY1UwLVVMQmZWNWxsclQwR0VfdWRtTVFDaDFaUXk0aksxWnRWRlBLdkh2VmVHOUVncmRnR3NENmFuNVpfR2w2TnZJ?oc=5",
+      "published": "2026-08-10 04:01",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -271,67 +267,70 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "NAVER",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "인터넷 서비스, AI 플랫폼",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "국가 차원의 'AI 생태계' 육성 프로젝트가 대한민국 '제3의 성장엔진'으로 부상함에 따라, 국내 대표 AI 플랫폼 기업으로서 장기적인 성장 모멘텀이 강화될 것으로 기대됩니다.",
+      "reason": "미국 S&P 지수 사상 최고치 경신을 이끈 고용 데이터의 금리 인상 우려 완화는 위험 자산 선호 심리를 자극하여 국내 대표 기술주인 삼성전자에 긍정적인 영향을 미칠 수 있습니다. 동시에 연준 의장의 인플레이션 무관용 발언은 긴축 기조 장기화 우려를 상존시키므로, 글로벌 통화 정책의 변화와 반도체 업황의 조화로운 회복 여부가 핵심 변수가 될 것입니다.",
       "check_points": [
-        "국내 AI 산업 육성 정책의 구체화 및 수혜 정도",
-        "글로벌 AI 경쟁 심화 속 자체 AI 모델 경쟁력 확보 여부",
-        "클라우드 및 데이터센터 사업의 수익성 개선 추이"
+        "연준의 향후 통화정책 방향 및 발언 강도",
+        "글로벌 반도체 수요 및 가격 회복 속도",
+        "외국인 투자자 수급 동향"
       ],
       "related_news_titles": [
-        "[메가프로젝트] AI 생태계, 대한민국 '제3의 성장엔진'으로 부상"
+        "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
+        "연준 의장 케빈 워시, '인플레이션에 무관용' 발언에 다우지수 840포인트 급락. 투자 포트폴리오에 미치는 영향은?"
       ]
     },
     {
       "rank": 2,
-      "name": "솔트룩스",
-      "market": "KOSDAQ",
-      "sector": "AI 소프트웨어",
+      "name": "현대건설",
+      "market": "KOSPI",
+      "sector": "건설",
       "opinion": "관심",
-      "reason": "미국 고용 지표 둔화에 따른 금리 인하 압박 증가로 AI 소프트웨어주 전반에 긍정적인 투자 심리가 형성되고 있으며, AI 소프트웨어 전문 기업으로서 실적 차별화에 따른 성장 잠재력이 부각될 수 있습니다.",
+      "reason": "정부의 이달 13일로 예상되는 주택 공급대책 발표는 건설 및 부동산 개발 관련 기업의 사업 기회를 확대할 수 있습니다. 특히, 시장의 기대를 충족하는 파격적인 공급 확대 정책이 나올 경우, 건설 및 건자재 관련 기업들의 실적 개선 기대감이 부각될 수 있어 정책의 구체적인 내용과 시장 반응에 주목해야 합니다.",
       "check_points": [
-        "AI 솔루션 계약 및 수주 실적 추이",
-        "수익성 개선을 위한 사업 구조 효율화 노력",
-        "경쟁사 대비 기술 경쟁력 및 신규 서비스 출시 여부"
+        "정부의 주택 공급대책 발표 내용 및 규모",
+        "부동산 시장 규제 완화 및 거래 활성화 여부",
+        "원자재 가격 및 금리 변화 추이"
       ],
       "related_news_titles": [
-        "AI 소프트웨어주 실적에 따른 차별화 심화… 美 고용 충격으로 금리 인하 압박 증가"
+        "[오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표",
+        "[박근종 칼럼] 시장을 안심시킬 파격적인 공급 없이는 백약이 무효인 주택정책, 공공·민간 총동원 속도 내야"
       ]
     },
     {
       "rank": 3,
-      "name": "삼성전자",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "반도체, 전자제품",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "AI 산업의 강력한 성장은 고성능 반도체 수요 증가로 이어지며, 대한민국 'AI 생태계'의 핵심 축인 반도체 업종 전반에 긍정적인 영향을 미칠 것으로 예상됩니다. AI 관련 실적 기대감 또한 긍정적입니다.",
+      "reason": "고용 데이터 개선으로 인한 금리 인상 우려 완화와 S&P 지수 사상 최고치 경신은 위험 자산 선호 심리를 자극하여 주식 시장의 거래 활성화를 기대하게 합니다. 이는 국내 증권사들의 브로커리지 수익 증대 및 운용 자산 가치 상승에 긍정적으로 작용할 수 있어, 시장 분위기 변화에 대한 관심이 필요합니다.",
       "check_points": [
-        "AI 반도체(HBM) 생산 능력 및 수율 개선",
-        "글로벌 반도체 업황 회복 속도 및 메모리 가격 추이",
-        "파운드리 사업 경쟁력 강화 및 수주 상황"
+        "국내외 증시 거래대금 및 시장 변동성 확대 여부",
+        "연준의 금리 정책 방향 및 시장금리 변화",
+        "금융 당국의 증권 시장 관련 정책 및 규제 변화"
       ],
       "related_news_titles": [
-        "AI 관련 실적 및 중동 평화 협상 기대감에 다우·S&P 500 사상 최고치 마감",
-        "[메가프로젝트] AI 생태계, 대한민국 '제3의 성장엔진'으로 부상"
+        "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
+        "케빈 워시 의장 체제에서 연준, 두 번째 연속 금리 동결. 3명 위원 반대 속 향후 투자자들이 기대할 것은?"
       ]
     },
     {
       "rank": 4,
-      "name": "SK텔레콤",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "통신, AI, 클라우드",
+      "sector": "인터넷 서비스",
       "opinion": "관심",
-      "reason": "대한민국 'AI 생태계'의 핵심 인프라 및 플랫폼 제공 기업으로 언급되었으며, AI 기술을 활용한 신규 서비스 출시 및 기존 통신 사업과의 시너지 창출이 기대되어 중장기적인 성장 동력을 확보할 수 있습니다.",
+      "reason": "금리 인상 우려 완화에 따른 S&P 지수 사상 최고치 경신은 기술주를 포함한 성장주 전반에 대한 투자 심리를 개선할 수 있습니다. 그러나 연준 의장의 인플레이션 무관용 발언 등 긴축 기조 장기화에 대한 우려도 상존하는 만큼, 글로벌 통화 정책의 변화와 플랫폼 경쟁 환경, 신사업(AI 등) 성과가 주요 관심사입니다.",
       "check_points": [
-        "AI 기반 신사업(초거대 AI, AI 반도체 등)의 구체적인 성과 가시화",
-        "통신 본업의 안정적인 실적 유지 및 배당 정책",
-        "클라우드 및 데이터센터 사업 확장 및 경쟁력 확보"
+        "글로벌 통화 정책 스탠스 및 금리 변동성",
+        "광고 시장 회복 속도 및 신사업 성장 모멘텀",
+        "플랫폼 사업 경쟁 심화 여부 및 해외 사업 확장"
       ],
       "related_news_titles": [
-        "[메가프로젝트] AI 생태계, 대한민국 '제3의 성장엔진'으로 부상"
+        "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
+        "연준 의장 케빈 워시, '인플레이션에 무관용' 발언에 다우지수 840포인트 급락. 투자 포트폴리오에 미치는 영향은?"
       ]
     }
   ],
