@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10 07:30",
-  "analysis_date": "2026-08-10",
+  "generated_at": "2026-08-11 07:36",
+  "analysis_date": "2026-08-11",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "연준의 매파적 발언과 금리 동결 속 내부 이견이 시장 변동성을 키우는 가운데, 견조한 미국 고용 데이터가 일부 안도감을 제공했습니다. 국내는 주택 공급대책 발표에 관심이 쏠립니다.",
-    "국내거시경제": "정부의 주택 공급대책이 이르면 13일 발표될 예정이며, 부동산 시장 안정화에 대한 기대와 함께 실효성 있는 공급 확대 요구가 이어지고 있습니다.",
-    "글로벌경제": "연준 케빈 워시 의장의 '인플레이션 무관용' 발언은 강력한 긴축 의지를 시사하며 시장에 부담을 주었습니다. 신임 의장으로서 인플레이션 퇴치 정책 변화를 예고한 점과, 금리 동결 기조 속 내부 이견은 향후 통화정책 불확실성을 높이고 있습니다.",
-    "증시금리": "연준 의장의 매파적 발언에 다우지수가 급락하며 고금리 장기화 우려가 확산되었으나, 미국 고용 데이터가 금리 인상 압력을 완화하며 S&P 500 지수는 사상 최고치를 경신하는 등 혼조세를 보였습니다. 연준의 두 번째 연속 금리 동결 결정은 시장에 중립적 영향을 주었으나, 3명의 위원이 반대 의견을 제시하며 향후 정책 방향에 대한 불확실성을 남겼습니다.",
-    "부동산정책": "정부가 이르면 이달 13일 새로운 주택 공급대책을 발표할 예정으로, 시장의 이목이 집중되고 있습니다. 전문가들은 시장 안정을 위해 공공·민간을 총동원한 파격적인 공급 확대가 시급하다고 강조합니다.",
-    "기업산업": "해당 없음",
-    "오늘의투자시사점": "연준의 매파적 스탠스와 금리 정책 불확실성에 대비하여 방어적 포트폴리오를 유지하고 시장 변동성에 유의해야 합니다. 동시에 미국 고용 지표 호조와 국내 주택 공급대책의 구체적인 내용 발표를 주시하여 투자 전략에 반영하십시오.",
-    "오늘의한줄": "글로벌 통화정책 불확실성 속 국내 부동산 정책 변화에 주목하며 방어적 관점을 유지해야 합니다."
+    "총평": "미국 증시는 주요 지표 발표와 연준 발언에 따라 변동성이 확대되는 모습입니다. 국내에서는 구조적 원화 약세와 환율 변동성이 지속적으로 주목받고 있습니다.",
+    "국내거시경제": "한국은 달러 수입에도 불구하고 '돈의 흐름 변화'로 인한 구조적 원화 약세가 분석되고 있습니다. 원/달러 환율은 1400원대에서 숨고르기 중이며, 1300원대 진입 가능성도 제기됩니다.",
+    "글로벌경제": "연준 의장의 특정 발언이 연준 통화정책 기조를 재편성하며 시장에 중요한 방향성을 제시하고 있습니다.",
+    "증시금리": "다우존스가 최악의 세션을 기록하며 불안한 모습을 보였으나, 예상보다 큰 일자리 감소에 금리 인상 연기 기대감이 커지며 미국 증시는 급등했습니다. 다만, 핵심 인플레이션 데이터 발표를 앞두고 신중한 흐름이 예상됩니다.",
+    "부동산정책": "관련 뉴스 없습니다.",
+    "기업산업": "관련 뉴스 없습니다.",
+    "오늘의투자시사점": "미국 인플레이션 지표와 연준의 통화정책 기조 변화에 따른 시장 변동성에 주의하며, 국내 환율 흐름과 외국인 수급 동향을 함께 고려한 신중한 포트폴리오 관리가 필요합니다.",
+    "오늘의한줄": "글로벌 경제 지표와 연준의 스탠스에 따라 시장 변동성이 커질 수 있으니, 주요 경제 지표 발표를 예의주시하며 투자에 신중해야 합니다."
   },
   "top_news": [
     {
@@ -28,33 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 의장 케빈 워시, '인플레이션에 무관용' 발언에 다우지수 840포인트 급락. 투자 포트폴리오에 미치는 영향은?",
-      "display_title": "연준 의장 케빈 워시, '인플레이션에 무관용' 발언에 다우지수 840포인트 급락. 투자 포트폴리오에 미치는 영향은?",
-      "original_title": "Fed Chair Kevin Warsh Said the Central Bank Has \"No Tolerance\" for Inflation, and the Dow Dropped 840 Points. What It Means for Your Portfolio. - AOL.com",
+      "title": "다우존스, 2025년 4월 이후 최악의 세션 기록하며 51,594.14로 폭락",
+      "display_title": "다우존스, 2025년 4월 이후 최악의 세션 기록하며 51,594.14로 폭락",
+      "original_title": "Dow Jones: DJIA Plunges to 51 594,14 in Its Worst Session Since April 2025 - BBN Times",
       "summary": [
-        "케빈 워시 연준 의장이 인플레이션에 대해 '무관용' 입장을 밝히면서 다우지수가 840포인트 급락했다.",
-        "이는 연준의 강력한 긴축 의지를 시장이 반영한 결과이며, 고금리 장기화에 대한 우려가 확산되고 있음을 시사한다.",
-        "투자자들은 연준의 매파적 스탠스가 지속될 경우 발생할 수 있는 시장 변동성에 대비하고, 방어적인 포트폴리오 전략을 고려해야 한다."
+        "다우존스 산업평균지수가 2025년 4월 이후 가장 큰 폭으로 하락하며 51,594.14 포인트를 기록했습니다.",
+        "특정 악재에 대한 언급은 없으나, 투자심리 위축 및 글로벌 경제 불확실성이 복합적으로 작용한 것으로 보입니다.",
+        "미국 증시의 급락은 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 심리 위축에 주의해야 합니다."
       ],
-      "summary_text": "케빈 워시 연준 의장이 인플레이션에 대해 '무관용' 입장을 밝히면서 다우지수가 840포인트 급락했다. 이는 연준의 강력한 긴축 의지를 시장이 반영한 결과이며, 고금리 장기화에 대한 우려가 확산되고 있음을 시사한다. 투자자들은 연준의 매파적 스탠스가 지속될 경우 발생할 수 있는 시장 변동성에 대비하고, 방어적인 포트폴리오 전략을 고려해야 한다.",
-      "description": "케빈 워시 연준 의장이 인플레이션에 대한 '무관용' 입장을 밝히자 다우지수가 840포인트 급락했다. 이에 대한 투자 포트폴리오의 의미를 분석한다.",
+      "summary_text": "다우존스 산업평균지수가 2025년 4월 이후 가장 큰 폭으로 하락하며 51,594.14 포인트를 기록했습니다. 특정 악재에 대한 언급은 없으나, 투자심리 위축 및 글로벌 경제 불확실성이 복합적으로 작용한 것으로 보입니다. 미국 증시의 급락은 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 심리 위축에 주의해야 합니다.",
+      "description": "다우존스 산업평균지수가 2025년 4월 이후 최악의 거래일을 맞아 51,594.14까지 급락했다는 소식이다.",
       "category": "증시·금리",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전반적 시장, 성장주, 기술주",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "연준의 강력한 인플레이션 억제 의지는 긴축 기조 장기화로 이어져 주식 시장에 지속적인 하방 압력으로 작용할 수 있기 때문이다.",
-      "key_signal": "연준의 '무관용' 기조가 얼마나 지속될지, 그리고 추가적인 긴축 조치나 시장의 추가 하락 가능성을 예의주시해야 한다.",
-      "keywords": [
-        "연준",
-        "케빈 워시",
-        "인플레이션",
-        "다우지수",
-        "긴축"
+      "related_sector": "글로벌 증시",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90NHRFUEpWQlFZVmNSMm9YUjhacG85cUVHaURGcVd3MTNybV9nWHpDOGpRdGI4RERkZ0h0cFVYRi02N1FuMDAzZll1bFBBeGJlMHBxZEw3a1lWRmRlNmdGcDgwc0Vub3kzdnBiTVljMUNWN2piTnpuSF9n?oc=5",
-      "published": "2026-08-10 02:04",
+      "investment_view": "주의",
+      "investment_reason": "미국 주요 지수의 급락은 글로벌 투자 심리에 즉각적인 영향을 미쳐 국내 증시에도 하방 압력을 가할 수 있기 때문입니다.",
+      "key_signal": "오늘 국내 증시 개장 시 미국 증시 급락에 따른 외국인 투자자 동향과 기관 매매 포지션을 면밀히 체크해야 합니다.",
+      "keywords": [
+        "다우존스",
+        "미국증시",
+        "주가지수",
+        "글로벌증시",
+        "투자심리"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTZPVVlfWjhlbl9MeTFzU0dyMXZHcS1tYUZhRU4zNmJnbUxZdDBJeUtSU1BoVlVnY2xWTkV2MF9VQjJzbzEzM19xTnZSaXdhSmF3THVuY3BnYnkwOEFFZ0o1MWdfNENEcHN1amZpUTVPOWloMG9KV0hIUnp1eFZObDkzY2FhendFZ0NGOFdmUk1zQTFpODJsSElkb3FVOWp3Y01OX3F1OEFRdWkyTjFicnl3RQ?oc=5",
+      "published": "2026-08-11 03:40",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -66,33 +70,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "새로운 연준 의장 케빈 워시, 2026년 5월 취임 시 인플레이션 퇴치를 위한 '정책 기조 변화' 약속, 그는 성공했는가?",
-      "display_title": "새로운 연준 의장 케빈 워시, 2026년 5월 취임 시 인플레이션 퇴치를 위한 '정책 기조 변화' 약속, 그는 성공했는가?",
-      "original_title": "New Fed Chair Kevin Warsh Promised a Policy \"Regime Change\" to Defeat Inflation When He Took Over in May 2026. Has He Delivered? - AOL.com",
+      "title": "케빈 와시 연준 의장이 10번 반복한 한 단어가 연준의 통화정책 접근 방식을 효과적으로 재편성했다",
+      "display_title": "케빈 와시 연준 의장이 10번 반복한 한 단어가 연준의 통화정책 접근 방식을 효과적으로 재편성했다",
+      "original_title": "One Word Repeated 10 Times by Fed Chair Kevin Warsh Has Effectively Reshaped the Central Bank's Monetary Policy Approach - AOL.com",
       "summary": [
-        "연준 새 의장 케빈 워시가 2026년 5월 취임 후 인플레이션 퇴치를 위한 '정책 기조 변화'를 약속했다.",
-        "기사는 워시 의장의 인플레이션 정책 이행 여부를 평가하며, 향후 통화 정책 방향을 가늠하는 중요한 지표이다.",
-        "투자자들은 연준의 통화 정책 변화가 시장에 미칠 영향과 인플레이션 추이를 주시해야 한다."
+        "케빈 와시 연준 의장이 특정 단어를 반복 사용하며 연방준비제도(Fed)의 통화정책 기조에 큰 변화를 이끌어냈습니다.",
+        "연준 의장의 발언은 시장에 막대한 영향을 미치며, 통화정책의 방향성을 제시하여 금리, 유동성, 시장 심리 등에 직접적인 영향을 줍니다.",
+        "연준의 통화정책 변화는 글로벌 금융시장과 국내 증시의 방향성을 결정하는 핵심 요인이므로, 관련 발언과 정책 변화를 면밀히 분석해야 합니다."
       ],
-      "summary_text": "연준 새 의장 케빈 워시가 2026년 5월 취임 후 인플레이션 퇴치를 위한 '정책 기조 변화'를 약속했다. 기사는 워시 의장의 인플레이션 정책 이행 여부를 평가하며, 향후 통화 정책 방향을 가늠하는 중요한 지표이다. 투자자들은 연준의 통화 정책 변화가 시장에 미칠 영향과 인플레이션 추이를 주시해야 한다.",
-      "description": "2026년 5월 취임한 새로운 연준 의장 케빈 워시는 인플레이션을 극복하기 위한 '정책 기조 변화'를 약속했다. 과연 그 약속을 이행했는지 평가한다.",
+      "summary_text": "케빈 와시 연준 의장이 특정 단어를 반복 사용하며 연방준비제도(Fed)의 통화정책 기조에 큰 변화를 이끌어냈습니다. 연준 의장의 발언은 시장에 막대한 영향을 미치며, 통화정책의 방향성을 제시하여 금리, 유동성, 시장 심리 등에 직접적인 영향을 줍니다. 연준의 통화정책 변화는 글로벌 금융시장과 국내 증시의 방향성을 결정하는 핵심 요인이므로, 관련 발언과 정책 변화를 면밀히 분석해야 합니다.",
+      "description": "케빈 와시 연준 의장이 특정 단어를 10차례 반복하며 연방준비제도(Fed)의 통화정책 접근 방식에 중대한 변화를 가져왔다는 내용이다.",
       "category": "글로벌 경제",
       "importance": 9,
       "market_impact": "중립",
-      "related_sector": "금융, 전체 시장",
+      "related_sector": "금융, 증권",
       "related_stocks": [],
       "investment_view": "관심",
-      "investment_reason": "연준 의장의 통화 정책 방향은 글로벌 경제 및 금융 시장의 주요 변동성을 결정하는 핵심 요인이기 때문이다.",
-      "key_signal": "케빈 워시 연준 의장의 인플레이션 정책 기조 변화가 실제 시장에 어떤 영향을 미쳤는지 지속적으로 모니터링해야 한다.",
+      "investment_reason": "연방준비제도(Fed)의 통화정책 기조 변화는 글로벌 금리 및 유동성 환경을 재편하고 이는 국내 증시의 업종별 성과와 투자 전략에 지대한 영향을 미치기 때문입니다.",
+      "key_signal": "케빈 와시 의장이 반복한 '한 단어'가 무엇인지, 그리고 그 단어가 시사하는 연준의 새로운 통화정책 방향이 구체적으로 어떤 내용인지 후속 보도를 통해 반드시 확인해야 합니다.",
       "keywords": [
         "연준",
-        "케빈 워시",
-        "인플레이션",
         "통화정책",
-        "금리"
+        "금리",
+        "케빈와시",
+        "글로벌경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYZVd0bTBVTzlmeDRrcFRDSEVZZkVyVWM0RFJKbHdPV2VWQzNDcUhNX3loTlNMaV8xNzJleVVoVHJ1MmVIdnZTSzhoUDhHaEl6eUpBV2QyRndma0x4emZkVG5ucWNoMHZJWDNsdzZkcWhCUXh0aDllM3lkeV9OdDg?oc=5",
-      "published": "2026-08-10 04:49",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SMzJTMjJUa0dySjlwckRvSjlCSWhHOWFyZ1NkRS1yYVFCTkRLcUdxb0lneHBpd0QtOTlDWWkyS242RC05b20tXzNRY1hhVW1ZbWlBRURhNUhfZkZRWWtPbUZOOFZJRW9EZ1ZGVHR0ZFBUQXFOQWV1TkZR?oc=5",
+      "published": "2026-08-10 15:06",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -104,33 +108,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "케빈 워시 의장 체제에서 연준, 두 번째 연속 금리 동결. 3명 위원 반대 속 향후 투자자들이 기대할 것은?",
-      "display_title": "케빈 워시 의장 체제에서 연준, 두 번째 연속 금리 동결. 3명 위원 반대 속 향후 투자자들이 기대할 것은?",
-      "original_title": "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next. - AOL.com",
+      "title": "미국 증시, 주요 인플레이션 데이터 발표 앞두고 신중한 출발 예상: 다우존스, S&P, 나스닥 선물 주시",
+      "display_title": "미국 증시, 주요 인플레이션 데이터 발표 앞두고 신중한 출발 예상: 다우존스, S&P, 나스닥 선물 주시",
+      "original_title": "U.S. stocks set for cautious start ahead of key inflation data: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance",
       "summary": [
-        "케빈 워시 연준 의장 체제에서 연준이 두 번째 회의 연속으로 기준금리를 동결했다.",
-        "금리 동결에도 불구하고 3명의 위원이 반대 의견을 제시한 것은 향후 정책 방향에 대한 연준 내부의 이견을 시사한다.",
-        "투자자들은 금리 동결의 배경과 반대 의견의 의미를 분석하여 다음 FOMC 회의에서의 금리 인상 가능성을 예측해야 한다."
+        "미국 증시가 주요 인플레이션 데이터 발표를 앞두고 다우존스, S&P, 나스닥 선물 모두 신중한 흐름을 보이고 있습니다.",
+        "인플레이션 데이터는 연준의 통화 정책 결정에 결정적인 영향을 미치며, 이는 시장 금리와 기업 실적 전망에 직결됩니다.",
+        "인플레이션 지표 결과에 따라 시장의 변동성이 커질 수 있으므로, 관련 데이터 발표를 예의주시하며 포트폴리오 관리에 신중해야 합니다."
       ],
-      "summary_text": "케빈 워시 연준 의장 체제에서 연준이 두 번째 회의 연속으로 기준금리를 동결했다. 금리 동결에도 불구하고 3명의 위원이 반대 의견을 제시한 것은 향후 정책 방향에 대한 연준 내부의 이견을 시사한다. 투자자들은 금리 동결의 배경과 반대 의견의 의미를 분석하여 다음 FOMC 회의에서의 금리 인상 가능성을 예측해야 한다.",
-      "description": "케빈 워시 의장 지휘 아래 연준이 두 번 연속 금리를 동결했지만, 3명의 위원이 반대 의견을 표명했다. 투자자들이 다음에 무엇을 기대해야 할지 분석한다.",
+      "summary_text": "미국 증시가 주요 인플레이션 데이터 발표를 앞두고 다우존스, S&P, 나스닥 선물 모두 신중한 흐름을 보이고 있습니다. 인플레이션 데이터는 연준의 통화 정책 결정에 결정적인 영향을 미치며, 이는 시장 금리와 기업 실적 전망에 직결됩니다. 인플레이션 지표 결과에 따라 시장의 변동성이 커질 수 있으므로, 관련 데이터 발표를 예의주시하며 포트폴리오 관리에 신중해야 합니다.",
+      "description": "다우존스, S&P, 나스닥 등 미국 주요 주가지수 선물 시장이 중요한 인플레이션 데이터 발표를 앞두고 조심스러운 움직임을 보일 것으로 예상된다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "중립",
-      "related_sector": "금융, 전체 시장",
-      "related_stocks": [],
-      "investment_view": "관심",
-      "investment_reason": "연준의 금리 결정은 시장 금리, 기업 자금 조달 비용, 소비 심리 등 광범위한 경제 지표에 직접적인 영향을 미치기 때문이다.",
-      "key_signal": "다음 FOMC 회의에서의 금리 인상 또는 인하 신호, 그리고 내부 이견이 어떻게 해소되는지 주시해야 한다.",
+      "related_sector": "글로벌 증시",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "인플레이션 지표는 미국 연준의 금리 인상 또는 인하 기조를 결정하는 핵심 변수이며, 이는 국내 증시에도 직접적인 영향을 미치기 때문입니다.",
+      "key_signal": "오늘 발표될 미국 인플레이션 데이터(예: CPI) 수치를 확인하고, 예상치와 실제 수치 간의 차이에 따른 시장 반응을 분석해야 합니다.",
       "keywords": [
+        "미국증시",
+        "인플레이션",
+        "금리",
         "연준",
-        "금리동결",
-        "케빈 워시",
-        "FOMC",
         "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaS2RvOXRqYnhLTm5reDJqX0ItSHB0WGpQRnN4RWVTUUY1SDlsWTlEUzFlYlV5RUJNLWx0S09YMHJETXdYZ0hXVVYwcEM5MVRtVUIxdVpNNllhalRqbWlTd2pJU1ZTMVFTSVJIVXJYOTJVaHpyRVpleFBGY2F1WWc?oc=5",
-      "published": "2026-08-10 02:04",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1piazF4Mks5T1B0TFhlVk9NZlJ3dkVGTEZHWVZMQ3BaT3BRTVJuSVFxcFluZU4yeklRd3RobzFCNnJwNV84TllHMlJ4YkNrWFpKX2JQV0t5RzRCcWFjZHFCSWJOeGVQREhBUXNCOEoyYzBjX0dOQkdCSU5ScmtDdEM0djk2ZUloRlRuYU1EaEJ2enQ4STNz?oc=5",
+      "published": "2026-08-10 22:14",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -139,84 +147,84 @@
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
-      "display_title": "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
-      "original_title": "S&P record high after jobs data eases rate worries - Michael West Media",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[윤동열의 시대유감 특별판 ①] 달러를 벌어도 원화가 약세인 이유: \"돈의 흐름이 바뀌었다\"",
+      "display_title": "[윤동열의 시대유감 특별판 ①] 달러를 벌어도 원화가 약세인 이유: \"돈의 흐름이 바뀌었다\"",
+      "original_title": "[윤동열의 시대유감 특별판 ①] 달러 벌어도 원화는 왜 약해졌나…\"돈의 흐름이 바뀌었다\" - 뉴스핌",
       "summary": [
-        "미국 고용 데이터가 시장의 금리 인상 우려를 완화시키면서 S&P 500 지수가 사상 최고치를 기록했다.",
-        "이는 고용 시장이 견조하면서도 연준의 추가 긴축 필요성이 낮아질 수 있다는 기대감으로 해석된다.",
-        "투자자들은 고용 시장의 안정세와 연준의 통화 정책 스탠스 변화 가능성에 주목하여 시장의 상승 추세 지속 여부를 판단해야 한다."
+        "한국이 달러를 많이 벌고 있음에도 불구하고 원화 가치가 약세를 보이는 이유를 '돈의 흐름 변화'에서 찾고 있습니다.",
+        "과거와 달리 해외 직접투자 증가, 국내 투자 매력도 하락, 글로벌 자금 흐름 변화 등 복합적인 요인이 원화 약세를 유발하고 있습니다.",
+        "원화 약세의 구조적 원인에 대한 이해는 장기적인 투자 전략 수립에 중요하며, 국내 기업의 해외투자 및 자금 유출입 동향을 주시해야 합니다."
       ],
-      "summary_text": "미국 고용 데이터가 시장의 금리 인상 우려를 완화시키면서 S&P 500 지수가 사상 최고치를 기록했다. 이는 고용 시장이 견조하면서도 연준의 추가 긴축 필요성이 낮아질 수 있다는 기대감으로 해석된다. 투자자들은 고용 시장의 안정세와 연준의 통화 정책 스탠스 변화 가능성에 주목하여 시장의 상승 추세 지속 여부를 판단해야 한다.",
-      "description": "최근 발표된 고용 데이터가 시장의 금리 인상 우려를 누그러뜨리면서 S&P 500 지수가 사상 최고치를 경신했다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전체 시장, 기술주",
+      "summary_text": "한국이 달러를 많이 벌고 있음에도 불구하고 원화 가치가 약세를 보이는 이유를 '돈의 흐름 변화'에서 찾고 있습니다. 과거와 달리 해외 직접투자 증가, 국내 투자 매력도 하락, 글로벌 자금 흐름 변화 등 복합적인 요인이 원화 약세를 유발하고 있습니다. 원화 약세의 구조적 원인에 대한 이해는 장기적인 투자 전략 수립에 중요하며, 국내 기업의 해외투자 및 자금 유출입 동향을 주시해야 합니다.",
+      "description": "한국이 달러를 벌어들이고 있음에도 원화 가치가 약세를 보이는 현상에 대해 돈의 흐름 변화를 중심으로 분석하고 있다.",
+      "category": "국내 거시경제",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "외환시장",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "고용 데이터 개선으로 인한 금리 인상 우려 완화는 위험 자산 선호 심리를 자극하여 주식 시장에 긍정적인 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "고용 지표와 인플레이션 지표의 상호 작용이 향후 연준의 통화 정책 방향에 어떤 영향을 미칠지 지속적으로 분석해야 한다.",
+      "investment_reason": "단순히 일시적인 현상이 아닌 구조적인 돈의 흐름 변화로 인한 원화 약세는 국내 투자 환경 및 기업 가치 평가에 장기적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "향후 정부의 외환 정책 방향과 국내 기업들의 해외 투자 및 자금 운용 전략 변화를 지속적으로 모니터링하여 원화 가치에 미치는 영향을 파악해야 합니다.",
       "keywords": [
-        "S&P500",
-        "고용지표",
-        "금리인상",
-        "연준",
-        "증시"
+        "원화약세",
+        "환율",
+        "돈의흐름",
+        "글로벌자금",
+        "해외투자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVdTTjYya0VpVlZHZmVxN0ZBZHdrWThoNVVoMTZ4a0JQRUhKM3hVWW1KdHVXelBwcGN0Wk9FcjFQSmJTZjhiRHhJX1hEeFZ2LXFIUnJ5a2xsbE5DTHFjc1NPeTNEQkhvc1RoUE1qMWlZUlJLNElNTmt6UG9ZY09kQlJMWQ?oc=5",
-      "published": "2026-08-10 06:12",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96VklCSFV0bElZaFY1UzFBcTEwM09tQnRlV0xaWDdOLThYZUtxUVd4d18tWEJPVmlCQ200RjB1S2t5N2txcHFEVXM5VzlaR2cycVptWUE1ZS1IR1VE?oc=5",
+      "published": "2026-08-11 06:01",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표",
-      "display_title": "[오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표",
-      "original_title": "[오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표 - 데일리안",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시, 예상치 못한 2만 3천개 일자리 감소에 금리 인상 연기 기대감 커지며 급등",
+      "display_title": "미국 증시, 예상치 못한 2만 3천개 일자리 감소에 금리 인상 연기 기대감 커지며 급등",
+      "original_title": "US stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait - Rocky Mount Telegram",
       "summary": [
-        "정부가 이르면 이달 13일(수)에 새로운 주택 공급대책을 발표할 것으로 예상된다.",
-        "이는 부동산 시장의 안정화를 위한 정부의 핵심 정책 방향을 제시하는 것으로, 시장의 큰 관심이 집중될 전망이다.",
-        "투자자들은 발표될 대책의 구체적인 내용, 특히 공급 지역, 물량, 규제 완화 여부 등을 면밀히 분석하여 투자 전략에 반영해야 한다."
+        "미국에서 예상치를 밑도는 2만 3천개 일자리 감소 소식에 미국 증시가 급등했습니다.",
+        "고용 시장 둔화는 연방준비제도(Fed)가 추가 금리 인상을 보류할 명분을 제공하며, 이는 시장 유동성 확대와 경기 연착륙 기대로 이어집니다.",
+        "금리 인상 지연 또는 인하 기대감은 주식 시장 전반에 긍정적인 영향을 미치며, 특히 성장주와 기술주에 유리하게 작용할 수 있습니다."
       ],
-      "summary_text": "정부가 이르면 이달 13일(수)에 새로운 주택 공급대책을 발표할 것으로 예상된다. 이는 부동산 시장의 안정화를 위한 정부의 핵심 정책 방향을 제시하는 것으로, 시장의 큰 관심이 집중될 전망이다. 투자자들은 발표될 대책의 구체적인 내용, 특히 공급 지역, 물량, 규제 완화 여부 등을 면밀히 분석하여 투자 전략에 반영해야 한다.",
-      "description": "정부가 이르면 이달 13일에 새로운 주택 공급대책을 발표할 예정이라는 소식이다.",
-      "category": "부동산·정책",
+      "summary_text": "미국에서 예상치를 밑도는 2만 3천개 일자리 감소 소식에 미국 증시가 급등했습니다. 고용 시장 둔화는 연방준비제도(Fed)가 추가 금리 인상을 보류할 명분을 제공하며, 이는 시장 유동성 확대와 경기 연착륙 기대로 이어집니다. 금리 인상 지연 또는 인하 기대감은 주식 시장 전반에 긍정적인 영향을 미치며, 특히 성장주와 기술주에 유리하게 작용할 수 있습니다.",
+      "description": "미국에서 예상외로 2만 3천개의 일자리가 감소했다는 소식에 연준의 추가 금리 인상 연기 기대감이 커지면서 미국 증시가 급등했다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "건설, 부동산 개발, 건자재",
+      "market_impact": "긍정",
+      "related_sector": "기술주, 성장주",
       "related_stocks": [
-        "현대건설",
-        "GS건설",
-        "KCC"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "정부의 주택 공급대책은 건설 및 건자재 관련 기업의 사업 기회와 부동산 시장의 중장기적인 가격 형성 요인에 직접적인 영향을 미치기 때문이다.",
-      "key_signal": "13일 발표될 공급대책의 세부 내용을 주의 깊게 살피고, 실제 시장에 미칠 파급 효과를 분석하여 선제적으로 대응해야 한다.",
+      "investment_reason": "고용 지표 둔화로 인한 금리 인상 중단 또는 인하 기대감은 시장 전반에 긍정적인 투자 심리를 형성하고 위험 자산 선호도를 높일 수 있기 때문입니다.",
+      "key_signal": "향후 발표될 고용 및 물가 지표에서 연준의 금리 정책 변화 기조를 확인할 수 있는 추가적인 신호가 있는지 면밀히 관찰해야 합니다.",
       "keywords": [
-        "주택공급",
-        "부동산정책",
-        "정부대책",
-        "건설",
-        "부동산시장"
+        "미국증시",
+        "고용지표",
+        "금리인상",
+        "연준",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2QW9Ud0RJb1ZBZ2hVdW1adlQxTVpqYk9iZGJMZVVRUUZLQjZyMzBPdUppUGg4LURHUFRQUWRrZTZIeFNoUXpZOUpLQkdsYktpYW9v?oc=5",
-      "published": "2026-08-10 06:10",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSHlkSHRnLUlOM3RST2dvNUxiZFR0NnVOcGpRNm1YcTdkM05ISUozWUNSV0gxR2NYUi1DOHgyaHNEaTFpY0dZTXN6WmIwbUo0azVPRVNIaDYzdzBkOEtsZXpUV1BtRnBneUc5Y1cxTUEzWG9HQUdpemhGUk9TU3dKX3lOeEl2TXhmMXNTSWNSbjRYTlRJckhCdkRIUE91ekZlY1h5Q1JudDhjOENCNXFxS3haM25rbTlROHQxU1B2NDluOU5TbmtvN2Zn?oc=5",
+      "published": "2026-08-10 23:34",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -226,37 +234,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[박근종 칼럼] 시장을 안심시킬 파격적인 공급 없이는 백약이 무효인 주택정책, 공공·민간 총동원 속도 내야",
-      "display_title": "[박근종 칼럼] 시장을 안심시킬 파격적인 공급 없이는 백약이 무효인 주택정책, 공공·민간 총동원 속도 내야",
-      "original_title": "[박근종 칼럼] 시장 안심시킬 파격적 공급 없인 백약이 무효인 주택정책, 공공·민간 총동원 속도 내야 - 더쎈뉴스",
+      "title": "환율 1400원대서 '숨고르기'…1300원대 하락 가능성은?",
+      "display_title": "환율 1400원대서 '숨고르기'…1300원대 하락 가능성은?",
+      "original_title": "환율 1400원대서 '숨고르기'…1300원대 갈까 - 네이트",
       "summary": [
-        "박근종 칼럼니스트는 주택 시장의 불안을 해소하기 위해 공공과 민간이 총동원된 파격적인 주택 공급 확대가 시급하다고 주장했다.",
-        "현재의 주택 정책이 공급 부족 문제를 해결하지 못하고 있어 시장 안정에 한계가 있다는 비판적 시각을 담고 있다.",
-        "투자자들은 정부의 향후 공급 정책 발표와 실제 공급 확대 여부에 주목하여 부동산 시장의 중장기적인 방향을 예측해야 한다."
+        "원/달러 환율이 1400원대에서 잠시 횡보하며 숨고르기에 들어갔고, 1300원대 진입 가능성에 관심이 쏠리고 있습니다.",
+        "미국의 금리 인상 종료 기대감, 국내 수출 호조 및 외환 당국의 개입 가능성 등이 환율 하락 압력으로 작용할 수 있습니다.",
+        "환율 하락은 외국인 투자자들에게 국내 주식 매력도를 높이고 수출 기업의 채산성에는 부정적 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "박근종 칼럼니스트는 주택 시장의 불안을 해소하기 위해 공공과 민간이 총동원된 파격적인 주택 공급 확대가 시급하다고 주장했다. 현재의 주택 정책이 공급 부족 문제를 해결하지 못하고 있어 시장 안정에 한계가 있다는 비판적 시각을 담고 있다. 투자자들은 정부의 향후 공급 정책 발표와 실제 공급 확대 여부에 주목하여 부동산 시장의 중장기적인 방향을 예측해야 한다.",
-      "description": "박근종 칼럼은 시장을 안정시키기 위해서는 파격적인 주택 공급이 필수적이며, 이를 위해 공공과 민간 부문을 총동원하여 속도를 내야 한다고 주장한다.",
-      "category": "부동산·정책",
+      "summary_text": "원/달러 환율이 1400원대에서 잠시 횡보하며 숨고르기에 들어갔고, 1300원대 진입 가능성에 관심이 쏠리고 있습니다. 미국의 금리 인상 종료 기대감, 국내 수출 호조 및 외환 당국의 개입 가능성 등이 환율 하락 압력으로 작용할 수 있습니다. 환율 하락은 외국인 투자자들에게 국내 주식 매력도를 높이고 수출 기업의 채산성에는 부정적 영향을 미칠 수 있습니다.",
+      "description": "원/달러 환율이 1400원대에서 상승세가 주춤하며 숨고르기 양상을 보이고 있으며, 1300원대로 하락할지에 대한 관심이 커지고 있다.",
+      "category": "국내 거시경제",
       "importance": 7,
       "market_impact": "중립",
-      "related_sector": "건설, 부동산 개발",
+      "related_sector": "외환시장",
       "related_stocks": [
-        "현대건설",
-        "GS건설",
-        "대우건설"
+        "삼성전자",
+        "SK하이닉스",
+        "현대차"
       ],
       "investment_view": "관심",
-      "investment_reason": "주택 공급 확대 정책은 건설 및 부동산 개발 관련 기업의 실적에 직접적인 영향을 미치며, 부동산 시장 전반의 흐름을 바꿀 수 있기 때문이다.",
-      "key_signal": "정부가 곧 발표할 주택 공급 대책의 구체적인 내용과 규모를 면밀히 살펴야 한다.",
+      "investment_reason": "환율 변동은 국내 기업의 수출 경쟁력과 외국인 투자자금 유입에 직접적인 영향을 미쳐 국내 증시 전반에 파급효과를 미치기 때문입니다.",
+      "key_signal": "외환 당국의 개입 여부와 미국 연준의 금리 정책 변화 가능성, 국내 수출입 동향 등 환율에 영향을 미치는 거시경제 지표를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "주택정책",
-        "부동산",
-        "공급확대",
-        "공공주택",
-        "건설사"
+        "환율",
+        "원달러환율",
+        "외환시장",
+        "수출기업",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zejFaY2k4STdXWERXVUJkb0w2cERZMXhEdVI5Sl8wY1UwLVVMQmZWNWxsclQwR0VfdWRtTVFDaDFaUXk0aksxWnRWRlBLdkh2VmVHOUVncmRnR3NENmFuNVpfR2w2TnZJ?oc=5",
-      "published": "2026-08-10 04:01",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtYnphRjV5VXQ3SVNJSm1zYnBlLUFoQzEyQktzQUVfRkRZMnJkWXd6QzBoY05kM21WVmhJQ3lDNFZhWU9JbVVjTmRFOWV3RTYwalRZ?oc=5",
+      "published": "2026-08-11 06:02",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -269,68 +277,69 @@
       "rank": 1,
       "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "반도체, IT",
       "opinion": "관심",
-      "reason": "미국 S&P 지수 사상 최고치 경신을 이끈 고용 데이터의 금리 인상 우려 완화는 위험 자산 선호 심리를 자극하여 국내 대표 기술주인 삼성전자에 긍정적인 영향을 미칠 수 있습니다. 동시에 연준 의장의 인플레이션 무관용 발언은 긴축 기조 장기화 우려를 상존시키므로, 글로벌 통화 정책의 변화와 반도체 업황의 조화로운 회복 여부가 핵심 변수가 될 것입니다.",
+      "reason": "미국 고용 지표 둔화로 인한 금리 인상 중단 또는 인하 기대감이 높아지며 시장 전반의 투자 심리가 개선될 수 있으며, 원/달러 환율 변동성은 국내 수출 기업의 경쟁력에 중요한 영향을 미치기 때문입니다.",
       "check_points": [
-        "연준의 향후 통화정책 방향 및 발언 강도",
-        "글로벌 반도체 수요 및 가격 회복 속도",
-        "외국인 투자자 수급 동향"
+        "미국 인플레이션 데이터 발표 결과",
+        "외국인 수급 동향 및 반도체 업황 지표 변화",
+        "환율 1300원대 하락 가능성"
       ],
       "related_news_titles": [
-        "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
-        "연준 의장 케빈 워시, '인플레이션에 무관용' 발언에 다우지수 840포인트 급락. 투자 포트폴리오에 미치는 영향은?"
+        "미국 증시, 예상치 못한 2만 3천개 일자리 감소에 금리 인상 연기 기대감 커지며 급등",
+        "환율 1400원대서 '숨고르기'…1300원대 하락 가능성은?"
       ]
     },
     {
       "rank": 2,
-      "name": "현대건설",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "건설",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "정부의 이달 13일로 예상되는 주택 공급대책 발표는 건설 및 부동산 개발 관련 기업의 사업 기회를 확대할 수 있습니다. 특히, 시장의 기대를 충족하는 파격적인 공급 확대 정책이 나올 경우, 건설 및 건자재 관련 기업들의 실적 개선 기대감이 부각될 수 있어 정책의 구체적인 내용과 시장 반응에 주목해야 합니다.",
+      "reason": "미국 고용 지표 둔화로 인한 금리 인하 기대감은 기술주 전반에 대한 투자 심리를 개선할 수 있으며, 원/달러 환율 변동 추이는 수출 비중이 높은 반도체 기업의 실적에 중요한 영향을 미치기 때문입니다.",
       "check_points": [
-        "정부의 주택 공급대책 발표 내용 및 규모",
-        "부동산 시장 규제 완화 및 거래 활성화 여부",
-        "원자재 가격 및 금리 변화 추이"
+        "미국 연준의 통화정책 스탠스 변화",
+        "외국인/기관 매매 동향 및 D램/낸드 가격 추이",
+        "환율 1300원대 진입 여부"
       ],
       "related_news_titles": [
-        "[오늘 부동산] 주택 공급대책, 이르면 이달 13일 발표",
-        "[박근종 칼럼] 시장을 안심시킬 파격적인 공급 없이는 백약이 무효인 주택정책, 공공·민간 총동원 속도 내야"
+        "미국 증시, 예상치 못한 2만 3천개 일자리 감소에 금리 인상 연기 기대감 커지며 급등",
+        "환율 1400원대서 '숨고르기'…1300원대 하락 가능성은?"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "인터넷서비스, 플랫폼",
       "opinion": "관심",
-      "reason": "고용 데이터 개선으로 인한 금리 인상 우려 완화와 S&P 지수 사상 최고치 경신은 위험 자산 선호 심리를 자극하여 주식 시장의 거래 활성화를 기대하게 합니다. 이는 국내 증권사들의 브로커리지 수익 증대 및 운용 자산 가치 상승에 긍정적으로 작용할 수 있어, 시장 분위기 변화에 대한 관심이 필요합니다.",
+      "reason": "미국 고용 지표 둔화에 따른 금리 인상 중단 또는 인하 기대감은 성장주 전반에 긍정적인 투자 심리를 형성하고 위험 자산 선호도를 높일 수 있어, 플랫폼 기술 기업에 유리하게 작용할 수 있습니다.",
       "check_points": [
-        "국내외 증시 거래대금 및 시장 변동성 확대 여부",
-        "연준의 금리 정책 방향 및 시장금리 변화",
-        "금융 당국의 증권 시장 관련 정책 및 규제 변화"
+        "미국 연준의 금리 인상/인하 기조 변화",
+        "국내 온라인 광고 시장 및 이커머스 경쟁 동향",
+        "신사업(AI 등) 성과 및 시장 반응"
       ],
       "related_news_titles": [
-        "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
-        "케빈 워시 의장 체제에서 연준, 두 번째 연속 금리 동결. 3명 위원 반대 속 향후 투자자들이 기대할 것은?"
+        "미국 증시, 예상치 못한 2만 3천개 일자리 감소에 금리 인상 연기 기대감 커지며 급등",
+        "케빈 와시 연준 의장이 10번 반복한 한 단어가 연준의 통화정책 접근 방식을 효과적으로 재편성했다"
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "한국금융지주",
       "market": "KOSPI",
-      "sector": "인터넷 서비스",
-      "opinion": "관심",
-      "reason": "금리 인상 우려 완화에 따른 S&P 지수 사상 최고치 경신은 기술주를 포함한 성장주 전반에 대한 투자 심리를 개선할 수 있습니다. 그러나 연준 의장의 인플레이션 무관용 발언 등 긴축 기조 장기화에 대한 우려도 상존하는 만큼, 글로벌 통화 정책의 변화와 플랫폼 경쟁 환경, 신사업(AI 등) 성과가 주요 관심사입니다.",
+      "sector": "증권",
+      "opinion": "주의",
+      "reason": "미국 주요 지수의 급락은 글로벌 투자 심리에 즉각적인 하방 압력을 가할 수 있으나, 연준의 통화정책 기조 변화 및 구조적인 원화 약세는 금융 시장 환경을 재편하고 증권사 실적에 장기적인 영향을 미칠 수 있어 지속적인 관심이 필요합니다.",
       "check_points": [
-        "글로벌 통화 정책 스탠스 및 금리 변동성",
-        "광고 시장 회복 속도 및 신사업 성장 모멘텀",
-        "플랫폼 사업 경쟁 심화 여부 및 해외 사업 확장"
+        "미국 인플레이션 데이터 발표 및 연준 금리 결정",
+        "국내 증시 거래대금 및 시장 변동성 변화",
+        "원/달러 환율의 구조적 흐름 변화"
       ],
       "related_news_titles": [
-        "고용 데이터가 금리 인상 우려를 완화한 후 S&P 지수 사상 최고치 경신",
-        "연준 의장 케빈 워시, '인플레이션에 무관용' 발언에 다우지수 840포인트 급락. 투자 포트폴리오에 미치는 영향은?"
+        "다우존스, 2025년 4월 이후 최악의 세션 기록하며 51,594.14로 폭락",
+        "케빈 와시 연준 의장이 10번 반복한 한 단어가 연준의 통화정책 접근 방식을 효과적으로 재편성했다",
+        "미국 증시, 주요 인플레이션 데이터 발표 앞두고 신중한 출발 예상: 다우존스, S&P, 나스닥 선물 주시"
       ]
     }
   ],
