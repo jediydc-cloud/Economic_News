@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13 07:40",
-  "analysis_date": "2026-08-13",
+  "generated_at": "2026-08-14 07:42",
+  "analysis_date": "2026-08-14",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,53 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 증시는 인플레이션 완화와 AI 주식 강세로 상승세를 보였으나, 국내는 한국은행의 추가 금리 인상 가능성과 중국발 반도체 공급 과잉 우려가 상존합니다.",
-    "국내거시경제": "한국 경제 회복 조짐에도 물가·부동산 부담으로 한국은행의 연내 추가 금리 인상 가능성이 제기되며, 이는 가계·기업의 이자 부담을 늘려 경기 회복에 제약 요인이 될 수 있습니다.",
-    "글로벌경제": "미국 인플레이션 지표 완화로 연방준비제도의 금리 인상 압박이 줄어들었고, 이는 글로벌 위험 자산 선호도를 높이는 긍정적 신호로 해석됩니다.",
-    "증시금리": "인플레이션 완화 기대감 및 AI 기술주 강세에 힘입어 뉴욕 증시(나스닥, S&P 500)가 사상 최고치에 근접했으며, 이는 국내 IT/반도체 섹터에도 긍정적이나 한국은행의 금리 인상 가능성은 부담 요인입니다.",
-    "부동산정책": "한국은행의 추가 금리 인상 가능성은 가계 이자 부담을 가중시키고 국내 부동산 시장의 불확실성을 높일 수 있어 관련 정책 및 시장 동향을 면밀히 주시해야 합니다.",
-    "기업산업": "글로벌 AI 및 기술주 강세는 국내 IT·반도체 섹터에 긍정적 모멘텀을 제공하지만, 중국 메모리 반도체 산업의 성장은 공급 과잉 위험을 높여 한국 주요 반도체 기업에 '회색 코뿔소'로 작용할 수 있습니다.",
-    "오늘의투자시사점": "글로벌 기술주 랠리와 연준의 통화정책 완화 기대감이 국내 증시에 긍정적 영향을 줄 수 있으나, 한국은행의 금리 인상 가능성 및 중국발 반도체 리스크를 고려한 신중한 섹터별 접근이 필요합니다.",
-    "오늘의한줄": "글로벌 인플레이션 완화와 AI 열풍 속 기술주 강세가 돋보이나, 국내 금리 인상 가능성과 중국발 반도체 변수에 대한 주의가 요구됩니다."
+    "총평": "미국 인플레이션 둔화 신호와 유가 하락으로 글로벌 증시 전반에 긍정적 투자심리가 확산되는 가운데, 국내 증시는 대형주의 주주환원 실망감으로 하락 전환하며 혼조세를 보였습니다.",
+    "국내거시경제": "오늘 발표된 국내 거시경제 관련 지표는 없으나, 주요 기업 이슈가 국내 증시 전반의 투자 심리에 영향을 미쳤습니다.",
+    "글로벌경제": "미국 인플레이션 완화 신호와 유가 하락이 연방준비제도(Fed)의 긴축 완화 기대감을 높이며 글로벌 투자 심리를 개선시켰습니다. 한편, 중국 자본이 위안화 대신 달러를 활용해 글로벌 공급망을 재편하려는 움직임은 국제 금융 시장의 변화를 예고합니다.",
+    "증시금리": "미국 S&P 500 지수가 사상 최고치를 경신했으며, 생산자물가지수(PPI) 예상치 하회 및 인플레이션 보고서 발표 후 금리 인상 확률이 급락하며 물가 압력 완화에 대한 기대감이 커졌습니다. 국내 증시는 SK하이닉스 등 주요 종목의 주주환원 실망감으로 코스피가 하락 전환하는 등 조정받았습니다.",
+    "부동산정책": "관련 뉴스 없습니다.",
+    "기업산업": "SK하이닉스의 주주환원 정책이 시장 기대에 미치지 못하면서 주가 하락 및 코스피 전반의 투자 심리 위축으로 이어졌습니다. 기업의 주주환원 기조는 주가에 직접적인 영향을 미칠 수 있습니다.",
+    "오늘의투자시사점": "글로벌 시장의 인플레이션 완화와 금리 인하 기대감은 긍정적 시그널이나, 국내 증시는 기업별 주주환원 정책 등 개별 기업 이슈가 시장의 방향성을 좌우할 수 있습니다. 금리 민감주 및 실적 개선주에 대한 선별적 접근이 필요합니다.",
+    "오늘의한줄": "글로벌 인플레이션 완화가 시장에 긍정적이나, 국내 증시는 기업별 주주환원 정책에 따라 방향성이 엇갈릴 수 있습니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "경기 살아나고 물가·집값 부담…한은, 연내 추가 금리인상 무게",
-      "display_title": "경기 살아나고 물가·집값 부담…한은, 연내 추가 금리인상 무게",
-      "original_title": "경기 살아나고 물가·집값 부담…한은, 연내 추가 금리인상 무게 - news.nate.com",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 증시: S&P 500 사상 최고치 마감, 국채 금리 후퇴 및 유가 87달러로 하락",
+      "display_title": "오늘 증시: S&P 500 사상 최고치 마감, 국채 금리 후퇴 및 유가 87달러로 하락",
+      "original_title": "Stock Market Today: S&P 500 Closes at Record High as Treasury Yields Retreat, Oil price Falls to $ 87 - Eurasia Business News",
       "summary": [
-        "한국 경제가 회복 조짐을 보이는 가운데, 높은 물가와 주택 시장 불안정으로 한국은행의 연내 추가 금리 인상 가능성이 제기된다.",
-        "이는 경기 회복과 물가 안정을 동시에 달성해야 하는 한국은행의 딜레마를 보여주는 통화정책 방향성이다.",
-        "추가 금리 인상은 가계 및 기업의 이자 부담을 가중시키고 국내 주식 및 부동산 시장에 영향을 줄 수 있다."
+        "S&P 500 지수가 사상 최고치를 기록했으며, 국채 금리 하락과 유가 진정이 동반되었다.",
+        "물가 압력 완화에 대한 기대감과 금리 인상 가능성 하락이 증시 상승을 견인한 것으로 보인다.",
+        "미국 증시의 강세는 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있으며, 위험 자산 선호 현상이 지속될 가능성이 있다."
       ],
-      "summary_text": "한국 경제가 회복 조짐을 보이는 가운데, 높은 물가와 주택 시장 불안정으로 한국은행의 연내 추가 금리 인상 가능성이 제기된다. 이는 경기 회복과 물가 안정을 동시에 달성해야 하는 한국은행의 딜레마를 보여주는 통화정책 방향성이다. 추가 금리 인상은 가계 및 기업의 이자 부담을 가중시키고 국내 주식 및 부동산 시장에 영향을 줄 수 있다.",
-      "description": "경기가 회복세를 보이고 물가 및 집값 부담이 커지면서 한국은행이 연내 추가 금리 인상에 무게를 싣고 있다.",
-      "category": "국내 거시경제",
-      "importance": 10,
-      "market_impact": "부정",
-      "related_sector": "금융, 건설, 부동산",
+      "summary_text": "S&P 500 지수가 사상 최고치를 기록했으며, 국채 금리 하락과 유가 진정이 동반되었다. 물가 압력 완화에 대한 기대감과 금리 인상 가능성 하락이 증시 상승을 견인한 것으로 보인다. 미국 증시의 강세는 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있으며, 위험 자산 선호 현상이 지속될 가능성이 있다.",
+      "description": "S&P 500 지수가 사상 최고치를 기록했으며, 국채 금리는 하락하고 유가는 87달러로 떨어졌다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "글로벌 증시, 투자 심리 전반",
       "related_stocks": [
-        "KB금융",
-        "신한지주"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "주의",
-      "investment_reason": "한국은행의 금리 인상은 가계 및 기업의 경제 활동에 직접적인 영향을 미치며, 국내 주식 및 부동산 시장의 주요 변수다.",
-      "key_signal": "한국은행 금융통화위원회의 향후 회의 결과와 경제 지표 발표를 면밀히 살펴봐야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "글로벌 증시의 주요 지수가 사상 최고치를 기록하며 투자심리가 개선되고 있음을 보여주기 때문이다.",
+      "key_signal": "미국 증시의 추가 상승 동력과 국채 금리 및 유가의 안정세 지속 여부를 확인해야 한다.",
       "keywords": [
-        "한국은행",
-        "금리인상",
-        "물가",
-        "부동산",
-        "국내경제"
+        "S&P 500",
+        "사상 최고치",
+        "국채 금리",
+        "유가 하락",
+        "증시 상승"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ydVRmTEk5WlpmdFN5aW1ZM2pjMGpQMTZYV3JWTllrV1ZBN21hS0szc0QzeDJpTEU1XzQ1MmtseW5MdjktVW51dDBZakZxeXFGcUEw?oc=5",
-      "published": "2026-08-13 05:02",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzRXa01hRmpDZGx6OHZqaldfODM4ejR0c0NyNGlBUnBDMWloSDEwQlZPVWp2QmVxYWl0SGlSWjl1VW1UaE1aMDNhdW95QXpzTmFmVDNONi1IZDlLY1BoaXVfLXhOX3V0U0oxVG1BcS0xa3l0REpPbWNQa2h6X283WDNEMkRvM0ZadHlHUFFKNjh1NW5NMGtaM2g0Y2EwOFYtQTBmSWtMdEdlZVVFdXdib043QW9FVlBJbVpmUGZ3UzBtMEZ3bm9IcUlWSS1PbHZUNmZkZ01IOA?oc=5",
+      "published": "2026-08-14 06:49",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -69,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 증시, 인플레이션 데이터 완화로 연준 금리 압박 줄어들며 상승세",
-      "display_title": "오늘 증시, 인플레이션 데이터 완화로 연준 금리 압박 줄어들며 상승세",
-      "original_title": "Stock Market Today, Aug. 12: Stocks Edge Higher as Inflation Data Eases Fed Rate Pressure - The Motley Fool",
+      "title": "인플레이션 보고서 발표 후 증시 상승 및 금리 하락",
+      "display_title": "인플레이션 보고서 발표 후 증시 상승 및 금리 하락",
+      "original_title": "Stocks rise and interest rates slide after inflation report - NBC News",
       "summary": [
-        "최신 인플레이션 데이터가 완화되면서 미국 연방준비제도의 금리 인상 압박이 줄어들어 증시가 상승했다.",
-        "이는 투자자들이 인플레이션 둔화를 긍정적으로 해석하며 위험 자산에 대한 선호도가 높아졌음을 시사한다.",
-        "연준의 통화정책 기대 변화는 한국 증시에도 영향을 미치므로 향후 인플레이션 지표와 연준 발언에 주목해야 한다."
+        "인플레이션 보고서 발표 후 주식 시장이 상승하고 금리가 하락했다.",
+        "물가 상승 압력이 예상보다 완화되었음을 시사하는 보고서로 인해 연준의 긴축 완화 기대감이 커진 것으로 해석된다.",
+        "금리 하락은 기업의 자금 조달 비용을 줄이고 소비 심리를 개선시켜 증시 전반에 긍정적으로 작용할 수 있다."
       ],
-      "summary_text": "최신 인플레이션 데이터가 완화되면서 미국 연방준비제도의 금리 인상 압박이 줄어들어 증시가 상승했다. 이는 투자자들이 인플레이션 둔화를 긍정적으로 해석하며 위험 자산에 대한 선호도가 높아졌음을 시사한다. 연준의 통화정책 기대 변화는 한국 증시에도 영향을 미치므로 향후 인플레이션 지표와 연준 발언에 주목해야 한다.",
-      "description": "8월 12일 오늘 증시, 인플레이션 데이터 완화로 연준 금리 압박이 줄어들면서 주가가 소폭 상승했다.",
+      "summary_text": "인플레이션 보고서 발표 후 주식 시장이 상승하고 금리가 하락했다. 물가 상승 압력이 예상보다 완화되었음을 시사하는 보고서로 인해 연준의 긴축 완화 기대감이 커진 것으로 해석된다. 금리 하락은 기업의 자금 조달 비용을 줄이고 소비 심리를 개선시켜 증시 전반에 긍정적으로 작용할 수 있다.",
+      "description": "인플레이션 보고서 발표 이후 주식 시장이 상승하고 금리가 하락하는 추세를 보였다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "기술주, 성장주",
+      "related_sector": "성장주, 기술주, 금융",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "연준의 통화정책 기조 변화는 글로벌 유동성과 투자심리에 영향을 미쳐 한국 증시 방향성을 결정하는 주요 요인이다.",
-      "key_signal": "미국 인플레이션 지표 둔화 추세가 지속되는지 확인하고, 연준 위원들의 추가 발언을 주시해야 한다.",
+      "investment_reason": "인플레이션 둔화에 따른 금리 하락은 증시 랠리를 지지하며 투자심리를 개선시키기 때문이다.",
+      "key_signal": "향후 발표될 물가 지표와 연준 위원들의 발언을 통해 금리 정책 변화 가능성을 주시해야 한다.",
       "keywords": [
         "인플레이션",
-        "연준",
-        "금리",
-        "증시",
-        "통화정책"
+        "금리 하락",
+        "증시 상승",
+        "긴축 완화",
+        "미국 경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeERQeDhKV0RXenMxYVh6STM1MkNzR3N5VDh6eFlZdU16OVE1WjRrVURVZm1wSkZjeDBYRUhFU3RDY1NzX2p1TzhZVjdxWDRvS1dqZTViZmVOSFNGbi12bWQwTEVWaXNVQ05qRG5DZmM1M04zX1lRbGhGWGhNbVh0RFk3c0xoVUlVTTNfMXlOdEFZMHM4SlMtbUpQdEVrZkQwZ29TdC00YV8zaXlIanl2UzUzZDRacU9wZVV6Q1J2NjRBZDhGc2ZPZGlUMmFmUlBtMkd0NkJ6aHBsYV81ZnhLYw?oc=5",
-      "published": "2026-08-13 06:34",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1hJMUxmOWNCMXNDbVUxMWQ?oc=5",
+      "published": "2026-08-14 05:20",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -111,36 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "업데이트: 온화한 인플레이션 보고서 이후 나스닥, S&P 500 반등",
-      "display_title": "업데이트: 온화한 인플레이션 보고서 이후 나스닥, S&P 500 반등",
-      "original_title": "Update: Nasdaq, S&P 500 Bounce Following Benign Inflation Report - Yahoo Finance",
+      "title": "미국 생산자물가지수(PPI) 예상치 못하게 보합세, 9월 금리 인상 확률 급락; S&P 500 장중 사상 최고치 근접",
+      "display_title": "미국 생산자물가지수(PPI) 예상치 못하게 보합세, 9월 금리 인상 확률 급락; S&P 500 장중 사상 최고치 근접",
+      "original_title": "US PPI unexpectedly flat, September rate hike odds plunge; S&P 500 pushes toward record high intraday - finance.biggo.com",
       "summary": [
-        "예상보다 온화한 인플레이션 보고서 발표에 미국 주요 증시인 나스닥과 S&P 500 지수가 상승 반전했다.",
-        "이는 연준의 공격적인 금리 인상 가능성이 낮아질 것이라는 기대감에 투자 심리가 개선된 결과다.",
-        "미국 기술주 중심의 시장 반등은 국내 반도체 및 IT 섹터에도 긍정적인 영향을 미칠 수 있다."
+        "미국 PPI가 예상을 깨고 보합세를 보이면서 9월 금리 인상 가능성이 크게 줄었고, S&P 500 지수는 장중 사상 최고치를 향해 상승했다.",
+        "생산자물가 상승 압력 완화는 향후 소비자물가에도 긍정적인 영향을 미칠 수 있다는 기대감을 높여, 금리 인하 기대감을 강화하고 증시 상승을 견인했다.",
+        "인플레이션 지표의 둔화는 연준의 통화 정책 기조에 중요한 변수가 되며, 이는 주식 시장의 방향성을 결정하는 데 핵심적인 역할을 한다."
       ],
-      "summary_text": "예상보다 온화한 인플레이션 보고서 발표에 미국 주요 증시인 나스닥과 S&P 500 지수가 상승 반전했다. 이는 연준의 공격적인 금리 인상 가능성이 낮아질 것이라는 기대감에 투자 심리가 개선된 결과다. 미국 기술주 중심의 시장 반등은 국내 반도체 및 IT 섹터에도 긍정적인 영향을 미칠 수 있다.",
-      "description": "온화한 인플레이션 보고서 발표 이후 나스닥과 S&P 500 지수가 반등했다.",
+      "summary_text": "미국 PPI가 예상을 깨고 보합세를 보이면서 9월 금리 인상 가능성이 크게 줄었고, S&P 500 지수는 장중 사상 최고치를 향해 상승했다. 생산자물가 상승 압력 완화는 향후 소비자물가에도 긍정적인 영향을 미칠 수 있다는 기대감을 높여, 금리 인하 기대감을 강화하고 증시 상승을 견인했다. 인플레이션 지표의 둔화는 연준의 통화 정책 기조에 중요한 변수가 되며, 이는 주식 시장의 방향성을 결정하는 데 핵심적인 역할을 한다.",
+      "description": "미국의 생산자물가지수(PPI)가 예상과 달리 보합세를 기록하면서 9월 금리 인상 확률이 급격히 낮아졌고, S&P 500 지수는 장중 사상 최고치에 근접했다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "기술주, 성장주, 반도체",
+      "related_sector": "전반적인 시장, 금융, 기술주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 인플레이션 지표와 증시 반응은 글로벌 유동성과 투자 심리에 직접 영향을 주어 한국 증시 방향성을 결정하는 주요 요인이다.",
-      "key_signal": "다음 인플레이션 지표 발표 전까지 시장의 기대감이 유지되는지, 연준의 추가 발언이 나오는지 주목해야 한다.",
+      "investment_reason": "생산자물가 지표 둔화는 금리 인상 압박 완화로 이어져 증시 전반에 긍정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "소비자물가지수(CPI) 등 다른 인플레이션 지표가 PPI와 유사한 흐름을 보일지, 그리고 이에 따른 연준의 정책 기조 변화를 면밀히 관찰해야 한다.",
       "keywords": [
+        "PPI",
         "인플레이션",
-        "나스닥",
-        "S&P500",
-        "증시",
-        "금리인상"
+        "금리 인상",
+        "S&P 500",
+        "물가 지표"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWW1EOG52UHBIMi1XcDZBaGZSSFZPWEdmdFdteldMY1E5SWJmalljQ284N2RxNWZ6V2p3M0hnWmpZbWVNN3RDbk5PYUVJNVF3UTVWaE5xYjZGR200eU9sN3FpOWh2LUNTYU5jN08tYjlyUGhiUVdMOFJTLXl3Z3dYR1lHNDB3d0VmSDk5emJWU2V1SUJiMDEzOVZB?oc=5",
-      "published": "2026-08-13 05:26",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ySFp5UkRTQmUzLVl3SmV4T0lla1ZsUnFEdVdlc3A2VDFvUnF0WFhxZWp1Mkg1MTZsVWxhSUFQUDMxdHVLV1RHNTQtNkZ4Y0U4UFF5dTFMekJIYVg0YUxiUWhjVmxxYkdYYWpyRDZqQjZBTkx1WlE?oc=5",
+      "published": "2026-08-14 04:01",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -152,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치 근접",
-      "display_title": "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치 근접",
-      "original_title": "Wall Street edges near its record as AI stocks rise and worries about inflation ease a bit - BNN Bloomberg",
+      "title": "유가 하락 및 인플레이션 완화로 미국 증시 사상 최고치 상승",
+      "display_title": "유가 하락 및 인플레이션 완화로 미국 증시 사상 최고치 상승",
+      "original_title": "US stocks rise to a record as oil prices drop and inflation gets less bad - The Globe and Mail",
       "summary": [
-        "AI 관련 주식의 강세와 인플레이션 우려 완화가 겹치면서 월스트리트 주요 지수가 사상 최고치에 근접했다.",
-        "이는 기술 혁신에 대한 기대감과 더불어 연준의 금리 인상 속도 조절 가능성이 투자 심리를 북돋았기 때문이다.",
-        "글로벌 AI 및 기술주 강세는 한국의 반도체 및 IT 관련 기업에 긍정적 모멘텀을 제공할 수 있다."
+        "미국 증시가 유가 하락과 인플레이션 완화에 힘입어 사상 최고치를 경신했다.",
+        "물가 안정화 추세가 지속되면서 연방준비제도의 금리 인상 압박이 줄어들 것이라는 기대감이 투자 심리에 긍정적으로 작용했다.",
+        "물가 지표와 유가 동향은 미국 증시의 주요 변수이며, 이러한 요인들이 국내 증시에도 간접적인 영향을 미칠 수 있다."
       ],
-      "summary_text": "AI 관련 주식의 강세와 인플레이션 우려 완화가 겹치면서 월스트리트 주요 지수가 사상 최고치에 근접했다. 이는 기술 혁신에 대한 기대감과 더불어 연준의 금리 인상 속도 조절 가능성이 투자 심리를 북돋았기 때문이다. 글로벌 AI 및 기술주 강세는 한국의 반도체 및 IT 관련 기업에 긍정적 모멘텀을 제공할 수 있다.",
-      "description": "AI 관련 주식의 상승세와 인플레이션 우려의 일부 완화로 월스트리트가 사상 최고치에 근접하고 있다.",
+      "summary_text": "미국 증시가 유가 하락과 인플레이션 완화에 힘입어 사상 최고치를 경신했다. 물가 안정화 추세가 지속되면서 연방준비제도의 금리 인상 압박이 줄어들 것이라는 기대감이 투자 심리에 긍정적으로 작용했다. 물가 지표와 유가 동향은 미국 증시의 주요 변수이며, 이러한 요인들이 국내 증시에도 간접적인 영향을 미칠 수 있다.",
+      "description": "유가 하락과 인플레이션 상황이 개선되면서 미국 증시가 사상 최고치로 상승했다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "AI, 반도체, IT",
+      "related_sector": "에너지, 기술주, 소비재",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 관련 주식의 글로벌 강세는 국내 관련 기업들의 실적 및 주가에 직접적인 영향을 미칠 수 있으므로 주요 관심사다.",
-      "key_signal": "AI 산업의 실제 성장과 기업들의 실적 개선이 동반되는지, 그리고 인플레이션 둔화 추세가 지속되는지 확인해야 한다.",
+      "investment_reason": "글로벌 경제의 주요 동향인 유가와 인플레이션이 미국 증시에 미치는 긍정적 영향을 이해하는 것은 국내 투자 전략 수립에 중요하기 때문이다.",
+      "key_signal": "유가 안정화와 인플레이션 둔화 추세가 지속될지, 그리고 연준의 금리 정책 스탠스에 어떤 변화를 가져올지 지켜봐야 한다.",
       "keywords": [
-        "AI",
-        "인플레이션",
-        "월스트리트",
-        "증시",
-        "기술주"
+        "미국 증시",
+        "사상 최고치",
+        "유가 하락",
+        "인플레이션 완화",
+        "금리 기대"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2hPZUg4eldjWm1fWnlhbllJUnQwT2ZIWVcySEFhdFZ0dnNXclA1MzgxcnZMT2ZLU2NuSGk3MjdoQjVKbmVvbXptcm1TbGtJc2lUS1psbHdCa1ZobGRIb2hNR1Y2VkVGNlFpbTFxVVZBVS02QmJkckxrQm1lRVltZ1E1VnJxNlBKMFlLX2VYWWpUUnJDaTNKS0RsUVRRVWJLSUNoQnpJbFhoOXJud3FMT0hSU3lxU0w2b2NqWklkbWg3bUMxTkQ4N3dyLWlGd3M?oc=5",
-      "published": "2026-08-13 05:14",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQTZMSmE3RUhHTlpMa2RhOWZiRUVKaTV0dmkydlZ3RXJtMXpUb1F2RGlMTkJPSkdaUk9RcTdSenRTMDZIS2d5NllaODN4emZXeFhHQXpFYmgwdGZraGRYeTItQ3NneDBheERWVkw1VENlYjR5RXc5UkhlSzdiYlp3ckVtZ1l1Tjh1djZwUFZyQlpaQUNheTJaaVltSFZWMTVIVTYzQkJQRklOZVlsUEc5NTNKczhoZEdwdmtIN1VycUJIYURvWmlnRFdLWHl5WDhWd2lNVzNzODZrWlVQaDJHalQ4Y2RGWlhidVpPS0FBWUc?oc=5",
+      "published": "2026-08-14 05:07",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -191,41 +193,40 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치에 근접",
-      "display_title": "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치에 근접",
-      "original_title": "Wall Street flirts with a record after AI stocks rise and worries about inflation ease a bit - The Pilot News",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "주주환원 실망감에 SK하이닉스 하락…코스피도 하락 전환",
+      "display_title": "주주환원 실망감에 SK하이닉스 하락…코스피도 하락 전환",
+      "original_title": "주주환원 실망에 SK하이닉스↓…코스피도 하락 전환 / 연합뉴스TV (YonhapnewsTV) Hailee Steinfeld (iYX3fKrxT0) - Mshale",
       "summary": [
-        "AI 주식의 강한 상승세와 인플레이션 우려 완화가 맞물리면서 월스트리트 증시가 사상 최고치 경신을 시도하고 있다.",
-        "기술 혁신 주도 성장과 함께 연준의 통화정책 스탠스 변화 기대감이 시장에 긍정적인 영향을 미쳤다.",
-        "이러한 흐름은 한국 IT 및 기술 성장주 투자 심리에도 긍정적으로 작용할 수 있어 주목할 필요가 있다."
+        "SK하이닉스가 주주환원 정책에 대한 실망감으로 하락했으며, 이 영향으로 코스피도 하락 전환했다.",
+        "국내 대표 종목의 주주환원 정책이 시장 기대에 미치지 못하면서 전반적인 투자심리에 부정적인 영향을 미친 것으로 풀이된다.",
+        "기업의 주주환원 정책은 주가에 직접적인 영향을 미치므로, 투자 시 기업 지배구조 및 주주환원 계획을 면밀히 검토해야 한다."
       ],
-      "summary_text": "AI 주식의 강한 상승세와 인플레이션 우려 완화가 맞물리면서 월스트리트 증시가 사상 최고치 경신을 시도하고 있다. 기술 혁신 주도 성장과 함께 연준의 통화정책 스탠스 변화 기대감이 시장에 긍정적인 영향을 미쳤다. 이러한 흐름은 한국 IT 및 기술 성장주 투자 심리에도 긍정적으로 작용할 수 있어 주목할 필요가 있다.",
-      "description": "AI 관련 주식의 상승과 인플레이션 우려의 일부 완화로 월스트리트가 기록적인 수준에 가까워지고 있다.",
+      "summary_text": "SK하이닉스가 주주환원 정책에 대한 실망감으로 하락했으며, 이 영향으로 코스피도 하락 전환했다. 국내 대표 종목의 주주환원 정책이 시장 기대에 미치지 못하면서 전반적인 투자심리에 부정적인 영향을 미친 것으로 풀이된다. 기업의 주주환원 정책은 주가에 직접적인 영향을 미치므로, 투자 시 기업 지배구조 및 주주환원 계획을 면밀히 검토해야 한다.",
+      "description": "SK하이닉스의 주주환원 정책에 대한 실망감으로 주가가 하락했으며, 이는 코스피 지수 하락 전환에도 영향을 미쳤다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "AI, IT, 반도체",
+      "importance": 7,
+      "market_impact": "부정",
+      "related_sector": "반도체, 대형주",
       "related_stocks": [
-        "삼성전자",
         "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 기술주의 상승 동력은 한국 관련 기업의 주가에도 직접적인 영향을 미치므로 중요한 투자 단서다.",
-      "key_signal": "AI 관련 기업들의 실적 발표와 함께 인플레이션 지표 변화를 지속적으로 모니터링해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 대표 기업의 주주환원 정책이 투자심리에 미치는 영향과 이로 인한 시장 전체의 변동성에 주목해야 하기 때문이다.",
+      "key_signal": "SK하이닉스의 주주환원 정책 관련 추가 발표나 시장 반응, 그리고 다른 주요 대형주의 주주환원 움직임을 주시해야 한다.",
       "keywords": [
-        "AI",
-        "월스트리트",
-        "증시",
-        "인플레이션",
-        "기술주"
+        "SK하이닉스",
+        "주주환원",
+        "코스피",
+        "반도체",
+        "대형주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQ2liYko5aUdLSTBNb016MmU1blRWeUg3Y1gzaUhZcG5ybGh4eG5GVEllT3Y0bjQ0VmF4Nm9WNjJqOGJCcmxjcExrd2hNeVFIYlhUSGRmai1PeldGZFJqN0NiWkVFaFpsOEZVM0lkTDdpQ1k5Y0JkNm5OeXZZQ3RIZFZaZEJNNU05eWpqMngwdzBXYk45b1U5TzBLTDVsVXVRTVRSaTM2YWpyXzFISDJJN3VzZFQ1UzcyY0sxWk92LWNJOGtDNGlxXzZWZlBZTjA5dGZqXzRVbng1cHhKc3FDV1FkS2dGZDRIZ1ZvTWpCMWoyS0h2c0FTUF9xZXNrUFZad2hycQ?oc=5",
-      "published": "2026-08-13 02:30",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VX1ZoMXBweWJ6d0pnVmRta1BiS0E1X2pPdGRyaF96dG1WQmhnQzcxMHYzM2FCbTdGSnRKek8zdlZHMjYxRTdqRGJEb21MMmN6clo3WW8ySzZHTXM?oc=5",
+      "published": "2026-08-14 05:13",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -235,36 +236,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "'회색 코뿔소' 중국 메모리…반도체 슈퍼사이클 최대 변수로 부상",
-      "display_title": "'회색 코뿔소' 중국 메모리…반도체 슈퍼사이클 최대 변수로 부상",
-      "original_title": "'회색 코뿔소' 중국 메모리…반도체 슈퍼사이클 최대 변수로 부상 - ebn.co.kr",
+      "title": "위안화 밖으로 나온 중국 자본… 달러로 공급망과 회수로를 설계한다 [박지민의 중국과 미래]",
+      "display_title": "위안화 밖으로 나온 중국 자본… 달러로 공급망과 회수로를 설계한다 [박지민의 중국과 미래]",
+      "original_title": "﻿위안화 밖으로 나온 중국 자본… 달러로 공급망과 회수로를 설계한다 [박지민의 중국과 미래] - IT조선",
       "summary": [
-        "중국 메모리 반도체 산업의 성장과 정부 지원이 글로벌 반도체 시장의 공급 과잉 위험을 높여 '회색 코뿔소'로 불린다.",
-        "이는 미중 기술 갈등 속에서 중국의 반도체 자립 시도가 글로벌 반도체 슈퍼사이클에 부정적 영향을 미칠 수 있음을 의미한다.",
-        "한국의 주요 반도체 기업들은 중국발 공급 과잉 및 경쟁 심화에 대한 대비가 필요하며 투자 전략을 재고해야 한다."
+        "중국 자본이 위안화를 넘어 달러를 활용하여 글로벌 공급망 및 자금 회수 구조를 재편하려는 전략적 움직임을 보인다.",
+        "이는 미·중 경제 갈등 심화와 위안화의 국제적 위상 강화 한계에 대응하여, 달러를 통한 안정적인 해외 투자 및 회수 환경을 구축하려는 의도로 해석된다.",
+        "중국 자본의 이러한 변화는 특정 글로벌 공급망에 영향을 미칠 수 있으며, 달러 강세 추세에 간접적으로 기여하거나 국제 금융 시장의 역학 관계에 변화를 줄 수 있다."
       ],
-      "summary_text": "중국 메모리 반도체 산업의 성장과 정부 지원이 글로벌 반도체 시장의 공급 과잉 위험을 높여 '회색 코뿔소'로 불린다. 이는 미중 기술 갈등 속에서 중국의 반도체 자립 시도가 글로벌 반도체 슈퍼사이클에 부정적 영향을 미칠 수 있음을 의미한다. 한국의 주요 반도체 기업들은 중국발 공급 과잉 및 경쟁 심화에 대한 대비가 필요하며 투자 전략을 재고해야 한다.",
-      "description": "중국 메모리 반도체 산업이 '회색 코뿔소'로 불리며 다가오는 반도체 슈퍼사이클의 주요 변수로 떠오르고 있다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "반도체",
+      "summary_text": "중국 자본이 위안화를 넘어 달러를 활용하여 글로벌 공급망 및 자금 회수 구조를 재편하려는 전략적 움직임을 보인다. 이는 미·중 경제 갈등 심화와 위안화의 국제적 위상 강화 한계에 대응하여, 달러를 통한 안정적인 해외 투자 및 회수 환경을 구축하려는 의도로 해석된다. 중국 자본의 이러한 변화는 특정 글로벌 공급망에 영향을 미칠 수 있으며, 달러 강세 추세에 간접적으로 기여하거나 국제 금융 시장의 역학 관계에 변화를 줄 수 있다.",
+      "description": "중국 자본이 위안화에서 벗어나 달러를 통해 글로벌 공급망과 회수 경로를 재설계하려는 움직임을 분석한 기사이다.",
+      "category": "글로벌 경제",
+      "importance": 7,
+      "market_impact": "중립",
+      "related_sector": "국제 무역, 금융, 공급망 관련 산업",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중국의 메모리 반도체 산업 동향은 글로벌 공급망과 가격에 직접적인 영향을 미쳐 한국 주요 반도체 기업의 실적에 큰 영향을 미칠 수 있다.",
-      "key_signal": "중국 정부의 반도체 산업 육성 정책과 미중 반도체 패권 경쟁의 진행 상황을 면밀히 관찰해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "중국의 자본 이동 전략 변화는 글로벌 공급망과 통화 패권에 중대한 영향을 미치며, 이는 장기적인 투자 환경 변화를 예고하기 때문이다.",
+      "key_signal": "중국의 대외 투자 방향성과 달러 유동성 변화 추이를 면밀히 관찰하고, 미·중 경제 관계의 추가적인 변화를 주시해야 한다.",
       "keywords": [
-        "중국",
-        "메모리반도체",
-        "슈퍼사이클",
-        "공급과잉",
-        "미중기술패권"
+        "중국 자본",
+        "위안화",
+        "달러",
+        "공급망",
+        "국제 금융"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Bdnh6X2xDOU1pTmI5dHFRTWc4cTB5WDdHYTJxOVBDM3gtQ2hveE91QUJodUVyQ21vOWxvcWlSSi1FbVVaLVdtQ0JyU1dPR0cyS0N4OWY4Ry1YSENTUFRGRjljNk5ibk1P?oc=5",
-      "published": "2026-08-13 05:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wOWpUVG9jeDA1R1JtUUtvQkpDdV9JdVF0TmpzeUxmU09mNWtVY2lCTnlPblpDTjdEcjJPc0FscDE1TFlJbFdKeWpXQjJOSXh3Q3d2TnNBVVFad3phLWRldXRTcF9vZk5DWTJjNFhBTDDSAXRBVV95cUxQdzNjd1FxQ3A0ZGJFbWpfQjFVb3ZjMzRLb2RQZ3E3eFZzZkdEcWlmVzJ5ejJHa19fd1F4M2dOQTRRVVp1bGlHSXhHOWpndGdaMGpBS1I5X2xxX21kVjZZbDNQXzVSaHJYd2FPbV9RaTlrZndTNQ?oc=5",
+      "published": "2026-08-14 06:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -275,70 +277,70 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "금융",
       "opinion": "관심",
-      "reason": "미국 인플레이션 완화에 따른 연준의 금리 압박 감소와 AI 주식의 글로벌 강세가 월스트리트를 사상 최고치에 근접하게 만들며, 국내 대표 반도체 기업인 삼성전자에 긍정적인 영향을 미칠 것으로 예상됩니다. 다만, 중국 메모리 반도체 동향은 변수로 작용할 수 있어 지속적인 모니터링이 필요합니다.",
+      "reason": "인플레이션 둔화에 따른 금리 하락 기대감으로 투자심리가 개선되고 증시 거래량 증가 가능성이 높아, 증권업종 전반에 긍정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "미국 증시 기술주 동향 및 나스닥 지수",
-        "AI 반도체 수요 및 관련 제품 출하량 변화",
-        "중국 메모리 반도체 산업 정책 및 경쟁 구도"
+        "국내외 금리 변동 추이 및 인플레이션 지표 발표 내용",
+        "국내 증시 거래량 및 투자자 예탁금 동향",
+        "글로벌 금융시장 안정성 및 중국 자본 이동의 장기적 영향"
       ],
       "related_news_titles": [
-        "업데이트: 온화한 인플레이션 보고서 이후 나스닥, S&P 500 반등",
-        "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치 근접",
-        "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치에 근접"
+        "인플레이션 보고서 발표 후 증시 상승 및 금리 하락",
+        "미국 생산자물가지수(PPI) 예상치 못하게 보합세, 9월 금리 인상 확률 급락; S&P 500 장중 사상 최고치 근접",
+        "위안화 밖으로 나온 중국 자본… 달러로 공급망과 회수로를 설계한다 [박지민의 중국과 미래]"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "한국전력",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "유틸리티",
       "opinion": "관심",
-      "reason": "미국 인플레이션 데이터 완화와 AI 주식의 글로벌 상승세가 나스닥과 S&P 500의 반등을 이끌며, AI 메모리 시장의 핵심 플레이어인 SK하이닉스에 대한 긍정적인 투자심리가 이어질 것으로 보입니다. 중국 메모리 반도체 산업의 부상은 잠재적 위험 요인이 될 수 있습니다.",
+      "reason": "유가 하락은 한국전력의 연료비 부담을 완화하여 실적 개선에 긍정적인 영향을 미칠 수 있기 때문입니다.",
       "check_points": [
-        "AI 반도체(HBM) 시장의 성장 추이 및 경쟁 환경",
-        "글로벌 반도체 업황 및 주요 고객사들의 재고 수준",
-        "중국 메모리 반도체 생산 능력 확대 여부"
+        "국제 유가 및 천연가스 가격 추이",
+        "전기요금 인상 여부 및 시기",
+        "환율 변동이 연료 수입 비용에 미치는 영향"
       ],
       "related_news_titles": [
-        "업데이트: 온화한 인플레이션 보고서 이후 나스닥, S&P 500 반등",
-        "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치 근접",
-        "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치에 근접"
+        "오늘 증시: S&P 500 사상 최고치 마감, 국채 금리 후퇴 및 유가 87달러로 하락",
+        "유가 하락 및 인플레이션 완화로 미국 증시 사상 최고치 상승"
       ]
     },
     {
       "rank": 3,
-      "name": "한미반도체",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "반도체 장비",
-      "opinion": "관심",
-      "reason": "월스트리트가 AI 주식 상승과 인플레이션 우려 완화로 사상 최고치에 근접하는 등 AI 시장에 대한 기대감이 커지면서, AI 반도체 생산 공정에 필수적인 장비를 공급하는 한미반도체는 직접적인 수혜가 기대됩니다. 글로벌 기술주의 상승 동력이 지속될수록 추가적인 관심을 받을 수 있습니다.",
+      "sector": "반도체",
+      "opinion": "주의",
+      "reason": "주주환원 정책에 대한 시장의 실망감으로 인해 주가가 하락했으며, 이는 국내 대형주 전반의 투자심리에 영향을 미칠 수 있으므로 주의 깊은 관찰이 필요합니다.",
       "check_points": [
-        "AI 반도체 시장의 신규 투자 및 증설 계획",
-        "주요 고객사들의 HBM(고대역폭 메모리) 생산량 확대",
-        "글로벌 반도체 장비 산업의 전반적인 수주 동향"
+        "향후 기업의 주주환원 정책 변화 가능성",
+        "반도체 업황 회복 속도 및 메모리 가격 추이",
+        "글로벌 경쟁사의 주주환원 정책 및 실적 발표"
       ],
       "related_news_titles": [
-        "AI 주식 상승 및 인플레이션 우려 완화로 월스트리트 사상 최고치 근접"
+        "주주환원 실망감에 SK하이닉스 하락…코스피도 하락 전환"
       ]
     },
     {
       "rank": 4,
-      "name": "KB금융",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "은행",
-      "opinion": "주의",
-      "reason": "한국은행이 경기 회복과 물가 및 집값 부담을 이유로 연내 추가 금리인상에 무게를 두면서, 금융권의 불확실성이 커질 수 있습니다. 금리 인상은 대출 수요 및 가계 부채에 영향을 미쳐 금융기관의 건전성 및 수익성에 변화를 줄 수 있으므로 주의 깊게 살펴봐야 합니다.",
+      "sector": "에너지화학",
+      "opinion": "관심",
+      "reason": "유가 하락은 정유 부문의 원가 부담을 낮출 수 있으며, 글로벌 증시의 긍정적 흐름은 전반적인 투자심리에 긍정적인 영향을 줄 수 있습니다.",
       "check_points": [
-        "한국은행 금융통화위원회 개최 결과 및 금리 결정",
-        "가계 및 기업 대출의 연체율 등 건전성 지표",
-        "정부의 부동산 시장 및 가계부채 관련 정책 발표"
+        "국제 유가(특히 원유 및 정제마진) 동향",
+        "글로벌 경기 회복에 따른 석유화학 제품 수요 변화",
+        "정유 부문 재고 평가 손익 및 실적 발표"
       ],
       "related_news_titles": [
-        "경기 살아나고 물가·집값 부담…한은, 연내 추가 금리인상 무게"
+        "오늘 증시: S&P 500 사상 최고치 마감, 국채 금리 후퇴 및 유가 87달러로 하락",
+        "유가 하락 및 인플레이션 완화로 미국 증시 사상 최고치 상승"
       ]
     }
   ],
