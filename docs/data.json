@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15 07:22",
-  "analysis_date": "2026-08-15",
+  "generated_at": "2026-08-16 07:20",
+  "analysis_date": "2026-08-16",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 경제 지표 둔화 우려로 글로벌 증시가 하락하고 기술주가 약세를 보였으나, 금리 인상 기대 약화는 시장에 긍정적으로 작용했습니다. 국내에서는 원화 강세가 지속되고 삼성 그룹의 AI 전력 인프라 투자가 주목됩니다.",
-    "국내거시경제": "원화 가치가 한 달 새 9.4% 상승하며 주요 통화 중 가장 높은 상승률을 기록했습니다. 이는 외국인 자금 유입과 무역수지 개선, 미국 금리 인상 기대감 약화 등 복합적 요인에 기인합니다.",
-    "글로벌경제": "미국 소매 판매 감소와 전반적인 경제 지표 부진이 이어지며 경기 둔화 우려가 확산되고 있습니다. 이는 글로벌 경제 전반에 영향을 미칠 수 있어 주요 지표 발표에 주의가 필요합니다.",
-    "증시금리": "미국 경제 지표 부진과 소매 판매 감소로 S&P 500 및 월스트리트 증시가 사상 최고치에서 하락했으며, 특히 경제 불확실성 증대로 기술주가 크게 하락했습니다. 다만, 부진한 경제 지표는 연방준비제도(Fed)의 추가 금리 인상 기대감을 약화시켜 증시에 일부 지지 요인으로 작용했습니다.",
+    "총평": "미국 경제의 견조한 지표와 S&P 500의 사상 최고치 경신 소식은 긍정적이나, 연준의 통화정책 불확실성과 지정학적 리스크가 시장 변동성을 키우고 있습니다. 국내에서는 AI 관련 신기술 및 산업에 대한 투자 관심이 높습니다.",
+    "국내거시경제": "특이사항 없음.",
+    "글로벌경제": "미국 소매 판매 호조는 경제 견조함을 시사하나, 이는 인플레이션 압력과 연준의 통화 정책 불확실성을 가중시키고 있습니다. 연준의 정책 기조 변화 가능성에 대한 경계감이 커지고 있습니다.",
+    "증시금리": "S&P 500 지수가 견조한 기업 실적과 혁신 기술 성장 기대로 사상 최고치를 경신했습니다. 한편, 지정학적 리스크로 인한 미국 증시의 소폭 하락 속에서도 광통신 및 드론 등 특정 섹터의 강세가 나타났습니다.",
     "부동산정책": "특이사항 없음.",
-    "기업산업": "삼성 그룹이 반도체에 이어 AI 시대의 핵심 인프라로 떠오르는 전력 분야에 투자를 확대하고 있습니다. 삼성 SDS, SDI, 전기 등 계열사들이 AI 관련 전력 효율 및 공급 솔루션 개발에 집중하고 있습니다.",
-    "오늘의투자시사점": "미국 소비 둔화로 인한 경기 둔화 가능성과 기술주 변동성에 대비하고, 글로벌 경기 둔화 관련 지표에 주목해야 합니다. 한편, 연준의 금리 인상 사이클 정점 기대감과 원화 강세는 시장에 긍정적으로 작용할 수 있으며, AI 전력 인프라 관련 산업 및 기업 투자 동향을 관심 있게 지켜볼 필요가 있습니다.",
-    "오늘의한줄": "미국 경제 둔화 우려 속 금리 인상 기대 약화, 원화 강세 및 AI 전력 인프라 투자가 주목되는 하루입니다."
+    "기업산업": "국내 벤처 캐피털은 차세대 AI 데이터센터와 ESS 기반 배터리 기술에 투자를 집중하고 있습니다. 또한 보스반도체가 차량용 AI 가속기 시장에 진출하여 독일, 중국 완성차 업체들의 평가를 시작하며 글로벌 시장 진출에 속도를 내고 있습니다.",
+    "오늘의투자시사점": "견조한 미국 경제 지표에도 불구하고 연준 정책과 지정학적 리스크로 인한 시장 변동성에 대비해야 합니다. AI, ESS, 차량용 반도체 등 성장 잠재력이 큰 혁신 기술 섹터에 대한 지속적인 관심과 선별적 투자가 요구됩니다.",
+    "오늘의한줄": "글로벌 경제의 불확실성 속에서도 AI 관련 혁신 기술 섹터는 꾸준한 성장 동력을 보여주고 있어 선별적 투자가 중요합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 주식시장: 미국 소매 판매 감소로 S&P 500 최고치에서 하락",
-      "display_title": "오늘 주식시장: 미국 소매 판매 감소로 S&P 500 최고치에서 하락",
-      "original_title": "Stock Market Today: S&P 500 Slips From Record as US Retail Sales Fall - Eurasia Business News",
+      "title": "미국 소매 판매 예상치 상회, 연준 금리 인상 중단 가능성 강화",
+      "display_title": "미국 소매 판매 예상치 상회, 연준 금리 인상 중단 가능성 강화",
+      "original_title": "US retail sales surprise intensifies Fed pause barbell position - TechStock²",
       "summary": [
-        "미국 소매 판매가 감소세를 보이며 S&P 500 지수가 사상 최고치에서 하락 마감했습니다.",
-        "소비 위축은 미국 경제 둔화의 명확한 신호로, 기업 실적과 전반적인 경제 전망에 대한 우려를 증폭시킵니다.",
-        "미국 소비 둔화는 글로벌 경제에 영향을 미치므로, 소비 관련 기업 및 수출 의존도가 높은 기업에 대한 투자 전략을 재검토해야 합니다."
+        "미국의 소매 판매가 시장 예상치를 상회하며 경제의 견조함을 시사했습니다.",
+        "이는 인플레이션 압력이 여전할 수 있음을 보여주면서도, 연준의 금리 인상 중단(pause) 가능성에 대한 논의를 심화시키고 있습니다.",
+        "강한 소비 지표는 경기 연착륙 기대를 높일 수 있으나, 연준의 통화 정책 불확실성을 가중시켜 시장 변동성을 키울 수 있습니다."
       ],
-      "summary_text": "미국 소매 판매가 감소세를 보이며 S&P 500 지수가 사상 최고치에서 하락 마감했습니다. 소비 위축은 미국 경제 둔화의 명확한 신호로, 기업 실적과 전반적인 경제 전망에 대한 우려를 증폭시킵니다. 미국 소비 둔화는 글로벌 경제에 영향을 미치므로, 소비 관련 기업 및 수출 의존도가 높은 기업에 대한 투자 전략을 재검토해야 합니다.",
-      "description": "미국 소매 판매가 감소하면서 S&P 500 지수가 사상 최고치에서 하락했다.",
-      "category": "증시·금리",
+      "summary_text": "미국의 소매 판매가 시장 예상치를 상회하며 경제의 견조함을 시사했습니다. 이는 인플레이션 압력이 여전할 수 있음을 보여주면서도, 연준의 금리 인상 중단(pause) 가능성에 대한 논의를 심화시키고 있습니다. 강한 소비 지표는 경기 연착륙 기대를 높일 수 있으나, 연준의 통화 정책 불확실성을 가중시켜 시장 변동성을 키울 수 있습니다.",
+      "description": "미국 소매 판매 데이터가 예상치를 뛰어넘으면서 연방준비제도(Fed)가 금리 인상을 중단할 것이라는 전망이 더욱 강해지고 있습니다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "유통, 소비재, 수출",
+      "market_impact": "중립",
+      "related_sector": "소비재, 금융",
       "related_stocks": [
-        "롯데쇼핑",
-        "신세계",
-        "현대차"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 소비 둔화는 글로벌 경기 침체 우려를 키우며, 이는 한국의 수출 및 내수 기업 실적에 직접적인 영향을 미칠 수 있습니다.",
-      "key_signal": "미국 소비자 심리 지수 및 다음 소매 판매 데이터 발표를 예의주시해야 합니다.",
+      "investment_reason": "예상치를 상회하는 소매 판매는 인플레이션 우려와 연준의 통화정책 방향에 대한 불확실성을 동시에 키워 시장 변동성을 높일 수 있기 때문입니다.",
+      "key_signal": "향후 발표될 미국 인플레이션 지표와 연준 위원들의 발언을 주시하며 금리 인상 사이클 종료 여부를 판단해야 합니다.",
       "keywords": [
         "미국 소매 판매",
-        "S&P 500",
-        "소비 위축",
-        "경제 둔화",
-        "주식 시장"
+        "연준",
+        "금리 인상",
+        "통화 정책",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnFmMUwzaVE3MUp5V1A2R3FKU0huSE5jQlVLN0pScXl0Y3hYUHl5OWlnM1JmRU5SZEN4dkFLUnNfakdxR3Y1MWFpRHdtZ2hwTVVTblZwNlZBZTF4UzVZTno3R1VBUTl1UnJtT1Rha1dBUk81LWRRREhwVTVsenJqYzg4R3pwT1NkbDZaQU4xNmxrWUUzMkZ5WXVDTlppaE1KSTlvVHk4T1NhNVJCNXg0MQ?oc=5",
-      "published": "2026-08-15 03:25",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2RPTEJTM0taNUxiZG1yYjJWNGViazhIbHN6ZnQyaXllSDRTSmNndXBwS0pKeUlkTGZTYmVUa3R1c1JUOWJBZnRIZGVjTGxLMmhIS3YxMFY1T3JMaHQ4NlFQdXU2aFVraDYwX05xVVFveDVRT19RQnNyc2dwUDJxV0JqY18zUQ?oc=5",
+      "published": "2026-08-16 04:41",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 경제 지표 약화로 연준 금리 인상 기대 약화되며 주식 시장 지지",
-      "display_title": "미국 경제 지표 약화로 연준 금리 인상 기대 약화되며 주식 시장 지지",
-      "original_title": "Stocks See Support as Weak US Economic Reports Curb Fed Rate-Hike Expectations - TradingView",
+      "title": "S&P 500 지수 2026년 8월 사상 최고치 경신: 랠리의 원동력은 무엇인가?",
+      "display_title": "S&P 500 지수 2026년 8월 사상 최고치 경신: 랠리의 원동력은 무엇인가?",
+      "original_title": "S&P 500 Hits Record High August 2026: What is Driving the Rally? - Intellectia AI",
       "summary": [
-        "부진한 미국 경제 지표가 발표되면서 연방준비제도(Fed)의 추가 금리 인상 가능성이 낮아질 것이라는 기대감에 주식 시장이 지지를 받았습니다.",
-        "금리 인상 속도 조절 또는 동결 가능성은 기업의 자금 조달 비용 부담을 줄이고 경제 불확실성을 완화하여 증시에 긍정적 요인으로 작용합니다.",
-        "금리 인상 사이클의 정점 기대감은 시장에 긍정적으로 작용할 수 있으므로, 통화 정책 방향 변화 가능성에 주목해야 합니다."
+        "S&P 500 지수가 2026년 8월 사상 최고치를 경신하며 미국 증시의 강세를 다시 한번 확인시켰습니다.",
+        "이러한 랠리는 견조한 기업 실적, AI와 같은 혁신 기술의 성장 기대감, 그리고 상대적으로 안정적인 거시경제 환경 등 복합적인 요인에 의해 주도되고 있습니다.",
+        "미국 증시의 상승세는 글로벌 시장에 긍정적인 영향을 미칠 수 있으며, 주도 섹터에 대한 관심이 지속적으로 요구됩니다."
       ],
-      "summary_text": "부진한 미국 경제 지표가 발표되면서 연방준비제도(Fed)의 추가 금리 인상 가능성이 낮아질 것이라는 기대감에 주식 시장이 지지를 받았습니다. 금리 인상 속도 조절 또는 동결 가능성은 기업의 자금 조달 비용 부담을 줄이고 경제 불확실성을 완화하여 증시에 긍정적 요인으로 작용합니다. 금리 인상 사이클의 정점 기대감은 시장에 긍정적으로 작용할 수 있으므로, 통화 정책 방향 변화 가능성에 주목해야 합니다.",
-      "description": "부진한 미국 경제 보고서들이 연방준비제도의 금리 인상 기대감을 낮추면서 주식 시장이 지지를 받았다.",
+      "summary_text": "S&P 500 지수가 2026년 8월 사상 최고치를 경신하며 미국 증시의 강세를 다시 한번 확인시켰습니다. 이러한 랠리는 견조한 기업 실적, AI와 같은 혁신 기술의 성장 기대감, 그리고 상대적으로 안정적인 거시경제 환경 등 복합적인 요인에 의해 주도되고 있습니다. 미국 증시의 상승세는 글로벌 시장에 긍정적인 영향을 미칠 수 있으며, 주도 섹터에 대한 관심이 지속적으로 요구됩니다.",
+      "description": "2026년 8월 S&P 500 지수가 사상 최고치를 경신했으며, 이 랠리를 이끄는 주요 요인들이 무엇인지 분석합니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "증권, 은행, 성장주 전반",
+      "related_sector": "기술주, 성장주, 반도체",
       "related_stocks": [
-        "카카오",
         "네이버",
-        "SK바이오팜"
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "연준의 금리 인상 기대감 약화는 한국 시장의 유동성 환경 개선 및 성장주 반등에 대한 기대를 높일 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "미국 소비자물가지수(CPI) 및 고용 보고서 등 연준의 통화 정책 결정에 영향을 미칠 주요 경제 지표 발표를 주시해야 합니다.",
+      "investment_reason": "S&P 500의 사상 최고치 경신은 글로벌 증시 전반에 긍정적인 투자 심리를 제공하며, 주요 성장 동력을 파악하는 데 중요하기 때문입니다.",
+      "key_signal": "S&P 500 랠리를 이끄는 핵심 산업 및 기업들의 실적과 성장 전망을 분석하여 국내 증시에 미칠 영향을 예측해야 합니다.",
       "keywords": [
-        "연준 금리",
-        "경제 지표",
-        "금리 인상",
-        "주식 시장",
-        "통화 정책"
+        "S&P 500",
+        "미국 증시",
+        "사상 최고치",
+        "기술주",
+        "경제 성장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkQyMlprWUYtMUprVXRSaUFXc2lGOU5UWWs3MHJ3R202aUI1UEhZR0U1UmdhNWpPTkZjd1pueG96ZmwwN3ZETHpRNUM0MzJjcGdNeG1HdjZpMXZud0UtTXNyamg1bnBCTHdJRENacFduN3IxNVlOa1Z2X0xlMW1MNTdYOVVHckZKRHB3ZjIwVXhDeUVwaHhSU3lOVkNZaDFFX2RETWtZVExPYzJ2Y25hc2N0QkpxMmxZN0UyZ3RGSFFIOEVfcGJKVi1rV3lJc1d3dXA0?oc=5",
-      "published": "2026-08-14 23:11",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pS245cDFhWDJOcEgyaFRNWnZUMjFVZTc5TURLaTFjSlF0X0syN3JvUkNvc2k2MV9wRGtQTjdFMVZtZVZPQWNIYUpMNHI2aXdlRXBOaWhNMFpDdkhCYWc4QWJjQzRGUTNtUmRvVXFkY1lRMWdnbnJORg?oc=5",
+      "published": "2026-08-16 01:11",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,42 +109,38 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "'日정부 개입' 엔화보다 4배 더 올랐다…원화값 한 달 새 9.4% 상승 '상승률 1위'",
-      "display_title": "'日정부 개입' 엔화보다 4배 더 올랐다…원화값 한 달 새 9.4% 상승 '상승률 1위'",
-      "original_title": "‘日정부 개입’ 엔화보다 4배 더 올랐다…원화값 한달새 9.4% 올라 ‘상승률 1위’ - 매일경제 마켓",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "케빈 워시 연준 의장의 정책, 월스트리트를 불안하게 할 의도치 않은 결과 초래 가능성",
+      "display_title": "케빈 워시 연준 의장의 정책, 월스트리트를 불안하게 할 의도치 않은 결과 초래 가능성",
+      "original_title": "Fed Chair Kevin Warsh Is Reshaping the Central Bank, but the Unintended Consequences of His Actions Can Derail Wall Street - The Motley Fool",
       "summary": [
-        "지난 한 달간 원화 가치가 9.4% 상승하며 주요 통화 중 가장 높은 상승률을 기록했고, 이는 일본 정부 개입에도 불구하고 엔화 상승폭의 4배에 달합니다.",
-        "외국인 자금 유입, 무역수지 개선, 미국 금리 인상 기대감 약화 등 복합적인 요인이 원화 강세를 지지하는 것으로 풀이됩니다.",
-        "원화 강세는 수입 물가 안정에 기여하고 외국인 투자 유치를 촉진할 수 있으나, 수출 기업에는 가격 경쟁력 약화로 작용할 수 있습니다."
+        "케빈 워시 연준 의장의 정책적 변화가 중앙은행의 방향성을 재편하고 있습니다.",
+        "이러한 변화는 시장에 예상치 못한 부정적인 영향을 미쳐 월스트리트의 불안정성을 초래할 수 있다는 경고가 나오고 있습니다.",
+        "연준의 새로운 통화정책 기조와 그에 따른 시장 반응을 면밀히 분석하여 투자 전략에 반영해야 합니다."
       ],
-      "summary_text": "지난 한 달간 원화 가치가 9.4% 상승하며 주요 통화 중 가장 높은 상승률을 기록했고, 이는 일본 정부 개입에도 불구하고 엔화 상승폭의 4배에 달합니다. 외국인 자금 유입, 무역수지 개선, 미국 금리 인상 기대감 약화 등 복합적인 요인이 원화 강세를 지지하는 것으로 풀이됩니다. 원화 강세는 수입 물가 안정에 기여하고 외국인 투자 유치를 촉진할 수 있으나, 수출 기업에는 가격 경쟁력 약화로 작용할 수 있습니다.",
-      "description": "일본 정부의 개입에도 불구하고 엔화보다 원화 가치가 한 달 동안 9.4% 상승하여 주요 통화 중 상승률 1위를 기록했다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "수출, 수입, 금융",
-      "related_stocks": [
-        "현대차",
-        "POSCO홀딩스",
-        "LG전자"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "급격한 원화 강세는 수출 기업의 채산성 악화와 수입 기업의 비용 절감이라는 상반된 영향을 미치므로, 관련 기업의 실적 변화를 주목해야 합니다.",
-      "key_signal": "한국은행의 통화 정책 방향, 외환 시장 개입 여부, 그리고 미국 달러 인덱스 변동성을 지속적으로 모니터링해야 합니다.",
+      "summary_text": "케빈 워시 연준 의장의 정책적 변화가 중앙은행의 방향성을 재편하고 있습니다. 이러한 변화는 시장에 예상치 못한 부정적인 영향을 미쳐 월스트리트의 불안정성을 초래할 수 있다는 경고가 나오고 있습니다. 연준의 새로운 통화정책 기조와 그에 따른 시장 반응을 면밀히 분석하여 투자 전략에 반영해야 합니다.",
+      "description": "케빈 워시 연준 의장이 중앙은행을 재편하고 있으나, 그의 행동이 의도치 않게 월스트리트를 불안정하게 만들 수 있다는 우려가 제기됩니다.",
+      "category": "글로벌 경제",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "금융, 증권",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "연준 의장의 정책 변화가 시장에 예측 불가능한 부정적 영향을 미칠 수 있으므로 신중한 접근이 필요하기 때문입니다.",
+      "key_signal": "연준의 통화정책 기조 변화와 이에 대한 시장의 반응, 특히 금융 시스템의 안정성 지표들을 면밀히 모니터링해야 합니다.",
       "keywords": [
-        "원화 강세",
-        "환율",
-        "엔화",
-        "수출 기업",
-        "수입 물가"
+        "연준 의장",
+        "통화 정책",
+        "월스트리트",
+        "시장 불안정",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtQ3RrLUt3S3FpLU83cGRZemlvR0dPZFplQnJSQTU1OEpvSm1ucDlCRzBWUFpTeEZJNXJpblVLNFFaLXRzOXJjZGl2YlJVSzFBY2c?oc=5",
-      "published": "2026-08-14 14:43",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFp5R2RUeGlXblZURG5CNXpCTnNEN2c2LW1rSThRaGJzbkVCV0xVV1JGLUViSGM2dlo1NEVNc0RFUnREMHVjbktNWnU4ak1BM3htVHg0Tlh4WEQwYkVETXhyMVBvVHhwbkVQUE8zREFyNzNuczAwNjlWSEswSFV2UFdGT0dJYU1VUDV5MG42UUVNWXVO?oc=5",
+      "published": "2026-08-15 23:06",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,36 +150,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 경제 지표 부진에 월스트리트 증시 최고치에서 하락",
-      "display_title": "미국 경제 지표 부진에 월스트리트 증시 최고치에서 하락",
-      "original_title": "Wall Street slips from its record following the latest weak update on the U.S. economy - BNN Bloomberg",
+      "title": "미국 증시 마감: 트럼프 호르무즈 해협 미국 영토 선언 위협에 3대 지수 소폭 하락, 광통신·드론 주식 강세",
+      "display_title": "미국 증시 마감: 트럼프 호르무즈 해협 미국 영토 선언 위협에 3대 지수 소폭 하락, 광통신·드론 주식 강세",
+      "original_title": "U.S. Market Close | Trump threatens to declare the Strait of Hormuz as U.S. territory; three major indices close slightly lower. Optical communication stocks strengthen: AAOI surges 15%, Lumentum rises over 5%; drone stock UMAC jumps 25%. - 富途牛牛",
       "summary": [
-        "최신 미국 경제 지표의 부진으로 월스트리트 증시가 사상 최고치에서 하락 마감했습니다.",
-        "경제 성장 둔화 우려가 투자 심리에 부정적으로 작용하며 주식 시장 전반에 영향을 미쳤습니다.",
-        "글로벌 경기 둔화 가능성에 대비하고, 관련 지표 발표에 촉각을 곤두세울 필요가 있습니다."
+        "트럼프의 호르무즈 해협 관련 발언으로 미국 3대 지수가 소폭 하락했으나, 광통신 및 드론 관련주는 개별 종목 강세를 보였습니다.",
+        "지정학적 리스크 발언이 시장 전반에 부담을 주었지만, 특정 산업군은 기술 및 성장 기대감으로 투자자들의 관심을 끌었습니다.",
+        "지정학적 리스크는 단기적 시장 변동성을 유발할 수 있으나, 개별 산업 및 종목의 성장 모멘텀은 유지될 수 있어 선별적 투자가 중요합니다."
       ],
-      "summary_text": "최신 미국 경제 지표의 부진으로 월스트리트 증시가 사상 최고치에서 하락 마감했습니다. 경제 성장 둔화 우려가 투자 심리에 부정적으로 작용하며 주식 시장 전반에 영향을 미쳤습니다. 글로벌 경기 둔화 가능성에 대비하고, 관련 지표 발표에 촉각을 곤두세울 필요가 있습니다.",
-      "description": "미국 경제 지표의 최신 부진한 업데이트에 따라 월스트리트 증시가 사상 최고치에서 미끄러졌다.",
+      "summary_text": "트럼프의 호르무즈 해협 관련 발언으로 미국 3대 지수가 소폭 하락했으나, 광통신 및 드론 관련주는 개별 종목 강세를 보였습니다. 지정학적 리스크 발언이 시장 전반에 부담을 주었지만, 특정 산업군은 기술 및 성장 기대감으로 투자자들의 관심을 끌었습니다. 지정학적 리스크는 단기적 시장 변동성을 유발할 수 있으나, 개별 산업 및 종목의 성장 모멘텀은 유지될 수 있어 선별적 투자가 중요합니다.",
+      "description": "트럼프 전 대통령이 호르무즈 해협을 미국 영토로 선언하겠다고 위협하면서 미국 3대 주요 지수는 소폭 하락 마감했습니다. 한편, 광통신 관련주인 AAOI는 15%, Lumentum은 5% 이상 상승했으며, 드론 관련주 UMAC은 25% 급등하며 강세를 보였습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "증권, 투자",
+      "market_impact": "중립",
+      "related_sector": "광통신, 드론, 방산",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "AAOI",
+        "Lumentum",
+        "UMAC"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 경제 지표 부진과 증시 하락은 한국 시장에도 부정적 영향을 미칠 수 있어 투자 포트폴리오 점검이 필요합니다.",
-      "key_signal": "오늘 발표될 추가 경제 지표와 미국 증시 선물 흐름을 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "지정학적 리스크에도 불구하고 성장 산업 내 개별 종목들이 강세를 보이며 투자 기회를 제공했기 때문입니다.",
+      "key_signal": "지정학적 리스크가 증시 전반에 미치는 영향과 함께, 광통신 및 드론 등 미래 성장 산업의 기술 발전 및 수혜 종목들을 지속적으로 살펴봐야 합니다.",
       "keywords": [
-        "미국 증시",
-        "경제 지표",
-        "월스트리트",
-        "경기 둔화",
-        "주식 시장"
+        "호르무즈 해협",
+        "광통신",
+        "드론",
+        "지정학적 리스크",
+        "미국 증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmphMUxQWHFjNGRsTnFrWVVLV09ueWk1d0hLWnBOdURTeFVWa2FXZmNxYmRPUmJkbUZwSTFPbEdhX05ZcHdVRXFCWlNEeV9meEdHN25fRFRZX0lpSU85dlFDaFhmeXJoLVBxSGYwdzlyRGg2eXZhbUhPZS1hVkdVbDZQVmp2bTUtVXFnUGwwa0lKdFNIMXdrQUllVVRlRVJPRG56UGhSZkx5bm9hbVlSVld0VW5vQ1VzVjJuZ1NIcHprZFgtSTg0Q1F3?oc=5",
-      "published": "2026-08-15 05:25",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOE5JN3BielVIRTlKM2tfV19PTmxGNUlnWGhQR3NIWjI0aVlQX1NrckJnV0xjbHg5T2I1bUxYb3ZOXzhGOGtCWHhKWFhJT0daWTJucWlHWVpaVllBcFd3SFl3Nk9aX1d5eDJxekpNR0k5Q1BhQ000OW91WFlPMG9zb1JYMW9WZ2xvRVBtWlRvcFZETUJ4OV9Kajd0ZDdMQQ?oc=5",
+      "published": "2026-08-15 08:31",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -192,42 +189,42 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "월스트리트 흔들림: 경제 우려 속 기술주 폭락",
-      "display_title": "월스트리트 흔들림: 경제 우려 속 기술주 폭락",
-      "original_title": "Wall Street Wobbles: Tech Stocks Tumble Amid Economic Concerns - devdiscourse.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[VC's Pick] 차세대 AI 데이터센터 및 ESS 기반 '배터리'에 집중되는 관심",
+      "display_title": "[VC's Pick] 차세대 AI 데이터센터 및 ESS 기반 '배터리'에 집중되는 관심",
+      "original_title": "[VC's Pick]차세대 AI 데이터센터·ESS 기반 '배터리'에 쏠린 시선 - 네이트",
       "summary": [
-        "경제 불확실성 증대로 인해 월스트리트에서 기술주가 크게 하락하며 시장 전반의 불안감이 커졌습니다.",
-        "고금리 장기화, 경기 둔화 우려 등 매크로 환경 변화는 성장주인 기술주에 특히 민감하게 작용합니다.",
-        "성장주 중심의 포트폴리오를 보유한 투자자는 시장 변동성에 대비하고, 가치주 및 방어주에 대한 관심을 고려할 수 있습니다."
+        "벤처 캐피털(VC)들이 차세대 AI 데이터센터와 에너지 저장 시스템(ESS) 구축에 필수적인 배터리 기술에 투자 관심을 집중하고 있습니다.",
+        "AI 기술 발전과 데이터센터 확장은 전력 소비 증가로 이어지며, 이를 효율적으로 지원하기 위한 고성능 배터리 및 ESS 솔루션의 중요성이 부각되고 있습니다.",
+        "AI 데이터센터와 ESS 시장의 성장은 배터리 산업에 새로운 성장 동력을 제공할 것이며, 관련 기술을 보유한 기업에 대한 투자 기회를 모색해야 합니다."
       ],
-      "summary_text": "경제 불확실성 증대로 인해 월스트리트에서 기술주가 크게 하락하며 시장 전반의 불안감이 커졌습니다. 고금리 장기화, 경기 둔화 우려 등 매크로 환경 변화는 성장주인 기술주에 특히 민감하게 작용합니다. 성장주 중심의 포트폴리오를 보유한 투자자는 시장 변동성에 대비하고, 가치주 및 방어주에 대한 관심을 고려할 수 있습니다.",
-      "description": "경제적 우려가 고조되면서 기술주가 폭락하며 월스트리트 증시가 불안정한 모습을 보였다.",
-      "category": "증시·금리",
+      "summary_text": "벤처 캐피털(VC)들이 차세대 AI 데이터센터와 에너지 저장 시스템(ESS) 구축에 필수적인 배터리 기술에 투자 관심을 집중하고 있습니다. AI 기술 발전과 데이터센터 확장은 전력 소비 증가로 이어지며, 이를 효율적으로 지원하기 위한 고성능 배터리 및 ESS 솔루션의 중요성이 부각되고 있습니다. AI 데이터센터와 ESS 시장의 성장은 배터리 산업에 새로운 성장 동력을 제공할 것이며, 관련 기술을 보유한 기업에 대한 투자 기회를 모색해야 합니다.",
+      "description": "벤처 캐피털(VC)들이 차세대 AI 데이터센터와 에너지 저장 시스템(ESS)에 기반한 배터리 기술에 큰 관심을 기울이고 있습니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "반도체, IT하드웨어, 소프트웨어",
+      "market_impact": "긍정",
+      "related_sector": "배터리, ESS, AI 데이터센터, 전력반도체",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "삼성SDI",
+        "LG에너지솔루션",
+        "에코프로비엠"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 기술주 하락은 한국의 IT 및 반도체 섹터에 직접적인 영향을 미치므로, 관련 종목의 투자 심리 위축에 대비해야 합니다.",
-      "key_signal": "미국 기술주 실적 발표 및 금리 인상 사이클 변화 가능성을 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 데이터센터와 ESS 시장의 폭발적인 성장은 배터리 산업에 강력한 신규 수요를 창출하여 관련 기업들의 미래 가치를 높일 수 있기 때문입니다.",
+      "key_signal": "AI 데이터센터 및 ESS 시장의 성장 속도, 배터리 기술 발전 동향, 그리고 관련 기업들의 수주 현황 및 기술 개발 로드맵을 주시해야 합니다.",
       "keywords": [
-        "기술주",
-        "월스트리트",
-        "경제 우려",
-        "금리 인상",
-        "성장주"
+        "AI 데이터센터",
+        "ESS",
+        "배터리",
+        "벤처 투자",
+        "에너지 솔루션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2hzNzZTUGIxQUswUjkwU0xZWXpBNE9lZnI1RUQ4c2R3YTV3enVka2lVcUp6ODhaYUxlNkdhVHl1ZUNoZV9IS3ExalFiWFc1NEZZSHpEWjlMZTVSNnNaTlN3RXRPUHBEUlVVTkpXaEhEVmZZV3N3U3B6RFRTcVFHRDhiTXQxcG1wTmRSdHFGOVhrTWJsM1o3dmE4MjZKLXAtUUFwUGo1RE5YeVdlWnFjbEdOMVVQblJLQm5J0gG7AUFVX3lxTE53aHM3NlNQYjFBSzBSOTBTTFlZekE0T2VmcjVFRDhzZHdhNXd6dWRraVVxSno4OFphTGU2R2FUeXVlQ2hlX0hLcTFqUWJYVzU0RllIekRaOUxlNVI2c1pOU3dFdE9QcERSVVVOSldoSERWZllXc3dTcHpEVFNxUUdEOGJNdDFwbXBOZFJ0cUY5WGtNYmwzWjd2YTgyNkotcC1RQXBQajVETlh5V2VacWNsR04xVVBuUktCbkk?oc=5",
-      "published": "2026-08-15 01:54",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51SmJwRFNMdmNOR0JpY2U1QnhhMkdkMm4yNDVjaWJZc1V5aC0yNmtHd2pjTVVsVE42aWlqNXEyRlEyN0llUXFhemxjaUFZX1Vzak9pSW9mTUdHX29WaW5hcw?oc=5",
+      "published": "2026-08-16 04:02",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -237,37 +234,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "반도체 다음은 전력이다…삼성 SDS·SDI·전기 총출동 [삼성 AI 투자지도②]",
-      "display_title": "반도체 다음은 전력이다…삼성 SDS·SDI·전기 총출동 [삼성 AI 투자지도②]",
-      "original_title": "반도체 다음은 전력이다…삼성 SDS·SDI·전기 총출동 [삼성 AI 투자지도②] - 쿠키뉴스",
+      "title": "[인터뷰] 차량용 AI 가속기 시장 진출하는 보스반도체, \"독일·중국 완성차 업체 평가 시작\"",
+      "display_title": "[인터뷰] 차량용 AI 가속기 시장 진출하는 보스반도체, \"독일·중국 완성차 업체 평가 시작\"",
+      "original_title": "[인터뷰] 차량용 AI 가속기 시장 공략하는 보스반도체… 박재홍 대표 “독일·중국 완성차 평가 돌입” - 조선비즈 - Chosunbiz",
       "summary": [
-        "삼성 그룹이 반도체에 이어 전력 분야를 차세대 성장 동력으로 삼고, 삼성 SDS, SDI, 전기 등 계열사들이 AI 관련 전력 인프라 투자에 총력을 기울이고 있습니다.",
-        "AI 기술 발전은 데이터센터 및 고성능 컴퓨팅 확대로 이어지며 막대한 전력 소모를 유발, 이에 따라 전력 효율 및 공급 솔루션의 중요성이 부각되고 있습니다.",
-        "AI 시대의 핵심 인프라로 떠오르는 전력 관련 산업 및 삼성 계열사의 관련 투자 동향은 새로운 성장 기회를 제공할 수 있습니다."
+        "보스반도체가 차량용 AI 가속기 시장에 본격 진출하며, 독일과 중국 완성차 업체들의 제품 평가를 시작했습니다.",
+        "자율주행 기술 발전에 따라 차량용 고성능 AI 반도체 수요가 급증하고 있으며, 국내 기업의 해외 시장 진출은 경쟁력 확보에 중요합니다.",
+        "보스반도체의 해외 완성차 업체 평가 결과에 따라 향후 성장 가능성이 크게 좌우될 수 있으므로 관련 동향을 주시해야 합니다."
       ],
-      "summary_text": "삼성 그룹이 반도체에 이어 전력 분야를 차세대 성장 동력으로 삼고, 삼성 SDS, SDI, 전기 등 계열사들이 AI 관련 전력 인프라 투자에 총력을 기울이고 있습니다. AI 기술 발전은 데이터센터 및 고성능 컴퓨팅 확대로 이어지며 막대한 전력 소모를 유발, 이에 따라 전력 효율 및 공급 솔루션의 중요성이 부각되고 있습니다. AI 시대의 핵심 인프라로 떠오르는 전력 관련 산업 및 삼성 계열사의 관련 투자 동향은 새로운 성장 기회를 제공할 수 있습니다.",
-      "description": "삼성 그룹이 반도체 다음으로 전력 분야에 집중하며, 삼성 SDS, SDI, 전기 등 계열사들이 AI 투자에 총출동하고 있다는 내용이다.",
+      "summary_text": "보스반도체가 차량용 AI 가속기 시장에 본격 진출하며, 독일과 중국 완성차 업체들의 제품 평가를 시작했습니다. 자율주행 기술 발전에 따라 차량용 고성능 AI 반도체 수요가 급증하고 있으며, 국내 기업의 해외 시장 진출은 경쟁력 확보에 중요합니다. 보스반도체의 해외 완성차 업체 평가 결과에 따라 향후 성장 가능성이 크게 좌우될 수 있으므로 관련 동향을 주시해야 합니다.",
+      "description": "보스반도체 박재홍 대표는 차량용 AI 가속기 시장 공략을 위해 독일과 중국 완성차 업체들의 평가를 받기 시작했다고 밝혔습니다.",
       "category": "기업·산업",
-      "importance": 8,
+      "importance": 7,
       "market_impact": "긍정",
-      "related_sector": "전력기기, 에너지, IT서비스, 2차전지",
+      "related_sector": "차량용 반도체, AI 반도체, 자율주행",
       "related_stocks": [
-        "삼성SDS",
-        "삼성SDI",
-        "삼성전기"
+        "칩스앤미디어",
+        "넥스트칩"
       ],
       "investment_view": "관심",
-      "investment_reason": "삼성 그룹의 전력 및 AI 인프라 투자 확대는 관련 공급망 기업과 계열사들의 실적 개선 기대를 높이며, 새로운 성장 테마를 형성할 수 있습니다.",
-      "key_signal": "삼성 계열사들의 구체적인 전력 및 AI 인프라 투자 계획과 수혜가 예상되는 협력사들의 동향을 면밀히 파악해야 합니다.",
+      "investment_reason": "국내 기업이 미래 성장 동력인 차량용 AI 반도체 시장에서 해외 주요 완성차 업체와 협력 가능성을 높이고 있어 장기적인 성장 잠재력이 크기 때문입니다.",
+      "key_signal": "보스반도체의 독일·중국 완성차 업체와의 평가 진행 상황 및 향후 수주 소식을 통해 사업 확장 가능성을 확인해야 합니다.",
       "keywords": [
-        "AI 인프라",
-        "전력",
-        "삼성",
-        "데이터센터",
-        "2차전지"
+        "보스반도체",
+        "차량용 AI",
+        "AI 가속기",
+        "자율주행",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVVFlaVWRpVUpFU0lDWVJKM2lhUGFuaHU1d1RVTUlyMUJqampOcWhFdjJCUEdSemh5Y0IwRzExbmxTTHQ0Y0ZiU01tSktVREFmR3dHZUQzNW9yc3NVQ0lfOHVjbw?oc=5",
-      "published": "2026-08-14 19:33",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEw3ZnhqUjhPTFZKN0cwdjFtU3Z0RWxaWVpvdzFHNHBoSXNxbkxNeUlzM19oZjh6QnBFQ1RNa2l1NDdZbU1YdllUME5VUlBGbzl6N0FBaDZTSEwwcEVlOXE5V3d1b05ucXRJbWdXUzY1WkdNdDFsTUhDLXlueG1LRkFR0gGWAUFVX3lxTE9RWmVaX2h5d0RIWUFQRXVtUFlLZGZkOXgtbS1pTG5OUGcycHNuaGtMV3VIQ1ZiU2Z6MkZ5SHNLX2g5SWhpbnM3MVcyZmF1VlFJNWFuNmxrRTV2SXczNXlkYk9GR0p6TFViU2pUaEt2Y1pFYUk3VVBTUTFpVlV1YlAyVVYyT3pPSTdPLWpsOWZIVU0xU1NKZw?oc=5",
+      "published": "2026-08-16 06:05",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -280,67 +276,62 @@
       "rank": 1,
       "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "반도체, IT",
       "opinion": "관심",
-      "reason": "미국 기술주 하락 및 전반적인 시장 부진 우려에도 불구하고, AI 관련 반도체 수요와 장기적인 업황 회복 기대감을 동시에 가지고 있어 시장의 방향성을 가늠하는 핵심 종목으로 주목됩니다.",
+      "reason": "S&P 500 지수 사상 최고치 경신 소식과 함께 글로벌 증시 랠리의 주요 원동력으로 기술주 및 반도체 섹터가 부각되고 있습니다. 국내 대표 반도체 기업인 삼성전자는 이러한 긍정적 투자 심리의 수혜를 받을 가능성이 있습니다.",
       "check_points": [
-        "글로벌 기술주 반등 여부",
-        "AI 메모리 및 파운드리 사업 성장 가속화",
-        "전반적인 반도체 업황 회복 시그널"
+        "글로벌 반도체 업황 및 메모리 반도체 가격 동향",
+        "미국 연준의 통화정책 방향 및 시장 변동성"
       ],
       "related_news_titles": [
-        "미국 경제 지표 부진에 월스트리트 증시 최고치에서 하락",
-        "월스트리트 흔들림: 경제 우려 속 기술주 폭락"
+        "S&P 500 지수 2026년 8월 사상 최고치 경신: 랠리의 원동력은 무엇인가?",
+        "미국 소매 판매 예상치 상회, 연준 금리 인상 중단 가능성 강화"
       ]
     },
     {
       "rank": 2,
-      "name": "네이버",
+      "name": "삼성SDI",
       "market": "KOSPI",
-      "sector": "소프트웨어",
+      "sector": "배터리, 2차전지, ESS",
       "opinion": "관심",
-      "reason": "미국 금리 인상 기대감 약화는 성장주에 긍정적이나, 기술주 전반의 조정 압력도 함께 받아 방향성이 모호합니다. 본업의 실적 개선과 AI 신사업 모멘텀을 중심으로 긍정적 시그널을 주시할 필요가 있습니다.",
+      "reason": "차세대 AI 데이터센터와 ESS(에너지 저장 시스템) 시장의 폭발적인 성장이 배터리 산업에 강력한 신규 수요를 창출할 것으로 예상됩니다. 관련 국내 주요 기업인 삼성SDI는 이러한 성장 흐름 속에서 주목할 필요가 있습니다.",
       "check_points": [
-        "미국 연준 금리 정책 변화 추이",
-        "광고 및 커머스 등 본업 실적 성장세",
-        "새로운 AI 서비스의 시장 경쟁력"
+        "AI 데이터센터 및 ESS 시장 성장 속도와 투자 규모",
+        "글로벌 배터리 소재 및 셀 가격 변동 추이"
       ],
       "related_news_titles": [
-        "미국 경제 지표 약화로 연준 금리 인상 기대 약화되며 주식 시장 지지",
-        "월스트리트 흔들림: 경제 우려 속 기술주 폭락"
+        "[VC's Pick] 차세대 AI 데이터센터 및 ESS 기반 '배터리'에 집중되는 관심"
       ]
     },
     {
       "rank": 3,
-      "name": "현대차",
-      "market": "KOSPI",
-      "sector": "자동차",
-      "opinion": "주의",
-      "reason": "미국 소매 판매 감소에 따른 소비 둔화 우려와 원화 강세가 수출 기업의 채산성에 부정적인 영향을 미칠 수 있어 면밀한 실적 모니터링이 필요합니다.",
+      "name": "칩스앤미디어",
+      "market": "KOSDAQ",
+      "sector": "차량용 반도체, AI 반도체, 시스템반도체",
+      "opinion": "관심",
+      "reason": "국내 기업이 미래 성장 동력인 차량용 AI 가속기 시장에서 독일 및 중국 완성차 업체들과의 협력 가능성을 높이고 있어, 관련 IP 및 기술을 보유한 칩스앤미디어의 장기적인 성장 잠재력에 주목해야 합니다.",
       "check_points": [
-        "주요 시장(미국 등) 자동차 판매량",
-        "원/달러 환율 추이 및 손익 영향",
-        "글로벌 경기 침체 심화 여부"
+        "차량용 AI 반도체 시장의 확장 및 자율주행 기술 발전",
+        "주요 완성차 업체와의 계약 및 기술 평가 진행 상황"
       ],
       "related_news_titles": [
-        "오늘 주식시장: 미국 소매 판매 감소로 S&P 500 최고치에서 하락",
-        "'日정부 개입' 엔화보다 4배 더 올랐다…원화값 한 달 새 9.4% 상승 '상승률 1위'"
+        "[인터뷰] 차량용 AI 가속기 시장 진출하는 보스반도체, \"독일·중국 완성차 업체 평가 시작\""
       ]
     },
     {
       "rank": 4,
-      "name": "삼성SDI",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "2차전지",
+      "sector": "인터넷 플랫폼, IT, 성장주",
       "opinion": "관심",
-      "reason": "삼성 그룹이 AI 인프라 확대를 위한 '전력' 투자에 집중할 것이라는 소식은 2차전지 및 에너지 관련 계열사인 삼성SDI에 긍정적인 투자 모멘텀으로 작용할 수 있습니다.",
+      "reason": "S&P 500 지수 사상 최고치 경신 소식에서 글로벌 증시 랠리의 주요 원동력으로 기술주 및 성장주가 언급됨에 따라, 국내 대표 IT 플랫폼 기업인 네이버 또한 긍정적인 투자 심리의 수혜를 받을 수 있습니다.",
       "check_points": [
-        "삼성 그룹의 AI 및 전력 관련 투자 구체화",
-        "2차전지 시장 수요 회복 시점",
-        "ESS 등 신규 사업 확대 가능성"
+        "글로벌 기술주 동향 및 플랫폼 서비스 성장세",
+        "AI 기술 접목을 통한 신규 서비스 및 수익 모델 개발"
       ],
       "related_news_titles": [
-        "반도체 다음은 전력이다…삼성 SDS·SDI·전기 총출동 [삼성 AI 투자지도②]"
+        "S&P 500 지수 2026년 8월 사상 최고치 경신: 랠리의 원동력은 무엇인가?",
+        "미국 소매 판매 예상치 상회, 연준 금리 인상 중단 가능성 강화"
       ]
     }
   ],
