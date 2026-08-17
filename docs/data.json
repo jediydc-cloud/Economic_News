@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17 07:19",
-  "analysis_date": "2026-08-17",
+  "generated_at": "2026-08-18 07:23",
+  "analysis_date": "2026-08-18",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,95 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 증시는 엇갈린 신호 속 혼조세를 보였으며, 국내 경제는 경기 회복 기대와 함께 고물가 부담이 지속되는 복합적인 양상입니다.",
-    "국내거시경제": "수출 확대와 내수 개선으로 경기 회복세가 뚜렷하나, 높은 물가상승 압력과 청년층 고용 불안이 민생 부담으로 작용하며 경기 회복의 발목을 잡을 수 있다는 우려가 커지고 있습니다.",
-    "글로벌경제": "유가 하락과 인플레이션 완화 기대감이 있으나, 일부 미국 경제 지표 부진으로 글로벌 경기 둔화 우려가 상존합니다.",
-    "증시금리": "미국 증시는 유가 하락 및 인플레이션 완화 기대감으로 사상 최고치를 경신했음에도, 부진한 경제 지표 발표에 따른 하락세를 보이기도 하는 등 혼조세를 나타냈습니다. 경제 지표와 증시의 괴리 현상을 주시하며 시장의 방향성 판단이 요구됩니다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "글로벌 AI 산업용 레이저 시스템 시장 분석 보고서가 발표되어 AI와 레이저 기술이 결합된 첨단 산업 분야의 성장 잠재력과 주요 투자 기회를 조명했습니다.",
-    "오늘의투자시사점": "글로벌 증시의 혼조세와 국내 고물가 우려 속에서도 AI 등 첨단 산업의 성장성은 주목할 필요가 있습니다. 투자자들은 유가 및 인플레이션 지표를 주시하며, 국내 경기 회복과 물가 부담이라는 양면을 고려한 신중한 투자 전략이 필요합니다.",
-    "오늘의한줄": "글로벌 시장은 엇갈린 신호 속 혼조세를 보이며, 국내는 경기 회복 기대와 함께 고물가 부담이 지속되어 신중한 접근이 필요한 시점입니다."
+    "총평": "국내 경제는 가계부채와 부동산 PF 부실, 높은 전기료 문제로 불안정성이 커지는 가운데, 글로벌 반도체 산업은 강력한 호황을 이어가며 기회와 위험이 공존하는 하루였습니다.",
+    "국내거시경제": "2,200조 가계부채와 부동산 PF 부실이 1997년 외환 위기 재현 우려를 키우며 국내 경제의 시한폭탄으로 작용하고 있습니다. 전통 제조업과 내수 시장 침체가 심화되는 가운데, 높은 전기료는 핵심 산업의 경쟁력을 위협하고 있습니다.",
+    "글로벌경제": "AI, 전기차, 산업 자동화 수요에 힘입어 전력 및 메모리 반도체 산업의 강력한 호황이 지속되며 아시아 국가들의 경제 성장까지 견인하고 있습니다. 그러나 미국 증시는 소매 판매 실적 대기 속 하락하고 국채 금리가 상승하며 소비 둔화 및 금리 부담에 대한 우려가 제기됩니다.",
+    "증시금리": "미국 증시 하락과 국채 금리 상승은 글로벌 투자심리를 위축시키고 성장주에 부담을 줄 수 있어, 국내 증시에도 부정적 영향을 미칠 수 있으므로 전반적인 위험 관리에 유의해야 합니다.",
+    "부동산정책": "부동산 PF 부실 문제가 국내 경제의 주요 위험 요인으로 부각되고 있으나, 이에 대한 새로운 정책 변화나 발표는 언급되지 않았습니다.",
+    "기업산업": "울프스피드, ST마이크로, 온세미컨덕터 등 전력 반도체와 기가디바이스 등 메모리 반도체 기업들의 주가가 급등하며 글로벌 반도체 호황을 입증했습니다. 다만, 국내의 높은 전기료는 반도체 등 핵심 산업의 국내 경쟁력을 약화시키고 해외 이전을 유발할 수 있다는 지적이 나왔습니다.",
+    "오늘의투자시사점": "국내 가계부채 및 부동산 PF 부실에 따른 금융 시스템 불안정성에 대비하여 보수적인 투자 관점을 유지해야 합니다. 동시에 글로벌 반도체 산업의 강력한 성장세에 주목, 관련 국내 소재/부품/장비 및 주요 반도체 기업의 투자 기회를 탐색할 필요가 있습니다. 미국 금리 동향과 소비 둔화 가능성에 따른 성장주 변동성 확대에도 대비해야 합니다.",
+    "오늘의한줄": "국내 경제의 복합적 리스크 속에서도 글로벌 반도체 호황은 긍정적 신호이나, 미 금리 동향과 소비 둔화 우려를 주시하며 신중한 접근이 요구됩니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 하락과 인플레이션 완화로 미국 증시 사상 최고치 경신",
-      "display_title": "유가 하락과 인플레이션 완화로 미국 증시 사상 최고치 경신",
-      "original_title": "US stocks rise to a record as oil prices drop and inflation gets less bad - Scripps News",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "1997년 악몽 재현되나: 2,200조 가계부채와 부동산 PF 부실, 한국 경제의 시한폭탄",
+      "display_title": "1997년 악몽 재현되나: 2,200조 가계부채와 부동산 PF 부실, 한국 경제의 시한폭탄",
+      "original_title": "1997년의 악몽 재현되나 -> 대한민국 경제를 짓누르는 복합 위기의 진실 => 2,200조 가계부채와 부동산 PF 부실 > 한국 경제의 시한폭탄 되나 >> 반도체·일부 대기업 제외한 전통 제조업과 내수의 침몰 위기 - 데일리머니",
       "summary": [
-        "국제 유가 하락과 인플레이션 압력 완화 소식에 힘입어 미국 증시가 사상 최고치를 경신했습니다.",
-        "이는 기업 비용 부담 감소와 소비 심리 회복에 대한 기대를 높여 증시 전반에 긍정적인 영향을 미쳤습니다.",
-        "투자자들은 유가 및 인플레이션 지표의 지속적인 추이를 주시하며, 시장의 추가 상승 여력을 판단해야 합니다."
+        "한국 경제가 2,200조 원에 달하는 가계부채와 부동산 프로젝트 파이낸싱(PF) 부실로 인해 1997년 외환 위기 재현 우려에 직면했습니다.",
+        "반도체 및 일부 대기업을 제외한 전통 제조업과 내수 시장이 심각한 침체 위기를 겪고 있으며, 이는 전반적인 경제 성장에 큰 위협이 됩니다.",
+        "경기 침체와 금융 시스템 불안정은 한국 증시의 전반적인 투자심리에 부정적인 영향을 미치므로, 위험 관리에 각별히 유의해야 합니다."
       ],
-      "summary_text": "국제 유가 하락과 인플레이션 압력 완화 소식에 힘입어 미국 증시가 사상 최고치를 경신했습니다. 이는 기업 비용 부담 감소와 소비 심리 회복에 대한 기대를 높여 증시 전반에 긍정적인 영향을 미쳤습니다. 투자자들은 유가 및 인플레이션 지표의 지속적인 추이를 주시하며, 시장의 추가 상승 여력을 판단해야 합니다.",
-      "description": "유가가 하락하고 인플레이션 압력이 완화되면서 미국 증시가 사상 최고치를 경신했습니다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "에너지, 소비재, 항공",
+      "summary_text": "한국 경제가 2,200조 원에 달하는 가계부채와 부동산 프로젝트 파이낸싱(PF) 부실로 인해 1997년 외환 위기 재현 우려에 직면했습니다. 반도체 및 일부 대기업을 제외한 전통 제조업과 내수 시장이 심각한 침체 위기를 겪고 있으며, 이는 전반적인 경제 성장에 큰 위협이 됩니다. 경기 침체와 금융 시스템 불안정은 한국 증시의 전반적인 투자심리에 부정적인 영향을 미치므로, 위험 관리에 각별히 유의해야 합니다.",
+      "description": "대한민국 경제가 1997년 외환 위기와 유사한 복합 위기에 직면했으며, 2,200조 원의 가계부채와 부동산 PF 부실이 한국 경제의 시한폭탄이 될 수 있다는 경고입니다. 반도체 및 일부 대기업을 제외한 전통 제조업과 내수 시장의 침몰 위기도 언급되었습니다.",
+      "category": "국내 거시경제",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "건설",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "현대건설",
+        "DL이앤씨"
       ],
-      "investment_view": "관심",
-      "investment_reason": "유가 하락과 인플레이션 완화는 기업 실적 개선과 소비 심리 회복에 기여하여 증시 전반에 긍정적인 투자 환경을 조성합니다.",
-      "key_signal": "유가 변동성 및 주요 인플레이션 지표의 추이를 면밀히 모니터링하여 현재의 긍정적 흐름이 지속될지 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "가계부채와 부동산 PF 부실은 한국 경제의 시스템 리스크를 높여 증시 전반에 걸쳐 큰 변동성을 야기할 수 있으므로 매우 주의해야 합니다.",
+      "key_signal": "정부의 가계부채 및 부동산 PF 부실 대책과 한국은행의 통화 정책 방향을 면밀히 주시하며 위험 자산 비중을 조절해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "유가",
-        "인플레이션",
-        "사상 최고치",
-        "경기 회복"
+        "가계부채",
+        "부동산 PF",
+        "경제 위기",
+        "내수 침체",
+        "금융 불안정"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHMySTJ6WkpRcmNDdkNPcnVsa2dfc3ZTaWg5d1Myc0p5eWVURjYzZUMyRU10eHRIWjgzdzU3S0NTY0RFT3dMNXY5T3V1YmVZZXVvY0ZHRDBXS2tObDFaLWh1bl9fdDRmSUJNTEZ3SHlVclVsNjBDVTdseUxQWVp0Z0lKaGVRR2xsdlgzajJialhoRTNtb1RWQl9HSUVCQjh0LTFLOTdweExxZWxZeHBHYUdMZnk5VjVuZXc?oc=5",
-      "published": "2026-08-17 03:41",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44WjlIUTZsRU85dnM5S0JIalBma2dSSVJrMTFTdlFNV1NId2ItVDdTM2gwbDU5ZDFKcFh1MEh2aEVwNGJoc240bVQxUUpob0F4U2xxQUoteW15WjBIZlRCTXV5WFhXSTJwSS1SYWd2YzZrQQ?oc=5",
+      "published": "2026-08-17 14:45",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "최근 우리 경제동향: \"수출 확대·내수 개선으로 경기 회복 뚜렷하나, 물가상승 압력과 청년층 고용 불안 등 민생 부담 지속\"",
-      "display_title": "최근 우리 경제동향: \"수출 확대·내수 개선으로 경기 회복 뚜렷하나, 물가상승 압력과 청년층 고용 불안 등 민생 부담 지속\"",
-      "original_title": "최근 우리 경제동향 \"수출 확대·내수 개선으로 경기회복 뚜렷 반면 물가상승 압력 청년층 고용 불안 등 민생 부담 지속\" - 국민뉴스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "울프스피드, ST마이크로, 온세미컨덕터 등 전력 반도체 주식 급등",
+      "display_title": "울프스피드, ST마이크로, 온세미컨덕터 등 전력 반도체 주식 급등",
+      "original_title": "Power Semis Soar Monday: Wolfspeed, STMicro and On Semiconductor Rally on Vera Rubin Ramp Signals - 247wallst.com",
       "summary": [
-        "한국 경제가 수출 확대와 내수 개선에 힘입어 뚜렷한 경기 회복세를 보이고 있습니다.",
-        "그러나 높은 물가상승 압력과 청년층 고용 불안정은 지속되어 민생 경제에 부담으로 작용하고 있습니다.",
-        "투자자들은 경기 회복의 긍정적 요인과 물가 및 고용 불안정이라는 부정적 요인을 동시에 고려하여 투자 전략을 수립해야 합니다."
+        "울프스피드, ST마이크로, 온세미컨덕터 등 주요 전력 반도체 기업들의 주가가 '베라 루빈 램프' 관련 긍정적 신호로 급등했습니다.",
+        "이는 인공지능(AI), 전기차(EV), 산업 자동화 등 첨단 산업의 성장에 따라 전력 효율과 관리가 중요해지면서 전력 반도체 수요가 폭발적으로 증가하고 있음을 보여줍니다.",
+        "전력 반도체 시장의 강세는 한국의 관련 소재, 부품, 장비 기업들에게도 새로운 성장 동력을 제공할 수 있으며, 관련 기업에 대한 투자 기회를 탐색해야 합니다."
       ],
-      "summary_text": "한국 경제가 수출 확대와 내수 개선에 힘입어 뚜렷한 경기 회복세를 보이고 있습니다. 그러나 높은 물가상승 압력과 청년층 고용 불안정은 지속되어 민생 경제에 부담으로 작용하고 있습니다. 투자자들은 경기 회복의 긍정적 요인과 물가 및 고용 불안정이라는 부정적 요인을 동시에 고려하여 투자 전략을 수립해야 합니다.",
-      "description": "최근 한국 경제는 수출 확대와 내수 개선으로 경기 회복세가 뚜렷하게 나타나고 있지만, 물가상승 압력과 청년층 고용 불안정 등 민생 경제의 부담은 여전합니다.",
-      "category": "국내 거시경제",
+      "summary_text": "울프스피드, ST마이크로, 온세미컨덕터 등 주요 전력 반도체 기업들의 주가가 '베라 루빈 램프' 관련 긍정적 신호로 급등했습니다. 이는 인공지능(AI), 전기차(EV), 산업 자동화 등 첨단 산업의 성장에 따라 전력 효율과 관리가 중요해지면서 전력 반도체 수요가 폭발적으로 증가하고 있음을 보여줍니다. 전력 반도체 시장의 강세는 한국의 관련 소재, 부품, 장비 기업들에게도 새로운 성장 동력을 제공할 수 있으며, 관련 기업에 대한 투자 기회를 탐색해야 합니다.",
+      "description": "월요일 울프스피드(Wolfspeed), ST마이크로(STMicro), 온세미컨덕터(On Semiconductor) 등 전력 반도체 기업들의 주가가 베라 루빈(Vera Rubin) 램프 신호에 힘입어 급등했습니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "수출주, 소비재, 정책 관련주",
+      "market_impact": "긍정",
+      "related_sector": "전력 반도체",
       "related_stocks": [
-        "삼성전자",
-        "현대차",
-        "이마트"
+        "DB하이텍",
+        "LX세미콘",
+        "에스티아이"
       ],
       "investment_view": "관심",
-      "investment_reason": "한국 경제의 긍정적 회복 신호와 지속되는 민생 부담 요인을 동시에 파악하여 국내 증시 및 산업 전반에 대한 투자 판단을 내리는 데 중요한 정보입니다.",
-      "key_signal": "경기 회복세의 지속 가능성과 함께 물가 및 고용 지표의 변화를 면밀히 모니터링하여 정부 정책 방향과 시장의 반응을 예측해야 합니다.",
+      "investment_reason": "전력 반도체 시장의 강력한 성장은 AI, 전기차 등 미래 산업의 핵심 동력이며, 관련 한국 기업들의 장기적인 성장 가능성을 높입니다.",
+      "key_signal": "전력 반도체 기술 발전과 신규 수요처 확장을 주시하고, 국내 관련 기업들의 기술력과 시장 경쟁력을 평가해야 합니다.",
       "keywords": [
-        "한국 경제",
-        "경기 회복",
-        "수출",
-        "내수",
-        "물가 상승"
+        "전력 반도체",
+        "AI",
+        "전기차",
+        "울프스피드",
+        "온세미컨덕터"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ueEhscUY4emxnYlhxREl2Q3JzRVBUUmMtRkhuQ0FiZ3p3UzRvOUMyTm13ZFdhRXB5bDZQX0JFb3FtdGtjTG5Qc2N3?oc=5",
-      "published": "2026-08-17 00:03",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcTJBdkRnQjg3ZVpzSndYNXVybm5iRnZXcEN3eTRYZ2dDbHpDYzItQU9MdHhLZHZzMVd0UDA2QU51d2FIQkZJbldnUkFzNkZ6ckZkUGJBZ0RkRGtONnpsMmx0TG9mT1JHWURZY09aYjZtdTUtWEptckVLaGdJNjJRV1NadkNXRmpBcmNUSEtrcVRDZU84azlENzVRSzQ1OS02R0l6Y2Zrdi1Ka2lrVFBkUmpab1oxYnk1YkxhcnlFZFVVT193RTFXekp6OVdOMjRLRFJHbGln?oc=5",
+      "published": "2026-08-18 02:18",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +111,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 경제 지표 부진에 따라 월스트리트 하락, 호주 ASX도 하락 예상",
-      "display_title": "미국 경제 지표 부진에 따라 월스트리트 하락, 호주 ASX도 하락 예상",
-      "original_title": "ASX set to slide, Wall Street slips after weak update on the US economy - SMH.com.au",
+      "title": "기가디바이스 주가, 메모리 칩 호황에 실적 발표 앞두고 6.35% 급등",
+      "display_title": "기가디바이스 주가, 메모리 칩 호황에 실적 발표 앞두고 6.35% 급등",
+      "original_title": "GigaDevice Shares Surge 6.35% to 444 Yuan as Memory Chip Boom Lifts Sentiment Ahead of Results - International Business Times Australia",
       "summary": [
-        "최근 발표된 부진한 미국 경제 지표로 인해 월스트리트 증시가 하락 마감했습니다.",
-        "이는 글로벌 금융 시장에 영향을 미쳐 호주 ASX 증시 또한 하락세를 보일 것으로 전망됩니다.",
-        "글로벌 경제 둔화 우려가 확산될 수 있으므로, 투자자들은 주요국 증시의 동향을 면밀히 관찰해야 합니다."
+        "중국 메모리 칩 제조업체 기가디바이스(GigaDevice)의 주가가 메모리 칩 호황에 힘입어 실적 발표를 앞두고 6.35% 급등했습니다.",
+        "이는 전 세계적인 메모리 반도체 수요 증가와 긍정적인 산업 전망을 반영하며, 투자 심리가 개선되었음을 시사합니다.",
+        "글로벌 메모리 칩 시장의 강세는 한국의 삼성전자, SK하이닉스 등 주요 반도체 기업들에게도 긍정적인 신호로 해석될 수 있습니다."
       ],
-      "summary_text": "최근 발표된 부진한 미국 경제 지표로 인해 월스트리트 증시가 하락 마감했습니다. 이는 글로벌 금융 시장에 영향을 미쳐 호주 ASX 증시 또한 하락세를 보일 것으로 전망됩니다. 글로벌 경제 둔화 우려가 확산될 수 있으므로, 투자자들은 주요국 증시의 동향을 면밀히 관찰해야 합니다.",
-      "description": "미국 경제 지표가 부진하게 발표된 후 월스트리트 증시가 하락했으며, 호주 ASX 증시도 하락할 것으로 예상됩니다.",
-      "category": "증시·금리",
+      "summary_text": "중국 메모리 칩 제조업체 기가디바이스(GigaDevice)의 주가가 메모리 칩 호황에 힘입어 실적 발표를 앞두고 6.35% 급등했습니다. 이는 전 세계적인 메모리 반도체 수요 증가와 긍정적인 산업 전망을 반영하며, 투자 심리가 개선되었음을 시사합니다. 글로벌 메모리 칩 시장의 강세는 한국의 삼성전자, SK하이닉스 등 주요 반도체 기업들에게도 긍정적인 신호로 해석될 수 있습니다.",
+      "description": "메모리 칩 호황으로 투자 심리가 고조되면서 기가디바이스 주가가 실적 발표를 앞두고 6.35% 급등하여 444위안을 기록했습니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "글로벌 증시, 투자",
+      "market_impact": "긍정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 경제 지표의 부진이 글로벌 증시 전반에 부정적인 영향을 미치고 있어 투자 포트폴리오의 방어적인 접근이 필요합니다.",
-      "key_signal": "글로벌 증시의 추가적인 하락 여부와 미국 경제 지표에 대한 투자자들의 심리 변화를 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "글로벌 메모리 반도체 시장의 긍정적인 흐름은 한국의 주요 반도체 기업들의 실적 개선 기대로 이어질 수 있습니다.",
+      "key_signal": "메모리 반도체 업황 개선 지속 여부와 주요 반도체 기업들의 향후 실적 전망에 주목해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "글로벌 증시",
-        "경제 지표",
-        "시장 하락",
-        "투자 주의"
+        "메모리 반도체",
+        "기가디바이스",
+        "반도체 호황",
+        "실적 개선",
+        "글로벌 반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXRLc1NqQl9DcVN4ZjNnRGl0UE9nb2FtcTE0anhYT3JBQkJ0eUlFM0liaFotQ3NOWDU0cG5ONExaSXk5RXRVX2VCRnVzbUQzb0tLc0NmMk0wLWJXc3dadVVhWnV3Mnh1MHctdEFDVlJxd3M0T2Y1UHh4bHEtZXhrSUx1Q1J5anFRcC13WkN0dm1YT3lZWWF3clpJcGVzdHhaOGV6N29KZ0JfWmRKbzE0Wi1udVp3M0tXcWdGVXk4Y3FxajNNWDVmNEJXMA?oc=5",
-      "published": "2026-08-17 04:22",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFFBSXozNXN2eHlTQjlwMHI1bzREbmVrc0NKemtsbTVmd2pZUmUwUjZWVmMwTXBBQjZGT24ya2xzRE1FaDVRT3l3VEd4eDVpZy0tNTFmSndLV3hqdG9TMUYyejRKRGhjTTNJZlZvZWJ4dWZRLU5oQ3BWaE1oZVNzbTNNYWo5ZHp4dThKRVphRC1nWkhyeXc?oc=5",
+      "published": "2026-08-18 01:33",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -151,39 +149,39 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "글로벌 AI 산업용 레이저 시스템 시장 상위 15개 기업 분석 - Spherical Insights",
-      "display_title": "글로벌 AI 산업용 레이저 시스템 시장 상위 15개 기업 분석 - Spherical Insights",
-      "original_title": "Global AI Industrial Laser Systems 시장 상위 15개 기업 - Spherical Insights",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "소매 판매 실적 대기 속 미국 증시 하락 및 국채 금리 상승",
+      "display_title": "소매 판매 실적 대기 속 미국 증시 하락 및 국채 금리 상승",
+      "original_title": "Stock Market Today, Aug. 17: Markets Inch Lower and Treasury Yields Rise as Investors Wait for Retail Earnings - The Globe and Mail",
       "summary": [
-        "글로벌 AI 산업용 레이저 시스템 시장에서 선두를 달리는 상위 15개 기업에 대한 분석 보고서가 발표되었습니다.",
-        "이는 AI와 레이저 기술이 결합된 첨단 산업 분야의 성장 잠재력과 주요 플레이어들을 조명합니다.",
-        "관련 기술 및 제품을 개발하는 기업들에 대한 투자 기회를 탐색할 수 있으며, 산업 동향을 파악하는 데 중요한 자료가 될 수 있습니다."
+        "8월 17일 미국 증시가 소폭 하락하고 국채 금리가 상승했으며, 투자자들은 소매 기업들의 실적 발표를 주시하고 있습니다.",
+        "소매 판매 실적은 미국 소비 경제의 건전성을 가늠하는 중요한 지표로, 연준의 통화 정책 결정에 영향을 미칠 수 있습니다.",
+        "금리 상승은 성장주에 부담을 줄 수 있으며, 한국 시장에도 글로벌 투자심리 위축으로 이어질 수 있으므로 관련 동향을 주시해야 합니다."
       ],
-      "summary_text": "글로벌 AI 산업용 레이저 시스템 시장에서 선두를 달리는 상위 15개 기업에 대한 분석 보고서가 발표되었습니다. 이는 AI와 레이저 기술이 결합된 첨단 산업 분야의 성장 잠재력과 주요 플레이어들을 조명합니다. 관련 기술 및 제품을 개발하는 기업들에 대한 투자 기회를 탐색할 수 있으며, 산업 동향을 파악하는 데 중요한 자료가 될 수 있습니다.",
-      "description": "글로벌 AI 산업용 레이저 시스템 시장에서 경쟁력을 가진 상위 15개 기업에 대한 분석 보고서입니다.",
-      "category": "기업·산업",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "산업 자동화, AI, 레이저 기술",
+      "summary_text": "8월 17일 미국 증시가 소폭 하락하고 국채 금리가 상승했으며, 투자자들은 소매 기업들의 실적 발표를 주시하고 있습니다. 소매 판매 실적은 미국 소비 경제의 건전성을 가늠하는 중요한 지표로, 연준의 통화 정책 결정에 영향을 미칠 수 있습니다. 금리 상승은 성장주에 부담을 줄 수 있으며, 한국 시장에도 글로벌 투자심리 위축으로 이어질 수 있으므로 관련 동향을 주시해야 합니다.",
+      "description": "8월 17일 오늘 주식 시장: 소매 기업 실적 발표를 기다리는 투자자들로 인해 시장은 소폭 하락하고 국채 수익률은 상승했습니다.",
+      "category": "증시·금리",
+      "importance": 7,
+      "market_impact": "부정",
+      "related_sector": "유통",
       "related_stocks": [
-        "이오테크닉스",
-        "한화에어로스페이스"
+        "이마트",
+        "롯데쇼핑"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 산업용 레이저 시스템 시장은 미래 성장 동력이 높은 분야로, 관련 기술을 보유한 기업에 대한 투자 기회를 모색할 수 있습니다.",
-      "key_signal": "보고서에 언급된 상위 기업들의 기술력과 시장 점유율을 통해 이 산업의 성장 궤적을 예측하고, 국내 관련 기업의 경쟁력을 비교해 봐야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 국채 금리 상승은 한국 증시의 전반적인 투자심리에 부정적인 영향을 미치며, 특히 성장주에 대한 압박으로 작용할 수 있습니다.",
+      "key_signal": "오늘 발표될 미국 소매 기업 실적 및 국채 금리 변동 추이를 확인하여 투자 전략에 반영해야 합니다.",
       "keywords": [
-        "AI",
-        "산업용 레이저",
-        "첨단 기술",
-        "성장 산업",
-        "산업 자동화"
+        "미국 증시",
+        "국채 금리",
+        "소매 실적",
+        "성장주",
+        "금리 인상"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmRYaFk0TWFNMGg5blhNUlBZZEJXN3NQNmJnQnVJYmJiOWVYbVV0c2Y5SHptRl9PbW05UjVTZkExeWp5RldPN0xhTlBLTy1MbGd0MjJaVG1RMHVBQ25namJTNVd3RDZESVNvejlwY2ZxMVBhb2JTaFF0VnJmOElyREpwUUh4VGJGSUo3WS1PUThVaW1rYVlrb2k1Y0hnTWFzUXpPdnBpY0dpbVlMOHBiRjhiYlpqOWRMMjVuMUh5S2xsRl9IUUdyYm9NeXI?oc=5",
-      "published": "2026-08-17 04:43",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPQ2xHdmgyZUFtS2hEaTJSMWN0VDhHNDNuYktkWEduTVFZQU1rQ2hIVV9DcWtRSFQxdG90XzltLVBnWTItbUNqR3Q3TjNlb3FIWW95Y0E0ZnNlRFZhUm9JOE5GbERoTDhwUW9xX19PcEsxYWFSSFpkWFJCMDZOLWRITUNaeG52S1d3VWlRUEFoMVJiTW05bDFqN0h5U2ZLWkZETi0zU0ZycnA4SDV5MlBUNHpBakxBRlVfVTlDRmg2YnNuNV9VX0lvSjEzYldmRVR0ajJDVnZtcHl4bERmRFR4djNya0FHRUNWRVhxZTFTU3VhcDFxeDZUcDIzc2FJaDkyRW5RakxkN0lBMFRmNnd1MDFfWDlZbi1mc3h1QzVn?oc=5",
+      "published": "2026-08-18 06:30",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -195,37 +193,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 경제 지표 부진에도 불구하고 월스트리트 증시는 사상 최고치 근접 유지",
-      "display_title": "미국 경제 지표 부진에도 불구하고 월스트리트 증시는 사상 최고치 근접 유지",
-      "original_title": "Wall Street holds near its record following the latest weak update on the US economy - ABC News - Breaking News, Latest News and Videos",
+      "title": "칩 호황, 베트남·필리핀을 '고소득' 국가 지위로 이끈다",
+      "display_title": "칩 호황, 베트남·필리핀을 '고소득' 국가 지위로 이끈다",
+      "original_title": "Chip boom pushes Vietnam, Philippines closer to 'high-income' status - Nikkei Asia",
       "summary": [
-        "미국 경제 지표가 부진하게 발표되었음에도 불구하고 뉴욕 증시는 사상 최고치 수준을 유지하고 있습니다.",
-        "이는 시장이 단기적인 경제 지표보다는 기업 실적이나 향후 정책 기대감 등 다른 요인에 더 주목하고 있음을 시사합니다.",
-        "투자자들은 경제 지표와 증시의 괴리 현상을 주시하며 시장의 방향성을 신중하게 판단해야 합니다."
+        "글로벌 반도체 산업의 지속적인 호황이 베트남과 필리핀 등 동남아시아 국가들의 경제 성장을 견인하며 '고소득' 국가로의 전환을 가속화하고 있습니다.",
+        "이는 반도체 공급망 전반의 활황을 보여주며, 한국의 반도체 산업 역시 이러한 흐황의 직접적인 수혜를 입고 있음을 방증합니다.",
+        "아시아 지역의 반도체 관련 산업 성장과 고도화는 한국의 반도체 장비 및 소재 기업들에게도 새로운 기회를 제공할 수 있습니다."
       ],
-      "summary_text": "미국 경제 지표가 부진하게 발표되었음에도 불구하고 뉴욕 증시는 사상 최고치 수준을 유지하고 있습니다. 이는 시장이 단기적인 경제 지표보다는 기업 실적이나 향후 정책 기대감 등 다른 요인에 더 주목하고 있음을 시사합니다. 투자자들은 경제 지표와 증시의 괴리 현상을 주시하며 시장의 방향성을 신중하게 판단해야 합니다.",
-      "description": "최근 미국 경제 지표가 부진하게 발표되었음에도 불구하고 월스트리트 증시는 사상 최고치 수준을 유지하고 있습니다.",
-      "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "글로벌 증시, 투자",
+      "summary_text": "글로벌 반도체 산업의 지속적인 호황이 베트남과 필리핀 등 동남아시아 국가들의 경제 성장을 견인하며 '고소득' 국가로의 전환을 가속화하고 있습니다. 이는 반도체 공급망 전반의 활황을 보여주며, 한국의 반도체 산업 역시 이러한 흐황의 직접적인 수혜를 입고 있음을 방증합니다. 아시아 지역의 반도체 관련 산업 성장과 고도화는 한국의 반도체 장비 및 소재 기업들에게도 새로운 기회를 제공할 수 있습니다.",
+      "description": "반도체(칩) 산업의 호황이 베트남과 필리핀을 고소득 국가 지위에 더 가까이 밀어붙이고 있습니다.",
+      "category": "기업·산업",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 경제 지표와 증시 간의 괴리가 시장의 불확실성을 높일 수 있어 투자 결정 시 신중한 접근이 필요합니다.",
-      "key_signal": "미국 경제 지표의 추가 발표와 시장 반응을 통해 현재의 괴리 현상이 어떻게 해소되는지 지켜봐야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "글로벌 칩 호황의 지속은 한국 반도체 기업들의 실적과 성장 전망에 긍정적인 영향을 미치므로 계속 주목해야 합니다.",
+      "key_signal": "동남아시아 지역으로의 반도체 생산 기지 확대 및 기술 협력 동향을 통해 한국 기업들의 새로운 사업 기회를 모색해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "경제 지표",
-        "월스트리트",
-        "시장 동향",
-        "투자 주의"
+        "반도체 호황",
+        "베트남",
+        "필리핀",
+        "고소득 국가",
+        "반도체 공급망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkZYNUUtX1NpdFlFSTk4UUxzUGR4dzdKVkZzV3doMkJRZkxoZWQ0a1NQTmpkZU4xTnZjOTFudEFENmlxZ3gtaE5BQjh0R2tWX3RBREtwWmhLejFzOC1pYzJNc1VlNnlNSUZuRTBLVHB3b0cxeHQ1Q0l6VG5WODVsLXRPeHQtVGY5dndEY1FDXzdvb3ZpUlA1ejh30gGfAUFVX3lxTE9nMGdJbkF2bEpLXzU5WnZHRjZ4SkxSSi1URXliVGpOdk05YzRxQ2sxNXVzbHVqZzVjOUZqc0p2SGd0aDhOYXR5NmdoUmQtRXhlQWJ6elFybF9kcmVoQ0x2bl9CdG5aQUtGVmw3SnEtRDBoLTVLRGxFbE9DT1hmR2JZTkktcEZWaWRZOVpidXFYeVljYXJPWU1rTzNsQlVqNA?oc=5",
-      "published": "2026-08-17 04:17",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0RQY0tCZHVwOWJQRTUtS1c0azNTVW9mQmVRTTJEbGJGTVFGa2pvUm9ETHd0ZF8xZ1o1eFZzX0x2RlVQaVlZa0Rzbi1nMTdYWG9nUFp5WkRlb3JaSWYwTFpoclV2UkFzYjFwRUpkNEV4dmpBdUtLSGdKTGVjQVJGczd5YWNRNUZxdnVZb21NWmZHT2tJUlJFUy00Z3ZfZXc?oc=5",
+      "published": "2026-08-18 06:52",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -237,33 +235,35 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "물가상승률 고착화, 경기 회복의 발목을 잡을 우려 증대",
-      "display_title": "물가상승률 고착화, 경기 회복의 발목을 잡을 우려 증대",
-      "original_title": "물가상승률 고착화, 경기 회복의 발목 잡을 우려 드러나 - M이코노미뉴스",
+      "title": "전기료 비싸면 공장은 떠난다: AI·반도체 시대, 핵심은 발전량이 아니라 ROI",
+      "display_title": "전기료 비싸면 공장은 떠난다: AI·반도체 시대, 핵심은 발전량이 아니라 ROI",
+      "original_title": "[독립신문 칼럼] 전기 비싸면 공장은 떠난다…AI·반도체 시대, 핵심은 발전량이 아니라 ‘ROI’다 - ainews1.co.kr",
       "summary": [
-        "한국의 물가상승률이 고착화될 조짐을 보이며, 이는 국내 경기 회복에 심각한 걸림돌이 될 수 있다는 우려가 제기되었습니다.",
-        "지속적인 고물가는 소비 심리를 위축시키고 기업의 생산 비용을 증가시켜 전반적인 경제 활력을 저해할 수 있습니다.",
-        "투자자들은 물가 지표의 추이를 면밀히 주시하고, 물가 방어력이 있는 자산이나 인플레이션 수혜 섹터에 대한 관심을 고려해야 합니다."
+        "칼럼에 따르면 높은 전기료는 공장의 해외 이전을 유발할 수 있으며, AI 및 반도체 시대에는 단순히 발전량 증대가 아닌 전력 투자수익률(ROI)이 중요하다고 지적합니다.",
+        "이는 한국의 핵심 산업인 반도체와 AI 산업의 경쟁력 유지를 위해 안정적이고 경제적인 전력 공급이 필수적임을 강조하는 것입니다.",
+        "고비용 전력 구조는 국내 기업들의 생산 비용을 높여 글로벌 경쟁력을 약화시키고, 장기적으로는 산업 공동화로 이어질 수 있어 정부의 정책 방향에 주목해야 합니다."
       ],
-      "summary_text": "한국의 물가상승률이 고착화될 조짐을 보이며, 이는 국내 경기 회복에 심각한 걸림돌이 될 수 있다는 우려가 제기되었습니다. 지속적인 고물가는 소비 심리를 위축시키고 기업의 생산 비용을 증가시켜 전반적인 경제 활력을 저해할 수 있습니다. 투자자들은 물가 지표의 추이를 면밀히 주시하고, 물가 방어력이 있는 자산이나 인플레이션 수혜 섹터에 대한 관심을 고려해야 합니다.",
-      "description": "높은 물가상승률이 고착화될 조짐을 보이며, 이는 향후 경기 회복에 부정적인 영향을 미칠 수 있다는 우려가 커지고 있습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "칼럼에 따르면 높은 전기료는 공장의 해외 이전을 유발할 수 있으며, AI 및 반도체 시대에는 단순히 발전량 증대가 아닌 전력 투자수익률(ROI)이 중요하다고 지적합니다. 이는 한국의 핵심 산업인 반도체와 AI 산업의 경쟁력 유지를 위해 안정적이고 경제적인 전력 공급이 필수적임을 강조하는 것입니다. 고비용 전력 구조는 국내 기업들의 생산 비용을 높여 글로벌 경쟁력을 약화시키고, 장기적으로는 산업 공동화로 이어질 수 있어 정부의 정책 방향에 주목해야 합니다.",
+      "description": "[독립신문 칼럼] 높은 전기료가 공장 이전을 야기할 수 있으며, AI 및 반도체 시대에는 발전량보다 투자수익률(ROI)이 핵심이라는 분석입니다.",
+      "category": "기업·산업",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "유통, 소비재, 금리 민감주",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "물가상승률 고착화는 한국 경제의 전반적인 성장 동력을 약화시키고 금리 인상 압력을 높여 투자 환경에 부정적인 영향을 줄 수 있습니다.",
-      "key_signal": "정부의 물가 안정화 정책의 효과와 소비자물가지수(CPI)의 월별 변화를 주의 깊게 살펴봐야 합니다.",
-      "keywords": [
-        "물가 상승",
-        "인플레이션",
-        "경기 회복",
-        "국내 경제",
-        "통화 정책"
+      "related_sector": "전력",
+      "related_stocks": [
+        "한국전력"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85eUFWX21MTmpTb2ItV2ltejlsazVwWHhrOE1RbDhBb1p5RGdvS01zb1U0ZXFWM0p4TElmbjFBMHd0WWZkRlhwd3FOQmgzUU1qTWFFTG1PaTdSTkhxcGE5eDUwa3hRN3M?oc=5",
-      "published": "2026-08-16 21:52",
+      "investment_view": "주의",
+      "investment_reason": "전기료 문제는 한국 주요 산업의 경쟁력 및 기업 실적에 장기적인 영향을 미칠 수 있는 중요한 요소이므로, 정책 변화와 그 영향을 주시해야 합니다.",
+      "key_signal": "정부의 에너지 정책 방향, 전기료 인상 여부 및 기업들의 전력 효율화 투자 동향을 면밀히 살펴야 합니다.",
+      "keywords": [
+        "전기료",
+        "AI 산업",
+        "반도체 산업",
+        "ROI",
+        "생산 비용"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CSnRHb3IyVHNhSFpQcTFGbklXSDd4RVE2Rk1KbEZMalprUmVsUzlXN0tORGhaNFlYT2NjMEZmQl82YlNQT0JrQld0Q2hiT0xzaTVNclZTZmRDa3lmVFRKbXE5T3ZFZmtBOEQ0?oc=5",
+      "published": "2026-08-17 23:34",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -274,66 +274,67 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "최근 국내 경제동향에서 수출 확대가 경기 회복을 견인하는 주요 요인으로 언급된 가운데, 삼성전자는 대한민국의 대표적인 수출 기업으로서 반도체 및 IT 제품 수출을 통해 긍정적인 영향을 받을 수 있습니다.",
+      "reason": "글로벌 메모리 반도체 시장의 긍정적인 흐름과 전반적인 칩 호황이 SK하이닉스의 실적 개선 기대감을 높입니다.",
       "check_points": [
-        "글로벌 반도체 업황 및 IT 수요 동향",
-        "환율 변동성",
-        "주요 경쟁사와의 기술 및 시장 점유율 변화"
+        "글로벌 메모리 가격 동향",
+        "주요 고객사 재고 수준",
+        "미국 국채 금리 변화가 전반적인 투자 심리에 미치는 영향"
       ],
       "related_news_titles": [
-        "최근 우리 경제동향: \"수출 확대·내수 개선으로 경기 회복 뚜렷하나, 물가상승 압력과 청년층 고용 불안 등 민생 부담 지속\""
+        "기가디바이스 주가, 메모리 칩 호황에 실적 발표 앞두고 6.35% 급등",
+        "칩 호황, 베트남·필리핀을 '고소득' 국가 지위로 이끈다"
       ]
     },
     {
       "rank": 2,
-      "name": "한국전력",
+      "name": "DB하이텍",
       "market": "KOSPI",
-      "sector": "전기가스업",
+      "sector": "전력 반도체",
       "opinion": "관심",
-      "reason": "유가 하락과 인플레이션 완화 소식은 발전 연료비 부담을 줄여 한국전력의 실적 개선에 긍정적인 영향을 미칠 수 있습니다.",
+      "reason": "AI, 전기차 등 미래 산업의 핵심 동력인 전력 반도체 시장의 강력한 성장이 DB하이텍의 파운드리 사업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
       "check_points": [
-        "글로벌 에너지 가격(유가, LNG 등) 추이",
-        "정부의 전기 요금 정책 및 인상 가능성",
-        "환율 변동성"
+        "전력 반도체 수요 증가 추이",
+        "파운드리 가동률 및 단가 변화",
+        "경쟁사의 시장 진입 및 투자 동향"
       ],
       "related_news_titles": [
-        "유가 하락과 인플레이션 완화로 미국 증시 사상 최고치 경신"
+        "울프스피드, ST마이크로, 온세미컨덕터 등 전력 반도체 주식 급등"
       ]
     },
     {
       "rank": 3,
-      "name": "이오테크닉스",
+      "name": "한미반도체",
       "market": "KOSPI",
       "sector": "반도체 장비",
       "opinion": "관심",
-      "reason": "글로벌 AI 산업용 레이저 시스템 시장의 성장은 관련 기술을 보유한 이오테크닉스에 새로운 성장 동력을 제공하며, AI 및 산업 자동화 분야의 수요 증가에 따른 수혜가 기대됩니다.",
+      "reason": "글로벌 칩 호황의 지속은 반도체 제조사의 CAPEX 확대로 이어져, 필수적인 반도체 장비 공급 기업인 한미반도체의 수혜가 기대됩니다.",
       "check_points": [
-        "글로벌 AI 산업의 투자 확대 및 기술 발전 속도",
-        "신규 수주 및 해외 시장 확장 동향",
-        "경쟁사의 기술 개발 및 시장 진입"
+        "주요 고객사의 설비 투자 계획",
+        "고대역폭 메모리(HBM) 관련 장비 수주 현황",
+        "글로벌 반도체 설비투자 동향"
       ],
       "related_news_titles": [
-        "글로벌 AI 산업용 레이저 시스템 시장 상위 15개 기업 분석 - Spherical Insights"
+        "칩 호황, 베트남·필리핀을 '고소득' 국가 지위로 이끈다"
       ]
     },
     {
       "rank": 4,
-      "name": "현대차",
+      "name": "LX세미콘",
       "market": "KOSPI",
-      "sector": "자동차",
+      "sector": "시스템 반도체",
       "opinion": "관심",
-      "reason": "국내 경제동향에서 수출 확대가 경기 회복의 주요 동력으로 지목된 가운데, 현대차는 해외 시장에서의 판매 호조와 신차 출시 등을 통해 수출 실적을 견인하며 긍정적인 투자 모멘텀을 형성할 수 있습니다.",
+      "reason": "전력 반도체 시장 성장의 직접적인 수혜가 예상되는 팹리스 기업으로, AI, 전기차 등 신성장 분야로의 사업 확장이 기대됩니다.",
       "check_points": [
-        "글로벌 자동차 시장 수요 및 경쟁 상황",
-        "주요 시장(북미, 유럽 등)의 판매 실적",
-        "전기차 및 자율주행 기술 개발 동향"
+        "비디스플레이 사업부의 성장률 및 포트폴리오 다각화",
+        "신규 전력 반도체 제품 개발 및 상용화 현황",
+        "전방 산업 수요 변화"
       ],
       "related_news_titles": [
-        "최근 우리 경제동향: \"수출 확대·내수 개선으로 경기 회복 뚜렷하나, 물가상승 압력과 청년층 고용 불안 등 민생 부담 지속\""
+        "울프스피드, ST마이크로, 온세미컨덕터 등 전력 반도체 주식 급등"
       ]
     }
   ],
