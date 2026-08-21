@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21 07:27",
-  "analysis_date": "2026-08-21",
+  "generated_at": "2026-08-22 07:24",
+  "analysis_date": "2026-08-22",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 금리 동향에 대한 기대와 우려가 교차하는 가운데, 글로벌 증시는 혼조세를 보였고 국내 증시의 안도 랠리 지속 여부에 관심이 집중된다. 특히 기술 섹터의 차별화된 움직임에 주목할 필요가 있다.",
-    "국내거시경제": "미국 금리 압박 완화 기대감이 국내 증시의 안도 랠리 지속 가능성을 높이며 긍정적인 투자 심리를 형성하고 있다.",
-    "글로벌경제": "연준의 추가 금리 인상 시사에도 미 증시와 달러가 강세를 보이며 경기 침체 우려가 공존한다. 연준 의사록, 주요 기업 실적, 미국 부채 규모가 시장의 주요 불확실성 요인이다.",
-    "증시금리": "미국 증시는 국채 수익률 하락에 힘입어 급등세를 보이기도 했으나, 전반적으로는 혼조세를 나타냈다. 특히 다우 및 나스닥 하락 속에서도 메모리, 광통신 관련주는 강세를 보였다.",
-    "부동산정책": "해당 없음.",
-    "기업산업": "글로벌 증시 하락세 속 반도체(메모리) 섹터의 개별 종목 강세는 국내 관련주에 긍정적 신호다. 또한 중국 수출의 AI 중심 진화에 대응하여 국내 AI R&D 및 투자 속도 강화가 요구된다.",
-    "오늘의투자시사점": "복합적인 거시 경제 지표와 기업 실적을 종합적으로 판단하며, 금리 인하 기대감 형성 시 성장주 및 기술주 중심으로, 특히 AI 및 반도체 섹터의 투자 기회를 모색하라.",
-    "오늘의한줄": "긴축 우려와 안도감 공존 속, 기술주 및 AI 섹터의 차별적 움직임에 주목하며 신중한 투자 전략이 필요한 시점이다."
+    "총평": "국내 경제 성장률 상향 조정은 긍정적이나, 미국 금리 불확실성, 채권 시장의 경고 신호, 중동 지정학적 리스크 등 글로벌 증시의 변동성을 키우는 요인들이 복합적으로 작용하고 있습니다. 주요 기업 실적 발표와 거시경제 지표에 대한 면밀한 주시가 필요한 시점입니다.",
+    "국내거시경제": "한국개발연구원(KDI)이 올해 한국 경제 성장률 전망치를 기존 2.5%에서 3.2%로 크게 상향 조정하며 국내 경제 회복세에 대한 긍정적인 신호를 보냈습니다.",
+    "글로벌경제": "미국 증시는 채권 금리 상승과 중동 정세 불확실성으로 변동성에 직면했으나, 전일 주요 지수는 상승 마감했습니다. 한편, 채권 시장에서는 20년 만에 두 번밖에 없었던 희귀한 경고 신호가 감지되어 주식 시장의 조정 가능성에 대한 우려가 커지고 있습니다.",
+    "증시금리": "지난주 코스피는 미국 금리 인상 이슈로 변동성을 보였으며, 이번 주 엔비디아 실적 발표가 국내 반도체 및 AI 관련주를 포함한 전체 증시의 향방을 결정할 주요 분수령이 될 것입니다. 채권 시장의 경고 신호는 글로벌 주식 시장 전반의 리스크 관리 필요성을 높이고 있습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "삼성SDI가 디스플레이 사업부 매각을 통해 32억 달러를 확보하고, 이를 AI 배터리 개발 및 생산에 투자하며 AI 배터리 사업을 강화하는 전략적 움직임을 보였습니다.",
+    "오늘의투자시사점": "미국 금리 불확실성 및 채권 시장의 경고 신호로 인한 시장 변동성 확대에 대비하고, 다가오는 엔비디아 실적 발표 결과에 따라 국내 반도체 및 AI 관련주들의 흐름을 면밀히 주시하며 리스크 관리에 집중하는 것이 중요합니다.",
+    "오늘의한줄": "국내 경제의 긍정적 흐름 속에서도 글로벌 거시경제 변동성과 주요 기업 실적에 따른 시장의 방향성에 주목하며 신중한 접근이 필요한 시기입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준의 추가 금리 인상 시사에도 S&P500, 나스닥 100, 미 달러 강세, 경기침체 우려 지속",
-      "display_title": "연준의 추가 금리 인상 시사에도 S&P500, 나스닥 100, 미 달러 강세, 경기침체 우려 지속",
-      "original_title": "S&P500, Nasdaq 100, and the US Dollar gained as the Fed signalled more rate hikes, indicating the market still fears a worldwide recession - VT Markets",
+      "title": "삼성SDI, 디스플레이 사업부 매각으로 32억 달러 확보하여 AI 배터리 사업 강화",
+      "display_title": "삼성SDI, 디스플레이 사업부 매각으로 32억 달러 확보하여 AI 배터리 사업 강화",
+      "original_title": "Samsung SDI Raises $3.2B From Display Sale to Power AI Battery Ambitions - Tech Times",
       "summary": [
-        "연준의 추가 금리 인상 시사에도 S&P500, 나스닥 100, 미 달러가 상승하며 시장의 경기침체 우려가 지속되고 있다.",
-        "금리 인상에도 불구하고 시장이 상승한 것은 경기침체 시 안전자산 선호 심리가 반영된 것으로 해석될 수 있다.",
-        "미국 금리 인상 기조와 경기침체 우려가 공존하는 상황에서 시장의 방향성을 신중하게 판단해야 한다."
+        "삼성SDI가 디스플레이 사업부를 매각하여 32억 달러를 조달하고, 이를 AI 배터리 개발 및 생산에 투자할 계획입니다.",
+        "삼성SDI는 미래 성장 동력으로 AI 배터리 사업에 집중하기 위해 비핵심 사업을 정리하고 자금을 확보하는 전략적 움직임을 보였습니다.",
+        "AI 배터리 기술 개발은 향후 전기차, 로봇, 데이터센터 등 AI 관련 산업 전반에 큰 영향을 미칠 수 있으며, 삼성SDI의 포트폴리오 변화에 주목해야 합니다."
       ],
-      "summary_text": "연준의 추가 금리 인상 시사에도 S&P500, 나스닥 100, 미 달러가 상승하며 시장의 경기침체 우려가 지속되고 있다. 금리 인상에도 불구하고 시장이 상승한 것은 경기침체 시 안전자산 선호 심리가 반영된 것으로 해석될 수 있다. 미국 금리 인상 기조와 경기침체 우려가 공존하는 상황에서 시장의 방향성을 신중하게 판단해야 한다.",
-      "description": "연방준비제도(Fed)가 추가 금리 인상을 시사했음에도 불구하고 S&P500과 나스닥 100 지수, 그리고 미 달러는 강세를 보였으며, 이는 시장이 여전히 전 세계적인 경기침체를 우려하고 있음을 나타낸다.",
-      "category": "글로벌 경제",
+      "summary_text": "삼성SDI가 디스플레이 사업부를 매각하여 32억 달러를 조달하고, 이를 AI 배터리 개발 및 생산에 투자할 계획입니다. 삼성SDI는 미래 성장 동력으로 AI 배터리 사업에 집중하기 위해 비핵심 사업을 정리하고 자금을 확보하는 전략적 움직임을 보였습니다. AI 배터리 기술 개발은 향후 전기차, 로봇, 데이터센터 등 AI 관련 산업 전반에 큰 영향을 미칠 수 있으며, 삼성SDI의 포트폴리오 변화에 주목해야 합니다.",
+      "description": "삼성SDI가 디스플레이 사업부 매각을 통해 32억 달러(약 4조 4천억 원)를 확보하여 인공지능(AI) 배터리 사업을 강화할 예정입니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 기술주",
+      "market_impact": "긍정",
+      "related_sector": "2차전지, AI, 디스플레이",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성SDI",
+        "LG에너지솔루션",
+        "SK이노베이션"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준의 통화정책과 경기침체 우려가 복합적으로 작용하며 시장 변동성을 키울 수 있어 신중한 접근이 필요하다.",
-      "key_signal": "연준의 향후 통화정책 방향과 글로벌 경기침체 지표들을 면밀히 주시하여 시장의 추가적인 변화를 예측해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "삼성SDI의 AI 배터리 사업 투자는 미래 성장 동력 확보와 경쟁력 강화에 기여하여 장기적인 기업 가치 상승을 기대할 수 있기 때문입니다.",
+      "key_signal": "삼성SDI의 AI 배터리 개발 진행 상황과 관련 기술 동향을 면밀히 모니터링해야 합니다.",
       "keywords": [
-        "연준",
-        "금리인상",
-        "경기침체",
-        "S&P500",
-        "달러"
+        "삼성SDI",
+        "AI 배터리",
+        "2차전지",
+        "사업 재편",
+        "투자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTHpUMjRvb1NyN1lwR0ZGTTdTeXFpcDRGM0JCeksxd0FXaGY4cGRHdm8teFJJeUxKVTNUbG1qVVZ1V21hZHRxVG11YXZOaUtpYzFOVS1DMkhaNDR2YkFmUTlicWFJTzFwVWJKM21lMDZjZEJMRF9YZTcwVFBJeFhVSEt4d2h2NnBGY0lvMGQyX3haN2pxRG1wWFJzS3FRMkxrWVQ2TTJYZ05OQ2NUeXFqQUxhN1ZKR3hTb0E0VW0tblhlbFpoR2I4a1Q3QW1Nc2R0U2Jqb0lyTEdnNzdHbXBjOHRFOEhjMFNJVnkwejRTeUtNb1JteXJySEhscjR5ZUpGclJJNVUza3BwUQ?oc=5",
-      "published": "2026-08-21 03:30",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWHUxckxZbUUxRmlMMVotS1ZWNlk2NmYxZTltSllWcjBFWFlQSmI4QWRqT2hqSEE4M1g0MWZLeEVNcmM4Tmh0RHNQZ1lVUnBVQ21hUzM0ZkNWb2dsdkMxdE5yZ3FCV04yXzktSDZ1V2pPbkthVXJJRHdkTUtMNDJaQlNPYVM1aVc3SXNNUE0welhtenp6b2RsdER0cmdvWFJRWGJmd2s5QUVWVXA4ZnQwZndETlN1R0VC?oc=5",
+      "published": "2026-08-22 03:36",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피를 짓눌렀던 미국 금리 압박 완화…'안도 랠리' 지속 여부에 주목",
-      "display_title": "코스피를 짓눌렀던 미국 금리 압박 완화…'안도 랠리' 지속 여부에 주목",
-      "original_title": "코스피 짓누른 美 금리 꺾였다…'안도 랠리' 이어질까 - 네이트",
+      "title": "[주간증시전망] 미국 금리 충격에 흔들린 코스피…엔비디아 실적이 다음 분수령",
+      "display_title": "[주간증시전망] 미국 금리 충격에 흔들린 코스피…엔비디아 실적이 다음 분수령",
+      "original_title": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분수령 - 아주경제",
       "summary": [
-        "코스피를 압박하던 미국 금리 부담이 완화되면서, 증시의 안도 랠리 지속 가능성에 대한 기대감이 높아지고 있다.",
-        "미국 금리 동향은 국내 증시에 큰 영향을 미치므로, 금리 인상 속도 조절 기대감은 투자 심리에 긍정적이다.",
-        "미국 금리 완화 기조가 실제 국내 증시 상승으로 이어질지, 안도 랠리의 지속성 여부를 면밀히 관찰해야 한다."
+        "지난주 코스피는 미국 금리 인상 이슈로 변동성을 보였으며, 이번 주 엔비디아 실적 발표가 시장의 향방을 결정할 주요 변수가 될 것입니다.",
+        "미국 금리 인상은 글로벌 자금 흐름과 투자 심리에 직접적인 영향을 미치며, AI 반도체 선두주자인 엔비디아의 실적은 관련 산업 및 기술주 전반에 파급력이 큽니다.",
+        "엔비디아 실적 발표 결과에 따라 국내 반도체 및 AI 관련주들의 주가 흐름이 크게 좌우될 수 있으므로 관련 동향을 면밀히 주시해야 합니다."
       ],
-      "summary_text": "코스피를 압박하던 미국 금리 부담이 완화되면서, 증시의 안도 랠리 지속 가능성에 대한 기대감이 높아지고 있다. 미국 금리 동향은 국내 증시에 큰 영향을 미치므로, 금리 인상 속도 조절 기대감은 투자 심리에 긍정적이다. 미국 금리 완화 기조가 실제 국내 증시 상승으로 이어질지, 안도 랠리의 지속성 여부를 면밀히 관찰해야 한다.",
-      "description": "코스피 시장에 부담으로 작용했던 미국 금리 인상 압박이 완화되면서, 시장에서 '안도 랠리'가 이어질 수 있을지 관심이 집중되고 있다.",
-      "category": "국내 거시경제",
+      "summary_text": "지난주 코스피는 미국 금리 인상 이슈로 변동성을 보였으며, 이번 주 엔비디아 실적 발표가 시장의 향방을 결정할 주요 변수가 될 것입니다. 미국 금리 인상은 글로벌 자금 흐름과 투자 심리에 직접적인 영향을 미치며, AI 반도체 선두주자인 엔비디아의 실적은 관련 산업 및 기술주 전반에 파급력이 큽니다. 엔비디아 실적 발표 결과에 따라 국내 반도체 및 AI 관련주들의 주가 흐름이 크게 좌우될 수 있으므로 관련 동향을 면밀히 주시해야 합니다.",
+      "description": "지난주 코스피는 미국 금리 인상 충격으로 인해 크게 출렁였으며, 다가오는 엔비디아의 실적 발표가 향후 증시의 중요한 전환점이 될 것으로 전망됩니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "증권, 전 업종",
+      "market_impact": "중립",
+      "related_sector": "반도체, AI, 증시",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "엔비디아",
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "코스피의 주요 하락 요인이었던 미국 금리 압박 완화는 국내 증시 전반에 긍정적인 투자 기회를 제공할 수 있기 때문이다.",
-      "key_signal": "오늘 국내 증시 개장 후 외국인 및 기관 투자자들의 매매 동향과 환율 추이를 통해 '안도 랠리'의 실제 강도를 파악해야 한다.",
+      "investment_reason": "미국 금리 정책과 엔비디아 실적은 국내 증시 전반, 특히 반도체 및 기술주 투자에 결정적인 영향을 미칠 수 있는 핵심 요소이기 때문입니다.",
+      "key_signal": "이번 주 발표될 엔비디아 실적 내용과 가이던스, 그리고 미국 금리 관련 시장 전망 변화를 최우선적으로 확인해야 합니다.",
       "keywords": [
         "코스피",
-        "미국금리",
-        "안도랠리",
-        "금리인하",
-        "증시전망"
+        "미국 금리",
+        "엔비디아",
+        "실적 발표",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpemV2OU9oMkxQaWVRZURSbThvVXctUi1rdklETjlLSXdIWjZEWGdpUFZYUC1nZnNXbzhXUU5venFKaW9nRHBMN0ptT21WanYyVWVR?oc=5",
-      "published": "2026-08-21 06:03",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mN1pkb1BBR3lPZERDWEtlTUYzYTlNczctVk5qc2tGX3BVRWlCSGFMaVZta2p1d01GOUVzQV80bU44amcxT3VRQlAxME4zV1lpc1VKd0tEN2TSAVhBVV95cUxNZjdaZG9QQUd5T2REQ1hLZU1GM2E5TXM3LVZOanNrRl9wVUVpQkhhTGlWbWtqdXdNRjlFc0FfNG1OOGpnMU91UUJQMTBOM1dZaXNVSndLRDdk?oc=5",
+      "published": "2026-08-22 06:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -112,35 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 의사록, 월마트 실적, 40조 달러 미국 부채가 시장의 주요 관심사",
-      "display_title": "연준 의사록, 월마트 실적, 40조 달러 미국 부채가 시장의 주요 관심사",
-      "original_title": "Fed minutes, Walmart earnings and $40 trillion U.S. debt in focus for markets: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance",
+      "title": "채권 시장이 20년 만에 두 번 나타난 희귀한 경고 신호를 보냈다. 역사는 그 다음 주식 시장이 이렇게 될 것이라고 말한다.",
+      "display_title": "채권 시장이 20년 만에 두 번 나타난 희귀한 경고 신호를 보냈다. 역사는 그 다음 주식 시장이 이렇게 될 것이라고 말한다.",
+      "original_title": "The Bond Market Just Flashed a Rare Warning Seen Twice in 20 Years. History Says the Stock Market Will Do This Next. - The Motley Fool",
       "summary": [
-        "연준 의사록, 월마트 실적 발표, 40조 달러 미국 부채가 글로벌 시장의 주요 초점으로 부상했다.",
-        "이 세 가지 요소는 통화정책 방향, 소비 심리, 거시 경제 건전성을 나타내어 시장의 불확실성을 가중시킨다.",
-        "거시 경제 지표와 개별 기업 실적 모두를 고려하여 투자 전략을 수립해야 한다."
+        "채권 시장에서 20년 만에 두 번밖에 없었던 희귀한 경고 신호가 발생했으며, 이는 과거 경험상 주식 시장에 큰 영향을 미칠 수 있습니다.",
+        "채권 시장의 경고 신호는 보통 장단기 금리 역전이나 특정 신용 스프레드 확대 등 경기 침체 또는 금융 불안을 예고하는 경우가 많습니다.",
+        "채권 시장의 이러한 신호는 주식 시장의 조정 가능성을 높이며, 투자자들은 리스크 관리에 더욱 주의해야 합니다."
       ],
-      "summary_text": "연준 의사록, 월마트 실적 발표, 40조 달러 미국 부채가 글로벌 시장의 주요 초점으로 부상했다. 이 세 가지 요소는 통화정책 방향, 소비 심리, 거시 경제 건전성을 나타내어 시장의 불확실성을 가중시킨다. 거시 경제 지표와 개별 기업 실적 모두를 고려하여 투자 전략을 수립해야 한다.",
-      "description": "시장은 연방준비제도(Fed) 의사록 발표, 월마트 실적, 그리고 40조 달러에 달하는 미국 국가 부채 문제에 주목하고 있으며, 이들이 다우존스, S&P, 나스닥 등 월스트리트 선물 시장에 영향을 미칠 것으로 보인다.",
-      "category": "글로벌 경제",
+      "summary_text": "채권 시장에서 20년 만에 두 번밖에 없었던 희귀한 경고 신호가 발생했으며, 이는 과거 경험상 주식 시장에 큰 영향을 미칠 수 있습니다. 채권 시장의 경고 신호는 보통 장단기 금리 역전이나 특정 신용 스프레드 확대 등 경기 침체 또는 금융 불안을 예고하는 경우가 많습니다. 채권 시장의 이러한 신호는 주식 시장의 조정 가능성을 높이며, 투자자들은 리스크 관리에 더욱 주의해야 합니다.",
+      "description": "채권 시장에서 지난 20년간 단 두 차례만 나타났던 희귀한 경고 신호가 포착되었습니다. 이는 과거 사례를 비추어 볼 때 주식 시장에 특정 움직임이 나타날 것을 시사합니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 유통, 국채",
+      "market_impact": "부정",
+      "related_sector": "글로벌 금융시장",
       "related_stocks": [
-        "월마트"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준의 통화정책 방향, 소비 동향, 국가 재정 건전성 등 복합적인 요인이 시장에 불확실성을 높여 신중한 접근이 필요하기 때문이다.",
-      "key_signal": "연준 의사록 내용을 면밀히 분석하고 월마트 실적 발표가 소비 심리에 미칠 영향을 주시하며 미국 부채 문제가 시장에 어떤 해석을 받을지 오늘 확인해야 한다.",
+      "investment_reason": "채권 시장의 이례적인 경고 신호는 잠재적으로 주식 시장의 하방 압력을 높일 수 있으므로 철저한 리스크 관리와 신중한 접근이 필요하기 때문입니다.",
+      "key_signal": "해당 채권 시장 경고 신호의 구체적인 내용과 과거 사례에서의 주식 시장 반응을 면밀히 분석하고, 이에 따른 포트폴리오 조정을 고려해야 합니다.",
       "keywords": [
-        "연준의사록",
-        "월마트",
-        "미국부채",
-        "통화정책",
-        "시장초점"
+        "채권 시장",
+        "경고 신호",
+        "금융 불안",
+        "경기 침체",
+        "주식 시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONTZIbnZOUmx4UEl0bndLLVQzb0t3bVhPWWtpWXBYWS1RU0ppamM5cEZ1Qll6eDBPX0lLaDMwbEM0Vk5EMFI5TWI0V3MxWWZ2bkdRekV0T0pmclhHVHFqNzJaSG5WcFdNSHliZFNUWHNCZUJ5MzE5VWE2bUlic2FLQ09WZ3A5UUgtcjZsc2I0bHA5T0dSNFhRSmdkMHA?oc=5",
-      "published": "2026-08-20 18:26",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWURZU25BdEFiNW54TWZ2TlhFUDhJNWl0d2tXaWNEOERrWm91UWltelFjSUEtcV9FbU9VUXpXX0pqajN1ajhpRm9HQTQxZ3pSNnAwWUc5TXpTa29IaVFmQUM2enZQa2xrMXdnVWpvQWlPckxMd0tJTUZJTXZOejZNRTZKOEJvWnFKRVJiSWJvRXdKZnBPOEFhaA?oc=5",
+      "published": "2026-08-21 18:12",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -152,37 +154,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 다우, 나스닥, S&P 500 급등; 국채 수익률 19년래 최고치 하락 후 연준 의사록 이후 전망은?",
-      "display_title": "미국 증시 다우, 나스닥, S&P 500 급등; 국채 수익률 19년래 최고치 하락 후 연준 의사록 이후 전망은?",
-      "original_title": "US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; What's Ahead After Fed Minutes - Goodreturns",
+      "title": "미국 증시, 채권 금리 상승과 중동 불확실성 속 변동성 직면",
+      "display_title": "미국 증시, 채권 금리 상승과 중동 불확실성 속 변동성 직면",
+      "original_title": "U.S. Stock Markets Face Volatility Amid Heightened Bond Yields and Middle East Uncertainty - Devdiscourse",
       "summary": [
-        "미국 주요 3대 지수가 국채 수익률 하락에 힘입어 급등했으며, 연준 의사록 발표 이후의 시장 동향에 관심이 모인다.",
-        "국채 수익률 하락은 금리 인상 압력 완화 신호로 해석될 수 있으며, 이는 증시의 기술주 및 성장주에 긍정적인 영향을 미친다.",
-        "금리 인하 기대감이 형성될 경우, 성장주 및 기술주 중심으로 투자 기회를 모색할 수 있다."
+        "미국 증시가 높은 채권 금리와 중동 정세 불안으로 변동성이 커지고 있습니다.",
+        "고금리 환경은 기업의 자금 조달 비용을 높이고 중동 불안은 국제 유가 상승 및 경제 불확실성을 키웁니다.",
+        "이러한 복합적 요인들이 국내 증시에도 부정적인 영향을 미칠 수 있으므로 주의가 필요합니다."
       ],
-      "summary_text": "미국 주요 3대 지수가 국채 수익률 하락에 힘입어 급등했으며, 연준 의사록 발표 이후의 시장 동향에 관심이 모인다. 국채 수익률 하락은 금리 인상 압력 완화 신호로 해석될 수 있으며, 이는 증시의 기술주 및 성장주에 긍정적인 영향을 미친다. 금리 인하 기대감이 형성될 경우, 성장주 및 기술주 중심으로 투자 기회를 모색할 수 있다.",
-      "description": "미국 증시에서 다우존스 산업평균지수, 나스닥, S&P 500 지수가 급등했으며, 이는 국채 수익률이 19년 만의 최고치에서 하락한 것에 기인한다. 연방준비제도(Fed) 의사록 공개 이후의 시장 전망에 관심이 쏠리고 있다.",
+      "summary_text": "미국 증시가 높은 채권 금리와 중동 정세 불안으로 변동성이 커지고 있습니다. 고금리 환경은 기업의 자금 조달 비용을 높이고 중동 불안은 국제 유가 상승 및 경제 불확실성을 키웁니다. 이러한 복합적 요인들이 국내 증시에도 부정적인 영향을 미칠 수 있으므로 주의가 필요합니다.",
+      "description": "미국 주식 시장이 높아진 채권 금리와 중동 지역의 불확실성으로 인해 변동성에 직면하고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "기술주, 성장주, 금융",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "국채 수익률 하락과 미국 증시의 급등은 금리 인하 기대감을 높여 국내 기술주 및 성장주 투자에 긍정적인 영향을 줄 수 있기 때문이다.",
-      "key_signal": "연준 의사록 내용과 미국 국채 수익률의 추가 하락 여부가 오늘 국내 증시에 미칠 영향을 면밀히 관찰해야 한다.",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "글로벌 경제",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "미국 증시의 변동성 확대 요인들이 국내 증시에도 불안감을 가중시킬 수 있기 때문입니다.",
+      "key_signal": "미국 채권 금리 추이와 중동 정세 변화에 대한 추가 뉴스를 지속적으로 확인해야 합니다.",
       "keywords": [
-        "미국증시",
-        "국채수익률",
-        "연준의사록",
-        "금리인하",
-        "성장주"
+        "미국 증시",
+        "변동성",
+        "채권 금리",
+        "중동 불확실성",
+        "국제 유가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbXVieEcxTklSUmdEMmJrRlpWTUIwTGowd0lieHlNc3hndVhfUFNzZnY5bEphMjBJSW5YdzR4a19lOHE4ejdDYzhsOXpydFNQd2FoR2hyYVdSdlJlODdRd2w3SHFibUo3ZWRZV3hOTG5MNlNqWHFXdjQ1S0g0dkU4Q0J3N2RaV2hHWTZvWktuQW1WU0dZSDdQUWdMNmJJMlUydnZIdjVVcm9Pb01Gc2g2eWdzOVB6ekZEbGstUzdOblZhbjBrUGhPT3JHRDd3Sk8zNTNYX0RWSHZ2Wl9G?oc=5",
-      "published": "2026-08-20 11:39",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2tNcGZPMzhuTU1Yd29TeVVLWmg5YzU1VjFsTHo5bmZVSW5HNU9qdjlEUEtEQW5zcGR1TVpwZVNtdFA5UTFkRDFuMG9mVHRSb1FFWTM4SFl6SEQyUVRHZ3JYVlRaUVBWS3NvWThHMTNVUjF1NjVsTnMxN21FNS1OS3IyNDNzNGhGZGIzS2ZTemRfc2wzMkp6VTV6ZHI2OE9wdm1SZHRkQ0sxVjl4ZmZWNEVabzh1bXNkbDJzSXdoTWRHLWtCTlFBSEZ3Ui1HdWJybEJZOXEyd05CYjZQVHZv0gHfAUFVX3lxTFBPa01wZk8zOG5NTVh3b1N5VUtaaDljNTVWMWxMejluZlVJbkc1T2p2OURQS0RBbnNwZHVNWnBlU210UDlRMWREMW4wb2ZUdFJvUUVZMzhIWXpIRDJRVEdnclhWVFpRUFZLc29ZOEcxM1VSMXU2NWxOczE3bUU1LU5LcjI0M3M0aEZkYjNLZlN6ZF9zbDMySnpVNXpkcjY4T3B2bVJkdGRDSzFWOXhmZlY0RVpvOHVtc2RsMnNJd2hNZEcta0JOUUFIRndSLUd1YnJsQlk5cTJ3TkJiNlBUdm8?oc=5",
+      "published": "2026-08-22 05:01",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -191,84 +189,80 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 증시 다우 700p 하락, 나스닥 1% 하락; 메모리·광통신주는 강세, 마이크론 4% 상승",
-      "display_title": "미국 증시 다우 700p 하락, 나스닥 1% 하락; 메모리·광통신주는 강세, 마이크론 4% 상승",
-      "original_title": "US Stocks Close: Dow Drops 700 Points, Nasdaq Falls 1%; Memory, Optical Communication Stocks Buck Trend; Micron Rises 4% - TradingKey",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "KDI, 올해 성장률 전망치 2.5%에서 3.2%로 상향 조정",
+      "display_title": "KDI, 올해 성장률 전망치 2.5%에서 3.2%로 상향 조정",
+      "original_title": "KDI, 올해 성장률 2.5→3.2%로 상향 - gonggam.korea.kr",
       "summary": [
-        "미국 증시에서 다우존스는 700p, 나스닥은 1% 하락했으나, 메모리 및 광통신 관련주는 상승세를 보였다.",
-        "전반적인 시장 하락 속에서도 특정 기술 섹터가 견조한 흐름을 보여 투자자들의 차별적인 접근이 필요한 상황이다.",
-        "글로벌 증시의 전반적 하락세 속에서 반도체, 특히 메모리 섹터의 개별 종목 강세는 국내 관련주에도 긍정적 신호로 작용할 수 있다."
+        "한국개발연구원(KDI)이 2026년 한국 경제 성장률 전망치를 기존 2.5%에서 3.2%로 크게 높여 발표했습니다.",
+        "주요 국책 연구기관의 성장률 상향 조정은 국내 경제 회복세가 예상보다 강하거나, 대외 여건 개선 등 긍정적 요인이 반영된 것으로 해석됩니다.",
+        "성장률 상향 조정은 기업 실적 개선 기대감과 투자 심리 활성화로 이어져 국내 증시에 전반적으로 긍정적인 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "미국 증시에서 다우존스는 700p, 나스닥은 1% 하락했으나, 메모리 및 광통신 관련주는 상승세를 보였다. 전반적인 시장 하락 속에서도 특정 기술 섹터가 견조한 흐름을 보여 투자자들의 차별적인 접근이 필요한 상황이다. 글로벌 증시의 전반적 하락세 속에서 반도체, 특히 메모리 섹터의 개별 종목 강세는 국내 관련주에도 긍정적 신호로 작용할 수 있다.",
-      "description": "미국 증시에서 다우존스 지수는 700포인트, 나스닥 지수는 1% 하락했지만, 메모리 및 광통신 관련주는 추세에 역행하여 마이크론이 4% 상승하는 등 강세를 보였다.",
-      "category": "증시·금리",
+      "summary_text": "한국개발연구원(KDI)이 2026년 한국 경제 성장률 전망치를 기존 2.5%에서 3.2%로 크게 높여 발표했습니다. 주요 국책 연구기관의 성장률 상향 조정은 국내 경제 회복세가 예상보다 강하거나, 대외 여건 개선 등 긍정적 요인이 반영된 것으로 해석됩니다. 성장률 상향 조정은 기업 실적 개선 기대감과 투자 심리 활성화로 이어져 국내 증시에 전반적으로 긍정적인 영향을 미칠 수 있습니다.",
+      "description": "한국개발연구원(KDI)이 올해 경제 성장률 전망치를 기존 2.5%에서 3.2%로 상향 조정했습니다.",
+      "category": "국내 거시경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, 광통신",
-      "related_stocks": [
-        "마이크론",
-        "삼성전자",
-        "SK하이닉스"
-      ],
+      "market_impact": "긍정",
+      "related_sector": "국내 경제 전반",
+      "related_stocks": [],
       "investment_view": "관심",
-      "investment_reason": "미국 증시 전반의 하락에도 불구하고 반도체 등 특정 기술주가 강세를 보인 것은 국내 관련 산업에도 긍정적인 신호로 작용할 수 있기 때문이다.",
-      "key_signal": "오늘 국내 반도체 및 통신장비 관련주의 동향을 주시하며 미국 증시의 전반적인 하락세가 미칠 영향을 파악해야 한다.",
+      "investment_reason": "국내 경제 성장률 상향 조정은 전반적인 기업 실적 및 투자 환경 개선에 대한 기대감을 높여 국내 증시에 긍정적인 투자 기회를 제공할 수 있기 때문입니다.",
+      "key_signal": "KDI의 성장률 상향 조정 근거와 향후 정부 및 한은의 경제 정책 방향을 함께 주시해야 합니다.",
       "keywords": [
-        "미국증시",
-        "다우존스",
-        "나스닥",
-        "반도체",
-        "마이크론"
+        "KDI",
+        "경제 성장률",
+        "국내 경제",
+        "거시경제",
+        "경기 회복"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnc4ckFEaWFCZ1NWUlFhZkJaQ2gzWHRQa2hSUXRRaEdUeUhqSEdoOXRVQzd2bTh3QjJfY05LeVRZTW5YSl9jX0xCR1pWdW5XOWJRX29kQ1dkdFo1SWV4T0J1RUhPZlBqZHhxNV8xcGI1WDhuaDgxUDYwSFBrOXVONlgyM2hDeGVldHU1MkJOZGMwdUxxTF8yajBRQ2Y1WmNOYkZPVTduZ3FqVXFVSzV6a3V0aTdCSGFPOEVrc0x6VGJmTlFIMEQ3LWJMNTA5ZHZacFl5Wl9TMENGNjBlM2Vj?oc=5",
-      "published": "2026-08-21 05:15",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2tlanh0ZnA4VFN4Tlk5dEVhZ3B1eldpTHBZUEVwcjc3bkdrQ2xUOVRTcGljMkVicEVpN1FWSEhER0ZwTkVkMWJSN3hnSmRCNl82eFFqakNzY1FpZ3pJWkR4aTRxMWU4X0pLVC1oc3NkM21OZmZmVkUxdlJsS3lwTHpUamtrallYaEk4cTB1THVkLW5kc3RoMTVqWjYzejlvQzFHb0Rld3g3dWFJbGp3YW1sUUxXdjZE?oc=5",
+      "published": "2026-08-22 01:30",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[칼럼] AI 중심으로 진화하는 중국 수출, 기술 우위 유지를 위한 R&D·투자 속도 강조",
-      "display_title": "[칼럼] AI 중심으로 진화하는 중국 수출, 기술 우위 유지를 위한 R&D·투자 속도 강조",
-      "original_title": "[박근종 칼럼] AI 중심으로 진화한 중국 수출, 기술 우위 유지는 R&D·투자 속도에서 찾아야 - 더쎈뉴스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "다우 518포인트, 나스닥 113포인트, S&P 500 33포인트 상승",
+      "display_title": "다우 518포인트, 나스닥 113포인트, S&P 500 33포인트 상승",
+      "original_title": "Dow Jumps 518, Nasdaq Adds 113, S&P 500 Rises 33 - TV News Check",
       "summary": [
-        "중국 수출이 AI 중심으로 진화하고 있으며, 한국은 기술 우위 유지를 위해 R&D와 투자 속도를 강화해야 한다.",
-        "글로벌 기술 경쟁 심화 속에서 AI 기술력이 국가 경제 및 수출 경쟁력의 핵심 요소로 부상하고 있다.",
-        "AI 관련 국내 기업들의 R&D 투자 및 기술 개발 동향에 주목하여 성장 가능성 있는 기업을 발굴해야 한다."
+        "미국 주요 3대 지수가 모두 큰 폭으로 상승하며 마감했습니다.",
+        "특정 요인에 대한 정보는 없으나, 전반적인 투자 심리 개선 또는 매수세 유입으로 추정됩니다.",
+        "글로벌 증시의 긍정적 흐름은 국내 증시에도 상승 모멘텀을 제공할 수 있습니다."
       ],
-      "summary_text": "중국 수출이 AI 중심으로 진화하고 있으며, 한국은 기술 우위 유지를 위해 R&D와 투자 속도를 강화해야 한다. 글로벌 기술 경쟁 심화 속에서 AI 기술력이 국가 경제 및 수출 경쟁력의 핵심 요소로 부상하고 있다. AI 관련 국내 기업들의 R&D 투자 및 기술 개발 동향에 주목하여 성장 가능성 있는 기업을 발굴해야 한다.",
-      "description": "AI(인공지능)를 중심으로 진화하는 중국 수출 동향에 대해 분석하며, 한국이 기술 우위를 유지하기 위해서는 연구개발(R&D)과 투자 속도에서 경쟁력을 찾아야 한다고 강조하는 칼럼이다.",
-      "category": "기업·산업",
+      "summary_text": "미국 주요 3대 지수가 모두 큰 폭으로 상승하며 마감했습니다. 특정 요인에 대한 정보는 없으나, 전반적인 투자 심리 개선 또는 매수세 유입으로 추정됩니다. 글로벌 증시의 긍정적 흐름은 국내 증시에도 상승 모멘텀을 제공할 수 있습니다.",
+      "description": "미국 다우존스 산업평균지수가 518포인트, 나스닥 종합지수가 113포인트, S&P 500 지수가 33포인트 상승하며 마감했습니다.",
+      "category": "증시·금리",
       "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "AI, 반도체, IT 서비스",
+      "market_impact": "긍정",
+      "related_sector": "글로벌 증시",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "중국의 AI 기술 발전은 국내 AI 산업의 경쟁 환경 변화를 의미하며, 이는 관련 기술 및 서비스 기업의 투자 기회를 제공할 수 있기 때문이다.",
-      "key_signal": "국내 AI 관련 기업들의 연구개발 투자 계획과 중국 AI 산업 동향에 대한 모니터링을 오늘 시작해야 한다.",
+      "investment_reason": "미국 주요 지수의 큰 폭 상승은 투자 심리를 개선하고 국내 증시에도 긍정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "오늘 국내 증시 개장 시 미국 증시 상승이 어떻게 반영되는지 주목해야 합니다.",
       "keywords": [
-        "AI",
-        "중국수출",
-        "RD",
-        "기술경쟁력",
-        "투자"
+        "미국 증시",
+        "다우존스",
+        "나스닥",
+        "S&P 500",
+        "증시 상승"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXZU1kb0pVR1hUdDd2bXlBMTU0LVdDNUhOZ2RRSFctUG9RendPUjJmcUU4REJCOGVNdmRtNG9rY2dXcFo5aEw4NXlnektkNGRHTkZPOTJGSXpKNWo5ZFpwcUsyWGFULU9Y?oc=5",
-      "published": "2026-08-21 02:54",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHNfM3ZkcHFqdVhCQXJnU3BTdzNreExBbnZuNlM1WElCSWt1YnJlY1k3cmNKZjhaM0N0eXBPbUw2Sk9KdEpfQ2lVeFVSSERNa1NfY2NTU2hqMi1uWmJOaHRsWW9aSlI5RWF2RXFrY1gzMGd5VkM0RU5SV3A3bm43bXRzakJVVjRZZGJ4SDVmbVk?oc=5",
+      "published": "2026-08-22 05:29",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -277,69 +271,64 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "삼성SDI",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "2차전지",
       "opinion": "관심",
-      "reason": "미국 증시 전반의 하락에도 메모리 반도체 등 특정 기술주의 강세가 관찰되었으며, AI 기술 발전에 따른 국내 반도체 및 IT 서비스 기업의 투자 기회가 부각되고 있습니다.",
+      "reason": "디스플레이 사업부 매각 자금을 통해 AI 배터리 사업을 강화하려는 전략은 미래 성장 동력 확보 및 경쟁력 강화에 기여하여 장기적인 기업 가치 상승을 기대할 수 있습니다.",
       "check_points": [
-        "글로벌 메모리 반도체 업황 회복 속도",
-        "AI 기술 및 투자 동향",
-        "환율 변동성"
+        "디스플레이 사업부 매각 진행 상황 및 자금 활용 계획",
+        "AI 배터리 관련 기술 개발 및 사업화 로드맵"
       ],
       "related_news_titles": [
-        "미국 증시 다우 700p 하락, 나스닥 1% 하락; 메모리·광통신주는 강세, 마이크론 4% 상승",
-        "[칼럼] AI 중심으로 진화하는 중국 수출, 기술 우위 유지를 위한 R&D·투자 속도 강조"
+        "삼성SDI, 디스플레이 사업부 매각으로 32억 달러 확보하여 AI 배터리 사업 강화"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 증시에서 메모리 반도체 강세가 확인되었고, AI 기술 발전에 따른 고성능 반도체 수요 증가가 기대되어 국내 관련 기업에 긍정적인 투자 기회를 제공할 수 있습니다.",
+      "reason": "엔비디아 실적 발표가 국내 증시 전반, 특히 반도체 및 기술주 투자 심리에 중요한 변곡점이 될 것으로 예상되어 시장의 방향성을 가늠하는 데 핵심적인 종목입니다.",
       "check_points": [
-        "메모리 반도체 가격 동향",
-        "HBM 등 고부가가치 제품 수요",
-        "글로벌 AI 서버 투자 확대 여부"
+        "엔비디아 실적 발표 내용 및 향후 가이던스",
+        "미국 금리 정책 방향성 및 글로벌 매크로 지표 변화"
       ],
       "related_news_titles": [
-        "미국 증시 다우 700p 하락, 나스닥 1% 하락; 메모리·광통신주는 강세, 마이크론 4% 상승",
-        "[칼럼] AI 중심으로 진화하는 중국 수출, 기술 우위 유지를 위한 R&D·투자 속도 강조"
+        "[주간증시전망] 미국 금리 충격에 흔들린 코스피…엔비디아 실적이 다음 분수령"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "코스피의 주요 하락 요인이었던 미국 금리 압박 완화와 국채 수익률 하락은 금리 인하 기대감을 높여 국내 증시 전반에 긍정적이며, 특히 증권업종의 투자 심리 개선에 기여할 수 있습니다.",
+      "reason": "엔비디아 실적이 HBM(고대역폭 메모리) 등 AI 반도체 수요 및 가격에 미칠 영향이 커서, 국내 AI 반도체 산업의 핵심 종목으로서 면밀한 관찰이 필요합니다.",
       "check_points": [
-        "미국 연준의 금리 정책 변화",
-        "국내 증시 거래대금 및 투자심리",
-        "글로벌 유동성 흐름"
+        "엔비디아의 데이터센터 및 AI 칩 판매량",
+        "HBM 등 고부가 메모리 제품의 수급 및 가격 동향"
       ],
       "related_news_titles": [
-        "코스피를 짓눌렀던 미국 금리 압박 완화…'안도 랠리' 지속 여부에 주목",
-        "미국 증시 다우, 나스닥, S&P 500 급등; 국채 수익률 19년래 최고치 하락 후 연준 의사록 이후 전망은?"
+        "[주간증시전망] 미국 금리 충격에 흔들린 코스피…엔비디아 실적이 다음 분수령"
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "IT 서비스",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "중국의 AI 기술 발전이 가속화되면서 국내 AI 관련 기업들에게 새로운 경쟁 환경과 동시에 기술 및 서비스 투자의 기회를 제공할 수 있으며, 관련 분야의 성장이 기대됩니다.",
+      "reason": "미국 증시의 큰 폭 상승과 KDI의 국내 경제 성장률 상향 조정은 투자 심리를 개선하고 증시 거래 활성화에 긍정적인 영향을 미쳐 증권 업종에 우호적인 환경을 조성할 수 있습니다.",
       "check_points": [
-        "국내 AI 서비스 시장 경쟁 동향",
-        "클라우드 및 AI 투자 성과",
-        "글로벌 AI 기술 트렌드 변화"
+        "미국 증시의 지속적인 상승 여부",
+        "국내 증시 거래량 및 고객 예탁금 추이",
+        "KDI 성장률 상향의 실제 경제 파급 효과"
       ],
       "related_news_titles": [
-        "[칼럼] AI 중심으로 진화하는 중국 수출, 기술 우위 유지를 위한 R&D·투자 속도 강조"
+        "KDI, 올해 성장률 전망치 2.5%에서 3.2%로 상향 조정",
+        "다우 518포인트, 나스닥 113포인트, S&P 500 33포인트 상승"
       ]
     }
   ],
