@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23 07:22",
-  "analysis_date": "2026-08-23",
+  "generated_at": "2026-08-24 07:20",
+  "analysis_date": "2026-08-24",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,138 +13,136 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "엔비디아 실적 발표와 미국 국채금리 변동성이 이번 주 국내외 증시의 핵심 관전 포인트입니다. 국내 증시는 금리 우려와 기업 주주환원 기대감 사이에서 변동성을 보였습니다.",
-    "국내거시경제": "코스피는 미국 금리 인상 압력으로 인한 하방 요인과 기업 주주환원 확대 기대감이라는 상반된 재료 속에서 롤러코스터 장세를 연출했습니다.",
-    "글로벌경제": "엔비디아 실적 발표와 연준 의사록 공개를 앞두고 미 증시 선물은 긍정적 기대를 반영했지만, 국채 수익률 반등 및 유가 상승은 나스닥에 부담으로 작용하며 인플레이션 및 긴축 우려를 상기시켰습니다.",
-    "증시금리": "이번 주 증시는 엔비디아 실적과 미국 국채금리 추이에 민감하게 반응할 것으로 보입니다. 국채 수익률 급등은 채권 투자 매력을 높여 주식 시장의 자금 흐름에도 영향을 줄 수 있습니다.",
-    "부동산정책": "특이사항 없음",
-    "기업산업": "SK하이닉스의 배당 가능성 등 국내 기업들의 주주환원 정책 강화는 투자 심리를 개선하고 개별 종목 및 관련 산업 전반에 긍정적인 영향을 미칠 전망입니다.",
-    "오늘의투자시사점": "엔비디아 실적과 미국 국채금리 변동성을 최우선으로 주시하며, 주주환원 정책을 적극적으로 추진하는 국내 기업들에 대한 관심 유지가 필요합니다. 높은 국채 수익률을 활용한 채권 시장 동향도 함께 점검해야 합니다.",
-    "오늘의한줄": "엔비디아 실적 및 미 국채금리 추이가 이번 주 시장의 핵심이며, 변동성 속 주주환원 기업과 금리 동향에 주목해야 합니다."
+    "총평": "이번 주는 엔비디아 실적, 잭슨홀 미팅, PCE 지표 발표 등 글로벌 핵심 이벤트들이 증시 방향성을 좌우할 전망입니다. 기술주 중심의 랠리 지속 여부와 통화정책 방향성에 대한 단서가 나올 것으로 보입니다.",
+    "국내거시경제": "코스피는 글로벌 기술주 흐름과 미국 통화정책 변화에 민감하게 반응할 것이며, 7000포인트 안착 여부가 시험대에 오를 것입니다. 대외 불확실성 증대로 외국인 수급과 환율 변동성 관리가 중요합니다.",
+    "글로벌경제": "미국 증시는 최근 유가 하락과 인플레이션 완화에 힘입어 사상 최고치를 경신했으나, 잭슨홀 미팅 연준 발언과 PCE 지표가 향후 긴축 완화 기대감을 재조정할 수 있습니다. 중국 증시도 잭슨홀과 엔비디아 실적, 자국 제조업 지표에 주목합니다.",
+    "증시금리": "엔비디아 실적 발표와 잭슨홀 미팅에서의 연준 통화정책 방향성 언급, 그리고 PCE 물가 지표가 이번 주 증시 랠리의 지속 여부를 결정할 핵심 변수입니다. 특히 잭슨홀 연설에서 향후 통화정책의 중요한 단서가 나올 수 있습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "엔비디아 실적은 AI 투자 사이클의 지속 가능성을 검증하는 중요한 지표이며, 글로벌 기술주 전반에 큰 영향을 미칠 것입니다. 이는 국내외 기술 기업들의 투자심리에도 직결됩니다.",
+    "오늘의투자시사점": "핵심 이벤트들의 결과에 따라 시장 변동성이 커질 수 있으므로, 보수적인 관점으로 접근하며 글로벌 기술주 동향과 통화정책 변화에 대한 면밀한 분석이 필요합니다.",
+    "오늘의한줄": "글로벌 주요 이벤트가 집중된 이번 주는 엔비디아 실적과 잭슨홀 미팅을 통해 증시 방향성과 통화정책의 윤곽이 드러나는 중요한 한 주가 될 것입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[주간증시전망] 엔비디아 실적 발표·미국 국채금리에 '쏠린 눈'",
-      "display_title": "[주간증시전망] 엔비디아 실적 발표·미국 국채금리에 '쏠린 눈'",
-      "original_title": "[주간증시전망] 엔비디아 실적 발표·美 국채금리에 ‘쏠린 눈’ - 조선비즈 - Chosunbiz",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "엔비디아 실적, 워시의 잭슨홀 데뷔, PCE: 뉴욕 증시 랠리의 방향을 결정할 세 가지 관건",
+      "display_title": "엔비디아 실적, 워시의 잭슨홀 데뷔, PCE: 뉴욕 증시 랠리의 방향을 결정할 세 가지 관건",
+      "original_title": "Nvidia Earnings, Warsh's Jackson Hole Debut, and PCE: Three Hurdles That Will Decide the Direction of the New York Stock Market Rally - finance.biggo.com",
       "summary": [
-        "이번 주 증시는 엔비디아 실적 발표와 미국 국채금리 변동성에 큰 영향을 받을 것으로 예상됩니다.",
-        "엔비디아 실적은 글로벌 반도체 및 인공지능(AI) 산업 전반의 투자 심리를 좌우할 핵심 지표입니다.",
-        "미국 국채금리 움직임은 국내 증시의 외국인 자금 흐름과 전반적인 시장 방향성에 중요한 영향을 미칠 것입니다."
+        "이번 주 뉴욕 증시는 엔비디아 실적, 잭슨홀 미팅, PCE 지표가 주요 변수로 작용합니다.",
+        "특히 잭슨홀 미팅에서 연준 인사들의 발언과 엔비디아 실적이 시장 전반의 투자심리에 큰 영향을 미칠 것입니다.",
+        "이 세 가지 이벤트 결과에 따라 기술주 중심의 증시 랠리 지속 여부가 판가름 날 수 있으므로 투자 전략 수립 시 면밀한 분석이 필요합니다."
       ],
-      "summary_text": "이번 주 증시는 엔비디아 실적 발표와 미국 국채금리 변동성에 큰 영향을 받을 것으로 예상됩니다. 엔비디아 실적은 글로벌 반도체 및 인공지능(AI) 산업 전반의 투자 심리를 좌우할 핵심 지표입니다. 미국 국채금리 움직임은 국내 증시의 외국인 자금 흐름과 전반적인 시장 방향성에 중요한 영향을 미칠 것입니다.",
-      "description": "이번 주 증시에서는 엔비디아 실적 발표와 미국 국채금리 변동에 시장의 이목이 집중될 것으로 전망됩니다.",
+      "summary_text": "이번 주 뉴욕 증시는 엔비디아 실적, 잭슨홀 미팅, PCE 지표가 주요 변수로 작용합니다. 특히 잭슨홀 미팅에서 연준 인사들의 발언과 엔비디아 실적이 시장 전반의 투자심리에 큰 영향을 미칠 것입니다. 이 세 가지 이벤트 결과에 따라 기술주 중심의 증시 랠리 지속 여부가 판가름 날 수 있으므로 투자 전략 수립 시 면밀한 분석이 필요합니다.",
+      "description": "엔비디아 실적 발표, 잭슨홀 미팅에서 케빈 워시의 발언, 개인소비지출(PCE) 지표 발표가 뉴욕 증시 랠리의 향방을 결정할 핵심 요인이 될 것으로 전망됩니다.",
       "category": "증시·금리",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "중립",
-      "related_sector": "반도체",
+      "related_sector": "반도체, 기술주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "엔비디아",
+        "마이크로소프트",
+        "애플"
       ],
       "investment_view": "관심",
-      "investment_reason": "엔비디아 실적과 미국 국채금리 변동은 국내 반도체주 및 기술주에 직접적인 영향을 미치며, 시장 전반의 방향성을 결정하는 핵심 요소입니다.",
-      "key_signal": "엔비디아 실적 발표 내용과 가이던스, 그리고 미국 10년물 국채금리의 방향성을 집중적으로 모니터링해야 합니다.",
+      "investment_reason": "엔비디아 실적과 잭슨홀 미팅 결과는 미국 및 글로벌 증시의 단기적인 방향성을 결정하는 핵심 요인이므로, 국내 시장에도 큰 영향을 미칠 수 있습니다.",
+      "key_signal": "엔비디아 실적 발표 내용과 잭슨홀 미팅에서 연준 인사들의 매파/비둘기파적 발언 여부를 집중적으로 체크해야 합니다.",
       "keywords": [
         "엔비디아",
-        "국채금리",
-        "반도체",
-        "AI",
-        "주간증시"
+        "잭슨홀",
+        "PCE",
+        "미국증시",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VkWEJtSmYyZ016aHZjeERVZ0VVSVhidXZlVjNBMUdXd0Uwakx1bHIxaUdzY25sZlF0TjhFV2FIWDhOSHphSlNBRkJDaHh1M3dQbHpLU3FnTmgtVTF5YWxRMmdHTkE3VFg0WWw4OVAzRl9UWTBYUnpBX0c0eksyVUtDVU9FX0gw0gGcAUFVX3lxTFBuekZrbU9YYWtoX1RDbXFzNXlOMy1fNEIxOUVfdGZhLVZvU1RtWXZ2azN0OEZuRm4taTJwazFORWlzcV9HYXhpQTZDWXh2VGc3N19ZZk9rVFlaSnJYei03RWRoTER6ejMzZGtOcS10S2xOQ29IeWpTMDhkQVdhS2xFSDktNzdGUGhyY19jVUlDbV9aZkd4Wlo5M09Jdw?oc=5",
-      "published": "2026-08-23 06:00",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQSWNreUVHb1lGR0NBUHZvMTBHbnBnbUlGc3J0TFVWQVZSZFREZzZuS25ZOXg0d2NXdGo1b0ppTGFoZ29ZY0tRLTZTYVJicG5kb0JJMjZ5S3pvSUtlNG5mQml2N25URlZvOTJudzl1LURScnpHcVE?oc=5",
+      "published": "2026-08-24 07:00",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "급락 후 급반등 '롤러코스피'…미국 금리에 울고 주주환원에 웃었다",
-      "display_title": "급락 후 급반등 '롤러코스피'…미국 금리에 울고 주주환원에 웃었다",
-      "original_title": "급락 뒤 급반등 ‘롤러코스피’…美금리에 울고 주주환원에 웃었다 [선데이 머니카페] - 서울경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "주간 전망: 엔비디아, PCE, 잭슨홀이 증시 랠리를 시험대에 올릴 것",
+      "display_title": "주간 전망: 엔비디아, PCE, 잭슨홀이 증시 랠리를 시험대에 올릴 것",
+      "original_title": "The Week Ahead: Nvidia, PCE and Jackson Hole Test the Stock Market Rally - FXEmpire",
       "summary": [
-        "코스피가 급락 후 급반등하는 변동성 높은 장세를 보였으며, 이는 미국 금리 인상 우려와 기업들의 주주환원 정책 강화라는 상반된 요인에 영향을 받았습니다.",
-        "미국 금리 인상 압력은 국내 증시 전반에 하방 압력을 가하는 주요 요인으로 작용하고 있습니다.",
-        "반면 기업들의 배당 확대 및 자사주 매입 등 주주환원 정책은 투자 심리를 개선하고 개별 종목의 주가 상승 동력으로 작용할 수 있습니다."
+        "이번 주 주요 경제 이벤트는 엔비디아 실적, PCE 지표, 그리고 잭슨홀 미팅으로 요약됩니다.",
+        "이 세 가지 변수는 뉴욕 증시의 랠리 지속 여부를 결정짓는 핵심 시험대가 될 것입니다.",
+        "특히 잭슨홀 미팅에서의 연준 위원 발언은 향후 통화정책 방향을 가늠할 중요한 단서가 될 것으로 예상됩니다."
       ],
-      "summary_text": "코스피가 급락 후 급반등하는 변동성 높은 장세를 보였으며, 이는 미국 금리 인상 우려와 기업들의 주주환원 정책 강화라는 상반된 요인에 영향을 받았습니다. 미국 금리 인상 압력은 국내 증시 전반에 하방 압력을 가하는 주요 요인으로 작용하고 있습니다. 반면 기업들의 배당 확대 및 자사주 매입 등 주주환원 정책은 투자 심리를 개선하고 개별 종목의 주가 상승 동력으로 작용할 수 있습니다.",
-      "description": "코스피가 급락과 급반등을 반복하는 '롤러코스터' 장세를 연출했으며, 미국 금리 인상 우려로 하락하고 주주환원 정책 강화 소식에 반등하는 양상을 보였습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "이번 주 주요 경제 이벤트는 엔비디아 실적, PCE 지표, 그리고 잭슨홀 미팅으로 요약됩니다. 이 세 가지 변수는 뉴욕 증시의 랠리 지속 여부를 결정짓는 핵심 시험대가 될 것입니다. 특히 잭슨홀 미팅에서의 연준 위원 발언은 향후 통화정책 방향을 가늠할 중요한 단서가 될 것으로 예상됩니다.",
+      "description": "이번 주 시장은 엔비디아 실적 발표, 개인소비지출(PCE) 지표, 잭슨홀 미팅을 통해 현재 증시 랠리의 지속 가능성을 시험받을 예정입니다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "중립",
-      "related_sector": "금융",
+      "related_sector": "반도체, IT, 기술주",
       "related_stocks": [
-        "삼성전자",
-        "현대차",
-        "KB금융"
+        "엔비디아",
+        "테슬라"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 금리 동향과 국내 기업들의 주주환원 정책은 코스피 시장의 주요 변동 요인이므로 투자 전략 수립에 필수적입니다.",
-      "key_signal": "미국 금리 인상 속도와 국내 기업들의 구체적인 주주환원 계획 발표 여부를 면밀히 주시해야 합니다.",
+      "investment_reason": "엔비디아 실적과 잭슨홀 미팅은 글로벌 시장의 변동성을 키우고 국내 증시에도 큰 영향을 미칠 수 있으므로 주요 관전 포인트입니다.",
+      "key_signal": "엔비디아 실적 가이던스와 잭슨홀 미팅에서의 금리 인하 또는 인상 관련 연준 위원들의 발언 수위를 주목해야 합니다.",
       "keywords": [
-        "코스피",
-        "미국금리",
-        "주주환원",
-        "변동성",
-        "배당"
+        "엔비디아",
+        "잭슨홀",
+        "PCE",
+        "미국증시",
+        "금리인하"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zQk9aRjNadEJGQ2dPNmdOdm9jY3o4U1pKMHhQM19iNVZiXzZyeXBaaW1FQTZFMl9HVnZNd29Cd0N0Mkk2S1g3S2wxdzhiU2NjRmc?oc=5",
-      "published": "2026-08-23 06:01",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV1VKUTd4RWZfTnQ0S0xFWm5GYjdRYVFSWFdNdVBWc0EyUWxjVFJGb0t4RXh5M2tOcnFKZC1KbkVqSlQ0eWRfMjNqYUVfRUY3OUJPcGhyWVBEMXo5Z0Z1X3ZHdlRJZi1uRmFfM2F0elkyRUlNekdoQ0ktYmtic0NJcUlobnZTaVNHTDRla0ZCLWlDZXg0ZTg5aDhja3NLX19MMEotYWF0NUhtbzlJTVBfMGhCcGVjVGxaZUtnb0lR?oc=5",
+      "published": "2026-08-24 04:32",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "엔비디아 실적 발표와 연준 의사록 공개 앞두고 나스닥, S&P 500 선물 상승: 테슬라, SLS, IBRX, CAVA, POET, BA 주목",
-      "display_title": "엔비디아 실적 발표와 연준 의사록 공개 앞두고 나스닥, S&P 500 선물 상승: 테슬라, SLS, IBRX, CAVA, POET, BA 주목",
-      "original_title": "Nasdaq, S&P 500 Futures Rise Ahead Of Nvidia Earnings, Fed Minutes: Why TSLA, SLS, IBRX, CAVA, POET, BA Are In Focus - Stocktwits",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "엔비디아·잭슨홀에 달린 코스피…7000p 안착 시험대[주간 증시 전망]",
+      "display_title": "엔비디아·잭슨홀에 달린 코스피…7000p 안착 시험대[주간 증시 전망]",
+      "original_title": "엔비디아·잭슨홀에 달린 코스피…7000피 안착 시험대[주간 증시 전망] - 서울경제",
       "summary": [
-        "미국 나스닥과 S&P 500 선물 지수가 엔비디아 실적 발표와 연준 의사록 공개를 앞두고 상승세를 보였습니다.",
-        "이는 주요 경제 이벤트에 대한 시장의 낙관적인 기대를 반영하며, 특히 엔비디아 실적은 기술주 전반에 중요한 영향을 미칠 예정입니다.",
-        "연준 의사록은 향후 통화 정책 방향을 엿볼 수 있는 중요한 단서를 제공하며, 시장의 변동성을 키울 수 있습니다."
+        "이번 주 코스피는 엔비디아 실적 발표와 잭슨홀 미팅이 주요 변수로 작용할 예정입니다.",
+        "글로벌 기술주 흐름과 미국 통화정책 방향성이 국내 증시의 7000포인트 안착 여부에 결정적인 영향을 미칠 것입니다.",
+        "대외 불확실성이 높은 만큼, 외국인 수급과 환율 변동성 관리에 유의하며 보수적인 접근이 필요합니다."
       ],
-      "summary_text": "미국 나스닥과 S&P 500 선물 지수가 엔비디아 실적 발표와 연준 의사록 공개를 앞두고 상승세를 보였습니다. 이는 주요 경제 이벤트에 대한 시장의 낙관적인 기대를 반영하며, 특히 엔비디아 실적은 기술주 전반에 중요한 영향을 미칠 예정입니다. 연준 의사록은 향후 통화 정책 방향을 엿볼 수 있는 중요한 단서를 제공하며, 시장의 변동성을 키울 수 있습니다.",
-      "description": "엔비디아 실적 발표와 연방준비제도(Fed) 의사록 공개를 앞두고 나스닥 및 S&P 500 선물 지수가 상승했으며, 테슬라 등 여러 개별 종목이 주목받고 있습니다.",
+      "summary_text": "이번 주 코스피는 엔비디아 실적 발표와 잭슨홀 미팅이 주요 변수로 작용할 예정입니다. 글로벌 기술주 흐름과 미국 통화정책 방향성이 국내 증시의 7000포인트 안착 여부에 결정적인 영향을 미칠 것입니다. 대외 불확실성이 높은 만큼, 외국인 수급과 환율 변동성 관리에 유의하며 보수적인 접근이 필요합니다.",
+      "description": "이번 주 국내 증시(코스피)는 엔비디아 실적 발표와 잭슨홀 미팅 결과에 따라 7000포인트 안착 여부가 결정될 중요한 시험대에 오를 것으로 전망됩니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체",
+      "market_impact": "중립",
+      "related_sector": "반도체, AI, 대형 기술주",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉",
-        "LG에너지솔루션"
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "엔비디아 실적과 연준 의사록은 국내 증시의 기술주 및 성장주에 대한 투자 심리와 전반적인 시장 방향을 결정할 핵심 이벤트입니다.",
-      "key_signal": "엔비디아 실적 결과와 연준 의사록에서 향후 금리 인상 및 긴축 기조에 대한 힌트를 찾아야 합니다.",
+      "investment_reason": "엔비디아 실적과 잭슨홀 미팅은 국내 증시의 투자 심리와 외국인 수급에 직접적인 영향을 미치므로, 코스피 방향성 예측에 필수적인 정보입니다.",
+      "key_signal": "엔비디아의 AI 투자 사이클 전망과 잭슨홀 미팅에서의 매파적 발언 여부가 국내 반도체 및 기술주에 미칠 파급력을 주시해야 합니다.",
       "keywords": [
-        "나스닥선물",
-        "S&P500선물",
+        "코스피",
         "엔비디아",
-        "연준의사록",
-        "기술주"
+        "잭슨홀",
+        "주간전망",
+        "반도체주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEZuOVk0MS12VnI0U3FRX1E4Tk1nZTJrM0dzTGtpbDF0ZGxvTFVad3RRdFV0X2J4RXpxRW9ncEJ2V0dDcHpxNVVPQlMxeXZtdTVNRnZZUkJhd0NrbVAwY1lsMWptTW9obmI0Y0ZnSzktYWhURkxyTnZZMGxRajEwc2U4cURlX1NnVFRkT3Y3OG9sRkVsVlJCdVV6ZldGZ1VZQndoU0E2Z19DT0o0ODhncnpWd19QNDZ2bzNsdWs3UUJ4VzRUVkZ2XzFCN1BsVDBuZHR3?oc=5",
-      "published": "2026-08-22 08:38",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45SHAzNXJIekVBR2JGQzRPdWVJdFFUQWg4LWtnX0MtMlZpYUNBcno5NENiZmI3aFpjMmJTQURkRXFadmsyTlFJUDJsTVJIUm1Pc3c?oc=5",
+      "published": "2026-08-24 07:05",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,36 +152,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥 100 전망: 국채 수익률 반등과 유가 추가 상승에 NDX 하락",
-      "display_title": "나스닥 100 전망: 국채 수익률 반등과 유가 추가 상승에 NDX 하락",
-      "original_title": "Nasdaq 100 Forecast: NDX falls as Treasury yields rebound, oil prices rise further - FOREX.com",
+      "title": "유가 하락과 인플레이션 완화에 미국 증시 사상 최고치 경신",
+      "display_title": "유가 하락과 인플레이션 완화에 미국 증시 사상 최고치 경신",
+      "original_title": "US stocks rise to a record as oil prices drop and inflation gets less bad - Scripps News",
       "summary": [
-        "미국 국채 수익률 반등과 유가 추가 상승의 영향으로 나스닥 100 지수가 하락세를 보였습니다.",
-        "이는 높은 인플레이션 압력과 긴축적인 통화 정책 가능성에 대한 시장의 우려를 반영합니다.",
-        "기술주 중심의 나스닥 시장에 대한 부정적 압력이 지속될 수 있으며, 국내 증시에도 간접적인 영향이 예상됩니다."
+        "최근 미국 증시가 유가 하락과 인플레이션 둔화 기조에 힘입어 사상 최고치를 기록했습니다.",
+        "이는 기업 이익 개선 기대감과 연준의 긴축 완화 가능성 확대에 긍정적인 영향을 미쳤습니다.",
+        "인플레이션 지표와 에너지 가격의 안정화 추세가 지속될 경우 증시의 상승 동력이 유지될 것으로 보입니다."
       ],
-      "summary_text": "미국 국채 수익률 반등과 유가 추가 상승의 영향으로 나스닥 100 지수가 하락세를 보였습니다. 이는 높은 인플레이션 압력과 긴축적인 통화 정책 가능성에 대한 시장의 우려를 반영합니다. 기술주 중심의 나스닥 시장에 대한 부정적 압력이 지속될 수 있으며, 국내 증시에도 간접적인 영향이 예상됩니다.",
-      "description": "국채 수익률의 반등과 유가의 추가 상승으로 나스닥 100 지수가 하락하는 흐름을 보입니다.",
+      "summary_text": "최근 미국 증시가 유가 하락과 인플레이션 둔화 기조에 힘입어 사상 최고치를 기록했습니다. 이는 기업 이익 개선 기대감과 연준의 긴축 완화 가능성 확대에 긍정적인 영향을 미쳤습니다. 인플레이션 지표와 에너지 가격의 안정화 추세가 지속될 경우 증시의 상승 동력이 유지될 것으로 보입니다.",
+      "description": "유가 하락과 인플레이션 압력 완화 소식에 힘입어 미국 증시가 사상 최고치를 경신하며 상승세를 이어갔습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "기술주",
+      "market_impact": "긍정",
+      "related_sector": "성장주, 기술주, 소비재",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 국채 수익률과 유가 상승은 기술주 중심의 국내 증시에 부담으로 작용할 수 있어 주의 깊게 살펴봐야 합니다.",
-      "key_signal": "미국 국채 수익률의 추가 상승 여부와 국제 유가 동향을 주시하며 기술주의 반등 가능성을 탐색해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 증시의 강세는 글로벌 투자 심리에 긍정적인 영향을 미치며, 국내 증시에도 순풍으로 작용할 수 있습니다.",
+      "key_signal": "유가 및 기타 원자재 가격의 안정화 추세와 인플레이션 지표 발표를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "나스닥",
-        "국채수익률",
-        "유가",
-        "기술주",
-        "인플레이션"
+        "미국증시",
+        "유가하락",
+        "인플레이션",
+        "사상최고",
+        "경기회복"
       ],
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1BhZmhPM1hvZWNtV19XN3pZSTZBOVhnOGM3Vk9OSlB1WDdjOUwyUU44WGo4U3Z4LVJUNlFwazluQVlwMzlBek84dTI3YTRoYkVqVWwtTTc3V29vUGNvb3Nvb1NKTzdZMktHSzBTOHJFN3RmZGc2NmVQWEw0UW1zLTZQMHB0V05LblA5eGVTTDVFNmF2cU45aGxkNHRDM3JpMm5jR09HTEdnaHlzN1p5TDM1NHpJblEzNUZPRzkyVGxBaHVmWkE?oc=5",
-      "published": "2026-08-23 03:56",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHMySTJ6WkpRcmNDdkNPcnVsa2dfc3ZTaWg5d1Myc0p5eWVURjYzZUMyRU10eHRIWjgzdzU3S0NTY0RFT3dMNXY5T3V1YmVZZXVvY0ZHRDBXS2tObDFaLWh1bl9fdDRmSUJNTEZ3SHlVclVsNjBDVTdseUxQWVp0Z0lKaGVRR2xsdlgzajJialhoRTNtb1RWQl9HSUVCQjh0LTFLOTdweExxZWxZeHBHYUdMZnk5VjVuZXc?oc=5",
+      "published": "2026-08-24 00:32",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -195,39 +194,39 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[🍯 마감시황] SK하이닉스 드디어 배당하나?",
-      "display_title": "[🍯 마감시황] SK하이닉스 드디어 배당하나?",
-      "original_title": "[🍯 마감시황] SK하이닉스 드..드디어 배당하나? Shannon Elizabeth (4Aq1sQulPI) - Mshale",
+      "title": "[중국증시 주간 포인트] 잭슨홀 워시 발언, 美 국채안정·재정정비 계획, 中 제조업 지표, AI 투자사이클 검증 엔비디아 실적, A주∙홍콩주 반기실적, AI∙우주항공 이벤트 등",
+      "display_title": "[중국증시 주간 포인트] 잭슨홀 워시 발언, 美 국채안정·재정정비 계획, 中 제조업 지표, AI 투자사이클 검증 엔비디아 실적, A주∙홍콩주 반기실적, AI∙우주항공 이벤트 등",
+      "original_title": "[중국증시 주간 포인트] 잭슨홀 워시 발언, 美 국채안정·재정정비 계획, 中 제조업 지표, AI 투자사이클 검증 엔비디아 실적, A주∙홍콩주 반기실적, AI∙우주항공 이벤트 등 - 뉴스핌",
       "summary": [
-        "SK하이닉스의 배당 가능성이 시장에서 큰 관심을 받으며 마감 시황의 주요 이슈로 떠올랐습니다.",
-        "만약 SK하이닉스가 배당을 실시한다면 이는 주주환원 정책 강화의 신호로 해석될 수 있으며, 투자 심리에 긍정적인 영향을 미칠 것입니다.",
-        "이는 국내 반도체 대형주의 투자 매력을 높이고 다른 기업들의 주주환원 정책에도 영향을 줄 수 있습니다."
+        "이번 주 중국 증시는 잭슨홀 미팅, 미국 국채 계획, 중국 제조업 지표 등 글로벌 및 국내 주요 이벤트에 주목합니다.",
+        "특히 엔비디아 실적은 AI 투자 사이클의 지속 가능성을 검증하며 중국 기술주에도 영향을 미칠 것입니다.",
+        "A주 및 홍콩주의 반기 실적 발표와 AI, 우주항공 관련 이벤트들이 시장의 방향성을 결정하는 주요 변수가 될 전망입니다."
       ],
-      "summary_text": "SK하이닉스의 배당 가능성이 시장에서 큰 관심을 받으며 마감 시황의 주요 이슈로 떠올랐습니다. 만약 SK하이닉스가 배당을 실시한다면 이는 주주환원 정책 강화의 신호로 해석될 수 있으며, 투자 심리에 긍정적인 영향을 미칠 것입니다. 이는 국내 반도체 대형주의 투자 매력을 높이고 다른 기업들의 주주환원 정책에도 영향을 줄 수 있습니다.",
-      "description": "마감 시황에서 SK하이닉스의 배당 가능성에 대한 관심이 집중되었습니다.",
-      "category": "기업·산업",
+      "summary_text": "이번 주 중국 증시는 잭슨홀 미팅, 미국 국채 계획, 중국 제조업 지표 등 글로벌 및 국내 주요 이벤트에 주목합니다. 특히 엔비디아 실적은 AI 투자 사이클의 지속 가능성을 검증하며 중국 기술주에도 영향을 미칠 것입니다. A주 및 홍콩주의 반기 실적 발표와 AI, 우주항공 관련 이벤트들이 시장의 방향성을 결정하는 주요 변수가 될 전망입니다.",
+      "description": "이번 주 중국 증시는 잭슨홀 미팅, 미국 국채 계획, 중국 제조업 지표, 엔비디아 실적 발표 등 국내외 주요 이벤트들이 복합적으로 영향을 미칠 것으로 예상됩니다.",
+      "category": "글로벌 경제",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체",
+      "market_impact": "중립",
+      "related_sector": "중국 기술주, 제조업, 반도체",
       "related_stocks": [
-        "SK하이닉스",
-        "삼성전자",
-        "DB하이텍"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "SK하이닉스의 배당 결정은 국내 반도체 섹터 전반에 긍정적인 영향을 줄 수 있으며, 주주환원 정책 강화에 대한 시장의 기대를 높일 수 있습니다.",
-      "key_signal": "SK하이닉스의 배당 관련 공식 발표 내용과 배당 규모를 확인하여 투자 전략에 반영해야 합니다.",
+      "investment_reason": "중국 증시의 움직임은 아시아 전체 시장에 영향을 미치며, 특히 엔비디아 실적을 통한 AI 투자 사이클 검증은 국내 기술주에도 중요한 참고 자료가 됩니다.",
+      "key_signal": "중국 제조업 구매관리자지수(PMI) 발표와 엔비디아 실적에 따른 AI 관련 투자심리 변화, 그리고 잭슨홀 미팅 결과가 중국 증시에 미치는 영향을 파악해야 합니다.",
       "keywords": [
-        "SK하이닉스",
-        "배당",
-        "주주환원",
-        "반도체",
-        "마감시황"
+        "중국증시",
+        "잭슨홀",
+        "엔비디아",
+        "제조업지표",
+        "AI"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUVXY3YzZjVXVsUFIyVnEyQWpTaFYxZXRsWFdEYk14Y2pJYUh3UUhua051OFdSTTR1bDRzSjFaQjlsX3VHRjhkRWlaNGRzTTMxVXMxQk5kdThEWGc?oc=5",
-      "published": "2026-08-22 08:39",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKM3NHMXFhb2h4S1l1SUx5UUU2bkJaRVZFMUxXRVBtWWc5S09ldGRXYU0zR2p6SzJIYm1kMVMtSVhRT2gtaDNOV2RxbDZTa2NmNjJrSm5aVmRsWkNT?oc=5",
+      "published": "2026-08-24 00:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -237,37 +236,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "국채 수익률 급등, 이제 채권 ETF를 매수할 때인가?",
-      "display_title": "국채 수익률 급등, 이제 채권 ETF를 매수할 때인가?",
-      "original_title": "Treasury Yields Have Surged. Is It Finally Time to Buy Bond ETFs? - The Globe and Mail",
+      "title": "이번 주 미국 증시 전망 - 2026년 8월 24일",
+      "display_title": "이번 주 미국 증시 전망 - 2026년 8월 24일",
+      "original_title": "US Stock Market This Week - 2026-08-24 - TradingKey",
       "summary": [
-        "미국 국채 수익률이 급등하며 채권 투자에 대한 관심이 높아지고, 채권 ETF 매수 적기인지 논의가 활발합니다.",
-        "채권 수익률 상승은 채권 가격 하락을 의미하지만, 현재 높은 수준의 수익률은 장기 투자자에게 매력적인 진입점을 제공할 수 있습니다.",
-        "이는 주식 시장에서 자금 이탈을 유발할 수 있으며, 국내 채권 시장 및 금리 민감 주식에 영향을 줄 수 있습니다."
+        "이번 주 미국 증시는 엔비디아 실적, 잭슨홀 미팅, PCE 지표 등 주요 경제 이벤트에 대한 기대와 우려가 공존합니다.",
+        "기술주 중심의 랠리가 지속될지, 아니면 조정 국면에 진입할지 여부가 결정될 중요한 한 주가 될 것입니다.",
+        "투자자들은 발표될 경제 지표와 연준 인사들의 발언에 촉각을 곤두세우며 신중한 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "미국 국채 수익률이 급등하며 채권 투자에 대한 관심이 높아지고, 채권 ETF 매수 적기인지 논의가 활발합니다. 채권 수익률 상승은 채권 가격 하락을 의미하지만, 현재 높은 수준의 수익률은 장기 투자자에게 매력적인 진입점을 제공할 수 있습니다. 이는 주식 시장에서 자금 이탈을 유발할 수 있으며, 국내 채권 시장 및 금리 민감 주식에 영향을 줄 수 있습니다.",
-      "description": "미국 국채 수익률이 급등하는 상황에서 채권 상장지수펀드(ETF) 투자를 고려할 시점인지에 대한 의문이 제기됩니다.",
+      "summary_text": "이번 주 미국 증시는 엔비디아 실적, 잭슨홀 미팅, PCE 지표 등 주요 경제 이벤트에 대한 기대와 우려가 공존합니다. 기술주 중심의 랠리가 지속될지, 아니면 조정 국면에 진입할지 여부가 결정될 중요한 한 주가 될 것입니다. 투자자들은 발표될 경제 지표와 연준 인사들의 발언에 촉각을 곤두세우며 신중한 투자 전략을 수립해야 합니다.",
+      "description": "2026년 8월 24일 기준, 이번 주 미국 증시의 주요 이슈와 전망에 대한 요약입니다.",
       "category": "증시·금리",
-      "importance": 7,
+      "importance": 8,
       "market_impact": "중립",
-      "related_sector": "채권",
+      "related_sector": "기술주, 반도체, 금융",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "높은 국채 수익률은 안전자산 선호 심리를 자극하여 국내 증시에 영향을 줄 수 있으며, 채권형 ETF 투자 매력도를 높일 수 있습니다.",
-      "key_signal": "미국 장기 국채 수익률의 추가 상승 여부와 그에 따른 자산 시장의 자금 흐름 변화를 주목해야 합니다.",
+      "investment_reason": "미국 증시의 주간 전망은 글로벌 투자 심리와 국내 증시의 흐름에 직접적인 영향을 미치므로, 주요 변수들을 이해하는 것이 중요합니다.",
+      "key_signal": "엔비디아 실적 발표와 잭슨홀 미팅에서 연준의 금리 정책 기조를 확인하고, PCE 지표를 통해 인플레이션 추세를 파악해야 합니다.",
       "keywords": [
-        "국채수익률",
-        "채권ETF",
-        "금리",
-        "안전자산",
-        "자산배분"
+        "미국증시",
+        "주간전망",
+        "잭슨홀",
+        "엔비디아",
+        "PCE"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOXZpMFc0V3NKcmlUYldYX2tyMDhOaWZjQnBjbGxTUC11bldNTGJUam5VTS1tbjV6WXBmak0tc2pXdGpIODU2Mjdsb2xpT3h2WHVjQzJ5emJ5X21ybW5uMDFQSU0wMHgtdXBUbEEzZXJVM081N3pBZkc3ZkJhbkpwYzg0R0t4SlZyOHp3QUV0VXlzY0p1TV9BVDRXQTZ5Mmk2bGd4NS1mcHFVVFA1NVE3SkdmSmdkbEFNYUgtRW91a0FhTkswNWZlYnpLdFY4dXV5MHdGRmVCbW54UQ?oc=5",
-      "published": "2026-08-23 02:38",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcURuTGVqRGpyZ0RDMHZsVmFza3FpNlhQOU43UENRMWdtRGFBQ3lVb21sYnA1aUdYUWY4UVR1dFBOa05ISGo0czJDdTFwUW9zMWh2bVRmUHp4SFN2bjNKUVM0WlcxbGFhb3Q5djBWYVdqNXVVSXhwaUM2WTVaVW1RaEJDZVJiUXA4?oc=5",
+      "published": "2026-08-23 20:49",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -282,16 +281,16 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "엔비디아 실적 발표와 미국 국채금리 변동은 국내 반도체 및 기술주 전반에 직접적인 영향을 미치며, 삼성전자는 시장 전반의 방향성을 결정하는 핵심 종목으로 변동성에 주목해야 합니다.",
+      "reason": "엔비디아 실적 발표와 잭슨홀 미팅 결과가 국내 증시의 방향성을 결정하는 핵심 요인이며, 삼성전자는 국내 증시의 대장주이자 반도체 산업의 핵심 기업으로서 이들 글로벌 이벤트의 영향을 직접적으로 받을 것입니다. 특히 AI 투자 사이클 검증에 중요한 지표입니다.",
       "check_points": [
-        "엔비디아 실적 발표 내용 및 가이던스",
-        "미국 국채금리 동향 및 연준 의사록 공개 결과",
-        "외국인 및 기관 투자자 매매 동향"
+        "엔비디아 실적 발표 결과 및 가이던스",
+        "잭슨홀 미팅 연준 의장 발언 내용",
+        "외국인 투자자 수급 동향"
       ],
       "related_news_titles": [
-        "[주간증시전망] 엔비디아 실적 발표·미국 국채금리에 '쏠린 눈'",
-        "급락 후 급반등 '롤러코스피'…미국 금리에 울고 주주환원에 웃었다",
-        "엔비디아 실적 발표와 연준 의사록 공개 앞두고 나스닥, S&P 500 선물 상승: 테슬라, SLS, IBRX, CAVA, POET, BA 주목"
+        "엔비디아 실적, 워시의 잭슨홀 데뷔, PCE: 뉴욕 증시 랠리의 방향을 결정할 세 가지 관건",
+        "엔비디아·잭슨홀에 달린 코스피…7000p 안착 시험대[주간 증시 전망]",
+        "[중국증시 주간 포인트] 잭슨홀 워시 발언, 美 국채안정·재정정비 계획, 中 제조업 지표, AI 투자사이클 검증 엔비디아 실적, A주∙홍콩주 반기실적, AI∙우주항공 이벤트 등"
       ]
     },
     {
@@ -300,48 +299,49 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "엔비디아 실적 발표에 따른 AI 반도체 업황 기대감과 함께, 배당 등 자체적인 주주환원 정책 강화 가능성이 부각되며 투자 심리에 긍정적인 영향을 미칠 수 있습니다.",
+      "reason": "엔비디아 실적 발표를 통해 글로벌 AI 반도체 수요와 투자 사이클이 구체화될 것으로 예상되며, AI 메모리(HBM) 시장의 선두 주자인 SK하이닉스는 이 결과에 따라 주가 변동성이 확대될 수 있습니다. 잭슨홀 미팅 결과도 반도체 업황에 간접적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "엔비디아 실적 내 AI 반도체(HBM) 관련 코멘트",
-        "SK하이닉스의 HBM 시장 점유율 및 추가 투자 계획",
-        "배당 등 주주환원 정책 발표 여부"
+        "엔비디아 실적 발표 내 AI 관련 언급 및 가이던스",
+        "HBM 등 고대역폭 메모리 시장 전망",
+        "글로벌 반도체 업황 전반의 변화"
       ],
       "related_news_titles": [
-        "[주간증시전망] 엔비디아 실적 발표·미국 국채금리에 '쏠린 눈'",
-        "엔비디아 실적 발표와 연준 의사록 공개 앞두고 나스닥, S&P 500 선물 상승: 테슬라, SLS, IBRX, CAVA, POET, BA 주목",
-        "나스닥 100 전망: 국채 수익률 반등과 유가 추가 상승에 NDX 하락"
+        "엔비디아 실적, 워시의 잭슨홀 데뷔, PCE: 뉴욕 증시 랠리의 방향을 결정할 세 가지 관건",
+        "주간 전망: 엔비디아, PCE, 잭슨홀이 증시 랠리를 시험대에 올릴 것",
+        "엔비디아·잭슨홀에 달린 코스피…7000p 안착 시험대[주간 증시 전망]"
       ]
     },
     {
       "rank": 3,
-      "name": "한미반도체",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "반도체 장비",
+      "sector": "인터넷서비스",
       "opinion": "관심",
-      "reason": "엔비디아 실적 발표에 따라 AI 반도체 산업의 성장 기대감이 다시 부각될 경우, HBM 관련 장비 공급사로서 직접적인 수혜를 받을 수 있어 관련 동향에 주목할 필요가 있습니다.",
+      "reason": "엔비디아 실적 발표를 통한 AI 투자 사이클 검증은 국내 AI 및 기술주 전반에 투자 심리 영향을 미칠 수 있으며, 네이버는 국내 대표 IT 기술 기업으로서 AI 서비스 확장 및 경쟁력 강화를 추진하고 있어 관련 동향에 민감하게 반응할 수 있습니다.",
       "check_points": [
-        "엔비디아의 HBM 관련 언급 및 가이던스",
-        "글로벌 반도체 장비 산업의 투자 동향",
-        "외국인 및 기관 투자자 순매수 추이"
+        "엔비디아 실적 발표에서 나타난 AI 산업 전망",
+        "국내외 기술주 전반의 투자 심리 변화",
+        "네이버의 AI 서비스 관련 뉴스 및 사업 전략"
       ],
       "related_news_titles": [
-        "[주간증시전망] 엔비디아 실적 발표·미국 국채금리에 '쏠린 눈'"
+        "[중국증시 주간 포인트] 잭슨홀 워시 발언, 美 국채안정·재정정비 계획, 中 제조업 지표, AI 투자사이클 검증 엔비디아 실적, A주∙홍콩주 반기실적, AI∙우주항공 이벤트 등"
       ]
     },
     {
       "rank": 4,
-      "name": "현대차",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "자동차",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "미국 금리 동향과 더불어 국내 기업들의 주주환원 정책이 코스피 시장의 주요 변동 요인으로 언급된 가운데, 적극적인 주주환원 정책을 펼치는 대표적인 대형주로서 관심이 필요합니다.",
+      "reason": "미국 증시의 사상 최고치 경신과 잭슨홀 미팅 결과에 따른 글로벌 유동성 및 금리 전망은 국내 금융 시장 전반에 영향을 미칩니다. 미래에셋증권은 증권업 대표 기업으로서 투자 심리 개선과 거래대금 증가에 따른 수혜를 기대할 수 있습니다.",
       "check_points": [
-        "미국 금리 인상/인하 스탠스 변화 및 시장 반응",
-        "국내 기업들의 추가적인 주주환원 정책 발표 여부",
-        "자동차 판매량 및 신차 출시 모멘텀"
+        "잭슨홀 미팅 연준 의장 발언의 강도 및 시장 해석",
+        "미국 증시의 추가 상승 여부 및 국내 증시와의 동조화",
+        "국내 증시 거래대금 및 투자 심리 변화"
       ],
       "related_news_titles": [
-        "급락 후 급반등 '롤러코스피'…미국 금리에 울고 주주환원에 웃었다"
+        "유가 하락과 인플레이션 완화에 미국 증시 사상 최고치 경신",
+        "이번 주 미국 증시 전망 - 2026년 8월 24일"
       ]
     }
   ],
