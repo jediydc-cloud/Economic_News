@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27 11:58",
-  "analysis_date": "2026-08-27",
+  "generated_at": "2026-08-28 14:59",
+  "analysis_date": "2026-08-28",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "오늘 시장은 거시 변수와 금리, 정책 변화, 기업 모멘텀이 동시에 반영되는 흐름으로 보입니다.",
-    "국내거시경제": "국내 경기와 물가, 수출 흐름은 정책 기대와 함께 업종별 차별화를 만들 수 있습니다.",
-    "글로벌경제": "미국 금리와 글로벌 경기, 지정학 변수는 국내 증시의 방향성에 계속 영향을 줄 가능성이 큽니다.",
-    "증시금리": "금리와 환율 흐름은 성장주와 금융주, 수출주 밸류에이션에 직접적인 변수입니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
-    "오늘의투자시사점": "단기 뉴스 반응보다 금리·실적·정책과 연결되는 업종별 흐름을 우선적으로 점검하는 것이 좋겠습니다.",
-    "오늘의한줄": "오늘은 거시 변수와 업종 모멘텀을 함께 읽어야 하는 장입니다."
+    "총평": "잭슨홀 연설을 앞두고 시장은 통화정책 불확실성 속 혼조세를 보였으나, AI 관련 투자 심리 회복에 힘입어 기술주가 반등했습니다.",
+    "국내거시경제": "국내 반도체 기업들은 AI 메모리 및 전력반도체 시장을 선도하며 글로벌 입지를 강화하고 있습니다. 특히 삼성전자, SK하이닉스가 AI 메모리 수요 폭증으로 글로벌 반도체 매출 상위권을 차지했으며, DB하이텍은 전력반도체 시장에 대규모 투자를 예고했습니다.",
+    "글로벌경제": "잭슨홀 미팅을 앞두고 연준 통화정책 불확실성이 글로벌 증시와 외환·채권 시장의 경계심을 높였습니다. 한편 AI 관련 투자 심리가 회복되며 엔비디아를 비롯한 기술주가 급등, 미국 증시 전반에 긍정적인 영향을 미쳤습니다.",
+    "증시금리": "잭슨홀 연설을 앞두고 나스닥 선물은 하락했으나 S&P 500과 다우 선물은 상승하며 혼조세를 보였습니다. 다만 AI 거래 회복에 엔비디아가 9% 급등하고 나스닥이 1.6% 상승하는 등 기술주 중심의 반등세가 뚜렷했습니다. 연설 결과에 따라 시장 변동성 확대 가능성이 높습니다.",
+    "부동산정책": "특이사항 없음.",
+    "기업산업": "삼성전자와 SK하이닉스는 AI 메모리 수요 폭발에 힘입어 글로벌 반도체 매출 '톱3'에 등극하며 AI 시장 주도권을 확보했습니다. DB하이텍은 AI 시대 전력반도체 시장 선점을 위해 향후 5년간 1조 5천억 원 규모의 대규모 투자를 단행할 계획입니다.",
+    "오늘의투자시사점": "잭슨홀 연설의 불확실성에 대비하여 포트폴리오 리스크 관리가 필요합니다. 그러나 AI 산업 성장은 여전히 강력한 모멘텀을 제공하며, 국내외 AI 반도체 및 관련 기술주에 대한 중장기적인 관심은 유효합니다.",
+    "오늘의한줄": "잭슨홀 연설 경계감 속 AI 기술주 반등으로 시장의 혼조세가 지속될 전망입니다."
   },
   "top_news": [
     {
@@ -28,81 +28,82 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "U.S. stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings. - KuCoin",
-      "display_title": "U.S. stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings. - KuCoin",
-      "original_title": "U.S. stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings. - KuCoin",
+      "title": "잭슨홀 연설 앞두고 나스닥 선물 하락, S&P 500 및 다우 선물 상승: PYPL, MRVL, IREN, AFRM 주식 주목",
+      "display_title": "잭슨홀 연설 앞두고 나스닥 선물 하락, S&P 500 및 다우 선물 상승: PYPL, MRVL, IREN, AFRM 주식 주목",
+      "original_title": "Nasdaq Futures Sink While S&P 500, Dow Futures Gain Ahead Of Fed Chief Warsh’s Jackson Hole Speech: PYPL, MRVL, IREN, AFRM Stocks In Focus - Stocktwits",
       "summary": [
-        "U.S.",
-        "stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings.",
-        "KuCoin"
+        "연준 의장의 잭슨홀 연설을 앞두고 나스닥 선물은 하락한 반면, S&P 500과 다우 선물은 상승하며 시장 혼조세를 보였습니다.",
+        "제롬 파월(가상의 워시 의장)의 잭슨홀 미팅 연설은 향후 통화 정책 방향을 가늠할 중요한 이벤트로, 시장은 연설 내용에 따라 기술주와 광범위한 시장 지수의 희비가 엇갈릴 가능성을 경계하고 있습니다.",
+        "연설 결과에 따라 기술 성장주 중심의 나스닥 변동성이 커질 수 있으므로, 관련 포트폴리오의 리스크 관리가 필요합니다."
       ],
-      "summary_text": "U.S. stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings. KuCoin",
-      "description": "U.S. stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings. KuCoin",
+      "summary_text": "연준 의장의 잭슨홀 연설을 앞두고 나스닥 선물은 하락한 반면, S&P 500과 다우 선물은 상승하며 시장 혼조세를 보였습니다. 제롬 파월(가상의 워시 의장)의 잭슨홀 미팅 연설은 향후 통화 정책 방향을 가늠할 중요한 이벤트로, 시장은 연설 내용에 따라 기술주와 광범위한 시장 지수의 희비가 엇갈릴 가능성을 경계하고 있습니다. 연설 결과에 따라 기술 성장주 중심의 나스닥 변동성이 커질 수 있으므로, 관련 포트폴리오의 리스크 관리가 필요합니다.",
+      "description": "연준 의장 워시의 잭슨홀 연설을 앞두고 나스닥 선물은 하락하고 S&P 500과 다우 선물은 상승했으며, PYPL, MRVL, IREN, AFRM 주식이 주목받고 있습니다.",
       "category": "증시·금리",
-      "importance": 5,
-      "market_impact": "부정",
-      "related_sector": "금융/증권",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "기술주, 증시 전반",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "investment_reason": "잭슨홀 연설 결과에 따라 글로벌 증시의 방향성이 결정될 수 있어 투자 심리에 큰 영향을 미칠 수 있습니다.",
+      "key_signal": "연준 의장의 잭슨홀 연설 내용과 그에 따른 나스닥 선물 흐름을 주시해야 합니다.",
       "keywords": [
-        "concerns",
-        "earnings",
-        "fell",
-        "inflation"
+        "잭슨홀",
+        "연준",
+        "금리",
+        "나스닥",
+        "변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVNSRTJpT2t4ZUR0QUREODN6REptd0xweF9YZml1ZENsYl9HSVJWNEE0blEteXpwNU5ySGlWOTJtUGtSSk1taWJ6dWdRblUzUkpfV19rdkU2VDJvd0Q4Vjk3QTR1blB2VnBSSVpzLXNFNnhLdVUwUkttbnBfdGFSVlJyc3lPRXlLRnozbVNMNnJiTkdsNW1rbUh1TzdkSUwtQlNRVWdHaWZmNmdIVEE?oc=5",
-      "published": "2026-08-27 10:56",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPR1A5UXNZSGhTV1JwZmllQ1J2SWhVVktMZjlIM0IxaUhpM3dieFhmZVJpa2Vxa0ZFUGNxQ2thZm51TzVwb1ZkNlVDdWY1SmozQWx3VmZBUk1xaDNyVk5ZbEVaNHhIalBMX21FMENmeVZTbWg2dThsTTlDUU5tZkpyTl9pRFZydkxJR1R3Z2IxamxxUDl4R21EMnVJQk1KS0J2ZVFwc1FJdUhQdzZsRUtyakNidzdFZXp0OThLVlhLNVp6UnBiTkxBS3ZYYWp0bk1sX1JHWXE0WUdyTlh4aGc2YXhzZVZXUGprZ2JoR3RxVGhYMVdsZE55aWZwOV80SDBiN183UXRKWUl5Sm5meU9QN3F2N1RvRUUxQVRxQU0yaWJGYW1JVTc1LQ?oc=5",
+      "published": "2026-08-28 13:10",
       "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
-      "display_title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
-      "original_title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "삼성전자·SK하이닉스, 글로벌 반도체 매출 '톱3' 등극…AI 메모리 수요 폭발",
+      "display_title": "삼성전자·SK하이닉스, 글로벌 반도체 매출 '톱3' 등극…AI 메모리 수요 폭발",
+      "original_title": "삼성전자·SK하이닉스, 글로벌 반도체 매출 ‘톱3’…AI 메모리 수요 폭발 - 테크월드",
       "summary": [
-        "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
-        "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings Reuters",
-        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
+        "삼성전자와 SK하이닉스가 AI 메모리 수요 폭발에 힘입어 글로벌 반도체 매출 상위 3위에 이름을 올렸습니다.",
+        "고성능 AI 반도체 구동에 필수적인 고대역폭 메모리(HBM) 등 AI 메모리 시장에서 두 회사가 선도적인 위치를 확보하며 강력한 실적 개선을 이끌고 있습니다.",
+        "AI 산업 성장의 핵심 수혜주로서 중장기적인 성장 가능성이 매우 높으며, 글로벌 반도체 시장의 주도권을 더욱 강화할 것으로 예상됩니다."
       ],
-      "summary_text": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings Reuters 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings Reuters",
-      "category": "증시·금리",
-      "importance": 5,
-      "market_impact": "부정",
-      "related_sector": "금융/증권",
+      "summary_text": "삼성전자와 SK하이닉스가 AI 메모리 수요 폭발에 힘입어 글로벌 반도체 매출 상위 3위에 이름을 올렸습니다. 고성능 AI 반도체 구동에 필수적인 고대역폭 메모리(HBM) 등 AI 메모리 시장에서 두 회사가 선도적인 위치를 확보하며 강력한 실적 개선을 이끌고 있습니다. AI 산업 성장의 핵심 수혜주로서 중장기적인 성장 가능성이 매우 높으며, 글로벌 반도체 시장의 주도권을 더욱 강화할 것으로 예상됩니다.",
+      "description": "삼성전자와 SK하이닉스가 글로벌 반도체 매출 '톱3'에 오르며 AI 메모리 수요 폭발의 수혜를 톡톡히 보고 있습니다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI, 메모리 반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "investment_view": "관심",
+      "investment_reason": "AI 메모리 수요 폭발은 삼성전자와 SK하이닉스의 실적과 주가에 긍정적인 영향을 미칠 핵심 동력이며, 장기적인 투자 매력이 높습니다.",
+      "key_signal": "AI 메모리 시장의 경쟁 구도 변화와 두 회사의 HBM 등 고부가가치 제품 생산 능력 확충 계획을 지속적으로 주시해야 합니다.",
       "keywords": [
-        "ahead",
-        "data",
-        "earnings",
-        "end"
+        "삼성전자",
+        "SK하이닉스",
+        "AI 메모리",
+        "반도체",
+        "HBM"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
-      "published": "2026-08-27 07:50",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cjFaa0VseUZLMy1QZmV5OXB5UUFSODdqZWo2TFZhWWhOTXBGeHRjQTIxQzNJanBMX0w5eWFSSG9FTEZSQkJEZ0pkeUZMSHkwSTJtWVBZSXpYcFo0Mm9qODk1dmw1ai1K?oc=5",
+      "published": "2026-08-28 12:00",
       "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
@@ -110,40 +111,40 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth - Intellectia AI",
-      "display_title": "Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth - Intellectia AI",
-      "original_title": "Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth - Intellectia AI",
+      "title": "AI 거래 회복에 엔비디아 9% 상승, S&P 500 및 나스닥 동반 상승",
+      "display_title": "AI 거래 회복에 엔비디아 9% 상승, S&P 500 및 나스닥 동반 상승",
+      "original_title": "NVIDIA Rises 9% as AI Trading Recovers, S&P 500 and Nasdaq Gain - KuCoin",
       "summary": [
-        "Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth - Intellectia AI",
-        "Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth Intellectia AI",
-        "기업·산업 관련 투자 판단에 참고할 만한 흐름입니다."
+        "AI 관련 주식 거래 회복에 힘입어 엔비디아가 9% 급등했으며, S&P 500과 나스닥 지수도 동반 상승했습니다.",
+        "최근 AI 관련 주식들의 조정 이후 다시 투자 심리가 개선되며 대형 기술주와 증시 전반에 긍정적인 영향을 미쳤습니다.",
+        "AI 산업의 강력한 성장 모멘텀이 여전히 유효하며, 국내 AI 반도체 및 관련 소프트웨어 기업들에게도 긍정적인 영향을 줄 수 있습니다."
       ],
-      "summary_text": "Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth - Intellectia AI Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth Intellectia AI 기업·산업 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth Intellectia AI",
-      "category": "기업·산업",
-      "importance": 5,
+      "summary_text": "AI 관련 주식 거래 회복에 힘입어 엔비디아가 9% 급등했으며, S&P 500과 나스닥 지수도 동반 상승했습니다. 최근 AI 관련 주식들의 조정 이후 다시 투자 심리가 개선되며 대형 기술주와 증시 전반에 긍정적인 영향을 미쳤습니다. AI 산업의 강력한 성장 모멘텀이 여전히 유효하며, 국내 AI 반도체 및 관련 소프트웨어 기업들에게도 긍정적인 영향을 줄 수 있습니다.",
+      "description": "AI 관련 거래가 회복되면서 엔비디아가 9% 상승했고, S&P 500과 나스닥 지수도 함께 상승했습니다.",
+      "category": "증시·금리",
+      "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "2차전지",
+      "related_sector": "반도체, AI, IT하드웨어",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "2차전지 관련 업종과 종목에 직접적인 기대 또는 우려를 반영할 수 있는 뉴스입니다.",
-      "key_signal": "해당 업종 실적 모멘텀과 투자 확대 여부 확인",
+      "investment_reason": "엔비디아의 상승은 글로벌 AI 산업의 견조한 성장세를 재확인시켜주며 국내 반도체 및 AI 관련 기업들의 실적 기대감을 높입니다.",
+      "key_signal": "엔비디아의 추가적인 상승 여부와 국내 AI 반도체 관련 기업들의 주가 동향을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "ai",
-        "2026",
-        "analysis",
-        "demand"
+        "엔비디아",
+        "AI",
+        "반도체",
+        "나스닥",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbDVfOTlQaWltNFdsaEZuRUwyMkR0SWtESDdWbnN4ZG9CZEh2QzlTRk9XVzF2LW9lZDV4ZTVGMENEdmNUTmQ1emRycTB2NUNVVWN5dkF3SFBnU0d5VEUtSkV3T3VyZG5GaUROcFgxMA?oc=5",
-      "published": "2026-08-27 09:12",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdXBqLWhtYTh6RFcycEg5N19zQlF0UFZBQjVXSnNvcExnaVp1dXpEYlNadlNqNTllQUJZTWxYZ1JNQlg3cTV3c1Z3dDQ3ZkFJb2Vyb0VoeWFuTEZtWEkyVjQxM1dIRkhNeVQ3VGJmdlhRTlNIVXJ4NHRrLTE4Z3VNRTU1XzJOSl9ZeExkLV9Pck15QWxhbEkzTEZFUWs?oc=5",
+      "published": "2026-08-28 11:25",
       "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
@@ -151,81 +152,82 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "The Bull Case For Enphase Energy (ENPH) Could Change Following AI-Driven Platform And European Expansion Moves - simplywall.st",
-      "display_title": "The Bull Case For Enphase Energy (ENPH) Could Change Following AI-Driven Platform And European Expansion Moves - simplywall.st",
-      "original_title": "The Bull Case For Enphase Energy (ENPH) Could Change Following AI-Driven Platform And European Expansion Moves - simplywall.st",
+      "title": "워시 연설 앞두고 주식시장 경계심, 외환 및 채권 시장 숨죽여 관망",
+      "display_title": "워시 연설 앞두고 주식시장 경계심, 외환 및 채권 시장 숨죽여 관망",
+      "original_title": "Shares turn cautious ahead of Warsh speech; FX, bonds hold breath - WTVB",
       "summary": [
-        "The Bull Case For Enphase Energy (ENPH) Could Change Following AI-Driven Platform And European Expansion Moves - simplyw...",
-        "The Bull Case For Enphase Energy (ENPH) Could Change Following AI-Driven Platform And European Expansion Moves simplywal...",
-        "기업·산업 관련 투자 판단에 참고할 만한 흐름입니다."
+        "연준 의장 워시의 잭슨홀 연설을 앞두고 글로벌 주식시장은 전반적으로 신중한 태도를 보이고 있으며, 외환 및 채권 시장도 변동성에 대비하고 있습니다.",
+        "연준의 통화 정책 방향에 대한 불확실성이 시장 전반에 깔려 있으며, 주요 자산 시장 투자자들은 연설 내용에 따라 시장의 큰 움직임을 예상하고 있습니다.",
+        "중요한 경제 이벤트 전에는 시장 변동성 확대 가능성이 높으므로, 보수적인 접근과 함께 이벤트 후 시장 반응을 지켜보는 것이 현명합니다."
       ],
-      "summary_text": "The Bull Case For Enphase Energy (ENPH) Could Change Following AI-Driven Platform And European Expansion Moves - simplyw... The Bull Case For Enphase Energy (ENPH) Could Change Following AI-Driven Platform And European Expansion Moves simplywal... 기업·산업 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "The Bull Case For Enphase Energy (ENPH) Could Change Following AI-Driven Platform And European Expansion Moves simplywall.st",
-      "category": "기업·산업",
-      "importance": 5,
-      "market_impact": "긍정",
-      "related_sector": "AI/소프트웨어",
-      "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "AI/소프트웨어 관련 업종과 종목에 직접적인 기대 또는 우려를 반영할 수 있는 뉴스입니다.",
-      "key_signal": "해당 업종 실적 모멘텀과 투자 확대 여부 확인",
-      "keywords": [
-        "ai",
-        "bull",
-        "case",
-        "change"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTElSQjRtVF9pSGVrdWxMeGtybEt3TlRrM1lQY3RWTWM2ZVZGOS1xeTJ3YXdQUkg2THVtcmU1aE1CZ1E5R2E5c0VHOUg2enJyVEtjcW9UeEp1RW5TdjV2ektUYnNQLVNQc3lrWWVySUtQbTVjcVlQQmdTN21oTjRQOGoyeWVVVVQwdHBGdlZvVXctNUdxbDB2WFpuclJISnlhZmlUaElkVi1Ld1VvdE9aeTVlem1lclF4UURHdTA4U1VQTmhGRjFkLTh2STlUODhESkZhTUNR0gHbAUFVX3lxTE52dzZVNVFQMmh1YmtWNHFvdTVPdmZreGg1bVRMT2d3TjN1ekZoT052M3hjWm92TkZBWjkxNmxrZnB6Z2s4akZSamlDTnNCR19GQWJNc09qY3FaLW5wQnlGMHlhaHNBQ1BmU2xtRHF6S25WSGNTcENjSy0yLXRmTHVWcnpVX2sway1tOHBtNVk4TEJnRHd5TTBuQzRxeWxqRzRkM29pdURDU2EwZG0wcmthNFhvX0NOSFlCbV9EcGttQ1ZoVWQwXzd6QmtRMjBIb2xyUmxBM0FmMTRyNA?oc=5",
-      "published": "2026-08-27 02:42",
-      "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
-      }
-    },
-    {
-      "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "엔비디아 영향 초반 급등 코스피…금리인상에 6900선 으로 · 시장 영향은? - supple.kr",
-      "display_title": "엔비디아 영향 초반 급등 코스피…금리인상에 6900선 으로 · 시장 영향은? - supple.kr",
-      "original_title": "엔비디아 영향 초반 급등 코스피…금리인상에 6900선 으로 · 시장 영향은? - supple.kr",
-      "summary": [
-        "엔비디아 영향 초반 급등 코스피…금리인상에 6900선 으로 · 시장 영향은?",
-        "supple.kr",
-        "증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다."
-      ],
-      "summary_text": "엔비디아 영향 초반 급등 코스피…금리인상에 6900선 으로 · 시장 영향은? supple.kr 증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다.",
-      "description": "엔비디아 영향 초반 급등 코스피…금리인상에 6900선 으로 · 시장 영향은? supple.kr",
+      "summary_text": "연준 의장 워시의 잭슨홀 연설을 앞두고 글로벌 주식시장은 전반적으로 신중한 태도를 보이고 있으며, 외환 및 채권 시장도 변동성에 대비하고 있습니다. 연준의 통화 정책 방향에 대한 불확실성이 시장 전반에 깔려 있으며, 주요 자산 시장 투자자들은 연설 내용에 따라 시장의 큰 움직임을 예상하고 있습니다. 중요한 경제 이벤트 전에는 시장 변동성 확대 가능성이 높으므로, 보수적인 접근과 함께 이벤트 후 시장 반응을 지켜보는 것이 현명합니다.",
+      "description": "워시 연설을 앞두고 주식시장은 경계 태세를 보였으며, 외환 및 채권 시장도 숨죽이며 관망하고 있습니다.",
       "category": "증시·금리",
-      "importance": 5,
+      "importance": 8,
       "market_impact": "중립",
-      "related_sector": "금융/증권",
+      "related_sector": "증시 전반, 금융",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "중립",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "investment_view": "주의",
+      "investment_reason": "주요 통화 정책 이벤트는 시장 전반에 큰 영향을 미칠 수 있어 투자자들의 신중한 접근이 요구됩니다.",
+      "key_signal": "잭슨홀 연설에서 발표될 연준의 향후 통화 정책 기조에 대한 힌트를 면밀히 분석해야 합니다.",
       "keywords": [
-        "6900선",
-        "kr",
-        "supple",
-        "금리인상에"
+        "잭슨홀",
+        "연준",
+        "금리",
+        "외환",
+        "채권"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4MTFYZS0wVDZ2UjBLbUlXVTkyUEZDV1V1cTZVblF6MzRIMm0xNHBYSDctVU5uVTE4N2JsNXY4OFZIUkNBTDUtVWx1eDZVSnU1R1pNSlZYdlVhLVFS?oc=5",
-      "published": "2026-08-27 11:37",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkZocDcwT0dYTEVmbmVLTEZqRWVTSUtENGdBWnFxOWtsMWxyVDZQRTl3MGg5S3BRak1BVEdmeHZPTnBjU3FrQTd0OF9aWm1QZVhUakczbFNoc1dpTXc1Ri1DVGlVcERVRWxPblFDUm9lMlRNQnlUaEVqbEdIemcwY190NEhwRFF0T0R5QlRDZnBnVVFPaUdDSnVB?oc=5",
+      "published": "2026-08-28 11:20",
       "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 5,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "AI 거래 회복에 엔비디아 9% 급등, 나스닥 1.6% 상승",
+      "display_title": "AI 거래 회복에 엔비디아 9% 급등, 나스닥 1.6% 상승",
+      "original_title": "NVIDIA Surges 9% as AI Trading Recovers, Nasdaq Rises 1.6% - KuCoin",
+      "summary": [
+        "AI 관련 투자 심리 회복으로 엔비디아 주가가 9% 급등하며, 나스닥 종합지수도 1.6% 상승했습니다.",
+        "최근 조정세를 보였던 AI 및 기술주 섹터가 다시 강세를 보이면서, 미국 주요 기술주 중심의 증시 회복 기대감이 커지고 있습니다.",
+        "글로벌 기술주, 특히 AI 관련주의 강세는 국내 반도체 및 AI 생태계 기업들에게도 긍정적인 투자 심리를 제공할 수 있습니다."
+      ],
+      "summary_text": "AI 관련 투자 심리 회복으로 엔비디아 주가가 9% 급등하며, 나스닥 종합지수도 1.6% 상승했습니다. 최근 조정세를 보였던 AI 및 기술주 섹터가 다시 강세를 보이면서, 미국 주요 기술주 중심의 증시 회복 기대감이 커지고 있습니다. 글로벌 기술주, 특히 AI 관련주의 강세는 국내 반도체 및 AI 생태계 기업들에게도 긍정적인 투자 심리를 제공할 수 있습니다.",
+      "description": "AI 관련 거래가 회복되면서 엔비디아가 9% 급등했고, 나스닥 지수는 1.6% 상승했습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI, IT하드웨어",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "엔비디아의 강력한 상승세는 AI 기술주의 성장 잠재력을 다시 한번 입증하며 국내 관련 기업들의 주가에도 긍정적인 영향을 미칠 수 있습니다.",
+      "key_signal": "미국 AI 기술주의 지속적인 강세 여부와 국내 반도체 기업들의 실적 및 투자 계획을 확인해야 합니다.",
+      "keywords": [
+        "엔비디아",
+        "AI",
+        "나스닥",
+        "반도체",
+        "기술주"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXppMmZETDkwNklXLTdyd0JUR1U4X0JpUHZGek1WRW1tU3pIZmJGR1luSlpvaHF0dFp4OWtaWUxzOURNckJ5YUROeGFPRmNoRTMtX2hsSEZJMmhuTF82a2FWTnNvX1lsU3pmLVZrc25QbFFPejJxYkVUNW5fdkNVNk1zRm94cG53Q1lpRXB5aHRQSjQ?oc=5",
+      "published": "2026-08-28 11:14",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
@@ -233,98 +235,110 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피, 1%대 상승…기준금리 인상 이후 상승폭 축소 - 네이트",
-      "display_title": "코스피, 1%대 상승…기준금리 인상 이후 상승폭 축소 - 네이트",
-      "original_title": "코스피, 1%대 상승…기준금리 인상 이후 상승폭 축소 - 네이트",
+      "title": "AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조 베팅 승부수",
+      "display_title": "AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조 베팅 승부수",
+      "original_title": "[창간 특집][DB그룹] AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조 베팅 승부수 - 빅데이터뉴스",
       "summary": [
-        "코스피, 1%대 상승…기준금리 인상 이후 상승폭 축소 - 네이트",
-        "코스피, 1%대 상승…기준금리 인상 이후 상승폭 축소 네이트",
-        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
+        "DB하이텍이 AI 시대의 핵심 요소인 전력반도체 시장을 겨냥해 향후 5년간 1조 5천억 원 규모의 대규모 투자를 단행합니다.",
+        "AI 기술 발전과 함께 데이터센터, 전기차 등 고성능 전자기기 수요가 급증하면서 전력반도체는 AI 시대를 지탱하는 필수 부품으로 부상하고 있습니다.",
+        "전력반도체 시장 성장의 직접적인 수혜가 예상되며, DB하이텍의 중장기 성장 동력 확보 가능성을 주목해야 합니다."
       ],
-      "summary_text": "코스피, 1%대 상승…기준금리 인상 이후 상승폭 축소 - 네이트 코스피, 1%대 상승…기준금리 인상 이후 상승폭 축소 네이트 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "코스피, 1%대 상승…기준금리 인상 이후 상승폭 축소 네이트",
-      "category": "증시·금리",
-      "importance": 5,
+      "summary_text": "DB하이텍이 AI 시대의 핵심 요소인 전력반도체 시장을 겨냥해 향후 5년간 1조 5천억 원 규모의 대규모 투자를 단행합니다. AI 기술 발전과 함께 데이터센터, 전기차 등 고성능 전자기기 수요가 급증하면서 전력반도체는 AI 시대를 지탱하는 필수 부품으로 부상하고 있습니다. 전력반도체 시장 성장의 직접적인 수혜가 예상되며, DB하이텍의 중장기 성장 동력 확보 가능성을 주목해야 합니다.",
+      "description": "DB하이텍이 AI 시대의 전력반도체 수요 증가에 발맞춰 향후 5년간 1조 5천억 원을 투자하는 승부수를 띄웁니다.",
+      "category": "기업·산업",
+      "importance": 7,
       "market_impact": "긍정",
-      "related_sector": "금융/증권",
+      "related_sector": "반도체, 전력반도체, AI",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "DB하이텍"
       ],
       "investment_view": "관심",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "investment_reason": "AI 시대 필수 부품인 전력반도체 시장 선점을 위한 대규모 투자는 DB하이텍의 중장기적인 성장 가능성을 높입니다.",
+      "key_signal": "DB하이텍의 전력반도체 신규 라인 증설 및 기술 개발 진행 상황을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "기준금리",
-        "네이트",
-        "상승",
-        "상승폭"
+        "DB하이텍",
+        "전력반도체",
+        "AI",
+        "반도체 투자",
+        "시스템반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NWlZfM0k4NndkRFJQbnQ5WFNVbkllR0pZMnRpazkxMzhZT1pPckNYWkpkb1g2bDdFcWxyeG5mTTlfeC1KX2xULVdOWXA1YmVhNW9nNEhIY3FpbWxKdFQ2d3dkbEFXRFdMRGw0b1ZR?oc=5",
-      "published": "2026-08-27 11:06",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55cUxmdGkzY0xZdC1ZT185QVh5VkMtV3hnNGhjTGNjaXlnNGFJMjFrWmF5LVNFZF9Mc25adWJMUnd6aEpDaVl4MjdIQ0dBS013R19WTFNWRkd2Q0xSRUc5U0xEMWNkaXRUMkg1bll2bHhPQkdNcDNBWDlua28?oc=5",
+      "published": "2026-08-28 09:00",
       "quality": {
         "title_status": "원문한국어",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     }
   ],
   "watchlist": [
     {
       "rank": 1,
-      "name": "미래에셋증권",
-      "market": "KOSPI/KOSDAQ",
-      "sector": "금융/증권",
-      "opinion": "주의",
-      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "AI 메모리 수요 폭발 및 엔비디아 급등 소식은 삼성전자의 실적 기대감을 높이며, 국내 반도체 산업 전반에 긍정적인 영향을 미칠 핵심 동력으로 판단됩니다.",
       "check_points": [
-        "금리 방향성과 시장 유동성 흐름 확인"
+        "글로벌 AI 메모리 시장 동향 및 경쟁 구도",
+        "하반기 반도체 업황 회복 속도",
+        "외국인 및 기관 투자자 수급 동향"
       ],
       "related_news_titles": [
-        "U.S. stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings. - KuCoin"
+        "삼성전자·SK하이닉스, 글로벌 반도체 매출 '톱3' 등극…AI 메모리 수요 폭발",
+        "AI 거래 회복에 엔비디아 9% 상승, S&P 500 및 나스닥 동반 상승",
+        "AI 거래 회복에 엔비디아 9% 급등, 나스닥 1.6% 상승"
       ]
     },
     {
       "rank": 2,
-      "name": "한국금융지주",
-      "market": "KOSPI/KOSDAQ",
-      "sector": "금융/증권",
-      "opinion": "주의",
-      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "AI 시대 필수적인 고대역폭 메모리(HBM) 시장의 선두 주자로서, 글로벌 AI 메모리 수요 폭발 및 엔비디아 강세는 SK하이닉스의 성장 기대감을 한층 높이는 요인입니다.",
       "check_points": [
-        "금리 방향성과 시장 유동성 흐름 확인"
+        "HBM 등 고부가 메모리 제품의 시장 지배력",
+        "DRAM 및 낸드 가격 추이",
+        "기술 경쟁력 유지 및 신기술 개발 여부"
       ],
       "related_news_titles": [
-        "U.S. stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings. - KuCoin"
+        "삼성전자·SK하이닉스, 글로벌 반도체 매출 '톱3' 등극…AI 메모리 수요 폭발",
+        "AI 거래 회복에 엔비디아 9% 상승, S&P 500 및 나스닥 동반 상승",
+        "AI 거래 회복에 엔비디아 9% 급등, 나스닥 1.6% 상승"
       ]
     },
     {
       "rank": 3,
-      "name": "NH투자증권",
-      "market": "KOSPI/KOSDAQ",
-      "sector": "금융/증권",
-      "opinion": "주의",
-      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "name": "DB하이텍",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "AI 시대 필수 부품인 전력반도체 시장 선점을 위한 대규모 투자는 DB하이텍의 중장기적인 성장 가능성을 높이며, 파운드리 경쟁력을 강화할 기회가 될 수 있습니다.",
       "check_points": [
-        "금리 방향성과 시장 유동성 흐름 확인"
+        "전력반도체 투자 계획의 구체적인 진행 상황",
+        "신규 고객사 확보 및 수주 증가 여부",
+        "글로벌 파운드리 시장 경쟁 구도 변화"
       ],
       "related_news_titles": [
-        "U.S. stocks fell amid concerns over PCE inflation, while Nvidia rose 4% after earnings. - KuCoin"
+        "AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조 베팅 승부수"
       ]
     },
     {
       "rank": 4,
       "name": "네이버",
-      "market": "KOSPI/KOSDAQ",
-      "sector": "2차전지",
-      "opinion": "관심",
-      "reason": "2차전지 관련 업종과 종목에 직접적인 기대 또는 우려를 반영할 수 있는 뉴스입니다.",
+      "market": "KOSPI",
+      "sector": "IT 서비스, 인터넷",
+      "opinion": "중립",
+      "reason": "잭슨홀 및 워시 연설 등 주요 통화 정책 이벤트를 앞두고 글로벌 증시 전반, 특히 기술주에 대한 경계심이 필요합니다. 매크로 불확실성 속 주가 변동성을 주시하며 신중한 접근이 요구됩니다.",
       "check_points": [
-        "해당 업종 실적 모멘텀과 투자 확대 여부 확인"
+        "잭슨홀 및 워시 연설 결과와 글로벌 시장의 반응",
+        "글로벌 기술주 동향 및 투자 심리 변화",
+        "국내외 플랫폼 규제 환경 변화 및 사업 확장 전략"
       ],
       "related_news_titles": [
-        "Nvidia Q2 2026 Earnings Analysis: AI Demand Drives Record Revenue Growth - Intellectia AI"
+        "잭슨홀 연설 앞두고 나스닥 선물 하락, S&P 500 및 다우 선물 상승: PYPL, MRVL, IREN, AFRM 주식 주목",
+        "워시 연설 앞두고 주식시장 경계심, 외환 및 채권 시장 숨죽여 관망"
       ]
     }
   ],
