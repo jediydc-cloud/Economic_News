@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28 14:59",
-  "analysis_date": "2026-08-28",
+  "generated_at": "2026-08-29 12:34",
+  "analysis_date": "2026-08-29",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "잭슨홀 연설을 앞두고 시장은 통화정책 불확실성 속 혼조세를 보였으나, AI 관련 투자 심리 회복에 힘입어 기술주가 반등했습니다.",
-    "국내거시경제": "국내 반도체 기업들은 AI 메모리 및 전력반도체 시장을 선도하며 글로벌 입지를 강화하고 있습니다. 특히 삼성전자, SK하이닉스가 AI 메모리 수요 폭증으로 글로벌 반도체 매출 상위권을 차지했으며, DB하이텍은 전력반도체 시장에 대규모 투자를 예고했습니다.",
-    "글로벌경제": "잭슨홀 미팅을 앞두고 연준 통화정책 불확실성이 글로벌 증시와 외환·채권 시장의 경계심을 높였습니다. 한편 AI 관련 투자 심리가 회복되며 엔비디아를 비롯한 기술주가 급등, 미국 증시 전반에 긍정적인 영향을 미쳤습니다.",
-    "증시금리": "잭슨홀 연설을 앞두고 나스닥 선물은 하락했으나 S&P 500과 다우 선물은 상승하며 혼조세를 보였습니다. 다만 AI 거래 회복에 엔비디아가 9% 급등하고 나스닥이 1.6% 상승하는 등 기술주 중심의 반등세가 뚜렷했습니다. 연설 결과에 따라 시장 변동성 확대 가능성이 높습니다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "삼성전자와 SK하이닉스는 AI 메모리 수요 폭발에 힘입어 글로벌 반도체 매출 '톱3'에 등극하며 AI 시장 주도권을 확보했습니다. DB하이텍은 AI 시대 전력반도체 시장 선점을 위해 향후 5년간 1조 5천억 원 규모의 대규모 투자를 단행할 계획입니다.",
-    "오늘의투자시사점": "잭슨홀 연설의 불확실성에 대비하여 포트폴리오 리스크 관리가 필요합니다. 그러나 AI 산업 성장은 여전히 강력한 모멘텀을 제공하며, 국내외 AI 반도체 및 관련 기술주에 대한 중장기적인 관심은 유효합니다.",
-    "오늘의한줄": "잭슨홀 연설 경계감 속 AI 기술주 반등으로 시장의 혼조세가 지속될 전망입니다."
+    "총평": "연준 의장의 매파적 발언으로 글로벌 긴축 우려가 커지며 뉴욕 증시가 하락했습니다. 국내 증시 또한 금리 우려와 대외 불확실성으로 하방 압력을 받고 있으며, 다음 주 국내 주요 경제 지표 발표에 관심이 쏠리고 있습니다. 한편, SiC 소결 부품 기업의 실적 개선은 차세대 전력 반도체 시장의 성장 가능성을 시사합니다.",
+    "국내거시경제": "다음 주 800조원대 예산안 공개와 산업생산, 물가, 경상수지 등 주요 경제 지표 발표가 예정되어 있습니다. 정부 정책 방향과 국내 경제의 회복 강도를 가늠할 중요한 지표가 될 것입니다.",
+    "글로벌경제": "연준 의장의 금리 인하 배제 및 9월 금리 인상 가능성 시사로 글로벌 긴축 우려가 심화되었습니다. 잭슨홀 연설을 앞두고 미국 증시는 혼조세를 보였으나, 매파적 발언에 대한 경계감은 지속되고 있습니다.",
+    "증시금리": "연준 의장의 매파적 발언과 미국 10년물 국채 금리 급등으로 뉴욕 증시와 나스닥이 하락 전환했습니다. 국내 증시도 글로벌 기술주 강세에도 불구하고 금리 인상 우려와 미국 정치적 불확실성으로 하방 압력을 받고 있습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "아크미 일렉트로닉스는 2026년 상반기 견조한 실적을 발표하며 2027년 SiC 소결 부품 양산 확대를 핵심 성장 동력으로 제시했습니다. SiC는 차세대 전력 반도체 소재로, 전기차 및 신재생에너지 분야의 성장을 이끌며 관련 기업의 성장 기대감을 높입니다.",
+    "오늘의투자시사점": "글로벌 긴축 우려와 대외 불확실성 증대로 국내 증시 변동성 확대에 대비한 보수적인 접근이 필요합니다. 고금리 환경에 취약한 기술주 및 성장주에 대한 투자 시 위험 관리를 강화해야 하며, SiC 관련 성장 산업에 대한 중장기 투자 기회를 모색할 필요가 있습니다.",
+    "오늘의한줄": "연준의 매파적 발언으로 긴축 우려가 커지며 국내 증시의 보수적인 대응이 요구됩니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "잭슨홀 연설 앞두고 나스닥 선물 하락, S&P 500 및 다우 선물 상승: PYPL, MRVL, IREN, AFRM 주식 주목",
-      "display_title": "잭슨홀 연설 앞두고 나스닥 선물 하락, S&P 500 및 다우 선물 상승: PYPL, MRVL, IREN, AFRM 주식 주목",
-      "original_title": "Nasdaq Futures Sink While S&P 500, Dow Futures Gain Ahead Of Fed Chief Warsh’s Jackson Hole Speech: PYPL, MRVL, IREN, AFRM Stocks In Focus - Stocktwits",
+      "title": "연준 의장 워시, 금리 인하 배제…9월 인상 확률 57% 급등, 뉴욕 증시 하락",
+      "display_title": "연준 의장 워시, 금리 인하 배제…9월 인상 확률 57% 급등, 뉴욕 증시 하락",
+      "original_title": "Fed Chair Warsh rules out rate cuts, September hike odds surge to 57%, NY stocks fall - finance.biggo.com",
       "summary": [
-        "연준 의장의 잭슨홀 연설을 앞두고 나스닥 선물은 하락한 반면, S&P 500과 다우 선물은 상승하며 시장 혼조세를 보였습니다.",
-        "제롬 파월(가상의 워시 의장)의 잭슨홀 미팅 연설은 향후 통화 정책 방향을 가늠할 중요한 이벤트로, 시장은 연설 내용에 따라 기술주와 광범위한 시장 지수의 희비가 엇갈릴 가능성을 경계하고 있습니다.",
-        "연설 결과에 따라 기술 성장주 중심의 나스닥 변동성이 커질 수 있으므로, 관련 포트폴리오의 리스크 관리가 필요합니다."
+        "연준 의장의 매파적 발언으로 9월 금리 인상 가능성이 높아지며 뉴욕 증시가 하락 마감했습니다.",
+        "연준 의장이 금리 인하를 배제하고 금리 인상 가능성을 시사하면서 시장의 긴축 우려가 커졌습니다.",
+        "글로벌 긴축 기조 강화는 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 시 주의가 필요합니다."
       ],
-      "summary_text": "연준 의장의 잭슨홀 연설을 앞두고 나스닥 선물은 하락한 반면, S&P 500과 다우 선물은 상승하며 시장 혼조세를 보였습니다. 제롬 파월(가상의 워시 의장)의 잭슨홀 미팅 연설은 향후 통화 정책 방향을 가늠할 중요한 이벤트로, 시장은 연설 내용에 따라 기술주와 광범위한 시장 지수의 희비가 엇갈릴 가능성을 경계하고 있습니다. 연설 결과에 따라 기술 성장주 중심의 나스닥 변동성이 커질 수 있으므로, 관련 포트폴리오의 리스크 관리가 필요합니다.",
-      "description": "연준 의장 워시의 잭슨홀 연설을 앞두고 나스닥 선물은 하락하고 S&P 500과 다우 선물은 상승했으며, PYPL, MRVL, IREN, AFRM 주식이 주목받고 있습니다.",
+      "summary_text": "연준 의장의 매파적 발언으로 9월 금리 인상 가능성이 높아지며 뉴욕 증시가 하락 마감했습니다. 연준 의장이 금리 인하를 배제하고 금리 인상 가능성을 시사하면서 시장의 긴축 우려가 커졌습니다. 글로벌 긴축 기조 강화는 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 시 주의가 필요합니다.",
+      "description": "연준 의장 워시가 금리 인하 가능성을 배제하면서 9월 금리 인상 확률이 57%로 급등했고, 이에 따라 뉴욕 증시가 하락했다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "기술주, 증시 전반",
+      "market_impact": "부정",
+      "related_sector": "금융, 성장주 전반",
       "related_stocks": [
         "네이버",
         "카카오",
         "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "잭슨홀 연설 결과에 따라 글로벌 증시의 방향성이 결정될 수 있어 투자 심리에 큰 영향을 미칠 수 있습니다.",
-      "key_signal": "연준 의장의 잭슨홀 연설 내용과 그에 따른 나스닥 선물 흐름을 주시해야 합니다.",
+      "investment_reason": "미국 금리 인상 가능성 증가는 국내 증시의 투자 심리 위축과 외국인 자금 유출로 이어질 수 있기 때문입니다.",
+      "key_signal": "연준의 추가 금리 인상 가능성과 이에 따른 미 국채 금리 및 달러화 움직임을 주시해야 합니다.",
       "keywords": [
-        "잭슨홀",
         "연준",
-        "금리",
-        "나스닥",
-        "변동성"
+        "금리인상",
+        "뉴욕증시",
+        "매파적",
+        "긴축"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPR1A5UXNZSGhTV1JwZmllQ1J2SWhVVktMZjlIM0IxaUhpM3dieFhmZVJpa2Vxa0ZFUGNxQ2thZm51TzVwb1ZkNlVDdWY1SmozQWx3VmZBUk1xaDNyVk5ZbEVaNHhIalBMX21FMENmeVZTbWg2dThsTTlDUU5tZkpyTl9pRFZydkxJR1R3Z2IxamxxUDl4R21EMnVJQk1KS0J2ZVFwc1FJdUhQdzZsRUtyakNidzdFZXp0OThLVlhLNVp6UnBiTkxBS3ZYYWp0bk1sX1JHWXE0WUdyTlh4aGc2YXhzZVZXUGprZ2JoR3RxVGhYMVdsZE55aWZwOV80SDBiN183UXRKWUl5Sm5meU9QN3F2N1RvRUUxQVRxQU0yaWJGYW1JVTc1LQ?oc=5",
-      "published": "2026-08-28 13:10",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QQ2JXLWVrUE5fdkpDSEF1b1dOaDA4TGMzWGRCZUhwRGVSdUo0RmtrQmY1Uzd0Y0xjZ0plMnFVYy1jM2VoX05LWTdEYVJ4UGNuOGRNUVZxdGdpWTZ6VWw4U3htRXVVZGdneTM2RDlEUjFhZ2l5Y0E?oc=5",
+      "published": "2026-08-29 11:29",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,41 +67,42 @@
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "삼성전자·SK하이닉스, 글로벌 반도체 매출 '톱3' 등극…AI 메모리 수요 폭발",
-      "display_title": "삼성전자·SK하이닉스, 글로벌 반도체 매출 '톱3' 등극…AI 메모리 수요 폭발",
-      "original_title": "삼성전자·SK하이닉스, 글로벌 반도체 매출 ‘톱3’…AI 메모리 수요 폭발 - 테크월드",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시 오늘 라이브: 잭슨홀 연설 앞두고 다우존스 선물 상승, 나스닥·S&P 500 선물 하락",
+      "display_title": "미국 증시 오늘 라이브: 잭슨홀 연설 앞두고 다우존스 선물 상승, 나스닥·S&P 500 선물 하락",
+      "original_title": "US Stock Market Today LIVE: Dow Jones Futures Up But Nasdaq, S&P 500 Futures Fall Ahead Of Jackson Hole Speech - Goodreturns",
       "summary": [
-        "삼성전자와 SK하이닉스가 AI 메모리 수요 폭발에 힘입어 글로벌 반도체 매출 상위 3위에 이름을 올렸습니다.",
-        "고성능 AI 반도체 구동에 필수적인 고대역폭 메모리(HBM) 등 AI 메모리 시장에서 두 회사가 선도적인 위치를 확보하며 강력한 실적 개선을 이끌고 있습니다.",
-        "AI 산업 성장의 핵심 수혜주로서 중장기적인 성장 가능성이 매우 높으며, 글로벌 반도체 시장의 주도권을 더욱 강화할 것으로 예상됩니다."
+        "잭슨홀 연설을 앞두고 다우존스 선물은 상승한 반면, 나스닥과 S&P 500 선물은 하락하며 미국 증시가 혼조세를 보였습니다.",
+        "연준의 매파적 발언에 대한 경계감과 함께, 성장주와 가치주 간의 차별화된 움직임이 나타나고 있습니다.",
+        "잭슨홀 연설 내용에 따라 시장의 방향성이 크게 바뀔 수 있으므로, 연준의 스탠스를 면밀히 분석해야 합니다."
       ],
-      "summary_text": "삼성전자와 SK하이닉스가 AI 메모리 수요 폭발에 힘입어 글로벌 반도체 매출 상위 3위에 이름을 올렸습니다. 고성능 AI 반도체 구동에 필수적인 고대역폭 메모리(HBM) 등 AI 메모리 시장에서 두 회사가 선도적인 위치를 확보하며 강력한 실적 개선을 이끌고 있습니다. AI 산업 성장의 핵심 수혜주로서 중장기적인 성장 가능성이 매우 높으며, 글로벌 반도체 시장의 주도권을 더욱 강화할 것으로 예상됩니다.",
-      "description": "삼성전자와 SK하이닉스가 글로벌 반도체 매출 '톱3'에 오르며 AI 메모리 수요 폭발의 수혜를 톡톡히 보고 있습니다.",
-      "category": "기업·산업",
+      "summary_text": "잭슨홀 연설을 앞두고 다우존스 선물은 상승한 반면, 나스닥과 S&P 500 선물은 하락하며 미국 증시가 혼조세를 보였습니다. 연준의 매파적 발언에 대한 경계감과 함께, 성장주와 가치주 간의 차별화된 움직임이 나타나고 있습니다. 잭슨홀 연설 내용에 따라 시장의 방향성이 크게 바뀔 수 있으므로, 연준의 스탠스를 면밀히 분석해야 합니다.",
+      "description": "잭슨홀 연설을 앞두고 미국 증시에서는 다우존스 선물은 상승했으나 나스닥과 S&P 500 선물은 하락하는 혼조세를 보였다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, 메모리 반도체",
+      "market_impact": "중립",
+      "related_sector": "성장주, 기술주, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 메모리 수요 폭발은 삼성전자와 SK하이닉스의 실적과 주가에 긍정적인 영향을 미칠 핵심 동력이며, 장기적인 투자 매력이 높습니다.",
-      "key_signal": "AI 메모리 시장의 경쟁 구도 변화와 두 회사의 HBM 등 고부가가치 제품 생산 능력 확충 계획을 지속적으로 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "잭슨홀 연설 결과에 따라 글로벌 증시의 변동성이 확대될 가능성이 높기 때문에 신중한 접근이 필요합니다.",
+      "key_signal": "잭슨홀 연설에서 연준 의장의 금리 정책 관련 발언 강도와 시장의 반응을 최우선으로 체크해야 합니다.",
       "keywords": [
-        "삼성전자",
-        "SK하이닉스",
-        "AI 메모리",
-        "반도체",
-        "HBM"
+        "잭슨홀",
+        "연준",
+        "미국증시",
+        "선물",
+        "금리정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cjFaa0VseUZLMy1QZmV5OXB5UUFSODdqZWo2TFZhWWhOTXBGeHRjQTIxQzNJanBMX0w5eWFSSG9FTEZSQkJEZ0pkeUZMSHkwSTJtWVBZSXpYcFo0Mm9qODk1dmw1ai1K?oc=5",
-      "published": "2026-08-28 12:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUE53X1d0ajFfVm4wRHdoMzFvMTQ1bDA3cnZZRHl5eUpPb0JDYUc2U2swd09IQ0lQYVpLdmFFd3ZVanJQUjBBWU5ObzU3VktDS0ZnYlZ6ckhJSG9JU3BkT1JRdl91bzY4WFBSdXlnSnJobkJvc0lXOXgwUXhUTXBWVEUtamVkTFdCOGpkbHJfT2c1Mzl5WWNUM0Fsb0ktdnR1cXBtaXhqQTR1LWtyUVBnLVJWM2JMOTFaa2Y4cjVjSHQ3MHA1OHhqZUdfVFVtSGpjR3FxUWVuS00zZ2VPWmc?oc=5",
+      "published": "2026-08-28 19:11",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -111,36 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 거래 회복에 엔비디아 9% 상승, S&P 500 및 나스닥 동반 상승",
-      "display_title": "AI 거래 회복에 엔비디아 9% 상승, S&P 500 및 나스닥 동반 상승",
-      "original_title": "NVIDIA Rises 9% as AI Trading Recovers, S&P 500 and Nasdaq Gain - KuCoin",
+      "title": "2026년 8월 28일 미국 증시 [업데이트: 13:06 EDT] [워시 발언에 나스닥 하락 전환, 10년물 금리 4.72%까지 상승]",
+      "display_title": "2026년 8월 28일 미국 증시 [업데이트: 13:06 EDT] [워시 발언에 나스닥 하락 전환, 10년물 금리 4.72%까지 상승]",
+      "original_title": "US Stock Market Today 08/28/2026 [UPDATE: 13:06 EDT] [Nasdaq Turns Lower as Warsh Pushes 10-Year Yield to 4.72%] - TechStock²",
       "summary": [
-        "AI 관련 주식 거래 회복에 힘입어 엔비디아가 9% 급등했으며, S&P 500과 나스닥 지수도 동반 상승했습니다.",
-        "최근 AI 관련 주식들의 조정 이후 다시 투자 심리가 개선되며 대형 기술주와 증시 전반에 긍정적인 영향을 미쳤습니다.",
-        "AI 산업의 강력한 성장 모멘텀이 여전히 유효하며, 국내 AI 반도체 및 관련 소프트웨어 기업들에게도 긍정적인 영향을 줄 수 있습니다."
+        "연준 워시 의장의 매파적 발언으로 미국 10년물 국채 금리가 급등하며 나스닥 지수가 하락 전환했습니다.",
+        "고금리 환경은 성장주 중심의 기술주에 특히 부정적인 영향을 미치며, 투자 심리를 위축시키는 요인으로 작용합니다.",
+        "국내 기술주 및 성장주에 대한 투자 시 미국 국채 금리 동향을 면밀히 살피고 위험 관리를 강화해야 합니다."
       ],
-      "summary_text": "AI 관련 주식 거래 회복에 힘입어 엔비디아가 9% 급등했으며, S&P 500과 나스닥 지수도 동반 상승했습니다. 최근 AI 관련 주식들의 조정 이후 다시 투자 심리가 개선되며 대형 기술주와 증시 전반에 긍정적인 영향을 미쳤습니다. AI 산업의 강력한 성장 모멘텀이 여전히 유효하며, 국내 AI 반도체 및 관련 소프트웨어 기업들에게도 긍정적인 영향을 줄 수 있습니다.",
-      "description": "AI 관련 거래가 회복되면서 엔비디아가 9% 상승했고, S&P 500과 나스닥 지수도 함께 상승했습니다.",
+      "summary_text": "연준 워시 의장의 매파적 발언으로 미국 10년물 국채 금리가 급등하며 나스닥 지수가 하락 전환했습니다. 고금리 환경은 성장주 중심의 기술주에 특히 부정적인 영향을 미치며, 투자 심리를 위축시키는 요인으로 작용합니다. 국내 기술주 및 성장주에 대한 투자 시 미국 국채 금리 동향을 면밀히 살피고 위험 관리를 강화해야 합니다.",
+      "description": "워시 의장의 발언으로 10년물 국채 금리가 4.72%까지 상승하면서 나스닥 지수가 하락 전환했다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI, IT하드웨어",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "기술주, 성장주, 반도체",
       "related_stocks": [
-        "삼성전자",
+        "네이버",
+        "카카오",
         "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "엔비디아의 상승은 글로벌 AI 산업의 견조한 성장세를 재확인시켜주며 국내 반도체 및 AI 관련 기업들의 실적 기대감을 높입니다.",
-      "key_signal": "엔비디아의 추가적인 상승 여부와 국내 AI 반도체 관련 기업들의 주가 동향을 면밀히 관찰해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 장기 국채 금리 상승은 국내 기술주 및 성장주의 밸류에이션 부담을 높여 투자 매력을 약화시킬 수 있기 때문입니다.",
+      "key_signal": "미국 10년물 국채 금리의 추가 상승 여부와 연준의 금리 정책에 대한 시장의 반응을 지속적으로 관찰해야 합니다.",
       "keywords": [
-        "엔비디아",
-        "AI",
-        "반도체",
         "나스닥",
-        "기술주"
+        "워시",
+        "10년물금리",
+        "기술주",
+        "매파적"
       ],
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdXBqLWhtYTh6RFcycEg5N19zQlF0UFZBQjVXSnNvcExnaVp1dXpEYlNadlNqNTllQUJZTWxYZ1JNQlg3cTV3c1Z3dDQ3ZkFJb2Vyb0VoeWFuTEZtWEkyVjQxM1dIRkhNeVQ3VGJmdlhRTlNIVXJ4NHRrLTE4Z3VNRTU1XzJOSl9ZeExkLV9Pck15QWxhbEkzTEZFUWs?oc=5",
-      "published": "2026-08-28 11:25",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wRko2a3lEdGlFUWtURHU3TUVZMkhlUUdma1J3d3BaeG1MM3BJVXRRUHFUMk1QMWU4YUJjZ05UMUgwWU9UZWxqREJ3cl95SlUwVnczOXExN0hHc3JrVG5z?oc=5",
+      "published": "2026-08-28 13:19",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -149,42 +151,41 @@
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "워시 연설 앞두고 주식시장 경계심, 외환 및 채권 시장 숨죽여 관망",
-      "display_title": "워시 연설 앞두고 주식시장 경계심, 외환 및 채권 시장 숨죽여 관망",
-      "original_title": "Shares turn cautious ahead of Warsh speech; FX, bonds hold breath - WTVB",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "‘엔비디아 호재’도 무용지물… 국내 증시 발목 잡은 금리와 트럼프 [주간 증시해설서]",
+      "display_title": "‘엔비디아 호재’도 무용지물… 국내 증시 발목 잡은 금리와 트럼프 [주간 증시해설서]",
+      "original_title": "‘엔비디아 호재’도 무용지물… 국장 발목 잡은 금리와 트럼프 [주간 증시해설서] - 더스쿠프",
       "summary": [
-        "연준 의장 워시의 잭슨홀 연설을 앞두고 글로벌 주식시장은 전반적으로 신중한 태도를 보이고 있으며, 외환 및 채권 시장도 변동성에 대비하고 있습니다.",
-        "연준의 통화 정책 방향에 대한 불확실성이 시장 전반에 깔려 있으며, 주요 자산 시장 투자자들은 연설 내용에 따라 시장의 큰 움직임을 예상하고 있습니다.",
-        "중요한 경제 이벤트 전에는 시장 변동성 확대 가능성이 높으므로, 보수적인 접근과 함께 이벤트 후 시장 반응을 지켜보는 것이 현명합니다."
+        "엔비디아 호재에도 불구하고 국내 증시가 금리 인상 우려와 트럼프 관련 불확실성으로 하방 압력을 받고 있습니다.",
+        "글로벌 기술주 강세에도 불구하고 국내는 고금리 환경과 미국 정치적 리스크가 투자 심리를 위축시키는 요인으로 작용합니다.",
+        "대외 불확실성 증가로 국내 증시 변동성이 확대될 수 있으므로 보수적인 접근이 필요합니다."
       ],
-      "summary_text": "연준 의장 워시의 잭슨홀 연설을 앞두고 글로벌 주식시장은 전반적으로 신중한 태도를 보이고 있으며, 외환 및 채권 시장도 변동성에 대비하고 있습니다. 연준의 통화 정책 방향에 대한 불확실성이 시장 전반에 깔려 있으며, 주요 자산 시장 투자자들은 연설 내용에 따라 시장의 큰 움직임을 예상하고 있습니다. 중요한 경제 이벤트 전에는 시장 변동성 확대 가능성이 높으므로, 보수적인 접근과 함께 이벤트 후 시장 반응을 지켜보는 것이 현명합니다.",
-      "description": "워시 연설을 앞두고 주식시장은 경계 태세를 보였으며, 외환 및 채권 시장도 숨죽이며 관망하고 있습니다.",
+      "summary_text": "엔비디아 호재에도 불구하고 국내 증시가 금리 인상 우려와 트럼프 관련 불확실성으로 하방 압력을 받고 있습니다. 글로벌 기술주 강세에도 불구하고 국내는 고금리 환경과 미국 정치적 리스크가 투자 심리를 위축시키는 요인으로 작용합니다. 대외 불확실성 증가로 국내 증시 변동성이 확대될 수 있으므로 보수적인 접근이 필요합니다.",
+      "description": "엔비디아의 호재에도 불구하고 국내 증시가 금리 인상 우려와 트럼프 관련 불확실성으로 인해 부진을 면치 못하고 있다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "증시 전반, 금융",
+      "market_impact": "부정",
+      "related_sector": "반도체, IT, 증시 전반",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "주요 통화 정책 이벤트는 시장 전반에 큰 영향을 미칠 수 있어 투자자들의 신중한 접근이 요구됩니다.",
-      "key_signal": "잭슨홀 연설에서 발표될 연준의 향후 통화 정책 기조에 대한 힌트를 면밀히 분석해야 합니다.",
+      "investment_reason": "국내 증시가 대외 금리 인상과 정치적 불확실성으로 인해 상승 동력을 잃을 수 있기 때문입니다.",
+      "key_signal": "미국 금리 정책 방향과 대선 관련 불확실성 해소 여부가 국내 증시 흐름에 핵심적인 영향을 미칠 것입니다.",
       "keywords": [
-        "잭슨홀",
-        "연준",
-        "금리",
-        "외환",
-        "채권"
+        "엔비디아",
+        "금리인상",
+        "트럼프",
+        "국내증시",
+        "불확실성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkZocDcwT0dYTEVmbmVLTEZqRWVTSUtENGdBWnFxOWtsMWxyVDZQRTl3MGg5S3BRak1BVEdmeHZPTnBjU3FrQTd0OF9aWm1QZVhUakczbFNoc1dpTXc1Ri1DVGlVcERVRWxPblFDUm9lMlRNQnlUaEVqbEdIemcwY190NEhwRFF0T0R5QlRDZnBnVVFPaUdDSnVB?oc=5",
-      "published": "2026-08-28 11:20",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VU1FmYTBwVzdiSzlBeG1DNjRxV3BYSE4wTnNmMU1uV2JFTndHSXE1U2xqNDRmVTBRcmlpOGYtR3N1M3JFMVBVU1RRRWZ4aEJ0SHlIcE54RURuZTRsRWtMTlpaWEt6U2NYZDFERmF3?oc=5",
+      "published": "2026-08-29 10:20",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -194,36 +195,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 거래 회복에 엔비디아 9% 급등, 나스닥 1.6% 상승",
-      "display_title": "AI 거래 회복에 엔비디아 9% 급등, 나스닥 1.6% 상승",
-      "original_title": "NVIDIA Surges 9% as AI Trading Recovers, Nasdaq Rises 1.6% - KuCoin",
+      "title": "[아크미 일렉트로닉스 2026년 상반기 실적 발표] 매출 전년 대비 20.5% 증가, 총이익률 18.1% 상승; 2027년 하반기 SiC 소결 부품 양산 확대가 핵심 변곡점",
+      "display_title": "[아크미 일렉트로닉스 2026년 상반기 실적 발표] 매출 전년 대비 20.5% 증가, 총이익률 18.1% 상승; 2027년 하반기 SiC 소결 부품 양산 확대가 핵심 변곡점",
+      "original_title": "[Acme Electronics FY2026 H1 Earnings Call] Revenue Up 20.5% YoY with Gross Margin Climbing to 18.1%; SiC Sintered Components Set for Volume Ramp in H2 2027 as Key Inflection Point - finance.biggo.com",
       "summary": [
-        "AI 관련 투자 심리 회복으로 엔비디아 주가가 9% 급등하며, 나스닥 종합지수도 1.6% 상승했습니다.",
-        "최근 조정세를 보였던 AI 및 기술주 섹터가 다시 강세를 보이면서, 미국 주요 기술주 중심의 증시 회복 기대감이 커지고 있습니다.",
-        "글로벌 기술주, 특히 AI 관련주의 강세는 국내 반도체 및 AI 생태계 기업들에게도 긍정적인 투자 심리를 제공할 수 있습니다."
+        "아크미 일렉트로닉스가 2026년 상반기 견조한 매출 성장과 총이익률 개선을 기록했으며, 2027년 SiC 소결 부품의 양산 확대를 중요한 성장 동력으로 보고 있습니다.",
+        "SiC(실리콘 카바이드)는 차세대 전력 반도체 소재로, 전기차 및 신재생에너지 분야에서 수요가 급증하고 있습니다.",
+        "SiC 관련 소재 및 부품 기술을 보유한 기업들의 중장기 성장 가능성이 높으므로 관련 국내 투자처를 모색할 필요가 있습니다."
       ],
-      "summary_text": "AI 관련 투자 심리 회복으로 엔비디아 주가가 9% 급등하며, 나스닥 종합지수도 1.6% 상승했습니다. 최근 조정세를 보였던 AI 및 기술주 섹터가 다시 강세를 보이면서, 미국 주요 기술주 중심의 증시 회복 기대감이 커지고 있습니다. 글로벌 기술주, 특히 AI 관련주의 강세는 국내 반도체 및 AI 생태계 기업들에게도 긍정적인 투자 심리를 제공할 수 있습니다.",
-      "description": "AI 관련 거래가 회복되면서 엔비디아가 9% 급등했고, 나스닥 지수는 1.6% 상승했습니다.",
-      "category": "증시·금리",
+      "summary_text": "아크미 일렉트로닉스가 2026년 상반기 견조한 매출 성장과 총이익률 개선을 기록했으며, 2027년 SiC 소결 부품의 양산 확대를 중요한 성장 동력으로 보고 있습니다. SiC(실리콘 카바이드)는 차세대 전력 반도체 소재로, 전기차 및 신재생에너지 분야에서 수요가 급증하고 있습니다. SiC 관련 소재 및 부품 기술을 보유한 기업들의 중장기 성장 가능성이 높으므로 관련 국내 투자처를 모색할 필요가 있습니다.",
+      "description": "아크미 일렉트로닉스의 2026년 상반기 실적 발표에 따르면 매출이 전년 대비 20.5% 증가하고 총이익률이 18.1%로 상승했으며, 2027년 하반기 SiC 소결 부품의 양산 확대가 중요한 성장 변곡점이 될 것으로 보인다.",
+      "category": "기업·산업",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "반도체, AI, IT하드웨어",
+      "related_sector": "SiC 전력 반도체, 특수 소재, 전기차 부품",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "LX세미콘",
+        "SKC",
+        "코미코"
       ],
       "investment_view": "관심",
-      "investment_reason": "엔비디아의 강력한 상승세는 AI 기술주의 성장 잠재력을 다시 한번 입증하며 국내 관련 기업들의 주가에도 긍정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "미국 AI 기술주의 지속적인 강세 여부와 국내 반도체 기업들의 실적 및 투자 계획을 확인해야 합니다.",
+      "investment_reason": "SiC 전력 반도체 시장의 본격적인 개화가 임박했으며, 이는 관련 기술을 가진 기업들에게 큰 성장 기회가 될 것이기 때문입니다.",
+      "key_signal": "SiC 소결 부품의 양산 일정과 고객사 확대 여부를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "엔비디아",
-        "AI",
-        "나스닥",
-        "반도체",
-        "기술주"
+        "SiC",
+        "전력반도체",
+        "소결부품",
+        "전기차",
+        "신소재"
       ],
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXppMmZETDkwNklXLTdyd0JUR1U4X0JpUHZGek1WRW1tU3pIZmJGR1luSlpvaHF0dFp4OWtaWUxzOURNckJ5YUROeGFPRmNoRTMtX2hsSEZJMmhuTF82a2FWTnNvX1lsU3pmLVZrc25QbFFPejJxYkVUNW5fdkNVNk1zRm94cG53Q1lpRXB5aHRQSjQ?oc=5",
-      "published": "2026-08-28 11:14",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxbHdmLU1saFcwLWhjX2NLRlg2WVB0emNIanptUDd0V21Td1ZRRlRhRWMxU2QwWkR4TUtTaENHT05yTmNBalNMVjdrRjZ0UGJHNm5OcFJDX0s3WUtPXzJDeVZn?oc=5",
+      "published": "2026-08-28 17:14",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -235,35 +237,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조 베팅 승부수",
-      "display_title": "AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조 베팅 승부수",
-      "original_title": "[창간 특집][DB그룹] AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조 베팅 승부수 - 빅데이터뉴스",
+      "title": "[다음주 경제] ‘800조원대’ 예산안 공개…산업생산·물가·경상수지에 시선",
+      "display_title": "[다음주 경제] ‘800조원대’ 예산안 공개…산업생산·물가·경상수지에 시선",
+      "original_title": "[다음주 경제] ‘800조원대’ 예산안 공개…산업생산·물가·경상수지에 시선 - 산경투데이",
       "summary": [
-        "DB하이텍이 AI 시대의 핵심 요소인 전력반도체 시장을 겨냥해 향후 5년간 1조 5천억 원 규모의 대규모 투자를 단행합니다.",
-        "AI 기술 발전과 함께 데이터센터, 전기차 등 고성능 전자기기 수요가 급증하면서 전력반도체는 AI 시대를 지탱하는 필수 부품으로 부상하고 있습니다.",
-        "전력반도체 시장 성장의 직접적인 수혜가 예상되며, DB하이텍의 중장기 성장 동력 확보 가능성을 주목해야 합니다."
+        "다음 주 정부의 800조원대 예산안이 공개되며, 산업생산, 물가, 경상수지 등 주요 경제 지표들이 발표될 예정입니다.",
+        "예산안은 정부의 정책 방향과 재정 건전성을 보여주고, 경제 지표는 현재 국내 경제 상황을 가늠하는 중요한 척도입니다.",
+        "정부 정책 방향에 따른 수혜 산업을 파악하고, 주요 경제 지표를 통해 국내 경제의 회복 강도를 확인해야 합니다."
       ],
-      "summary_text": "DB하이텍이 AI 시대의 핵심 요소인 전력반도체 시장을 겨냥해 향후 5년간 1조 5천억 원 규모의 대규모 투자를 단행합니다. AI 기술 발전과 함께 데이터센터, 전기차 등 고성능 전자기기 수요가 급증하면서 전력반도체는 AI 시대를 지탱하는 필수 부품으로 부상하고 있습니다. 전력반도체 시장 성장의 직접적인 수혜가 예상되며, DB하이텍의 중장기 성장 동력 확보 가능성을 주목해야 합니다.",
-      "description": "DB하이텍이 AI 시대의 전력반도체 수요 증가에 발맞춰 향후 5년간 1조 5천억 원을 투자하는 승부수를 띄웁니다.",
-      "category": "기업·산업",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 전력반도체, AI",
+      "summary_text": "다음 주 정부의 800조원대 예산안이 공개되며, 산업생산, 물가, 경상수지 등 주요 경제 지표들이 발표될 예정입니다. 예산안은 정부의 정책 방향과 재정 건전성을 보여주고, 경제 지표는 현재 국내 경제 상황을 가늠하는 중요한 척도입니다. 정부 정책 방향에 따른 수혜 산업을 파악하고, 주요 경제 지표를 통해 국내 경제의 회복 강도를 확인해야 합니다.",
+      "description": "다음주에는 800조원대 규모의 예산안이 공개될 예정이며, 산업생산, 물가, 경상수지 등 주요 경제 지표 발표에도 관심이 집중될 것이다.",
+      "category": "국내 거시경제",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "정책 수혜주, 건설, 공공 인프라",
       "related_stocks": [
-        "DB하이텍"
+        "현대건설",
+        "한국전력"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 시대 필수 부품인 전력반도체 시장 선점을 위한 대규모 투자는 DB하이텍의 중장기적인 성장 가능성을 높입니다.",
-      "key_signal": "DB하이텍의 전력반도체 신규 라인 증설 및 기술 개발 진행 상황을 지속적으로 모니터링해야 합니다.",
+      "investment_reason": "예산안의 세부 내용과 경제 지표 발표가 향후 국내 경기 전망과 투자 유망 섹터에 대한 단서를 제공하기 때문입니다.",
+      "key_signal": "예산안의 구체적인 내용과 산업생산, 물가, 경상수지 등 발표되는 경제 지표의 예상치 대비 결과에 주목해야 합니다.",
       "keywords": [
-        "DB하이텍",
-        "전력반도체",
-        "AI",
-        "반도체 투자",
-        "시스템반도체"
+        "예산안",
+        "경제지표",
+        "산업생산",
+        "물가",
+        "경상수지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55cUxmdGkzY0xZdC1ZT185QVh5VkMtV3hnNGhjTGNjaXlnNGFJMjFrWmF5LVNFZF9Mc25adWJMUnd6aEpDaVl4MjdIQ0dBS013R19WTFNWRkd2Q0xSRUc5U0xEMWNkaXRUMkg1bll2bHhPQkdNcDNBWDlua28?oc=5",
-      "published": "2026-08-28 09:00",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rLXBUTHBoOVdJRlZTX2c1ODZwWmFuMExiWVh6TGgtNmNQNGdxQ3BhaDB1dkJRNFp3VFU2YUZPTFFVZDNOZU5TTnBWVHg1bHZza1liR0tBMXFIaEQwR0dDc3FyY1NQZl9KNDBQTEJQZnFnOVVz0gF0QVVfeXFMTWstcFRMcGg5V0lGVlNfZzU4NnBaYW4wTGJZWHpMaC02Y1A0Z3FDcGFoMHV2QlE0WndUVTZhRk9MUVVkM05lTlNOcFZUeDVsdnNrWWJHS0ExcUhoRDBHR0NzcXJjU1BmX0o0MFBMQlBmcWc5VXM?oc=5",
+      "published": "2026-08-29 09:43",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -274,71 +277,63 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "LX세미콘",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "SiC 전력 반도체",
       "opinion": "관심",
-      "reason": "AI 메모리 수요 폭발 및 엔비디아 급등 소식은 삼성전자의 실적 기대감을 높이며, 국내 반도체 산업 전반에 긍정적인 영향을 미칠 핵심 동력으로 판단됩니다.",
+      "reason": "SiC 전력 반도체 시장의 본격적인 개화가 임박했으며, 이는 관련 기술을 가진 LX세미콘에게 큰 성장 기회가 될 것이기 때문에 관심있게 지켜볼 필요가 있습니다.",
       "check_points": [
-        "글로벌 AI 메모리 시장 동향 및 경쟁 구도",
-        "하반기 반도체 업황 회복 속도",
-        "외국인 및 기관 투자자 수급 동향"
+        "SiC 전력 반도체 관련 기술 개발 및 양산 계획",
+        "전기차 시장 성장세 및 고객사 확대 여부"
       ],
       "related_news_titles": [
-        "삼성전자·SK하이닉스, 글로벌 반도체 매출 '톱3' 등극…AI 메모리 수요 폭발",
-        "AI 거래 회복에 엔비디아 9% 상승, S&P 500 및 나스닥 동반 상승",
-        "AI 거래 회복에 엔비디아 9% 급등, 나스닥 1.6% 상승"
+        "[아크미 일렉트로닉스 2026년 상반기 실적 발표] 매출 전년 대비 20.5% 증가, 총이익률 18.1% 상승; 2027년 하반기 SiC 소결 부품 양산 확대가 핵심 변곡점"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "현대건설",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "건설",
       "opinion": "관심",
-      "reason": "AI 시대 필수적인 고대역폭 메모리(HBM) 시장의 선두 주자로서, 글로벌 AI 메모리 수요 폭발 및 엔비디아 강세는 SK하이닉스의 성장 기대감을 한층 높이는 요인입니다.",
+      "reason": "국내 800조원대 예산안 공개는 정책 수혜주에 대한 기대감을 높일 수 있으며, 현대건설은 공공 인프라 투자 확대의 잠재적 수혜주로 부각될 수 있습니다.",
       "check_points": [
-        "HBM 등 고부가 메모리 제품의 시장 지배력",
-        "DRAM 및 낸드 가격 추이",
-        "기술 경쟁력 유지 및 신기술 개발 여부"
+        "정부 예산안의 세부 내용 및 SOC 투자 계획",
+        "건설 부문의 정책 지원 방향 및 수주 동향"
       ],
       "related_news_titles": [
-        "삼성전자·SK하이닉스, 글로벌 반도체 매출 '톱3' 등극…AI 메모리 수요 폭발",
-        "AI 거래 회복에 엔비디아 9% 상승, S&P 500 및 나스닥 동반 상승",
-        "AI 거래 회복에 엔비디아 9% 급등, 나스닥 1.6% 상승"
+        "[다음주 경제] ‘800조원대’ 예산안 공개…산업생산·물가·경상수지에 시선"
       ]
     },
     {
       "rank": 3,
-      "name": "DB하이텍",
+      "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "AI 시대 필수 부품인 전력반도체 시장 선점을 위한 대규모 투자는 DB하이텍의 중장기적인 성장 가능성을 높이며, 파운드리 경쟁력을 강화할 기회가 될 수 있습니다.",
+      "opinion": "주의",
+      "reason": "미국 금리 인상 가능성 증가와 장기 국채 금리 상승은 국내 증시 전반, 특히 기술주 및 반도체 업종의 투자 심리 위축과 밸류에이션 부담을 높일 수 있으므로 주의 깊은 접근이 필요합니다.",
       "check_points": [
-        "전력반도체 투자 계획의 구체적인 진행 상황",
-        "신규 고객사 확보 및 수주 증가 여부",
-        "글로벌 파운드리 시장 경쟁 구도 변화"
+        "미국 연준의 금리 정책 및 잭슨홀 연설 결과",
+        "외국인 투자자 매매 동향 및 환율 변동성"
       ],
       "related_news_titles": [
-        "AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조 베팅 승부수"
+        "연준 의장 워시, 금리 인하 배제…9월 인상 확률 57% 급등, 뉴욕 증시 하락",
+        "‘엔비디아 호재’도 무용지물… 국내 증시 발목 잡은 금리와 트럼프 [주간 증시해설서]"
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "IT 서비스, 인터넷",
-      "opinion": "중립",
-      "reason": "잭슨홀 및 워시 연설 등 주요 통화 정책 이벤트를 앞두고 글로벌 증시 전반, 특히 기술주에 대한 경계심이 필요합니다. 매크로 불확실성 속 주가 변동성을 주시하며 신중한 접근이 요구됩니다.",
+      "sector": "금융",
+      "opinion": "주의",
+      "reason": "잭슨홀 연설을 앞두고 글로벌 증시 변동성이 확대될 가능성이 높아, 증권업을 포함한 금융 섹터의 투자 심리에도 신중한 접근이 필요한 시점입니다.",
       "check_points": [
-        "잭슨홀 및 워시 연설 결과와 글로벌 시장의 반응",
-        "글로벌 기술주 동향 및 투자 심리 변화",
-        "국내외 플랫폼 규제 환경 변화 및 사업 확장 전략"
+        "잭슨홀 연설 내용 및 시장 반응",
+        "금리 변동성에 따른 증권업종 실적 영향"
       ],
       "related_news_titles": [
-        "잭슨홀 연설 앞두고 나스닥 선물 하락, S&P 500 및 다우 선물 상승: PYPL, MRVL, IREN, AFRM 주식 주목",
-        "워시 연설 앞두고 주식시장 경계심, 외환 및 채권 시장 숨죽여 관망"
+        "미국 증시 오늘 라이브: 잭슨홀 연설 앞두고 다우존스 선물 상승, 나스닥·S&P 500 선물 하락"
       ]
     }
   ],
