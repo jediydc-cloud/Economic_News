@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29 12:34",
-  "analysis_date": "2026-08-29",
+  "generated_at": "2026-08-30 08:56",
+  "analysis_date": "2026-08-30",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "연준 의장의 매파적 발언으로 글로벌 긴축 우려가 커지며 뉴욕 증시가 하락했습니다. 국내 증시 또한 금리 우려와 대외 불확실성으로 하방 압력을 받고 있으며, 다음 주 국내 주요 경제 지표 발표에 관심이 쏠리고 있습니다. 한편, SiC 소결 부품 기업의 실적 개선은 차세대 전력 반도체 시장의 성장 가능성을 시사합니다.",
-    "국내거시경제": "다음 주 800조원대 예산안 공개와 산업생산, 물가, 경상수지 등 주요 경제 지표 발표가 예정되어 있습니다. 정부 정책 방향과 국내 경제의 회복 강도를 가늠할 중요한 지표가 될 것입니다.",
-    "글로벌경제": "연준 의장의 금리 인하 배제 및 9월 금리 인상 가능성 시사로 글로벌 긴축 우려가 심화되었습니다. 잭슨홀 연설을 앞두고 미국 증시는 혼조세를 보였으나, 매파적 발언에 대한 경계감은 지속되고 있습니다.",
-    "증시금리": "연준 의장의 매파적 발언과 미국 10년물 국채 금리 급등으로 뉴욕 증시와 나스닥이 하락 전환했습니다. 국내 증시도 글로벌 기술주 강세에도 불구하고 금리 인상 우려와 미국 정치적 불확실성으로 하방 압력을 받고 있습니다.",
+    "총평": "글로벌 경제는 연준의 금리 인상 시사, 미-이란 충돌, 트럼프 행정부 정책 불확실성 등 부정적 요인이 산재합니다. 국내 증시는 수출 호조에도 불구하고 반도체 의존도 심화 우려와 코스피 7천 돌파 여부 등 주요 변수를 앞두고 있어 전반적으로 불확실성이 높은 하루가 예상됩니다.",
+    "국내거시경제": "한국의 월 수출액이 1,000억 달러를 돌파하며 역사적 기록을 세웠으나, 반도체 산업 의존도가 높아 특정 산업에 치우친 성장 모델에 대한 우려가 제기되고 있습니다.",
+    "글로벌경제": "연준 의장의 9월 금리 인상 가능성 시사로 채권 및 암호화폐 시장이 동요하며 글로벌 긴축 기조 유지 가능성이 커졌습니다. 미-이란 무력 충돌 여파로 미국 주요 지수가 하락하는 등 지정학적 리스크가 증폭되었으며, 트럼프 행정부의 채권시장 개입 실패 가능성 언급으로 향후 정책 불확실성 우려도 높습니다.",
+    "증시금리": "코스피는 7천 포인트 재돌파를 시도하지만, 미국 금리 인상 기조와 환율 변동성이 지속적으로 부담을 주고 있습니다. 원·달러 환율은 올해 최저치를 기록하며 원화 강세 흐름을 보이고 있어 수출 기업 채산성 및 외국인 자금 유입에 영향을 미칠 수 있습니다.",
     "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "아크미 일렉트로닉스는 2026년 상반기 견조한 실적을 발표하며 2027년 SiC 소결 부품 양산 확대를 핵심 성장 동력으로 제시했습니다. SiC는 차세대 전력 반도체 소재로, 전기차 및 신재생에너지 분야의 성장을 이끌며 관련 기업의 성장 기대감을 높입니다.",
-    "오늘의투자시사점": "글로벌 긴축 우려와 대외 불확실성 증대로 국내 증시 변동성 확대에 대비한 보수적인 접근이 필요합니다. 고금리 환경에 취약한 기술주 및 성장주에 대한 투자 시 위험 관리를 강화해야 하며, SiC 관련 성장 산업에 대한 중장기 투자 기회를 모색할 필요가 있습니다.",
-    "오늘의한줄": "연준의 매파적 발언으로 긴축 우려가 커지며 국내 증시의 보수적인 대응이 요구됩니다."
+    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
+    "오늘의투자시사점": "글로벌 긴축 기조와 지정학적 리스크 확대로 투자 심리 위축이 예상되므로, 연준의 향후 스탠스 및 미국 대선 관련 정책 불확실성을 주시해야 합니다. 국내 증시는 코스피 7천 포인트 저항 여부와 외국인 수급 동향을 살피며 보수적으로 접근하고, 장기적으로는 산업 포트폴리오 다변화 가능성을 모색할 필요가 있습니다.",
+    "오늘의한줄": "글로벌 불확실성 심화로 국내 증시 변동성 확대가 예상되므로, 주요 지표 주시와 보수적 접근이 필요합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 의장 워시, 금리 인하 배제…9월 인상 확률 57% 급등, 뉴욕 증시 하락",
-      "display_title": "연준 의장 워시, 금리 인하 배제…9월 인상 확률 57% 급등, 뉴욕 증시 하락",
-      "original_title": "Fed Chair Warsh rules out rate cuts, September hike odds surge to 57%, NY stocks fall - finance.biggo.com",
+      "title": "연준 의장, 9월 금리 인상 가능성 시사로 채권 및 암호화폐 시장 동요",
+      "display_title": "연준 의장, 9월 금리 인상 가능성 시사로 채권 및 암호화폐 시장 동요",
+      "original_title": "Fed Chair Signals September Rate Hike Is in Play, Rattling Bond and Crypto Markets - finance.biggo.com",
       "summary": [
-        "연준 의장의 매파적 발언으로 9월 금리 인상 가능성이 높아지며 뉴욕 증시가 하락 마감했습니다.",
-        "연준 의장이 금리 인하를 배제하고 금리 인상 가능성을 시사하면서 시장의 긴축 우려가 커졌습니다.",
-        "글로벌 긴축 기조 강화는 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 시 주의가 필요합니다."
+        "연준 의장이 9월 기준금리 인상 가능성을 언급하며 시장에 불확실성을 가중시켰다.",
+        "이 발언은 금리 인상에 민감한 채권 시장과 위험자산인 암호화폐 시장에 즉각적인 영향을 미쳤다.",
+        "글로벌 긴축 기조 유지 가능성이 국내 증시 및 환율에도 부담으로 작용할 수 있어 투자자들은 향후 연준 스탠스에 주목해야 한다."
       ],
-      "summary_text": "연준 의장의 매파적 발언으로 9월 금리 인상 가능성이 높아지며 뉴욕 증시가 하락 마감했습니다. 연준 의장이 금리 인하를 배제하고 금리 인상 가능성을 시사하면서 시장의 긴축 우려가 커졌습니다. 글로벌 긴축 기조 강화는 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 시 주의가 필요합니다.",
-      "description": "연준 의장 워시가 금리 인하 가능성을 배제하면서 9월 금리 인상 확률이 57%로 급등했고, 이에 따라 뉴욕 증시가 하락했다.",
-      "category": "증시·금리",
+      "summary_text": "연준 의장이 9월 기준금리 인상 가능성을 언급하며 시장에 불확실성을 가중시켰다. 이 발언은 금리 인상에 민감한 채권 시장과 위험자산인 암호화폐 시장에 즉각적인 영향을 미쳤다. 글로벌 긴축 기조 유지 가능성이 국내 증시 및 환율에도 부담으로 작용할 수 있어 투자자들은 향후 연준 스탠스에 주목해야 한다.",
+      "description": "연준 의장이 9월 금리 인상 가능성을 시사하면서 채권 시장과 암호화폐 시장이 흔들리고 있습니다.",
+      "category": "글로벌 경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 성장주 전반",
+      "related_sector": "금융",
       "related_stocks": [
         "네이버",
         "카카오",
         "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 금리 인상 가능성 증가는 국내 증시의 투자 심리 위축과 외국인 자금 유출로 이어질 수 있기 때문입니다.",
-      "key_signal": "연준의 추가 금리 인상 가능성과 이에 따른 미 국채 금리 및 달러화 움직임을 주시해야 합니다.",
+      "investment_reason": "연준의 긴축 기조 유지 가능성은 글로벌 유동성 축소와 국내 금리 및 환율 변동성 확대로 이어져 투자 심리에 부정적인 영향을 줄 수 있기 때문이다.",
+      "key_signal": "연준의 9월 FOMC 회의 결과와 그 이후 연준 위원들의 발언을 통해 추가 금리 인상 여부를 면밀히 확인해야 한다.",
       "keywords": [
         "연준",
         "금리인상",
-        "뉴욕증시",
-        "매파적",
-        "긴축"
+        "채권시장",
+        "암호화폐",
+        "글로벌긴축"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QQ2JXLWVrUE5fdkpDSEF1b1dOaDA4TGMzWGRCZUhwRGVSdUo0RmtrQmY1Uzd0Y0xjZ0plMnFVYy1jM2VoX05LWTdEYVJ4UGNuOGRNUVZxdGdpWTZ6VWw4U3htRXVVZGdneTM2RDlEUjFhZ2l5Y0E?oc=5",
-      "published": "2026-08-29 11:29",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVGxONnBpQ2ZRME9VQVBJRE5qVlBJbjBxNDFpQ2p1WFV4Qm5MUHAwekxhZWlMREszS3IzRzFZekQyaVhsckZOM1R6T0FTeUNUWU9Pa1JudU9zaVRTVVFFeHNZQzdmSWxDa0dNN3dhck1UQXZRZGc?oc=5",
+      "published": "2026-08-30 03:17",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 오늘 라이브: 잭슨홀 연설 앞두고 다우존스 선물 상승, 나스닥·S&P 500 선물 하락",
-      "display_title": "미국 증시 오늘 라이브: 잭슨홀 연설 앞두고 다우존스 선물 상승, 나스닥·S&P 500 선물 하락",
-      "original_title": "US Stock Market Today LIVE: Dow Jones Futures Up But Nasdaq, S&P 500 Futures Fall Ahead Of Jackson Hole Speech - Goodreturns",
+      "title": "미-이란 무력 충돌 여파로 다우지수 3월 이후 최악의 하락, S&P 500 및 나스닥 상승세 중단",
+      "display_title": "미-이란 무력 충돌 여파로 다우지수 3월 이후 최악의 하락, S&P 500 및 나스닥 상승세 중단",
+      "original_title": "Dow Logs Worst Day Since March, S&P 500 And Nasdaq Snap Win Streak After US-Iran Exchange Fire — SNDK, TSLA, GOOGL, META, IREN In Focus - Stocktwits",
       "summary": [
-        "잭슨홀 연설을 앞두고 다우존스 선물은 상승한 반면, 나스닥과 S&P 500 선물은 하락하며 미국 증시가 혼조세를 보였습니다.",
-        "연준의 매파적 발언에 대한 경계감과 함께, 성장주와 가치주 간의 차별화된 움직임이 나타나고 있습니다.",
-        "잭슨홀 연설 내용에 따라 시장의 방향성이 크게 바뀔 수 있으므로, 연준의 스탠스를 면밀히 분석해야 합니다."
+        "미국과 이란 간의 무력 충돌 소식으로 다우지수가 3월 이후 최대 하락을 기록하는 등 미국 주요 지수가 일제히 하락했다.",
+        "이는 지정학적 리스크가 글로벌 증시에 미치는 부정적 영향을 명확히 보여주며, 시장의 불확실성을 증폭시켰다.",
+        "글로벌 지정학적 불안정은 국내 증시에도 외국인 투자 심리 위축 및 안전자산 선호 심리를 유발할 수 있으므로 관련 동향을 주시해야 한다."
       ],
-      "summary_text": "잭슨홀 연설을 앞두고 다우존스 선물은 상승한 반면, 나스닥과 S&P 500 선물은 하락하며 미국 증시가 혼조세를 보였습니다. 연준의 매파적 발언에 대한 경계감과 함께, 성장주와 가치주 간의 차별화된 움직임이 나타나고 있습니다. 잭슨홀 연설 내용에 따라 시장의 방향성이 크게 바뀔 수 있으므로, 연준의 스탠스를 면밀히 분석해야 합니다.",
-      "description": "잭슨홀 연설을 앞두고 미국 증시에서는 다우존스 선물은 상승했으나 나스닥과 S&P 500 선물은 하락하는 혼조세를 보였다.",
-      "category": "증시·금리",
+      "summary_text": "미국과 이란 간의 무력 충돌 소식으로 다우지수가 3월 이후 최대 하락을 기록하는 등 미국 주요 지수가 일제히 하락했다. 이는 지정학적 리스크가 글로벌 증시에 미치는 부정적 영향을 명확히 보여주며, 시장의 불확실성을 증폭시켰다. 글로벌 지정학적 불안정은 국내 증시에도 외국인 투자 심리 위축 및 안전자산 선호 심리를 유발할 수 있으므로 관련 동향을 주시해야 한다.",
+      "description": "미국과 이란 간의 무력 충돌 소식으로 다우지수는 3월 이후 가장 큰 하락을 기록했으며, S&P 500과 나스닥 지수의 상승세도 중단되었다. 샌디스크, 테슬라, 구글, 메타 등이 주목받았다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "성장주, 기술주, 금융",
+      "market_impact": "부정",
+      "related_sector": "방산, 에너지",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "LIG넥스원",
+        "한국항공우주"
       ],
       "investment_view": "주의",
-      "investment_reason": "잭슨홀 연설 결과에 따라 글로벌 증시의 변동성이 확대될 가능성이 높기 때문에 신중한 접근이 필요합니다.",
-      "key_signal": "잭슨홀 연설에서 연준 의장의 금리 정책 관련 발언 강도와 시장의 반응을 최우선으로 체크해야 합니다.",
+      "investment_reason": "미국-이란 무력 충돌과 같은 지정학적 리스크는 글로벌 증시 하락을 유발하며 국내 증시에도 악영향을 미칠 수 있어 시장의 변동성 확대에 대비해야 하기 때문이다.",
+      "key_signal": "미국과 이란 간의 추가적인 충돌 여부 및 확전 가능성을 주시하고, 국제 유가 및 안전자산 가격의 움직임을 통해 시장 심리 변화를 파악해야 한다.",
       "keywords": [
-        "잭슨홀",
-        "연준",
         "미국증시",
-        "선물",
-        "금리정책"
+        "지정학적리스크",
+        "이란",
+        "다우지수",
+        "시장하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUE53X1d0ajFfVm4wRHdoMzFvMTQ1bDA3cnZZRHl5eUpPb0JDYUc2U2swd09IQ0lQYVpLdmFFd3ZVanJQUjBBWU5ObzU3VktDS0ZnYlZ6ckhJSG9JU3BkT1JRdl91bzY4WFBSdXlnSnJobkJvc0lXOXgwUXhUTXBWVEUtamVkTFdCOGpkbHJfT2c1Mzl5WWNUM0Fsb0ktdnR1cXBtaXhqQTR1LWtyUVBnLVJWM2JMOTFaa2Y4cjVjSHQ3MHA1OHhqZUdfVFVtSGpjR3FxUWVuS00zZ2VPWmc?oc=5",
-      "published": "2026-08-28 19:11",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYkpjNUYzR0tYN2NRRWN3eFlldkx3QkxPYjl6Y2JrRmpBRUJmUGJTWFVpMFBrNnJnMzJFZzBBN2w2dnVyR1V4MHFUVHlfNUhQQzBXYnFVOTBJMmlNY0Rva0pUazQ1UHFtLXR1Y01RWGFlUDBmWWY2WXprY3UwOEp2R2RHV0RtWGVkdVlqSHlsYjZfeFJuOF82Ym9mNmcyYUxBTTFTVnNIY0FqMGNFUkFkRDhpREJvQWRoaXlkbGR5UDBJQXRzdml1dnhqRWxFMjJWZS1KMGk2V1Z3SDA0aW1aWnNZREU1SXBObl9wOFRRSnV5X3dWZGxmNFJtbm53OHByYWFDYjNLYi1TRmdMRUxnWmpRVEJzV0xRbVhzZUgwYkdEZw?oc=5",
+      "published": "2026-08-29 17:19",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,42 +108,41 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "2026년 8월 28일 미국 증시 [업데이트: 13:06 EDT] [워시 발언에 나스닥 하락 전환, 10년물 금리 4.72%까지 상승]",
-      "display_title": "2026년 8월 28일 미국 증시 [업데이트: 13:06 EDT] [워시 발언에 나스닥 하락 전환, 10년물 금리 4.72%까지 상승]",
-      "original_title": "US Stock Market Today 08/28/2026 [UPDATE: 13:06 EDT] [Nasdaq Turns Lower as Warsh Pushes 10-Year Yield to 4.72%] - TechStock²",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "한국, 월 수출 1,000억 달러 시대…허정 교수 “반도체 꺾여도 버틸 산업 안전핀 필요”",
+      "display_title": "한국, 월 수출 1,000억 달러 시대…허정 교수 “반도체 꺾여도 버틸 산업 안전핀 필요”",
+      "original_title": "[이슈 픽 쌤과 함께] 한국, 월 수출 1,000억 달러 시대…허정 교수 “반도체 꺾여도 버틸 산업 안전핀 필요” - 한국강사신문",
       "summary": [
-        "연준 워시 의장의 매파적 발언으로 미국 10년물 국채 금리가 급등하며 나스닥 지수가 하락 전환했습니다.",
-        "고금리 환경은 성장주 중심의 기술주에 특히 부정적인 영향을 미치며, 투자 심리를 위축시키는 요인으로 작용합니다.",
-        "국내 기술주 및 성장주에 대한 투자 시 미국 국채 금리 동향을 면밀히 살피고 위험 관리를 강화해야 합니다."
+        "한국의 월 수출액이 1,000억 달러를 돌파하며 역사적인 기록을 세웠다.",
+        "이는 주로 반도체 산업의 호조에 힘입은 결과로, 특정 산업에 대한 높은 의존도에 대한 우려가 제기되었다.",
+        "반도체 외 다양한 수출 동력 확보가 국내 경제의 안정성과 성장 지속을 위해 필수적임을 시사하며, 관련 산업의 발굴 및 투자를 모색할 필요가 있다."
       ],
-      "summary_text": "연준 워시 의장의 매파적 발언으로 미국 10년물 국채 금리가 급등하며 나스닥 지수가 하락 전환했습니다. 고금리 환경은 성장주 중심의 기술주에 특히 부정적인 영향을 미치며, 투자 심리를 위축시키는 요인으로 작용합니다. 국내 기술주 및 성장주에 대한 투자 시 미국 국채 금리 동향을 면밀히 살피고 위험 관리를 강화해야 합니다.",
-      "description": "워시 의장의 발언으로 10년물 국채 금리가 4.72%까지 상승하면서 나스닥 지수가 하락 전환했다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "기술주, 성장주, 반도체",
+      "summary_text": "한국의 월 수출액이 1,000억 달러를 돌파하며 역사적인 기록을 세웠다. 이는 주로 반도체 산업의 호조에 힘입은 결과로, 특정 산업에 대한 높은 의존도에 대한 우려가 제기되었다. 반도체 외 다양한 수출 동력 확보가 국내 경제의 안정성과 성장 지속을 위해 필수적임을 시사하며, 관련 산업의 발굴 및 투자를 모색할 필요가 있다.",
+      "description": "한국이 월 수출 1,000억 달러 시대를 맞이했으나, 허정 교수는 반도체 의존도를 줄이고 다양한 산업 안전핀이 필요하다고 강조했다.",
+      "category": "국내 거시경제",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "반도체, 미래 신산업",
       "related_stocks": [
-        "네이버",
-        "카카오",
+        "삼성전자",
         "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 장기 국채 금리 상승은 국내 기술주 및 성장주의 밸류에이션 부담을 높여 투자 매력을 약화시킬 수 있기 때문입니다.",
-      "key_signal": "미국 10년물 국채 금리의 추가 상승 여부와 연준의 금리 정책에 대한 시장의 반응을 지속적으로 관찰해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "한국 경제의 장기적인 성장 동력과 수출 구조 다각화의 필요성을 보여주며, 향후 정부 정책 및 기업 투자 방향을 예측하는 데 중요한 단서가 되기 때문이다.",
+      "key_signal": "반도체 외 수출 성장 가능성이 높은 신규 산업군과 관련 기업에 대한 정부의 지원 정책 및 민간 투자가 확대되는지 주목해야 한다.",
       "keywords": [
-        "나스닥",
-        "워시",
-        "10년물금리",
-        "기술주",
-        "매파적"
+        "한국수출",
+        "반도체",
+        "산업다각화",
+        "경제안전핀",
+        "미래산업"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wRko2a3lEdGlFUWtURHU3TUVZMkhlUUdma1J3d3BaeG1MM3BJVXRRUHFUMk1QMWU4YUJjZ05UMUgwWU9UZWxqREJ3cl95SlUwVnczOXExN0hHc3JrVG5z?oc=5",
-      "published": "2026-08-28 13:19",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtQWhNZm9PaUtoaWJoajZsZXJ4dTBWdVQ4ZUdYWmFyTVVMbXlTeUxrc29FcDlBWjFqSEhyMzZseGVySmU3WjB6N2xjX2pTd0tmOGg3TExVeVBKZTNlelB2UWlEZnJKUy1iMmVFMUxNZ2c?oc=5",
+      "published": "2026-08-30 06:11",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,36 +152,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "‘엔비디아 호재’도 무용지물… 국내 증시 발목 잡은 금리와 트럼프 [주간 증시해설서]",
-      "display_title": "‘엔비디아 호재’도 무용지물… 국내 증시 발목 잡은 금리와 트럼프 [주간 증시해설서]",
-      "original_title": "‘엔비디아 호재’도 무용지물… 국장 발목 잡은 금리와 트럼프 [주간 증시해설서] - 더스쿠프",
+      "title": "코스피 7천 고비 이번엔 넘을까?… 미국 금리 여전히 변수 [주간증시전망]",
+      "display_title": "코스피 7천 고비 이번엔 넘을까?… 미국 금리 여전히 변수 [주간증시전망]",
+      "original_title": "코스피 7천 깔딱고개 이번엔?… 美 금리 여전히 변수 [주간증시전망] - IT조선",
       "summary": [
-        "엔비디아 호재에도 불구하고 국내 증시가 금리 인상 우려와 트럼프 관련 불확실성으로 하방 압력을 받고 있습니다.",
-        "글로벌 기술주 강세에도 불구하고 국내는 고금리 환경과 미국 정치적 리스크가 투자 심리를 위축시키는 요인으로 작용합니다.",
-        "대외 불확실성 증가로 국내 증시 변동성이 확대될 수 있으므로 보수적인 접근이 필요합니다."
+        "코스피 지수가 심리적 저항선인 7천 포인트를 재차 돌파할지 관심이 집중되고 있다.",
+        "미국 금리 인상 기조와 환율 변동성이 국내 증시에 지속적으로 부담을 주는 주요 변수로 작용하고 있다.",
+        "이번 주에는 미국 금리 관련 이슈를 주시하며, 외국인 수급 동향과 국내 기업 실적 발표에 따라 증시 흐름을 판단해야 한다."
       ],
-      "summary_text": "엔비디아 호재에도 불구하고 국내 증시가 금리 인상 우려와 트럼프 관련 불확실성으로 하방 압력을 받고 있습니다. 글로벌 기술주 강세에도 불구하고 국내는 고금리 환경과 미국 정치적 리스크가 투자 심리를 위축시키는 요인으로 작용합니다. 대외 불확실성 증가로 국내 증시 변동성이 확대될 수 있으므로 보수적인 접근이 필요합니다.",
-      "description": "엔비디아의 호재에도 불구하고 국내 증시가 금리 인상 우려와 트럼프 관련 불확실성으로 인해 부진을 면치 못하고 있다.",
+      "summary_text": "코스피 지수가 심리적 저항선인 7천 포인트를 재차 돌파할지 관심이 집중되고 있다. 미국 금리 인상 기조와 환율 변동성이 국내 증시에 지속적으로 부담을 주는 주요 변수로 작용하고 있다. 이번 주에는 미국 금리 관련 이슈를 주시하며, 외국인 수급 동향과 국내 기업 실적 발표에 따라 증시 흐름을 판단해야 한다.",
+      "description": "코스피 지수가 7천 선 돌파를 시도하고 있으나, 미국 금리 인상 가능성이 여전히 주요 변수로 작용하며 시장의 불확실성을 높이고 있다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "반도체, IT, 증시 전반",
+      "market_impact": "중립",
+      "related_sector": "전반적인 시장",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "국내 증시가 대외 금리 인상과 정치적 불확실성으로 인해 상승 동력을 잃을 수 있기 때문입니다.",
-      "key_signal": "미국 금리 정책 방향과 대선 관련 불확실성 해소 여부가 국내 증시 흐름에 핵심적인 영향을 미칠 것입니다.",
+      "investment_view": "관심",
+      "investment_reason": "코스피 7천 돌파 여부는 시장의 추세 전환점이 될 수 있으며, 미국 금리 변수는 국내 증시 전반에 가장 큰 영향을 미치는 요인 중 하나이기 때문이다.",
+      "key_signal": "미국 연준의 금리 인상 스탠스와 그에 따른 외국인 투자자의 국내 증시 수급 변화를 최우선으로 확인해야 한다.",
       "keywords": [
-        "엔비디아",
-        "금리인상",
-        "트럼프",
-        "국내증시",
-        "불확실성"
+        "코스피",
+        "미국금리",
+        "증시전망",
+        "환율변동성",
+        "외국인수급"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VU1FmYTBwVzdiSzlBeG1DNjRxV3BYSE4wTnNmMU1uV2JFTndHSXE1U2xqNDRmVTBRcmlpOGYtR3N1M3JFMVBVU1RRRWZ4aEJ0SHlIcE54RURuZTRsRWtMTlpaWEt6U2NYZDFERmF3?oc=5",
-      "published": "2026-08-29 10:20",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BYWxtMG5uMXJmU0ZxTlRFZkF4dWs1cEowc01LbXZ6Vy0xNnExUExucUVrMFg4Q0ZqajhtTXM5SF9MbVZHMTFzdEl5enhfTTJ5UWR0NlJjdXMzOTlhdzNHazR0UlVRY0piQUNVY2VVZkNtVmZE0gF0QVVfeXFMTUFhbG0wbm4xcmZTRnFOVEVmQXh1azVwSjBzTUttdnpXLTE2cTFQTG5xRWswWDhDRmpqOG1NczlIX0xtVkcxMXN0SXl6eF9NMnlRZHQ2UmN1czM5OWF3M0drNHRSVVFjSmJBQ1VjZVVmQ21WZkQ?oc=5",
+      "published": "2026-08-30 07:09",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -192,83 +191,83 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "[아크미 일렉트로닉스 2026년 상반기 실적 발표] 매출 전년 대비 20.5% 증가, 총이익률 18.1% 상승; 2027년 하반기 SiC 소결 부품 양산 확대가 핵심 변곡점",
-      "display_title": "[아크미 일렉트로닉스 2026년 상반기 실적 발표] 매출 전년 대비 20.5% 증가, 총이익률 18.1% 상승; 2027년 하반기 SiC 소결 부품 양산 확대가 핵심 변곡점",
-      "original_title": "[Acme Electronics FY2026 H1 Earnings Call] Revenue Up 20.5% YoY with Gross Margin Climbing to 18.1%; SiC Sintered Components Set for Volume Ramp in H2 2027 as Key Inflection Point - finance.biggo.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "원·달러 환율, 올해 최저치 기록…'연속 금리 인상'에 추가 하락 가능성은?",
+      "display_title": "원·달러 환율, 올해 최저치 기록…'연속 금리 인상'에 추가 하락 가능성은?",
+      "original_title": "원·달러, 올 들어 최저 수준으로…'백투백 인상'에 더 떨어질까 - 뉴시스",
       "summary": [
-        "아크미 일렉트로닉스가 2026년 상반기 견조한 매출 성장과 총이익률 개선을 기록했으며, 2027년 SiC 소결 부품의 양산 확대를 중요한 성장 동력으로 보고 있습니다.",
-        "SiC(실리콘 카바이드)는 차세대 전력 반도체 소재로, 전기차 및 신재생에너지 분야에서 수요가 급증하고 있습니다.",
-        "SiC 관련 소재 및 부품 기술을 보유한 기업들의 중장기 성장 가능성이 높으므로 관련 국내 투자처를 모색할 필요가 있습니다."
+        "원·달러 환율이 올해 들어 최저 수준을 기록하며 원화 강세 흐름을 보이고 있다.",
+        "이는 한국은행의 '백투백' 금리 인상 가능성과 국내외 경기 회복 기대감이 복합적으로 작용한 결과로 해석된다.",
+        "환율 하락은 수출 기업의 채산성 악화와 수입 물가 안정에 영향을 미칠 수 있으며, 국내 증시의 외국인 자금 유입 여부에 주목해야 한다."
       ],
-      "summary_text": "아크미 일렉트로닉스가 2026년 상반기 견조한 매출 성장과 총이익률 개선을 기록했으며, 2027년 SiC 소결 부품의 양산 확대를 중요한 성장 동력으로 보고 있습니다. SiC(실리콘 카바이드)는 차세대 전력 반도체 소재로, 전기차 및 신재생에너지 분야에서 수요가 급증하고 있습니다. SiC 관련 소재 및 부품 기술을 보유한 기업들의 중장기 성장 가능성이 높으므로 관련 국내 투자처를 모색할 필요가 있습니다.",
-      "description": "아크미 일렉트로닉스의 2026년 상반기 실적 발표에 따르면 매출이 전년 대비 20.5% 증가하고 총이익률이 18.1%로 상승했으며, 2027년 하반기 SiC 소결 부품의 양산 확대가 중요한 성장 변곡점이 될 것으로 보인다.",
-      "category": "기업·산업",
+      "summary_text": "원·달러 환율이 올해 들어 최저 수준을 기록하며 원화 강세 흐름을 보이고 있다. 이는 한국은행의 '백투백' 금리 인상 가능성과 국내외 경기 회복 기대감이 복합적으로 작용한 결과로 해석된다. 환율 하락은 수출 기업의 채산성 악화와 수입 물가 안정에 영향을 미칠 수 있으며, 국내 증시의 외국인 자금 유입 여부에 주목해야 한다.",
+      "description": "원·달러 환율이 올해 들어 최저 수준으로 떨어졌으며, 한국은행의 연속적인 금리 인상으로 인해 추가 하락할지에 대한 관심이 커지고 있다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "SiC 전력 반도체, 특수 소재, 전기차 부품",
+      "market_impact": "중립",
+      "related_sector": "수출주, 수입 관련주",
       "related_stocks": [
-        "LX세미콘",
-        "SKC",
-        "코미코"
+        "삼성전자",
+        "현대차"
       ],
       "investment_view": "관심",
-      "investment_reason": "SiC 전력 반도체 시장의 본격적인 개화가 임박했으며, 이는 관련 기술을 가진 기업들에게 큰 성장 기회가 될 것이기 때문입니다.",
-      "key_signal": "SiC 소결 부품의 양산 일정과 고객사 확대 여부를 지속적으로 모니터링해야 합니다.",
+      "investment_reason": "원화 강세는 수출 기업의 수익성을 약화시키는 반면, 외국인 투자자 유입 및 수입 물가 안정에 기여할 수 있어 산업별 희비가 엇갈릴 수 있기 때문이다.",
+      "key_signal": "한국은행의 향후 금리 인상 결정과 미국 연준의 통화 정책, 그리고 글로벌 경기 회복세가 원·달러 환율의 추가적인 방향성을 결정할 중요한 변수가 될 것이다.",
       "keywords": [
-        "SiC",
-        "전력반도체",
-        "소결부품",
-        "전기차",
-        "신소재"
+        "원달러환율",
+        "원화강세",
+        "한국은행",
+        "금리인상",
+        "수출기업"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxbHdmLU1saFcwLWhjX2NLRlg2WVB0emNIanptUDd0V21Td1ZRRlRhRWMxU2QwWkR4TUtTaENHT05yTmNBalNMVjdrRjZ0UGJHNm5OcFJDX0s3WUtPXzJDeVZn?oc=5",
-      "published": "2026-08-28 17:14",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wUHJ1YUJVemRRMWNIZ1FGdlFtQlJXbHA5SjAxWi1qOFpPSnlwbVFmU1A4VVgwQVRyTS03Z0xnalltTXB0d3RXZ0dEcmhZUmNDOEtYeGZIeVdiSFIwMDNzTzNBSVVWVnlUWmJLd2lhYmd4d0lsekZLNNIBeEFVX3lxTE1wUHJ1YUJVemRRMWNIZ1FGdlFtQlJXbHA5SjAxWi1qOFpPSnlwbVFmU1A4VVgwQVRyTS03Z0xnalltTXB0d3RXZ0dEcmhZUmNDOEtYeGZIeVdiSFIwMDNzTzNBSVVWVnlUWmJLd2lhYmd4d0lsekZLNA?oc=5",
+      "published": "2026-08-30 06:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[다음주 경제] ‘800조원대’ 예산안 공개…산업생산·물가·경상수지에 시선",
-      "display_title": "[다음주 경제] ‘800조원대’ 예산안 공개…산업생산·물가·경상수지에 시선",
-      "original_title": "[다음주 경제] ‘800조원대’ 예산안 공개…산업생산·물가·경상수지에 시선 - 산경투데이",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "[오피니언] 트럼프 행정부의 채권시장 개입은 엄청난 실패로 끝날 것",
+      "display_title": "[오피니언] 트럼프 행정부의 채권시장 개입은 엄청난 실패로 끝날 것",
+      "original_title": "Opinion: The Trump Administration's Bond Market Intervention Will Be a Spectacular Failure - The Globe and Mail",
       "summary": [
-        "다음 주 정부의 800조원대 예산안이 공개되며, 산업생산, 물가, 경상수지 등 주요 경제 지표들이 발표될 예정입니다.",
-        "예산안은 정부의 정책 방향과 재정 건전성을 보여주고, 경제 지표는 현재 국내 경제 상황을 가늠하는 중요한 척도입니다.",
-        "정부 정책 방향에 따른 수혜 산업을 파악하고, 주요 경제 지표를 통해 국내 경제의 회복 강도를 확인해야 합니다."
+        "트럼프 행정부의 채권 시장 개입 시도가 결국 실패할 것이라는 비판적 시각의 오피니언이 제기되었다.",
+        "이는 정치적 목적을 가진 시장 개입이 초래할 수 있는 부작용과 시장 왜곡에 대한 우려를 반영한다.",
+        "향후 미국 대선 결과에 따라 트럼프 전 대통령의 재집권 가능성이 있는 만큼, 정책 불확실성과 시장 변동성 확대에 대비하며 투자 전략을 재검토해야 한다."
       ],
-      "summary_text": "다음 주 정부의 800조원대 예산안이 공개되며, 산업생산, 물가, 경상수지 등 주요 경제 지표들이 발표될 예정입니다. 예산안은 정부의 정책 방향과 재정 건전성을 보여주고, 경제 지표는 현재 국내 경제 상황을 가늠하는 중요한 척도입니다. 정부 정책 방향에 따른 수혜 산업을 파악하고, 주요 경제 지표를 통해 국내 경제의 회복 강도를 확인해야 합니다.",
-      "description": "다음주에는 800조원대 규모의 예산안이 공개될 예정이며, 산업생산, 물가, 경상수지 등 주요 경제 지표 발표에도 관심이 집중될 것이다.",
-      "category": "국내 거시경제",
+      "summary_text": "트럼프 행정부의 채권 시장 개입 시도가 결국 실패할 것이라는 비판적 시각의 오피니언이 제기되었다. 이는 정치적 목적을 가진 시장 개입이 초래할 수 있는 부작용과 시장 왜곡에 대한 우려를 반영한다. 향후 미국 대선 결과에 따라 트럼프 전 대통령의 재집권 가능성이 있는 만큼, 정책 불확실성과 시장 변동성 확대에 대비하며 투자 전략을 재검토해야 한다.",
+      "description": "트럼프 행정부의 채권 시장 개입 시도가 결국 엄청난 실패로 끝날 것이라는 의견 기사이다.",
+      "category": "글로벌 경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "정책 수혜주, 건설, 공공 인프라",
+      "market_impact": "부정",
+      "related_sector": "금융",
       "related_stocks": [
-        "현대건설",
-        "한국전력"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "예산안의 세부 내용과 경제 지표 발표가 향후 국내 경기 전망과 투자 유망 섹터에 대한 단서를 제공하기 때문입니다.",
-      "key_signal": "예산안의 구체적인 내용과 산업생산, 물가, 경상수지 등 발표되는 경제 지표의 예상치 대비 결과에 주목해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "트럼프 행정부의 정책 기조는 보호무역주의, 시장 개입 등으로 글로벌 금융 시장에 큰 불확실성을 야기할 수 있으며, 이는 국내 증시에도 부정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "미국 대선 관련 트럼프 전 대통령의 지지율 변동 및 그의 구체적인 경제 정책 공약 발표에 주목하고, 채권 시장의 반응을 면밀히 관찰해야 한다.",
       "keywords": [
-        "예산안",
-        "경제지표",
-        "산업생산",
-        "물가",
-        "경상수지"
+        "트럼프",
+        "채권시장",
+        "정책개입",
+        "시장불확실성",
+        "미국대선"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rLXBUTHBoOVdJRlZTX2c1ODZwWmFuMExiWVh6TGgtNmNQNGdxQ3BhaDB1dkJRNFp3VFU2YUZPTFFVZDNOZU5TTnBWVHg1bHZza1liR0tBMXFIaEQwR0dDc3FyY1NQZl9KNDBQTEJQZnFnOVVz0gF0QVVfeXFMTWstcFRMcGg5V0lGVlNfZzU4NnBaYW4wTGJZWHpMaC02Y1A0Z3FDcGFoMHV2QlE0WndUVTZhRk9MUVVkM05lTlNOcFZUeDVsdnNrWWJHS0ExcUhoRDBHR0NzcXJjU1BmX0o0MFBMQlBmcWc5VXM?oc=5",
-      "published": "2026-08-29 09:43",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQ3pzMmJXOE1scjR2VGxKZ0JoUEVQMVhTOUxNOEl3MVFRM1ZlcXdlN1lxMGgxN09JWDR1VVBnZlM5U2xvWkNwZ25DbmpiMFUwWVROVU5ta1RKVEdTeFlrLVUyWVFZZXVBV1R2VVBjLXRKZjExcjdMUXlCdzNadUxLelBLTHJFR18tUEdIQThVaFpqdmtmZlZTVEFRckhueTMwMVh0NWdDcjRMZm5QRWhNN2Z1SmNMaVpPU1dXNmdoSjg1Mlh6THJvRjJ3bkhTV00wbHZfWXVJdGx4VjdSdGNjOVZJM28zX1NvNlZ1Y1BjNGtOS0NCdUJ3U3R1Vng?oc=5",
+      "published": "2026-08-29 22:42",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -277,63 +276,68 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "LX세미콘",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "SiC 전력 반도체",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "SiC 전력 반도체 시장의 본격적인 개화가 임박했으며, 이는 관련 기술을 가진 LX세미콘에게 큰 성장 기회가 될 것이기 때문에 관심있게 지켜볼 필요가 있습니다.",
+      "reason": "연준의 긴축 기조 유지 가능성, 글로벌 무역 불확실성 등 부정적 요인과 한국 수출 경제의 핵심 축으로서 반도체 산업의 중요성 및 원화 강세 흐름 등 긍정적/부정적 요인이 복합적으로 작용하고 있어 시장 전반의 방향성을 가늠하는 핵심 지표로 주목해야 합니다.",
       "check_points": [
-        "SiC 전력 반도체 관련 기술 개발 및 양산 계획",
-        "전기차 시장 성장세 및 고객사 확대 여부"
+        "미국 금리 인상 경로 및 연준 스탠스 변화",
+        "원/달러 환율 변동성 확대 여부",
+        "글로벌 반도체 수요 및 재고 상황"
       ],
       "related_news_titles": [
-        "[아크미 일렉트로닉스 2026년 상반기 실적 발표] 매출 전년 대비 20.5% 증가, 총이익률 18.1% 상승; 2027년 하반기 SiC 소결 부품 양산 확대가 핵심 변곡점"
+        "연준 의장, 9월 금리 인상 가능성 시사로 채권 및 암호화폐 시장 동요",
+        "한국, 월 수출 1,000억 달러 시대…허정 교수 “반도체 꺾여도 버틸 산업 안전핀 필요”",
+        "원·달러 환율, 올해 최저치 기록…'연속 금리 인상'에 추가 하락 가능성은?"
       ]
     },
     {
       "rank": 2,
-      "name": "현대건설",
+      "name": "LIG넥스원",
       "market": "KOSPI",
-      "sector": "건설",
+      "sector": "방산",
       "opinion": "관심",
-      "reason": "국내 800조원대 예산안 공개는 정책 수혜주에 대한 기대감을 높일 수 있으며, 현대건설은 공공 인프라 투자 확대의 잠재적 수혜주로 부각될 수 있습니다.",
+      "reason": "미-이란 무력 충돌과 같은 지정학적 리스크는 글로벌 증시 전반에 부정적 영향을 미치지만, 동시에 방산 업종에는 단기적인 관심이 쏠릴 수 있어 관련 동향을 면밀히 주시할 필요가 있습니다.",
       "check_points": [
-        "정부 예산안의 세부 내용 및 SOC 투자 계획",
-        "건설 부문의 정책 지원 방향 및 수주 동향"
+        "중동 지역의 지정학적 긴장 완화 또는 심화 여부",
+        "국제 유가 및 원자재 가격의 변동성",
+        "미국의 대이란 정책 변화"
       ],
       "related_news_titles": [
-        "[다음주 경제] ‘800조원대’ 예산안 공개…산업생산·물가·경상수지에 시선"
+        "미-이란 무력 충돌 여파로 다우지수 3월 이후 최악의 하락, S&P 500 및 나스닥 상승세 중단"
       ]
     },
     {
       "rank": 3,
-      "name": "삼성전자",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "주의",
-      "reason": "미국 금리 인상 가능성 증가와 장기 국채 금리 상승은 국내 증시 전반, 특히 기술주 및 반도체 업종의 투자 심리 위축과 밸류에이션 부담을 높일 수 있으므로 주의 깊은 접근이 필요합니다.",
+      "sector": "증권",
+      "opinion": "관심",
+      "reason": "코스피 7천선 돌파 여부가 시장의 중요한 추세 전환점이 될 수 있는 가운데, 미국 금리 변수 등 거시 경제 지표에 민감하게 반응하는 증권 업종은 시장의 방향성을 예측하는 데 중요한 바로미터가 될 수 있습니다.",
       "check_points": [
-        "미국 연준의 금리 정책 및 잭슨홀 연설 결과",
-        "외국인 투자자 매매 동향 및 환율 변동성"
+        "코스피 지수 7천선 돌파 성공 여부",
+        "미국 FOMC 의사록 발표 및 금리 정책 방향성",
+        "국내 기관 및 외국인 투자자 순매수/순매도 동향"
       ],
       "related_news_titles": [
-        "연준 의장 워시, 금리 인하 배제…9월 인상 확률 57% 급등, 뉴욕 증시 하락",
-        "‘엔비디아 호재’도 무용지물… 국내 증시 발목 잡은 금리와 트럼프 [주간 증시해설서]"
+        "코스피 7천 고비 이번엔 넘을까?… 미국 금리 여전히 변수 [주간증시전망]"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "금융",
-      "opinion": "주의",
-      "reason": "잭슨홀 연설을 앞두고 글로벌 증시 변동성이 확대될 가능성이 높아, 증권업을 포함한 금융 섹터의 투자 심리에도 신중한 접근이 필요한 시점입니다.",
+      "sector": "자동차",
+      "opinion": "관심",
+      "reason": "원/달러 환율이 올해 최저치를 기록하는 등 원화 강세 흐름이 지속될 가능성이 제기되고 있어, 대표적인 수출 기업인 현대차의 수익성에 미칠 영향을 분석하고 시장의 반응을 주목해야 할 때입니다.",
       "check_points": [
-        "잭슨홀 연설 내용 및 시장 반응",
-        "금리 변동성에 따른 증권업종 실적 영향"
+        "원/달러 환율의 추가적인 하락 압력 발생 여부",
+        "글로벌 완성차 시장 경쟁 환경 변화",
+        "주요 해외 시장 판매량 및 수익성 변화"
       ],
       "related_news_titles": [
-        "미국 증시 오늘 라이브: 잭슨홀 연설 앞두고 다우존스 선물 상승, 나스닥·S&P 500 선물 하락"
+        "원·달러 환율, 올해 최저치 기록…'연속 금리 인상'에 추가 하락 가능성은?"
       ]
     }
   ],
