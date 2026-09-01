@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31 09:13",
-  "analysis_date": "2026-08-31",
+  "generated_at": "2026-09-01 10:00",
+  "analysis_date": "2026-09-01",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,95 +13,95 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 금리 인상 압력과 지정학적 불안정성 증대로 시장 전반의 불확실성이 확대되었습니다. 특히 미국 30년물 국채금리 6% 돌파는 국내 자본 유출 우려를 높여 신중한 접근이 필요합니다. 다만, 금리 상승 환경에서 수혜를 입는 일부 업종은 주목할 만합니다.",
-    "국내거시경제": "미국 30년물 국채금리가 6%를 돌파하며 무위험 수익률이 높아져 스마트머니의 미국 본토 회귀가 가속화될 수 있습니다. 이는 원화 약세 심화와 외국인 자금 이탈 압력을 키워 한국 금융시장에 심각한 거시경제적 위협 요인으로 작용할 가능성이 높습니다. 환율 변동성 확대에 대한 대비가 중요합니다.",
-    "글로벌경제": "잭슨홀 발언 이후 미국 금리 인상 가능성이 고조되며 미국 증시 선물이 하락했습니다. 더불어 미국의 이란 공습 소식으로 지정학적 긴장이 격화되고 유가가 급등하며 글로벌 인플레이션 압력과 투자 심리 위축이 우려됩니다.",
-    "증시금리": "엔비디아 주가 급락과 미국 금리 인상 경계심으로 코스피는 약세 출발 후 반등을 모색할 것으로 전망됩니다. 이번 주 코스피 7,000선 돌파 여부는 미국 고용, 한국 수출, 브로드컴 실적 등 주요 지표에 따라 결정될 것이며, 증시 전반의 변동성 확대에 유의해야 합니다.",
+    "총평": "글로벌 증시는 유가 상승, 금리 인상 우려, 지정학적 리스크가 겹치며 전반적인 약세를 보였습니다. 국내 증시도 이 영향을 받았으나, 일부 산업에서는 긍정적인 협력 소식이 전해졌습니다.",
+    "국내거시경제": "국제유가 상승 압박으로 코스피가 하락 출발했으며 코스닥 역시 약보합세를 보이며 글로벌 변수에 민감하게 반응했습니다.",
+    "글로벌경제": "유가 상승과 금리 인상 우려, 미국-이란 긴장 고조 등 지정학적 리스크가 복합적으로 작용하며 글로벌 경제 전반에 불확실성이 커졌습니다.",
+    "증시금리": "미국 S&P 500, 다우존스, 나스닥 등 주요 증시가 일제히 하락했으며, 매파적 발언과 국제유가 상승이 주요 하락 요인이었습니다. 국내 증시도 약세를 면치 못했습니다.",
     "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "하나증권은 금리 상승 모멘텀을 받는 은행주가 9월부터 조정 양상을 벗어나 회복세를 보일 것으로 전망했습니다. 금리 인상 환경은 은행의 순이자마진 개선과 이익 증가로 이어져 가치주로서 은행주의 매력이 부각될 수 있습니다.",
-    "오늘의투자시사점": "글로벌 금리 인상 압력과 지정학적 리스크로 국내 증시 전반의 조정 가능성에 대비해야 합니다. 환율 변동성 확대와 외국인 자금 이탈에 대한 주의가 필요하며, 기술주 중심의 시장에서는 개별 종목의 펀더멘털을 확인하는 것이 중요합니다. 한편, 금리 인상 수혜주인 은행주에 대한 지속적인 관심은 유효합니다.",
-    "오늘의한줄": "글로벌 금리 인상과 지정학적 긴장이 고조되며 시장 변동성 확대가 예상되나, 펀더멘털 기반의 선별적 접근이 필요한 시점입니다."
+    "기업산업": "LG전자가 삼성 파운드리와 협력하여 칩을 생산할 계획이며, 이는 국내 반도체 생태계에 긍정적인 영향을 줄 것으로 보입니다. 미국 증시에서는 반도체주가 하락했으나, 클라우드 메모리 주식과 샌디스크, 테슬라는 강세를 보이며 업종 및 개별 기업별 차별화가 나타났습니다.",
+    "오늘의투자시사점": "국제유가 변동성, 금리 인상 우려, 지정학적 리스크를 주시하며 보수적인 투자 관점을 유지해야 합니다. 다만, 국내 반도체 산업 내 협력 강화와 미국 시장 내 클라우드 메모리 등 특정 기술주의 모멘텀에는 관심을 가져볼 필요가 있습니다.",
+    "오늘의한줄": "복합적 글로벌 리스크에 증시 약세, 국내 산업 내 긍정적 변화와 개별 기업 모멘텀에 주목해야 할 하루."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "미국 30년물 국채금리 6% 돌파: 글로벌 경제 대재앙의 서막과 한국 금융시장의 거시경제적 뇌관",
-      "display_title": "미국 30년물 국채금리 6% 돌파: 글로벌 경제 대재앙의 서막과 한국 금융시장의 거시경제적 뇌관",
-      "original_title": "미국 30년물 국채금리 6% 돌파가 불러올 글로벌 경제 대재앙의 서막 -> 무위험 수익률 6% 시대 => 전 세계 스마트머니의 미국 본토 유턴 >> 환율 쇼크와 자본 유출 = 한국 금융시장을 덮치는 거시경제적 뇌관 - 경제투데이",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 증시: S&P 500과 다우존스 하락, 유가·금리·9월 리스크가 월스트리트를 압박",
+      "display_title": "오늘 증시: S&P 500과 다우존스 하락, 유가·금리·9월 리스크가 월스트리트를 압박",
+      "original_title": "Stock Market Today: S&P 500 and Dow Jones Slip as Oil, Rates and September Risk Pressure Wall Street - CryptoRank",
       "summary": [
-        "미국 30년물 국채금리가 6%를 돌파하며 무위험 수익률 6% 시대가 열리자, 전 세계 스마트머니가 미국 본토로 회귀할 가능성이 높아졌습니다.",
-        "이는 환율 쇼크와 국내 자본 유출을 야기하며 한국 금융시장에 심각한 거시경제적 위협 요인으로 작용할 수 있습니다.",
-        "원화 약세와 외국인 자금 이탈 압력이 커질 수 있으므로, 환율 변동성 확대에 대비하고 국내 증시 전반의 조정 가능성을 염두에 두어야 합니다."
+        "S&P 500과 다우존스 지수가 유가 상승, 금리 인상 우려, 그리고 9월 리스크 요인들로 인해 하락했습니다.",
+        "복합적인 대외 변수들이 미국 증시에 부정적인 영향을 미치며 투자 심리를 위축시키고 있습니다.",
+        "국내 증시 역시 이러한 글로벌 매크로 환경 변화에 민감하게 반응할 수 있으므로, 관련 지표들을 지속적으로 모니터링해야 합니다."
       ],
-      "summary_text": "미국 30년물 국채금리가 6%를 돌파하며 무위험 수익률 6% 시대가 열리자, 전 세계 스마트머니가 미국 본토로 회귀할 가능성이 높아졌습니다. 이는 환율 쇼크와 국내 자본 유출을 야기하며 한국 금융시장에 심각한 거시경제적 위협 요인으로 작용할 수 있습니다. 원화 약세와 외국인 자금 이탈 압력이 커질 수 있으므로, 환율 변동성 확대에 대비하고 국내 증시 전반의 조정 가능성을 염두에 두어야 합니다.",
-      "description": "미국 30년물 국채금리가 6%를 돌파하며 무위험 수익률 6% 시대가 도래, 전 세계 스마트머니의 미국 본토 유턴 가능성이 제기되면서 환율 쇼크와 자본 유출로 한국 금융시장에 거시경제적 위험이 가중될 수 있다는 분석입니다.",
-      "category": "국내 거시경제",
-      "importance": 10,
+      "summary_text": "S&P 500과 다우존스 지수가 유가 상승, 금리 인상 우려, 그리고 9월 리스크 요인들로 인해 하락했습니다. 복합적인 대외 변수들이 미국 증시에 부정적인 영향을 미치며 투자 심리를 위축시키고 있습니다. 국내 증시 역시 이러한 글로벌 매크로 환경 변화에 민감하게 반응할 수 있으므로, 관련 지표들을 지속적으로 모니터링해야 합니다.",
+      "description": "오늘 S&P 500과 다우존스 지수가 하락했으며, 유가 상승, 금리 압박, 그리고 9월에 예상되는 리스크 요인들이 월스트리트에 부담을 주고 있다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전반, 금융, 수출주",
+      "related_sector": "전 섹터",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 초장기 국채금리 급등은 글로벌 자금 흐름에 큰 변화를 가져와 한국의 환율과 자본 시장에 직접적인 위협이 될 수 있기 때문입니다.",
-      "key_signal": "미국 장기 국채금리의 추가 상승 여부와 이에 따른 국내 외환 시장 및 외국인 자금 동향을 최우선으로 모니터링해야 합니다.",
+      "investment_reason": "유가, 금리, 계절적 리스크 등 복합적인 글로벌 변수가 국내 증시 전반에 미칠 파급 효과를 예의주시해야 합니다.",
+      "key_signal": "국제유가 및 금리 변동 추이와 함께 9월 시장에 대한 리스크 요인들을 종합적으로 분석해야 합니다.",
       "keywords": [
-        "미국 국채금리",
-        "환율",
-        "자본 유출",
-        "한국 경제",
+        "미국 증시",
+        "유가",
+        "금리",
+        "9월 리스크",
         "거시경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OQ0Q1LVZtSmZFZTFxQXhkanhIU1BMandMa0NYc3AyUk5fN0pyR0dBS0VmaDRINDZsV29lOHhqWUZTdjNxSGhsUjJaN3FsWjdTalVTLUN4dHpLb2dBdHUzcnJNZ04zS2JO?oc=5",
-      "published": "2026-08-30 22:48",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjBESmJyX0pJdnI3VHVFLTVEdmQzeHlfR0I2Y0lGUGRWam5wYlFIbFh2c2gyc2t5c3VINGRjZUdPeWZHbUdrdkhsVUtVZTlKYndUTGxoMFNlU2xidDQ3VGNINF95azZYcWljZkticGhiM3lsNlVPbjctNHFBbkd2SUZjcFhVRVhQb3ZDOFM5VDJURm5nQm94cmdZQ2dtQXc1T193RHhieTRydTVJSVlqNGpaaHlXakRnT2V6cFZCTzNzdlp6UTViNXdlQTBjWXYx?oc=5",
+      "published": "2026-09-01 05:39",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "[굿모닝 마켓] 이번 주 코스피 7,000선 돌파 가능할까? 미국 고용, 한국 수출, 브로드컴 실적 주목",
-      "display_title": "[굿모닝 마켓] 이번 주 코스피 7,000선 돌파 가능할까? 미국 고용, 한국 수출, 브로드컴 실적 주목",
-      "original_title": "[Good Morning Market] Will the '7,000 KOSPI' Arrive This Week? Watch for US Employment, Korean Exports, and Broadcom Earnings - 아시아경제",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "국제유가 상승 속 코스피 하락 출발 6700선…코스닥 약보합",
+      "display_title": "국제유가 상승 속 코스피 하락 출발 6700선…코스닥 약보합",
+      "original_title": "국제유가 상승 속 코스피 하락 출발 6700선…코스닥 약보합 - news.nate.com",
       "summary": [
-        "코스피 7,000선 돌파 가능성에 대한 관심이 고조되며, 이번 주 주요 경제 지표 및 기업 실적 발표가 시장의 향방을 결정할 것으로 보입니다.",
-        "미국 고용 지표는 연준의 금리 정책에 영향을 미치고, 한국 수출은 국내 경제의 핵심 동력이며, 브로드컴 실적은 글로벌 기술주 흐름을 가늠하는 척도입니다.",
-        "글로벌 경제 지표와 주요 기업 실적에 따라 국내 증시의 변동성이 확대될 수 있으므로, 관련 발표를 면밀히 주시하며 투자 전략을 수립해야 합니다."
+        "국제유가 상승의 압박으로 코스피가 6700선에서 하락 출발했고, 코스닥은 약보합세를 보였습니다.",
+        "이는 미국 증시 하락 요인(유가, 금리)이 국내 시장에도 직접적인 영향을 미치고 있음을 보여줍니다.",
+        "유가 관련 변동성이 국내 증시에 미치는 영향을 주시하며 투자 종목 및 포트폴리오 관리에 유의해야 합니다."
       ],
-      "summary_text": "코스피 7,000선 돌파 가능성에 대한 관심이 고조되며, 이번 주 주요 경제 지표 및 기업 실적 발표가 시장의 향방을 결정할 것으로 보입니다. 미국 고용 지표는 연준의 금리 정책에 영향을 미치고, 한국 수출은 국내 경제의 핵심 동력이며, 브로드컴 실적은 글로벌 기술주 흐름을 가늠하는 척도입니다. 글로벌 경제 지표와 주요 기업 실적에 따라 국내 증시의 변동성이 확대될 수 있으므로, 관련 발표를 면밀히 주시하며 투자 전략을 수립해야 합니다.",
-      "description": "[굿모닝 마켓] 이번 주 코스피 7,000선 돌파 가능성 여부에 초점이 맞춰졌으며, 미국 고용 지표, 한국 수출 동향, 브로드컴 실적 발표에 관심이 쏠리고 있습니다.",
+      "summary_text": "국제유가 상승의 압박으로 코스피가 6700선에서 하락 출발했고, 코스닥은 약보합세를 보였습니다. 이는 미국 증시 하락 요인(유가, 금리)이 국내 시장에도 직접적인 영향을 미치고 있음을 보여줍니다. 유가 관련 변동성이 국내 증시에 미치는 영향을 주시하며 투자 종목 및 포트폴리오 관리에 유의해야 합니다.",
+      "description": "국제유가 상승의 영향으로 코스피 지수가 6700선에서 하락 출발했으며, 코스닥 지수는 약보합세를 보였다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT, 수출주",
+      "market_impact": "부정",
+      "related_sector": "정유, 항공, 운송, 전 섹터",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "대한항공",
+        "SK이노베이션"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시의 향방을 결정할 주요 지표와 기업 실적에 대한 전망이 제시되어 투자 의사 결정에 중요한 정보를 제공하기 때문입니다.",
-      "key_signal": "이번 주 발표될 미국 고용 지표, 한국 수출 데이터, 브로드컴 실적에 따라 코스피의 방향성이 결정될지 주목해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "국제유가 상승이 국내 증시 전반에 부정적 영향을 미치고 있어, 투자 리스크 관리가 필요하기 때문입니다.",
+      "key_signal": "국제유가 흐름과 국내 증시의 연동성을 지속적으로 체크하며 대응 전략을 마련해야 합니다.",
       "keywords": [
+        "국내 증시",
         "코스피",
-        "미국 고용",
-        "한국 수출",
-        "브로드컴",
-        "금리"
+        "코스닥",
+        "국제유가",
+        "유가 상승"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TODVPX1dYaW1vTk1NcVhnMXBjaFF1TVRic0Y5S3ZLaHc4YTk2MTR3VllMVU0zbDd3SlhwdllXSk8tNUtEVVp3NGl6eUVnSjFYWDFreHRoaU4yWE54TmJuRzZRQ1c?oc=5",
-      "published": "2026-08-31 08:20",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cVVxQ2RQSERQNDg5XzA4NmFSMnF0Y1hiVzBNZXlCWVZxcHppU180eU03XzJiODhReDFEQW9laHYwTUdCV2x3X3plSWNFUE92MENr?oc=5",
+      "published": "2026-09-01 09:32",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -111,37 +111,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "하나증권 \"금리 모멘텀 받는 은행주, 9월에는 조정 양상 벗어날 것\"",
-      "display_title": "하나증권 \"금리 모멘텀 받는 은행주, 9월에는 조정 양상 벗어날 것\"",
-      "original_title": "하나증권 \"금리모멘텀 받는 은행주, 9월엔 조정양상 벗어날 듯\" - 매일경제 마켓",
+      "title": "'TSMC 단골' LG전자, 코아시아세미와 협력하여 삼성 파운드리에서 칩 생산",
+      "display_title": "'TSMC 단골' LG전자, 코아시아세미와 협력하여 삼성 파운드리에서 칩 생산",
+      "original_title": "'TSMC 단골' LG전자…코아시아세미와 협력해 삼성 파운드리서 칩 생산 - 디일렉",
       "summary": [
-        "하나증권은 금리 상승 모멘텀을 받는 은행주가 9월부터 조정 양상을 벗어나 회복세를 보일 것으로 전망했습니다.",
-        "금리 인상 환경은 은행의 순이자마진 개선과 이익 증가로 이어져, 은행주에 긍정적인 영향을 미칠 수 있습니다.",
-        "금리 인상기에 성장주 대비 가치주의 매력이 부각될 수 있으며, 특히 은행주는 안전한 배당 수익과 함께 실적 개선 기대감을 가질 수 있습니다."
+        "LG전자가 기존 TSMC 대신 코아시아세미와 협력하여 삼성 파운드리에서 칩을 생산할 계획입니다.",
+        "이는 LG전자의 파운드리 전략 변화이자, 삼성 파운드리의 고객사 확대를 의미하며 국내 반도체 생태계에 긍정적인 영향을 줄 수 있습니다.",
+        "LG전자와 삼성전자 간의 협력 심화 가능성 및 코아시아세미의 역할에 주목하여 관련 기업들의 투자 기회를 탐색해야 합니다."
       ],
-      "summary_text": "하나증권은 금리 상승 모멘텀을 받는 은행주가 9월부터 조정 양상을 벗어나 회복세를 보일 것으로 전망했습니다. 금리 인상 환경은 은행의 순이자마진 개선과 이익 증가로 이어져, 은행주에 긍정적인 영향을 미칠 수 있습니다. 금리 인상기에 성장주 대비 가치주의 매력이 부각될 수 있으며, 특히 은행주는 안전한 배당 수익과 함께 실적 개선 기대감을 가질 수 있습니다.",
-      "description": "하나증권은 금리 인상 기조의 수혜를 받는 은행주가 9월부터는 조정 국면에서 벗어나 상승세를 보일 것으로 전망했습니다.",
+      "summary_text": "LG전자가 기존 TSMC 대신 코아시아세미와 협력하여 삼성 파운드리에서 칩을 생산할 계획입니다. 이는 LG전자의 파운드리 전략 변화이자, 삼성 파운드리의 고객사 확대를 의미하며 국내 반도체 생태계에 긍정적인 영향을 줄 수 있습니다. LG전자와 삼성전자 간의 협력 심화 가능성 및 코아시아세미의 역할에 주목하여 관련 기업들의 투자 기회를 탐색해야 합니다.",
+      "description": "TSMC의 주요 고객사였던 LG전자가 코아시아세미와의 협력을 통해 삼성 파운드리에서 칩 생산을 진행할 예정이다.",
       "category": "기업·산업",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "은행, 금융",
+      "related_sector": "반도체, 전자제품, 파운드리",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "삼성전자",
+        "LG전자",
+        "코아시아"
       ],
       "investment_view": "관심",
-      "investment_reason": "금리 인상기 수혜 업종인 은행주가 조정 국면을 마치고 상승 전환할 가능성이 제기되어 실적 및 배당 매력이 부각될 수 있습니다.",
-      "key_signal": "9월 이후 은행주의 실제 주가 흐름이 하나증권의 전망과 일치하는지 확인하고, 금리 인상 속도와 은행 실적 간의 상관관계를 주시해야 합니다.",
+      "investment_reason": "LG전자의 파운드리 전략 변화가 삼성전자와 코아시아세미 등 국내 반도체 관련 기업들의 실적 및 주가에 긍정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "LG전자의 삼성 파운드리 활용이 향후 양사 및 코아시아세미의 사업 방향과 실적에 어떤 구체적인 영향을 미칠지 주시해야 합니다.",
       "keywords": [
-        "은행주",
-        "금리인상",
-        "하나증권",
-        "금융주",
-        "배당주"
+        "LG전자",
+        "삼성 파운드리",
+        "코아시아세미",
+        "TSMC",
+        "반도체 생산"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2VEVKcTY0cTNOZHpsMjA2dUZ5TmRzZ1lYQXZVOUhEMTg1OUdFNGZPZjY5bXlqVHkzbktXenBWQXlJQ05MajAzRUpUak1NUEVPLXc?oc=5",
-      "published": "2026-08-31 08:46",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aN05UMUZfb2VHUDJ1c19Xald2dDdfUE1LQ0d0c3BTMFQxVzVIdXk4ckl0WXlCM1I2S29CUXVNSGt6Y0x2Q245NVZmbVNWbEc0bmU0MkxQUjk4TlFwWFpOZUsxOVNZUQ?oc=5",
+      "published": "2026-09-01 09:31",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -150,41 +150,41 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "엔비디아 급락 및 미국 금리 인상 경계 속 코스피, 월요일 약세 출발 후 반등 모색",
-      "display_title": "엔비디아 급락 및 미국 금리 인상 경계 속 코스피, 월요일 약세 출발 후 반등 모색",
-      "original_title": "엔비디아 급락·美 금리인상 경계…코스피, 월요일 ‘약세 출발 후 반등 모색’ - 이슈밸리",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시 동향 (8월 31일): 매파적 발언으로 반도체 주식 폭락; 미국-이란 주말 교차 공격으로 유가 상승 압박…",
+      "display_title": "미국 증시 동향 (8월 31일): 매파적 발언으로 반도체 주식 폭락; 미국-이란 주말 교차 공격으로 유가 상승 압박…",
+      "original_title": "U.S. Stock Market Trends (August 31): Wash Goes Hawkish, Crashing Chip Stocks; US-Iran Weekend Cross-Strikes Push Oil P… - 深潮TechFlow",
       "summary": [
-        "엔비디아 주가 급락과 미국 금리 인상에 대한 경계심이 커지며 코스피가 월요일 약세로 출발한 뒤 반등을 시도할 것으로 전망됩니다.",
-        "글로벌 기술주 하락과 연준의 긴축 기조는 국내 증시의 투자 심리를 위축시키는 주요 요인으로 작용합니다.",
-        "기술주 중심의 조정 장세가 예상되지만, 저가 매수 기회를 모색하는 움직임도 나타날 수 있으므로 개별 종목의 펀더멘털을 확인하는 것이 중요합니다."
+        "8월 31일 미국 증시에서 매파적 발언으로 반도체 주식이 큰 폭으로 하락했습니다.",
+        "동시에 미국과 이란 간의 주말 교차 공격 소식이 국제유가를 상승시키는 요인으로 작용했습니다.",
+        "금리 인상 우려와 지정학적 리스크가 복합적으로 작용하여 미국 증시에 부정적인 영향을 미쳤으며, 국내 반도체 및 에너지 관련주에 대한 투자 주의가 필요합니다."
       ],
-      "summary_text": "엔비디아 주가 급락과 미국 금리 인상에 대한 경계심이 커지며 코스피가 월요일 약세로 출발한 뒤 반등을 시도할 것으로 전망됩니다. 글로벌 기술주 하락과 연준의 긴축 기조는 국내 증시의 투자 심리를 위축시키는 주요 요인으로 작용합니다. 기술주 중심의 조정 장세가 예상되지만, 저가 매수 기회를 모색하는 움직임도 나타날 수 있으므로 개별 종목의 펀더멘털을 확인하는 것이 중요합니다.",
-      "description": "엔비디아 주가의 급락과 미국 금리 인상에 대한 경계감이 커지면서 코스피가 월요일 약세로 출발한 뒤 반등을 모색할 것으로 예상됩니다.",
+      "summary_text": "8월 31일 미국 증시에서 매파적 발언으로 반도체 주식이 큰 폭으로 하락했습니다. 동시에 미국과 이란 간의 주말 교차 공격 소식이 국제유가를 상승시키는 요인으로 작용했습니다. 금리 인상 우려와 지정학적 리스크가 복합적으로 작용하여 미국 증시에 부정적인 영향을 미쳤으며, 국내 반도체 및 에너지 관련주에 대한 투자 주의가 필요합니다.",
+      "description": "8월 31일 미국 증시는 매파적 발언으로 인해 반도체 주식이 폭락했고, 미국-이란 간 주말 교차 공격이 유가를 상승시켰다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "반도체, IT, 성장주",
+      "related_sector": "반도체, 에너지, 국제정세",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "엔비디아 급락과 미국 금리 인상 경계심으로 코스피가 변동성을 보일 가능성이 높아 단기 투자에 주의가 필요합니다.",
-      "key_signal": "코스피가 약세 출발 후 기술주 낙폭 과대 인식에 따른 반등이 나타나는지, 그리고 외국인/기관 수급 동향을 주시해야 합니다.",
+      "investment_reason": "미국 매파적 발언으로 인한 반도체 주식 하락과 지정학적 유가 상승이 국내 증시에 미칠 부정적 영향을 대비해야 하기 때문입니다.",
+      "key_signal": "미국 중앙은행의 매파적 스탠스 변화 여부와 중동 정세 불안이 국내 반도체 및 에너지 관련 산업에 미치는 영향을 주시해야 합니다.",
       "keywords": [
-        "코스피",
-        "엔비디아",
-        "금리인상",
-        "기술주",
-        "증시 변동성"
+        "미국 증시",
+        "매파적 발언",
+        "반도체 주식",
+        "유가 상승",
+        "미국-이란"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RSU13YnlWV3R6MlZPT3pEMjY0TTZyZmpPRmJRYkJ4Mk5QZVB6TTFoNWhjNEJNOEVocm93UFA4WDExbmNKaGc4NFY3aTR3NjZYRlBUczRTQXpMWUNQSmVIMVhhVGtQN2FRRlBZT3RB?oc=5",
-      "published": "2026-08-31 08:06",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KbzF5OWJONFFZc2ZKT1YzaHFUMXFCTk51aGJlUVB4aWkwaHNGSGdtQUxWMl9xRjc5M05FWU9EYkJJZm80RWhVRzQ1QXVaRFdyMGNHcy1ISGlUcm15?oc=5",
+      "published": "2026-08-31 12:22",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -194,37 +194,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "워시의 잭슨홀 발언 이후 금리 인상 가능성 고조되며 미국 증시 선물 하락",
-      "display_title": "워시의 잭슨홀 발언 이후 금리 인상 가능성 고조되며 미국 증시 선물 하락",
-      "original_title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments - MarketWatch",
+      "title": "이란 긴장 고조로 주식 시장 하락; 다우, S&P 500, 나스닥 모두 하락 | 비즈니스 뉴스",
+      "display_title": "이란 긴장 고조로 주식 시장 하락; 다우, S&P 500, 나스닥 모두 하락 | 비즈니스 뉴스",
+      "original_title": "Stock market falls as Iran tensions return; Dow, S&P 500, Nasdaq drop | Business News - Hindustan Times",
       "summary": [
-        "잭슨홀에서 워시 전 연준 이사의 매파적 발언 이후 미국 기준금리 인상 가능성이 커지면서 미국 증시 선물이 하락했습니다.",
-        "연준의 긴축적 통화정책 기조가 강화될 수 있다는 우려가 시장에 반영되어 투자 심리가 위축되고 있습니다.",
-        "미국 금리 인상 가능성은 글로벌 유동성 축소를 의미하며, 국내 증시에도 부정적인 영향을 미칠 수 있으므로 대비해야 합니다."
+        "이란과의 긴장이 고조되면서 미국 주요 증시(다우, S&P 500, 나스닥)가 일제히 하락했습니다.",
+        "지정학적 리스크가 국제유가 상승을 유발하며 글로벌 증시에 부정적인 영향을 미치는 주요 요인으로 작용하고 있습니다.",
+        "중동 정세 불안이 국내 증시 및 에너지 관련 산업에 미칠 영향을 면밀히 주시하고 리스크 관리에 집중해야 합니다."
       ],
-      "summary_text": "잭슨홀에서 워시 전 연준 이사의 매파적 발언 이후 미국 기준금리 인상 가능성이 커지면서 미국 증시 선물이 하락했습니다. 연준의 긴축적 통화정책 기조가 강화될 수 있다는 우려가 시장에 반영되어 투자 심리가 위축되고 있습니다. 미국 금리 인상 가능성은 글로벌 유동성 축소를 의미하며, 국내 증시에도 부정적인 영향을 미칠 수 있으므로 대비해야 합니다.",
-      "description": "워시 전 연준 이사의 잭슨홀 발언으로 금리 인상 가능성이 높아지면서 미국 증시 선물이 하락세를 보였습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
+      "summary_text": "이란과의 긴장이 고조되면서 미국 주요 증시(다우, S&P 500, 나스닥)가 일제히 하락했습니다. 지정학적 리스크가 국제유가 상승을 유발하며 글로벌 증시에 부정적인 영향을 미치는 주요 요인으로 작용하고 있습니다. 중동 정세 불안이 국내 증시 및 에너지 관련 산업에 미칠 영향을 면밀히 주시하고 리스크 관리에 집중해야 합니다.",
+      "description": "이란과의 긴장이 다시 고조되면서 주식 시장이 하락했으며, 다우존스, S&P 500, 나스닥 지수 모두 하락세를 기록했다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "성장주, 기술주",
+      "related_sector": "에너지, 정유, 운송, 전 섹터",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK이노베이션",
+        "S-Oil"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 금리 인상 가능성이 높아지면서 글로벌 유동성 위축과 증시 하락 압력이 커질 수 있어 투자 포지션에 주의가 필요합니다.",
-      "key_signal": "잭슨홀 발언의 여파로 미국 금리 인상 전망이 강화되는지, 그리고 이것이 글로벌 증시에 어떻게 반영되는지 지속적으로 관찰해야 합니다.",
+      "investment_reason": "이란 긴장 고조로 인한 유가 상승 및 글로벌 증시 하락 압력이 국내 시장 전반에 부정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "중동 정세의 변화와 국제유가 동향을 지속적으로 모니터링하여 투자 포트폴리오에 반영해야 합니다.",
       "keywords": [
-        "금리인상",
-        "잭슨홀",
+        "이란 긴장",
+        "지정학적 리스크",
+        "유가 상승",
         "미국 증시",
-        "통화정책",
-        "매파"
+        "글로벌 경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkh6UG9mZjFLQmMzN0h3czJEa1RUZlVUS3hpbkhsbzR6RHpIZzV1dU50MldMOWhPR3R1YnpTeUxjRmw0MUlfaUplc21UWE9mU1VqdUl4OVhRaWdRbHhiTVJ2MExSR3M1XzRJYzBNYURXWXZiVnZQRUZ2MXVhY21rcG90cS1jczcyN0N2OTF6ZVlSYmhjem45UGkwT1RQZjc0LS10YkY0TWlQcThsZWxRV19ZbDZFaktlUXRwREQwUzJ2UGZPVlhWbQ?oc=5",
-      "published": "2026-08-31 08:30",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVdZSkN6YUJEdzhpMk1IeG11WlZDR2M1YVcyei1YZGxXby1FbDF6TUJiNlF1LUZZUlhOS2ZZamhvbE1sYko2TnpxLWlGckt5czVVdVhKNkN6UTVhVnlFOTAtc1hzTF94TGYteVN0VVNPa3dHb0pHdzRfaGliamxndXNicDltLXVSVjJYLVBHNlRSd29Qb3lWeVNYTXZkZVBoLXlCQXB0V1N2VHdMaUdBOXE4VktIdmczTUVXQnlMZk1xV0xUYmfSAcsBQVVfeXFMUHVzX1FCWVBrUWdhS3YzdmdCNHMwU3diMVpKSXItQy1EQUUyUkNpdjN2UjBCZ29CNk9NQUZiQVdub2VBWXZMZHlvTTFxT0ZGazF4SlRCVzJqY1NNOUZtSDZmOVkxOXktUjBLS1lQM09tVTJjVkdIVXhOWjFMNXRNaGNnX2RiSGZEaUR4WXR3dk1yTHA5OVpoRS16ZU5UbjE2anU0Y2FXYXRHS3Ewck5VdW41ZmJvQnBBb2M1MW9VYkYxUGNmb1oyc3owYXc?oc=5",
+      "published": "2026-09-01 00:30",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -236,37 +235,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 이란 공습에 다우존스 선물 하락, 유가 급등",
-      "display_title": "미국 이란 공습에 다우존스 선물 하락, 유가 급등",
-      "original_title": "Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran - Investor's Business Daily",
+      "title": "다우지수 370포인트 하락, 미 증시 약세 마감; CSPs 주도 하락세 속 클라우드 메모리 주식 급등; 샌디스크·테슬라 5% 이상 상승",
+      "display_title": "다우지수 370포인트 하락, 미 증시 약세 마감; CSPs 주도 하락세 속 클라우드 메모리 주식 급등; 샌디스크·테슬라 5% 이상 상승",
+      "original_title": "US Stocks Fall as Dow Drops 370 Points; CSPs Lead Losses as Cloud Memory Stocks Surge Late; SanDisk and Tesla Rise Over 5% - TradingKey",
       "summary": [
-        "미국의 이란 공습 소식에 다우존스 선물 지수가 하락하고 국제 유가가 급등하며 금융 시장의 불확실성이 커지고 있습니다.",
-        "지정학적 긴장은 투자 심리를 위축시키고, 유가 상승은 인플레이션 압력을 가중시켜 글로벌 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
-        "유가 상승은 생산 비용 증가로 기업 이익에 부담을 주며, 국내 물가 상승 압력으로 작용할 수 있으므로 관련 에너지 및 원자재 시장 동향을 주시해야 합니다."
+        "미국 증시가 다우지수 370포인트 하락과 함께 전반적으로 약세로 마감했습니다.",
+        "클라우드 서비스 제공업체(CSPs) 관련주가 하락을 이끌었지만, 클라우드 메모리 관련주는 장 후반 급등하며 업종별 차별화된 흐름을 보였습니다.",
+        "기술주 내에서도 특정 종목(샌디스크, 테슬라)의 강세가 나타난 만큼, 시장 전반의 하락 속에서도 개별 기업의 모멘텀에 주목해야 합니다."
       ],
-      "summary_text": "미국의 이란 공습 소식에 다우존스 선물 지수가 하락하고 국제 유가가 급등하며 금융 시장의 불확실성이 커지고 있습니다. 지정학적 긴장은 투자 심리를 위축시키고, 유가 상승은 인플레이션 압력을 가중시켜 글로벌 경제 전반에 부정적인 영향을 미칠 수 있습니다. 유가 상승은 생산 비용 증가로 기업 이익에 부담을 주며, 국내 물가 상승 압력으로 작용할 수 있으므로 관련 에너지 및 원자재 시장 동향을 주시해야 합니다.",
-      "description": "미국이 이란을 공습하면서 다우존스 선물 지수가 하락하고 국제 유가가 급등하는 모습을 보였습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "미국 증시가 다우지수 370포인트 하락과 함께 전반적으로 약세로 마감했습니다. 클라우드 서비스 제공업체(CSPs) 관련주가 하락을 이끌었지만, 클라우드 메모리 관련주는 장 후반 급등하며 업종별 차별화된 흐름을 보였습니다. 기술주 내에서도 특정 종목(샌디스크, 테슬라)의 강세가 나타난 만큼, 시장 전반의 하락 속에서도 개별 기업의 모멘텀에 주목해야 합니다.",
+      "description": "다우지수가 370포인트 하락하며 미국 증시가 약세를 보였다. CSP(클라우드 서비스 제공업체) 관련 주식들이 하락세를 주도했으나, 장 후반 클라우드 메모리 관련 주식들은 급등했다. 샌디스크와 테슬라는 5% 이상 상승했다.",
+      "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "정유, 화학, 항공, 운송",
+      "related_sector": "클라우드, 반도체, IT",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "대한항공"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중동 지정학적 리스크가 유가 변동성을 키우고 인플레이션 압력을 높여 글로벌 경기 둔화 우려를 심화시킬 수 있기 때문입니다.",
-      "key_signal": "이란 사태의 확전 가능성과 국제 유가 동향을 면밀히 주시하며 에너지 관련 기업 및 물가 민감 섹터에 대한 투자 전략을 점검해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 증시의 전반적인 하락 속에서도 클라우드 메모리 분야의 강세는 국내 반도체 관련주에 미칠 영향을 분석해야 하기 때문입니다.",
+      "key_signal": "미국 증시 하락의 원인과 클라우드 메모리 섹터의 강세가 국내 시장에 미칠 영향을 면밀히 체크해야 합니다.",
       "keywords": [
-        "이란",
-        "유가",
-        "지정학적 위험",
-        "인플레이션",
-        "다우존스"
+        "미국 증시",
+        "다우지수",
+        "클라우드",
+        "메모리 반도체",
+        "테슬라"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSW5MQXJjSmlxRnRnb3hOcEJFcDRrbVFYT091VjhrdjNWU2dWNnRrZ3JTNlMzRjM3RUotaGNBZG1rT3JWTF9VT1hVUWVMa0NnbERXLV9XeDVlTFE0dEZYanFzSE1haldYM3VXMy1wbHktelJEaWJTb2R3dG5rT0FiT3dUZ0RlaFdmUFNHSnVGLUx0UUQtLUdiU2N2c25LVE0zN2t0cHBnUWdwOTA5OHhXMVJTMk4?oc=5",
-      "published": "2026-08-31 07:38",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVN1VVJKTnlBb0k0MVhxa0JwTXpHc1duSk5VQ2xmQ1oya0JZYThYdU5ZaWI0Smg4SXd4VHh5WE5Pa0Z1b3lIckMtVXprZFpJM3Y0UDlVUVJYeERKcXItOUkwT2lFRXJFQ0FGQzRmc25IVW5UZExiMWh1dG1TZC1SM18yTEJocVY5V3N4ak9lNVFZYVF0SkM3WHB0UzhHYndDUEtkcnBZVll6ckJPMXIwei0yMVYxMGZONm1Td1JRdlFpSFpMdTFsd0xnbG5MQzRSU2dj?oc=5",
+      "published": "2026-09-01 05:17",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -277,64 +275,71 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "KB금융",
-      "market": "KOSPI",
-      "sector": "금융",
-      "opinion": "관심",
-      "reason": "미국 초장기 국채금리 급등으로 인한 거시경제 불확실성이 존재하나, 금리 인상기 수혜 업종인 은행주가 조정 국면을 마치고 실적 및 배당 매력이 부각될 수 있다는 긍정적 전망이 제기되고 있어 지속적인 관찰이 필요합니다.",
-      "check_points": [
-        "글로벌 금리 인상 속도 및 국내 금융시장 영향",
-        "은행주의 9월 조정 양상 해소 여부"
-      ],
-      "related_news_titles": [
-        "미국 30년물 국채금리 6% 돌파: 글로벌 경제 대재앙의 서막과 한국 금융시장의 거시경제적 뇌관",
-        "하나증권 \"금리 모멘텀 받는 은행주, 9월에는 조정 양상 벗어날 것\""
-      ]
-    },
-    {
-      "rank": 2,
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "국내 증시의 향방을 결정할 주요 지표(미국 고용, 한국 수출)와 브로드컴 실적에 대한 전망이 제시되어 시장 흐름에 중요한 정보를 제공할 예정이며, 엔비디아 급락에 따른 단기 변동성 이후 반등을 모색할 가능성도 있습니다.",
+      "reason": "LG전자와의 파운드리 협력 가능성과 미국 증시 내 클라우드 메모리 관련주의 강세는 긍정적이나, 미국 매파적 발언에 따른 반도체 주식 전반의 하락 압력도 동시에 고려해야 합니다.",
       "check_points": [
-        "미국 고용 지표 및 한국 수출 데이터 발표",
-        "브로드컴 등 글로벌 반도체 기업 실적 발표 결과"
+        "파운드리 수주 및 협력 구체화 동향",
+        "클라우드 메모리 시장 성장세 및 실적 기여도",
+        "미국 증시의 반도체 섹터 흐름 및 통화정책"
       ],
       "related_news_titles": [
-        "[굿모닝 마켓] 이번 주 코스피 7,000선 돌파 가능할까? 미국 고용, 한국 수출, 브로드컴 실적 주목",
-        "엔비디아 급락 및 미국 금리 인상 경계 속 코스피, 월요일 약세 출발 후 반등 모색"
+        "'TSMC 단골' LG전자, 코아시아세미와 협력하여 삼성 파운드리에서 칩 생산",
+        "미국 증시 동향 (8월 31일): 매파적 발언으로 반도체 주식 폭락; 미국-이란 주말 교차 공격으로 유가 상승 압박…",
+        "다우지수 370포인트 하락, 미 증시 약세 마감; CSPs 주도 하락세 속 클라우드 메모리 주식 급등; 샌디스크·테슬라 5% 이상 상승"
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "SK이노베이션",
       "market": "KOSPI",
       "sector": "정유",
       "opinion": "주의",
-      "reason": "미국 이란 공습 소식으로 중동 지정학적 리스크가 고조되며 유가 급등 가능성이 제기되고 있습니다. 이는 정유 업종에 단기적인 변동성을 가져올 수 있으나, 전반적인 인플레이션 압력과 경기 둔화 우려를 심화시킬 수 있어 주의가 필요합니다.",
+      "reason": "국제유가 상승 압력과 이란 긴장 고조 등 지정학적 리스크가 유가 상승을 부추겨 정유 관련 기업의 원가 부담을 가중시키고 국내 증시 전반에 부정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "국제 유가 변동성 추이",
-        "중동 정세 변화"
+        "국제유가(WTI, 브렌트유) 변동성",
+        "중동 정세 변화 및 지정학적 리스크",
+        "정제마진 추이 및 실적 영향"
       ],
       "related_news_titles": [
-        "미국 이란 공습에 다우존스 선물 하락, 유가 급등"
+        "오늘 증시: S&P 500과 다우존스 하락, 유가·금리·9월 리스크가 월스트리트를 압박",
+        "국제유가 상승 속 코스피 하락 출발 6700선…코스닥 약보합",
+        "미국 증시 동향 (8월 31일): 매파적 발언으로 반도체 주식 폭락; 미국-이란 주말 교차 공격으로 유가 상승 압박…"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "LG전자",
+      "market": "KOSPI",
+      "sector": "전자제품",
+      "opinion": "관심",
+      "reason": "LG전자가 코아시아세미와 협력하여 삼성 파운드리에서 칩을 생산하기로 한 전략 변화는 향후 동사의 사업 포트폴리오 다변화 및 실적, 주가에 긍정적인 영향을 미칠 수 있습니다.",
+      "check_points": [
+        "삼성 파운드리와의 협력 구체화 정도 및 진행 상황",
+        "칩 생산 계획 및 양산 일정",
+        "관련 사업 부문의 실적 기여도 변화"
+      ],
+      "related_news_titles": [
+        "'TSMC 단골' LG전자, 코아시아세미와 협력하여 삼성 파운드리에서 칩 생산"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "주의",
-      "reason": "워시의 잭슨홀 발언 이후 미국 금리 인상 가능성이 고조되면서 글로벌 유동성 위축과 증시 하락 압력이 커질 수 있습니다. 이는 증권사의 실적에 부정적인 영향을 미칠 수 있으므로 투자 포지션에 신중한 접근이 요구됩니다.",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "미국 증시의 전반적인 하락세 속에서도 클라우드 메모리 주식의 강세는 긍정적 요인으로 작용할 수 있으나, 매파적 발언으로 인한 반도체 주식 전반의 폭락 가능성에 주의해야 합니다.",
       "check_points": [
-        "미국 연준의 금리 인상 정책 방향",
-        "국내외 증시 변동성 확대 여부"
+        "글로벌 클라우드 메모리 수요 변화 및 가격 동향",
+        "미국 연준의 통화정책 및 금리 인상 가능성",
+        "글로벌 반도체 업황 지표 및 경쟁 환경"
       ],
       "related_news_titles": [
-        "워시의 잭슨홀 발언 이후 금리 인상 가능성 고조되며 미국 증시 선물 하락"
+        "미국 증시 동향 (8월 31일): 매파적 발언으로 반도체 주식 폭락; 미국-이란 주말 교차 공격으로 유가 상승 압박…",
+        "다우지수 370포인트 하락, 미 증시 약세 마감; CSPs 주도 하락세 속 클라우드 메모리 주식 급등; 샌디스크·테슬라 5% 이상 상승"
       ]
     }
   ],
