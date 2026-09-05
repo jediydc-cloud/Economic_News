@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04 08:48",
-  "analysis_date": "2026-09-04",
+  "generated_at": "2026-09-06 08:35",
+  "analysis_date": "2026-09-06",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 연준의 금리 인상 우려 완화 발언으로 글로벌 증시가 급등하며 위험자산 선호 심리가 강화되었습니다. 국내 증시도 긍정적 영향이 예상되나, 추가 금리 인상 가능성과 고유가 압력은 지속적으로 주시해야 합니다.",
-    "국내거시경제": "우리금융연구소는 9월 연준의 0.25%p 금리 인상과 코스피 7500선 도달을 전망했습니다. 국내 증시의 주요 변수인 외국인 투자자 동향에 대한 루머보다 데이터 기반 분석과 선제적 대응이 중요합니다.",
-    "글로벌경제": "월러 연준 이사 발언 및 고위 관계자의 금리 동결 시사로 9월 금리 인상 확률이 감소하며 뉴욕 증시가 급등했습니다. 다만, 국제 유가는 92달러를 기록해 인플레이션 압력에 대한 경계심은 유지됩니다.",
-    "증시금리": "연준 관계자들의 비둘기파적 발언으로 금리 인상 우려가 완화되며 미국 주요 지수가 큰 폭으로 상승, 특히 금리에 민감한 기술주가 반등했습니다. 국내 증시 또한 긍정적 흐름이 예상되나, 단기 변동성과 추가 금리 인상 가능성은 경계해야 합니다.",
+    "총평": "중동 지정학적 리스크 고조로 글로벌 증시 변동성이 확대되는 가운데, AI 산업 강세가 일부 하방 압력을 상쇄하며 상반된 흐름을 보였습니다. 국내는 미래 모빌리티가 차세대 성장 동력으로 부상하고 있습니다.",
+    "국내거시경제": "한국의 미래 모빌리티 산업이 '움직이는 AI 플랫폼'으로 진화하며 차세대 수출 및 성장 동력으로 강력히 주목받고 있습니다. 정부와 기업의 적극적인 투자가 기대됩니다.",
+    "글로벌경제": "중동 지역의 지정학적 긴장이 고조되며 국제 유가 및 국채 수익률 상승 압박이 지속되고 있습니다. 미국과 일본 간 5,500억 달러 규모의 투자가 확인되었고, 15% 관세 정책도 재확인되며 국제 통상 환경 변화에 주의가 필요합니다.",
+    "증시금리": "미국 증시는 이란과의 지정학적 마찰 및 추가 금리 인상 우려로 혼조세를 보였으나, AI 관련주 강세에 힘입어 일부 지수는 상승 마감하며 지정학적 리스크를 상쇄했습니다. 유가 급등과 국채 수익률 상승은 여전히 부담 요인입니다.",
     "부동산정책": "해당 없음",
-    "기업산업": "금리 인상 사이클 완화 기대감은 기술주 등 성장주에 대한 매수세 유입으로 이어질 수 있습니다. 국내 기업들의 견고한 실적은 코스피 상승 여력을 지지할 것이며, 고유가는 에너지 관련 주식에 긍정적이나 전반적인 인플레이션 압력은 주시해야 합니다.",
-    "오늘의투자시사점": "연준의 정책 기조 변화 가능성을 주시하며 금리에 민감한 성장주와 기술주에 관심을 가질 필요가 있습니다. 외국인 수급 동향을 면밀히 분석하고, 고유가로 인한 인플레이션 압력과 산업 영향을 지속적으로 모니터링해야 합니다.",
-    "오늘의한줄": "연준의 비둘기파적 발언으로 글로벌 증시가 강세로 전환된 가운데, 국내 증시는 금리 인상 완화 기대감과 외국인 수급 동향에 주목하며 전략적 접근이 필요한 시점입니다."
+    "기업산업": "글로벌적으로는 AI 관련 기술 및 산업의 강세가 시장의 주요 동력으로 작용하고 있습니다. 국내에서는 미래 모빌리티가 AI, 자율주행 등 첨단 기술이 융합된 고부가가치 산업으로 주목받으며 차세대 성장 엔진으로 부상하고 있습니다.",
+    "오늘의투자시사점": "지정학적 리스크로 인한 시장 변동성 확대와 인플레이션 및 금리 인상 가능성에 대비한 방어적 포트폴리오 전략이 유효합니다. 동시에 AI와 미래 모빌리티 등 성장 잠재력이 큰 혁신 기술 테마에 대한 장기적 관점의 접근도 필요합니다.",
+    "오늘의한줄": "중동발 지정학적 리스크와 금리 인상 우려 속에서도 AI 기술주의 강세가 시장을 지지하며 미래 성장 동력에 주목해야 할 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미 증시 다우 600pt 급등, S&P·나스닥 1% 이상 상승…월러 연준 이사 발언에 금리 인상 우려 완화",
-      "display_title": "미 증시 다우 600pt 급등, S&P·나스닥 1% 이상 상승…월러 연준 이사 발언에 금리 인상 우려 완화",
-      "original_title": "US stocks today: Dow soars 600 pts, S&P, Nasdaq over 1% as Fed governor Waller's remarks ease rate hike fe - The Economic Times",
+      "title": "이란 긴장 고조, 유가 및 국채 수익률 상승에 나스닥 선물 하락, 월스트리트 불안감 증폭",
+      "display_title": "이란 긴장 고조, 유가 및 국채 수익률 상승에 나스닥 선물 하락, 월스트리트 불안감 증폭",
+      "original_title": "Nasdaq Futures Slip As Rising Iran Tensions, Oil, Treasury Yields Keep Wall Street On Edge: NVDA, DELL, CRDO, NIO, RKLB, MSTR In Focus - Stocktwits",
       "summary": [
-        "다우존스 산업평균지수가 600포인트 급등하고 S&P 500과 나스닥 종합지수도 1% 이상 오르며 미국 증시가 큰 폭으로 상승했습니다.",
-        "크리스토퍼 월러 연준 이사가 금리 인상 속도 조절 가능성을 시사하는 발언을 하면서 시장의 금리 인상 부담이 완화된 것이 주요 원인입니다.",
-        "연준의 매파적 스탠스 완화 가능성은 위험 자산 선호 심리를 자극하여 국내 증시에도 긍정적인 영향을 미칠 수 있습니다."
+        "나스닥 선물 지수가 하락했으며, 이란과의 지정학적 긴장 고조, 국제유가 상승, 미국 국채 수익률 상승이 복합적으로 작용했다.",
+        "중동 지역 불안정은 유가 상승 압력을 가하고, 이는 인플레이션 우려를 심화시켜 금리 인상 가능성을 높이는 악순환을 유발하고 있다.",
+        "지정학적 리스크와 유가, 금리 등 매크로 변수가 증시에 미치는 영향을 지속적으로 모니터링하며 방어적인 포트폴리오 전략을 고려해야 한다."
       ],
-      "summary_text": "다우존스 산업평균지수가 600포인트 급등하고 S&P 500과 나스닥 종합지수도 1% 이상 오르며 미국 증시가 큰 폭으로 상승했습니다. 크리스토퍼 월러 연준 이사가 금리 인상 속도 조절 가능성을 시사하는 발언을 하면서 시장의 금리 인상 부담이 완화된 것이 주요 원인입니다. 연준의 매파적 스탠스 완화 가능성은 위험 자산 선호 심리를 자극하여 국내 증시에도 긍정적인 영향을 미칠 수 있습니다.",
-      "description": "월러 연준 이사의 발언으로 금리 인상 우려가 완화되면서 다우지수가 600포인트 급등하고 S&P 500과 나스닥 지수도 1% 넘게 상승했습니다.",
+      "summary_text": "나스닥 선물 지수가 하락했으며, 이란과의 지정학적 긴장 고조, 국제유가 상승, 미국 국채 수익률 상승이 복합적으로 작용했다. 중동 지역 불안정은 유가 상승 압력을 가하고, 이는 인플레이션 우려를 심화시켜 금리 인상 가능성을 높이는 악순환을 유발하고 있다. 지정학적 리스크와 유가, 금리 등 매크로 변수가 증시에 미치는 영향을 지속적으로 모니터링하며 방어적인 포트폴리오 전략을 고려해야 한다.",
+      "description": "이란 긴장 고조, 유가 및 국채 수익률 상승으로 인해 나스닥 선물이 하락하며 월스트리트의 불안감이 커졌다. NVDA, DELL, CRDO, NIO, RKLB, MSTR 등이 주목받았다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "IT",
+      "market_impact": "부정",
+      "related_sector": "에너지, 반도체, IT",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "관심",
-      "investment_reason": "연준의 금리 인상 속도 조절 기대감은 글로벌 유동성 환경 개선 및 증시 전반에 긍정적 기류를 형성하기 때문입니다.",
-      "key_signal": "월러 이사의 발언에 대한 시장의 추가 해석과 다른 연준 위원들의 발언을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "지정학적 리스크와 유가, 금리 상승은 글로벌 경제 불확실성을 높여 국내 증시에도 부정적인 영향을 미칠 수 있으므로 주의가 필요합니다.",
+      "key_signal": "중동 정세 변화와 국제 유가 추이, 그리고 미국 장기 국채 금리 움직임을 면밀히 주시해야 합니다.",
       "keywords": [
-        "연준",
-        "월러",
-        "금리인상",
-        "미국증시",
+        "이란",
+        "지정학",
+        "유가",
+        "국채금리",
         "나스닥"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmI4NGJ3RFZlOVdNTFoyQTRpYXFLQjdpOTV3ZklwTm40X29hMGxIV0hhMEItaXVLQjl0VlR5WHp4RUJFOEd3Tnc1YTNxUjl4cE9yV2ZkbE5PaGl3elNwNk4tLXhWRVhoX3pUcFFqZUlLVTZ2QkpzM1huNm45Ui13VVlZY1NpdjMzRkFaRmR2WEdLa2JpcG1JTjh6R1hVY1BUbWVzSWxLNF85RVdtbHIybWpTVTg5cWxkYTQwY2ZveFBGNnRwNWkweHBhbmdCaU85dUdBanE2LUs0MlJHcFdMTWtXT243RkwtbFFGbFZETVF6d9IB9wFBVV95cUxOSkxpWHBZNk5BOXVnd2YzUFZSYjhZRWp0cDliSGNrM2pzaXp2cElKVGNTVTF0VFpaUnU3TlJJODdfeWVjaDFTUy1aZ2dKOGMwQlFfSDFJS1AtSGNHcUNLNHdLQ2ZRdVQySGE0TWRLaHJjRHNOVWMyNGk1YTdfdmpRVUMwU2hjSDJ0Yl9VNExLYTFoQzdmRlFCb21NRGJkYWJpWHJJcXc2dXhaQTQxMllaWXp0eHd6Z2g3UVQ5aE95ZzJueGV1SWRPRmVsZEF4MWF3bzIwWVhtSmozY2lNQ3hidU1SY3d1Z1VpWlJCZ2FBVUZFaUpwTHhR?oc=5",
-      "published": "2026-09-04 05:13",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWmZMekoyQUVpZFF4ZkFseWlnMFFEcTVuVTFMMXlmS1RfVW1BSm5Ca2JNMG0zWUQ5cG94NWoxZG01TFQ1YWY3VUZHVDlQM0NadFZDWFk1c0RIQW9XUVhad1JGZzJlWlk3aUZiVVNDb0dvaEVJZ1ZUNFkxV1JCTGtvcUcyNmtyTzNHY3ZZa3dXWFJTYUItaFRITUlBQ1licXZwaDJ6UGdiT0JzcS1JQlg5UDRyanBEY3NBR0pKLThaamZoLWhQM2ZmR1d3NHh2RzhORTFOdktibGE4bGQxR3dBeGFEWnptWkZ3V05OdEoxVUJGdVhFYzRoanFjbHVhSU1ZWUx1UUR2dEp3QUxxcE9WRmVDR1ZiYWs?oc=5",
+      "published": "2026-09-06 02:23",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,36 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 9월 금리 인상 확률 감소에 기술주 반등…나스닥 1.4% 상승",
-      "display_title": "미국 9월 금리 인상 확률 감소에 기술주 반등…나스닥 1.4% 상승",
-      "original_title": "As U.S. September Rate Hike Probability Decreases, Tech Stocks Rebound…Nasdaq Up 1.4% - 재경일보",
+      "title": "미국, 호르무즈 해협 이란 시설 공격 후 미 선물 하락 및 유가 급등",
+      "display_title": "미국, 호르무즈 해협 이란 시설 공격 후 미 선물 하락 및 유가 급등",
+      "original_title": "US futures fall and oil prices surge after US hits Iranian sites in the Strait of Hormuz - ABC News - Breaking News, Latest News and Videos",
       "summary": [
-        "미국 9월 금리 인상 가능성이 낮아지자 기술주가 크게 반등하며 나스닥 지수가 1.4% 상승했습니다.",
-        "연준 고위 관계자의 발언 등으로 인해 시장이 예상하는 9월 금리 인상 확률이 감소하면서, 금리에 민감한 기술주에 매수세가 유입되었습니다.",
-        "금리 인상 사이클의 완화는 기술주를 포함한 성장주에 긍정적인 환경을 제공하므로 관련 종목에 대한 관심이 필요합니다."
+        "미국이 호르무즈 해협의 이란 시설을 공격하면서 미국 선물 지수가 하락하고 국제 유가가 급등했다.",
+        "이는 중동 지역의 지정학적 긴장 고조를 직접적으로 보여주는 사건으로, 유가 불안정과 글로벌 경제 불확실성을 심화시키는 요인이다.",
+        "지정학적 리스크는 단기적으로 시장 변동성을 확대시키고, 유가 상승은 인플레이션 압력을 가중시키므로 투자자들은 위험 회피 성향을 강화해야 한다."
       ],
-      "summary_text": "미국 9월 금리 인상 가능성이 낮아지자 기술주가 크게 반등하며 나스닥 지수가 1.4% 상승했습니다. 연준 고위 관계자의 발언 등으로 인해 시장이 예상하는 9월 금리 인상 확률이 감소하면서, 금리에 민감한 기술주에 매수세가 유입되었습니다. 금리 인상 사이클의 완화는 기술주를 포함한 성장주에 긍정적인 환경을 제공하므로 관련 종목에 대한 관심이 필요합니다.",
-      "description": "미국 9월 금리 인상 가능성이 줄어들면서 기술주가 반등세를 보였고, 나스닥 지수는 1.4% 상승 마감했습니다.",
+      "summary_text": "미국이 호르무즈 해협의 이란 시설을 공격하면서 미국 선물 지수가 하락하고 국제 유가가 급등했다. 이는 중동 지역의 지정학적 긴장 고조를 직접적으로 보여주는 사건으로, 유가 불안정과 글로벌 경제 불확실성을 심화시키는 요인이다. 지정학적 리스크는 단기적으로 시장 변동성을 확대시키고, 유가 상승은 인플레이션 압력을 가중시키므로 투자자들은 위험 회피 성향을 강화해야 한다.",
+      "description": "미국이 호르무즈 해협의 이란 시설을 공격한 후 미국 선물 지수가 하락하고 유가가 급등했다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "IT",
+      "market_impact": "부정",
+      "related_sector": "에너지, 방위산업, 해운",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "관심",
-      "investment_reason": "금리 인상 압력 완화는 기술주 및 성장주에 대한 투자 심리를 개선시켜 국내 주요 기술 기업에 긍정적으로 작용할 수 있기 때문입니다.",
-      "key_signal": "9월 FOMC 회의 전까지 금리 인상 확률 변화와 기술주 움직임을 예의주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "중동 지역의 지정학적 긴장 고조와 유가 급등은 글로벌 경제 성장 둔화와 인플레이션 압력을 야기하여 국내 증시에도 부정적인 영향을 미칠 수 있습니다.",
+      "key_signal": "미국과 이란 간의 추가적인 군사적 움직임과 호르무즈 해협의 통항 상황, 그리고 국제 유가 변동성을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "금리인상확률",
-        "기술주",
-        "나스닥",
-        "성장주",
-        "IT섹터"
+        "이란",
+        "호르무즈",
+        "유가급등",
+        "지정학적위험",
+        "미증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zV1h3ZFRPSEdpdG8zX1FVbzMtYUJnU1prWmloT0lSRVFvTFRGbGdjTDlUUGxBZnp4T2xwYnA2eldDVGg5YkVqVVN3?oc=5",
-      "published": "2026-09-04 05:50",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTEdOSzY0UHNrcXR3aGlYUEp5M2YzS2FKNG9jeFpwaG5OTTkwQ1RicXJqRExURVYzSW50MlJtUTUwYnhlU2dQMkMtQ2c3ZXBZQ1BxSUhJVDFYSF9iNW9PaG1Db19TVFR5YnR4MkxNb1A2c3BVZzhsaVlYSWtfMXBaX1lTRFFET2ZabV9UR2JWcjVnNkc1UWfSAZsBQVVfeXFMTy1tc05XOGdlSlhhYnVKVkU1REhzN1RZMlEtRmdld3FhS1FSR3AwOXA2TUt3azNGc05RaVpybkpFTDdVdktMZjQ3LUdYN3FuSS16NnBhSFBHYjdfNENvV3hzZjBrWFpOMDE1WXVxd0xyN0xDRzBvd1BYT3RNdEsteUk5andGUVY3X1pSLU1DRkZCc2F0UGpKOC1uSUE?oc=5",
+      "published": "2026-09-05 10:55",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -108,42 +109,42 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "우리금융연구소, \"연준 9월 0.25%p 금리 인상 전망…코스피 7500 도달 예상\"",
-      "display_title": "우리금융연구소, \"연준 9월 0.25%p 금리 인상 전망…코스피 7500 도달 예상\"",
-      "original_title": "우리금융硏 “연준 9월 0.25%p 인상…코스피 7500 전망” - 뉴시안",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "S&P 500, 나스닥, 다우지수 하락, 투자자들 금리 인상 가능성 주시",
+      "display_title": "S&P 500, 나스닥, 다우지수 하락, 투자자들 금리 인상 가능성 주시",
+      "original_title": "S&P 500, Nasdaq And Dow Slip As Investors Assess Rate Hike Possibility — SPCX, UBER, ASTS, BBBY, RXT In Focus - Stocktwits",
       "summary": [
-        "우리금융연구소는 미국 연준이 9월에 기준금리를 0.25%포인트 인상할 것이며, 이에 따라 코스피 지수가 7500선까지 상승할 것으로 전망했습니다.",
-        "연준의 추가 금리 인상 가능성은 여전히 존재하며, 국내 증시는 이러한 금리 정책과 기업 실적 개선이 복합적으로 반영될 것으로 분석됩니다.",
-        "금리 인상 전망은 단기적으로 시장 변동성을 확대할 수 있으나, 견고한 실적을 바탕으로 한 국내 기업들은 코스피의 상승 여력을 지지할 수 있습니다."
+        "미국 주요 지수(S&P 500, 나스닥, 다우)가 하락 마감했다.",
+        "예상보다 강한 경제 지표로 인해 연방준비제도(Fed)의 추가 금리 인상 가능성이 대두되며 투자 심리가 위축되었다.",
+        "금리 인상 리스크가 지속되는 상황에서 변동성 장세에 대비하고, 금리 민감 업종에 대한 투자 전략을 신중하게 점검해야 한다."
       ],
-      "summary_text": "우리금융연구소는 미국 연준이 9월에 기준금리를 0.25%포인트 인상할 것이며, 이에 따라 코스피 지수가 7500선까지 상승할 것으로 전망했습니다. 연준의 추가 금리 인상 가능성은 여전히 존재하며, 국내 증시는 이러한 금리 정책과 기업 실적 개선이 복합적으로 반영될 것으로 분석됩니다. 금리 인상 전망은 단기적으로 시장 변동성을 확대할 수 있으나, 견고한 실적을 바탕으로 한 국내 기업들은 코스피의 상승 여력을 지지할 수 있습니다.",
-      "description": "우리금융연구소는 연준이 9월에 0.25%포인트 금리를 인상할 것으로 전망하며, 코스피 지수가 7500선에 도달할 것으로 예상했습니다.",
+      "summary_text": "미국 주요 지수(S&P 500, 나스닥, 다우)가 하락 마감했다. 예상보다 강한 경제 지표로 인해 연방준비제도(Fed)의 추가 금리 인상 가능성이 대두되며 투자 심리가 위축되었다. 금리 인상 리스크가 지속되는 상황에서 변동성 장세에 대비하고, 금리 민감 업종에 대한 투자 전략을 신중하게 점검해야 한다.",
+      "description": "S&P 500, 나스닥, 다우지수가 투자자들이 금리 인상 가능성을 평가하면서 하락세를 보였다. SPCX, UBER, ASTS, BBBY, RXT 등이 주목받았다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "전 업종",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "IT, 성장주, 금융",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 연준의 9월 금리 인상 여부에 대한 시장의 기대가 엇갈리고 있어, 이는 국내 증시의 향방을 결정할 중요한 변수로 작용하기 때문입니다.",
-      "key_signal": "9월 FOMC 회의 전까지 연준 위원들의 발언과 주요 경제 지표를 면밀히 분석하여 실제 금리 인상 여부를 예측하는 것이 중요합니다.",
+      "investment_reason": "미국 금리 인상 가능성은 글로벌 유동성 위축과 국내 증시 하방 압력으로 작용할 수 있기 때문에 주의 깊게 살펴야 합니다.",
+      "key_signal": "다음 연준 회의 전까지 발표될 경제 지표와 연준 위원들의 발언을 통해 금리 인상 스탠스 변화 여부를 지속적으로 체크해야 합니다.",
       "keywords": [
-        "우리금융연구소",
-        "연준금리인상",
-        "코스피전망",
-        "기준금리",
-        "FOMC"
+        "금리인상",
+        "미국증시",
+        "인플레이션",
+        "성장주",
+        "연준"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54QzlKdkZFUElrSl9jYnJwMllsWEtyQVJnRW5nZFFVSWVOMWlvWXdGRkUwS2o5el9iY0d2S3FXX3h3RE1rS0lxM2dsempDV0NtYllIU05QbjVSTFNWWUJqNk9VUUlZckVXejdV0gFuQVVfeXFMT0xPM0hjcGJFU1U5dVBEZkdidF9zZ19QeWprVzNfWmlxTnY3Mm1nYWRFWDdqeFpZQXlRa0hTNTJhVU0ta0FuT0kxZWV5a1RmcHlfYjdNV0s4Y0JRckFGZlI2OFJST2p1WlI5SU54Q2c?oc=5",
-      "published": "2026-09-04 06:47",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS1I4V1hhMHd2TDlYbzM2d2J3aG5lRnhYMHJycHNPbTduOU1aT3JLczNCVG5YQkM5bWVEYldWUlc3VUxOTkxWTEFFMlVnZHlYUmpmWjJkYjZ2dktIMkctTXptNmRZSW56cVpqZjFFNW9DTTJad1o5YVB4RV9nUHczZ1N3anVzTkduck5zUGhrczVUNDhTQUhhQnloYWdCd2xYMUtRN21YOU5RZVA0c2J4VTkxSHJVZmtOX1ZBZTlDTzlfbTVUeWdqOVFLdWRLUkpUMWc4U1N0OE9JZG9ZTzdNS251LUxJcVEwTFVvM25lV0hEUU1ENk1OYmF1LW5CZFU?oc=5",
+      "published": "2026-09-06 04:27",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -153,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "월러 연준 이사 발언에 금리 인상 우려 완화되며 뉴욕 증시 급등 마감",
-      "display_title": "월러 연준 이사 발언에 금리 인상 우려 완화되며 뉴욕 증시 급등 마감",
-      "original_title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters",
+      "title": "미국 증시: AI 강세가 미-이란 마찰 상쇄하며 S&P 500, 다우지수 상승",
+      "display_title": "미국 증시: AI 강세가 미-이란 마찰 상쇄하며 S&P 500, 다우지수 상승",
+      "original_title": "US stocks today: S&P 500, Dow gain as AI strength offsets US-Iran friction - The Economic Times",
       "summary": [
-        "뉴욕 증시가 월러 연준 이사의 발언 이후 금리 인상에 대한 불안감이 완화되면서 급격한 상승세로 장을 마쳤습니다.",
-        "월러 이사가 추가적인 금리 인상에 대해 신중한 입장을 보이면서, 투자자들 사이에서 연준의 긴축 정책이 정점에 달할 수 있다는 기대감이 커졌습니다.",
-        "연준의 정책 기조 변화 가능성은 주식 시장의 방향성을 결정하는 중요한 요소이므로 지속적인 모니터링이 필요합니다."
+        "미국 S&P 500과 다우지수가 상승했으며, 인공지능(AI) 관련주의 강세가 미국-이란 간 지정학적 마찰로 인한 시장의 우려를 상쇄했다.",
+        "이는 시장이 지정학적 리스크를 잠시 뒤로하고 AI 산업의 성장 잠재력에 다시 주목하고 있음을 시사한다.",
+        "투자자들은 AI 테마의 지속적인 강세 여부를 주시하며, 지정학적 리스크가 재부각될 경우를 대비한 포트폴리오 리밸런싱 전략을 준비해야 한다."
       ],
-      "summary_text": "뉴욕 증시가 월러 연준 이사의 발언 이후 금리 인상에 대한 불안감이 완화되면서 급격한 상승세로 장을 마쳤습니다. 월러 이사가 추가적인 금리 인상에 대해 신중한 입장을 보이면서, 투자자들 사이에서 연준의 긴축 정책이 정점에 달할 수 있다는 기대감이 커졌습니다. 연준의 정책 기조 변화 가능성은 주식 시장의 방향성을 결정하는 중요한 요소이므로 지속적인 모니터링이 필요합니다.",
-      "description": "월러 연준 이사의 발언이 금리 인상에 대한 시장의 우려를 덜어주면서 뉴욕 증시가 큰 폭으로 상승하며 마감했습니다.",
+      "summary_text": "미국 S&P 500과 다우지수가 상승했으며, 인공지능(AI) 관련주의 강세가 미국-이란 간 지정학적 마찰로 인한 시장의 우려를 상쇄했다. 이는 시장이 지정학적 리스크를 잠시 뒤로하고 AI 산업의 성장 잠재력에 다시 주목하고 있음을 시사한다. 투자자들은 AI 테마의 지속적인 강세 여부를 주시하며, 지정학적 리스크가 재부각될 경우를 대비한 포트폴리오 리밸런싱 전략을 준비해야 한다.",
+      "description": "오늘 미국 증시에서 S&P 500과 다우지수가 AI 관련주의 강세에 힘입어 상승했으며, 이는 미국-이란 간 마찰로 인한 우려를 상쇄했다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "IT",
+      "related_sector": "인공지능(AI), 반도체, 소프트웨어",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK하이닉스",
+        "삼성전자",
+        "한미반도체"
       ],
       "investment_view": "관심",
-      "investment_reason": "연준의 통화정책 기조 변화 조짐은 글로벌 유동성 및 자산 가격에 즉각적인 영향을 미치므로 중요하게 봐야 합니다.",
-      "key_signal": "연준의 정책 스탠스에 대한 시장의 반응과 향후 발표될 경제 지표를 면밀히 살펴야 합니다.",
+      "investment_reason": "AI 테마의 강세는 국내 반도체 및 IT 관련 기업들에게 긍정적인 영향을 미칠 수 있으므로 지속적인 관심이 필요합니다.",
+      "key_signal": "글로벌 AI 산업의 투자 동향과 기술 발전 속도를 주시하며, 국내 AI 관련 기업들의 실적 개선 여부를 확인해야 합니다.",
       "keywords": [
-        "뉴욕증시",
-        "월러",
-        "금리인상우려",
-        "연준정책",
-        "시장심리"
+        "AI",
+        "미국증시",
+        "지정학",
+        "반도체",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5",
-      "published": "2026-09-04 07:48",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVJnWW1QZl9LRnlNbG1FNEdYb21KVWZjWWJscHloclR1UzdmMklRS3ROU3Z6UjBtMGVuREtJVmxnM0xRNUd4em9lMlliTXNCV1Niajl2U3R0VE9ZdnJjX012MDd0TW03N0tqOHN2QUJ6VXFoOVlucEN0UTNXV1FzSUw4R1ZJR3dCOXNOdXVfZGl4eEVoX1FXZEJrX0xCWEdfRlRNYThFX2k1Zl9MbWphMTV5dmZCa3VaS2hZYTVYUXlZbkJ4cUtvclNkVV9VTkFqMDZadlVhTUF3cF9MLXlZekdlWGxRb3NvQWNYbNIB8gFBVV95cUxOcEphVnJ5VnJ4N0pMWmdGeGViU3lLWnF2enFBbDFkZzVtOEVqRFI3aEE2SzlTOFJsUzc0dkc4ZjJiZ2FTYkNMQUN3WVN2cExLb21ScnNFWWpSX2VYVmN4SjJkbTA0MTNzcVJWUzFscklSbTAyemozUmk3UEUyQ3QyVXctWFFqc2dDN3VwTDdSN0JHZkhacGpoT2w3R0Jzb01EMWV5VzRIREZnYXhRRU5TZHVaX09LTWFTSTVhbFhXdXBXd2FPcnpPYk9RQXQzVW5Cc3JpUlJta1J5OG81Q2tjNFNhanVjVFdmLWdMQWNlV19NZw?oc=5",
+      "published": "2026-09-05 19:50",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -192,41 +193,42 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미 연준 고위 관계자 금리 동결 지지 시사에 증시 급등, 유가 92달러 기록",
-      "display_title": "미 연준 고위 관계자 금리 동결 지지 시사에 증시 급등, 유가 92달러 기록",
-      "original_title": "Stock Market Today: Stocks Jump After Fed Official Says He Could Back Rate Hold, Oil price at $92 - Eurasia Business News",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[특집/ 향후 10년 한국 수출을 이끌 차세대 산업 No.10 미래 모빌리티] \"자동차가 아닌 움직이는 AI 플랫폼 수출\"... 미래 모빌리티, 한국의 차세대 성장엔진 부상",
+      "display_title": "[특집/ 향후 10년 한국 수출을 이끌 차세대 산업 No.10 미래 모빌리티] \"자동차가 아닌 움직이는 AI 플랫폼 수출\"... 미래 모빌리티, 한국의 차세대 성장엔진 부상",
+      "original_title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.10 미래 모빌리티] “자동차가 아니라 움직이는 AI 플랫폼을 수출한다”…미래 모빌리티, 한국의 차세대 성장엔진으로 부상 - 코리아포스트 한글판",
       "summary": [
-        "연준 고위 관계자가 금리 동결 가능성을 시사하자 주식 시장이 급등했으며, 국제 유가는 배럴당 92달러 수준을 보였습니다.",
-        "연준의 매파적 기조 완화 기대감이 주식 시장에 긍정적으로 작용한 반면, 유가는 여전히 높은 수준을 유지하며 인플레이션 압력에 대한 경계감을 남겼습니다.",
-        "금리 동결 기대감은 증시 전반에 호재이나, 고유가는 에너지 관련 주식에 긍정적이며 전반적인 인플레이션 압력을 주시해야 합니다."
+        "미래 모빌리티 산업이 단순한 운송 수단을 넘어 '움직이는 AI 플랫폼'으로 진화하며 한국의 차세대 수출 및 성장 동력으로 주목받고 있다.",
+        "이는 자율주행, 인포테인먼트, 커넥티드 서비스 등 첨단 기술이 융합된 고부가가치 산업으로, 한국 정부와 기업들이 적극적으로 투자하고 있다.",
+        "투자자들은 미래 모빌리티 관련 핵심 기술을 보유한 기업, 소프트웨어 및 AI 솔루션 제공 기업, 그리고 부품 및 서비스 생태계 전반에 대한 장기적인 투자 기회를 모색해야 한다."
       ],
-      "summary_text": "연준 고위 관계자가 금리 동결 가능성을 시사하자 주식 시장이 급등했으며, 국제 유가는 배럴당 92달러 수준을 보였습니다. 연준의 매파적 기조 완화 기대감이 주식 시장에 긍정적으로 작용한 반면, 유가는 여전히 높은 수준을 유지하며 인플레이션 압력에 대한 경계감을 남겼습니다. 금리 동결 기대감은 증시 전반에 호재이나, 고유가는 에너지 관련 주식에 긍정적이며 전반적인 인플레이션 압력을 주시해야 합니다.",
-      "description": "한 연준 고위 관계자가 금리 동결을 지지할 수 있다고 언급하자 주식 시장이 크게 상승했으며, 유가는 배럴당 92달러를 기록했습니다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "미래 모빌리티 산업이 단순한 운송 수단을 넘어 '움직이는 AI 플랫폼'으로 진화하며 한국의 차세대 수출 및 성장 동력으로 주목받고 있다. 이는 자율주행, 인포테인먼트, 커넥티드 서비스 등 첨단 기술이 융합된 고부가가치 산업으로, 한국 정부와 기업들이 적극적으로 투자하고 있다. 투자자들은 미래 모빌리티 관련 핵심 기술을 보유한 기업, 소프트웨어 및 AI 솔루션 제공 기업, 그리고 부품 및 서비스 생태계 전반에 대한 장기적인 투자 기회를 모색해야 한다.",
+      "description": "향후 10년 한국 수출을 주도할 차세대 산업 시리즈 중 미래 모빌리티 분야에 대한 특집 기사로, \"움직이는 AI 플랫폼\"으로서의 미래 모빌리티가 한국의 새로운 성장엔진으로 부상하고 있음을 강조한다.",
+      "category": "기업·산업",
+      "importance": 7,
       "market_impact": "긍정",
-      "related_sector": "에너지",
+      "related_sector": "미래 모빌리티, 자율주행, AI, 반도체, 전장부품",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil"
+        "현대차",
+        "기아",
+        "LG전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "연준의 금리 동결 시사는 증시 전반에 긍정적인 유동성을 제공하지만, 고유가로 인한 인플레이션 압력은 상존하여 업종별 영향을 분석해야 합니다.",
-      "key_signal": "연준의 통화 정책 스탠스와 함께 국제 유가 동향을 함께 관찰하며 인플레이션 재점화 가능성을 점검해야 합니다.",
+      "investment_reason": "미래 모빌리티는 한국의 새로운 수출 동력이자 고성장 산업으로, 관련 기업들의 장기적인 성장이 기대되므로 관심 있게 지켜봐야 합니다.",
+      "key_signal": "국내외 미래 모빌리티 기술 개발 동향, 정부 정책 지원, 그리고 관련 기업들의 신규 투자 및 협력 소식을 주시해야 합니다.",
       "keywords": [
-        "금리동결",
-        "연준",
-        "유가",
-        "증시상승",
-        "인플레이션"
+        "미래모빌리티",
+        "AI플랫폼",
+        "자율주행",
+        "한국수출",
+        "성장엔진"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNjZHd0RFN2dDekhweFNpdFY3VlJqN3BBbFBaNldNbW50anA0VGlndUg0aldzb0ZRaHlSSFJmS1pMZGNVajZKUTlSVnRYZXZJdDJlbnY5eXA4bXRMeVBrTVMwV2NhY2gwYmpWZzZTQTNaQjVFcTlRbEdmMGllZTlLd2stRy1xS2RlVFVrVkFpSlU3WHlHQ1B0VG5FUTFUQ0xrNTl1TDZsaWEteXl3WXdZcEQ5clpENk1kenk4LWZjVGdiZnd6bkh5Qkh4ZWVVaWJEaTQ4dg?oc=5",
-      "published": "2026-09-04 05:47",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4ZmthWUJULW0tRlRrNVRVcG9ub1dvNk1oeEpqd3V0Zmk1N0hkTHJKcC15ZEFJdzNOYjNjSTBQbGVZNW1uS1lmaHZSUWMydFhLRXNNQTJpaGpGYU55cDkydWwySlh2MV9KYnFjOEFB?oc=5",
+      "published": "2026-09-05 12:05",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -236,37 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[머니톡스] 외국인 투자자 소문의 진실과 다음 상승장 대비 전략",
-      "display_title": "[머니톡스] 외국인 투자자 소문의 진실과 다음 상승장 대비 전략",
-      "original_title": "[머니톡스] 외국인 소문의 진실…다음 파티가 열리기 전 해야 할 일 - 연합뉴스",
+      "title": "5,500억 달러 규모의 미일 투자와 15% 관세 재확인",
+      "display_title": "5,500억 달러 규모의 미일 투자와 15% 관세 재확인",
+      "original_title": "5500억달러 미일 투자·15% 관세 재확인 - tokenpost.kr",
       "summary": [
-        "외국인 투자자 동향에 대한 시장의 관심이 높은 가운데, 향후 주식 시장의 상승 가능성에 대비하기 위한 전략적 접근의 중요성이 강조됩니다.",
-        "최근 외국인 매매 동향은 국내 증시의 주요 변수로 작용하며, 루머에 휘둘리기보다 실제 데이터를 기반으로 한 분석과 선제적 대응이 필요하다는 시각입니다.",
-        "외국인 수급은 국내 증시의 방향성에 큰 영향을 미치므로, 이들의 매매 패턴과 투자 포트폴리오 변화를 면밀히 분석하여 투자 기회를 모색해야 합니다."
+        "미국과 일본 간 5,500억 달러 규모의 투자가 확인되었고, 15% 관세 정책 또한 재확인되었다.",
+        "이는 양국 간의 경제 협력 강화와 함께 특정 품목에 대한 관세 정책이 유지될 것임을 시사한다.",
+        "관세 정책은 글로벌 무역 환경과 기업들의 수출 전략에 영향을 미치므로, 관련 업종 투자자들은 국제 통상 정책 변화에 주의를 기울여야 한다."
       ],
-      "summary_text": "외국인 투자자 동향에 대한 시장의 관심이 높은 가운데, 향후 주식 시장의 상승 가능성에 대비하기 위한 전략적 접근의 중요성이 강조됩니다. 최근 외국인 매매 동향은 국내 증시의 주요 변수로 작용하며, 루머에 휘둘리기보다 실제 데이터를 기반으로 한 분석과 선제적 대응이 필요하다는 시각입니다. 외국인 수급은 국내 증시의 방향성에 큰 영향을 미치므로, 이들의 매매 패턴과 투자 포트폴리오 변화를 면밀히 분석하여 투자 기회를 모색해야 합니다.",
-      "description": "외국인 투자자 관련 소문의 실체와 향후 주식 시장의 '다음 파티'에 대비하기 위한 투자 전략에 대해 분석합니다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "미국과 일본 간 5,500억 달러 규모의 투자가 확인되었고, 15% 관세 정책 또한 재확인되었다. 이는 양국 간의 경제 협력 강화와 함께 특정 품목에 대한 관세 정책이 유지될 것임을 시사한다. 관세 정책은 글로벌 무역 환경과 기업들의 수출 전략에 영향을 미치므로, 관련 업종 투자자들은 국제 통상 정책 변화에 주의를 기울여야 한다.",
+      "description": "미국과 일본 간의 5,500억 달러 규모 투자 협력과 함께 15% 관세 조치가 재확인되었다는 소식.",
+      "category": "글로벌 경제",
+      "importance": 6,
       "market_impact": "중립",
-      "related_sector": "전 업종",
+      "related_sector": "무역, 자동차, 반도체",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "외국인 투자자 수급은 국내 증시의 주요 상승 동력 중 하나이므로, 이들의 투자 방향성을 이해하는 것이 중요하기 때문입니다.",
-      "key_signal": "외국인 투자자의 순매수/순매도 동향과 특정 업종/종목 집중 여부를 매일 확인하여 시장의 큰 흐름을 읽어야 합니다.",
+      "investment_reason": "미일 간 대규모 투자 협력과 관세 정책은 글로벌 공급망 및 무역 환경에 영향을 미쳐 국내 기업들에게도 간접적인 기회나 위협 요인이 될 수 있습니다.",
+      "key_signal": "15% 관세가 적용되는 구체적인 품목과 이것이 한국 기업의 글로벌 경쟁력에 미칠 영향을 파악해야 합니다.",
       "keywords": [
-        "외국인투자자",
-        "수급",
-        "시장전망",
-        "투자전략",
-        "증시동향"
+        "미일투자",
+        "관세",
+        "무역협상",
+        "글로벌경제",
+        "공급망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LUlFWU05EMDR0bWZxUjN2NkJ5NkF6MkZWRDFJUmNCSkp1X09wME80OEpUWFJPLXgxQ3VCM1dOTHExV05NYTNJZWN2R29fLXM2anRncmM3enBLZWFDdGFNTNIBYEFVX3lxTE1LUlFWU05EMDR0bWZxUjN2NkJ5NkF6MkZWRDFJUmNCSkp1X09wME80OEpUWFJPLXgxQ3VCM1dOTHExV05NYTNJZWN2R29fLXM2anRncmM3enBLZWFDdGFNTA?oc=5",
-      "published": "2026-09-04 07:07",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObGZZd00wczhsYlNFUVhvZUlBczBBYlNsc3hYbS1ZaG4zSFEycjVuMVVma3BjS1RGaTVjcjJmYWZCdFhJWTlDb1pTa3ppeEhKblVtYWFaa1ptVmpj0gFcQVVfeXFMTU5sZll3TTBzOGxiU0VRWG9lSUFzMEFiU2xzeFhtLVlobjNIUTJyNW4xVWZrcGNLVEZpNWNyMmZhZkJ0WElZOUNvWlNreml4SEpuVW1hYVprWm1WamM?oc=5",
+      "published": "2026-09-05 16:17",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -277,68 +279,67 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "미국 연준의 금리 인상 압력 완화 기대감은 기술주 및 성장주에 대한 투자 심리를 개선시켜 국내 대표 기술 기업인 삼성전자에 긍정적으로 작용할 수 있습니다.",
-      "check_points": [
-        "글로벌 반도체 수요 회복 여부",
-        "환율 변동성",
-        "외국인 투자자 수급 동향"
-      ],
-      "related_news_titles": [
-        "미국 9월 금리 인상 확률 감소에 기술주 반등…나스닥 1.4% 상승"
-      ]
-    },
-    {
-      "rank": 2,
       "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "금리 인상 속도 조절 기대는 고성장 산업인 반도체 업종에 대한 투자 매력을 높이며, 이는 SK하이닉스와 같은 주요 메모리 반도체 기업의 주가에 긍정적인 영향을 미칠 수 있습니다.",
+      "reason": "미국 증시에서 AI 테마의 강세가 지정학적 리스크를 상쇄하며 상승세를 보였으며, 이는 국내 고대역폭 메모리(HBM) 등 AI 반도체 선두 기업인 SK하이닉스에 긍정적인 영향을 미칠 것으로 예상됩니다.",
       "check_points": [
-        "메모리 반도체 업황 개선 시점",
-        "인공지능(AI) 관련 수요 증가",
-        "글로벌 경쟁 환경"
+        "글로벌 AI 투자 확대 및 HBM 수요 변화",
+        "미국 기술주 실적 및 주가 동향",
+        "환율 변동성 및 지정학적 리스크 완화 여부"
       ],
       "related_news_titles": [
-        "미국 9월 금리 인상 확률 감소에 기술주 반등…나스닥 1.4% 상승"
+        "미국 증시: AI 강세가 미-이란 마찰 상쇄하며 S&P 500, 다우지수 상승"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "SK이노베이션",
+      "market": "KOSPI",
+      "sector": "에너지",
+      "opinion": "관심",
+      "reason": "이란 긴장 고조와 호르무즈 해협 공격 소식으로 국제 유가가 급등하며 에너지 관련 기업들의 단기적인 수혜가 기대됩니다. 유가 상승은 정유 부문 마진 개선으로 이어질 수 있습니다.",
+      "check_points": [
+        "중동 지정학적 리스크 및 국제 유가 추이",
+        "글로벌 경제 둔화 우려 완화 여부",
+        "정유 마진 개선 여부"
+      ],
+      "related_news_titles": [
+        "이란 긴장 고조, 유가 및 국채 수익률 상승에 나스닥 선물 하락, 월스트리트 불안감 증폭",
+        "미국, 호르무즈 해협 이란 시설 공격 후 미 선물 하락 및 유가 급등"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "자동차",
       "opinion": "관심",
-      "reason": "미국 연준의 금리 인상 우려 완화로 인한 증시 전반의 긍정적 기류는 글로벌 유동성을 개선하고 투자 심리를 회복시켜 증권사의 수익 환경에 긍정적인 영향을 줄 것으로 예상됩니다.",
+      "reason": "미래 모빌리티가 한국의 차세대 성장 엔진으로 부상하고 있으며, '움직이는 AI 플랫폼'으로서의 자동차 수출 가능성이 강조되어 현대차의 장기적인 성장 동력 확보에 대한 기대감이 커지고 있습니다.",
       "check_points": [
-        "국내 증시 거래량 변화",
-        "외국인 및 기관 투자자 순매수 동향",
-        "글로벌 증시 변동성"
+        "글로벌 전기차 및 자율주행 시장 경쟁 심화",
+        "미래 모빌리티 기술 개발 및 상용화 속도",
+        "글로벌 공급망 안정화 및 원자재 가격 동향"
       ],
       "related_news_titles": [
-        "미 증시 다우 600pt 급등, S&P·나스닥 1% 이상 상승…월러 연준 이사 발언에 금리 인상 우려 완화",
-        "월러 연준 이사 발언에 금리 인상 우려 완화되며 뉴욕 증시 급등 마감",
-        "[머니톡스] 외국인 투자자 소문의 진실과 다음 상승장 대비 전략"
+        "[특집/ 향후 10년 한국 수출을 이끌 차세대 산업 No.10 미래 모빌리티] \"자동차가 아닌 움직이는 AI 플랫폼 수출\"... 미래 모빌리티, 한국의 차세대 성장엔진 부상"
       ]
     },
     {
       "rank": 4,
-      "name": "SK이노베이션",
+      "name": "한미반도체",
       "market": "KOSPI",
-      "sector": "정유/화학",
+      "sector": "반도체 장비",
       "opinion": "관심",
-      "reason": "연준의 금리 동결 시사는 증시 전반에 긍정적 영향을 미치나, 동시에 유가가 92달러를 기록하며 고유가 흐름이 지속될 경우 정유·화학 업종의 수익성에 긍정적인 요인으로 작용할 수 있습니다.",
+      "reason": "미국 증시에서 AI 테마의 강세가 지속되며 반도체 업종 전반에 긍정적인 영향을 미치고 있습니다. 특히 고대역폭 메모리(HBM) 생산에 필수적인 장비를 공급하는 한미반도체는 AI 반도체 시장 성장의 직접적인 수혜가 예상됩니다.",
       "check_points": [
-        "국제 유가 변동 추이",
-        "정제마진 개선 여부",
-        "전기차 배터리 사업 성장성"
+        "글로벌 AI 반도체 시장의 확장세",
+        "주요 고객사의 HBM 투자 및 생산 계획",
+        "경쟁사의 기술 개발 동향 및 시장 점유율"
       ],
       "related_news_titles": [
-        "미 연준 고위 관계자 금리 동결 지지 시사에 증시 급등, 유가 92달러 기록"
+        "미국 증시: AI 강세가 미-이란 마찰 상쇄하며 S&P 500, 다우지수 상승"
       ]
     }
   ],
