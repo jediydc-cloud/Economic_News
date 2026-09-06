@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06 08:35",
-  "analysis_date": "2026-09-06",
+  "generated_at": "2026-09-07 08:31",
+  "analysis_date": "2026-09-07",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "중동 지정학적 리스크 고조로 글로벌 증시 변동성이 확대되는 가운데, AI 산업 강세가 일부 하방 압력을 상쇄하며 상반된 흐름을 보였습니다. 국내는 미래 모빌리티가 차세대 성장 동력으로 부상하고 있습니다.",
-    "국내거시경제": "한국의 미래 모빌리티 산업이 '움직이는 AI 플랫폼'으로 진화하며 차세대 수출 및 성장 동력으로 강력히 주목받고 있습니다. 정부와 기업의 적극적인 투자가 기대됩니다.",
-    "글로벌경제": "중동 지역의 지정학적 긴장이 고조되며 국제 유가 및 국채 수익률 상승 압박이 지속되고 있습니다. 미국과 일본 간 5,500억 달러 규모의 투자가 확인되었고, 15% 관세 정책도 재확인되며 국제 통상 환경 변화에 주의가 필요합니다.",
-    "증시금리": "미국 증시는 이란과의 지정학적 마찰 및 추가 금리 인상 우려로 혼조세를 보였으나, AI 관련주 강세에 힘입어 일부 지수는 상승 마감하며 지정학적 리스크를 상쇄했습니다. 유가 급등과 국채 수익률 상승은 여전히 부담 요인입니다.",
-    "부동산정책": "해당 없음",
-    "기업산업": "글로벌적으로는 AI 관련 기술 및 산업의 강세가 시장의 주요 동력으로 작용하고 있습니다. 국내에서는 미래 모빌리티가 AI, 자율주행 등 첨단 기술이 융합된 고부가가치 산업으로 주목받으며 차세대 성장 엔진으로 부상하고 있습니다.",
-    "오늘의투자시사점": "지정학적 리스크로 인한 시장 변동성 확대와 인플레이션 및 금리 인상 가능성에 대비한 방어적 포트폴리오 전략이 유효합니다. 동시에 AI와 미래 모빌리티 등 성장 잠재력이 큰 혁신 기술 테마에 대한 장기적 관점의 접근도 필요합니다.",
-    "오늘의한줄": "중동발 지정학적 리스크와 금리 인상 우려 속에서도 AI 기술주의 강세가 시장을 지지하며 미래 성장 동력에 주목해야 할 시점입니다."
+    "총평": "글로벌 경제의 불확실성이 증대되는 가운데 국내 증시에서는 기존 주도주의 쏠림이 완화되며 새로운 성장 테마 발굴이 중요해지고 있습니다.",
+    "국내거시경제": "국내 증시는 반도체 쏠림 현상이 완화되며 2차전지, AI 플랫폼, 화장품 등 신성장 산업으로의 투자자 관심이 확대되고 있습니다.",
+    "글로벌경제": "미국 고용보고서와 CPI 발표를 앞두고 글로벌 증시는 변동성이 예상되며, 연준은 주식 위험 프리미엄에 대한 경고를 통해 시장 과열 가능성을 시사했습니다. 엔비디아의 AI 기업 인수는 글로벌 기술 산업의 리더십 경쟁을 심화시키고 있습니다.",
+    "증시금리": "미국 고용 보고서 여파로 월스트리트가 하락 마감했으며, 연준의 주식 위험 프리미엄 경고는 시장 조정 가능성에 대한 주의를 요구합니다. 이번 주 S&P 500은 CPI, 중동 정세, 채권 수익률 변동에 민감하게 반응할 것입니다.",
+    "부동산정책": "해당 사항 없음.",
+    "기업산업": "국내 증시에서는 2차전지, AI 플랫폼 섹터가 반도체 다음 유망주로 부각되며 LG에너지솔루션, 삼성SDI, SK텔레콤, NHN 등이 주목됩니다. 8월 ETF 시장에서는 2차전지 및 화장품 테마가 강세를 보였습니다. 엔비디아는 AI 개발사 인수를 통해 기술 리더십을 강화했습니다.",
+    "오늘의투자시사점": "글로벌 경제 불확실성과 국내 시장의 주도주 변화 가능성에 대비하여, 2차전지, AI 플랫폼, 화장품 등 유망 테마에 대한 포트폴리오 다각화 전략을 고려해야 합니다.",
+    "오늘의한줄": "글로벌 불확실성 속 반도체 쏠림이 완화되는 국내 증시는 2차전지, AI 등 신성장 테마로의 포트폴리오 확장에 주목해야 합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이란 긴장 고조, 유가 및 국채 수익률 상승에 나스닥 선물 하락, 월스트리트 불안감 증폭",
-      "display_title": "이란 긴장 고조, 유가 및 국채 수익률 상승에 나스닥 선물 하락, 월스트리트 불안감 증폭",
-      "original_title": "Nasdaq Futures Slip As Rising Iran Tensions, Oil, Treasury Yields Keep Wall Street On Edge: NVDA, DELL, CRDO, NIO, RKLB, MSTR In Focus - Stocktwits",
+      "title": "S&P 500 주간 전망: CPI, 미국-이란 상황 및 채권 수익률 주목",
+      "display_title": "S&P 500 주간 전망: CPI, 미국-이란 상황 및 채권 수익률 주목",
+      "original_title": "S&P 500 weekly outlook: CPI, US-Iran Situation and Yields in focus - FOREX.com",
       "summary": [
-        "나스닥 선물 지수가 하락했으며, 이란과의 지정학적 긴장 고조, 국제유가 상승, 미국 국채 수익률 상승이 복합적으로 작용했다.",
-        "중동 지역 불안정은 유가 상승 압력을 가하고, 이는 인플레이션 우려를 심화시켜 금리 인상 가능성을 높이는 악순환을 유발하고 있다.",
-        "지정학적 리스크와 유가, 금리 등 매크로 변수가 증시에 미치는 영향을 지속적으로 모니터링하며 방어적인 포트폴리오 전략을 고려해야 한다."
+        "이번 주 S&P 500 시장은 CPI 발표, 미국-이란 지정학적 상황, 채권 수익률 변동에 크게 영향을 받을 것으로 전망됩니다.",
+        "소비자물가지수는 연준의 통화정책 결정에 중요한 지표이며, 중동 정세 불안은 유가 및 투자 심리에 영향을 미칠 수 있습니다.",
+        "주요 경제 지표와 지정학적 위험 요소를 면밀히 주시하며 시장 변동성에 대비하는 전략이 필요합니다."
       ],
-      "summary_text": "나스닥 선물 지수가 하락했으며, 이란과의 지정학적 긴장 고조, 국제유가 상승, 미국 국채 수익률 상승이 복합적으로 작용했다. 중동 지역 불안정은 유가 상승 압력을 가하고, 이는 인플레이션 우려를 심화시켜 금리 인상 가능성을 높이는 악순환을 유발하고 있다. 지정학적 리스크와 유가, 금리 등 매크로 변수가 증시에 미치는 영향을 지속적으로 모니터링하며 방어적인 포트폴리오 전략을 고려해야 한다.",
-      "description": "이란 긴장 고조, 유가 및 국채 수익률 상승으로 인해 나스닥 선물이 하락하며 월스트리트의 불안감이 커졌다. NVDA, DELL, CRDO, NIO, RKLB, MSTR 등이 주목받았다.",
+      "summary_text": "이번 주 S&P 500 시장은 CPI 발표, 미국-이란 지정학적 상황, 채권 수익률 변동에 크게 영향을 받을 것으로 전망됩니다. 소비자물가지수는 연준의 통화정책 결정에 중요한 지표이며, 중동 정세 불안은 유가 및 투자 심리에 영향을 미칠 수 있습니다. 주요 경제 지표와 지정학적 위험 요소를 면밀히 주시하며 시장 변동성에 대비하는 전략이 필요합니다.",
+      "description": "S&P 500 주간 전망에서 소비자물가지수(CPI), 미국-이란 관계, 채권 수익률이 주요 관심사로 떠오르고 있습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "에너지, 반도체, IT",
+      "market_impact": "중립",
+      "related_sector": "글로벌 매크로, 에너지",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "지정학적 리스크와 유가, 금리 상승은 글로벌 경제 불확실성을 높여 국내 증시에도 부정적인 영향을 미칠 수 있으므로 주의가 필요합니다.",
-      "key_signal": "중동 정세 변화와 국제 유가 추이, 그리고 미국 장기 국채 금리 움직임을 면밀히 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "거시 경제 지표와 지정학적 리스크가 이번 주 글로벌 증시 방향성을 결정할 주요 요인이므로 투자 포트폴리오에 미칠 영향을 파악해야 합니다.",
+      "key_signal": "이번 주 발표될 미국 CPI 지표와 미국-이란 관련 뉴스를 통해 시장의 단기 변동성 확대 여부를 확인해야 합니다.",
       "keywords": [
-        "이란",
-        "지정학",
-        "유가",
-        "국채금리",
-        "나스닥"
+        "S&P500",
+        "CPI",
+        "채권수익률",
+        "지정학적리스크",
+        "미국-이란"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWmZMekoyQUVpZFF4ZkFseWlnMFFEcTVuVTFMMXlmS1RfVW1BSm5Ca2JNMG0zWUQ5cG94NWoxZG01TFQ1YWY3VUZHVDlQM0NadFZDWFk1c0RIQW9XUVhad1JGZzJlWlk3aUZiVVNDb0dvaEVJZ1ZUNFkxV1JCTGtvcUcyNmtyTzNHY3ZZa3dXWFJTYUItaFRITUlBQ1licXZwaDJ6UGdiT0JzcS1JQlg5UDRyanBEY3NBR0pKLThaamZoLWhQM2ZmR1d3NHh2RzhORTFOdktibGE4bGQxR3dBeGFEWnptWkZ3V05OdEoxVUJGdVhFYzRoanFjbHVhSU1ZWUx1UUR2dEp3QUxxcE9WRmVDR1ZiYWs?oc=5",
-      "published": "2026-09-06 02:23",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVdOT0p0bmlfay1WYlp4NlJXUkxxaVZMWUYxdWlBby1PNUVKTUhEaEF4NzVMX2FheTl3ZUJwQnhGOUFtYU1vSkNtbTZsZDNtU3dGNzNUSk1PYUdPbjN3RG8zVzg1RUI1SG5vR1hFMlR4SUFTbkxwRnFGSEtOQkFlR0pxdkREZC1zMGpKUE5uMi1PNWtkcnM3ZkZ0cWlETnNHUXRvankyQ0NVenA0Y2c3WElNdw?oc=5",
+      "published": "2026-09-07 07:40",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국, 호르무즈 해협 이란 시설 공격 후 미 선물 하락 및 유가 급등",
-      "display_title": "미국, 호르무즈 해협 이란 시설 공격 후 미 선물 하락 및 유가 급등",
-      "original_title": "US futures fall and oil prices surge after US hits Iranian sites in the Strait of Hormuz - ABC News - Breaking News, Latest News and Videos",
+      "title": "연준, S&P 500 주식 위험 프리미엄이 닷컴 버블 수준에 근접했다고 경고",
+      "display_title": "연준, S&P 500 주식 위험 프리미엄이 닷컴 버블 수준에 근접했다고 경고",
+      "original_title": "Fed warns S&P 500 equity risk premium near dot-com bubble lows - eciks.org",
       "summary": [
-        "미국이 호르무즈 해협의 이란 시설을 공격하면서 미국 선물 지수가 하락하고 국제 유가가 급등했다.",
-        "이는 중동 지역의 지정학적 긴장 고조를 직접적으로 보여주는 사건으로, 유가 불안정과 글로벌 경제 불확실성을 심화시키는 요인이다.",
-        "지정학적 리스크는 단기적으로 시장 변동성을 확대시키고, 유가 상승은 인플레이션 압력을 가중시키므로 투자자들은 위험 회피 성향을 강화해야 한다."
+        "연준은 S&P 500의 주식 위험 프리미엄(ERP)이 닷컴 버블 당시의 최저 수준에 근접했다고 경고했습니다.",
+        "낮은 주식 위험 프리미엄은 주식 시장의 과열 가능성을 시사하며, 채권 수익률 대비 주식의 투자 매력이 상대적으로 낮아졌음을 의미합니다.",
+        "이는 향후 시장 조정 가능성을 높이는 요인으로 작용할 수 있으므로, 투자자들은 과도한 주식 비중에 대한 경계를 늦추지 않아야 합니다."
       ],
-      "summary_text": "미국이 호르무즈 해협의 이란 시설을 공격하면서 미국 선물 지수가 하락하고 국제 유가가 급등했다. 이는 중동 지역의 지정학적 긴장 고조를 직접적으로 보여주는 사건으로, 유가 불안정과 글로벌 경제 불확실성을 심화시키는 요인이다. 지정학적 리스크는 단기적으로 시장 변동성을 확대시키고, 유가 상승은 인플레이션 압력을 가중시키므로 투자자들은 위험 회피 성향을 강화해야 한다.",
-      "description": "미국이 호르무즈 해협의 이란 시설을 공격한 후 미국 선물 지수가 하락하고 유가가 급등했다.",
+      "summary_text": "연준은 S&P 500의 주식 위험 프리미엄(ERP)이 닷컴 버블 당시의 최저 수준에 근접했다고 경고했습니다. 낮은 주식 위험 프리미엄은 주식 시장의 과열 가능성을 시사하며, 채권 수익률 대비 주식의 투자 매력이 상대적으로 낮아졌음을 의미합니다. 이는 향후 시장 조정 가능성을 높이는 요인으로 작용할 수 있으므로, 투자자들은 과도한 주식 비중에 대한 경계를 늦추지 않아야 합니다.",
+      "description": "연방준비제도(Fed)가 S&P 500 주식의 위험 프리미엄이 과거 닷컴 버블 시기와 유사한 낮은 수준에 도달했다고 경고했습니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "에너지, 방위산업, 해운",
+      "related_sector": "글로벌 증시",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "중동 지역의 지정학적 긴장 고조와 유가 급등은 글로벌 경제 성장 둔화와 인플레이션 압력을 야기하여 국내 증시에도 부정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "미국과 이란 간의 추가적인 군사적 움직임과 호르무즈 해협의 통항 상황, 그리고 국제 유가 변동성을 면밀히 관찰해야 합니다.",
+      "investment_reason": "연준의 경고는 주식 시장의 잠재적 위험을 시사하며, 투자자들에게는 포트폴리오 재조정 및 위험 관리의 필요성을 제기합니다.",
+      "key_signal": "주식 위험 프리미엄 수준을 지속적으로 확인하고, 시장이 과열되었다는 신호에 대비하여 현금 비중 확대 등 보수적인 전략을 고려해야 합니다.",
       "keywords": [
-        "이란",
-        "호르무즈",
-        "유가급등",
-        "지정학적위험",
-        "미증시"
+        "연준",
+        "S&P500",
+        "주식위험프리미엄",
+        "닷컴버블",
+        "시장과열"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTEdOSzY0UHNrcXR3aGlYUEp5M2YzS2FKNG9jeFpwaG5OTTkwQ1RicXJqRExURVYzSW50MlJtUTUwYnhlU2dQMkMtQ2c3ZXBZQ1BxSUhJVDFYSF9iNW9PaG1Db19TVFR5YnR4MkxNb1A2c3BVZzhsaVlYSWtfMXBaX1lTRFFET2ZabV9UR2JWcjVnNkc1UWfSAZsBQVVfeXFMTy1tc05XOGdlSlhhYnVKVkU1REhzN1RZMlEtRmdld3FhS1FSR3AwOXA2TUt3azNGc05RaVpybkpFTDdVdktMZjQ3LUdYN3FuSS16NnBhSFBHYjdfNENvV3hzZjBrWFpOMDE1WXVxd0xyN0xDRzBvd1BYT3RNdEsteUk5andGUVY3X1pSLU1DRkZCc2F0UGpKOC1uSUE?oc=5",
-      "published": "2026-09-05 10:55",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xcFBpN3Y1UFR5LXI5cDVZNGJaZm5HSzBYNnRlNzY2U0xqemxlazE1SmtBSERSdkZWdk8tQ2dMWUdGLWpqYkVsSE9TNnpia2JBd3h3Tk03SEpzSjZ1c1lGeVdMXzdNdw?oc=5",
+      "published": "2026-09-07 03:47",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,42 +109,42 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "S&P 500, 나스닥, 다우지수 하락, 투자자들 금리 인상 가능성 주시",
-      "display_title": "S&P 500, 나스닥, 다우지수 하락, 투자자들 금리 인상 가능성 주시",
-      "original_title": "S&P 500, Nasdaq And Dow Slip As Investors Assess Rate Hike Possibility — SPCX, UBER, ASTS, BBBY, RXT In Focus - Stocktwits",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "반도체 다음은 2차전지·AI 플랫폼…NH투자증권 \"LG엔솔·삼성SDI·SKT·NHN 주목\"",
+      "display_title": "반도체 다음은 2차전지·AI 플랫폼…NH투자증권 \"LG엔솔·삼성SDI·SKT·NHN 주목\"",
+      "original_title": "반도체 다음은 2차전지·AI 플랫폼…NH證 \"LG엔솔·삼성SDI·SKT·NHN 주목\" - 네이트",
       "summary": [
-        "미국 주요 지수(S&P 500, 나스닥, 다우)가 하락 마감했다.",
-        "예상보다 강한 경제 지표로 인해 연방준비제도(Fed)의 추가 금리 인상 가능성이 대두되며 투자 심리가 위축되었다.",
-        "금리 인상 리스크가 지속되는 상황에서 변동성 장세에 대비하고, 금리 민감 업종에 대한 투자 전략을 신중하게 점검해야 한다."
+        "NH투자증권은 국내 증시에서 반도체 다음으로 2차전지와 AI 플랫폼 섹터가 유망할 것으로 전망했습니다.",
+        "주요 추천 종목으로는 LG에너지솔루션, 삼성SDI(2차전지), SK텔레콤, NHN(AI 플랫폼) 등을 꼽았습니다.",
+        "이는 시장의 주도주 변화 가능성을 시사하며, 포트폴리오 다각화 및 새로운 성장 테마 발굴에 중요한 투자 아이디어를 제공합니다."
       ],
-      "summary_text": "미국 주요 지수(S&P 500, 나스닥, 다우)가 하락 마감했다. 예상보다 강한 경제 지표로 인해 연방준비제도(Fed)의 추가 금리 인상 가능성이 대두되며 투자 심리가 위축되었다. 금리 인상 리스크가 지속되는 상황에서 변동성 장세에 대비하고, 금리 민감 업종에 대한 투자 전략을 신중하게 점검해야 한다.",
-      "description": "S&P 500, 나스닥, 다우지수가 투자자들이 금리 인상 가능성을 평가하면서 하락세를 보였다. SPCX, UBER, ASTS, BBBY, RXT 등이 주목받았다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "IT, 성장주, 금융",
+      "summary_text": "NH투자증권은 국내 증시에서 반도체 다음으로 2차전지와 AI 플랫폼 섹터가 유망할 것으로 전망했습니다. 주요 추천 종목으로는 LG에너지솔루션, 삼성SDI(2차전지), SK텔레콤, NHN(AI 플랫폼) 등을 꼽았습니다. 이는 시장의 주도주 변화 가능성을 시사하며, 포트폴리오 다각화 및 새로운 성장 테마 발굴에 중요한 투자 아이디어를 제공합니다.",
+      "description": "NH투자증권은 반도체에 이어 2차전지와 AI 플랫폼 섹터가 다음 투자 유망주가 될 것이라며, LG에너지솔루션, 삼성SDI, SK텔레콤, NHN을 주목할 종목으로 제시했습니다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "2차전지, AI 플랫폼, 통신, IT서비스",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "LG에너지솔루션",
+        "삼성SDI",
+        "SK텔레콤"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 금리 인상 가능성은 글로벌 유동성 위축과 국내 증시 하방 압력으로 작용할 수 있기 때문에 주의 깊게 살펴야 합니다.",
-      "key_signal": "다음 연준 회의 전까지 발표될 경제 지표와 연준 위원들의 발언을 통해 금리 인상 스탠스 변화 여부를 지속적으로 체크해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "국내 주요 증권사가 제시하는 유망 섹터와 종목은 시장의 흐름을 읽고 실제 투자 포트폴리오를 구성하는 데 매우 실질적인 도움을 줍니다.",
+      "key_signal": "NH투자증권이 제시한 2차전지 및 AI 플랫폼 관련 종목들의 실적 및 수급 동향을 면밀히 분석하고, 시장의 반응을 확인해야 합니다.",
       "keywords": [
-        "금리인상",
-        "미국증시",
-        "인플레이션",
-        "성장주",
-        "연준"
+        "2차전지",
+        "AI플랫폼",
+        "NH투자증권",
+        "LG엔솔",
+        "삼성SDI"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS1I4V1hhMHd2TDlYbzM2d2J3aG5lRnhYMHJycHNPbTduOU1aT3JLczNCVG5YQkM5bWVEYldWUlc3VUxOTkxWTEFFMlVnZHlYUmpmWjJkYjZ2dktIMkctTXptNmRZSW56cVpqZjFFNW9DTTJad1o5YVB4RV9nUHczZ1N3anVzTkduck5zUGhrczVUNDhTQUhhQnloYWdCd2xYMUtRN21YOU5RZVA0c2J4VTkxSHJVZmtOX1ZBZTlDTzlfbTVUeWdqOVFLdWRLUkpUMWc4U1N0OE9JZG9ZTzdNS251LUxJcVEwTFVvM25lV0hEUU1ENk1OYmF1LW5CZFU?oc=5",
-      "published": "2026-09-06 04:27",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yTnhid3pZZ2ZHV0NPR25EdTFjYmptUDdTdXNZU2I1clZkaWgtRnNTbTQta1dPRldESUw3V3ZKQTZkOVhCX21xOEUyX296ZWRDdmxz?oc=5",
+      "published": "2026-09-07 08:02",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시: AI 강세가 미-이란 마찰 상쇄하며 S&P 500, 다우지수 상승",
-      "display_title": "미국 증시: AI 강세가 미-이란 마찰 상쇄하며 S&P 500, 다우지수 상승",
-      "original_title": "US stocks today: S&P 500, Dow gain as AI strength offsets US-Iran friction - The Economic Times",
+      "title": "ASX, 불확실한 출발 예상; 월스트리트, 고용 보고서 여파로 하락",
+      "display_title": "ASX, 불확실한 출발 예상; 월스트리트, 고용 보고서 여파로 하락",
+      "original_title": "ASX eyes uncertain start, Wall Street slips on jobs report - SMH.com.au",
       "summary": [
-        "미국 S&P 500과 다우지수가 상승했으며, 인공지능(AI) 관련주의 강세가 미국-이란 간 지정학적 마찰로 인한 시장의 우려를 상쇄했다.",
-        "이는 시장이 지정학적 리스크를 잠시 뒤로하고 AI 산업의 성장 잠재력에 다시 주목하고 있음을 시사한다.",
-        "투자자들은 AI 테마의 지속적인 강세 여부를 주시하며, 지정학적 리스크가 재부각될 경우를 대비한 포트폴리오 리밸런싱 전략을 준비해야 한다."
+        "미국의 고용 보고서가 발표된 후 월스트리트 증시가 하락 마감했으며, 호주 증시(ASX)도 이에 영향을 받아 불안한 출발이 예상됩니다.",
+        "미국 고용 지표는 연준의 금리 인상 가능성과 경제 둔화 우려를 동시에 자극하며 시장에 혼란을 주었습니다.",
+        "글로벌 증시의 연동성을 고려할 때, 미국 고용 지표의 영향이 국내 증시에도 미칠 수 있으므로 개장 전 투자 심리 변화를 주시해야 합니다."
       ],
-      "summary_text": "미국 S&P 500과 다우지수가 상승했으며, 인공지능(AI) 관련주의 강세가 미국-이란 간 지정학적 마찰로 인한 시장의 우려를 상쇄했다. 이는 시장이 지정학적 리스크를 잠시 뒤로하고 AI 산업의 성장 잠재력에 다시 주목하고 있음을 시사한다. 투자자들은 AI 테마의 지속적인 강세 여부를 주시하며, 지정학적 리스크가 재부각될 경우를 대비한 포트폴리오 리밸런싱 전략을 준비해야 한다.",
-      "description": "오늘 미국 증시에서 S&P 500과 다우지수가 AI 관련주의 강세에 힘입어 상승했으며, 이는 미국-이란 간 마찰로 인한 우려를 상쇄했다.",
+      "summary_text": "미국의 고용 보고서가 발표된 후 월스트리트 증시가 하락 마감했으며, 호주 증시(ASX)도 이에 영향을 받아 불안한 출발이 예상됩니다. 미국 고용 지표는 연준의 금리 인상 가능성과 경제 둔화 우려를 동시에 자극하며 시장에 혼란을 주었습니다. 글로벌 증시의 연동성을 고려할 때, 미국 고용 지표의 영향이 국내 증시에도 미칠 수 있으므로 개장 전 투자 심리 변화를 주시해야 합니다.",
+      "description": "호주 증시(ASX)는 불확실한 출발이 예상되며, 월스트리트 증시는 고용 보고서 발표의 영향으로 하락세를 보였습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "인공지능(AI), 반도체, 소프트웨어",
+      "market_impact": "부정",
+      "related_sector": "글로벌 증시",
       "related_stocks": [
-        "SK하이닉스",
-        "삼성전자",
-        "한미반도체"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 테마의 강세는 국내 반도체 및 IT 관련 기업들에게 긍정적인 영향을 미칠 수 있으므로 지속적인 관심이 필요합니다.",
-      "key_signal": "글로벌 AI 산업의 투자 동향과 기술 발전 속도를 주시하며, 국내 AI 관련 기업들의 실적 개선 여부를 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 고용 보고서가 글로벌 증시 조정의 빌미가 될 수 있으며, 이는 국내 시장에도 부정적인 영향을 미칠 수 있으므로 투자에 주의해야 합니다.",
+      "key_signal": "미국 고용 지표 해석에 따른 글로벌 주요 증시의 후속 반응과 국내 시장 개장 초 투자 심리를 면밀히 살펴야 합니다.",
       "keywords": [
-        "AI",
-        "미국증시",
-        "지정학",
-        "반도체",
-        "성장주"
+        "월스트리트",
+        "고용보고서",
+        "ASX",
+        "증시하락",
+        "글로벌경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVJnWW1QZl9LRnlNbG1FNEdYb21KVWZjWWJscHloclR1UzdmMklRS3ROU3Z6UjBtMGVuREtJVmxnM0xRNUd4em9lMlliTXNCV1Niajl2U3R0VE9ZdnJjX012MDd0TW03N0tqOHN2QUJ6VXFoOVlucEN0UTNXV1FzSUw4R1ZJR3dCOXNOdXVfZGl4eEVoX1FXZEJrX0xCWEdfRlRNYThFX2k1Zl9MbWphMTV5dmZCa3VaS2hZYTVYUXlZbkJ4cUtvclNkVV9VTkFqMDZadlVhTUF3cF9MLXlZekdlWGxRb3NvQWNYbNIB8gFBVV95cUxOcEphVnJ5VnJ4N0pMWmdGeGViU3lLWnF2enFBbDFkZzVtOEVqRFI3aEE2SzlTOFJsUzc0dkc4ZjJiZ2FTYkNMQUN3WVN2cExLb21ScnNFWWpSX2VYVmN4SjJkbTA0MTNzcVJWUzFscklSbTAyemozUmk3UEUyQ3QyVXctWFFqc2dDN3VwTDdSN0JHZkhacGpoT2w3R0Jzb01EMWV5VzRIREZnYXhRRU5TZHVaX09LTWFTSTVhbFhXdXBXd2FPcnpPYk9RQXQzVW5Cc3JpUlJta1J5OG81Q2tjNFNhanVjVFdmLWdMQWNlV19NZw?oc=5",
-      "published": "2026-09-05 19:50",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlE0aHBEam5xaHBHTlpzZldTLVlPTjRnMDZaRUxvc1d3NlhiZFZoTFB1Tm13cWV3b0c2akpxQW1hYTg1cDFRWHctWWVMN1R5MVk4b3otMGgzZmlGcVhVbW01aVh4NHpTU3hzOEZIYV9xYUFQYUlfYzFlbTRRcW5hSU43TkZ3eGRqR1A1Wjl3cmxxVTVCa256OTBjWC1rRFRIbVp1TnVxVDF5ZURqRzVBc09yY1VBZFU?oc=5",
+      "published": "2026-09-07 04:17",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,42 +193,40 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[특집/ 향후 10년 한국 수출을 이끌 차세대 산업 No.10 미래 모빌리티] \"자동차가 아닌 움직이는 AI 플랫폼 수출\"... 미래 모빌리티, 한국의 차세대 성장엔진 부상",
-      "display_title": "[특집/ 향후 10년 한국 수출을 이끌 차세대 산업 No.10 미래 모빌리티] \"자동차가 아닌 움직이는 AI 플랫폼 수출\"... 미래 모빌리티, 한국의 차세대 성장엔진 부상",
-      "original_title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.10 미래 모빌리티] “자동차가 아니라 움직이는 AI 플랫폼을 수출한다”…미래 모빌리티, 한국의 차세대 성장엔진으로 부상 - 코리아포스트 한글판",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "소비자 기술 주간(8월 31일~9월 4일): 엔비디아, 세계 최대 오픈 AI 개발사 인수",
+      "display_title": "소비자 기술 주간(8월 31일~9월 4일): 엔비디아, 세계 최대 오픈 AI 개발사 인수",
+      "original_title": "Consumer Tech (Aug 31-Sep 4): NVIDIA Buys World's Largest Open AI Developer, Trump Claims Total Control On Hormuz & More - TradingView",
       "summary": [
-        "미래 모빌리티 산업이 단순한 운송 수단을 넘어 '움직이는 AI 플랫폼'으로 진화하며 한국의 차세대 수출 및 성장 동력으로 주목받고 있다.",
-        "이는 자율주행, 인포테인먼트, 커넥티드 서비스 등 첨단 기술이 융합된 고부가가치 산업으로, 한국 정부와 기업들이 적극적으로 투자하고 있다.",
-        "투자자들은 미래 모빌리티 관련 핵심 기술을 보유한 기업, 소프트웨어 및 AI 솔루션 제공 기업, 그리고 부품 및 서비스 생태계 전반에 대한 장기적인 투자 기회를 모색해야 한다."
+        "엔비디아가 세계 최대 오픈 AI 개발사를 인수하며 AI 기술 리더십을 더욱 강화했습니다.",
+        "이러한 인수는 AI 산업의 통합 및 경쟁 심화를 예고하며, 엔비디아의 장기적인 성장 동력을 확보하려는 전략으로 해석됩니다.",
+        "AI 관련 기술 개발 및 M&A 동향을 주시하고, AI 생태계 내 주요 기업들의 포트폴리오 확장에 주목해야 합니다."
       ],
-      "summary_text": "미래 모빌리티 산업이 단순한 운송 수단을 넘어 '움직이는 AI 플랫폼'으로 진화하며 한국의 차세대 수출 및 성장 동력으로 주목받고 있다. 이는 자율주행, 인포테인먼트, 커넥티드 서비스 등 첨단 기술이 융합된 고부가가치 산업으로, 한국 정부와 기업들이 적극적으로 투자하고 있다. 투자자들은 미래 모빌리티 관련 핵심 기술을 보유한 기업, 소프트웨어 및 AI 솔루션 제공 기업, 그리고 부품 및 서비스 생태계 전반에 대한 장기적인 투자 기회를 모색해야 한다.",
-      "description": "향후 10년 한국 수출을 주도할 차세대 산업 시리즈 중 미래 모빌리티 분야에 대한 특집 기사로, \"움직이는 AI 플랫폼\"으로서의 미래 모빌리티가 한국의 새로운 성장엔진으로 부상하고 있음을 강조한다.",
+      "summary_text": "엔비디아가 세계 최대 오픈 AI 개발사를 인수하며 AI 기술 리더십을 더욱 강화했습니다. 이러한 인수는 AI 산업의 통합 및 경쟁 심화를 예고하며, 엔비디아의 장기적인 성장 동력을 확보하려는 전략으로 해석됩니다. AI 관련 기술 개발 및 M&A 동향을 주시하고, AI 생태계 내 주요 기업들의 포트폴리오 확장에 주목해야 합니다.",
+      "description": "8월 마지막 주부터 9월 첫째 주까지 소비자 기술 부문 주요 뉴스로 엔비디아의 세계 최대 오픈 AI 개발사 인수 소식 등이 다뤄졌습니다.",
       "category": "기업·산업",
-      "importance": 7,
+      "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "미래 모빌리티, 자율주행, AI, 반도체, 전장부품",
+      "related_sector": "AI, 반도체, 소프트웨어, 클라우드 컴퓨팅",
       "related_stocks": [
-        "현대차",
-        "기아",
-        "LG전자"
+        "엔비디아"
       ],
       "investment_view": "관심",
-      "investment_reason": "미래 모빌리티는 한국의 새로운 수출 동력이자 고성장 산업으로, 관련 기업들의 장기적인 성장이 기대되므로 관심 있게 지켜봐야 합니다.",
-      "key_signal": "국내외 미래 모빌리티 기술 개발 동향, 정부 정책 지원, 그리고 관련 기업들의 신규 투자 및 협력 소식을 주시해야 합니다.",
+      "investment_reason": "엔비디아의 AI 기업 인수는 AI 산업의 미래 성장 방향을 제시하며, 관련 기술 기업들의 투자 매력도를 평가하는 데 중요합니다.",
+      "key_signal": "엔비디아의 인수 전략이 AI 시장 점유율 확대 및 기술 혁신에 어떤 영향을 미칠지, 그리고 경쟁사들의 대응은 어떠할지 주시해야 합니다.",
       "keywords": [
-        "미래모빌리티",
-        "AI플랫폼",
-        "자율주행",
-        "한국수출",
-        "성장엔진"
+        "엔비디아",
+        "AI",
+        "인수합병",
+        "반도체",
+        "기술혁신"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4ZmthWUJULW0tRlRrNVRVcG9ub1dvNk1oeEpqd3V0Zmk1N0hkTHJKcC15ZEFJdzNOYjNjSTBQbGVZNW1uS1lmaHZSUWMydFhLRXNNQTJpaGpGYU55cDkydWwySlh2MV9KYnFjOEFB?oc=5",
-      "published": "2026-09-05 12:05",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMGRacmkzaWVOcC1HTThhcFVPbENSOHJqcnpQUWhycnpNVHFkeEk3REJlN2tUME1Pb2JoU081NERmVjBNLXhYTTF0aDduSW9TLVVDUmNZNXQyWXYzTk5LRmNnTF9zMmU1LUhJRnNpZ3A4ZmJmaDNpWFhZUFA1QTMzUWFGdUZhZGdaX05MV1BqWlhySWpkcFJ3RnFmemZITEFpcV9qU3E2ajN5c1hhN2Z0RjVCdjRnd3RfVDlvdlYxMHpqM0tuZkpKWDhfVE1kQWpVZXp5SkNWYWVxYWEySk5lSFRfZUZ6NWhwX051dW5OVm4tSkgwOER0TzZ6enE2TkI2cDU4?oc=5",
+      "published": "2026-09-06 22:31",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -238,37 +236,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "5,500억 달러 규모의 미일 투자와 15% 관세 재확인",
-      "display_title": "5,500억 달러 규모의 미일 투자와 15% 관세 재확인",
-      "original_title": "5500억달러 미일 투자·15% 관세 재확인 - tokenpost.kr",
+      "title": "[월간 ETF] 8월, 반도체 쏠림 완화 속 'TIGER 2차전지TOP10레버리지' 월간 수익률 1위…화장품 ETF도 강세",
+      "display_title": "[월간 ETF] 8월, 반도체 쏠림 완화 속 'TIGER 2차전지TOP10레버리지' 월간 수익률 1위…화장품 ETF도 강세",
+      "original_title": "[월간 ETF] 8月, 반도체 쏠림 완화되나 ‘TIGER 2차전지TOP10레버리지’ 월간 수익률 톱...화장품 ETF도 강세 보여 - 더밸류뉴스",
       "summary": [
-        "미국과 일본 간 5,500억 달러 규모의 투자가 확인되었고, 15% 관세 정책 또한 재확인되었다.",
-        "이는 양국 간의 경제 협력 강화와 함께 특정 품목에 대한 관세 정책이 유지될 것임을 시사한다.",
-        "관세 정책은 글로벌 무역 환경과 기업들의 수출 전략에 영향을 미치므로, 관련 업종 투자자들은 국제 통상 정책 변화에 주의를 기울여야 한다."
+        "8월 ETF 시장에서 'TIGER 2차전지TOP10레버리지'가 가장 높은 월간 수익률을 기록했으며, 반도체 쏠림 현상이 완화되는 모습입니다.",
+        "2차전지 및 화장품 섹터 ETF의 강세는 시장의 관심이 기존 주도주 외 다른 성장 테마로 확산되고 있음을 시사합니다.",
+        "투자자들은 포트폴리오 다각화를 위해 반도체 외 2차전지, 화장품 등 유망 테마 ETF에 대한 관심을 높일 필요가 있습니다."
       ],
-      "summary_text": "미국과 일본 간 5,500억 달러 규모의 투자가 확인되었고, 15% 관세 정책 또한 재확인되었다. 이는 양국 간의 경제 협력 강화와 함께 특정 품목에 대한 관세 정책이 유지될 것임을 시사한다. 관세 정책은 글로벌 무역 환경과 기업들의 수출 전략에 영향을 미치므로, 관련 업종 투자자들은 국제 통상 정책 변화에 주의를 기울여야 한다.",
-      "description": "미국과 일본 간의 5,500억 달러 규모 투자 협력과 함께 15% 관세 조치가 재확인되었다는 소식.",
-      "category": "글로벌 경제",
-      "importance": 6,
-      "market_impact": "중립",
-      "related_sector": "무역, 자동차, 반도체",
+      "summary_text": "8월 ETF 시장에서 'TIGER 2차전지TOP10레버리지'가 가장 높은 월간 수익률을 기록했으며, 반도체 쏠림 현상이 완화되는 모습입니다. 2차전지 및 화장품 섹터 ETF의 강세는 시장의 관심이 기존 주도주 외 다른 성장 테마로 확산되고 있음을 시사합니다. 투자자들은 포트폴리오 다각화를 위해 반도체 외 2차전지, 화장품 등 유망 테마 ETF에 대한 관심을 높일 필요가 있습니다.",
+      "description": "8월 ETF 시장에서는 반도체 집중 현상이 다소 완화된 가운데, 'TIGER 2차전지TOP10레버리지' ETF가 월간 수익률 최고를 기록했으며, 화장품 관련 ETF도 강세를 보였습니다.",
+      "category": "기업·산업",
+      "importance": 7,
+      "market_impact": "긍정",
+      "related_sector": "2차전지, 화장품, ETF",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "LG에너지솔루션",
+        "삼성SDI",
+        "아모레퍼시픽"
       ],
       "investment_view": "관심",
-      "investment_reason": "미일 간 대규모 투자 협력과 관세 정책은 글로벌 공급망 및 무역 환경에 영향을 미쳐 국내 기업들에게도 간접적인 기회나 위협 요인이 될 수 있습니다.",
-      "key_signal": "15% 관세가 적용되는 구체적인 품목과 이것이 한국 기업의 글로벌 경쟁력에 미칠 영향을 파악해야 합니다.",
+      "investment_reason": "국내 ETF 시장의 트렌드 변화를 통해 반도체 외 새로운 주도 섹터 및 투자 유망 종목을 탐색할 수 있는 중요한 정보입니다.",
+      "key_signal": "2차전지 및 화장품 섹터의 강세가 지속될지 여부와 반도체 섹터의 수급 변화를 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "미일투자",
-        "관세",
-        "무역협상",
-        "글로벌경제",
-        "공급망"
+        "ETF",
+        "2차전지",
+        "반도체",
+        "화장품",
+        "수익률"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObGZZd00wczhsYlNFUVhvZUlBczBBYlNsc3hYbS1ZaG4zSFEycjVuMVVma3BjS1RGaTVjcjJmYWZCdFhJWTlDb1pTa3ppeEhKblVtYWFaa1ptVmpj0gFcQVVfeXFMTU5sZll3TTBzOGxiU0VRWG9lSUFzMEFiU2xzeFhtLVlobjNIUTJyNW4xVWZrcGNLVEZpNWNyMmZhZkJ0WElZOUNvWlNreml4SEpuVW1hYVprWm1WamM?oc=5",
-      "published": "2026-09-05 16:17",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WOWFhNVpuZmp1WWlXVzgzSGdMMXZaM0wtMnkzbTVNZUM3UFd6SGxHcVpwblNNdVlsM3VqUFdsVjVXeUtqSndzWE1XeVUwdi1SLTZz?oc=5",
+      "published": "2026-09-07 08:07",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -279,67 +277,69 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "SK하이닉스",
+      "name": "LG에너지솔루션",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "2차전지",
       "opinion": "관심",
-      "reason": "미국 증시에서 AI 테마의 강세가 지정학적 리스크를 상쇄하며 상승세를 보였으며, 이는 국내 고대역폭 메모리(HBM) 등 AI 반도체 선두 기업인 SK하이닉스에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "reason": "국내 주요 증권사에서 반도체 다음 유망 섹터로 2차전지를 지목하며 직접적인 관심 종목으로 제시되었고, 최근 ETF 시장에서도 2차전지 관련 상품이 높은 수익률을 기록하며 강세를 보이고 있습니다.",
       "check_points": [
-        "글로벌 AI 투자 확대 및 HBM 수요 변화",
-        "미국 기술주 실적 및 주가 동향",
-        "환율 변동성 및 지정학적 리스크 완화 여부"
+        "글로벌 전기차 시장 성장률 추이",
+        "핵심 원자재 가격 변동성",
+        "경쟁사 동향"
       ],
       "related_news_titles": [
-        "미국 증시: AI 강세가 미-이란 마찰 상쇄하며 S&P 500, 다우지수 상승"
+        "반도체 다음은 2차전지·AI 플랫폼…NH투자증권 \"LG엔솔·삼성SDI·SKT·NHN 주목\"",
+        "[월간 ETF] 8월, 반도체 쏠림 완화 속 'TIGER 2차전지TOP10레버리지' 월간 수익률 1위…화장품 ETF도 강세"
       ]
     },
     {
       "rank": 2,
-      "name": "SK이노베이션",
+      "name": "SK텔레콤",
       "market": "KOSPI",
-      "sector": "에너지",
+      "sector": "통신, AI 플랫폼",
       "opinion": "관심",
-      "reason": "이란 긴장 고조와 호르무즈 해협 공격 소식으로 국제 유가가 급등하며 에너지 관련 기업들의 단기적인 수혜가 기대됩니다. 유가 상승은 정유 부문 마진 개선으로 이어질 수 있습니다.",
+      "reason": "국내 주요 증권사가 AI 플랫폼 섹터를 유망하게 보고 있으며 SK텔레콤을 관심 종목으로 제시했습니다. 글로벌 AI 시장 확대 추세 속에서 국내 통신사의 AI 사업 전략과 성장 가능성을 주목해야 합니다.",
       "check_points": [
-        "중동 지정학적 리스크 및 국제 유가 추이",
-        "글로벌 경제 둔화 우려 완화 여부",
-        "정유 마진 개선 여부"
+        "AI 기술 개발 및 사업화 진척도",
+        "통신 서비스 가입자당 평균 매출(ARPU) 변화",
+        "클라우드 및 데이터센터 사업 성과"
       ],
       "related_news_titles": [
-        "이란 긴장 고조, 유가 및 국채 수익률 상승에 나스닥 선물 하락, 월스트리트 불안감 증폭",
-        "미국, 호르무즈 해협 이란 시설 공격 후 미 선물 하락 및 유가 급등"
+        "반도체 다음은 2차전지·AI 플랫폼…NH투자증권 \"LG엔솔·삼성SDI·SKT·NHN 주목\"",
+        "소비자 기술 주간(8월 31일~9월 4일): 엔비디아, 세계 최대 오픈 AI 개발사 인수"
       ]
     },
     {
       "rank": 3,
-      "name": "현대차",
+      "name": "아모레퍼시픽",
       "market": "KOSPI",
-      "sector": "자동차",
+      "sector": "화장품",
       "opinion": "관심",
-      "reason": "미래 모빌리티가 한국의 차세대 성장 엔진으로 부상하고 있으며, '움직이는 AI 플랫폼'으로서의 자동차 수출 가능성이 강조되어 현대차의 장기적인 성장 동력 확보에 대한 기대감이 커지고 있습니다.",
+      "reason": "최근 월간 ETF 시장에서 반도체 외 새로운 주도 섹터로 화장품 ETF가 강세를 보이며 아모레퍼시픽 등 관련 종목에 대한 관심이 높아지고 있습니다. 시장의 트렌드 변화를 면밀히 살펴볼 필요가 있습니다.",
       "check_points": [
-        "글로벌 전기차 및 자율주행 시장 경쟁 심화",
-        "미래 모빌리티 기술 개발 및 상용화 속도",
-        "글로벌 공급망 안정화 및 원자재 가격 동향"
+        "중국 등 주요 해외 시장 회복 여부",
+        "신제품 출시 및 마케팅 전략",
+        "면세점 채널 매출 동향"
       ],
       "related_news_titles": [
-        "[특집/ 향후 10년 한국 수출을 이끌 차세대 산업 No.10 미래 모빌리티] \"자동차가 아닌 움직이는 AI 플랫폼 수출\"... 미래 모빌리티, 한국의 차세대 성장엔진 부상"
+        "[월간 ETF] 8월, 반도체 쏠림 완화 속 'TIGER 2차전지TOP10레버리지' 월간 수익률 1위…화장품 ETF도 강세"
       ]
     },
     {
       "rank": 4,
-      "name": "한미반도체",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체 장비",
+      "sector": "반도체, IT",
       "opinion": "관심",
-      "reason": "미국 증시에서 AI 테마의 강세가 지속되며 반도체 업종 전반에 긍정적인 영향을 미치고 있습니다. 특히 고대역폭 메모리(HBM) 생산에 필수적인 장비를 공급하는 한미반도체는 AI 반도체 시장 성장의 직접적인 수혜가 예상됩니다.",
+      "reason": "미국 고용 보고서 여파 등 단기적인 글로벌 증시 불확실성 속에서도, 엔비디아의 AI 기업 인수 소식처럼 AI 산업의 미래 성장 방향은 반도체 산업에 긍정적입니다. 국내 증시의 핵심 종목으로서 글로벌 거시 경제 상황과 반도체 업황 개선 여부를 동시에 관찰해야 합니다.",
       "check_points": [
-        "글로벌 AI 반도체 시장의 확장세",
-        "주요 고객사의 HBM 투자 및 생산 계획",
-        "경쟁사의 기술 개발 동향 및 시장 점유율"
+        "글로벌 메모리 반도체 업황 회복 시점",
+        "파운드리 수주 상황 및 신기술 개발",
+        "거시 경제 지표 및 환율 변동"
       ],
       "related_news_titles": [
-        "미국 증시: AI 강세가 미-이란 마찰 상쇄하며 S&P 500, 다우지수 상승"
+        "ASX, 불확실한 출발 예상; 월스트리트, 고용 보고서 여파로 하락",
+        "소비자 기술 주간(8월 31일~9월 4일): 엔비디아, 세계 최대 오픈 AI 개발사 인수"
       ]
     }
   ],
