@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07 08:31",
-  "analysis_date": "2026-09-07",
+  "generated_at": "2026-09-08 09:05",
+  "analysis_date": "2026-09-08",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 경제의 불확실성이 증대되는 가운데 국내 증시에서는 기존 주도주의 쏠림이 완화되며 새로운 성장 테마 발굴이 중요해지고 있습니다.",
-    "국내거시경제": "국내 증시는 반도체 쏠림 현상이 완화되며 2차전지, AI 플랫폼, 화장품 등 신성장 산업으로의 투자자 관심이 확대되고 있습니다.",
-    "글로벌경제": "미국 고용보고서와 CPI 발표를 앞두고 글로벌 증시는 변동성이 예상되며, 연준은 주식 위험 프리미엄에 대한 경고를 통해 시장 과열 가능성을 시사했습니다. 엔비디아의 AI 기업 인수는 글로벌 기술 산업의 리더십 경쟁을 심화시키고 있습니다.",
-    "증시금리": "미국 고용 보고서 여파로 월스트리트가 하락 마감했으며, 연준의 주식 위험 프리미엄 경고는 시장 조정 가능성에 대한 주의를 요구합니다. 이번 주 S&P 500은 CPI, 중동 정세, 채권 수익률 변동에 민감하게 반응할 것입니다.",
-    "부동산정책": "해당 사항 없음.",
-    "기업산업": "국내 증시에서는 2차전지, AI 플랫폼 섹터가 반도체 다음 유망주로 부각되며 LG에너지솔루션, 삼성SDI, SK텔레콤, NHN 등이 주목됩니다. 8월 ETF 시장에서는 2차전지 및 화장품 테마가 강세를 보였습니다. 엔비디아는 AI 개발사 인수를 통해 기술 리더십을 강화했습니다.",
-    "오늘의투자시사점": "글로벌 경제 불확실성과 국내 시장의 주도주 변화 가능성에 대비하여, 2차전지, AI 플랫폼, 화장품 등 유망 테마에 대한 포트폴리오 다각화 전략을 고려해야 합니다.",
-    "오늘의한줄": "글로벌 불확실성 속 반도체 쏠림이 완화되는 국내 증시는 2차전지, AI 등 신성장 테마로의 포트폴리오 확장에 주목해야 합니다."
+    "총평": "국내 증시는 원화 강세와 외국인 순매수에 힘입어 상승 기대감이 형성되고 있으나, 미국 CPI 발표 등 글로벌 경제 이벤트가 단기 시장 방향성을 좌우할 전망입니다.",
+    "국내거시경제": "코스피는 7천선 탈환을 시도하며 외국인 순매수가 이어지고 있으며, 원화 강세 현상이 두드러집니다. 금리 인상이 K자형 성장 구조에 미칠 영향 분석도 활발합니다.",
+    "글로벌경제": "미국 8월 CPI 데이터는 연준의 9월 금리 결정에 핵심 지표로 작용할 예정이며, 유럽 반도체 기업들의 동향도 주목받고 있습니다.",
+    "증시금리": "국내 증시는 원화 강세와 외국인 매수세에 긍정적인 흐름을 보이고 있으나, 미국 CPI 발표 결과에 따라 금리 불확실성과 글로벌 증시 변동성이 확대될 수 있습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "유럽 반도체 섹터는 특정 이슈로 인해 투자자들의 관심이 집중되고 있습니다.",
+    "오늘의투자시사점": "미국 CPI 발표를 앞두고 시장 변동성에 대비하고, 원화 강세에 따른 외국인 자금 유입 지속 여부를 국내 증시의 주요 동력으로 판단해야 합니다. 특정 산업 이슈에도 유의하십시오.",
+    "오늘의한줄": "원화 강세와 외국인 유입 속 국내 증시 기대감, 그러나 미국 CPI가 글로벌 시장 방향의 주요 변곡점."
   },
   "top_news": [
     {
@@ -28,41 +28,39 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500 주간 전망: CPI, 미국-이란 상황 및 채권 수익률 주목",
-      "display_title": "S&P 500 주간 전망: CPI, 미국-이란 상황 및 채권 수익률 주목",
-      "original_title": "S&P 500 weekly outlook: CPI, US-Iran Situation and Yields in focus - FOREX.com",
+      "title": "3 European Chip Stocks In Focus After The Belgan Arrest - simplywall.st",
+      "display_title": "3 European Chip Stocks In Focus After The Belgan Arrest - simplywall.st",
+      "original_title": "3 European Chip Stocks In Focus After The Belgan Arrest - simplywall.st",
       "summary": [
-        "이번 주 S&P 500 시장은 CPI 발표, 미국-이란 지정학적 상황, 채권 수익률 변동에 크게 영향을 받을 것으로 전망됩니다.",
-        "소비자물가지수는 연준의 통화정책 결정에 중요한 지표이며, 중동 정세 불안은 유가 및 투자 심리에 영향을 미칠 수 있습니다.",
-        "주요 경제 지표와 지정학적 위험 요소를 면밀히 주시하며 시장 변동성에 대비하는 전략이 필요합니다."
+        "3 European Chip Stocks In Focus After The Belgan Arrest - simplywall.st",
+        "3 European Chip Stocks In Focus After The Belgan Arrest simplywall.st",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "이번 주 S&P 500 시장은 CPI 발표, 미국-이란 지정학적 상황, 채권 수익률 변동에 크게 영향을 받을 것으로 전망됩니다. 소비자물가지수는 연준의 통화정책 결정에 중요한 지표이며, 중동 정세 불안은 유가 및 투자 심리에 영향을 미칠 수 있습니다. 주요 경제 지표와 지정학적 위험 요소를 면밀히 주시하며 시장 변동성에 대비하는 전략이 필요합니다.",
-      "description": "S&P 500 주간 전망에서 소비자물가지수(CPI), 미국-이란 관계, 채권 수익률이 주요 관심사로 떠오르고 있습니다.",
+      "summary_text": "3 European Chip Stocks In Focus After The Belgan Arrest - simplywall.st 3 European Chip Stocks In Focus After The Belgan Arrest simplywall.st 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "3 European Chip Stocks In Focus After The Belgan Arrest simplywall.st",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 5,
       "market_impact": "중립",
-      "related_sector": "글로벌 매크로, 에너지",
+      "related_sector": "반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "거시 경제 지표와 지정학적 리스크가 이번 주 글로벌 증시 방향성을 결정할 주요 요인이므로 투자 포트폴리오에 미칠 영향을 파악해야 합니다.",
-      "key_signal": "이번 주 발표될 미국 CPI 지표와 미국-이란 관련 뉴스를 통해 시장의 단기 변동성 확대 여부를 확인해야 합니다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "S&P500",
-        "CPI",
-        "채권수익률",
-        "지정학적리스크",
-        "미국-이란"
+        "arrest",
+        "belgan",
+        "chip",
+        "european"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVdOT0p0bmlfay1WYlp4NlJXUkxxaVZMWUYxdWlBby1PNUVKTUhEaEF4NzVMX2FheTl3ZUJwQnhGOUFtYU1vSkNtbTZsZDNtU3dGNzNUSk1PYUdPbjN3RG8zVzg1RUI1SG5vR1hFMlR4SUFTbkxwRnFGSEtOQkFlR0pxdkREZC1zMGpKUE5uMi1PNWtkcnM3ZkZ0cWlETnNHUXRvankyQ0NVenA0Y2c3WElNdw?oc=5",
-      "published": "2026-09-07 07:40",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDBYcTg0LVI4NmxJTU9NbGlMNG5vLWVpR1U1Qjl6eHJnVzNIc05rdzdXVzJycTRLOGVwU1NnTE51d2tYR21NcE1fR19rWFBSRVlMYkVDTVpZQzN0V1BkVDF3dTJrOW1yR3F0dW05b0N1RUZyZ0hDNzBFUUV3LTlqUGVKc3FpdFhiY0xGNE5rOGZ6Uk9ZZXI3RzFRMTdlRDdwanZOS1Fpb1o1eWtaWlh4MVF3bFEwZXdsZmdXbmxHUDBNcVNFdjVVdkVuSdIB0AFBVV95cUxNQXhIVFA4TUNFZ2EyS1B4QUstNWlzSlRncDFQS3N3Y2ZxdDU5UzI4N3dXRFBsczdMdGNHTTJXN0xrMl9Jcy1jTTBOdnhEejY2RzNMakZJWDVnR0lsY1NUNUMydDZSM2hhY0gzbUNPeU1OSG5PaEwxemlZaFpfSzVjcUFSYnlQUXhuNDZWZm50S19hekZLSzI3WE9obEFJc24zUzZCeVZ4NmhvMVdxQmJwVExzWnVoTjdGYzJ6M2FCaUhiLTM5aTN3MEJYTzBqQU5K?oc=5",
+      "published": "2026-09-08 05:35",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -70,41 +68,40 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준, S&P 500 주식 위험 프리미엄이 닷컴 버블 수준에 근접했다고 경고",
-      "display_title": "연준, S&P 500 주식 위험 프리미엄이 닷컴 버블 수준에 근접했다고 경고",
-      "original_title": "Fed warns S&P 500 equity risk premium near dot-com bubble lows - eciks.org",
+      "title": "U.S. Markets Reopen Tuesday: August CPI Data to Decide Fed's September Rate Decision - BBN Times",
+      "display_title": "U.S. Markets Reopen Tuesday: August CPI Data to Decide Fed's September Rate Decision - BBN Times",
+      "original_title": "U.S. Markets Reopen Tuesday: August CPI Data to Decide Fed's September Rate Decision - BBN Times",
       "summary": [
-        "연준은 S&P 500의 주식 위험 프리미엄(ERP)이 닷컴 버블 당시의 최저 수준에 근접했다고 경고했습니다.",
-        "낮은 주식 위험 프리미엄은 주식 시장의 과열 가능성을 시사하며, 채권 수익률 대비 주식의 투자 매력이 상대적으로 낮아졌음을 의미합니다.",
-        "이는 향후 시장 조정 가능성을 높이는 요인으로 작용할 수 있으므로, 투자자들은 과도한 주식 비중에 대한 경계를 늦추지 않아야 합니다."
+        "U.S.",
+        "Markets Reopen Tuesday: August CPI Data to Decide Fed's September Rate Decision BBN Times",
+        "증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다."
       ],
-      "summary_text": "연준은 S&P 500의 주식 위험 프리미엄(ERP)이 닷컴 버블 당시의 최저 수준에 근접했다고 경고했습니다. 낮은 주식 위험 프리미엄은 주식 시장의 과열 가능성을 시사하며, 채권 수익률 대비 주식의 투자 매력이 상대적으로 낮아졌음을 의미합니다. 이는 향후 시장 조정 가능성을 높이는 요인으로 작용할 수 있으므로, 투자자들은 과도한 주식 비중에 대한 경계를 늦추지 않아야 합니다.",
-      "description": "연방준비제도(Fed)가 S&P 500 주식의 위험 프리미엄이 과거 닷컴 버블 시기와 유사한 낮은 수준에 도달했다고 경고했습니다.",
+      "summary_text": "U.S. Markets Reopen Tuesday: August CPI Data to Decide Fed's September Rate Decision BBN Times 증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다.",
+      "description": "U.S. Markets Reopen Tuesday: August CPI Data to Decide Fed's September Rate Decision BBN Times",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "글로벌 증시",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "금융/증권",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "연준의 경고는 주식 시장의 잠재적 위험을 시사하며, 투자자들에게는 포트폴리오 재조정 및 위험 관리의 필요성을 제기합니다.",
-      "key_signal": "주식 위험 프리미엄 수준을 지속적으로 확인하고, 시장이 과열되었다는 신호에 대비하여 현금 비중 확대 등 보수적인 전략을 고려해야 합니다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "연준",
-        "S&P500",
-        "주식위험프리미엄",
-        "닷컴버블",
-        "시장과열"
+        "august",
+        "bbn",
+        "cpi",
+        "data"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xcFBpN3Y1UFR5LXI5cDVZNGJaZm5HSzBYNnRlNzY2U0xqemxlazE1SmtBSERSdkZWdk8tQ2dMWUdGLWpqYkVsSE9TNnpia2JBd3h3Tk03SEpzSjZ1c1lGeVdMXzdNdw?oc=5",
-      "published": "2026-09-07 03:47",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVW02Tm9XQ2l2S2w4cXFlaEN4OVN6OWZRZFlUbTJPemF6NDNiS1Qwb1VNUnA4REhwM09KZURpSzVHSVRtc1NVSTNMWEM0X3ZlR2JHSUluZUJsWWlicGE4amV0X1A5OFBadjFzblNSN3Vma0NxYlZWMldRNWFCZEdfLW1LS3hqTHpiV3NXdFc3OWxFbkpIdXhvQnNUQXU4dDJMNHdTbXNXMlozVlZLcXZ2SGNvWHdyVGFV?oc=5",
+      "published": "2026-09-08 05:00",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -112,123 +109,122 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "반도체 다음은 2차전지·AI 플랫폼…NH투자증권 \"LG엔솔·삼성SDI·SKT·NHN 주목\"",
-      "display_title": "반도체 다음은 2차전지·AI 플랫폼…NH투자증권 \"LG엔솔·삼성SDI·SKT·NHN 주목\"",
-      "original_title": "반도체 다음은 2차전지·AI 플랫폼…NH證 \"LG엔솔·삼성SDI·SKT·NHN 주목\" - 네이트",
+      "title": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 - 연합뉴스",
+      "display_title": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 - 연합뉴스",
+      "original_title": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 - 연합뉴스",
       "summary": [
-        "NH투자증권은 국내 증시에서 반도체 다음으로 2차전지와 AI 플랫폼 섹터가 유망할 것으로 전망했습니다.",
-        "주요 추천 종목으로는 LG에너지솔루션, 삼성SDI(2차전지), SK텔레콤, NHN(AI 플랫폼) 등을 꼽았습니다.",
-        "이는 시장의 주도주 변화 가능성을 시사하며, 포트폴리오 다각화 및 새로운 성장 테마 발굴에 중요한 투자 아이디어를 제공합니다."
+        "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 - 연합뉴스",
+        "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 연합뉴스",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "NH투자증권은 국내 증시에서 반도체 다음으로 2차전지와 AI 플랫폼 섹터가 유망할 것으로 전망했습니다. 주요 추천 종목으로는 LG에너지솔루션, 삼성SDI(2차전지), SK텔레콤, NHN(AI 플랫폼) 등을 꼽았습니다. 이는 시장의 주도주 변화 가능성을 시사하며, 포트폴리오 다각화 및 새로운 성장 테마 발굴에 중요한 투자 아이디어를 제공합니다.",
-      "description": "NH투자증권은 반도체에 이어 2차전지와 AI 플랫폼 섹터가 다음 투자 유망주가 될 것이라며, LG에너지솔루션, 삼성SDI, SK텔레콤, NHN을 주목할 종목으로 제시했습니다.",
-      "category": "기업·산업",
-      "importance": 9,
+      "summary_text": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 - 연합뉴스 [마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 연합뉴스 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 연합뉴스",
+      "category": "증시·금리",
+      "importance": 5,
       "market_impact": "긍정",
-      "related_sector": "2차전지, AI 플랫폼, 통신, IT서비스",
+      "related_sector": "금융/증권",
       "related_stocks": [
-        "LG에너지솔루션",
-        "삼성SDI",
-        "SK텔레콤"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "국내 주요 증권사가 제시하는 유망 섹터와 종목은 시장의 흐름을 읽고 실제 투자 포트폴리오를 구성하는 데 매우 실질적인 도움을 줍니다.",
-      "key_signal": "NH투자증권이 제시한 2차전지 및 AI 플랫폼 관련 종목들의 실적 및 수급 동향을 면밀히 분석하고, 시장의 반응을 확인해야 합니다.",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "2차전지",
-        "AI플랫폼",
-        "NH투자증권",
-        "LG엔솔",
-        "삼성SDI"
+        "7천피",
+        "vs",
+        "마켓뷰",
+        "상승세"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yTnhid3pZZ2ZHV0NPR25EdTFjYmptUDdTdXNZU2I1clZkaWgtRnNTbTQta1dPRldESUw3V3ZKQTZkOVhCX21xOEUyX296ZWRDdmxz?oc=5",
-      "published": "2026-09-07 08:02",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbV9NYUhESjBXMDRYWi1sN1k2bTFpRE14UU5RSWZwcHQ2RFo0TlF5YnYxSlhoZUJjWFQ4ekdTaDNkcDJWUmFUT20zaVF1TTgzRWt3Zk1XSWFic2PSAWBBVV95cUxPUVkzOTRZaU5LTVZTN1dEOWpadnZ2ZmRBei1RNUVoWS1NS3BhOFQyMXpnTU5NVmJZSHRBcXVfenFVSHdiblVpdTh0cFllS0pWbGZfdVMycktnN3poSTNqWU0?oc=5",
+      "published": "2026-09-08 08:04",
       "quality": {
         "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "ASX, 불확실한 출발 예상; 월스트리트, 고용 보고서 여파로 하락",
-      "display_title": "ASX, 불확실한 출발 예상; 월스트리트, 고용 보고서 여파로 하락",
-      "original_title": "ASX eyes uncertain start, Wall Street slips on jobs report - SMH.com.au",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] - 네이트",
+      "display_title": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] - 네이트",
+      "original_title": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] - 네이트",
       "summary": [
-        "미국의 고용 보고서가 발표된 후 월스트리트 증시가 하락 마감했으며, 호주 증시(ASX)도 이에 영향을 받아 불안한 출발이 예상됩니다.",
-        "미국 고용 지표는 연준의 금리 인상 가능성과 경제 둔화 우려를 동시에 자극하며 시장에 혼란을 주었습니다.",
-        "글로벌 증시의 연동성을 고려할 때, 미국 고용 지표의 영향이 국내 증시에도 미칠 수 있으므로 개장 전 투자 심리 변화를 주시해야 합니다."
+        "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] - 네이트",
+        "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] 네이트",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "미국의 고용 보고서가 발표된 후 월스트리트 증시가 하락 마감했으며, 호주 증시(ASX)도 이에 영향을 받아 불안한 출발이 예상됩니다. 미국 고용 지표는 연준의 금리 인상 가능성과 경제 둔화 우려를 동시에 자극하며 시장에 혼란을 주었습니다. 글로벌 증시의 연동성을 고려할 때, 미국 고용 지표의 영향이 국내 증시에도 미칠 수 있으므로 개장 전 투자 심리 변화를 주시해야 합니다.",
-      "description": "호주 증시(ASX)는 불확실한 출발이 예상되며, 월스트리트 증시는 고용 보고서 발표의 영향으로 하락세를 보였습니다.",
+      "summary_text": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] - 네이트 환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] 네이트 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] 네이트",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 5,
       "market_impact": "부정",
-      "related_sector": "글로벌 증시",
+      "related_sector": "금융/증권",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 고용 보고서가 글로벌 증시 조정의 빌미가 될 수 있으며, 이는 국내 시장에도 부정적인 영향을 미칠 수 있으므로 투자에 주의해야 합니다.",
-      "key_signal": "미국 고용 지표 해석에 따른 글로벌 주요 증시의 후속 반응과 국내 시장 개장 초 투자 심리를 면밀히 살펴야 합니다.",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "월스트리트",
-        "고용보고서",
-        "ASX",
-        "증시하락",
-        "글로벌경제"
+        "pick코노미",
+        "네이트",
+        "달러",
+        "매도"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlE0aHBEam5xaHBHTlpzZldTLVlPTjRnMDZaRUxvc1d3NlhiZFZoTFB1Tm13cWV3b0c2akpxQW1hYTg1cDFRWHctWWVMN1R5MVk4b3otMGgzZmlGcVhVbW01aVh4NHpTU3hzOEZIYV9xYUFQYUlfYzFlbTRRcW5hSU43TkZ3eGRqR1A1Wjl3cmxxVTVCa256OTBjWC1rRFRIbVp1TnVxVDF5ZURqRzVBc09yY1VBZFU?oc=5",
-      "published": "2026-09-07 04:17",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EWjg1U3NkcG52NWZ6SjdNSEhPaDBYZUVlNDY0c0tMVEhvekNIRE5na1BRLWdKeEstX25fMFhPSTNHRUZSbmRFeG5ROEQwX2IwR1RF?oc=5",
+      "published": "2026-09-08 06:02",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문한국어",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "소비자 기술 주간(8월 31일~9월 4일): 엔비디아, 세계 최대 오픈 AI 개발사 인수",
-      "display_title": "소비자 기술 주간(8월 31일~9월 4일): 엔비디아, 세계 최대 오픈 AI 개발사 인수",
-      "original_title": "Consumer Tech (Aug 31-Sep 4): NVIDIA Buys World's Largest Open AI Developer, Trump Claims Total Control On Hormuz & More - TradingView",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[논현논단-유병규 칼럼] K자형 성장구조 속 금리인상의 명암 - 네이트",
+      "display_title": "[논현논단-유병규 칼럼] K자형 성장구조 속 금리인상의 명암 - 네이트",
+      "original_title": "[논현논단-유병규 칼럼] K자형 성장구조 속 금리인상의 명암 - 네이트",
       "summary": [
-        "엔비디아가 세계 최대 오픈 AI 개발사를 인수하며 AI 기술 리더십을 더욱 강화했습니다.",
-        "이러한 인수는 AI 산업의 통합 및 경쟁 심화를 예고하며, 엔비디아의 장기적인 성장 동력을 확보하려는 전략으로 해석됩니다.",
-        "AI 관련 기술 개발 및 M&A 동향을 주시하고, AI 생태계 내 주요 기업들의 포트폴리오 확장에 주목해야 합니다."
+        "[논현논단-유병규 칼럼] K자형 성장구조 속 금리인상의 명암 - 네이트",
+        "[논현논단-유병규 칼럼] K자형 성장구조 속 금리인상의 명암 네이트",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "엔비디아가 세계 최대 오픈 AI 개발사를 인수하며 AI 기술 리더십을 더욱 강화했습니다. 이러한 인수는 AI 산업의 통합 및 경쟁 심화를 예고하며, 엔비디아의 장기적인 성장 동력을 확보하려는 전략으로 해석됩니다. AI 관련 기술 개발 및 M&A 동향을 주시하고, AI 생태계 내 주요 기업들의 포트폴리오 확장에 주목해야 합니다.",
-      "description": "8월 마지막 주부터 9월 첫째 주까지 소비자 기술 부문 주요 뉴스로 엔비디아의 세계 최대 오픈 AI 개발사 인수 소식 등이 다뤄졌습니다.",
-      "category": "기업·산업",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "AI, 반도체, 소프트웨어, 클라우드 컴퓨팅",
+      "summary_text": "[논현논단-유병규 칼럼] K자형 성장구조 속 금리인상의 명암 - 네이트 [논현논단-유병규 칼럼] K자형 성장구조 속 금리인상의 명암 네이트 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "[논현논단-유병규 칼럼] K자형 성장구조 속 금리인상의 명암 네이트",
+      "category": "증시·금리",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "금융/증권",
       "related_stocks": [
-        "엔비디아"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "엔비디아의 AI 기업 인수는 AI 산업의 미래 성장 방향을 제시하며, 관련 기술 기업들의 투자 매력도를 평가하는 데 중요합니다.",
-      "key_signal": "엔비디아의 인수 전략이 AI 시장 점유율 확대 및 기술 혁신에 어떤 영향을 미칠지, 그리고 경쟁사들의 대응은 어떠할지 주시해야 합니다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "엔비디아",
-        "AI",
-        "인수합병",
-        "반도체",
-        "기술혁신"
+        "k자형",
+        "금리인상의",
+        "네이트",
+        "논현논단"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMGRacmkzaWVOcC1HTThhcFVPbENSOHJqcnpQUWhycnpNVHFkeEk3REJlN2tUME1Pb2JoU081NERmVjBNLXhYTTF0aDduSW9TLVVDUmNZNXQyWXYzTk5LRmNnTF9zMmU1LUhJRnNpZ3A4ZmJmaDNpWFhZUFA1QTMzUWFGdUZhZGdaX05MV1BqWlhySWpkcFJ3RnFmemZITEFpcV9qU3E2ajN5c1hhN2Z0RjVCdjRnd3RfVDlvdlYxMHpqM0tuZkpKWDhfVE1kQWpVZXp5SkNWYWVxYWEySk5lSFRfZUZ6NWhwX051dW5OVm4tSkgwOER0TzZ6enE2TkI2cDU4?oc=5",
-      "published": "2026-09-06 22:31",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SdllKUmpjQy1BUEJlVjJ6U3k1WXFKenRKSGRGWmI0XzEwUmswQWVhUFNnQTFqcFI3RG82NDBLcWtjMHY3UXZwdGxsbzF0RHJmWnA4?oc=5",
+      "published": "2026-09-08 06:01",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문한국어",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -236,110 +232,107 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[월간 ETF] 8월, 반도체 쏠림 완화 속 'TIGER 2차전지TOP10레버리지' 월간 수익률 1위…화장품 ETF도 강세",
-      "display_title": "[월간 ETF] 8월, 반도체 쏠림 완화 속 'TIGER 2차전지TOP10레버리지' 월간 수익률 1위…화장품 ETF도 강세",
-      "original_title": "[월간 ETF] 8月, 반도체 쏠림 완화되나 ‘TIGER 2차전지TOP10레버리지’ 월간 수익률 톱...화장품 ETF도 강세 보여 - 더밸류뉴스",
+      "title": "원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 - 뉴시스",
+      "display_title": "원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 - 뉴시스",
+      "original_title": "원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 - 뉴시스",
       "summary": [
-        "8월 ETF 시장에서 'TIGER 2차전지TOP10레버리지'가 가장 높은 월간 수익률을 기록했으며, 반도체 쏠림 현상이 완화되는 모습입니다.",
-        "2차전지 및 화장품 섹터 ETF의 강세는 시장의 관심이 기존 주도주 외 다른 성장 테마로 확산되고 있음을 시사합니다.",
-        "투자자들은 포트폴리오 다각화를 위해 반도체 외 2차전지, 화장품 등 유망 테마 ETF에 대한 관심을 높일 필요가 있습니다."
+        "원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 - 뉴시스",
+        "원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 뉴시스",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "8월 ETF 시장에서 'TIGER 2차전지TOP10레버리지'가 가장 높은 월간 수익률을 기록했으며, 반도체 쏠림 현상이 완화되는 모습입니다. 2차전지 및 화장품 섹터 ETF의 강세는 시장의 관심이 기존 주도주 외 다른 성장 테마로 확산되고 있음을 시사합니다. 투자자들은 포트폴리오 다각화를 위해 반도체 외 2차전지, 화장품 등 유망 테마 ETF에 대한 관심을 높일 필요가 있습니다.",
-      "description": "8월 ETF 시장에서는 반도체 집중 현상이 다소 완화된 가운데, 'TIGER 2차전지TOP10레버리지' ETF가 월간 수익률 최고를 기록했으며, 화장품 관련 ETF도 강세를 보였습니다.",
-      "category": "기업·산업",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "2차전지, 화장품, ETF",
+      "summary_text": "원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 - 뉴시스 원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 뉴시스 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 뉴시스",
+      "category": "증시·금리",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "금융/증권",
       "related_stocks": [
-        "LG에너지솔루션",
-        "삼성SDI",
-        "아모레퍼시픽"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 ETF 시장의 트렌드 변화를 통해 반도체 외 새로운 주도 섹터 및 투자 유망 종목을 탐색할 수 있는 중요한 정보입니다.",
-      "key_signal": "2차전지 및 화장품 섹터의 강세가 지속될지 여부와 반도체 섹터의 수급 변화를 지속적으로 모니터링해야 합니다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "ETF",
-        "2차전지",
-        "반도체",
-        "화장품",
-        "수익률"
+        "강세에",
+        "뉴시스",
+        "돌아올까",
+        "사흘"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WOWFhNVpuZmp1WWlXVzgzSGdMMXZaM0wtMnkzbTVNZUM3UFd6SGxHcVpwblNNdVlsM3VqUFdsVjVXeUtqSndzWE1XeVUwdi1SLTZz?oc=5",
-      "published": "2026-09-07 08:07",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBMUpGUmh3a3lwUGpyRm4wejRkVGpZR1UwY3BXanR2a0cwWHNsUHRFV091SW9LTmUwYzZEd3Y3cnRlMnhVZ3RVbVhhYTExaXlMYk9ia1dNVmVaSlNScVlSX3dtXzZTaUdmRW1wbGFTMS1RMG9Qa2VkadIBeEFVX3lxTFBBMUpGUmh3a3lwUGpyRm4wejRkVGpZR1UwY3BXanR2a0cwWHNsUHRFV091SW9LTmUwYzZEd3Y3cnRlMnhVZ3RVbVhhYTExaXlMYk9ia1dNVmVaSlNScVlSX3dtXzZTaUdmRW1wbGFTMS1RMG9Qa2VkaQ?oc=5",
+      "published": "2026-09-08 06:00",
       "quality": {
         "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     }
   ],
   "watchlist": [
     {
       "rank": 1,
-      "name": "LG에너지솔루션",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "2차전지",
+      "sector": "금융/증권",
       "opinion": "관심",
-      "reason": "국내 주요 증권사에서 반도체 다음 유망 섹터로 2차전지를 지목하며 직접적인 관심 종목으로 제시되었고, 최근 ETF 시장에서도 2차전지 관련 상품이 높은 수익률을 기록하며 강세를 보이고 있습니다.",
+      "reason": "코스피 지수의 긍정적인 흐름과 '7천피' 탈환 기대감 속에서 증권업종에 대한 '관심' 의견이 제시되었으며, 시장 상승 시 직접적인 수혜가 예상됩니다.",
       "check_points": [
-        "글로벌 전기차 시장 성장률 추이",
-        "핵심 원자재 가격 변동성",
-        "경쟁사 동향"
+        "코스피 상승세 지속 여부",
+        "개인 및 기관 투자자 거래대금 변화",
+        "수익성 개선 기대감"
       ],
       "related_news_titles": [
-        "반도체 다음은 2차전지·AI 플랫폼…NH투자증권 \"LG엔솔·삼성SDI·SKT·NHN 주목\"",
-        "[월간 ETF] 8월, 반도체 쏠림 완화 속 'TIGER 2차전지TOP10레버리지' 월간 수익률 1위…화장품 ETF도 강세"
+        "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나 - 연합뉴스"
       ]
     },
     {
       "rank": 2,
-      "name": "SK텔레콤",
+      "name": "한국금융지주",
       "market": "KOSPI",
-      "sector": "통신, AI 플랫폼",
-      "opinion": "관심",
-      "reason": "국내 주요 증권사가 AI 플랫폼 섹터를 유망하게 보고 있으며 SK텔레콤을 관심 종목으로 제시했습니다. 글로벌 AI 시장 확대 추세 속에서 국내 통신사의 AI 사업 전략과 성장 가능성을 주목해야 합니다.",
+      "sector": "금융/증권",
+      "opinion": "주의",
+      "reason": "환율 추가 하락 전망에 따른 달러 매도 현상과 이로 인한 시장 변동성 확대 가능성이 금융/증권업종에 '주의'를 요한다는 분석입니다. 환율 변동성이 실적에 미칠 영향을 주시해야 합니다.",
       "check_points": [
-        "AI 기술 개발 및 사업화 진척도",
-        "통신 서비스 가입자당 평균 매출(ARPU) 변화",
-        "클라우드 및 데이터센터 사업 성과"
+        "원/달러 환율 추이",
+        "외국인 투자자금 유출입",
+        "금융시장 전반의 안정성"
       ],
       "related_news_titles": [
-        "반도체 다음은 2차전지·AI 플랫폼…NH투자증권 \"LG엔솔·삼성SDI·SKT·NHN 주목\"",
-        "소비자 기술 주간(8월 31일~9월 4일): 엔비디아, 세계 최대 오픈 AI 개발사 인수"
+        "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미] - 네이트"
       ]
     },
     {
       "rank": 3,
-      "name": "아모레퍼시픽",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "화장품",
-      "opinion": "관심",
-      "reason": "최근 월간 ETF 시장에서 반도체 외 새로운 주도 섹터로 화장품 ETF가 강세를 보이며 아모레퍼시픽 등 관련 종목에 대한 관심이 높아지고 있습니다. 시장의 트렌드 변화를 면밀히 살펴볼 필요가 있습니다.",
+      "sector": "반도체",
+      "opinion": "중립",
+      "reason": "유럽 반도체 주식 동향 관련 뉴스에서 국내 반도체 대표주로 언급되었으며, 글로벌 금리 및 유동성 변화가 시장 전반에 미치는 영향을 주시하며 반도체 업황 회복 기대감을 확인할 필요가 있습니다.",
       "check_points": [
-        "중국 등 주요 해외 시장 회복 여부",
-        "신제품 출시 및 마케팅 전략",
-        "면세점 채널 매출 동향"
+        "글로벌 반도체 업황 회복 시점",
+        "유럽 및 미국 등 주요 시장의 기술주 투자심리",
+        "금리 및 환율 변동성"
       ],
       "related_news_titles": [
-        "[월간 ETF] 8월, 반도체 쏠림 완화 속 'TIGER 2차전지TOP10레버리지' 월간 수익률 1위…화장품 ETF도 강세"
+        "3 European Chip Stocks In Focus After The Belgan Arrest - simplywall.st"
       ]
     },
     {
       "rank": 4,
-      "name": "삼성전자",
+      "name": "NH투자증권",
       "market": "KOSPI",
-      "sector": "반도체, IT",
-      "opinion": "관심",
-      "reason": "미국 고용 보고서 여파 등 단기적인 글로벌 증시 불확실성 속에서도, 엔비디아의 AI 기업 인수 소식처럼 AI 산업의 미래 성장 방향은 반도체 산업에 긍정적입니다. 국내 증시의 핵심 종목으로서 글로벌 거시 경제 상황과 반도체 업황 개선 여부를 동시에 관찰해야 합니다.",
+      "sector": "금융/증권",
+      "opinion": "중립",
+      "reason": "미국 CPI 데이터 발표와 Fed의 금리 결정 등 주요 거시경제 지표 변화가 금융시장에 미칠 영향과 원화 강세에 따른 외국인 자금 유입 가능성을 주시하며 중립적인 관점으로 접근합니다.",
       "check_points": [
-        "글로벌 메모리 반도체 업황 회복 시점",
-        "파운드리 수주 상황 및 신기술 개발",
-        "거시 경제 지표 및 환율 변동"
+        "미국 CPI 발표 결과 및 Fed의 금리 인상 스탠스",
+        "원화 강세 및 외국인 순매수 지속 여부",
+        "금리 변동성에 따른 증권사 실적 영향"
       ],
       "related_news_titles": [
-        "ASX, 불확실한 출발 예상; 월스트리트, 고용 보고서 여파로 하락",
-        "소비자 기술 주간(8월 31일~9월 4일): 엔비디아, 세계 최대 오픈 AI 개발사 인수"
+        "U.S. Markets Reopen Tuesday: August CPI Data to Decide Fed's September Rate Decision - BBN Times",
+        "원화 강세에 外人 돌아올까…사흘 간 코스피 4.7兆 순매수 - 뉴시스"
       ]
     }
   ],
