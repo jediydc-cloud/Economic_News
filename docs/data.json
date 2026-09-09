@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09 08:55",
-  "analysis_date": "2026-09-09",
+  "generated_at": "2026-09-10 08:53",
+  "analysis_date": "2026-09-10",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 CPI 발표를 앞두고 연준의 금리 인상 불확실성이 고조되며 글로벌 증시의 경계심이 커지고 있습니다. 국제 유가 상승세는 인플레이션 압력을 가중시키며 투자 심리를 위축시키고 있습니다.",
-    "국내거시경제": "국내 경기와 물가, 수출 흐름은 정책 기대와 함께 업종별 차별화를 만들 수 있습니다.",
-    "글로벌경제": "국제 유가가 이란발 지정학적 긴장과 연준의 금리 인상 가능성으로 배럴당 100달러에 근접하며 글로벌 인플레이션 압력을 키우고 있습니다. 이는 각국 중앙은행의 긴축 기조를 강화할 수 있습니다.",
-    "증시금리": "미국 소비자물가지수(CPI) 발표를 앞두고 연준의 추가 금리 인상 베팅에 대한 불확실성이 시장을 지배하고 있습니다. 유가 상승은 인플레이션 압력을 가중시켜 주식 시장 전반에 하방 압력으로 작용할 우려가 큽니다. 다만, 국내에서는 고금리 환경에서도 수익을 내거나 타격이 적은 금융주, 필수소비재 등 금리 상승 수혜주에 대한 관심이 높아지고 있습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "삼정KPMG는 첨단산업의 성장을 위해 안정적인 에너지 인프라 구축이 필수적이며, 이는 전력 생산 및 효율화 관련 기업들에게 새로운 투자 기회를 제공할 것이라고 분석했습니다.",
-    "오늘의투자시사점": "글로벌 인플레이션 압력과 금리 인상 불확실성에 대비하여 방어적인 투자 전략이 필요합니다. 금리 상승기 실적 방어가 가능한 업종이나 오히려 수혜를 볼 수 있는 금융주, 필수소비재 등에 주목하고, 첨단산업 성장에 필수적인 에너지 인프라 관련 기업들의 성장 잠재력을 눈여겨볼 필요가 있습니다.",
-    "오늘의한줄": "글로벌 인플레이션 압력과 금리 인상 불확실성 속 방어적 전략이 필요한 가운데, 에너지 인프라 및 금리 상승 수혜주에 관심이 필요합니다."
+    "총평": "국내 증시는 AI 반도체 랠리에 힘입어 코스피 7000선을 회복했으나, 글로벌 고유가와 인플레이션 우려로 미국 증시가 하락하는 등 대외 악재가 상존합니다.",
+    "국내거시경제": "가계자금의 증시 유입이 둔화되고 정기예금으로 이동하는 조짐이 나타나, 고금리 환경 속 안전자산 선호 심화가 국내 증시 수급에 부정적 영향을 줄 수 있습니다.",
+    "글로벌경제": "국제 유가가 배럴당 100달러를 돌파하며 인플레이션 압력이 가중되었고, 이는 기업 비용 증가와 소비 위축으로 이어질 수 있어 글로벌 경제 전반에 부담으로 작용합니다.",
+    "증시금리": "국내 코스피는 AI 반도체 강세에 힘입어 33거래일 만에 7000선을 회복했지만, 미국 증시는 고유가와 인플레이션 우려로 주요 지수가 모두 하락했습니다.",
+    "부동산정책": "특이사항 없음.",
+    "기업산업": "AI 반도체 산업의 호황이 코스피 상승의 핵심 동력으로 작용하며 실적 개선 기대감을 높였고, 반도체 업종이 증시 전반의 상승을 견인하고 있습니다.",
+    "오늘의투자시사점": "국내 증시는 AI 반도체 업종의 강세가 당분간 이어질 수 있으나, 글로벌 고유가 및 인플레이션 압력과 국내 가계자금 이탈 조짐에 대한 경계가 필요합니다. 단기 과열 여부를 주시하며 신중한 접근을 권합니다.",
+    "오늘의한줄": "AI 반도체 랠리가 국내 증시를 견인했으나, 글로벌 고유가와 인플레이션 경계심을 놓지 말아야 합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시: CPI 시험대 오르며 연준 금리 인상 베팅 불확실 - The Economic Times",
-      "display_title": "미국 증시: CPI 시험대 오르며 연준 금리 인상 베팅 불확실 - The Economic Times",
-      "original_title": "US Stock Market: Wall Street braces for CPI test as Fed rate-hike bets hang in balance - The Economic Times",
+      "title": "유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 미국 증시 후퇴",
+      "display_title": "유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 미국 증시 후퇴",
+      "original_title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data - The Economic Times",
       "summary": [
-        "미국 증시는 곧 발표될 소비자물가지수(CPI) 결과에 촉각을 곤두세우고 있습니다.",
-        "CPI 결과에 따라 연방준비제도(Fed)의 추가 금리 인상 여부가 결정될 수 있어 시장의 불확실성이 커지고 있습니다.",
-        "높은 CPI가 발표될 경우 금리 인상 압박이 가중되어 주식 시장에 하방 압력으로 작용할 수 있습니다."
+        "국제 유가가 배럴당 100달러를 돌파하고 인플레이션 지표 발표를 앞두고 금리가 상승하면서 미국 증시가 약세를 보였습니다.",
+        "고유가와 금리 상승은 인플레이션 압력을 가중시키고 기업 비용을 증가시켜 투자 심리를 위축시키는 요인입니다.",
+        "향후 발표될 인플레이션 데이터와 중앙은행의 통화정책 방향에 주목하며 투자 전략을 재정비해야 합니다."
       ],
-      "summary_text": "미국 증시는 곧 발표될 소비자물가지수(CPI) 결과에 촉각을 곤두세우고 있습니다. CPI 결과에 따라 연방준비제도(Fed)의 추가 금리 인상 여부가 결정될 수 있어 시장의 불확실성이 커지고 있습니다. 높은 CPI가 발표될 경우 금리 인상 압박이 가중되어 주식 시장에 하방 압력으로 작용할 수 있습니다.",
-      "description": "월스트리트가 소비자물가지수(CPI) 발표를 앞두고 촉각을 곤두세우고 있으며, 연방준비제도(Fed)의 금리 인상 가능성에 대한 시장의 베팅이 혼조세를 보이고 있습니다.",
-      "category": "증시·금리",
+      "summary_text": "국제 유가가 배럴당 100달러를 돌파하고 인플레이션 지표 발표를 앞두고 금리가 상승하면서 미국 증시가 약세를 보였습니다. 고유가와 금리 상승은 인플레이션 압력을 가중시키고 기업 비용을 증가시켜 투자 심리를 위축시키는 요인입니다. 향후 발표될 인플레이션 데이터와 중앙은행의 통화정책 방향에 주목하며 투자 전략을 재정비해야 합니다.",
+      "description": "오늘 미국 증시는 유가가 배럴당 100달러를 넘어서고, 인플레이션 데이터 발표를 앞두고 금리가 상승하면서 하락했습니다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "전체 시장",
+      "market_impact": "부정",
+      "related_sector": "에너지",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "S-Oil",
+        "SK이노베이션"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 CPI 발표가 임박하여 연준의 통화정책 방향과 글로벌 증시 향방을 결정할 핵심 변수가 될 것이기 때문입니다.",
-      "key_signal": "오늘 밤 발표될 미국 CPI 결과와 시장의 반응, 특히 채권 금리 움직임을 예의주시해야 합니다.",
+      "investment_reason": "고유가와 금리 상승은 기업 수익성과 소비자 구매력에 부정적인 영향을 미쳐 경제 전반의 성장 둔화를 야기할 수 있습니다.",
+      "key_signal": "곧 발표될 인플레이션 지표와 유가 추이를 면밀히 주시하고, 중앙은행의 금리 인상 속도에 대한 전망을 업데이트해야 합니다.",
       "keywords": [
-        "미국증시",
-        "CPI",
-        "연준",
-        "금리인상",
-        "월스트리트"
+        "고유가",
+        "인플레이션",
+        "금리 상승",
+        "미국 증시",
+        "에너지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVFFHWHBlZVVqclRhdWpHLVlvMXV1NGdvQzhDSmlfdUQzMkpLUVgzb2V0WDZTSWVYdnU4NHoxWmh1ZFA5WWs5M0d6clcwbzlvYkRCX0hlN05obnFUenVCTlZpWnJ0aUJzald4a0V1YXpBdmM4cFVCSm1yY1N3VFZ5RnZFQVhaUWl5T1YzU1lHZnk2OGE5SFQ1NkxPRlZoZHR3ZEpiZHF5cHVuNUt0cElFaDNoVVJ4THVwR1ZqNENyUUZwZlhSZHRWbldzbldfeEtDdjR6VDlveTF6Rm9ma05xQU1yTGtNMFd1SlBTVlpMenI4eTN6eDdZMW43emtRTDgzVEp1UDVn0gGLAkFVX3lxTE0wTkFlem9YS1JRZW51T2szVHdLWC1jQ3pYSWZlM0I0R0N5ZVJmTUtZdHp1eUZidl9HUmhmVERUZGdhekNmWTRCUTVKZkNIbzl3NVI2VW05blpOekt4S2lUclR4bE4zX010TV9xX1h6bDdXc1RhTmxVTVRzNVhTSkR1bHhsNWpjOEl3ZUYyeVluZ0pfcmVnX3ExSmJPX2RPdkZndjhtYlNzcW10V19LSUNScjFpeGVoTHNnSzBoUE40SzZPVWItOEVOZlJ2clg4M3RaMi15WW51RVk3NHpqT2tWSzJqblNVUERUVjZWNjBQOEp5c3dTNVJqb3oyV08wU3d3U1ZSTWRUb0paRQ?oc=5",
-      "published": "2026-09-09 06:42",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcjE3eGlYTzZnbDBrQ0VDRlpCekUxVWxsdWU1bGdtcFNKRmlnRjEyT0QtTzNaQXY5N2FJdEJXMUxaRVJNaFlsQ3V2amxTcFRMellYQUVrY0RLVXNEczM5TS1YUmRPTFNaMklPN1hNRWFNREk5cFkxMDVWQjB6ZUFRYWUySTBsQXJCX2FERGI3MXd3eVdMV1UyenlWSmJJektPS3FKNXJnQkFkOEJYY2phejk3YVQzVHhvOE5MNUkxWUYyclEtbEp5cXdyZTBXNDFzNGF1X2tERUczVjJFN0dNWEZFTmRrVjVvdktKSl8ydnRPMklUbnB6ZlFpUkJ1Q3V5MEJfaTdLTTV1UQ?oc=5",
+      "published": "2026-09-10 05:14",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,84 +66,84 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 100달러 육박, 연준 금리 기대 및 이란 긴장 고조 속 시장 평가: 다우존스, S&P, 나스닥, 월스트리트 선물",
-      "display_title": "유가 100달러 육박, 연준 금리 기대 및 이란 긴장 고조 속 시장 평가: 다우존스, S&P, 나스닥, 월스트리트 선물",
-      "original_title": "Oil Nears $100 as Markets Assess Fed Rate Expectations and Iran Tensions: Dow Jones, S&P, Nasdaq, Wall Street Futures - finance.yahoo.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?",
+      "display_title": "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?",
+      "original_title": "7000선 되찾은 코스피, ‘1만피’ 기대감도···반도체 효과 덕? - 스마트비즈",
       "summary": [
-        "국제 유가가 배럴당 100달러에 근접하며 유가 상승 압력이 지속되고 있습니다.",
-        "연준의 추가 금리 인상 가능성과 이란발 지정학적 리스크가 유가 상승 및 시장 불확실성을 가중시키는 요인으로 작용하고 있습니다.",
-        "높아진 유가는 인플레이션을 심화시키고 주식 시장 전반에 하방 압력으로 작용할 수 있어 주의가 필요합니다."
+        "코스피 지수가 7000선을 회복하며 상승세를 이어가고 있으며, 일부에서는 '1만피' 도달 가능성까지 언급되고 있습니다.",
+        "이러한 지수 상승의 주요 동력은 인공지능(AI) 반도체 등 반도체 산업의 호황에 따른 실적 개선 기대감으로 분석됩니다.",
+        "반도체 업종의 강세가 증시 전반의 상승을 견인할 수 있으나, 단기 과열 및 대외 변수에 대한 경계심도 필요합니다."
       ],
-      "summary_text": "국제 유가가 배럴당 100달러에 근접하며 유가 상승 압력이 지속되고 있습니다. 연준의 추가 금리 인상 가능성과 이란발 지정학적 리스크가 유가 상승 및 시장 불확실성을 가중시키는 요인으로 작용하고 있습니다. 높아진 유가는 인플레이션을 심화시키고 주식 시장 전반에 하방 압력으로 작용할 수 있어 주의가 필요합니다.",
-      "description": "국제 유가가 배럴당 100달러에 근접하며 연방준비제도(Fed)의 금리 인상 기대감과 이란의 지정학적 긴장이 시장에 미치는 영향이 주목받고 있습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "코스피 지수가 7000선을 회복하며 상승세를 이어가고 있으며, 일부에서는 '1만피' 도달 가능성까지 언급되고 있습니다. 이러한 지수 상승의 주요 동력은 인공지능(AI) 반도체 등 반도체 산업의 호황에 따른 실적 개선 기대감으로 분석됩니다. 반도체 업종의 강세가 증시 전반의 상승을 견인할 수 있으나, 단기 과열 및 대외 변수에 대한 경계심도 필요합니다.",
+      "description": "코스피 지수가 7000선을 되찾으며 1만 포인트 돌파에 대한 기대감이 커지고 있습니다. 이는 주로 반도체 산업의 강세 덕분으로 분석됩니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "에너지, 정유, 방산",
+      "market_impact": "긍정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "S-Oil",
-        "한국항공우주",
-        "한화에어로스페이스"
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
       ],
-      "investment_view": "주의",
-      "investment_reason": "유가 100달러 임박, 연준 금리 인상 기대, 이란 긴장이라는 복합적인 악재들이 글로벌 증시와 경제 전반에 큰 영향을 미칠 수 있는 상황이기 때문입니다.",
-      "key_signal": "국제 유가 동향, 미국 물가 지표, 연준 인사들의 발언, 중동 정세 변화를 종합적으로 모니터링해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "반도체 산업의 지속적인 성장은 국내 증시의 핵심 동력이며, 관련 기업들의 실적 개선 기회를 제공합니다.",
+      "key_signal": "반도체 수출 데이터와 AI 산업의 투자 동향, 그리고 글로벌 반도체 기업들의 실적 발표에 주목해야 합니다.",
       "keywords": [
-        "국제유가",
-        "연준",
-        "금리인상",
-        "이란",
-        "지정학적리스크"
+        "코스피",
+        "반도체",
+        "AI 반도체",
+        "7000선",
+        "성장 동력"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUZrWllEeHVFN3FCeG1vc3B2NFRidi15VW1iQlowSXJDS3V5TzFMa2NJTmdMMjhUVWNLMUpMZ2tnSnNneXpWa1dTVWNlZkJJalRYX01SSzBxVDB1UU9ISlcycEdKVlpuWUY4M3ExQnZIN3Z1TEN1N3ZrSXR1RXY5eGFKT3Jyd0NKQ1ZBOGtB?oc=5",
-      "published": "2026-09-08 17:59",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ieng2SzRJSHJLYTgxaVhvUjNOdDFmeGU4LU01c1FaaDU0M01OWlB3aGh3V3otVjB3clJfUndBSU9SZmVfTXRPUjZPN0doY3JfRmdFQkIzNmZ4d2lHRGhOcTV2N3JfMHVZRHdaRw?oc=5",
+      "published": "2026-09-10 07:28",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 100달러 근접, 이란 긴장과 금리 전망이 시장 좌우: 다우존스, S&P, 나스닥, 월스트리트 선물",
-      "display_title": "유가 100달러 근접, 이란 긴장과 금리 전망이 시장 좌우: 다우존스, S&P, 나스닥, 월스트리트 선물",
-      "original_title": "Oil Approaches $100 as Iran Tensions and Rate Outlook Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance UK",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피 7051포인트, 33거래일 만에 7천선 회복…AI 반도체가 고유가 악재 상쇄",
+      "display_title": "코스피 7051포인트, 33거래일 만에 7천선 회복…AI 반도체가 고유가 악재 상쇄",
+      "original_title": "코스피 7051, 33거래일 만에 ‘7천피’ 탈환…AI 반도체가 고유가 악재 눌렀다 - 지이코노미",
       "summary": [
-        "국제 유가가 이란의 지정학적 긴장과 연방준비제도(Fed)의 금리 인상 전망으로 인해 100달러에 육박하고 있습니다.",
-        "이는 글로벌 인플레이션 압력을 가중시키고 각국 중앙은행의 긴축 기조를 강화할 수 있는 요인으로 작용합니다.",
-        "유가 상승과 금리 인상 우려는 주식 시장의 불확실성을 높이고 투자 심리를 위축시킬 가능성이 큽니다."
+        "코스피 지수가 33거래일 만에 7000선을 회복하여 7051포인트로 마감하며 상승세를 기록했습니다.",
+        "국제 유가 상승이라는 악재에도 불구하고, 인공지능(AI) 반도체 관련 업종의 강력한 상승세가 시장을 견인하며 악재를 상쇄했습니다.",
+        "AI 반도체 섹터의 견조한 실적과 성장 기대감이 당분간 시장의 주요 상승 동력으로 작용할 것으로 예상됩니다."
       ],
-      "summary_text": "국제 유가가 이란의 지정학적 긴장과 연방준비제도(Fed)의 금리 인상 전망으로 인해 100달러에 육박하고 있습니다. 이는 글로벌 인플레이션 압력을 가중시키고 각국 중앙은행의 긴축 기조를 강화할 수 있는 요인으로 작용합니다. 유가 상승과 금리 인상 우려는 주식 시장의 불확실성을 높이고 투자 심리를 위축시킬 가능성이 큽니다.",
-      "description": "이란의 지정학적 긴장과 금리 인상 전망이 맞물려 국제 유가가 배럴당 100달러에 근접하면서 주요 증시에 영향을 미치고 있습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "코스피 지수가 33거래일 만에 7000선을 회복하여 7051포인트로 마감하며 상승세를 기록했습니다. 국제 유가 상승이라는 악재에도 불구하고, 인공지능(AI) 반도체 관련 업종의 강력한 상승세가 시장을 견인하며 악재를 상쇄했습니다. AI 반도체 섹터의 견조한 실적과 성장 기대감이 당분간 시장의 주요 상승 동력으로 작용할 것으로 예상됩니다.",
+      "description": "코스피 지수가 7051포인트를 기록하며 33거래일 만에 7천선을 탈환했습니다. 이는 고유가 악재에도 불구하고 AI 반도체 관련주의 강세가 시장을 이끌었기 때문입니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "에너지, 정유, 방산",
+      "market_impact": "긍정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "SK이노베이션",
-        "현대중공업",
-        "LIG넥스원"
+        "삼성전자",
+        "SK하이닉스",
+        "이수페타시스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "유가 급등, 지정학적 위험, 금리 인상 압박 등 복합적인 악재가 글로벌 경제 및 증시에 동시다발적으로 영향을 미치고 있어 투자 결정에 신중해야 할 시점이기 때문입니다.",
-      "key_signal": "중동 지역의 긴장 완화 여부, 주요 산유국의 증산 움직임, 미국 연준의 다음 FOMC 회의 결과를 면밀히 살펴야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 반도체 산업의 강력한 성장은 국내 증시의 핵심 동력이며, 관련 기술 선도 기업들에 대한 지속적인 관심이 필요합니다.",
+      "key_signal": "AI 반도체 기업들의 신규 수주 및 기술 개발 소식과 더불어 글로벌 기술 기업들의 투자 동향을 주시해야 합니다.",
       "keywords": [
-        "유가급등",
-        "이란긴장",
-        "금리전망",
-        "지정학적리스크",
-        "인플레이션"
+        "코스피",
+        "AI 반도체",
+        "7000선",
+        "고유가",
+        "성장 동력"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVRKQUdORVpSeVlPR0JKTlJHeEtZQXdsd0wtZV9MZUh4Yzh2X0xJYzJSZDZDVnlDaVZfMjNaOVViV3NOYzBPUWRRUjVyVEdqSENwZUVmRjlnMEJEN0NiZGRiaWNuRTlva0dKcDVqaXd1Q1NHYnlWZWpSeWtiS2t3MU1yRlp1d0RI?oc=5",
-      "published": "2026-09-08 17:58",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0waU5DaVItbXpNSlZUcVRFbTVPWGdFNDNWQ2JiWXVDd1NtUkNXUUZ0UjJvTTVFOWRWLVJQMnR3QXJsbjNqR3JEckpzSHkyYmNyQVBJNGN4ZVlZeE1Rd0NMYm55a2ZUc00?oc=5",
+      "published": "2026-09-10 04:53",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,36 +153,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "유가 상승, 인플레이션 보고서 앞두고 월스트리트 압박 - CommBank",
-      "display_title": "유가 상승, 인플레이션 보고서 앞두고 월스트리트 압박 - CommBank",
-      "original_title": "Oil rise weighs on Wall Street as inflation reports loom - CommBank",
+      "title": "다우 405포인트, 나스닥 168포인트, S&P 500 37포인트 하락",
+      "display_title": "다우 405포인트, 나스닥 168포인트, S&P 500 37포인트 하락",
+      "original_title": "Dow Drops 405, Nasdaq Loses 168, S&P 500 Falls 37 - TV News Check",
       "summary": [
-        "국제 유가 상승세가 지속되며 투자 심리를 위축시키고 있습니다.",
-        "임박한 인플레이션 보고서 발표를 앞두고 시장은 긴장하고 있으며, 유가 상승이 인플레이션 압력을 가중시킬 것이라는 우려가 큽니다.",
-        "에너지 관련 지표와 물가 지표 발표에 주목하여 시장 변동성에 대비해야 합니다."
+        "미국 뉴욕 증시의 주요 3대 지수가 모두 큰 폭으로 하락 마감했습니다.",
+        "이는 투자 심리 위축과 거시경제적 불확실성 증대를 반영하는 것으로 보입니다.",
+        "글로벌 시장의 전반적인 약세 흐름에 대한 경계심을 유지해야 합니다."
       ],
-      "summary_text": "국제 유가 상승세가 지속되며 투자 심리를 위축시키고 있습니다. 임박한 인플레이션 보고서 발표를 앞두고 시장은 긴장하고 있으며, 유가 상승이 인플레이션 압력을 가중시킬 것이라는 우려가 큽니다. 에너지 관련 지표와 물가 지표 발표에 주목하여 시장 변동성에 대비해야 합니다.",
-      "description": "유가 상승이 임박한 인플레이션 보고서와 맞물려 월스트리트 시장에 부담을 주고 있다는 분석입니다.",
+      "summary_text": "미국 뉴욕 증시의 주요 3대 지수가 모두 큰 폭으로 하락 마감했습니다. 이는 투자 심리 위축과 거시경제적 불확실성 증대를 반영하는 것으로 보입니다. 글로벌 시장의 전반적인 약세 흐름에 대한 경계심을 유지해야 합니다.",
+      "description": "다우존스 지수가 405포인트, 나스닥 지수가 168포인트, S&P 500 지수가 37포인트 하락하며 마감했습니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "정유, 항공, 운송",
+      "related_sector": "전반적 시장",
       "related_stocks": [
-        "S-Oil",
-        "대한항공"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "유가 상승이 인플레이션 압력을 가중시키고 미국 금리 인상 기대감을 높여 증시 전반에 부정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "다음 주 발표될 미국 소비자물가지수(CPI) 등 인플레이션 지표와 국제 유가 추이를 면밀히 주시해야 합니다.",
+      "investment_reason": "미국 증시의 전반적인 하락세는 국내 증시에도 직간접적인 영향을 미칠 수 있어 투자 포트폴리오 점검이 필요합니다.",
+      "key_signal": "미국 증시의 하락 원인 분석과 향후 추가 하락 가능성에 대비해야 합니다.",
       "keywords": [
-        "유가상승",
-        "인플레이션",
-        "월스트리트",
-        "금리인상",
-        "증시하락"
+        "미국 증시",
+        "다우존스",
+        "나스닥",
+        "S&P 500",
+        "증시 하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUs0MGlyZUgtNnBjSm9paTgtZTA0TkxlSmxaLXh5OUhLcEpPMC1PLVhhMDR0WlZJV2NBQWY3RjJlMUtFMml6N0xBS0kwZnp5dldVRHh4ZzU4c3BWRzVzSWtxVW4ydkI3cnUwOWJXeFQwZEh5ZENEbGlwYVFueWhUX1FOdUVTQlpIZHkzeHJiVDVqSXlNQU5rSmY5TDJSaFJHVkU2QlA5QWc5bVFUd09OdE1rS0Jydw?oc=5",
-      "published": "2026-09-09 07:44",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWJ0VFNadkI2VUxZdUo0TVNlUUtZdnlQZFhQRGRXVHZYZVpvNURMS0NJX25aOVBNRk45TkpYYzRCRVdHN3Iyb24zWDJDN2ZSa1drRXVUNmVfYVdENzNtMi0zR0ZsQi1DMmJXZjJBd3U2aHdTdEc0VjdZWmJwS1dzdEdCclVfMkpNTkI4RThVUjNJdw?oc=5",
+      "published": "2026-09-10 05:29",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -195,37 +195,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "금리 5%면 주식시장 망한다?…오히려 웃는 종목도 있다 [실전재테크]",
-      "display_title": "금리 5%면 주식시장 망한다?…오히려 웃는 종목도 있다 [실전재테크]",
-      "original_title": "금리 5%면 주식시장 망한다고?…웃는 종목도 있다 [실전재테크] - 아시아경제",
+      "title": "KB증권, \"가계자금 증시 유입 둔화 조짐, 정기예금으로 이동\"",
+      "display_title": "KB증권, \"가계자금 증시 유입 둔화 조짐, 정기예금으로 이동\"",
+      "original_title": "KB증권 \"가계자금, 증시 유입 둔화 조짐…정기예금으로 이동\" - 매일경제 마켓",
       "summary": [
-        "높은 금리 환경에서도 수익을 창출하거나 타격이 적은 '금리 상승 수혜주'에 대한 관심이 커지고 있습니다.",
-        "일반적으로 금리 상승은 주식 시장에 부정적이지만, 예외적으로 은행, 보험 등 금융주와 필수 소비재, 배당주 등은 방어적 특성을 가집니다.",
-        "투자자들은 금리 인상기에도 실적 방어가 가능하거나 오히려 수혜를 볼 수 있는 업종 및 종목을 선별하는 전략이 필요합니다."
+        "KB증권은 가계자금의 증시 유입 속도가 둔화되고 있으며, 상대적으로 안정적인 정기예금으로 이동하는 추세가 나타나고 있다고 분석했습니다.",
+        "이는 고금리 환경 지속과 증시의 불확실성이 맞물려 투자자들이 위험자산보다 안전자산을 선호하기 시작했음을 시사합니다.",
+        "개인 투자자 자금 이탈은 증시의 수급 불균형을 심화시키고 추가 하락 압력으로 작용할 수 있으므로 주의가 필요합니다."
       ],
-      "summary_text": "높은 금리 환경에서도 수익을 창출하거나 타격이 적은 '금리 상승 수혜주'에 대한 관심이 커지고 있습니다. 일반적으로 금리 상승은 주식 시장에 부정적이지만, 예외적으로 은행, 보험 등 금융주와 필수 소비재, 배당주 등은 방어적 특성을 가집니다. 투자자들은 금리 인상기에도 실적 방어가 가능하거나 오히려 수혜를 볼 수 있는 업종 및 종목을 선별하는 전략이 필요합니다.",
-      "description": "금리가 5% 수준으로 상승할 경우 주식시장 전반에는 부정적이지만, 특정 조건과 업종의 종목들은 오히려 수혜를 볼 수 있다는 분석입니다.",
-      "category": "증시·금리",
+      "summary_text": "KB증권은 가계자금의 증시 유입 속도가 둔화되고 있으며, 상대적으로 안정적인 정기예금으로 이동하는 추세가 나타나고 있다고 분석했습니다. 이는 고금리 환경 지속과 증시의 불확실성이 맞물려 투자자들이 위험자산보다 안전자산을 선호하기 시작했음을 시사합니다. 개인 투자자 자금 이탈은 증시의 수급 불균형을 심화시키고 추가 하락 압력으로 작용할 수 있으므로 주의가 필요합니다.",
+      "description": "KB증권 분석에 따르면 가계자금의 증시 유입이 둔화되고 있으며, 고금리 정기예금 상품으로 자금이 이동하는 조짐이 보입니다.",
+      "category": "국내 거시경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "은행, 보험, 필수소비재",
+      "market_impact": "부정",
+      "related_sector": "금융",
       "related_stocks": [
         "KB금융",
-        "신한지주",
-        "삼성화재"
+        "신한지주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "고금리 환경 장기화 가능성이 높아지는 상황에서 시장 전체의 하락 압력 속에서도 상대적으로 안전하거나 수익을 기대할 수 있는 종목을 찾는 실질적인 투자 전략을 제시하기 때문입니다.",
-      "key_signal": "금리 인상기에도 꾸준한 이익 성장과 배당 매력을 유지하며 인플레이션을 헷지할 수 있는 기업들을 발굴해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "개인 투자자 자금 이탈은 국내 증시의 유동성 약화를 초래하여 주가 상승에 제약 요인이 될 수 있습니다.",
+      "key_signal": "국내 증시의 개인 투자자 순매수 동향과 시중 금리 추이를 지속적으로 확인해야 합니다.",
       "keywords": [
+        "가계 자금",
+        "증시 유동성",
+        "정기예금",
         "고금리",
-        "금리수혜주",
-        "방어주",
-        "재테크",
-        "배당주"
+        "개인 투자자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JSzMzYXVzbHM1aUpzanhUQlVtQ2dNYzhrMjBKOXZHeTZsRkJHSndJc2x2TFBCLTh3eTRWczE1S1cwMzZlUVdYUDZXLXRhdDZLUmlnVGM5eGpuZVdEY3JKaHln?oc=5",
-      "published": "2026-09-09 07:38",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rNTU3UERqb3RqcHdFa2RHb25qZlFmUHNPUE1GVmtFX3VldWZtUllMMGpJM0xWZXhXaHRsTjgxSXAxajUxQTZEUXJielRqYWctVHc?oc=5",
+      "published": "2026-09-10 08:29",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -234,42 +233,41 @@
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "삼정KPMG \"첨단산업 경쟁력은 '에너지 인프라'가 좌우\"",
-      "display_title": "삼정KPMG \"첨단산업 경쟁력은 '에너지 인프라'가 좌우\"",
-      "original_title": "삼정KPMG \"첨단산업 경쟁력 '에너지 인프라'가 좌우\" - Nate News",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "유가 배럴당 100달러 돌파로 S&P 500 하락 마감",
+      "display_title": "유가 배럴당 100달러 돌파로 S&P 500 하락 마감",
+      "original_title": "S&P 500 ends down as oil tops $100 per barrel - reuters.com",
       "summary": [
-        "삼정KPMG는 AI 데이터센터, 반도체 공장 등 전력 소모가 큰 첨단산업의 성장을 위해서는 안정적인 에너지 인프라 구축이 필수적이라고 분석했습니다.",
-        "에너지 비용 절감 및 효율적인 전력 공급이 국가 및 기업의 첨단산업 경쟁력을 좌우하는 핵심 요인으로 부상하고 있습니다.",
-        "이는 전력 생산, 송배전, 에너지 효율화 기술 관련 기업들에게 새로운 투자 기회를 제공할 수 있습니다."
+        "국제 유가가 배럴당 100달러를 상회하며 강세를 보이자, 미국 S&P 500 지수가 하락 마감했습니다.",
+        "고유가는 기업의 생산 비용 증가와 소비자 물가 상승을 야기하며 전반적인 경제 활동에 부담을 줍니다.",
+        "에너지 관련 기업에는 긍정적일 수 있으나, 전반적인 시장에는 인플레이션 압력으로 작용할 수 있어 주의가 필요합니다."
       ],
-      "summary_text": "삼정KPMG는 AI 데이터센터, 반도체 공장 등 전력 소모가 큰 첨단산업의 성장을 위해서는 안정적인 에너지 인프라 구축이 필수적이라고 분석했습니다. 에너지 비용 절감 및 효율적인 전력 공급이 국가 및 기업의 첨단산업 경쟁력을 좌우하는 핵심 요인으로 부상하고 있습니다. 이는 전력 생산, 송배전, 에너지 효율화 기술 관련 기업들에게 새로운 투자 기회를 제공할 수 있습니다.",
-      "description": "삼정KPMG는 첨단산업의 경쟁력을 결정하는 핵심 요소로 안정적이고 효율적인 에너지 인프라의 중요성을 강조했습니다.",
-      "category": "기업·산업",
+      "summary_text": "국제 유가가 배럴당 100달러를 상회하며 강세를 보이자, 미국 S&P 500 지수가 하락 마감했습니다. 고유가는 기업의 생산 비용 증가와 소비자 물가 상승을 야기하며 전반적인 경제 활동에 부담을 줍니다. 에너지 관련 기업에는 긍정적일 수 있으나, 전반적인 시장에는 인플레이션 압력으로 작용할 수 있어 주의가 필요합니다.",
+      "description": "국제 유가가 배럴당 100달러를 넘어서면서 S&P 500 지수가 하락 마감했습니다.",
+      "category": "글로벌 경제",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "전력설비, 전력기기, 신재생에너지",
+      "market_impact": "부정",
+      "related_sector": "에너지",
       "related_stocks": [
-        "LS일렉트릭",
-        "HD현대일렉트릭",
-        "한전KPS"
+        "대한항공",
+        "아시아나항공"
       ],
-      "investment_view": "관심",
-      "investment_reason": "첨단산업 성장에 필수적인 에너지 인프라의 중요성이 부각되면서, 관련 투자 확대가 예상되어 전력 생산, 송배전, 에너지 효율화 관련 기업들의 성장 잠재력이 높아질 것이기 때문입니다.",
-      "key_signal": "정부의 에너지 인프라 투자 정책과 기업들의 전력 효율화 기술 도입 현황을 주시하며 관련 산업의 수혜 기업을 발굴해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "고유가는 인플레이션 압력을 가중시키고 각국 중앙은행의 긴축 정책을 유발하여 기업의 이익률과 경제 성장에 악영향을 줄 수 있습니다.",
+      "key_signal": "국제 유가의 추가 상승 여부와 유가 상승이 인플레이션 지표에 미치는 영향을 계속해서 주시해야 합니다.",
       "keywords": [
-        "에너지인프라",
-        "첨단산업",
-        "전력",
-        "데이터센터",
-        "반도체"
+        "고유가",
+        "S&P 500",
+        "유가 100달러",
+        "인플레이션",
+        "에너지"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kZm84WjBCU3RUWVo4QzVvdlVlcnBsY1ZkWHJ4d09udEFEWV9XOENJOUhKS2ZFSXlQNVk3UWxwejE1eDZFYW1kQ0w1a3NmcXFSdTh3?oc=5",
-      "published": "2026-09-09 08:26",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
+      "published": "2026-09-10 08:06",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -278,70 +276,69 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "KB금융",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "은행",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 CPI 발표가 임박한 가운데, 고금리 환경의 장기화 가능성이 부각되고 있습니다. 뉴스에 따르면 금리 5% 시대에도 웃는 종목으로 은행주가 지목되었으며, 이자 이익 증대 등 상대적으로 견조한 실적을 기대할 수 있는 대표적인 방어주로 주목됩니다.",
+      "reason": "코스피 7000선 회복의 핵심 동력으로 언급된 반도체 산업의 지속적인 성장과 특히 AI 반도체 분야의 강력한 수요 증가가 기대됩니다.",
       "check_points": [
-        "미국 및 국내 기준금리 결정 추이",
-        "은행권 순이자마진(NIM) 변화",
-        "가계부채 및 기업대출 건전성 지표"
+        "글로벌 반도체 수요 회복세 및 메모리 가격 동향",
+        "AI 반도체(HBM) 관련 기술 개발 및 생산 능력 확대",
+        "주요 고객사와의 협력 및 신규 수주 상황"
       ],
       "related_news_titles": [
-        "미국 증시: CPI 시험대 오르며 연준 금리 인상 베팅 불확실 - The Economic Times",
-        "금리 5%면 주식시장 망한다?…오히려 웃는 종목도 있다 [실전재테크]"
+        "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?",
+        "코스피 7051포인트, 33거래일 만에 7천선 회복…AI 반도체가 고유가 악재 상쇄"
       ]
     },
     {
       "rank": 2,
-      "name": "HD현대일렉트릭",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "전력기기",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼정KPMG 보고서에 따르면 첨단산업 경쟁력의 핵심으로 '에너지 인프라'가 강조되었습니다. 데이터센터 및 AI 산업 성장에 따른 전력 수요 증가는 전력설비, 전력기기 관련 기업들의 성장 잠재력을 높일 것으로 예상됩니다.",
+      "reason": "국내 증시의 상승세를 이끄는 주요 동력인 반도체 산업의 성장에 힘입어, 특히 AI 반도체(HBM) 시장에서의 선도적인 위치가 부각되고 있습니다.",
       "check_points": [
-        "국내외 첨단산업 투자 확대 계획",
-        "글로벌 전력망 투자 및 현대화 추세",
-        "신재생에너지 인프라 구축 현황"
+        "AI 반도체(HBM) 생산량 및 기술 경쟁력",
+        "메모리 반도체 시장의 가격 상승 여부",
+        "주요 글로벌 IT 기업들의 AI 투자 확대 추이"
       ],
       "related_news_titles": [
-        "삼정KPMG \"첨단산업 경쟁력은 '에너지 인프라'가 좌우\""
+        "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?",
+        "코스피 7051포인트, 33거래일 만에 7천선 회복…AI 반도체가 고유가 악재 상쇄"
       ]
     },
     {
       "rank": 3,
       "name": "S-Oil",
       "market": "KOSPI",
-      "sector": "정유",
-      "opinion": "관심",
-      "reason": "국제 유가가 100달러에 육박하며 인플레이션 압력을 가중시키고 있으나, 이는 정유업종의 원유 재고평가 이익 및 정제마진 개선에 긍정적으로 작용할 수 있습니다. 이란 긴장 고조 등 지정학적 리스크도 유가 상승 요인으로 작용하고 있습니다.",
+      "sector": "에너지",
+      "opinion": "주의",
+      "reason": "유가가 배럴당 100달러를 돌파하며 인플레이션과 금리 상승 압박이 심화되는 상황은 경제 전반의 성장 둔화를 야기할 수 있으며, 이는 장기적으로 에너지 관련 기업의 수익성에도 부정적인 영향을 미칠 수 있어 모니터링이 필요합니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유) 변동성",
-        "정제마진 추이 및 석유제품 수요",
-        "중동 지역의 지정학적 리스크 변화"
+        "국제 유가(WTI, 브렌트유 등)의 변동성 추이",
+        "정제 마진 및 유류세 등 정부 정책 변화",
+        "글로벌 경기 둔화에 따른 석유 제품 수요 변화"
       ],
       "related_news_titles": [
-        "유가 100달러 육박, 연준 금리 기대 및 이란 긴장 고조 속 시장 평가: 다우존스, S&P, 나스닥, 월스트리트 선물",
-        "유가 100달러 근접, 이란 긴장과 금리 전망이 시장 좌우: 다우존스, S&P, 나스닥, 월스트리트 선물",
-        "유가 상승, 인플레이션 보고서 앞두고 월스트리트 압박 - CommBank"
+        "유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 미국 증시 후퇴",
+        "유가 배럴당 100달러 돌파로 S&P 500 하락 마감"
       ]
     },
     {
       "rank": 4,
-      "name": "LIG넥스원",
+      "name": "한미반도체",
       "market": "KOSPI",
-      "sector": "방위산업",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "이란 긴장 고조 등 중동 지역의 지정학적 리스크가 부각되며 글로벌 불확실성이 증대되고 있습니다. 이는 각국의 국방비 지출 확대 및 방산 수출 증가 기대로 이어질 수 있어, 국내 방위산업체의 수혜가 예상됩니다.",
+      "reason": "코스피 7000선 회복을 이끈 반도체 산업의 지속적인 성장이 국내 증시의 핵심 동력으로 언급되었으며, 특히 AI 반도체 생태계 내 주요 장비 기업으로서 수혜가 기대됩니다.",
       "check_points": [
-        "중동 및 주요 분쟁 지역의 정세 변화",
-        "글로벌 국방 예산 증감 추이",
-        "주요 방산 수출 계약 공시 여부"
+        "HBM 생산 관련 장비 수주 상황 및 공급망 이슈",
+        "글로벌 반도체 기업들의 시설 투자 확대 계획",
+        "경쟁사 대비 기술 및 가격 경쟁력 변화"
       ],
       "related_news_titles": [
-        "유가 100달러 육박, 연준 금리 기대 및 이란 긴장 고조 속 시장 평가: 다우존스, S&P, 나스닥, 월스트리트 선물",
-        "유가 100달러 근접, 이란 긴장과 금리 전망이 시장 좌우: 다우존스, S&P, 나스닥, 월스트리트 선물"
+        "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?"
       ]
     }
   ],
