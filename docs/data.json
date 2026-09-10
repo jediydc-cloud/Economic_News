@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10 08:53",
-  "analysis_date": "2026-09-10",
+  "generated_at": "2026-09-11 08:45",
+  "analysis_date": "2026-09-11",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 증시는 AI 반도체 랠리에 힘입어 코스피 7000선을 회복했으나, 글로벌 고유가와 인플레이션 우려로 미국 증시가 하락하는 등 대외 악재가 상존합니다.",
-    "국내거시경제": "가계자금의 증시 유입이 둔화되고 정기예금으로 이동하는 조짐이 나타나, 고금리 환경 속 안전자산 선호 심화가 국내 증시 수급에 부정적 영향을 줄 수 있습니다.",
-    "글로벌경제": "국제 유가가 배럴당 100달러를 돌파하며 인플레이션 압력이 가중되었고, 이는 기업 비용 증가와 소비 위축으로 이어질 수 있어 글로벌 경제 전반에 부담으로 작용합니다.",
-    "증시금리": "국내 코스피는 AI 반도체 강세에 힘입어 33거래일 만에 7000선을 회복했지만, 미국 증시는 고유가와 인플레이션 우려로 주요 지수가 모두 하락했습니다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "AI 반도체 산업의 호황이 코스피 상승의 핵심 동력으로 작용하며 실적 개선 기대감을 높였고, 반도체 업종이 증시 전반의 상승을 견인하고 있습니다.",
-    "오늘의투자시사점": "국내 증시는 AI 반도체 업종의 강세가 당분간 이어질 수 있으나, 글로벌 고유가 및 인플레이션 압력과 국내 가계자금 이탈 조짐에 대한 경계가 필요합니다. 단기 과열 여부를 주시하며 신중한 접근을 권합니다.",
-    "오늘의한줄": "AI 반도체 랠리가 국내 증시를 견인했으나, 글로벌 고유가와 인플레이션 경계심을 놓지 말아야 합니다."
+    "총평": "글로벌 고유가, 고금리 및 연준 금리 인상 우려가 미국 증시를 연일 하락시키며 경기 둔화 우려를 키우고 있습니다. 국내 증시 또한 특정 종목 쏠림과 높은 변동성으로 투자 심리가 위축되고 있습니다.",
+    "국내거시경제": "코스피 지수가 한 달여 만에 4000포인트 급락한 가운데, 한국은행은 삼성전자·SK하이닉스 쏠림 현상과 레버리지 ETF 영향을 주된 원인으로 분석했습니다. 해외발 불안정성 심화로 외국인 자금 유출 가능성 또한 높아지고 있습니다.",
+    "글로벌경제": "국제 유가가 배럴당 100달러를 돌파하고 미국 10년물 국채 금리가 4.92%까지 치솟으며 인플레이션 압박이 고조되고 있습니다. 연준의 추가 금리 인상 전망과 통화 긴축 기조 강화 우려로 글로벌 유동성 축소가 예상됩니다.",
+    "증시금리": "다우존스 등 미국 주요 증시가 사흘 연속 하락하며 전반적인 약세를 보였습니다. 고유가와 고금리는 기업 수익성 악화와 소비 심리 위축을 야기하여 증시 전반에 하방 압력으로 작용하고 있습니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "국내 증시에서는 삼성전자와 SK하이닉스 등 특정 종목으로의 자금 쏠림 현상이 지수 변동성 확대에 영향을 미쳤습니다.",
+    "오늘의투자시사점": "글로벌 고유가와 고금리 기조가 지속되며 증시 하방 압력이 커질 것으로 예상됩니다. 국내 증시는 특정 섹터 쏠림 위험과 레버리지 투자에 대한 주의가 필요하며, 위험 자산 회피 심리 강화에 대비해야 합니다.",
+    "오늘의한줄": "글로벌 고유가와 고금리 압박 속에 국내외 증시 변동성이 확대되고 있어 신중한 접근이 요구됩니다."
   },
   "top_news": [
     {
@@ -28,36 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 미국 증시 후퇴",
-      "display_title": "유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 미국 증시 후퇴",
-      "original_title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data - The Economic Times",
+      "title": "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
+      "display_title": "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
+      "original_title": "LIVE | Dow Jones, Nasdaq, US Stock Market Today: Check Latest Move in Futures, Dow Jones Slips 400 Points as Oil Tops $100, Treasury Yields Hit and Fed Rate Hike Bets Rise | Why Are Stocks Down Today - The Sunday Guardian",
       "summary": [
-        "국제 유가가 배럴당 100달러를 돌파하고 인플레이션 지표 발표를 앞두고 금리가 상승하면서 미국 증시가 약세를 보였습니다.",
-        "고유가와 금리 상승은 인플레이션 압력을 가중시키고 기업 비용을 증가시켜 투자 심리를 위축시키는 요인입니다.",
-        "향후 발표될 인플레이션 데이터와 중앙은행의 통화정책 방향에 주목하며 투자 전략을 재정비해야 합니다."
+        "미국 주요 지수인 다우존스가 400포인트 하락하며 전반적인 증시 약세를 보였습니다.",
+        "국제 유가가 배럴당 100달러를 돌파하고 국채 금리가 상승하며 인플레이션 압박과 연준의 추가 금리 인상 우려가 커졌습니다.",
+        "높아진 시장 불안정성으로 인해 투자자들은 위험 자산 회피 심리를 강화하고 경기 둔화 가능성에 대비해야 합니다."
       ],
-      "summary_text": "국제 유가가 배럴당 100달러를 돌파하고 인플레이션 지표 발표를 앞두고 금리가 상승하면서 미국 증시가 약세를 보였습니다. 고유가와 금리 상승은 인플레이션 압력을 가중시키고 기업 비용을 증가시켜 투자 심리를 위축시키는 요인입니다. 향후 발표될 인플레이션 데이터와 중앙은행의 통화정책 방향에 주목하며 투자 전략을 재정비해야 합니다.",
-      "description": "오늘 미국 증시는 유가가 배럴당 100달러를 넘어서고, 인플레이션 데이터 발표를 앞두고 금리가 상승하면서 하락했습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "미국 주요 지수인 다우존스가 400포인트 하락하며 전반적인 증시 약세를 보였습니다. 국제 유가가 배럴당 100달러를 돌파하고 국채 금리가 상승하며 인플레이션 압박과 연준의 추가 금리 인상 우려가 커졌습니다. 높아진 시장 불안정성으로 인해 투자자들은 위험 자산 회피 심리를 강화하고 경기 둔화 가능성에 대비해야 합니다.",
+      "description": "다우존스 지수가 400포인트 하락했으며, 유가가 100달러를 넘어섰고, 국채 금리가 상승하며 연준의 금리 인상 가능성에 대한 전망이 높아졌습니다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "에너지",
+      "related_sector": "기술주, 성장주, 에너지",
       "related_stocks": [
+        "SK이노베이션",
         "S-Oil",
-        "SK이노베이션"
+        "한국전력"
       ],
       "investment_view": "주의",
-      "investment_reason": "고유가와 금리 상승은 기업 수익성과 소비자 구매력에 부정적인 영향을 미쳐 경제 전반의 성장 둔화를 야기할 수 있습니다.",
-      "key_signal": "곧 발표될 인플레이션 지표와 유가 추이를 면밀히 주시하고, 중앙은행의 금리 인상 속도에 대한 전망을 업데이트해야 합니다.",
+      "investment_reason": "미국 증시의 하락 요인이 글로벌 시장에 영향을 미치므로 국내 증시에도 부정적인 파급 효과가 예상됩니다.",
+      "key_signal": "유가, 국채 금리, 연준의 통화 정책 스탠스를 지속적으로 확인하여 시장 변동성에 대비해야 합니다.",
       "keywords": [
-        "고유가",
-        "인플레이션",
-        "금리 상승",
         "미국 증시",
-        "에너지"
+        "유가 상승",
+        "국채 금리",
+        "연준 금리인상",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcjE3eGlYTzZnbDBrQ0VDRlpCekUxVWxsdWU1bGdtcFNKRmlnRjEyT0QtTzNaQXY5N2FJdEJXMUxaRVJNaFlsQ3V2amxTcFRMellYQUVrY0RLVXNEczM5TS1YUmRPTFNaMklPN1hNRWFNREk5cFkxMDVWQjB6ZUFRYWUySTBsQXJCX2FERGI3MXd3eVdMV1UyenlWSmJJektPS3FKNXJnQkFkOEJYY2phejk3YVQzVHhvOE5MNUkxWUYyclEtbEp5cXdyZTBXNDFzNGF1X2tERUczVjJFN0dNWEZFTmRrVjVvdktKSl8ydnRPMklUbnB6ZlFpUkJ1Q3V5MEJfaTdLTTV1UQ?oc=5",
-      "published": "2026-09-10 05:14",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNOEVlYktWcTVVb2pyLUladHFmSVhBbWNQa1hsQ0FUWG1SZEI3eGstUFRLWm5oWmh3VjFIYm84NElEZmhiTWxZaTR4bUJpb3duYlBweHNRejZ4UW43aFdqX2h6bUxEMHg4RWdQRmJvWVBWb1hrcU1GS0MtNVo2Vm53Rk1KN2JuMHowRnIySW5Tb0tHSDNWdzFKdWdMMHUwZFAtSzhDRFQwNVFHWmI5V2RCeGJEdWVFWk81TVB2cGR6VGlOUUlpQUcyQ29ENlBiekdRT1YwMnlaV2RsZDFnS3NuQ1RxZEF6bnMwZGhNMlc1MUFRd2FXZEIyRHRtcktaXzlDTkZZLV9SU05kams0c3pZR0xmb2VkbTZCRlJXZVQwNXNadUZpYzlNZWlSZFFsSUpaelQyVVljcWR6cEUtWTlObFhCNm1lbmw3aGdDalV6cHpzUVhDSG00WtIB3gJBVV95cUxOMUtNQnA2Z2wxRUdTaEhDLTFXRlVhb0xTWDdBWDFwRGtnbktfNy04SDl6R1RfZFN3dUhxM3ppNkhYOVFoVW1GcnNxaHFEUUl4TktRNDVNTFRuaGV6WVhzT3dtb1ZSbzZHWVN1Z1JkQTVTOGFZT3VadDhiVDhLemU3eDJzSDc0Vm1yRDh6Y0FGQVZjZ0x2Q3RHdUVVVDJNYUZFMXVaTmRQV1p1d00wM3Mzdm5fSmRwUzFlYkk5TzNlY3hPaEpJTGpiODRhM3V0MmNSRk9vcHE1VWdvX3hPQldIQWhhOWNMWjBnNTVqTWxhSWwydjdTS3pld1VjSGFIMmFZRHdUM1l5bnI4S2xPQ3BRZkY5ZEFmMUZPWWktSU1kcUEtLW13emx4TE91U0NRRGtra3cwV3BGdHZHZTVja2ZSZ3dQZkd3Mnd3b1NFOHFCN3ZwWllEd1hvR2lGV1AzQQ?oc=5",
+      "published": "2026-09-11 04:53",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -66,84 +67,80 @@
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?",
-      "display_title": "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?",
-      "original_title": "7000선 되찾은 코스피, ‘1만피’ 기대감도···반도체 효과 덕? - 스마트비즈",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "시장 혼란: 유가 급등, 금리 인상 불안감 증폭",
+      "display_title": "시장 혼란: 유가 급등, 금리 인상 불안감 증폭",
+      "original_title": "Market Turmoil: Oil Surge Raises Interest Rate Jitters - Devdiscourse",
       "summary": [
-        "코스피 지수가 7000선을 회복하며 상승세를 이어가고 있으며, 일부에서는 '1만피' 도달 가능성까지 언급되고 있습니다.",
-        "이러한 지수 상승의 주요 동력은 인공지능(AI) 반도체 등 반도체 산업의 호황에 따른 실적 개선 기대감으로 분석됩니다.",
-        "반도체 업종의 강세가 증시 전반의 상승을 견인할 수 있으나, 단기 과열 및 대외 변수에 대한 경계심도 필요합니다."
+        "국제 유가 급등이 시장 혼란을 야기하며 투자자들 사이에 금리 인상에 대한 불안감이 확산되고 있습니다.",
+        "고유가는 생산 비용 증가와 소비자 물가 상승으로 이어져 인플레이션 압력을 가중시키고 통화 긴축 기조를 강화할 수 있습니다.",
+        "유가 상승이 지속될 경우 글로벌 경기 둔화 우려와 함께 주식 시장 전반에 하방 압력으로 작용할 수 있습니다."
       ],
-      "summary_text": "코스피 지수가 7000선을 회복하며 상승세를 이어가고 있으며, 일부에서는 '1만피' 도달 가능성까지 언급되고 있습니다. 이러한 지수 상승의 주요 동력은 인공지능(AI) 반도체 등 반도체 산업의 호황에 따른 실적 개선 기대감으로 분석됩니다. 반도체 업종의 강세가 증시 전반의 상승을 견인할 수 있으나, 단기 과열 및 대외 변수에 대한 경계심도 필요합니다.",
-      "description": "코스피 지수가 7000선을 되찾으며 1만 포인트 돌파에 대한 기대감이 커지고 있습니다. 이는 주로 반도체 산업의 강세 덕분으로 분석됩니다.",
-      "category": "기업·산업",
+      "summary_text": "국제 유가 급등이 시장 혼란을 야기하며 투자자들 사이에 금리 인상에 대한 불안감이 확산되고 있습니다. 고유가는 생산 비용 증가와 소비자 물가 상승으로 이어져 인플레이션 압력을 가중시키고 통화 긴축 기조를 강화할 수 있습니다. 유가 상승이 지속될 경우 글로벌 경기 둔화 우려와 함께 주식 시장 전반에 하방 압력으로 작용할 수 있습니다.",
+      "description": "유가 급등으로 인해 시장 혼란이 가중되고 있으며, 금리 인상에 대한 불안감이 증폭되고 있습니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체",
-      "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "반도체 산업의 지속적인 성장은 국내 증시의 핵심 동력이며, 관련 기업들의 실적 개선 기회를 제공합니다.",
-      "key_signal": "반도체 수출 데이터와 AI 산업의 투자 동향, 그리고 글로벌 반도체 기업들의 실적 발표에 주목해야 합니다.",
+      "market_impact": "부정",
+      "related_sector": "에너지, 화학, 항공, 해운",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "유가 상승은 기업의 비용 부담을 증가시키고 소비를 위축시켜 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
+      "key_signal": "국제 유가 변동성 및 이에 따른 각국 중앙은행의 통화 정책 변화를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "코스피",
-        "반도체",
-        "AI 반도체",
-        "7000선",
-        "성장 동력"
+        "유가 급등",
+        "금리 인상",
+        "시장 혼란",
+        "인플레이션",
+        "통화 긴축"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ieng2SzRJSHJLYTgxaVhvUjNOdDFmeGU4LU01c1FaaDU0M01OWlB3aGh3V3otVjB3clJfUndBSU9SZmVfTXRPUjZPN0doY3JfRmdFQkIzNmZ4d2lHRGhOcTV2N3JfMHVZRHdaRw?oc=5",
-      "published": "2026-09-10 07:28",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm5uZ1c3TV96RkRTVktVbGFhUmwtLVFaV3hVb1JiZ2FzWDd6Z0RZOG84RjhLWUo1Tng5S1M3ZFpkeFZSNVdtR3dCaDZWSjFhc01FbE84cVE5NzlGNHgwUFdrSjdDazVjdUxGNlBPa3c4MzNpOFZWb3Boa2NCNUpJaTJCZm1MWDJfYmZQVTF0TnBvZVhRMlpJTG9jbW9TRGFyRFZBdmF1VmN4TXQxb0pMTtIBsAFBVV95cUxNbm5uZ1c3TV96RkRTVktVbGFhUmwtLVFaV3hVb1JiZ2FzWDd6Z0RZOG84RjhLWUo1Tng5S1M3ZFpkeFZSNVdtR3dCaDZWSjFhc01FbE84cVE5NzlGNHgwUFdrSjdDazVjdUxGNlBPa3c4MzNpOFZWb3Boa2NCNUpJaTJCZm1MWDJfYmZQVTF0TnBvZVhRMlpJTG9jbW9TRGFyRFZBdmF1VmN4TXQxb0pMTg?oc=5",
+      "published": "2026-09-11 05:16",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피 7051포인트, 33거래일 만에 7천선 회복…AI 반도체가 고유가 악재 상쇄",
-      "display_title": "코스피 7051포인트, 33거래일 만에 7천선 회복…AI 반도체가 고유가 악재 상쇄",
-      "original_title": "코스피 7051, 33거래일 만에 ‘7천피’ 탈환…AI 반도체가 고유가 악재 눌렀다 - 지이코노미",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락",
+      "display_title": "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락",
+      "original_title": "Oil Above $100 and 10-Year Yield at 4.92% Push US Stocks Lower for Third Day - finance.biggo.com",
       "summary": [
-        "코스피 지수가 33거래일 만에 7000선을 회복하여 7051포인트로 마감하며 상승세를 기록했습니다.",
-        "국제 유가 상승이라는 악재에도 불구하고, 인공지능(AI) 반도체 관련 업종의 강력한 상승세가 시장을 견인하며 악재를 상쇄했습니다.",
-        "AI 반도체 섹터의 견조한 실적과 성장 기대감이 당분간 시장의 주요 상승 동력으로 작용할 것으로 예상됩니다."
+        "유가가 배럴당 100달러를 상회하고 미국 10년물 국채 금리가 4.92%까지 치솟으며 미국 증시가 사흘 연속 하락했습니다.",
+        "고유가와 고금리는 기업 수익성 악화와 소비 심리 위축을 야기하여 증시 하락 압력으로 작용합니다.",
+        "이러한 거시경제 환경은 국내 증시에도 투자 심리 위축과 외국인 자금 유출 가능성을 높여 주의가 요구됩니다."
       ],
-      "summary_text": "코스피 지수가 33거래일 만에 7000선을 회복하여 7051포인트로 마감하며 상승세를 기록했습니다. 국제 유가 상승이라는 악재에도 불구하고, 인공지능(AI) 반도체 관련 업종의 강력한 상승세가 시장을 견인하며 악재를 상쇄했습니다. AI 반도체 섹터의 견조한 실적과 성장 기대감이 당분간 시장의 주요 상승 동력으로 작용할 것으로 예상됩니다.",
-      "description": "코스피 지수가 7051포인트를 기록하며 33거래일 만에 7천선을 탈환했습니다. 이는 고유가 악재에도 불구하고 AI 반도체 관련주의 강세가 시장을 이끌었기 때문입니다.",
+      "summary_text": "유가가 배럴당 100달러를 상회하고 미국 10년물 국채 금리가 4.92%까지 치솟으며 미국 증시가 사흘 연속 하락했습니다. 고유가와 고금리는 기업 수익성 악화와 소비 심리 위축을 야기하여 증시 하락 압력으로 작용합니다. 이러한 거시경제 환경은 국내 증시에도 투자 심리 위축과 외국인 자금 유출 가능성을 높여 주의가 요구됩니다.",
+      "description": "국제 유가가 100달러를 넘어섰고 10년물 국채 금리가 4.92%에 도달하면서 미국 증시가 3거래일 연속 하락했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체",
+      "market_impact": "부정",
+      "related_sector": "전반적인 주식시장, 고성장 기술주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "이수페타시스"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 반도체 산업의 강력한 성장은 국내 증시의 핵심 동력이며, 관련 기술 선도 기업들에 대한 지속적인 관심이 필요합니다.",
-      "key_signal": "AI 반도체 기업들의 신규 수주 및 기술 개발 소식과 더불어 글로벌 기술 기업들의 투자 동향을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 시장의 핵심 지표인 유가와 국채 금리의 급등은 국내 증시의 투자 환경을 악화시키는 주요 요인입니다.",
+      "key_signal": "미국 10년물 국채 금리의 추가 상승 여부와 유가 변동성을 핵심 지표로 삼아 시장 움직임을 주시해야 합니다.",
       "keywords": [
-        "코스피",
-        "AI 반도체",
-        "7000선",
-        "고유가",
-        "성장 동력"
+        "유가 100달러",
+        "10년물 국채 금리",
+        "미국 증시 하락",
+        "고금리",
+        "고유가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0waU5DaVItbXpNSlZUcVRFbTVPWGdFNDNWQ2JiWXVDd1NtUkNXUUZ0UjJvTTVFOWRWLVJQMnR3QXJsbjNqR3JEckpzSHkyYmNyQVBJNGN4ZVlZeE1Rd0NMYm55a2ZUc00?oc=5",
-      "published": "2026-09-10 04:53",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hNkd0akRhZ0xVV2xrZW91X1ZyTnZKQjg3VlFmWkg0aDUxSUl0bm56bjVGNFRoQms3aWFUOWxQU2JLLXR1c2k1SnVwUEtzeHJZaXpOMkhDbUZvWnpzelV0VVRhdjEwT3d0U3F4SWo0ajZQQS1BVVE?oc=5",
+      "published": "2026-09-11 03:23",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -153,37 +150,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우 405포인트, 나스닥 168포인트, S&P 500 37포인트 하락",
-      "display_title": "다우 405포인트, 나스닥 168포인트, S&P 500 37포인트 하락",
-      "original_title": "Dow Drops 405, Nasdaq Loses 168, S&P 500 Falls 37 - TV News Check",
+      "title": "시장 혼란: 유가 상승 및 연준 금리 인상 우려로 월스트리트 흔들",
+      "display_title": "시장 혼란: 유가 상승 및 연준 금리 인상 우려로 월스트리트 흔들",
+      "original_title": "Market Turmoil: Rising Oil Prices and Fed Rate Hike Concerns Shake Wall Street - Devdiscourse",
       "summary": [
-        "미국 뉴욕 증시의 주요 3대 지수가 모두 큰 폭으로 하락 마감했습니다.",
-        "이는 투자 심리 위축과 거시경제적 불확실성 증대를 반영하는 것으로 보입니다.",
-        "글로벌 시장의 전반적인 약세 흐름에 대한 경계심을 유지해야 합니다."
+        "유가 상승과 연준의 추가 금리 인상 우려가 월스트리트를 강타하며 미국 주식시장의 불안감이 고조되고 있습니다.",
+        "높아지는 인플레이션 압력과 중앙은행의 긴축 정책 전망은 글로벌 유동성 축소로 이어질 수 있습니다.",
+        "글로벌 금융 시장의 불확실성 증가는 국내 증시 투자 심리에도 부정적인 영향을 미칠 수 있으므로 신중한 접근이 필요합니다."
       ],
-      "summary_text": "미국 뉴욕 증시의 주요 3대 지수가 모두 큰 폭으로 하락 마감했습니다. 이는 투자 심리 위축과 거시경제적 불확실성 증대를 반영하는 것으로 보입니다. 글로벌 시장의 전반적인 약세 흐름에 대한 경계심을 유지해야 합니다.",
-      "description": "다우존스 지수가 405포인트, 나스닥 지수가 168포인트, S&P 500 지수가 37포인트 하락하며 마감했습니다.",
+      "summary_text": "유가 상승과 연준의 추가 금리 인상 우려가 월스트리트를 강타하며 미국 주식시장의 불안감이 고조되고 있습니다. 높아지는 인플레이션 압력과 중앙은행의 긴축 정책 전망은 글로벌 유동성 축소로 이어질 수 있습니다. 글로벌 금융 시장의 불확실성 증가는 국내 증시 투자 심리에도 부정적인 영향을 미칠 수 있으므로 신중한 접근이 필요합니다.",
+      "description": "유가 상승과 연방준비제도(Fed)의 금리 인상 우려가 겹치면서 월스트리트가 혼란에 빠졌습니다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전반적 시장",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
+      "related_sector": "전반적인 주식시장, 금융, 에너지",
+      "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "미국 증시의 전반적인 하락세는 국내 증시에도 직간접적인 영향을 미칠 수 있어 투자 포트폴리오 점검이 필요합니다.",
-      "key_signal": "미국 증시의 하락 원인 분석과 향후 추가 하락 가능성에 대비해야 합니다.",
+      "investment_reason": "유가와 연준 금리 인상이라는 두 가지 핵심 변수가 글로벌 시장 불안을 심화시켜 국내 시장에도 직접적인 영향을 미칠 수 있습니다.",
+      "key_signal": "유가 추이 및 연준의 금리 결정 관련 발언에 집중하며 시장의 위험 회피 심리 변화를 주시해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "다우존스",
-        "나스닥",
-        "S&P 500",
-        "증시 하락"
+        "유가 상승",
+        "연준 금리 인상",
+        "월스트리트",
+        "시장 혼란",
+        "인플레이션 우려"
       ],
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWJ0VFNadkI2VUxZdUo0TVNlUUtZdnlQZFhQRGRXVHZYZVpvNURMS0NJX25aOVBNRk45TkpYYzRCRVdHN3Iyb24zWDJDN2ZSa1drRXVUNmVfYVdENzNtMi0zR0ZsQi1DMmJXZjJBd3U2aHdTdEc0VjdZWmJwS1dzdEdCclVfMkpNTkI4RThVUjNJdw?oc=5",
-      "published": "2026-09-10 05:29",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcU5wT3V6QUotSnNCRlUxVm9VSzZwcXZzWDlFbEFJZGtndGVuT0RhTEp6MTlwSUFDQTZjVm80RDRrZ20yZDVLY3N3Z0lIQmxWcjRQR1pMUHNWT0xrN0hZSEdINklEbVFvaWFqcFBxcjhPdmNiTnczNWxFWWQ3aWlFMUZONlZWQmpQekh6Tk1zRG9DNnFjYWJiMFlNUmJDeTBHRUpMWERGdzdZYjdxWDYtdGMzbFZ1c3BLdGJ2cXB2UWxYdWd3cURrX1pIbXRrbTNR0gHQAUFVX3lxTE9xTnBPdXpBSi1Kc0JGVTFWb1VLNnBxdnNYOUVsQUlka2d0ZW5PRGFMSnoxOXBJQUNBNmNWbzRENGtnbTJkNUtjc3dnSUhCbFZyNFBHWkxQc1ZPTGs3SFlIR0g2SURtUW9pYWpwUHFyOE92Y2JOdzM1bEVZZDdpaUUxRk42VlZCalB6SHpOTXNEb0M2cWNhYmIwWU1SYkN5MEdFSkxYREZ3N1liN3FYNi10YzNsVnVzcEt0YnZxcHZRbFh1Z3dxRGtfWkhtdGttM1E?oc=5",
+      "published": "2026-09-11 03:20",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -195,36 +188,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "KB증권, \"가계자금 증시 유입 둔화 조짐, 정기예금으로 이동\"",
-      "display_title": "KB증권, \"가계자금 증시 유입 둔화 조짐, 정기예금으로 이동\"",
-      "original_title": "KB증권 \"가계자금, 증시 유입 둔화 조짐…정기예금으로 이동\" - 매일경제 마켓",
+      "title": "한 달 만에 4000p 하락한 ‘롤러코스피’… 한은 “삼성전자·SK하이닉스 쏠림 및 레버리지 ETF 영향”",
+      "display_title": "한 달 만에 4000p 하락한 ‘롤러코스피’… 한은 “삼성전자·SK하이닉스 쏠림 및 레버리지 ETF 영향”",
+      "original_title": "한 달여 만에 4000p 빠진 ‘롤러코스피’… 한은 “삼전닉스 쏠림에 레버리지 ETF 탓” - 조선비즈 - Chosunbiz",
       "summary": [
-        "KB증권은 가계자금의 증시 유입 속도가 둔화되고 있으며, 상대적으로 안정적인 정기예금으로 이동하는 추세가 나타나고 있다고 분석했습니다.",
-        "이는 고금리 환경 지속과 증시의 불확실성이 맞물려 투자자들이 위험자산보다 안전자산을 선호하기 시작했음을 시사합니다.",
-        "개인 투자자 자금 이탈은 증시의 수급 불균형을 심화시키고 추가 하락 압력으로 작용할 수 있으므로 주의가 필요합니다."
+        "코스피 지수가 한 달여 만에 4000포인트 급락하며 '롤러코스터' 같은 변동성을 보였습니다.",
+        "한국은행은 삼성전자와 SK하이닉스 등 특정 종목 쏠림 현상과 레버리지 ETF의 영향이 컸다고 분석했습니다.",
+        "이는 국내 증시의 구조적인 취약점을 드러내는 것으로, 투자자들은 특정 섹터 쏠림 위험과 레버리지 투자에 대한 주의가 필요합니다."
       ],
-      "summary_text": "KB증권은 가계자금의 증시 유입 속도가 둔화되고 있으며, 상대적으로 안정적인 정기예금으로 이동하는 추세가 나타나고 있다고 분석했습니다. 이는 고금리 환경 지속과 증시의 불확실성이 맞물려 투자자들이 위험자산보다 안전자산을 선호하기 시작했음을 시사합니다. 개인 투자자 자금 이탈은 증시의 수급 불균형을 심화시키고 추가 하락 압력으로 작용할 수 있으므로 주의가 필요합니다.",
-      "description": "KB증권 분석에 따르면 가계자금의 증시 유입이 둔화되고 있으며, 고금리 정기예금 상품으로 자금이 이동하는 조짐이 보입니다.",
-      "category": "국내 거시경제",
-      "importance": 8,
+      "summary_text": "코스피 지수가 한 달여 만에 4000포인트 급락하며 '롤러코스터' 같은 변동성을 보였습니다. 한국은행은 삼성전자와 SK하이닉스 등 특정 종목 쏠림 현상과 레버리지 ETF의 영향이 컸다고 분석했습니다. 이는 국내 증시의 구조적인 취약점을 드러내는 것으로, 투자자들은 특정 섹터 쏠림 위험과 레버리지 투자에 대한 주의가 필요합니다.",
+      "description": "한 달여 만에 4000포인트가 하락하며 '롤러코스터' 장세를 보인 코스피에 대해 한국은행은 삼성전자와 SK하이닉스 쏠림 현상 및 레버리지 ETF가 원인이라고 진단했습니다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융",
+      "related_sector": "반도체, ETF",
       "related_stocks": [
-        "KB금융",
-        "신한지주"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "개인 투자자 자금 이탈은 국내 증시의 유동성 약화를 초래하여 주가 상승에 제약 요인이 될 수 있습니다.",
-      "key_signal": "국내 증시의 개인 투자자 순매수 동향과 시중 금리 추이를 지속적으로 확인해야 합니다.",
+      "investment_reason": "국내 증시의 높은 변동성과 구조적 문제를 보여주는 사례로, 특정 종목 쏠림 현상이 해소되지 않으면 시장 불안정이 지속될 수 있습니다.",
+      "key_signal": "삼성전자와 SK하이닉스 실적 및 주가 흐름, 그리고 레버리지 ETF 관련 규제 동향을 주시하며 포트폴리오 분산 전략을 고려해야 합니다.",
       "keywords": [
-        "가계 자금",
-        "증시 유동성",
-        "정기예금",
-        "고금리",
-        "개인 투자자"
+        "코스피",
+        "삼성전자",
+        "SK하이닉스",
+        "한국은행",
+        "레버리지 ETF"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rNTU3UERqb3RqcHdFa2RHb25qZlFmUHNPUE1GVmtFX3VldWZtUllMMGpJM0xWZXhXaHRsTjgxSXAxajUxQTZEUXJielRqYWctVHc?oc=5",
-      "published": "2026-09-10 08:29",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVFTTkJQZkxSbTF5OWdwRmNnSXZUR2xwZzBwR2hpclpMN29Cb0w5WGRoSVlhb1ZGb1JaVWZTNkxsdEQ1Zk80Z19iaHNnX1RNTEYtc3lkQTBpN3lvRWtLeVVNeVk5YnFWTGR3WVRaYXNFa1VhZTk0SnNQVzlwb2RzOXdxQlBIOU1UbjVFM0Jlbm9uMHRBZlBBNC1n0gGaAUFVX3lxTFAtUVNOQlBmTFJtMXk5Z3BGY2dJdlRHbHBnMHBHaGlyWkw3b0JvTDlYZGhJWWFvVkZvUlpVZlM2TGx0RDVmTzRnX2Joc2dfVE1MRi1zeWRBMGk3eW9Fa0t5VU15WTlicVZMZHdZVFphc0VrVWFlOTRKc1BXOXBvZHM5d3FCUEg5TVRuNUUzQmVub24wdEFmUEE0LWc?oc=5",
+      "published": "2026-09-10 12:03",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -233,41 +226,42 @@
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 배럴당 100달러 돌파로 S&P 500 하락 마감",
-      "display_title": "유가 배럴당 100달러 돌파로 S&P 500 하락 마감",
-      "original_title": "S&P 500 ends down as oil tops $100 per barrel - reuters.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[KFT 모닝 브리프] 2026.09.11 — 오늘 꼭 알아야 할 국내외 경제·시장 뉴스",
+      "display_title": "[KFT 모닝 브리프] 2026.09.11 — 오늘 꼭 알아야 할 국내외 경제·시장 뉴스",
+      "original_title": "[KFT 모닝 브리프] 2026.09.11 — 오늘 꼭 알아야 할 국내외 경제·시장 뉴스 - 한국금융신문",
       "summary": [
-        "국제 유가가 배럴당 100달러를 상회하며 강세를 보이자, 미국 S&P 500 지수가 하락 마감했습니다.",
-        "고유가는 기업의 생산 비용 증가와 소비자 물가 상승을 야기하며 전반적인 경제 활동에 부담을 줍니다.",
-        "에너지 관련 기업에는 긍정적일 수 있으나, 전반적인 시장에는 인플레이션 압력으로 작용할 수 있어 주의가 필요합니다."
+        "한국금융신문의 모닝 브리프는 미국 증시의 하락세, 유가 및 국채 금리 상승 등 최근 글로벌 경제의 주요 이슈들을 다룰 것으로 예상됩니다.",
+        "국내 시장에 미치는 영향 분석과 함께, 개인 투자자들이 주목해야 할 국내 경제 지표 및 기업 소식도 포함될 것입니다.",
+        "글로벌 불확실성이 커지는 시점에서 국내 시장에 미칠 영향을 파악하고, 이에 따른 투자 전략을 점검하는 데 활용해야 합니다."
       ],
-      "summary_text": "국제 유가가 배럴당 100달러를 상회하며 강세를 보이자, 미국 S&P 500 지수가 하락 마감했습니다. 고유가는 기업의 생산 비용 증가와 소비자 물가 상승을 야기하며 전반적인 경제 활동에 부담을 줍니다. 에너지 관련 기업에는 긍정적일 수 있으나, 전반적인 시장에는 인플레이션 압력으로 작용할 수 있어 주의가 필요합니다.",
-      "description": "국제 유가가 배럴당 100달러를 넘어서면서 S&P 500 지수가 하락 마감했습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "에너지",
+      "summary_text": "한국금융신문의 모닝 브리프는 미국 증시의 하락세, 유가 및 국채 금리 상승 등 최근 글로벌 경제의 주요 이슈들을 다룰 것으로 예상됩니다. 국내 시장에 미치는 영향 분석과 함께, 개인 투자자들이 주목해야 할 국내 경제 지표 및 기업 소식도 포함될 것입니다. 글로벌 불확실성이 커지는 시점에서 국내 시장에 미칠 영향을 파악하고, 이에 따른 투자 전략을 점검하는 데 활용해야 합니다.",
+      "description": "2026년 9월 11일자 한국금융신문의 모닝 브리프는 국내외 주요 경제 및 시장 뉴스를 정리하여 제공합니다.",
+      "category": "증시·금리",
+      "importance": 7,
+      "market_impact": "중립",
+      "related_sector": "전반적인 주식시장",
       "related_stocks": [
-        "대한항공",
-        "아시아나항공"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
-      "investment_view": "주의",
-      "investment_reason": "고유가는 인플레이션 압력을 가중시키고 각국 중앙은행의 긴축 정책을 유발하여 기업의 이익률과 경제 성장에 악영향을 줄 수 있습니다.",
-      "key_signal": "국제 유가의 추가 상승 여부와 유가 상승이 인플레이션 지표에 미치는 영향을 계속해서 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "국내외 주요 경제 및 시장 뉴스를 종합적으로 파악하여 투자 의사 결정을 내리는 데 필수적인 정보원입니다.",
+      "key_signal": "브리프에서 강조하는 국내외 주요 경제 지표, 정책 변화, 기업 이슈 등을 면밀히 검토하여 투자 판단에 활용해야 합니다.",
       "keywords": [
-        "고유가",
-        "S&P 500",
-        "유가 100달러",
-        "인플레이션",
-        "에너지"
+        "모닝 브리프",
+        "경제 뉴스",
+        "시장 동향",
+        "국내외 경제",
+        "투자 정보"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
-      "published": "2026-09-10 08:06",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EdEpWSDl0cGlrRFhmbWdqdEhoOTJ1ZVNlZGx4c1o1TWYwMVNEN2FGQzBZekhCdU9kUHBXM2NQNjgtcnZVRGlzUmI5SzZkNWkyckI4SW1scUZPRFo3MXEzMGlJeWJMWkhMTDZOUjF4UnhqOXdzSU1Oa0M5T2E?oc=5",
+      "published": "2026-09-11 07:26",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -276,69 +270,73 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "화학",
       "opinion": "관심",
-      "reason": "코스피 7000선 회복의 핵심 동력으로 언급된 반도체 산업의 지속적인 성장과 특히 AI 반도체 분야의 강력한 수요 증가가 기대됩니다.",
+      "reason": "국제 유가가 100달러를 돌파하며 에너지 관련 기업들의 실적 개선 기대감이 커지고 있습니다. SK이노베이션은 정유 및 화학 부문에서 유가 상승의 직접적인 영향을 받을 수 있어 면밀한 관찰이 필요합니다.",
       "check_points": [
-        "글로벌 반도체 수요 회복세 및 메모리 가격 동향",
-        "AI 반도체(HBM) 관련 기술 개발 및 생산 능력 확대",
-        "주요 고객사와의 협력 및 신규 수주 상황"
+        "국제 유가(WTI, 브렌트유) 추이",
+        "정제마진 변동성",
+        "OPEC+ 감산 정책"
       ],
       "related_news_titles": [
-        "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?",
-        "코스피 7051포인트, 33거래일 만에 7천선 회복…AI 반도체가 고유가 악재 상쇄"
+        "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
+        "시장 혼란: 유가 급등, 금리 인상 불안감 증폭",
+        "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "국내 증시의 상승세를 이끄는 주요 동력인 반도체 산업의 성장에 힘입어, 특히 AI 반도체(HBM) 시장에서의 선도적인 위치가 부각되고 있습니다.",
+      "opinion": "주의",
+      "reason": "국내 증시의 '쏠림 현상'의 핵심 종목으로, 글로벌 증시 전반의 하락세와 특히 고성장 기술주에 대한 투자 심리 위축은 삼성전자에 직접적인 영향을 미칠 수 있습니다. 반도체 업황 둔화 가능성도 동시에 관찰해야 합니다.",
       "check_points": [
-        "AI 반도체(HBM) 생산량 및 기술 경쟁력",
-        "메모리 반도체 시장의 가격 상승 여부",
-        "주요 글로벌 IT 기업들의 AI 투자 확대 추이"
+        "글로벌 기술주 지수 (나스닥) 동향",
+        "반도체 업황 지표 (메모리 가격 등)",
+        "환율 변동성"
       ],
       "related_news_titles": [
-        "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?",
-        "코스피 7051포인트, 33거래일 만에 7천선 회복…AI 반도체가 고유가 악재 상쇄"
+        "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
+        "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락",
+        "한 달 만에 4000p 하락한 ‘롤러코스피’… 한은 “삼성전자·SK하이닉스 쏠림 및 레버리지 ETF 영향”"
       ]
     },
     {
       "rank": 3,
-      "name": "S-Oil",
+      "name": "한국전력",
       "market": "KOSPI",
-      "sector": "에너지",
-      "opinion": "주의",
-      "reason": "유가가 배럴당 100달러를 돌파하며 인플레이션과 금리 상승 압박이 심화되는 상황은 경제 전반의 성장 둔화를 야기할 수 있으며, 이는 장기적으로 에너지 관련 기업의 수익성에도 부정적인 영향을 미칠 수 있어 모니터링이 필요합니다.",
+      "sector": "공공서비스",
+      "opinion": "중립",
+      "reason": "국제 유가 및 천연가스 가격 급등은 한국전력의 발전 원가 부담을 가중시키는 주요 요인입니다. 다만, 공공요금 인상 등 정부 정책의 변화 가능성 또한 함께 주목해야 합니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유 등)의 변동성 추이",
-        "정제 마진 및 유류세 등 정부 정책 변화",
-        "글로벌 경기 둔화에 따른 석유 제품 수요 변화"
+        "국제 에너지 가격 (유가, LNG) 추이",
+        "정부의 전기요금 정책 방향",
+        "환율 변동성"
       ],
       "related_news_titles": [
-        "유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 미국 증시 후퇴",
-        "유가 배럴당 100달러 돌파로 S&P 500 하락 마감"
+        "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
+        "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락"
       ]
     },
     {
       "rank": 4,
-      "name": "한미반도체",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "코스피 7000선 회복을 이끈 반도체 산업의 지속적인 성장이 국내 증시의 핵심 동력으로 언급되었으며, 특히 AI 반도체 생태계 내 주요 장비 기업으로서 수혜가 기대됩니다.",
+      "sector": "금융",
+      "opinion": "중립",
+      "reason": "연준의 금리 인상 전망 고조와 국채 금리 상승은 금융주의 순이자마진(NIM) 개선에 긍정적인 영향을 줄 수 있습니다. 하지만 경기 둔화 우려에 따른 대출 자산 건전성 악화 가능성 또한 동시에 관찰해야 합니다.",
       "check_points": [
-        "HBM 생산 관련 장비 수주 상황 및 공급망 이슈",
-        "글로벌 반도체 기업들의 시설 투자 확대 계획",
-        "경쟁사 대비 기술 및 가격 경쟁력 변화"
+        "한국은행의 기준금리 인상 기조",
+        "대출 연체율 및 건전성 지표",
+        "순이자마진(NIM) 추이"
       ],
       "related_news_titles": [
-        "코스피 7000선 회복, '1만피' 기대감까지... 반도체 효과인가?"
+        "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
+        "시장 혼란: 유가 상승 및 연준 금리 인상 우려로 월스트리트 흔들",
+        "[KFT 모닝 브리프] 2026.09.11 — 오늘 꼭 알아야 할 국내외 경제·시장 뉴스"
       ]
     }
   ],
