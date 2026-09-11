@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11 08:45",
-  "analysis_date": "2026-09-11",
+  "generated_at": "2026-09-12 08:54",
+  "analysis_date": "2026-09-12",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 고유가, 고금리 및 연준 금리 인상 우려가 미국 증시를 연일 하락시키며 경기 둔화 우려를 키우고 있습니다. 국내 증시 또한 특정 종목 쏠림과 높은 변동성으로 투자 심리가 위축되고 있습니다.",
-    "국내거시경제": "코스피 지수가 한 달여 만에 4000포인트 급락한 가운데, 한국은행은 삼성전자·SK하이닉스 쏠림 현상과 레버리지 ETF 영향을 주된 원인으로 분석했습니다. 해외발 불안정성 심화로 외국인 자금 유출 가능성 또한 높아지고 있습니다.",
-    "글로벌경제": "국제 유가가 배럴당 100달러를 돌파하고 미국 10년물 국채 금리가 4.92%까지 치솟으며 인플레이션 압박이 고조되고 있습니다. 연준의 추가 금리 인상 전망과 통화 긴축 기조 강화 우려로 글로벌 유동성 축소가 예상됩니다.",
-    "증시금리": "다우존스 등 미국 주요 증시가 사흘 연속 하락하며 전반적인 약세를 보였습니다. 고유가와 고금리는 기업 수익성 악화와 소비 심리 위축을 야기하여 증시 전반에 하방 압력으로 작용하고 있습니다.",
-    "부동산정책": "해당 없음",
-    "기업산업": "국내 증시에서는 삼성전자와 SK하이닉스 등 특정 종목으로의 자금 쏠림 현상이 지수 변동성 확대에 영향을 미쳤습니다.",
-    "오늘의투자시사점": "글로벌 고유가와 고금리 기조가 지속되며 증시 하방 압력이 커질 것으로 예상됩니다. 국내 증시는 특정 섹터 쏠림 위험과 레버리지 투자에 대한 주의가 필요하며, 위험 자산 회피 심리 강화에 대비해야 합니다.",
-    "오늘의한줄": "글로벌 고유가와 고금리 압박 속에 국내외 증시 변동성이 확대되고 있어 신중한 접근이 요구됩니다."
+    "총평": "글로벌 증시는 인플레이션과 금리 인상 압박 속에서도 역설적인 강세를 보였습니다. 국내에서는 K-콘텐츠 산업의 성장 잠재력이 부각된 반면, 부동산 규제 완화에 따른 전월세 시장 불안 가능성도 제기되었습니다.",
+    "국내거시경제": "K-IP 기반 K-콘텐츠 산업이 미래 수출 동력으로 부상하며 새로운 성장 모멘텀을 제시합니다. 다만, 부동산 정비사업 규제 완화가 전월세 시장 불안을 야기할 수 있다는 우려도 있어 정책 영향에 주의가 필요합니다.",
+    "글로벌경제": "강력한 인플레이션 데이터로 미국 연준의 금리 인상이 기정사실화되는 분위기입니다. 국제 유가는 배럴당 100달러를 돌파하며 글로벌 비용 압박이 가중되고 있습니다.",
+    "증시금리": "미국 증시는 강력한 인플레이션과 연준의 금리 인상 가능성에도 불구하고 S&P 500을 중심으로 견조한 흐름을 보였습니다. 이는 시장이 금리 인상을 이미 반영했거나 기업 실적에 더 주목하고 있음을 시사하지만, 고유가와 금리 상승 우려로 인한 일부 하락세도 관찰되었습니다.",
+    "부동산정책": "국내 정비사업 규제 완화가 전월세 시장 불안정으로 이어질 수 있다는 경고가 나왔습니다. 서민 주거 안정성에 대한 정책적 고려가 필요합니다.",
+    "기업산업": "K팝, 게임 등 K-IP 기반 K-콘텐츠 산업이 한국의 미래 수출 동력으로 주목받고 있습니다. 관련 미디어, 엔터테인먼트, 소프트웨어 기업의 장기 성장 잠재력에 관심을 기울일 필요가 있습니다.",
+    "오늘의투자시사점": "글로벌 증시의 인플레이션-금리 인상 역설을 이해하고, 국내에서는 K-콘텐츠 산업의 성장 잠재력과 부동산 시장의 정책 리스크를 종합적으로 고려해야 합니다. 시장 변동성에 대비한 포트폴리오 전략 점검이 중요합니다.",
+    "오늘의한줄": "인플레이션 압박 속 글로벌 증시의 역설적 강세와 K-콘텐츠의 부상, 그리고 국내 부동산 정책 리스크에 주목해야 할 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
-      "display_title": "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
-      "original_title": "LIVE | Dow Jones, Nasdaq, US Stock Market Today: Check Latest Move in Futures, Dow Jones Slips 400 Points as Oil Tops $100, Treasury Yields Hit and Fed Rate Hike Bets Rise | Why Are Stocks Down Today - The Sunday Guardian",
+      "title": "S&P 500, 강력한 인플레이션 데이터에도 불구하고 상승 마감, 금리 인상 베팅 강화",
+      "display_title": "S&P 500, 강력한 인플레이션 데이터에도 불구하고 상승 마감, 금리 인상 베팅 강화",
+      "original_title": "S&P 500 ends higher as strong inflation data cements rate-hike bets - Reuters",
       "summary": [
-        "미국 주요 지수인 다우존스가 400포인트 하락하며 전반적인 증시 약세를 보였습니다.",
-        "국제 유가가 배럴당 100달러를 돌파하고 국채 금리가 상승하며 인플레이션 압박과 연준의 추가 금리 인상 우려가 커졌습니다.",
-        "높아진 시장 불안정성으로 인해 투자자들은 위험 자산 회피 심리를 강화하고 경기 둔화 가능성에 대비해야 합니다."
+        "강력한 인플레이션 데이터로 연준의 금리 인상 베팅이 굳어졌지만, S&P 500 지수는 상승 마감했습니다.",
+        "이는 투자자들이 높은 인플레이션에도 불구하고 기업의 수익성이 유지될 것으로 기대하거나, 이미 금리 인상 가능성을 시장에 반영했을 수 있음을 나타냅니다.",
+        "인플레이션과 금리 인상이라는 악재 속에서도 증시가 상승하는 역설적 상황을 이해하고 포트폴리오 전략을 재점검해야 합니다."
       ],
-      "summary_text": "미국 주요 지수인 다우존스가 400포인트 하락하며 전반적인 증시 약세를 보였습니다. 국제 유가가 배럴당 100달러를 돌파하고 국채 금리가 상승하며 인플레이션 압박과 연준의 추가 금리 인상 우려가 커졌습니다. 높아진 시장 불안정성으로 인해 투자자들은 위험 자산 회피 심리를 강화하고 경기 둔화 가능성에 대비해야 합니다.",
-      "description": "다우존스 지수가 400포인트 하락했으며, 유가가 100달러를 넘어섰고, 국채 금리가 상승하며 연준의 금리 인상 가능성에 대한 전망이 높아졌습니다.",
+      "summary_text": "강력한 인플레이션 데이터로 연준의 금리 인상 베팅이 굳어졌지만, S&P 500 지수는 상승 마감했습니다. 이는 투자자들이 높은 인플레이션에도 불구하고 기업의 수익성이 유지될 것으로 기대하거나, 이미 금리 인상 가능성을 시장에 반영했을 수 있음을 나타냅니다. 인플레이션과 금리 인상이라는 악재 속에서도 증시가 상승하는 역설적 상황을 이해하고 포트폴리오 전략을 재점검해야 합니다.",
+      "description": "강력한 인플레이션 데이터로 인해 연준의 금리 인상 가능성이 더욱 확실해졌음에도 불구하고 S&P 500 지수가 상승 마감했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "기술주, 성장주, 에너지",
+      "market_impact": "중립",
+      "related_sector": "글로벌 증시, 금리 민감주",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 증시의 하락 요인이 글로벌 시장에 영향을 미치므로 국내 증시에도 부정적인 파급 효과가 예상됩니다.",
-      "key_signal": "유가, 국채 금리, 연준의 통화 정책 스탠스를 지속적으로 확인하여 시장 변동성에 대비해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국의 인플레이션 및 금리 정책은 글로벌 유동성과 투자 심리에 직접적인 영향을 미쳐 한국 증시에도 파급효과를 줍니다.",
+      "key_signal": "연준의 다음 FOMC 회의 결과와 인플레이션 관련 경제 지표 발표를 주시하여 시장의 추가 반응을 예측해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "유가 상승",
-        "국채 금리",
-        "연준 금리인상",
-        "인플레이션"
+        "S&P500",
+        "인플레이션",
+        "금리인상",
+        "연준",
+        "증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNOEVlYktWcTVVb2pyLUladHFmSVhBbWNQa1hsQ0FUWG1SZEI3eGstUFRLWm5oWmh3VjFIYm84NElEZmhiTWxZaTR4bUJpb3duYlBweHNRejZ4UW43aFdqX2h6bUxEMHg4RWdQRmJvWVBWb1hrcU1GS0MtNVo2Vm53Rk1KN2JuMHowRnIySW5Tb0tHSDNWdzFKdWdMMHUwZFAtSzhDRFQwNVFHWmI5V2RCeGJEdWVFWk81TVB2cGR6VGlOUUlpQUcyQ29ENlBiekdRT1YwMnlaV2RsZDFnS3NuQ1RxZEF6bnMwZGhNMlc1MUFRd2FXZEIyRHRtcktaXzlDTkZZLV9SU05kams0c3pZR0xmb2VkbTZCRlJXZVQwNXNadUZpYzlNZWlSZFFsSUpaelQyVVljcWR6cEUtWTlObFhCNm1lbmw3aGdDalV6cHpzUVhDSG00WtIB3gJBVV95cUxOMUtNQnA2Z2wxRUdTaEhDLTFXRlVhb0xTWDdBWDFwRGtnbktfNy04SDl6R1RfZFN3dUhxM3ppNkhYOVFoVW1GcnNxaHFEUUl4TktRNDVNTFRuaGV6WVhzT3dtb1ZSbzZHWVN1Z1JkQTVTOGFZT3VadDhiVDhLemU3eDJzSDc0Vm1yRDh6Y0FGQVZjZ0x2Q3RHdUVVVDJNYUZFMXVaTmRQV1p1d00wM3Mzdm5fSmRwUzFlYkk5TzNlY3hPaEpJTGpiODRhM3V0MmNSRk9vcHE1VWdvX3hPQldIQWhhOWNMWjBnNTVqTWxhSWwydjdTS3pld1VjSGFIMmFZRHdUM1l5bnI4S2xPQ3BRZkY5ZEFmMUZPWWktSU1kcUEtLW13emx4TE91U0NRRGtra3cwV3BGdHZHZTVja2ZSZ3dQZkd3Mnd3b1NFOHFCN3ZwWllEd1hvR2lGV1AzQQ?oc=5",
-      "published": "2026-09-11 04:53",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
+      "published": "2026-09-12 08:19",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,33 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "시장 혼란: 유가 급등, 금리 인상 불안감 증폭",
-      "display_title": "시장 혼란: 유가 급등, 금리 인상 불안감 증폭",
-      "original_title": "Market Turmoil: Oil Surge Raises Interest Rate Jitters - Devdiscourse",
+      "title": "오늘 미국 증시: 유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 주식 하락",
+      "display_title": "오늘 미국 증시: 유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 주식 하락",
+      "original_title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data - The Economic Times",
       "summary": [
-        "국제 유가 급등이 시장 혼란을 야기하며 투자자들 사이에 금리 인상에 대한 불안감이 확산되고 있습니다.",
-        "고유가는 생산 비용 증가와 소비자 물가 상승으로 이어져 인플레이션 압력을 가중시키고 통화 긴축 기조를 강화할 수 있습니다.",
-        "유가 상승이 지속될 경우 글로벌 경기 둔화 우려와 함께 주식 시장 전반에 하방 압력으로 작용할 수 있습니다."
+        "국제 유가가 배럴당 100달러를 돌파하고 채권 수익률이 상승하면서 미국 증시가 하락 마감했습니다.",
+        "이는 고유가와 채권 수익률 상승이 기업 비용 증가 및 소비 위축으로 이어질 수 있다는 우려를 반영합니다.",
+        "투자자들은 에너지 가격 변동성, 채권 수익률 추이, 그리고 곧 발표될 인플레이션 데이터에 주목하여 시장 방향성을 예측해야 합니다."
       ],
-      "summary_text": "국제 유가 급등이 시장 혼란을 야기하며 투자자들 사이에 금리 인상에 대한 불안감이 확산되고 있습니다. 고유가는 생산 비용 증가와 소비자 물가 상승으로 이어져 인플레이션 압력을 가중시키고 통화 긴축 기조를 강화할 수 있습니다. 유가 상승이 지속될 경우 글로벌 경기 둔화 우려와 함께 주식 시장 전반에 하방 압력으로 작용할 수 있습니다.",
-      "description": "유가 급등으로 인해 시장 혼란이 가중되고 있으며, 금리 인상에 대한 불안감이 증폭되고 있습니다.",
+      "summary_text": "국제 유가가 배럴당 100달러를 돌파하고 채권 수익률이 상승하면서 미국 증시가 하락 마감했습니다. 이는 고유가와 채권 수익률 상승이 기업 비용 증가 및 소비 위축으로 이어질 수 있다는 우려를 반영합니다. 투자자들은 에너지 가격 변동성, 채권 수익률 추이, 그리고 곧 발표될 인플레이션 데이터에 주목하여 시장 방향성을 예측해야 합니다.",
+      "description": "유가가 배럴당 100달러를 넘어서고 인플레이션 데이터 발표를 앞두고 채권 수익률이 상승하면서 미국 증시가 후퇴했습니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "에너지, 화학, 항공, 해운",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "유가 상승은 기업의 비용 부담을 증가시키고 소비를 위축시켜 경제 전반에 부정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "국제 유가 변동성 및 이에 따른 각국 중앙은행의 통화 정책 변화를 면밀히 관찰해야 합니다.",
-      "keywords": [
-        "유가 급등",
-        "금리 인상",
-        "시장 혼란",
-        "인플레이션",
-        "통화 긴축"
+      "related_sector": "에너지, 원자재, 글로벌 증시",
+      "related_stocks": [
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm5uZ1c3TV96RkRTVktVbGFhUmwtLVFaV3hVb1JiZ2FzWDd6Z0RZOG84RjhLWUo1Tng5S1M3ZFpkeFZSNVdtR3dCaDZWSjFhc01FbE84cVE5NzlGNHgwUFdrSjdDazVjdUxGNlBPa3c4MzNpOFZWb3Boa2NCNUpJaTJCZm1MWDJfYmZQVTF0TnBvZVhRMlpJTG9jbW9TRGFyRFZBdmF1VmN4TXQxb0pMTtIBsAFBVV95cUxNbm5uZ1c3TV96RkRTVktVbGFhUmwtLVFaV3hVb1JiZ2FzWDd6Z0RZOG84RjhLWUo1Tng5S1M3ZFpkeFZSNVdtR3dCaDZWSjFhc01FbE84cVE5NzlGNHgwUFdrSjdDazVjdUxGNlBPa3c4MzNpOFZWb3Boa2NCNUpJaTJCZm1MWDJfYmZQVTF0TnBvZVhRMlpJTG9jbW9TRGFyRFZBdmF1VmN4TXQxb0pMTg?oc=5",
-      "published": "2026-09-11 05:16",
+      "investment_view": "주의",
+      "investment_reason": "고유가와 채권 금리 상승은 글로벌 경제 성장 둔화와 기업 실적 악화 우려를 심화시켜 국내 증시에도 부정적인 영향을 미칠 수 있습니다.",
+      "key_signal": "국제 유가 움직임, 미국 장기 채권 금리 변화, 그리고 곧 발표될 핵심 인플레이션 지표를 최우선으로 모니터링해야 합니다.",
+      "keywords": [
+        "유가",
+        "채권금리",
+        "인플레이션",
+        "미국증시",
+        "원자재"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcjE3eGlYTzZnbDBrQ0VDRlpCekUxVWxsdWU1bGdtcFNKRmlnRjEyT0QtTzNaQXY5N2FJdEJXMUxaRVJNaFlsQ3V2amxTcFRMellYQUVrY0RLVXNEczM5TS1YUmRPTFNaMklPN1hNRWFNREk5cFkxMDVWQjB6ZUFRYWUySTBsQXJCX2FERGI3MXd3eVdMV1UyenlWSmJJektPS3FKNXJnQkFkOEJYY2phejk3YVQzVHhvOE5MNUkxWUYyclEtbEp5cXdyZTBXNDFzNGF1X2tERUczVjJFN0dNWEZFTmRrVjVvdktKSl8ydnRPMklUbnB6ZlFpUkJ1Q3V5MEJfaTdLTTV1UdIBjwJBVV95cUxQSVdvekJMUkZtQWlkbVZtM0IzQVgtaEU5MTVxQkxINjFJODJSTlFUZmRFTmc1aXdwajRiUlZYYi1lY0tSQ1JKYUtpd05uVGlEaHFfSVVDejBaN25IZjRnQ1AwRXVYYkFEeGw5MlhwSG10S2oyWTEycnFTODZzVE5KS3lzSUdwbTYxempBUmVVRDYtMWRHVk93MW1XUjRDajRTUnJpaGVuY2hrUFVySlNSUm5XYVUzUjhOQ21IM0pPUTlMZGdNWkJnWUstMFlmTjdKRmkwRnJYWU5xQk1nUjBqcGJLM2VYcUtQT2tNbGVTRDg5Z1piQnlsOFNCNHZmT3BzWFBwLWN3ZDFyUEtyc1Mw?oc=5",
+      "published": "2026-09-12 03:36",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -105,42 +109,42 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락",
-      "display_title": "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락",
-      "original_title": "Oil Above $100 and 10-Year Yield at 4.92% Push US Stocks Lower for Third Day - finance.biggo.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[특집/ 차세대 산업 시리즈] “반도체 다음은 K-IP”…콘텐츠·K컬처, 한국 수출 지도 바꾼다",
+      "display_title": "[특집/ 차세대 산업 시리즈] “반도체 다음은 K-IP”…콘텐츠·K컬처, 한국 수출 지도 바꾼다",
+      "original_title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.12 콘텐츠·K컬처] “반도체 다음은 K-IP”…K팝·게임·OTT·웹툰·AI 콘텐츠, 한국 수출지도 바꾼다 - 코리아포스트 한글판",
       "summary": [
-        "유가가 배럴당 100달러를 상회하고 미국 10년물 국채 금리가 4.92%까지 치솟으며 미국 증시가 사흘 연속 하락했습니다.",
-        "고유가와 고금리는 기업 수익성 악화와 소비 심리 위축을 야기하여 증시 하락 압력으로 작용합니다.",
-        "이러한 거시경제 환경은 국내 증시에도 투자 심리 위축과 외국인 자금 유출 가능성을 높여 주의가 요구됩니다."
+        "K팝, 게임, OTT, 웹툰, AI 콘텐츠 등 K-IP(지식재산권) 기반 K-콘텐츠 산업이 한국의 미래 수출을 이끌 핵심 동력으로 주목받고 있습니다.",
+        "이는 과거 반도체가 주도했던 수출 구조가 문화 콘텐츠로 확장될 가능성을 시사하며, 관련 산업의 성장 잠재력이 높다는 분석입니다.",
+        "투자자들은 미디어, 엔터테인먼트, 소프트웨어 등 K-콘텐츠 관련 기업들의 장기적인 성장 가능성에 주목하여 투자 기회를 모색할 필요가 있습니다."
       ],
-      "summary_text": "유가가 배럴당 100달러를 상회하고 미국 10년물 국채 금리가 4.92%까지 치솟으며 미국 증시가 사흘 연속 하락했습니다. 고유가와 고금리는 기업 수익성 악화와 소비 심리 위축을 야기하여 증시 하락 압력으로 작용합니다. 이러한 거시경제 환경은 국내 증시에도 투자 심리 위축과 외국인 자금 유출 가능성을 높여 주의가 요구됩니다.",
-      "description": "국제 유가가 100달러를 넘어섰고 10년물 국채 금리가 4.92%에 도달하면서 미국 증시가 3거래일 연속 하락했습니다.",
-      "category": "증시·금리",
+      "summary_text": "K팝, 게임, OTT, 웹툰, AI 콘텐츠 등 K-IP(지식재산권) 기반 K-콘텐츠 산업이 한국의 미래 수출을 이끌 핵심 동력으로 주목받고 있습니다. 이는 과거 반도체가 주도했던 수출 구조가 문화 콘텐츠로 확장될 가능성을 시사하며, 관련 산업의 성장 잠재력이 높다는 분석입니다. 투자자들은 미디어, 엔터테인먼트, 소프트웨어 등 K-콘텐츠 관련 기업들의 장기적인 성장 가능성에 주목하여 투자 기회를 모색할 필요가 있습니다.",
+      "description": "한국 수출의 차세대 동력으로 K-콘텐츠, K-컬처, K-IP가 부상하며 K팝, 게임, OTT, 웹툰, AI 콘텐츠 등이 한국의 수출 구조를 변화시킬 것으로 전망됩니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전반적인 주식시장, 고성장 기술주",
+      "market_impact": "긍정",
+      "related_sector": "미디어 콘텐츠, 엔터테인먼트, 게임, 소프트웨어",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "하이브",
+        "JYP Ent.",
+        "CJ ENM"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 시장의 핵심 지표인 유가와 국채 금리의 급등은 국내 증시의 투자 환경을 악화시키는 주요 요인입니다.",
-      "key_signal": "미국 10년물 국채 금리의 추가 상승 여부와 유가 변동성을 핵심 지표로 삼아 시장 움직임을 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "K-IP를 기반으로 한 K-콘텐츠는 한국의 새로운 수출 동력이자 고부가가치 산업으로, 장기적인 성장과 기업 가치 상승을 기대할 수 있습니다.",
+      "key_signal": "K-콘텐츠 기업들의 해외 시장 진출 성과, 신규 IP 개발 현황, 그리고 AI 기술 접목을 통한 콘텐츠 확장 가능성을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "유가 100달러",
-        "10년물 국채 금리",
-        "미국 증시 하락",
-        "고금리",
-        "고유가"
+        "K-콘텐츠",
+        "K-IP",
+        "수출",
+        "엔터테인먼트",
+        "AI"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hNkd0akRhZ0xVV2xrZW91X1ZyTnZKQjg3VlFmWkg0aDUxSUl0bm56bjVGNFRoQms3aWFUOWxQU2JLLXR1c2k1SnVwUEtzeHJZaXpOMkhDbUZvWnpzelV0VVRhdjEwT3d0U3F4SWo0ajZQQS1BVVE?oc=5",
-      "published": "2026-09-11 03:23",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJcW9FdDZMa3FYWV8wS2E5NGx5b0dIM0JZMzE0eFVpTlpEd2VMYUN1dnhKNGJZMVlvMVgtam1zcUJpcDlVc0o5OXBqX2hZWVNPaVhTcl9kMWJsekZYX2taaHk0MFJ5YlVSYWE5c0VR?oc=5",
+      "published": "2026-09-12 08:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -150,33 +154,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "시장 혼란: 유가 상승 및 연준 금리 인상 우려로 월스트리트 흔들",
-      "display_title": "시장 혼란: 유가 상승 및 연준 금리 인상 우려로 월스트리트 흔들",
-      "original_title": "Market Turmoil: Rising Oil Prices and Fed Rate Hike Concerns Shake Wall Street - Devdiscourse",
+      "title": "미국 증시 상승 마감: 강력한 인플레이션 데이터로 다음 주 연준 금리 인상 거의 확실",
+      "display_title": "미국 증시 상승 마감: 강력한 인플레이션 데이터로 다음 주 연준 금리 인상 거의 확실",
+      "original_title": "Stocks end higher even though hot U.S. inflation data means Fed rate hike next week is ‘close to a slam dunk’ - The Globe and Mail",
       "summary": [
-        "유가 상승과 연준의 추가 금리 인상 우려가 월스트리트를 강타하며 미국 주식시장의 불안감이 고조되고 있습니다.",
-        "높아지는 인플레이션 압력과 중앙은행의 긴축 정책 전망은 글로벌 유동성 축소로 이어질 수 있습니다.",
-        "글로벌 금융 시장의 불확실성 증가는 국내 증시 투자 심리에도 부정적인 영향을 미칠 수 있으므로 신중한 접근이 필요합니다."
+        "강력한 미국 인플레이션 데이터가 다음 주 연준의 금리 인상을 거의 확정지었음에도 불구하고 미국 증시가 상승 마감했습니다.",
+        "이는 시장이 이미 금리 인상 가능성을 충분히 반영했거나, 인플레이션 압력에도 불구하고 기업 실적 개선 등 긍정적 요인에 더 집중하고 있음을 보여줍니다.",
+        "투자자는 금리 인상이 확실시되는 상황에서 증시의 역설적인 강세 원인을 분석하고, 향후 시장의 변동성에 대비하는 전략을 수립해야 합니다."
       ],
-      "summary_text": "유가 상승과 연준의 추가 금리 인상 우려가 월스트리트를 강타하며 미국 주식시장의 불안감이 고조되고 있습니다. 높아지는 인플레이션 압력과 중앙은행의 긴축 정책 전망은 글로벌 유동성 축소로 이어질 수 있습니다. 글로벌 금융 시장의 불확실성 증가는 국내 증시 투자 심리에도 부정적인 영향을 미칠 수 있으므로 신중한 접근이 필요합니다.",
-      "description": "유가 상승과 연방준비제도(Fed)의 금리 인상 우려가 겹치면서 월스트리트가 혼란에 빠졌습니다.",
+      "summary_text": "강력한 미국 인플레이션 데이터가 다음 주 연준의 금리 인상을 거의 확정지었음에도 불구하고 미국 증시가 상승 마감했습니다. 이는 시장이 이미 금리 인상 가능성을 충분히 반영했거나, 인플레이션 압력에도 불구하고 기업 실적 개선 등 긍정적 요인에 더 집중하고 있음을 보여줍니다. 투자자는 금리 인상이 확실시되는 상황에서 증시의 역설적인 강세 원인을 분석하고, 향후 시장의 변동성에 대비하는 전략을 수립해야 합니다.",
+      "description": "강력한 미국 인플레이션 데이터로 인해 다음 주 연방준비제도(Fed)의 금리 인상이 거의 확실해졌음에도 불구하고 주식 시장은 상승 마감했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전반적인 주식시장, 금융, 에너지",
+      "market_impact": "중립",
+      "related_sector": "글로벌 증시, 금리 민감주",
       "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "유가와 연준 금리 인상이라는 두 가지 핵심 변수가 글로벌 시장 불안을 심화시켜 국내 시장에도 직접적인 영향을 미칠 수 있습니다.",
-      "key_signal": "유가 추이 및 연준의 금리 결정 관련 발언에 집중하며 시장의 위험 회피 심리 변화를 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "연준의 확실시되는 금리 인상에도 불구하고 증시가 상승하는 글로벌 동향은 한국 시장의 투자 심리에도 복합적인 영향을 미치므로 원인 분석이 필수적입니다.",
+      "key_signal": "다음 주 연준의 금리 인상 폭과 연준의 향후 경제 전망 발표를 주시하며, 시장이 이 소식을 어떻게 추가적으로 소화할지 지켜봐야 합니다.",
       "keywords": [
-        "유가 상승",
-        "연준 금리 인상",
-        "월스트리트",
-        "시장 혼란",
-        "인플레이션 우려"
+        "미국증시",
+        "인플레이션",
+        "연준",
+        "금리인상",
+        "시장반응"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcU5wT3V6QUotSnNCRlUxVm9VSzZwcXZzWDlFbEFJZGtndGVuT0RhTEp6MTlwSUFDQTZjVm80RDRrZ20yZDVLY3N3Z0lIQmxWcjRQR1pMUHNWT0xrN0hZSEdINklEbVFvaWFqcFBxcjhPdmNiTnczNWxFWWQ3aWlFMUZONlZWQmpQekh6Tk1zRG9DNnFjYWJiMFlNUmJDeTBHRUpMWERGdzdZYjdxWDYtdGMzbFZ1c3BLdGJ2cXB2UWxYdWd3cURrX1pIbXRrbTNR0gHQAUFVX3lxTE9xTnBPdXpBSi1Kc0JGVTFWb1VLNnBxdnNYOUVsQUlka2d0ZW5PRGFMSnoxOXBJQUNBNmNWbzRENGtnbTJkNUtjc3dnSUhCbFZyNFBHWkxQc1ZPTGs3SFlIR0g2SURtUW9pYWpwUHFyOE92Y2JOdzM1bEVZZDdpaUUxRk42VlZCalB6SHpOTXNEb0M2cWNhYmIwWU1SYkN5MEdFSkxYREZ3N1liN3FYNi10YzNsVnVzcEt0YnZxcHZRbFh1Z3dxRGtfWkhtdGttM1E?oc=5",
-      "published": "2026-09-11 03:20",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQXVXckQzMFllSkNSMGFwZEVyaGVQRS1oUHIxU3hlbEQ1QUcxZnpJN3F3aFh5TVA4OF8yVTY0c1MzUzJpYjl0eUFyWV9DWG9MdW9SZjQyaFpkUURlQ3ppVEk5QWgtd20xRWx4MUxmQmZ0UjRIeEhMdjYyblBVRTl5QXFCQzdCLWtLcjJjbEt2OG5GZ290QXFuOEI5RndBNkYwRmZTbl9kVGkyRElhUzNjblduNVRIeWw3cno1MkdmZEFSMEJEVHFicXZ3S2o3R2Z1QlNQTzZQcFZKZER2SGhMNE1jYW1PRDRjaDgwOUxmUEk?oc=5",
+      "published": "2026-09-11 18:15",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -185,41 +189,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "한 달 만에 4000p 하락한 ‘롤러코스피’… 한은 “삼성전자·SK하이닉스 쏠림 및 레버리지 ETF 영향”",
-      "display_title": "한 달 만에 4000p 하락한 ‘롤러코스피’… 한은 “삼성전자·SK하이닉스 쏠림 및 레버리지 ETF 영향”",
-      "original_title": "한 달여 만에 4000p 빠진 ‘롤러코스피’… 한은 “삼전닉스 쏠림에 레버리지 ETF 탓” - 조선비즈 - Chosunbiz",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "S&P500 전망: 연준 금리 인상 기대에도 불구하고 SPX 상승",
+      "display_title": "S&P500 전망: 연준 금리 인상 기대에도 불구하고 SPX 상승",
+      "original_title": "S&P500 Forecast: SPX rises despite rising Fed rate hike expectations - FOREX.com",
       "summary": [
-        "코스피 지수가 한 달여 만에 4000포인트 급락하며 '롤러코스터' 같은 변동성을 보였습니다.",
-        "한국은행은 삼성전자와 SK하이닉스 등 특정 종목 쏠림 현상과 레버리지 ETF의 영향이 컸다고 분석했습니다.",
-        "이는 국내 증시의 구조적인 취약점을 드러내는 것으로, 투자자들은 특정 섹터 쏠림 위험과 레버리지 투자에 대한 주의가 필요합니다."
+        "미국 S&P500 지수가 연방준비제도(Fed)의 금리 인상 기대에도 불구하고 상승세를 보였습니다.",
+        "이는 시장이 강한 경제 지표와 기업 실적에 더 주목하며 금리 인상 영향을 상쇄하고 있음을 시사합니다.",
+        "투자자는 금리 인상 가속화 가능성과 함께 견조한 기업 실적 전망을 동시에 고려해야 합니다."
       ],
-      "summary_text": "코스피 지수가 한 달여 만에 4000포인트 급락하며 '롤러코스터' 같은 변동성을 보였습니다. 한국은행은 삼성전자와 SK하이닉스 등 특정 종목 쏠림 현상과 레버리지 ETF의 영향이 컸다고 분석했습니다. 이는 국내 증시의 구조적인 취약점을 드러내는 것으로, 투자자들은 특정 섹터 쏠림 위험과 레버리지 투자에 대한 주의가 필요합니다.",
-      "description": "한 달여 만에 4000포인트가 하락하며 '롤러코스터' 장세를 보인 코스피에 대해 한국은행은 삼성전자와 SK하이닉스 쏠림 현상 및 레버리지 ETF가 원인이라고 진단했습니다.",
+      "summary_text": "미국 S&P500 지수가 연방준비제도(Fed)의 금리 인상 기대에도 불구하고 상승세를 보였습니다. 이는 시장이 강한 경제 지표와 기업 실적에 더 주목하며 금리 인상 영향을 상쇄하고 있음을 시사합니다. 투자자는 금리 인상 가속화 가능성과 함께 견조한 기업 실적 전망을 동시에 고려해야 합니다.",
+      "description": "연방준비제도(Fed)의 금리 인상 기대감이 높아지는 상황에서도 S&P500 지수가 상승하는 현상에 대한 전망입니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "반도체, ETF",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "글로벌 증시, 금리 민감주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "국내 증시의 높은 변동성과 구조적 문제를 보여주는 사례로, 특정 종목 쏠림 현상이 해소되지 않으면 시장 불안정이 지속될 수 있습니다.",
-      "key_signal": "삼성전자와 SK하이닉스 실적 및 주가 흐름, 그리고 레버리지 ETF 관련 규제 동향을 주시하며 포트폴리오 분산 전략을 고려해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 증시와 통화정책 방향은 한국 증시 및 투자 심리에 큰 영향을 미치므로 주요 변동성을 이해하는 것이 중요합니다.",
+      "key_signal": "연준의 향후 통화정책 발표와 기업 실적 시즌 진행 상황을 면밀히 주시해야 합니다.",
       "keywords": [
-        "코스피",
-        "삼성전자",
-        "SK하이닉스",
-        "한국은행",
-        "레버리지 ETF"
+        "S&P500",
+        "금리인상",
+        "연준",
+        "증시상승",
+        "시장심리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVFTTkJQZkxSbTF5OWdwRmNnSXZUR2xwZzBwR2hpclpMN29Cb0w5WGRoSVlhb1ZGb1JaVWZTNkxsdEQ1Zk80Z19iaHNnX1RNTEYtc3lkQTBpN3lvRWtLeVVNeVk5YnFWTGR3WVRaYXNFa1VhZTk0SnNQVzlwb2RzOXdxQlBIOU1UbjVFM0Jlbm9uMHRBZlBBNC1n0gGaAUFVX3lxTFAtUVNOQlBmTFJtMXk5Z3BGY2dJdlRHbHBnMHBHaGlyWkw3b0JvTDlYZGhJWWFvVkZvUlpVZlM2TGx0RDVmTzRnX2Joc2dfVE1MRi1zeWRBMGk3eW9Fa0t5VU15WTlicVZMZHdZVFphc0VrVWFlOTRKc1BXOXBvZHM5d3FCUEg5TVRuNUUzQmVub24wdEFmUEE0LWc?oc=5",
-      "published": "2026-09-10 12:03",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVg1VlQ2ZkIySWY5R1ozV2ZZTVZzaW9DZEZhRUV1R0Rrb2NQX0lsNDBoa2pCMWt5b1dVM1dPcHNUSUY0aXJtcW96TWRreUVuSU9rX0VFOUV1TmlNS3RFU3VfaHNWSmVqbFdYclE5M3ZNTkkydGNUWkd4ZXNKVUFJdnppSVhwZ3hoNkU3Z1dFYVFMYVoyeVkyUVh2U2s3TFoyX3lOZTBJRUU1NkRxT3hCT29GX09ES1hrUEM5akk1amtaYVHSAcMBQVVfeXFMT01YNVZUNmZCMklmOUdaM1dmWU1Wc2lvQ2RGYUVFdUdEa29jUF9JbDQwaGtqQjFreW9XVTNXT3BzVElGNGlybXFvek1ka3lFbklPa19FRTlFdU5pTUt0RVN1X2hzVkplamxXWHJROTN2TU5JMnRjVFpHeGVzSlVBSXZ6aUlYcGd4aDZFN2dXRWFRTGFaMnlZMlFYdlNrN0xaMl95TmUwSUVFNTZEcU94Qk9vRl9PREtYa1BDOWpJNWprWmFR?oc=5",
+      "published": "2026-09-11 22:47",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -229,37 +234,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[KFT 모닝 브리프] 2026.09.11 — 오늘 꼭 알아야 할 국내외 경제·시장 뉴스",
-      "display_title": "[KFT 모닝 브리프] 2026.09.11 — 오늘 꼭 알아야 할 국내외 경제·시장 뉴스",
-      "original_title": "[KFT 모닝 브리프] 2026.09.11 — 오늘 꼭 알아야 할 국내외 경제·시장 뉴스 - 한국금융신문",
+      "title": "[2026 부동산개발 포럼] \"정비사업 규제 완화가 전월세 불안으로 이어질 수 있다\"",
+      "display_title": "[2026 부동산개발 포럼] \"정비사업 규제 완화가 전월세 불안으로 이어질 수 있다\"",
+      "original_title": "[2026 부동산개발 포럼] “정비사업에만 풀린 규제, 전월세 불안 가시화” : 네이버 블로그 - Naver Blog",
       "summary": [
-        "한국금융신문의 모닝 브리프는 미국 증시의 하락세, 유가 및 국채 금리 상승 등 최근 글로벌 경제의 주요 이슈들을 다룰 것으로 예상됩니다.",
-        "국내 시장에 미치는 영향 분석과 함께, 개인 투자자들이 주목해야 할 국내 경제 지표 및 기업 소식도 포함될 것입니다.",
-        "글로벌 불확실성이 커지는 시점에서 국내 시장에 미칠 영향을 파악하고, 이에 따른 투자 전략을 점검하는 데 활용해야 합니다."
+        "2026 부동산개발 포럼에서 정비사업(재개발·재건축)에 집중된 규제 완화가 전월세 시장 불안을 야기할 수 있다는 지적이 나왔습니다.",
+        "이는 특정 분야 규제 완화가 전체 부동산 시장의 균형을 해쳐 서민 주거 안정에 부정적 영향을 미칠 수 있음을 의미합니다.",
+        "투자자는 부동산 정책 방향과 그로 인한 전월세 시장의 변동성을 면밀히 주시하며, 주거 안정성 저해 가능성에 대비해야 합니다."
       ],
-      "summary_text": "한국금융신문의 모닝 브리프는 미국 증시의 하락세, 유가 및 국채 금리 상승 등 최근 글로벌 경제의 주요 이슈들을 다룰 것으로 예상됩니다. 국내 시장에 미치는 영향 분석과 함께, 개인 투자자들이 주목해야 할 국내 경제 지표 및 기업 소식도 포함될 것입니다. 글로벌 불확실성이 커지는 시점에서 국내 시장에 미칠 영향을 파악하고, 이에 따른 투자 전략을 점검하는 데 활용해야 합니다.",
-      "description": "2026년 9월 11일자 한국금융신문의 모닝 브리프는 국내외 주요 경제 및 시장 뉴스를 정리하여 제공합니다.",
-      "category": "증시·금리",
+      "summary_text": "2026 부동산개발 포럼에서 정비사업(재개발·재건축)에 집중된 규제 완화가 전월세 시장 불안을 야기할 수 있다는 지적이 나왔습니다. 이는 특정 분야 규제 완화가 전체 부동산 시장의 균형을 해쳐 서민 주거 안정에 부정적 영향을 미칠 수 있음을 의미합니다. 투자자는 부동산 정책 방향과 그로 인한 전월세 시장의 변동성을 면밀히 주시하며, 주거 안정성 저해 가능성에 대비해야 합니다.",
+      "description": "2026년 부동산개발 포럼에서 정비사업에만 규제가 완화되면서 전월세 시장의 불안이 가시화될 수 있다는 우려가 제기되었습니다.",
+      "category": "부동산·정책",
       "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "전반적인 주식시장",
+      "market_impact": "부정",
+      "related_sector": "부동산, 건설, 주택",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "현대건설",
+        "GS건설",
+        "대우건설"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내외 주요 경제 및 시장 뉴스를 종합적으로 파악하여 투자 의사 결정을 내리는 데 필수적인 정보원입니다.",
-      "key_signal": "브리프에서 강조하는 국내외 주요 경제 지표, 정책 변화, 기업 이슈 등을 면밀히 검토하여 투자 판단에 활용해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "부동산 정책의 불균형은 주택 시장 전체의 불확실성을 높이고 가계 경제에 직접적인 영향을 미치므로 투자 결정에 신중해야 합니다.",
+      "key_signal": "정부의 추가적인 부동산 정책 발표, 특히 전월세 시장 안정화 방안과 정비사업 외 주택 공급 대책을 주목해야 합니다.",
       "keywords": [
-        "모닝 브리프",
-        "경제 뉴스",
-        "시장 동향",
-        "국내외 경제",
-        "투자 정보"
+        "부동산",
+        "정비사업",
+        "전월세",
+        "규제완화",
+        "주택시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EdEpWSDl0cGlrRFhmbWdqdEhoOTJ1ZVNlZGx4c1o1TWYwMVNEN2FGQzBZekhCdU9kUHBXM2NQNjgtcnZVRGlzUmI5SzZkNWkyckI4SW1scUZPRFo3MXEzMGlJeWJMWkhMTDZOUjF4UnhqOXdzSU1Oa0M5T2E?oc=5",
-      "published": "2026-09-11 07:26",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1I0MS1WZVpzS1EyMG91ckxmTHJ5UlBHZnBlTUx6TjN5NWwxZ28yWGJzaktOTi1BMkt5UGVGb1QwVkhYRUs2N2pENEx2NDhtbmoyMUExbXl2WjVPMjI5LXgxeXNMOGpBaVJOeldqRlFUaVlHMVRiOEN1QW9yZU5OaW14WUthdWx3QS1SSnB3dw?oc=5",
+      "published": "2026-09-12 07:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -270,73 +275,69 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "SK이노베이션",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "화학",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "국제 유가가 100달러를 돌파하며 에너지 관련 기업들의 실적 개선 기대감이 커지고 있습니다. SK이노베이션은 정유 및 화학 부문에서 유가 상승의 직접적인 영향을 받을 수 있어 면밀한 관찰이 필요합니다.",
+      "reason": "미국 증시가 강력한 인플레이션 데이터와 연준의 금리 인상 전망에도 불구하고 상승 마감하는 복합적인 시장 상황은 글로벌 유동성 및 투자 심리에 직접적인 영향을 미쳐 국내 증권사들의 실적과 투자 환경에 중요 변수로 작용할 수 있습니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유) 추이",
-        "정제마진 변동성",
-        "OPEC+ 감산 정책"
+        "글로벌 증시 및 국내 증시의 방향성",
+        "외국인/기관 투자자 수급 변화",
+        "금리 변동성에 따른 거래대금 및 수수료 수익 추이"
       ],
       "related_news_titles": [
-        "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
-        "시장 혼란: 유가 급등, 금리 인상 불안감 증폭",
-        "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락"
+        "S&P 500, 강력한 인플레이션 데이터에도 불구하고 상승 마감, 금리 인상 베팅 강화",
+        "미국 증시 상승 마감: 강력한 인플레이션 데이터로 다음 주 연준 금리 인상 거의 확실",
+        "S&P500 전망: 연준 금리 인상 기대에도 불구하고 SPX 상승"
       ]
     },
     {
       "rank": 2,
-      "name": "삼성전자",
+      "name": "하이브",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "주의",
-      "reason": "국내 증시의 '쏠림 현상'의 핵심 종목으로, 글로벌 증시 전반의 하락세와 특히 고성장 기술주에 대한 투자 심리 위축은 삼성전자에 직접적인 영향을 미칠 수 있습니다. 반도체 업황 둔화 가능성도 동시에 관찰해야 합니다.",
+      "sector": "엔터테인먼트",
+      "opinion": "관심",
+      "reason": "K-IP를 기반으로 한 K-콘텐츠 산업은 한국의 새로운 수출 동력이자 고부가가치 산업으로 주목받고 있으며, 장기적인 성장과 기업 가치 상승을 기대할 수 있는 대표적인 종목입니다.",
       "check_points": [
-        "글로벌 기술주 지수 (나스닥) 동향",
-        "반도체 업황 지표 (메모리 가격 등)",
-        "환율 변동성"
+        "주요 아티스트의 글로벌 활동 및 신규 앨범/투어 성과",
+        "IP 확장 전략 및 플랫폼 비즈니스 성장 여부",
+        "해외 시장에서의 K-POP 및 K-컬처 확산 추이"
       ],
       "related_news_titles": [
-        "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
-        "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락",
-        "한 달 만에 4000p 하락한 ‘롤러코스피’… 한은 “삼성전자·SK하이닉스 쏠림 및 레버리지 ETF 영향”"
+        "[특집/ 차세대 산업 시리즈] “반도체 다음은 K-IP”…콘텐츠·K컬처, 한국 수출 지도 바꾼다"
       ]
     },
     {
       "rank": 3,
-      "name": "한국전력",
+      "name": "한국금융지주",
       "market": "KOSPI",
-      "sector": "공공서비스",
-      "opinion": "중립",
-      "reason": "국제 유가 및 천연가스 가격 급등은 한국전력의 발전 원가 부담을 가중시키는 주요 요인입니다. 다만, 공공요금 인상 등 정부 정책의 변화 가능성 또한 함께 주목해야 합니다.",
+      "sector": "금융지주",
+      "opinion": "관심",
+      "reason": "미국의 인플레이션 및 금리 정책 방향은 글로벌 유동성과 투자 심리에 직접적인 영향을 미치며, 이는 국내 금융 시장 전반의 변동성을 키워 금융지주의 실적 및 사업 포트폴리오에 영향을 줄 수 있어 지속적인 관심이 필요합니다.",
       "check_points": [
-        "국제 에너지 가격 (유가, LNG) 추이",
-        "정부의 전기요금 정책 방향",
-        "환율 변동성"
+        "국내외 금리 변동성 및 시장 금리 추이",
+        "증시 변동성에 따른 자회사(한국투자증권 등) 실적 영향",
+        "글로벌 경제 상황 변화에 따른 자산 포트폴리오 건전성"
       ],
       "related_news_titles": [
-        "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
-        "유가 100달러 돌파 및 10년물 국채 금리 4.92% 기록, 미국 증시 3일 연속 하락"
+        "S&P 500, 강력한 인플레이션 데이터에도 불구하고 상승 마감, 금리 인상 베팅 강화",
+        "S&P500 전망: 연준 금리 인상 기대에도 불구하고 SPX 상승"
       ]
     },
     {
       "rank": 4,
-      "name": "KB금융",
+      "name": "CJ ENM",
       "market": "KOSPI",
-      "sector": "금융",
-      "opinion": "중립",
-      "reason": "연준의 금리 인상 전망 고조와 국채 금리 상승은 금융주의 순이자마진(NIM) 개선에 긍정적인 영향을 줄 수 있습니다. 하지만 경기 둔화 우려에 따른 대출 자산 건전성 악화 가능성 또한 동시에 관찰해야 합니다.",
+      "sector": "미디어",
+      "opinion": "관심",
+      "reason": "K-IP 및 K-컬처의 글로벌 확산 흐름 속에서 미디어 콘텐츠 기업들은 새로운 성장 동력을 확보하고 글로벌 시장에서의 경쟁력을 강화할 기회를 가지고 있어, 관련 콘텐츠의 제작 및 유통 성과에 주목할 필요가 있습니다.",
       "check_points": [
-        "한국은행의 기준금리 인상 기조",
-        "대출 연체율 및 건전성 지표",
-        "순이자마진(NIM) 추이"
+        "주요 콘텐츠(드라마, 영화, 예능)의 흥행 성과 및 해외 판매",
+        "글로벌 OTT 플랫폼과의 협력 확대 여부",
+        "광고 시장 동향 및 미디어 플랫폼 매출 성장세"
       ],
       "related_news_titles": [
-        "다우존스 400p 하락, 유가 100달러 돌파, 국채 금리 상승 및 연준 금리 인상 전망 고조",
-        "시장 혼란: 유가 상승 및 연준 금리 인상 우려로 월스트리트 흔들",
-        "[KFT 모닝 브리프] 2026.09.11 — 오늘 꼭 알아야 할 국내외 경제·시장 뉴스"
+        "[특집/ 차세대 산업 시리즈] “반도체 다음은 K-IP”…콘텐츠·K컬처, 한국 수출 지도 바꾼다"
       ]
     }
   ],
