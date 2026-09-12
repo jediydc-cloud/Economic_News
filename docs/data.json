@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12 08:54",
-  "analysis_date": "2026-09-12",
+  "generated_at": "2026-09-13 08:48",
+  "analysis_date": "2026-09-13",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 증시는 인플레이션과 금리 인상 압박 속에서도 역설적인 강세를 보였습니다. 국내에서는 K-콘텐츠 산업의 성장 잠재력이 부각된 반면, 부동산 규제 완화에 따른 전월세 시장 불안 가능성도 제기되었습니다.",
-    "국내거시경제": "K-IP 기반 K-콘텐츠 산업이 미래 수출 동력으로 부상하며 새로운 성장 모멘텀을 제시합니다. 다만, 부동산 정비사업 규제 완화가 전월세 시장 불안을 야기할 수 있다는 우려도 있어 정책 영향에 주의가 필요합니다.",
-    "글로벌경제": "강력한 인플레이션 데이터로 미국 연준의 금리 인상이 기정사실화되는 분위기입니다. 국제 유가는 배럴당 100달러를 돌파하며 글로벌 비용 압박이 가중되고 있습니다.",
-    "증시금리": "미국 증시는 강력한 인플레이션과 연준의 금리 인상 가능성에도 불구하고 S&P 500을 중심으로 견조한 흐름을 보였습니다. 이는 시장이 금리 인상을 이미 반영했거나 기업 실적에 더 주목하고 있음을 시사하지만, 고유가와 금리 상승 우려로 인한 일부 하락세도 관찰되었습니다.",
-    "부동산정책": "국내 정비사업 규제 완화가 전월세 시장 불안정으로 이어질 수 있다는 경고가 나왔습니다. 서민 주거 안정성에 대한 정책적 고려가 필요합니다.",
-    "기업산업": "K팝, 게임 등 K-IP 기반 K-콘텐츠 산업이 한국의 미래 수출 동력으로 주목받고 있습니다. 관련 미디어, 엔터테인먼트, 소프트웨어 기업의 장기 성장 잠재력에 관심을 기울일 필요가 있습니다.",
-    "오늘의투자시사점": "글로벌 증시의 인플레이션-금리 인상 역설을 이해하고, 국내에서는 K-콘텐츠 산업의 성장 잠재력과 부동산 시장의 정책 리스크를 종합적으로 고려해야 합니다. 시장 변동성에 대비한 포트폴리오 전략 점검이 중요합니다.",
-    "오늘의한줄": "인플레이션 압박 속 글로벌 증시의 역설적 강세와 K-콘텐츠의 부상, 그리고 국내 부동산 정책 리스크에 주목해야 할 시점입니다."
+    "총평": "미국 연준의 긴축적 통화정책 기조와 물가 상승 압력이 글로벌 증시에 부담을 주고 있습니다. 국내에서는 부동산 시장 과열에 대한 전문가들의 경고가 제기되며, 전반적인 투자 시장에 신중한 접근이 요구됩니다.",
+    "국내거시경제": "부동산 전문가들이 기존 예측을 번복하며 특정 지역 주택 가격의 급등 가능성을 경고, 국내 부동산 시장의 불안정성이 커지고 있음을 시사합니다.",
+    "글로벌경제": "유가 및 채권 수익률 상승, 강한 고용 지표가 연준의 금리 인상 전망을 강화하고 있으며, 연준은 인플레이션 통제를 최우선으로 매파적 스탠스를 유지하고 있습니다.",
+    "증시금리": "CPI 데이터 발표와 연준 통화정책 회의를 앞두고 미 증시 선물 지수가 변동성을 보입니다. 연준의 긴축 장기화 우려 속에 성장주보다는 방어주 및 실적 방어가 가능한 기업에 대한 관심이 필요합니다.",
+    "부동산정책": "주요 부동산 전문가들이 고금리와 경기 둔화 우려에도 불구하고 특정 지역 주택 가격의 급등 가능성을 경고하며, 부동산 시장의 과열에 대한 경각심을 높이고 있습니다.",
+    "기업산업": "금일 주요 뉴스에서는 특정 기업이나 산업 전반의 심층적인 동향 변화에 대한 정보는 부재합니다. 다만, 일부 기술 및 핀테크 주식에 대한 관심이 언급되었습니다.",
+    "오늘의투자시사점": "연준의 매파적 스탠스와 예상보다 장기화될 수 있는 긴축 정책에 대비해 시장 변동성에 유의해야 합니다. 성장주보다는 방어주 또는 실적 방어가 가능한 기업에 주목하고, 국내 부동산 시장의 과열 경고를 인지하여 신중한 투자 결정을 내릴 필요가 있습니다.",
+    "오늘의한줄": "연준의 긴축 기조와 국내 부동산 경고음 속, 시장 변동성 확대에 대비한 보수적인 투자 전략이 요구됩니다."
   },
   "top_news": [
     {
@@ -28,37 +28,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500, 강력한 인플레이션 데이터에도 불구하고 상승 마감, 금리 인상 베팅 강화",
-      "display_title": "S&P 500, 강력한 인플레이션 데이터에도 불구하고 상승 마감, 금리 인상 베팅 강화",
-      "original_title": "S&P 500 ends higher as strong inflation data cements rate-hike bets - Reuters",
+      "title": "다우존스 선물: 유가·수익률 주식 압박 속 연준 금리 인상 전망; 애플, 모더나 신규 매수",
+      "display_title": "다우존스 선물: 유가·수익률 주식 압박 속 연준 금리 인상 전망; 애플, 모더나 신규 매수",
+      "original_title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys - Investor's Business Daily",
       "summary": [
-        "강력한 인플레이션 데이터로 연준의 금리 인상 베팅이 굳어졌지만, S&P 500 지수는 상승 마감했습니다.",
-        "이는 투자자들이 높은 인플레이션에도 불구하고 기업의 수익성이 유지될 것으로 기대하거나, 이미 금리 인상 가능성을 시장에 반영했을 수 있음을 나타냅니다.",
-        "인플레이션과 금리 인상이라는 악재 속에서도 증시가 상승하는 역설적 상황을 이해하고 포트폴리오 전략을 재점검해야 합니다."
+        "유가 및 채권 수익률 상승으로 주식 시장이 압박을 받으며 연준의 금리 인상이 예상됩니다.",
+        "물가 상승 압력과 강한 고용 지표 등이 연준의 매파적 스탠스를 강화할 수 있습니다.",
+        "금리 인상 가능성에 대비해 성장주보다는 방어주나 실적 방어가 가능한 기업에 주목할 필요가 있습니다."
       ],
-      "summary_text": "강력한 인플레이션 데이터로 연준의 금리 인상 베팅이 굳어졌지만, S&P 500 지수는 상승 마감했습니다. 이는 투자자들이 높은 인플레이션에도 불구하고 기업의 수익성이 유지될 것으로 기대하거나, 이미 금리 인상 가능성을 시장에 반영했을 수 있음을 나타냅니다. 인플레이션과 금리 인상이라는 악재 속에서도 증시가 상승하는 역설적 상황을 이해하고 포트폴리오 전략을 재점검해야 합니다.",
-      "description": "강력한 인플레이션 데이터로 인해 연준의 금리 인상 가능성이 더욱 확실해졌음에도 불구하고 S&P 500 지수가 상승 마감했습니다.",
+      "summary_text": "유가 및 채권 수익률 상승으로 주식 시장이 압박을 받으며 연준의 금리 인상이 예상됩니다. 물가 상승 압력과 강한 고용 지표 등이 연준의 매파적 스탠스를 강화할 수 있습니다. 금리 인상 가능성에 대비해 성장주보다는 방어주나 실적 방어가 가능한 기업에 주목할 필요가 있습니다.",
+      "description": "유가 상승과 채권 수익률 증가가 주식 시장에 압력을 가하는 가운데 연방준비제도(Fed)의 금리 인상이 예상되며, 애플과 모더나가 새로운 매수 대상으로 언급됩니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "글로벌 증시, 금리 민감주",
+      "market_impact": "부정",
+      "related_sector": "기술주, 제약/바이오",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "애플",
+        "모더나"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국의 인플레이션 및 금리 정책은 글로벌 유동성과 투자 심리에 직접적인 영향을 미쳐 한국 증시에도 파급효과를 줍니다.",
-      "key_signal": "연준의 다음 FOMC 회의 결과와 인플레이션 관련 경제 지표 발표를 주시하여 시장의 추가 반응을 예측해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "금리 인상 가능성과 이에 따른 주식 시장 압박이 투자 심리에 부정적 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "연준의 금리 결정과 유가 및 채권 수익률 추이를 면밀히 주시해야 합니다.",
       "keywords": [
-        "S&P500",
-        "인플레이션",
-        "금리인상",
         "연준",
-        "증시"
+        "금리인상",
+        "유가",
+        "채권수익률",
+        "주식시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
-      "published": "2026-09-12 08:19",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw?oc=5",
+      "published": "2026-09-13 03:32",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +69,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 미국 증시: 유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 주식 하락",
-      "display_title": "오늘 미국 증시: 유가 100달러 돌파 및 인플레이션 데이터 발표 전 금리 상승으로 주식 하락",
-      "original_title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data - The Economic Times",
+      "title": "연준의 인플레이션 통제가 주식 시장 서사에 직접적으로 도전하는 이유",
+      "display_title": "연준의 인플레이션 통제가 주식 시장 서사에 직접적으로 도전하는 이유",
+      "original_title": "Why The Fed's Inflation Control Directly Challenges The Stock Market Narrative - Seeking Alpha",
       "summary": [
-        "국제 유가가 배럴당 100달러를 돌파하고 채권 수익률이 상승하면서 미국 증시가 하락 마감했습니다.",
-        "이는 고유가와 채권 수익률 상승이 기업 비용 증가 및 소비 위축으로 이어질 수 있다는 우려를 반영합니다.",
-        "투자자들은 에너지 가격 변동성, 채권 수익률 추이, 그리고 곧 발표될 인플레이션 데이터에 주목하여 시장 방향성을 예측해야 합니다."
+        "연준의 인플레이션 통제 정책이 현재 주식 시장의 긍정적 전망과 상충될 수 있습니다.",
+        "연준은 물가 안정을 최우선으로 하며, 고금리 유지 또는 추가 인상 가능성이 시장의 유동성 위축을 가져올 수 있습니다.",
+        "투자자들은 연준의 긴축 정책이 예상보다 장기화될 가능성을 염두에 두고 포트폴리오를 조정해야 합니다."
       ],
-      "summary_text": "국제 유가가 배럴당 100달러를 돌파하고 채권 수익률이 상승하면서 미국 증시가 하락 마감했습니다. 이는 고유가와 채권 수익률 상승이 기업 비용 증가 및 소비 위축으로 이어질 수 있다는 우려를 반영합니다. 투자자들은 에너지 가격 변동성, 채권 수익률 추이, 그리고 곧 발표될 인플레이션 데이터에 주목하여 시장 방향성을 예측해야 합니다.",
-      "description": "유가가 배럴당 100달러를 넘어서고 인플레이션 데이터 발표를 앞두고 채권 수익률이 상승하면서 미국 증시가 후퇴했습니다.",
+      "summary_text": "연준의 인플레이션 통제 정책이 현재 주식 시장의 긍정적 전망과 상충될 수 있습니다. 연준은 물가 안정을 최우선으로 하며, 고금리 유지 또는 추가 인상 가능성이 시장의 유동성 위축을 가져올 수 있습니다. 투자자들은 연준의 긴축 정책이 예상보다 장기화될 가능성을 염두에 두고 포트폴리오를 조정해야 합니다.",
+      "description": "이 기사는 연방준비제도(Fed)의 인플레이션 억제 노력이 어떻게 현재 주식 시장의 강세 서사에 정면으로 도전하는지를 분석합니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "에너지, 원자재, 글로벌 증시",
+      "related_sector": "전반적 시장",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "고유가와 채권 금리 상승은 글로벌 경제 성장 둔화와 기업 실적 악화 우려를 심화시켜 국내 증시에도 부정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "국제 유가 움직임, 미국 장기 채권 금리 변화, 그리고 곧 발표될 핵심 인플레이션 지표를 최우선으로 모니터링해야 합니다.",
+      "investment_reason": "연준의 강한 인플레이션 억제 의지가 시장 유동성과 투자 심리에 부정적 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "연준 고위 관계자들의 발언과 인플레이션 지표 변화를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "유가",
-        "채권금리",
+        "연준",
         "인플레이션",
-        "미국증시",
-        "원자재"
+        "금리정책",
+        "주식시장",
+        "긴축"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcjE3eGlYTzZnbDBrQ0VDRlpCekUxVWxsdWU1bGdtcFNKRmlnRjEyT0QtTzNaQXY5N2FJdEJXMUxaRVJNaFlsQ3V2amxTcFRMellYQUVrY0RLVXNEczM5TS1YUmRPTFNaMklPN1hNRWFNREk5cFkxMDVWQjB6ZUFRYWUySTBsQXJCX2FERGI3MXd3eVdMV1UyenlWSmJJektPS3FKNXJnQkFkOEJYY2phejk3YVQzVHhvOE5MNUkxWUYyclEtbEp5cXdyZTBXNDFzNGF1X2tERUczVjJFN0dNWEZFTmRrVjVvdktKSl8ydnRPMklUbnB6ZlFpUkJ1Q3V5MEJfaTdLTTV1UdIBjwJBVV95cUxQSVdvekJMUkZtQWlkbVZtM0IzQVgtaEU5MTVxQkxINjFJODJSTlFUZmRFTmc1aXdwajRiUlZYYi1lY0tSQ1JKYUtpd05uVGlEaHFfSVVDejBaN25IZjRnQ1AwRXVYYkFEeGw5MlhwSG10S2oyWTEycnFTODZzVE5KS3lzSUdwbTYxempBUmVVRDYtMWRHVk93MW1XUjRDajRTUnJpaGVuY2hrUFVySlNSUm5XYVUzUjhOQ21IM0pPUTlMZGdNWkJnWUstMFlmTjdKRmkwRnJYWU5xQk1nUjBqcGJLM2VYcUtQT2tNbGVTRDg5Z1piQnlsOFNCNHZmT3BzWFBwLWN3ZDFyUEtyc1Mw?oc=5",
-      "published": "2026-09-12 03:36",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWNpVkUxV0hCTGlNckZnUnJ0ckcwOTNaQVh2OXV6UTlYVTFtQlpMZXpldUl1R3ZzUHNZR1NsbXhJSkpUc1d2RUJaaG5iNk9xYVgxNmlCQ3JFRjMzV1JkR1hQUW4yM1FOSUNyM1p6eGpjN3E1QWFrZ2NnZk51YWlOSXh4eEp6VzJJa2JuME5mX3RyTDZ4QWFFb2k2dm1iSXItSzZOWENNeUlxYUZfbnc0UmF0bGxQM2Fl?oc=5",
+      "published": "2026-09-13 02:08",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,42 +108,42 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[특집/ 차세대 산업 시리즈] “반도체 다음은 K-IP”…콘텐츠·K컬처, 한국 수출 지도 바꾼다",
-      "display_title": "[특집/ 차세대 산업 시리즈] “반도체 다음은 K-IP”…콘텐츠·K컬처, 한국 수출 지도 바꾼다",
-      "original_title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.12 콘텐츠·K컬처] “반도체 다음은 K-IP”…K팝·게임·OTT·웹툰·AI 콘텐츠, 한국 수출지도 바꾼다 - 코리아포스트 한글판",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "다우, S&P 500, 나스닥 선물, CPI 데이터 및 연준 정책 회의 앞두고 어떻게 움직이나?",
+      "display_title": "다우, S&P 500, 나스닥 선물, CPI 데이터 및 연준 정책 회의 앞두고 어떻게 움직이나?",
+      "original_title": "How Are Dow, S&P 500, Nasdaq Futures Moving Ahead Of CPI Data And Fed Policy Meeting? - Stocktwits",
       "summary": [
-        "K팝, 게임, OTT, 웹툰, AI 콘텐츠 등 K-IP(지식재산권) 기반 K-콘텐츠 산업이 한국의 미래 수출을 이끌 핵심 동력으로 주목받고 있습니다.",
-        "이는 과거 반도체가 주도했던 수출 구조가 문화 콘텐츠로 확장될 가능성을 시사하며, 관련 산업의 성장 잠재력이 높다는 분석입니다.",
-        "투자자들은 미디어, 엔터테인먼트, 소프트웨어 등 K-콘텐츠 관련 기업들의 장기적인 성장 가능성에 주목하여 투자 기회를 모색할 필요가 있습니다."
+        "주요 경제 지표인 CPI 발표와 연준의 통화정책 회의를 앞두고 미국 증시 선물 지수가 변동성을 보입니다.",
+        "CPI 데이터는 연준의 향후 금리 정책 방향을 결정하는 데 중요한 영향을 미치므로 시장의 관심이 집중됩니다.",
+        "CPI 데이터 결과와 연준 회의록 발표에 따라 시장의 방향성이 크게 바뀔 수 있으므로 신중한 접근이 필요합니다."
       ],
-      "summary_text": "K팝, 게임, OTT, 웹툰, AI 콘텐츠 등 K-IP(지식재산권) 기반 K-콘텐츠 산업이 한국의 미래 수출을 이끌 핵심 동력으로 주목받고 있습니다. 이는 과거 반도체가 주도했던 수출 구조가 문화 콘텐츠로 확장될 가능성을 시사하며, 관련 산업의 성장 잠재력이 높다는 분석입니다. 투자자들은 미디어, 엔터테인먼트, 소프트웨어 등 K-콘텐츠 관련 기업들의 장기적인 성장 가능성에 주목하여 투자 기회를 모색할 필요가 있습니다.",
-      "description": "한국 수출의 차세대 동력으로 K-콘텐츠, K-컬처, K-IP가 부상하며 K팝, 게임, OTT, 웹툰, AI 콘텐츠 등이 한국의 수출 구조를 변화시킬 것으로 전망됩니다.",
-      "category": "기업·산업",
+      "summary_text": "주요 경제 지표인 CPI 발표와 연준의 통화정책 회의를 앞두고 미국 증시 선물 지수가 변동성을 보입니다. CPI 데이터는 연준의 향후 금리 정책 방향을 결정하는 데 중요한 영향을 미치므로 시장의 관심이 집중됩니다. CPI 데이터 결과와 연준 회의록 발표에 따라 시장의 방향성이 크게 바뀔 수 있으므로 신중한 접근이 필요합니다.",
+      "description": "소비자 물가 지수(CPI) 발표와 연방준비제도(Fed)의 정책 회의를 앞두고 다우, S&P 500, 나스닥 선물 지수의 움직임을 분석합니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "미디어 콘텐츠, 엔터테인먼트, 게임, 소프트웨어",
+      "market_impact": "중립",
+      "related_sector": "전반적 시장",
       "related_stocks": [
-        "하이브",
-        "JYP Ent.",
-        "CJ ENM"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "K-IP를 기반으로 한 K-콘텐츠는 한국의 새로운 수출 동력이자 고부가가치 산업으로, 장기적인 성장과 기업 가치 상승을 기대할 수 있습니다.",
-      "key_signal": "K-콘텐츠 기업들의 해외 시장 진출 성과, 신규 IP 개발 현황, 그리고 AI 기술 접목을 통한 콘텐츠 확장 가능성을 지속적으로 모니터링해야 합니다.",
+      "investment_reason": "CPI 데이터와 연준 회의 결과가 시장의 단기 및 중장기 방향성을 결정하는 핵심 요인이기 때문입니다.",
+      "key_signal": "오늘 발표될 CPI 데이터와 연준의 통화 정책 회의 결과를 집중적으로 확인해야 합니다.",
       "keywords": [
-        "K-콘텐츠",
-        "K-IP",
-        "수출",
-        "엔터테인먼트",
-        "AI"
+        "CPI",
+        "연준회의",
+        "선물지수",
+        "금리정책",
+        "시장변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJcW9FdDZMa3FYWV8wS2E5NGx5b0dIM0JZMzE0eFVpTlpEd2VMYUN1dnhKNGJZMVlvMVgtam1zcUJpcDlVc0o5OXBqX2hZWVNPaVhTcl9kMWJsekZYX2taaHk0MFJ5YlVSYWE5c0VR?oc=5",
-      "published": "2026-09-12 08:00",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNQXhTSllnUE5mWXJyaVRjVVRZY2ZRS1k0YWlGOFg3X3RfbHRlNU5IQUM4dnhnSVdKQlpETUxOd0p3QTRDaThiZ09MbVlqbDcxYjFsWnRxdnRzXzliY1ZrNzM5MVY5MU5Hc2pveWRSWHQ4S0ZZVkJNSHRrM1c4WVQ1Smc3c18wN0tyeVIwbmNOY1RJSHQwU1NoUm1sSXNfR0FBVmFZR1dydFhLQTczNTB6ZktCZGduRlNJYnd6WEdPUzR6YW5JWHpPYkdGc1FUdFRnQkFaWmM0bXZZbnpmR2pTREFPWEF6SDZNbHlIWnk5dnFqdnZ5R09KQU42Y2lNTXV2ajB2MFctTHpEemRfZ3N2TC1NZ0RsZ18yem1VdHpHd2lNMFE4THRv?oc=5",
+      "published": "2026-09-13 00:34",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,33 +153,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 상승 마감: 강력한 인플레이션 데이터로 다음 주 연준 금리 인상 거의 확실",
-      "display_title": "미국 증시 상승 마감: 강력한 인플레이션 데이터로 다음 주 연준 금리 인상 거의 확실",
-      "original_title": "Stocks end higher even though hot U.S. inflation data means Fed rate hike next week is ‘close to a slam dunk’ - The Globe and Mail",
+      "title": "S&P 500, 나스닥, 다우 선물, 연준 금리 결정 앞두고 소폭 상승: 인텔, 스냅, 소파이, 럼 주목",
+      "display_title": "S&P 500, 나스닥, 다우 선물, 연준 금리 결정 앞두고 소폭 상승: 인텔, 스냅, 소파이, 럼 주목",
+      "original_title": "S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus - Stocktwits",
       "summary": [
-        "강력한 미국 인플레이션 데이터가 다음 주 연준의 금리 인상을 거의 확정지었음에도 불구하고 미국 증시가 상승 마감했습니다.",
-        "이는 시장이 이미 금리 인상 가능성을 충분히 반영했거나, 인플레이션 압력에도 불구하고 기업 실적 개선 등 긍정적 요인에 더 집중하고 있음을 보여줍니다.",
-        "투자자는 금리 인상이 확실시되는 상황에서 증시의 역설적인 강세 원인을 분석하고, 향후 시장의 변동성에 대비하는 전략을 수립해야 합니다."
+        "연준 금리 결정 발표를 앞두고 미국 주요 지수 선물들이 소폭 상승세를 보였습니다.",
+        "투자자들은 연준의 금리 정책 방향에 촉각을 곤두세우고 있으며, 특정 기술주 및 핀테크 주식에 관심이 집중되고 있습니다.",
+        "연준의 결정에 따라 시장 변동성이 커질 수 있으므로, 단기적 추세보다는 장기적 관점으로 접근하는 것이 중요합니다."
       ],
-      "summary_text": "강력한 미국 인플레이션 데이터가 다음 주 연준의 금리 인상을 거의 확정지었음에도 불구하고 미국 증시가 상승 마감했습니다. 이는 시장이 이미 금리 인상 가능성을 충분히 반영했거나, 인플레이션 압력에도 불구하고 기업 실적 개선 등 긍정적 요인에 더 집중하고 있음을 보여줍니다. 투자자는 금리 인상이 확실시되는 상황에서 증시의 역설적인 강세 원인을 분석하고, 향후 시장의 변동성에 대비하는 전략을 수립해야 합니다.",
-      "description": "강력한 미국 인플레이션 데이터로 인해 다음 주 연방준비제도(Fed)의 금리 인상이 거의 확실해졌음에도 불구하고 주식 시장은 상승 마감했습니다.",
+      "summary_text": "연준 금리 결정 발표를 앞두고 미국 주요 지수 선물들이 소폭 상승세를 보였습니다. 투자자들은 연준의 금리 정책 방향에 촉각을 곤두세우고 있으며, 특정 기술주 및 핀테크 주식에 관심이 집중되고 있습니다. 연준의 결정에 따라 시장 변동성이 커질 수 있으므로, 단기적 추세보다는 장기적 관점으로 접근하는 것이 중요합니다.",
+      "description": "연방준비제도(Fed)의 금리 결정 발표를 앞두고 S&P 500, 나스닥, 다우 선물 지수가 소폭 상승했으며, 인텔(INTC), 스냅(SNAP), 소파이(SOFI), 럼(RUM) 등의 종목이 주목받고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "중립",
-      "related_sector": "글로벌 증시, 금리 민감주",
-      "related_stocks": [],
-      "investment_view": "관심",
-      "investment_reason": "연준의 확실시되는 금리 인상에도 불구하고 증시가 상승하는 글로벌 동향은 한국 시장의 투자 심리에도 복합적인 영향을 미치므로 원인 분석이 필수적입니다.",
-      "key_signal": "다음 주 연준의 금리 인상 폭과 연준의 향후 경제 전망 발표를 주시하며, 시장이 이 소식을 어떻게 추가적으로 소화할지 지켜봐야 합니다.",
-      "keywords": [
-        "미국증시",
-        "인플레이션",
-        "연준",
-        "금리인상",
-        "시장반응"
+      "related_sector": "기술주, 핀테크, 반도체",
+      "related_stocks": [
+        "인텔",
+        "스냅",
+        "소파이"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQXVXckQzMFllSkNSMGFwZEVyaGVQRS1oUHIxU3hlbEQ1QUcxZnpJN3F3aFh5TVA4OF8yVTY0c1MzUzJpYjl0eUFyWV9DWG9MdW9SZjQyaFpkUURlQ3ppVEk5QWgtd20xRWx4MUxmQmZ0UjRIeEhMdjYyblBVRTl5QXFCQzdCLWtLcjJjbEt2OG5GZ290QXFuOEI5RndBNkYwRmZTbl9kVGkyRElhUzNjblduNVRIeWw3cno1MkdmZEFSMEJEVHFicXZ3S2o3R2Z1QlNQTzZQcFZKZER2SGhMNE1jYW1PRDRjaDgwOUxmUEk?oc=5",
-      "published": "2026-09-11 18:15",
+      "investment_view": "관심",
+      "investment_reason": "연준의 금리 결정이 임박한 가운데 시장의 단기적 방향성을 파악하고 주목받는 개별 기업을 인지하는 것이 중요합니다.",
+      "key_signal": "연준의 금리 결정 내용과 향후 금리 인상 경로에 대한 힌트를 주목해야 합니다.",
+      "keywords": [
+        "연준",
+        "금리결정",
+        "선물지수",
+        "기술주",
+        "시장변동성"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2xkNGtyQ2FtcGNGa1RXM1N6eUFHZFFtNUwwTk85eXdtV3FOa2kzUnBBd01sVDlGbHhZVkZubGJVel9GT1RsNEw1NXdpWVYxb2hzWjRNd2pwN2JKYU5DeFBPa2NQQTFfYmExQURnWjZRbF83Mjg5V2xNdERLZ1AxTWxnRW9XSGxMWFNwTjRKV1BTaHI4RzBuaEJHYzhPOHZnc3NoS3lYX2xqX1pLRG5XTFBHZlBJQ3M4OURTdXg4MTdMT29yUEE?oc=5",
+      "published": "2026-09-13 05:48",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -189,42 +192,42 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "S&P500 전망: 연준 금리 인상 기대에도 불구하고 SPX 상승",
-      "display_title": "S&P500 전망: 연준 금리 인상 기대에도 불구하고 SPX 상승",
-      "original_title": "S&P500 Forecast: SPX rises despite rising Fed rate hike expectations - FOREX.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "한문도·이광수도 돌아섰다···“집값 폭등” 경고",
+      "display_title": "한문도·이광수도 돌아섰다···“집값 폭등” 경고",
+      "original_title": "한문도·이광수도 돌아섰다···“집값 폭등” 경고 - 시사저널e",
       "summary": [
-        "미국 S&P500 지수가 연방준비제도(Fed)의 금리 인상 기대에도 불구하고 상승세를 보였습니다.",
-        "이는 시장이 강한 경제 지표와 기업 실적에 더 주목하며 금리 인상 영향을 상쇄하고 있음을 시사합니다.",
-        "투자자는 금리 인상 가속화 가능성과 함께 견조한 기업 실적 전망을 동시에 고려해야 합니다."
+        "부동산 전문가들이 기존 예측을 번복하며 주택 가격의 급격한 상승 가능성을 경고했습니다.",
+        "고금리와 경기 둔화 우려에도 불구하고 특정 지역이나 특정 유형의 주택 가격이 급등할 수 있다는 우려가 제기됩니다.",
+        "부동산 시장의 불안정성이 커지고 있음을 인지하고, 과열된 시장에 대한 투자에는 신중을 기해야 합니다."
       ],
-      "summary_text": "미국 S&P500 지수가 연방준비제도(Fed)의 금리 인상 기대에도 불구하고 상승세를 보였습니다. 이는 시장이 강한 경제 지표와 기업 실적에 더 주목하며 금리 인상 영향을 상쇄하고 있음을 시사합니다. 투자자는 금리 인상 가속화 가능성과 함께 견조한 기업 실적 전망을 동시에 고려해야 합니다.",
-      "description": "연방준비제도(Fed)의 금리 인상 기대감이 높아지는 상황에서도 S&P500 지수가 상승하는 현상에 대한 전망입니다.",
-      "category": "증시·금리",
+      "summary_text": "부동산 전문가들이 기존 예측을 번복하며 주택 가격의 급격한 상승 가능성을 경고했습니다. 고금리와 경기 둔화 우려에도 불구하고 특정 지역이나 특정 유형의 주택 가격이 급등할 수 있다는 우려가 제기됩니다. 부동산 시장의 불안정성이 커지고 있음을 인지하고, 과열된 시장에 대한 투자에는 신중을 기해야 합니다.",
+      "description": "한문도 교수와 이광수 연구원 등 부동산 전문가들이 기존 입장을 바꿔 집값 폭등을 경고하고 있습니다.",
+      "category": "부동산·정책",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "글로벌 증시, 금리 민감주",
+      "market_impact": "부정",
+      "related_sector": "건설, 부동산 개발",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "현대건설",
+        "GS건설",
+        "대우건설"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 증시와 통화정책 방향은 한국 증시 및 투자 심리에 큰 영향을 미치므로 주요 변동성을 이해하는 것이 중요합니다.",
-      "key_signal": "연준의 향후 통화정책 발표와 기업 실적 시즌 진행 상황을 면밀히 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "전문가들의 집값 폭등 경고는 부동산 시장의 불안정성을 높이며 투자자들에게 신중한 접근을 요구합니다.",
+      "key_signal": "국내 부동산 시장의 거래량, 미분양 주택 수, 지역별 가격 동향을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "S&P500",
-        "금리인상",
-        "연준",
-        "증시상승",
-        "시장심리"
+        "부동산",
+        "집값폭등",
+        "전문가경고",
+        "시장불안정",
+        "정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVg1VlQ2ZkIySWY5R1ozV2ZZTVZzaW9DZEZhRUV1R0Rrb2NQX0lsNDBoa2pCMWt5b1dVM1dPcHNUSUY0aXJtcW96TWRreUVuSU9rX0VFOUV1TmlNS3RFU3VfaHNWSmVqbFdYclE5M3ZNTkkydGNUWkd4ZXNKVUFJdnppSVhwZ3hoNkU3Z1dFYVFMYVoyeVkyUVh2U2s3TFoyX3lOZTBJRUU1NkRxT3hCT29GX09ES1hrUEM5akk1amtaYVHSAcMBQVVfeXFMT01YNVZUNmZCMklmOUdaM1dmWU1Wc2lvQ2RGYUVFdUdEa29jUF9JbDQwaGtqQjFreW9XVTNXT3BzVElGNGlybXFvek1ka3lFbklPa19FRTlFdU5pTUt0RVN1X2hzVkplamxXWHJROTN2TU5JMnRjVFpHeGVzSlVBSXZ6aUlYcGd4aDZFN2dXRWFRTGFaMnlZMlFYdlNrN0xaMl95TmUwSUVFNTZEcU94Qk9vRl9PREtYa1BDOWpJNWprWmFR?oc=5",
-      "published": "2026-09-11 22:47",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uMEFYSG1FVWtad2lmdWYzcTFnRXZlS2puRE9OSU5VWjdSQ2kxbTFVaUVNcWY1cks5UTh5d3BkOXAxYWU1V0dZc180SWdMeWhnMWViZDVhcmpmTzJpcGNTMm1GVV9WTkc2YVJGSXhwbVRhZ9IBdkFVX3lxTE1uRDlXa0FMY1RZbU1uakxLOVFZVmxZaERzaWw2NjFJTGJObl9XSkh3cDRaZVhSU255RUpvbkFCSHBYZGhBbEVrSmZoV2ZCdzJvaDZkNjY2NkJabmlTMkM1MWVMS0NSS0Q2eF9xZ2RESllaSmpleVE?oc=5",
+      "published": "2026-09-13 07:07",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -234,37 +237,35 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[2026 부동산개발 포럼] \"정비사업 규제 완화가 전월세 불안으로 이어질 수 있다\"",
-      "display_title": "[2026 부동산개발 포럼] \"정비사업 규제 완화가 전월세 불안으로 이어질 수 있다\"",
-      "original_title": "[2026 부동산개발 포럼] “정비사업에만 풀린 규제, 전월세 불안 가시화” : 네이버 블로그 - Naver Blog",
+      "title": "해적 토토 진행 버튼 주변의 보조 기능",
+      "display_title": "해적 토토 진행 버튼 주변의 보조 기능",
+      "original_title": "해적 토토 진행 버튼 주변의 보조 기능 - Histoire pour tous",
       "summary": [
-        "2026 부동산개발 포럼에서 정비사업(재개발·재건축)에 집중된 규제 완화가 전월세 시장 불안을 야기할 수 있다는 지적이 나왔습니다.",
-        "이는 특정 분야 규제 완화가 전체 부동산 시장의 균형을 해쳐 서민 주거 안정에 부정적 영향을 미칠 수 있음을 의미합니다.",
-        "투자자는 부동산 정책 방향과 그로 인한 전월세 시장의 변동성을 면밀히 주시하며, 주거 안정성 저해 가능성에 대비해야 합니다."
+        "이 기사는 '해적 토토' 게임의 보조 기능에 대해 언급하고 있으나, 경제 뉴스와는 무관합니다.",
+        "제목과 설명만으로는 경제적 의미를 파악하기 어렵고, 도박 관련 내용으로 추정됩니다.",
+        "경제적 투자와는 관련이 없는 기사이므로 투자에 참고할 만한 내용은 없습니다."
       ],
-      "summary_text": "2026 부동산개발 포럼에서 정비사업(재개발·재건축)에 집중된 규제 완화가 전월세 시장 불안을 야기할 수 있다는 지적이 나왔습니다. 이는 특정 분야 규제 완화가 전체 부동산 시장의 균형을 해쳐 서민 주거 안정에 부정적 영향을 미칠 수 있음을 의미합니다. 투자자는 부동산 정책 방향과 그로 인한 전월세 시장의 변동성을 면밀히 주시하며, 주거 안정성 저해 가능성에 대비해야 합니다.",
-      "description": "2026년 부동산개발 포럼에서 정비사업에만 규제가 완화되면서 전월세 시장의 불안이 가시화될 수 있다는 우려가 제기되었습니다.",
-      "category": "부동산·정책",
-      "importance": 7,
-      "market_impact": "부정",
-      "related_sector": "부동산, 건설, 주택",
+      "summary_text": "이 기사는 '해적 토토' 게임의 보조 기능에 대해 언급하고 있으나, 경제 뉴스와는 무관합니다. 제목과 설명만으로는 경제적 의미를 파악하기 어렵고, 도박 관련 내용으로 추정됩니다. 경제적 투자와는 관련이 없는 기사이므로 투자에 참고할 만한 내용은 없습니다.",
+      "description": "'해적 토토'라는 키워드를 포함한 내용으로, 진행 버튼 주변의 보조 기능에 대한 정보로 보입니다. (내용 불분명)",
+      "category": "기타",
+      "importance": 1,
+      "market_impact": "중립",
+      "related_sector": "해당 없음",
       "related_stocks": [
-        "현대건설",
-        "GS건설",
-        "대우건설"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "부동산 정책의 불균형은 주택 시장 전체의 불확실성을 높이고 가계 경제에 직접적인 영향을 미치므로 투자 결정에 신중해야 합니다.",
-      "key_signal": "정부의 추가적인 부동산 정책 발표, 특히 전월세 시장 안정화 방안과 정비사업 외 주택 공급 대책을 주목해야 합니다.",
+      "investment_view": "중립",
+      "investment_reason": "경제 뉴스 브리핑에는 관련성이 전혀 없는 내용입니다.",
+      "key_signal": "해당 없음",
       "keywords": [
-        "부동산",
-        "정비사업",
-        "전월세",
-        "규제완화",
-        "주택시장"
+        "토토",
+        "게임",
+        "기타"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1I0MS1WZVpzS1EyMG91ckxmTHJ5UlBHZnBlTUx6TjN5NWwxZ28yWGJzaktOTi1BMkt5UGVGb1QwVkhYRUs2N2pENEx2NDhtbmoyMUExbXl2WjVPMjI5LXgxeXNMOGpBaVJOeldqRlFUaVlHMVRiOEN1QW9yZU5OaW14WUthdWx3QS1SSnB3dw?oc=5",
-      "published": "2026-09-12 07:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlh0WGlKU2JONU5PS3M3dzBRQVNkWmc5WkVrQ2ZoclVMSlZyMDhVU09LaGFTYm1ac0wyUThYUk9ENGtxZmF0MU8tbi0yaDFxWi15TXJPazFjb3FqUFZxVUFBT3NvQ1IzVExGS3JhNEdBOW0ycjRTOGh6TGFEWWlKd1BRWnM4YmMtbnhMWHFweGJfTjVrZkI5X1ZB?oc=5",
+      "published": "2026-09-13 02:21",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -279,65 +280,65 @@
       "market": "KOSPI",
       "sector": "증권",
       "opinion": "관심",
-      "reason": "미국 증시가 강력한 인플레이션 데이터와 연준의 금리 인상 전망에도 불구하고 상승 마감하는 복합적인 시장 상황은 글로벌 유동성 및 투자 심리에 직접적인 영향을 미쳐 국내 증권사들의 실적과 투자 환경에 중요 변수로 작용할 수 있습니다.",
+      "reason": "연준의 인플레이션 통제 정책과 CPI 발표, 금리 결정이 시장의 유동성 및 투자 심리에 직접적인 영향을 미치며 증권업종의 변동성을 확대시킬 가능성이 높기 때문입니다.",
       "check_points": [
-        "글로벌 증시 및 국내 증시의 방향성",
-        "외국인/기관 투자자 수급 변화",
-        "금리 변동성에 따른 거래대금 및 수수료 수익 추이"
+        "연준의 CPI 발표 및 금리 인상 폭",
+        "시장 변동성 확대 여부",
+        "개인 투자 심리 변화"
       ],
       "related_news_titles": [
-        "S&P 500, 강력한 인플레이션 데이터에도 불구하고 상승 마감, 금리 인상 베팅 강화",
-        "미국 증시 상승 마감: 강력한 인플레이션 데이터로 다음 주 연준 금리 인상 거의 확실",
-        "S&P500 전망: 연준 금리 인상 기대에도 불구하고 SPX 상승"
+        "연준의 인플레이션 통제가 주식 시장 서사에 직접적으로 도전하는 이유",
+        "다우, S&P 500, 나스닥 선물, CPI 데이터 및 연준 정책 회의 앞두고 어떻게 움직이나?"
       ]
     },
     {
       "rank": 2,
-      "name": "하이브",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "엔터테인먼트",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "K-IP를 기반으로 한 K-콘텐츠 산업은 한국의 새로운 수출 동력이자 고부가가치 산업으로 주목받고 있으며, 장기적인 성장과 기업 가치 상승을 기대할 수 있는 대표적인 종목입니다.",
+      "reason": "연준의 금리 결정과 전반적인 시장 심리가 글로벌 반도체 및 기술주에 미치는 영향이 크며, 주요 지수 선물 흐름 속에서 반도체 섹터의 방향성을 주시할 필요가 있기 때문입니다.",
       "check_points": [
-        "주요 아티스트의 글로벌 활동 및 신규 앨범/투어 성과",
-        "IP 확장 전략 및 플랫폼 비즈니스 성장 여부",
-        "해외 시장에서의 K-POP 및 K-컬처 확산 추이"
+        "연준 금리 결정 및 시장 반응",
+        "글로벌 반도체 수요 및 재고 동향",
+        "환율 변동성"
       ],
       "related_news_titles": [
-        "[특집/ 차세대 산업 시리즈] “반도체 다음은 K-IP”…콘텐츠·K컬처, 한국 수출 지도 바꾼다"
+        "S&P 500, 나스닥, 다우 선물, 연준 금리 결정 앞두고 소폭 상승: 인텔, 스냅, 소파이, 럼 주목",
+        "다우존스 선물: 유가·수익률 주식 압박 속 연준 금리 인상 전망; 애플, 모더나 신규 매수"
       ]
     },
     {
       "rank": 3,
-      "name": "한국금융지주",
+      "name": "현대건설",
       "market": "KOSPI",
-      "sector": "금융지주",
-      "opinion": "관심",
-      "reason": "미국의 인플레이션 및 금리 정책 방향은 글로벌 유동성과 투자 심리에 직접적인 영향을 미치며, 이는 국내 금융 시장 전반의 변동성을 키워 금융지주의 실적 및 사업 포트폴리오에 영향을 줄 수 있어 지속적인 관심이 필요합니다.",
+      "sector": "건설",
+      "opinion": "주의",
+      "reason": "전문가들의 집값 폭등 경고가 부동산 시장의 불안정성을 높이며 건설업종의 투자 심리에 부정적인 영향을 줄 수 있기 때문입니다.",
       "check_points": [
-        "국내외 금리 변동성 및 시장 금리 추이",
-        "증시 변동성에 따른 자회사(한국투자증권 등) 실적 영향",
-        "글로벌 경제 상황 변화에 따른 자산 포트폴리오 건전성"
+        "정부의 부동산 정책 변화",
+        "국내 주택 시장 거래량 및 가격 동향",
+        "미분양 리스크 증가 여부"
       ],
       "related_news_titles": [
-        "S&P 500, 강력한 인플레이션 데이터에도 불구하고 상승 마감, 금리 인상 베팅 강화",
-        "S&P500 전망: 연준 금리 인상 기대에도 불구하고 SPX 상승"
+        "한문도·이광수도 돌아섰다···“집값 폭등” 경고"
       ]
     },
     {
       "rank": 4,
-      "name": "CJ ENM",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "미디어",
+      "sector": "IT 플랫폼",
       "opinion": "관심",
-      "reason": "K-IP 및 K-컬처의 글로벌 확산 흐름 속에서 미디어 콘텐츠 기업들은 새로운 성장 동력을 확보하고 글로벌 시장에서의 경쟁력을 강화할 기회를 가지고 있어, 관련 콘텐츠의 제작 및 유통 성과에 주목할 필요가 있습니다.",
+      "reason": "금리 인상 기조와 시장 유동성 변화는 성장주에 해당하는 IT 플랫폼 기업에 큰 영향을 미치므로, 연준의 정책 방향과 시장의 기술주 투자 심리 변화를 면밀히 관찰해야 하기 때문입니다.",
       "check_points": [
-        "주요 콘텐츠(드라마, 영화, 예능)의 흥행 성과 및 해외 판매",
-        "글로벌 OTT 플랫폼과의 협력 확대 여부",
-        "광고 시장 동향 및 미디어 플랫폼 매출 성장세"
+        "연준의 금리 결정 및 성장주 투자 심리 변화",
+        "플랫폼 기업 규제 환경 변화",
+        "광고 및 커머스 사업 성장세"
       ],
       "related_news_titles": [
-        "[특집/ 차세대 산업 시리즈] “반도체 다음은 K-IP”…콘텐츠·K컬처, 한국 수출 지도 바꾼다"
+        "다우존스 선물: 유가·수익률 주식 압박 속 연준 금리 인상 전망; 애플, 모더나 신규 매수",
+        "S&P 500, 나스닥, 다우 선물, 연준 금리 결정 앞두고 소폭 상승: 인텔, 스냅, 소파이, 럼 주목"
       ]
     }
   ],
