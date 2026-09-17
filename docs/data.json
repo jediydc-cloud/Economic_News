@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16 09:03",
-  "analysis_date": "2026-09-16",
+  "generated_at": "2026-09-17 09:08",
+  "analysis_date": "2026-09-17",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "해외 주요 지수가 지지선을 하향 이탈하고 국채 금리가 급등하며 글로벌 증시의 불안감이 커졌습니다. 연준의 금리 인상과 장기화 우려가 시장 전반에 하방 압력을 가하고 있습니다. 국내 시장은 낙폭 과대 인식과 거시경제 불확실성이 교차하는 가운데, 반도체 산업의 긍정적 전망이 일부 지지 요인으로 작용합니다.",
-    "국내거시경제": "내년 국내 경제는 반도체 호황 지속에 힘입어 확장세를 보일 것으로 전망됩니다. AI 및 데이터 센터 수요가 견고한 성장을 뒷받침할 것으로 예상됩니다.",
-    "글로벌경제": "미국 10년 만기 국채 금리가 2007년 이후 최고치인 5%를 돌파하며 금융시장의 긴장감이 고조되었습니다. 유가 급등 또한 인플레이션 압력과 경기 둔화 우려를 심화시키고 있습니다.",
-    "증시금리": "S&P 500과 나스닥이 주요 지지선을 하향 이탈했으며, 10년 만기 국채 금리는 5%를 넘어섰습니다. 연준의 매파적 스탠스와 고금리 장기화 우려는 주식 시장의 밸류에이션 부담을 가중시키고 있습니다. 코스피는 낙폭 과대 인식에도 불구하고 FOMC 경계심이 우세합니다.",
-    "부동산정책": "특이사항 없음.",
-    "기업산업": "반도체 산업은 AI, 데이터 센터 수요에 기반해 내년에도 견조한 호황이 전망됩니다. 이는 관련 기업들의 실적 개선 기회로 이어질 수 있습니다.",
-    "오늘의투자시사점": "연준의 금리 결정 전까지는 보수적인 접근이 필요합니다. 고금리 환경에 방어적인 에너지, 금융 업종에 대한 관심은 유효하며, 국내 반도체 관련 기업들의 중장기 성장 가능성을 주시해야 합니다.",
-    "오늘의한줄": "글로벌 고금리 및 고유가 압력, 연준의 매파적 스탠스 경계감 속에서 국내외 증시는 하방 압력을 받고 있으나, 국내 반도체 업황은 긍정적 전망을 유지하고 있습니다."
+    "총평": "미국 연준의 금리 인상과 추가 인상 시사로 글로벌 증시가 하락 압력을 받는 가운데, 국내 증시는 금리보다는 환율 변동성에 주목해야 합니다. 하반기 한국 경제는 수출 회복과 내수 부담이라는 상이한 흐름이 교차할 수 있어 주의가 필요합니다.",
+    "국내거시경제": "미국 연준의 긴축 기조 강화로 인해 하반기 한국 경제는 수출 회복 가능성에도 불구하고 내수 부담이 가중될 수 있어 면밀한 관찰이 요구됩니다.",
+    "글로벌경제": "미국 연방준비제도(Fed)가 3년여 만에 금리를 인상하고 추가 인상 가능성을 시사하면서 글로벌 긴축 기조가 강화되고 있습니다.",
+    "증시금리": "미 연준의 금리 인상 발표 후 뉴욕 증시는 하락하고 국채 금리는 상승했습니다. 국내 증시는 연준의 추가 인상 가능성 속에서 금리 자체보다 원/달러 환율 변동성에 더욱 민감하게 반응할 것으로 예상됩니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
+    "오늘의투자시사점": "미 연준의 긴축 행보와 추가 금리 인상 가능성을 고려하여 위험 자산 투자에 신중한 접근이 필요합니다. 국내 증시에서는 금리 외에 환율의 움직임이 중요한 변수가 될 수 있으므로 관련 동향을 주시해야 하며, 하반기 국내 경기 흐름에서 내수 부담이 가중될 수 있는 점도 투자 결정에 고려하시기 바랍니다.",
+    "오늘의한줄": "연준의 긴축 강화로 글로벌 증시 변동성 확대, 국내 증시는 환율과 내수 부담에 주목."
   },
   "top_news": [
     {
@@ -28,41 +28,40 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "다우존스 선물: S&P 500, 나스닥 지지선 하향 이탈; 연준 금리 인상 및 전망에 채권 시장 반응은?",
-      "display_title": "다우존스 선물: S&P 500, 나스닥 지지선 하향 이탈; 연준 금리 인상 및 전망에 채권 시장 반응은?",
-      "original_title": "Dow Jones Futures: S&P 500, Nasdaq Break Support; How Will Bonds React To Fed Rate Hike, Outlook? - Investor's Business Daily",
+      "title": "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years - Yahoo Finance",
+      "display_title": "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years - Yahoo Finance",
+      "original_title": "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years - Yahoo Finance",
       "summary": [
-        "주요 지수인 S&P 500과 나스닥이 지지선을 하향 이탈하며 시장의 불안감이 커지고 있습니다.",
-        "이는 다가오는 연준의 금리 인상 결정과 향후 경제 전망에 대한 투자자들의 경계심이 반영된 결과입니다.",
-        "금리 인상이 채권 시장에 미칠 영향을 주시하며 시장의 추가 하락 가능성에 대비해야 합니다."
+        "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years - Y...",
+        "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years Yah...",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "주요 지수인 S&P 500과 나스닥이 지지선을 하향 이탈하며 시장의 불안감이 커지고 있습니다. 이는 다가오는 연준의 금리 인상 결정과 향후 경제 전망에 대한 투자자들의 경계심이 반영된 결과입니다. 금리 인상이 채권 시장에 미칠 영향을 주시하며 시장의 추가 하락 가능성에 대비해야 합니다.",
-      "description": "다우존스 선물: S&P 500, 나스닥 지지선 하향 이탈. 연방준비제도(Fed)의 금리 인상과 향후 전망에 채권 시장이 어떻게 반응할지에 대한 분석입니다.",
+      "summary_text": "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years - Y... Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years Yah... 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years Yahoo Finance",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전체 시장",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "AI/소프트웨어",
       "related_stocks": [
         "네이버",
         "카카오",
         "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "주요 지수의 지지선 이탈은 투자 심리 악화와 추가 하락 가능성을 시사하므로 주의 깊은 접근이 필요합니다.",
-      "key_signal": "연준의 금리 결정과 그에 따른 채권 시장의 반응을 오늘 반드시 확인해야 합니다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "미국 증시",
-        "금리 인상",
-        "채권 시장",
-        "S&P 500",
-        "나스닥"
+        "as",
+        "equity",
+        "fall",
+        "fed"
       ],
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDY5cGk1b1piYWlVVV9zbXlFVjRZRjNGSDZOWUU1emRTYWd2dExlYS1wcFBPRTBTcTNQNkdLWUhrUnRtdDNjLXgzM05NblpsZjUybUlDbFdUT2JicmhzenFNUjFqa0h1Y0VLdXpvWTM1S2RyWjNaaUxzcG84ckhTNzlxM285OGdiQ3R4UVpwTEhsYTlacmc2Q09tS2VxNk15VkluVWlveUFLalNOZjVPUW9KRmFyc1BCbXRDSERmNU1EZEJGTXc?oc=5",
-      "published": "2026-09-16 05:52",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXctWDRFQng1ejF0X2FPX2h5NkdCSE91Z2t4MGYweW5fT2xsZ251Sjg2NnkxSTNSczJRT3FzVjM0WmVFeElQYWc3LTh4bExpTk1XN3dzbGtqTDlyV0FxeVRCbGQ2dzZWZk9HM1ZDNTBGSVk3UGY4blVXb3M4eVFwanZqSWFSNFRQQlptVXdyaGpqQXRzcXNQZXFzSm8?oc=5",
+      "published": "2026-09-17 06:08",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -70,41 +69,40 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 결정 앞두고 10년 만기 국채 금리 5% 돌파하며 주식 시장 하락",
-      "display_title": "연준 결정 앞두고 10년 만기 국채 금리 5% 돌파하며 주식 시장 하락",
-      "original_title": "Stock market slips as 10-year Treasury yield tops 5% ahead of Fed decision - TradingView",
+      "title": "US stocks slip after Fed hikes interest rates and hints more increases may be on the way - CommBank",
+      "display_title": "US stocks slip after Fed hikes interest rates and hints more increases may be on the way - CommBank",
+      "original_title": "US stocks slip after Fed hikes interest rates and hints more increases may be on the way - CommBank",
       "summary": [
-        "미국 10년 만기 국채 금리가 5%를 넘어서면서 주식 시장이 하락세를 기록했습니다.",
-        "이는 높은 금리가 주식의 매력을 떨어뜨리고 기업의 자금 조달 비용을 증가시킬 것이라는 우려를 반영합니다.",
-        "국채 금리 상승은 성장주에 특히 부정적인 영향을 미칠 수 있으므로 금리 추이를 면밀히 지켜봐야 합니다."
+        "US stocks slip after Fed hikes interest rates and hints more increases may be on the way - CommBank",
+        "US stocks slip after Fed hikes interest rates and hints more increases may be on the way CommBank",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "미국 10년 만기 국채 금리가 5%를 넘어서면서 주식 시장이 하락세를 기록했습니다. 이는 높은 금리가 주식의 매력을 떨어뜨리고 기업의 자금 조달 비용을 증가시킬 것이라는 우려를 반영합니다. 국채 금리 상승은 성장주에 특히 부정적인 영향을 미칠 수 있으므로 금리 추이를 면밀히 지켜봐야 합니다.",
-      "description": "연방준비제도(Fed)의 금리 결정이 임박한 가운데 10년 만기 미국 국채 금리가 5%를 돌파하면서 주식 시장이 하락세를 보였습니다.",
+      "summary_text": "US stocks slip after Fed hikes interest rates and hints more increases may be on the way - CommBank US stocks slip after Fed hikes interest rates and hints more increases may be on the way CommBank 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "US stocks slip after Fed hikes interest rates and hints more increases may be on the way CommBank",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "기술주",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "은행",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
-      "investment_view": "주의",
-      "investment_reason": "기준 금리 인상 압력이 높아지는 상황에서 장기 국채 금리 5% 돌파는 시장 전반의 조정 가능성을 높입니다.",
-      "key_signal": "연준의 금리 결정 내용과 향후 금리 전망에 대한 언급이 가장 중요한 변수가 될 것입니다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "미국 국채 금리",
-        "주식 시장",
-        "연준",
-        "금리 상승",
-        "채권"
+        "be",
+        "commbank",
+        "fed",
+        "hikes"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkRzOHRWUkt5LWduRFg2YjZDNzh2TWk2QlBfWjBpRkpDWHBrX2xyc2RJRWpEbjFHd0ZuRlRpRTZERkxKOU5HZ0FQYVVWeEhQaWwtUnljY0lzYko0M250clVack5JSHZPWHhnUXhiQWlmQUxrOVlyRWd6VTk0VmFaWGo4T3pvNFljT3dxOGNPMGpaaVNNOUxYdHM2dzZHVk5MeHRCSk1JWjNGT1R4NUItYWZFcFZDZXBQU3FSN0tUZkRUUTQyTzZVTUdFbGNBVEs0S1E?oc=5",
-      "published": "2026-09-15 22:33",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMF94cTdWeThQeDZIT2FTYlR0OV9Oa3JRbXN0ekdsYTJod052UWRrX00xc3VJUzlqU3pzN2MxRjliM1djWUtjS2JOTlMwV3VxZXhKOVg3V2g2UVVJYkN0U2JKQmZSQTUxQkVscXVObm5fbV9pY1FnTVVlWklMNkxCVjBKaVZNbl85Y2lOal94Z2xGNDdSbmE1cENjTFlfX0g2cldUMEU3SzlUajFJ?oc=5",
+      "published": "2026-09-17 08:02",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -112,41 +110,40 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "유가 급등 및 기준 국채 금리 5% 돌파로 월스트리트 하락 마감",
-      "display_title": "유가 급등 및 기준 국채 금리 5% 돌파로 월스트리트 하락 마감",
-      "original_title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5% - Reuters",
+      "title": "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points - Investor's Business Daily",
+      "display_title": "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points - Investor's Business Daily",
+      "original_title": "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points - Investor's Business Daily",
       "summary": [
-        "뉴욕 증시가 유가 급등과 벤치마크 국채 금리의 5% 돌파로 인해 하락 마감했습니다.",
-        "고유가와 고금리는 기업의 비용 부담을 늘리고 소비 심리를 위축시켜 경기 둔화 우려를 심화시킵니다.",
-        "에너지 관련주와 금융주는 상대적으로 선방할 수 있으나, 전반적인 시장 심리는 위축될 것으로 예상됩니다."
+        "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points - Investor's Business Daily",
+        "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points Investor's Business Daily",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "뉴욕 증시가 유가 급등과 벤치마크 국채 금리의 5% 돌파로 인해 하락 마감했습니다. 고유가와 고금리는 기업의 비용 부담을 늘리고 소비 심리를 위축시켜 경기 둔화 우려를 심화시킵니다. 에너지 관련주와 금융주는 상대적으로 선방할 수 있으나, 전반적인 시장 심리는 위축될 것으로 예상됩니다.",
-      "description": "유가가 급등하고 기준 국채 금리가 5%를 돌파하면서 월스트리트 증시가 하락 마감했습니다.",
+      "summary_text": "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points - Investor's Business Daily Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points Investor's Business Daily 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points Investor's Business Daily",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "에너지",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "AI/소프트웨어",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "고유가와 고금리라는 복합 악재는 기업 실적과 소비자 구매력에 부정적 영향을 미쳐 시장 전반의 하방 압력을 높입니다.",
-      "key_signal": "유가 및 국채 금리 추이를 계속 주시하며 인플레이션 압력과 연준의 대응을 지켜봐야 합니다.",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "유가 급등",
-        "국채 금리",
-        "월스트리트",
-        "인플레이션",
-        "시장 하락"
+        "amd",
+        "bloom",
+        "business",
+        "buy"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
-      "published": "2026-09-16 06:09",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOENuczFBYV83cV9CMHJ2M3ZxcnVjWm5lb3lyNWJmQmEzWXV1UzMxYmRFX0U0RUFpZk1TZHFLSlZhaDliUzVXVTYzSzd5MDl4alFaSVlLeEdGLUp6UEFiMFNJTmpIVkhEZXduSDkwOXR6QnFPVFVCNVgzRFVTS1FqN2pma0VSMWZxVzhwTS1kbm51aUx4d3NsS3ZYSk1LUUZoTUlKVHdYOEtfZjR6eEowOGhiRTZabDJBOGZPOUZiTFl0YVc5VnJLSXc0WHc3LXd0b0E?oc=5",
+      "published": "2026-09-17 07:26",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -154,37 +151,40 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 결정 임박 속 10년 만기 국채 금리 2007년 이후 최고 수준 기록",
-      "display_title": "연준 결정 임박 속 10년 만기 국채 금리 2007년 이후 최고 수준 기록",
-      "original_title": "10-Year Treasury Yield At Highest Level Since 2007 As Fed Decision Looms - Benzinga",
+      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
+      "display_title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
+      "original_title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
       "summary": [
-        "미국 10년 만기 국채 금리가 2007년 이후 최고치에 도달하며 연준의 금리 결정에 대한 시장의 긴장감이 고조되고 있습니다.",
-        "이러한 고금리 환경은 기업의 자금 조달 비용을 증가시키고 주식 시장의 밸류에이션 부담을 가중시키는 요인으로 작용합니다.",
-        "연준의 매파적 스탠스가 유지될 경우 금리 인상 기조가 장기화될 수 있으므로 관련 투자 전략을 재검토해야 합니다."
+        "U.S.",
+        "stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
+        "증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다."
       ],
-      "summary_text": "미국 10년 만기 국채 금리가 2007년 이후 최고치에 도달하며 연준의 금리 결정에 대한 시장의 긴장감이 고조되고 있습니다. 이러한 고금리 환경은 기업의 자금 조달 비용을 증가시키고 주식 시장의 밸류에이션 부담을 가중시키는 요인으로 작용합니다. 연준의 매파적 스탠스가 유지될 경우 금리 인상 기조가 장기화될 수 있으므로 관련 투자 전략을 재검토해야 합니다.",
-      "description": "연방준비제도(Fed)의 금리 결정이 임박한 가운데, 10년 만기 미국 국채 금리가 2007년 이후 최고 수준을 기록했습니다.",
+      "summary_text": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS 증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다.",
+      "description": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전체 시장",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "장기 국채 금리 급등은 주식 시장의 하방 압력을 높이고 투자 비용 증가로 이어질 수 있으므로 보수적인 관점이 필요합니다.",
-      "key_signal": "연준의 금리 인상 폭과 향후 정책 스탠스에 대한 시그널이 금리 시장의 추가 변동성을 결정할 것입니다.",
-      "keywords": [
-        "10년 국채 금리",
-        "2007년 최고치",
-        "연준 결정",
-        "금리 인상",
-        "시장 변동성"
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "AI/소프트웨어",
+      "related_stocks": [
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG9LbVg1MlZPc29BeXR1dkNsUjdSbi1LWDJEa3lGdEZGY3NhVHdYWnRZMVAwa184cUtCZWVkWXBzSVczRVBTQnRZampjNWlObG4xZDhOTHdGMWZpeDQxMjNyQkFYMEtSM1hRU2JaMGp0ZUFnQkNrcTR5NkZwS0dIei15WHVNaUpGWlpNeUh2RWN4bVpmdE1QX2lGSWUtMUpaYlRsSnYwMXFkdkU4YTdRNVJZMTZwNnctS2RCMg?oc=5",
-      "published": "2026-09-16 01:59",
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "keywords": [
+        "be",
+        "fed",
+        "hikes",
+        "hints"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
+      "published": "2026-09-17 06:32",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -192,41 +192,40 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[마켓뷰] 낙폭 과대 인식 vs 거시경제 및 FOMC 경계심…코스피 향방은?",
-      "display_title": "[마켓뷰] 낙폭 과대 인식 vs 거시경제 및 FOMC 경계심…코스피 향방은?",
-      "original_title": "[마켓뷰] 낙폭 과대 vs 매크로·FOMC 경계심…코스피 향방은 - 연합뉴스",
+      "title": "IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] - 서울경제",
+      "display_title": "IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] - 서울경제",
+      "original_title": "IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] - 서울경제",
       "summary": [
-        "코스피 시장은 최근 낙폭이 과도하다는 인식과 거시경제 불확실성, FOMC 결과에 대한 경계심이 팽팽히 맞서고 있습니다.",
-        "이는 국내외 복합적인 요인들이 시장 심리에 영향을 미치며 투자 방향 설정에 혼란을 주고 있음을 의미합니다.",
-        "과대 낙폭 종목에 대한 관심은 유효하나, FOMC 결과 발표 전까지는 보수적인 접근이 필요합니다."
+        "IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] - 서울경제",
+        "IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] 서울경제",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "코스피 시장은 최근 낙폭이 과도하다는 인식과 거시경제 불확실성, FOMC 결과에 대한 경계심이 팽팽히 맞서고 있습니다. 이는 국내외 복합적인 요인들이 시장 심리에 영향을 미치며 투자 방향 설정에 혼란을 주고 있음을 의미합니다. 과대 낙폭 종목에 대한 관심은 유효하나, FOMC 결과 발표 전까지는 보수적인 접근이 필요합니다.",
-      "description": "[마켓뷰] 국내 증시에서 최근 낙폭이 과대하다는 인식과 거시경제 지표 및 FOMC 결과에 대한 경계심이 충돌하고 있는 가운데, 코스피의 향방에 대한 분석입니다.",
+      "summary_text": "IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] - 서울경제 IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] 서울경제 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] 서울경제",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 5,
       "market_impact": "중립",
-      "related_sector": "전체 시장",
+      "related_sector": "금융/증권",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "중립",
-      "investment_reason": "낙폭 과대 인식은 저점 매수 기회를 제공할 수 있으나, FOMC 결과 등 대외 불확실성 해소 전까지는 관망세가 유리할 수 있습니다.",
-      "key_signal": "FOMC 금리 결정 내용과 파월 의장의 발언이 국내 증시의 방향성을 결정할 가장 중요한 변수입니다.",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "코스피",
-        "낙폭 과대",
-        "FOMC",
-        "거시경제",
-        "투자 심리"
+        "ibk",
+        "가능성",
+        "국내",
+        "금리보다"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRThCOTBsRHRIcTQxdF9VaGExSjNSN3lkMDVMVjMwZ3pEVk91RU9UM1gyeGJFUHlJMDM3LWs0UktlWTJ5VnVzMFBJcnJIZDVLWWMxbkdqblQ0dDDSAWBBVV95cUxNZWY2QnJyaXVIZk1ubHpLVUZsc2RackpYTzdoS0d1Mzh3VWkxeUNtNkxkRnJJWkVuMmdYVVdJY1FZeUZtR1pNbTlZMGpEcmc3SXRPcDZBdnpEa1RZTHZySWE?oc=5",
-      "published": "2026-09-16 07:58",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZcExScjJIT21ObVNOanBGWm9YVzBLMlZpamJrb18zb3k3VzM0SllOYjFoX2FNaS11b3NheUtGMzhmVzBfb05NMkpjeW1ueTZXaEE?oc=5",
+      "published": "2026-09-17 08:45",
       "quality": {
         "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     },
     {
@@ -234,41 +233,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "내년에도 반도체 호황 지속, 경기 확장 전망",
-      "display_title": "내년에도 반도체 호황 지속, 경기 확장 전망",
-      "original_title": "“내년에도…반도체 호황 지속, 경기 확장” - 중소기업투데이",
+      "title": "美 다시 긴축 고삐…하반기 한국경제 '수출 회복·내수 부담' 교차 - ebn.co.kr",
+      "display_title": "美 다시 긴축 고삐…하반기 한국경제 '수출 회복·내수 부담' 교차 - ebn.co.kr",
+      "original_title": "美 다시 긴축 고삐…하반기 한국경제 '수출 회복·내수 부담' 교차 - ebn.co.kr",
       "summary": [
-        "내년에도 반도체 산업의 호황이 이어지며 국내 경제가 확장세를 보일 것이라는 긍정적인 전망이 나왔습니다.",
-        "이는 인공지능(AI), 데이터 센터 등 첨단 기술 수요가 견고하게 유지될 것이라는 기대감에 기반합니다.",
-        "반도체 관련 기업들의 실적 개선과 국내 경기 전반의 활성화에 대한 투자 기회를 모색할 필요가 있습니다."
+        "美 다시 긴축 고삐…하반기 한국경제 '수출 회복·내수 부담' 교차 - ebn.co.kr",
+        "美 다시 긴축 고삐…하반기 한국경제 '수출 회복·내수 부담' 교차 ebn.co.kr",
+        "국내 거시경제 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "내년에도 반도체 산업의 호황이 이어지며 국내 경제가 확장세를 보일 것이라는 긍정적인 전망이 나왔습니다. 이는 인공지능(AI), 데이터 센터 등 첨단 기술 수요가 견고하게 유지될 것이라는 기대감에 기반합니다. 반도체 관련 기업들의 실적 개선과 국내 경기 전반의 활성화에 대한 투자 기회를 모색할 필요가 있습니다.",
-      "description": "내년에도 반도체 산업의 호황이 지속되고 국내 경기가 확장될 것으로 전망됩니다.",
+      "summary_text": "美 다시 긴축 고삐…하반기 한국경제 '수출 회복·내수 부담' 교차 - ebn.co.kr 美 다시 긴축 고삐…하반기 한국경제 '수출 회복·내수 부담' 교차 ebn.co.kr 국내 거시경제 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "美 다시 긴축 고삐…하반기 한국경제 '수출 회복·내수 부담' 교차 ebn.co.kr",
       "category": "국내 거시경제",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체",
-      "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "국내 경제의 핵심 동력인 반도체 산업의 지속적인 호황은 관련 기업들의 실적과 국내 증시에 긍정적인 영향을 미칠 것입니다.",
-      "key_signal": "글로벌 반도체 수요 변화와 국내 기업들의 투자 계획, 그리고 AI 산업의 발전 동향을 지속적으로 체크해야 합니다.",
+      "importance": 5,
+      "market_impact": "부정",
+      "related_sector": "시장 전반",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "국내 경기와 물가, 수출 흐름은 실적 민감 업종과 정책 방향에 연결되므로 투자 판단의 기초 자료가 됩니다.",
+      "key_signal": "국내 경기지표와 정책 대응 속도 점검",
       "keywords": [
-        "반도체 호황",
-        "경기 확장",
-        "국내 경제",
-        "AI 수요",
-        "IT 산업"
+        "co",
+        "ebn",
+        "kr",
+        "고삐"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90ZXNMVVNvWVRTWEZIMjFnM0pncWROTzc3djkySVBxWTB5dHEwSGJFR3B0X3NGVUtub1ZIR3NVTmkxZC1Sc0EyUjkwXzNNZ25CcTcxUkllaWNiSzlTMV9TaF95Yi01cFFv0gFsQVVfeXFMTl96SWlwdHhlS1dhN0EtcGpJbGtFcEZ5V1REUWEwOXJwVDJkYTRLLUZhOVBaRzRNQXQ1b05rLUc0dkw0c1luaWV5NGh5bkVxTl9SSElkaFNmR1oyWDJaLTJyQWZPRlVmR2ZBdjY1?oc=5",
-      "published": "2026-09-15 22:32",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4td3hFWEQwLW1IYVZUNzk2UFdJWkpVODRqdmVSVFl4VFJ0S21UekQzcHRKVDJ2VG5vamk3TTYzWWF1LUJxMWNkbnFhemdFbmZIQkF1YXBLbXprLXZya2tEM19seFJOLU5Z?oc=5",
+      "published": "2026-09-17 06:47",
       "quality": {
         "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
       }
     }
   ],
@@ -279,44 +273,50 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 증시의 하방 압력에도 불구하고, 내년 반도체 업황 호황 지속 전망은 삼성전자의 실적 개선 기대감을 높이는 긍정적인 요인입니다. 거시경제 불확실성과 반도체 업황 회복 간의 줄다리기가 예상되므로 관심 있게 지켜볼 필요가 있습니다.",
+      "reason": "미국 연준의 금리 인상 기조는 글로벌 기술주의 밸류에이션에 영향을 미칠 수 있으며, 주요 수출 품목인 반도체의 수요와 환율 변동성에도 주목해야 합니다.",
       "check_points": [
-        "반도체 재고 소진 및 가격 반등 여부",
-        "미국 연준의 금리 인상 폭 및 향후 통화정책 방향"
+        "글로벌 반도체 업황 회복 시점",
+        "달러-원 환율 추이",
+        "주요 국가별 IT 수요 변화"
       ],
       "related_news_titles": [
-        "내년에도 반도체 호황 지속, 경기 확장 전망",
-        "다우존스 선물: S&P 500, 나스닥 지지선 하향 이탈; 연준 금리 인상 및 전망에 채권 시장 반응은?"
+        "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years - Yahoo Finance",
+        "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points - Investor's Business Daily",
+        "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "은행",
       "opinion": "관심",
-      "reason": "메모리 반도체 시장의 핵심 기업으로서, 내년 반도체 업황 호황 지속 전망에 따른 실적 턴어라운드 기대감이 부각되고 있습니다. 반도체 사이클 회복 시 가장 큰 수혜를 받을 수 있는 종목 중 하나입니다.",
+      "reason": "연준의 금리 인상은 국내 금리 인상 압력으로 이어져 은행의 순이자마진(NIM)에 긍정적인 영향을 줄 수 있으나, 동시에 경기 둔화에 따른 대출 건전성 악화 가능성도 함께 살펴야 합니다.",
       "check_points": [
-        "DRAM 및 NAND 시장의 수급 개선 속도",
-        "글로벌 IT 수요 회복세 및 신규 AI 반도체 수요 증가"
+        "국내 기준금리 인상 여부 및 폭",
+        "가계 및 기업 대출 연체율",
+        "부동산 시장 동향"
       ],
       "related_news_titles": [
-        "내년에도 반도체 호황 지속, 경기 확장 전망"
+        "US stocks slip after Fed hikes interest rates and hints more increases may be on the way - CommBank"
       ]
     },
     {
       "rank": 3,
-      "name": "SK이노베이션",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "에너지화학",
-      "opinion": "주의",
-      "reason": "국제 유가 급등과 고금리라는 복합적인 악재는 정유 및 석유화학 사업 부문에 변동성을 키울 수 있습니다. 고유가는 정제마진에 긍정적일 수 있으나, 전반적인 경기 둔화 우려와 높은 금리는 수요 위축으로 이어질 수 있어 주의 깊은 관찰이 필요합니다.",
+      "sector": "인터넷 서비스",
+      "opinion": "중립",
+      "reason": "고금리 환경은 미래 성장성을 기반으로 하는 기술 및 성장주의 밸류에이션에 부담으로 작용할 수 있으며, 경기 둔화에 따른 광고 매출 영향도 주시해야 합니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유) 추이 및 정제마진 변화",
-        "글로벌 경기 둔화에 따른 석유화학 제품 수요 변화"
+        "금리 인상 사이클의 종료 시점",
+        "플랫폼 규제 환경",
+        "신사업 투자 성과 및 수익화 속도"
       ],
       "related_news_titles": [
-        "유가 급등 및 기준 국채 금리 5% 돌파로 월스트리트 하락 마감"
+        "Update: US Equity Indexes Fall, Treasury Yields Jump as Fed Raises Interest Rates for First Time in Over Three Years - Yahoo Finance",
+        "Futures: Dow Falls On Fed, Trump Fumes; AMD, Bloom Eye Buy Points - Investor's Business Daily",
+        "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS"
       ]
     },
     {
@@ -324,15 +324,15 @@
       "name": "미래에셋증권",
       "market": "KOSPI",
       "sector": "증권",
-      "opinion": "주의",
-      "reason": "연준의 금리 인상 기조와 10년 만기 국채 금리 5% 돌파는 증권 시장 전반의 투자 심리를 위축시키고 있습니다. 이는 거래 대금 감소로 인한 브로커리지 수익 악화 및 부동산 PF 등 자산 건전성 우려로 이어질 수 있어 보수적인 관점으로 접근해야 합니다.",
+      "opinion": "중립",
+      "reason": "미국 금리 인상과 국내 증시의 환율 주목이라는 기조는 국내 증시의 변동성 확대로 이어질 수 있으며, 이는 증권사의 브로커리지 수익 및 자산운용 수익에 영향을 미칠 수 있습니다.",
       "check_points": [
-        "국내외 금리 추이 및 증시 거래 대금 변화",
-        "부동산 시장 동향 및 PF 관련 리스크 관리 현황"
+        "국내외 증시 거래대금 추이",
+        "환율 변동성 확대 여부",
+        "금리 상승에 따른 채권 평가 손익 변화"
       ],
       "related_news_titles": [
-        "연준 결정 앞두고 10년 만기 국채 금리 5% 돌파하며 주식 시장 하락",
-        "[마켓뷰] 낙폭 과대 인식 vs 거시경제 및 FOMC 경계심…코스피 향방은?"
+        "IBK證 “연준 연내 추가 인상 가능성…국내 증시, 금리보다 환율 주목”[마켓시그널] - 서울경제"
       ]
     }
   ],
