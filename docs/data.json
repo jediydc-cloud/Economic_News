@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20 08:55",
-  "analysis_date": "2026-09-20",
+  "generated_at": "2026-09-21 08:52",
+  "analysis_date": "2026-09-21",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 긴축 기조와 고환율 압력 속에서도 국내 증시는 외국인 수급에 힘입어 선방했으며, AI 데이터센터 관련 산업은 새로운 성장 동력으로 부상하고 있습니다.",
-    "국내거시경제": "원/달러 환율이 급등하며 1400원 돌파 가능성이 제기되는 가운데, 미국 금리 인상 여파로 국내 대출 이자 및 물가 상승 부담이 가중될 수 있습니다. 고환율은 수출 기업에 단기적으로 유리하나 전반적인 소비 위축과 외국인 자금 유출 우려를 키웁니다.",
-    "글로벌경제": "미국 연준의 매파적 금리 인상 기조와 유가 변동성이 시장 심리를 지배하며 인플레이션 압력이 지속되고 있습니다. AI 시장의 성장 기대와 잠재적 규제 문제는 기술주 투자 심리에 복합적으로 작용합니다.",
-    "증시금리": "연준의 통화 정책 발표를 앞두고 나스닥과 S&P 500의 변동성 확대가 예상됩니다. 국내 코스피는 매파적 FOMC에도 불구하고 외국인 매수세에 힘입어 선방하며 6900선 돌파를 시도하고 있습니다.",
-    "부동산정책": "해당 뉴스 없음",
-    "기업산업": "온세미(onsemi)의 SiC(탄화규소) 사업이 AI 데이터 센터의 고성능 전력 반도체 수요 증가에 힘입어 반등하며 새로운 성장 동력으로 주목받고 있습니다. 이는 AI 시장 확대에 따른 관련 기업들의 수혜를 시사합니다.",
-    "오늘의투자시사점": "글로벌 긴축 기조와 국내 고환율, 물가 상승 압력에 대한 주의가 필요합니다. 반면, AI 데이터 센터 관련 고성능 반도체 섹터는 중장기 성장 동력을 보유하고 있으며, 국내 증시의 외국인 수급 개선 지속 여부가 중요합니다. 방어적인 투자 전략과 함께 성장 산업에 대한 선별적 관심이 요구됩니다.",
-    "오늘의한줄": "글로벌 긴축과 국내 고환율 우려 속에서도 AI발 성장 동력과 외국인 수급에 힘입은 국내 증시의 선방에 주목해야 합니다."
+    "총평": "글로벌 고금리 장기화 기조와 주요국의 통상 정책 변화가 시장의 불확실성을 높이고 있으며, 국내 첨단산업 인프라 지원 이슈도 부각됩니다.",
+    "국내거시경제": "반도체, 배터리, 자동차 산업이 글로벌 관세 전쟁의 핵심으로, 국내 관련 산업의 수출 환경 변화가 예상됩니다. 첨단산업 공장 가동에 필수적인 도로, 용수 등 인프라 부족 문제가 제기되어 정부의 신속한 투자 지원이 요구됩니다.",
+    "글로벌경제": "미 연준의 '고금리 장기화' 기조가 유지되면서 글로벌 시장의 변동성이 커질 전망입니다. 이는 미국 주요 증시의 추가 하락 가능성을 높여 기업 실적과 소비 심리에 부정적 영향을 줄 수 있습니다.",
+    "증시금리": "연준의 통화정책과 국채 금리 변동이 증시를 주도하며, 특히 국채 금리 상승은 기술주에 하방 압력으로 작용했습니다. 다만, 연준의 매파적 스탠스 속에서도 나스닥 100 지수가 견조한 흐름을 보인 시점도 있었습니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "반도체, 배터리, 자동차 산업은 글로벌 패권 경쟁의 중심에 서며 통상 정책 변화에 민감하게 대응해야 합니다. 국내 첨단산업 클러스터 조성을 위한 인프라 확충이 시급하며, 관련 기업 투자에 대한 관심이 필요합니다.",
+    "오늘의투자시사점": "고금리 장기화에 대비한 보수적 투자 관점과 금리 민감도가 낮은 기업 발굴이 중요합니다. 글로벌 관세 전쟁 전개에 따른 국내 주력 산업의 변화에 선제적으로 대응해야 하며, 국내 첨단산업 인프라 투자 관련 정책 수혜 기업에 주목할 필요가 있습니다.",
+    "오늘의한줄": "글로벌 고금리 장기화와 통상 환경 변화 속, 국내 첨단산업 인프라 구축 및 관련 투자 기회에 주목해야 합니다."
   },
   "top_news": [
     {
@@ -28,35 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "온세미의 SiC 반등, AI 데이터 센터가 다음 성장 동력인 이유를 보여주다",
-      "display_title": "온세미의 SiC 반등, AI 데이터 센터가 다음 성장 동력인 이유를 보여주다",
-      "original_title": "onsemi’s SiC Rebound Shows Why AI Data Centers Are Its Next Growth Engine - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "title": "주간 글로벌 시장: 연준, 인플레이션 및 금리 결정이 시장 움직임 주도",
+      "display_title": "주간 글로벌 시장: 연준, 인플레이션 및 금리 결정이 시장 움직임 주도",
+      "original_title": "Global markets weekly: Fed, inflation and rate decisions drive market moves - TradingView",
       "summary": [
-        "온세미(onsemi)의 SiC(탄화규소) 사업이 반등세를 보이며, AI 데이터 센터 시장이 회사의 주요 성장 동력으로 부상하고 있습니다.",
-        "SiC는 고전력, 고효율 특성으로 전기차 및 산업용에 주로 사용되었으나, AI 데이터 센터의 전력 효율 요구 증가로 활용 범위가 확대되고 있습니다.",
-        "AI 시장 확대에 따른 고성능 전력 반도체 수요 증가 수혜가 예상되므로 관련 기업들에 대한 관심이 필요합니다."
+        "글로벌 시장은 연준의 통화정책, 인플레이션 지표, 각국 금리 결정에 의해 크게 영향을 받고 있다.",
+        "고인플레이션 환경에서 각국 중앙은행들이 긴축 정책을 펼치면서 금리 변동성이 시장을 지배하고 있는 배경이다.",
+        "주요 중앙은행의 통화정책 기조 변화와 경제 지표 발표에 따라 시장의 변동성이 커질 수 있으므로 신중한 접근이 필요하다."
       ],
-      "summary_text": "온세미(onsemi)의 SiC(탄화규소) 사업이 반등세를 보이며, AI 데이터 센터 시장이 회사의 주요 성장 동력으로 부상하고 있습니다. SiC는 고전력, 고효율 특성으로 전기차 및 산업용에 주로 사용되었으나, AI 데이터 센터의 전력 효율 요구 증가로 활용 범위가 확대되고 있습니다. AI 시장 확대에 따른 고성능 전력 반도체 수요 증가 수혜가 예상되므로 관련 기업들에 대한 관심이 필요합니다.",
-      "description": "온세미컨덕터(onsemi)의 탄화규소(SiC) 사업이 반등하며, AI 데이터 센터가 회사의 새로운 성장 동력이 될 잠재력을 입증하고 있습니다.",
-      "category": "기업·산업",
+      "summary_text": "글로벌 시장은 연준의 통화정책, 인플레이션 지표, 각국 금리 결정에 의해 크게 영향을 받고 있다. 고인플레이션 환경에서 각국 중앙은행들이 긴축 정책을 펼치면서 금리 변동성이 시장을 지배하고 있는 배경이다. 주요 중앙은행의 통화정책 기조 변화와 경제 지표 발표에 따라 시장의 변동성이 커질 수 있으므로 신중한 접근이 필요하다.",
+      "description": "주간 글로벌 시장에서 연방준비제도(Fed)의 정책, 인플레이션 동향, 각국 중앙은행의 금리 결정이 시장의 주요 움직임을 이끌고 있다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, AI 데이터센터, 전력 반도체",
+      "market_impact": "중립",
+      "related_sector": "전 업종",
       "related_stocks": [
-        "온세미"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 데이터 센터 성장에 따른 고성능 전력 반도체 수요 증가로 온세미와 같은 SiC 관련 기업들의 실적 개선이 기대됩니다.",
-      "key_signal": "AI 데이터 센터 구축 가속화 및 SiC 반도체 기술 발전 동향을 지속적으로 관찰해야 합니다.",
+      "investment_reason": "거시 경제 환경 변화가 전반적인 시장 방향성을 결정하는 핵심 요인이기 때문이다.",
+      "key_signal": "이번 주 예정된 주요 경제지표 발표와 중앙은행 관계자들의 발언에 주목하여 시장 방향성을 예측해야 한다.",
       "keywords": [
-        "온세미",
-        "SiC",
-        "AI 데이터센터",
-        "전력 반도체",
-        "성장 동력"
+        "연준",
+        "인플레이션",
+        "금리 결정",
+        "글로벌 시장",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5McEVMck1MdGVySGtibDF2MVlBbkpzUzgyX2duWHVBdVV5Vk9ZWG9kTzNuWjlmMnp5YWdSRkNDOEpLNFZjbkRnODVpaWFCcHROTWxPX1NYUFNncUN1dzFOWlRBd0F6X1JqUDJoVEROa1FVaE9JN0hmRnpHeFgyRDQ?oc=5",
-      "published": "2026-09-19 23:46",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWGZULWNyclQyT21xeXA2N1JXS2R1XzQ0aDJIWEQzMlRyNUhWMGtfRi1UVE1xbFNTZkZtQ1VSZ3hDQm5IQlZkS3l5aVV0MXVmXzM3YTduTGN6aXVPS2FqWHVWamtoOUNteW1JMzJLbkJrSENFU1NackZrYkhUMmUzSllTWHFWSmNZOEFGc01iX0ptWnVoRXQ0UXV4MW9TTkJmV0EwWHMwckRkVXZTakwyVlZGS1JNel9NQWhUQU13bVUyM3N4UF9yVVEwRmFXN2IyZlE?oc=5",
+      "published": "2026-09-21 05:18",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -65,83 +67,84 @@
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "50원 뛴 환율, 1400원 넘어설까…\"연말 1420원\" vs \"추세 전환 일러\"",
-      "display_title": "50원 뛴 환율, 1400원 넘어설까…\"연말 1420원\" vs \"추세 전환 일러\"",
-      "original_title": "50원 뛴 환율, 1400원 넘어설까…\"연말 1420원\" vs \"추세 전환 일러\" - 파이낸셜뉴스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "연준, 고금리 장기화 기조 유지: S&P 500, 나스닥, 다우 추가 하락 가능성은? 투자자들이 주목할 점은?",
+      "display_title": "연준, 고금리 장기화 기조 유지: S&P 500, 나스닥, 다우 추가 하락 가능성은? 투자자들이 주목할 점은?",
+      "original_title": "Fed keeps rates higher for longer: Could S&P 500, Nasdaq and Dow face more losses? What investors should watch next | Business News - Hindustan Times",
       "summary": [
-        "원/달러 환율이 50원 급등하여 1400원 돌파 가능성에 대한 의견이 분분합니다.",
-        "미국 연방준비제도(Fed)의 매파적 기조 유지, 국내외 경기 불확실성 증대가 환율 상승 압력으로 작용하고 있습니다.",
-        "고환율은 수출 기업에 단기적으로 유리할 수 있지만, 수입 물가 상승과 외국인 자금 유출 우려를 키워 증시에 부담을 줄 수 있습니다."
+        "연준의 '고금리 장기화(higher for longer)' 기조 유지로 미국 주요 증시의 추가 하락 가능성이 제기되고 있다.",
+        "인플레이션 압력이 지속되고 연준이 이를 억제하기 위해 긴축 정책을 장기간 유지할 의지를 보이며 시장에 불확실성을 가중시키고 있다.",
+        "고금리 장기화는 기업 실적과 소비 심리에 부정적으로 작용하며, 주식 시장 전반에 하방 압력을 가할 수 있으므로 보수적인 관점 유지가 필요하다."
       ],
-      "summary_text": "원/달러 환율이 50원 급등하여 1400원 돌파 가능성에 대한 의견이 분분합니다. 미국 연방준비제도(Fed)의 매파적 기조 유지, 국내외 경기 불확실성 증대가 환율 상승 압력으로 작용하고 있습니다. 고환율은 수출 기업에 단기적으로 유리할 수 있지만, 수입 물가 상승과 외국인 자금 유출 우려를 키워 증시에 부담을 줄 수 있습니다.",
-      "description": "원/달러 환율이 50원 급등하며 1400원 돌파 여부에 대한 논의가 활발한 가운데, 연말 1420원 도달 전망과 추세 전환이 이르다는 의견이 대립하는 기사입니다.",
-      "category": "국내 거시경제",
+      "summary_text": "연준의 '고금리 장기화(higher for longer)' 기조 유지로 미국 주요 증시의 추가 하락 가능성이 제기되고 있다. 인플레이션 압력이 지속되고 연준이 이를 억제하기 위해 긴축 정책을 장기간 유지할 의지를 보이며 시장에 불확실성을 가중시키고 있다. 고금리 장기화는 기업 실적과 소비 심리에 부정적으로 작용하며, 주식 시장 전반에 하방 압력을 가할 수 있으므로 보수적인 관점 유지가 필요하다.",
+      "description": "연방준비제도(Fed)가 고금리 기조를 더 오래 유지할 것으로 예상됨에 따라 S&P 500, 나스닥, 다우 지수가 추가 하락에 직면할지, 투자자들이 다음으로 무엇을 주시해야 할지에 대한 기사이다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "수출주, 반도체, 자동차",
+      "market_impact": "부정",
+      "related_sector": "전 업종, 특히 성장주",
       "related_stocks": [
-        "삼성전자",
-        "현대차"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "환율 변동은 기업 실적과 외국인 수급에 직접적인 영향을 미치므로, 투자 전략 수립 시 주요 고려 사항입니다.",
-      "key_signal": "미국 금리 인상 기조, 글로벌 경기 침체 우려, 국내 수출입 동향 등을 종합적으로 분석하여 환율의 추가 상승 가능성을 예측해야 합니다.",
+      "investment_reason": "연준의 고금리 장기화 기조는 글로벌 유동성을 위축시키고 한국 증시에도 직접적인 하방 압력으로 작용할 수 있기 때문이다.",
+      "key_signal": "연준 관계자들의 발언과 다음 FOMC 회의 결과, 그리고 미국 인플레이션 지표 변화를 면밀히 주시해야 한다.",
       "keywords": [
-        "환율",
-        "원달러",
-        "고환율",
-        "금리 인상",
-        "수출 기업"
+        "연준",
+        "고금리 장기화",
+        "미국 증시",
+        "인플레이션",
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50eXJNdGw2eFhIYlZoQ2hIVFBWYURUSGZWdnVTNExNLVB6YmlPeEM3UU02LURweWtITXVoTXdsWVRQMGVoMGNOSGJLX2NkN3lvMXRiQzBpZ01IQQ?oc=5",
-      "published": "2026-09-20 06:50",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORF9aNzNSRFVoRFNnQ21SaVNLbkU1OHJ1Zk5iYkVNU2M0SFRjOGg1MEI5b1ZhQm1oTXNsOE9uZS03a25kdENnUVRXTTktb1hpcUhjdzYwRUdxZXdtdmprWWM1ZWRoMm9vVjFkRmtZMUxTSVpIaS01XzBteEtMRnQxR1JoMl9qUFhhWU1OSjUzSzZtNFlCR3lvVG8xRWJPdU85Y3BtQXBSU3NDUEVNZlNPenhiemtfenFKSGd3SWtFbkQ3Q2taQTNhVmtySDVtdUhoalRUWGh3RkVDWFQyMVB6S2FNbjJlZEdMTXFnS2xKNUdnYy1wcjdJeTRyV1RPZE8wRHdV0gGIAkFVX3lxTFA2RzY5THlIUkxKbjhxMjJvM3NDYkphRm5DLW1UOU5hNDE3bHZCRHE2RjBncnRlZGVpRjI2Q2loMFFKSERieFNTS1N6Q2VVSGMtWXE2eHZ2LTVKVHl1LTZVelVCeVA5NjMyWFRWbGdSa2Y5cGE5V1VKaG11THU5MXJnMmtBZHNCRzVHMDJzQThoVVpsdl9XQTljNjBwM3YxTXlCREk4ckJSb3JKNWI5cE5ZeFhFcGtjQmZJYUpzX2hZWlRYakFfWEp4Sm5RVEhDRjUxNE1HMTNOb3l6WmFhSWRkVU8wbUlEaVFrc2VMbjJIZFEyR1JxY0lUbGZHbW1sNGItX1dzSHkxdw?oc=5",
+      "published": "2026-09-20 19:54",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "주말 모닝 브리핑: 연준 금리 인상, 유가, AI 우려가 시장 심리를 좌우",
-      "display_title": "주말 모닝 브리핑: 연준 금리 인상, 유가, AI 우려가 시장 심리를 좌우",
-      "original_title": "Weekend Morning Brew: Fed Rate Hike, Oil Prices, and AI Concerns Drive Market Sentiment - GuruFocus",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "반도체·배터리·자동차가 관세 전쟁의 중심에 선 이유",
+      "display_title": "반도체·배터리·자동차가 관세 전쟁의 중심에 선 이유",
+      "original_title": "반도체·배터리·자동차가 관세전쟁의 중심에 선 이유 - taxtimes.co.kr",
       "summary": [
-        "연준의 금리 인상, 유가 변동, AI 관련 우려 등 세 가지 주요 요인이 주말 동안 시장 심리를 형성하고 있습니다.",
-        "금리 인상은 소비를 위축시키고 유가는 인플레이션을 자극하며, AI 우려는 기술 성장 기대와 잠재적 규제 문제 사이의 투자 심리를 반영합니다.",
-        "이 세 가지 거시경제 및 산업 트렌드는 향후 시장 방향성과 개별 섹터의 성과에 중대한 영향을 미치므로 면밀히 주시해야 합니다."
+        "반도체, 배터리, 자동차 산업이 글로벌 경제 패권 경쟁의 핵심이자 관세 전쟁의 주요 타겟이 되고 있다.",
+        "각국이 자국 산업 보호 및 공급망 재편을 위해 전략적으로 중요성이 큰 이들 산업에 대한 무역 장벽을 높이고 있는 배경이다.",
+        "관세 전쟁의 전개 양상에 따라 국내 관련 산업의 수출 환경 및 경쟁 구도에 큰 변화가 예상되므로, 통상 정책 변화에 민감하게 대응할 필요가 있다."
       ],
-      "summary_text": "연준의 금리 인상, 유가 변동, AI 관련 우려 등 세 가지 주요 요인이 주말 동안 시장 심리를 형성하고 있습니다. 금리 인상은 소비를 위축시키고 유가는 인플레이션을 자극하며, AI 우려는 기술 성장 기대와 잠재적 규제 문제 사이의 투자 심리를 반영합니다. 이 세 가지 거시경제 및 산업 트렌드는 향후 시장 방향성과 개별 섹터의 성과에 중대한 영향을 미치므로 면밀히 주시해야 합니다.",
-      "description": "연방준비제도(Fed)의 금리 인상, 국제 유가 변동, AI 관련 우려 등 주요 요인들이 현재 시장 심리에 미치는 영향에 대한 주말 브리핑입니다.",
-      "category": "글로벌 경제",
+      "summary_text": "반도체, 배터리, 자동차 산업이 글로벌 경제 패권 경쟁의 핵심이자 관세 전쟁의 주요 타겟이 되고 있다. 각국이 자국 산업 보호 및 공급망 재편을 위해 전략적으로 중요성이 큰 이들 산업에 대한 무역 장벽을 높이고 있는 배경이다. 관세 전쟁의 전개 양상에 따라 국내 관련 산업의 수출 환경 및 경쟁 구도에 큰 변화가 예상되므로, 통상 정책 변화에 민감하게 대응할 필요가 있다.",
+      "description": "반도체, 배터리, 자동차 산업이 현재 글로벌 관세 전쟁의 핵심 쟁점으로 부상한 배경과 이유를 설명하는 기사이다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "전반적 증시, 기술주, 에너지, 금융",
+      "market_impact": "부정",
+      "related_sector": "반도체, 2차전지, 자동차, 무역",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "삼성전자",
+        "현대차",
+        "LG에너지솔루션"
       ],
-      "investment_view": "관심",
-      "investment_reason": "금리, 유가, AI라는 핵심 거시 및 산업 동인이 시장 전반의 방향성을 결정하므로 투자 전략 수립에 필수적입니다.",
-      "key_signal": "다음 주 시장 개장 시 연준의 스탠스 변화, 유가 추이, AI 관련 기업 뉴스 등을 복합적으로 분석하여 시장의 움직임을 예측해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "관세 전쟁은 한국 경제의 핵심 수출 산업인 반도체, 배터리, 자동차 기업들의 수익성 및 글로벌 경쟁력에 직접적인 위협이 될 수 있기 때문이다.",
+      "key_signal": "주요국들의 새로운 관세 부과 조치 및 통상 정책 변화, 그리고 그에 따른 국내 기업들의 대응 전략을 주시해야 한다.",
       "keywords": [
-        "연준 금리 인상",
-        "유가",
-        "AI 우려",
-        "시장 심리",
-        "거시 경제"
+        "관세 전쟁",
+        "반도체",
+        "배터리",
+        "자동차",
+        "무역 분쟁"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdnRoS1ktbnAwNE1WMW1fRnk0SVItYVdaamp6Z3VTSjlsZDJWQnV0aGVIT1V5elZYSmNUel9NSElGRmMyaUx6MVFWNE9XcnBaUkdvVEFHOXA2ZTZ1cC1kWHI1S2NSU3ZENTZ5MnVWV04yZUpvRTVzN1hyc0psQzM1Mmkzb0xwWVRqUDNwZmxpVnpCMlNJMGE1SUJYV1NGNVJKRmthMFgtV2R3VmF0U010SXdiZzVNZmp6TTdiVVplLXE?oc=5",
-      "published": "2026-09-19 21:02",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82cEVLRVZqOUVwWk1FSzc1N3BnNUFXY3BTRTF3bjBoLV95M1FLMUFSeVVGNUY0U1MtNFlidmozTUwtVGNPM0lzUnMxZzJ5SGJ6ZnBaUXRleUltMVJZR3BRNFJUZ3Q?oc=5",
+      "published": "2026-09-21 08:00",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -151,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 발표를 앞둔 나스닥 및 S&P 500 시장 동향",
-      "display_title": "연준 발표를 앞둔 나스닥 및 S&P 500 시장 동향",
-      "original_title": "Nasdaq and S&P 500 into the Fed - FOREX.com",
+      "title": "연준 매파적 기조에도 불구하고 나스닥 100 지수 평균선 위에서 강세 유지",
+      "display_title": "연준 매파적 기조에도 불구하고 나스닥 100 지수 평균선 위에서 강세 유지",
+      "original_title": "Nasdaq 100 coils above its averages as Fed turns hawkish - The Business Times",
       "summary": [
-        "연방준비제도(Fed)의 발표를 앞두고 나스닥과 S&P 500 지수가 미묘한 움직임을 보이고 있습니다.",
-        "투자자들은 Fed의 금리 인상, 양적 긴축 등 통화 정책 방향에 촉각을 곤두세우며, 그 결과에 따라 시장의 변동성이 확대될 수 있습니다.",
-        "Fed의 결정은 주식 시장의 단기 및 중장기 방향성을 결정하는 중요한 변수이므로, 발표 내용과 시장의 즉각적인 반응을 면밀히 분석해야 합니다."
+        "연준의 매파적 스탠스에도 불구하고 나스닥 100 지수가 주요 이동평균선 위에서 견조한 흐름을 보였다.",
+        "시장은 연준의 매파적 발언에도 불구하고 기술주 중심의 성장에 대한 기대를 유지하거나, 이미 금리 인상 사이클의 후반부에 있다는 인식이 반영되었을 수 있다.",
+        "기술주 중심의 성장주는 금리 인상기에도 불구하고 견고한 펀더멘털을 바탕으로 시장의 관심을 지속적으로 받을 수 있다."
       ],
-      "summary_text": "연방준비제도(Fed)의 발표를 앞두고 나스닥과 S&P 500 지수가 미묘한 움직임을 보이고 있습니다. 투자자들은 Fed의 금리 인상, 양적 긴축 등 통화 정책 방향에 촉각을 곤두세우며, 그 결과에 따라 시장의 변동성이 확대될 수 있습니다. Fed의 결정은 주식 시장의 단기 및 중장기 방향성을 결정하는 중요한 변수이므로, 발표 내용과 시장의 즉각적인 반응을 면밀히 분석해야 합니다.",
-      "description": "연방준비제도(Fed)의 정책 발표를 앞두고 나스닥과 S&P 500 지수의 움직임과 시장의 반응에 대한 분석입니다.",
+      "summary_text": "연준의 매파적 스탠스에도 불구하고 나스닥 100 지수가 주요 이동평균선 위에서 견조한 흐름을 보였다. 시장은 연준의 매파적 발언에도 불구하고 기술주 중심의 성장에 대한 기대를 유지하거나, 이미 금리 인상 사이클의 후반부에 있다는 인식이 반영되었을 수 있다. 기술주 중심의 성장주는 금리 인상기에도 불구하고 견고한 펀더멘털을 바탕으로 시장의 관심을 지속적으로 받을 수 있다.",
+      "description": "연방준비제도(Fed)가 매파적인 태도를 보였음에도 불구하고 나스닥 100 지수가 평균선을 상회하며 강세를 유지하고 있다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "중립",
-      "related_sector": "전반적 증시, 기술주",
+      "related_sector": "반도체, IT하드웨어, 소프트웨어, 인공지능",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "관심",
-      "investment_reason": "연준의 통화 정책은 미국 증시뿐만 아니라 글로벌 증시 전반에 가장 큰 영향을 미치는 요인이므로 깊은 관심이 필요합니다.",
-      "key_signal": "연준의 실제 정책 발표 내용과 시장의 해석, 그리고 발표 이후 나스닥 및 S&P 500 지수의 방향성을 주의 깊게 살펴야 합니다.",
+      "investment_reason": "글로벌 기술주 흐름은 국내 기술주 투자 심리 및 실적에 중요한 영향을 미치기 때문이다.",
+      "key_signal": "연준의 추가적인 통화정책 신호와 나스닥 100 구성 종목들의 실적 발표를 주시해야 한다.",
       "keywords": [
-        "연준",
-        "금리 인상",
         "나스닥",
-        "S&P 500",
-        "시장 변동성"
+        "연준",
+        "매파",
+        "기술주",
+        "금리 인상"
       ],
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMk5oQTltTTFOTHV0UFdyYXF5UlV6VHZSelQ1WERkZWhOblB4Rm5vNDY2bE5kajRheU41R1VSOUxoSHFlcTdSejYtS0VJaS1ZNUl0NVJpOWRVZ2lGckVjOE1valN4N0FSNFNvb3VLeGNZMDVBUHV4UWpkYi1IU3ViVW9JQUdoS1E?oc=5",
-      "published": "2026-09-20 01:45",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczVMc3p4cmFaQWtKa2JYRTVEQmxZb1QwYjJIUWVKcUFIeVZydTdKU2ZiNkF1U1g1Y3V4NVVVRDZFRTRnc1FDN0tyU2Q1RUp0dFB4Z0t0MkFjWVdsbGlVVlpDWmVBUVFKYnpMczFUR1hjRWtmM3VqREpRX19ldDl3TkU5M2xoc3ZwRGtnenFNUTFSYm1aN3NGaDNNTS0zbmVpMEwtemlfSQ?oc=5",
+      "published": "2026-09-21 08:00",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -190,42 +193,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[주간 오늘의 미국 금리와 서민경제] 미국 3년 만에 금리 인상…대출이자·기름값·장바구니 물가 ‘삼중 부담’",
-      "display_title": "[주간 오늘의 미국 금리와 서민경제] 미국 3년 만에 금리 인상…대출이자·기름값·장바구니 물가 ‘삼중 부담’",
-      "original_title": "[주간 오늘의 미국 금리와 서민경제] 미국 3년 만에 금리 인상…대출이자·기름값·장바구니 물가 ‘삼중 부담’ - gnsiminsori.com",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 나스닥: 국채 금리 상승에 기술주 중심 지수 0.65% 하락",
+      "display_title": "오늘 나스닥: 국채 금리 상승에 기술주 중심 지수 0.65% 하락",
+      "original_title": "Nasdaq Today: Tech-Heavy Index Falls 0.65% As Treasury Yields Climb - BBN Times",
       "summary": [
-        "미국이 3년 만에 금리를 인상하면서 국내 서민 경제에 대출 이자, 기름값, 장바구니 물가 상승이라는 '삼중고' 부담이 가중되고 있습니다.",
-        "미국 연준의 금리 인상은 글로벌 유동성 긴축을 야기하고, 이는 국내 금리 인상 압력, 원유 등 원자재 가격 상승, 환율 상승 등으로 이어집니다.",
-        "금리 인상으로 인한 경기 둔화 가능성과 소비 위축은 기업 실적에 부정적인 영향을 미칠 수 있으므로, 방어적인 투자 전략이 필요할 수 있습니다."
+        "미국 국채 금리가 상승하면서 기술주 중심의 나스닥 지수가 0.65% 하락했다.",
+        "국채 금리 상승은 일반적으로 미래 현금 흐름 가치를 할인하는 데 사용되는 할인율을 높여 성장주인 기술주에 부정적 영향을 미친다.",
+        "국채 금리 변동이 기술주 주가에 미치는 영향을 지속적으로 모니터링하고, 금리 민감도가 낮은 기업들을 고려하는 전략이 필요하다."
       ],
-      "summary_text": "미국이 3년 만에 금리를 인상하면서 국내 서민 경제에 대출 이자, 기름값, 장바구니 물가 상승이라는 '삼중고' 부담이 가중되고 있습니다. 미국 연준의 금리 인상은 글로벌 유동성 긴축을 야기하고, 이는 국내 금리 인상 압력, 원유 등 원자재 가격 상승, 환율 상승 등으로 이어집니다. 금리 인상으로 인한 경기 둔화 가능성과 소비 위축은 기업 실적에 부정적인 영향을 미칠 수 있으므로, 방어적인 투자 전략이 필요할 수 있습니다.",
-      "description": "미국이 3년 만에 금리를 인상하면서 국내 서민 경제에 대출 이자, 기름값, 장바구니 물가 상승이라는 '삼중 부담'이 가중될 것이라는 분석 기사입니다.",
-      "category": "국내 거시경제",
-      "importance": 9,
+      "summary_text": "미국 국채 금리가 상승하면서 기술주 중심의 나스닥 지수가 0.65% 하락했다. 국채 금리 상승은 일반적으로 미래 현금 흐름 가치를 할인하는 데 사용되는 할인율을 높여 성장주인 기술주에 부정적 영향을 미친다. 국채 금리 변동이 기술주 주가에 미치는 영향을 지속적으로 모니터링하고, 금리 민감도가 낮은 기업들을 고려하는 전략이 필요하다.",
+      "description": "오늘 나스닥 지수는 국채 금리 상승으로 인해 기술주 중심의 지수가 0.65% 하락했다.",
+      "category": "증시·금리",
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "소비재, 금융, 유틸리티",
+      "related_sector": "반도체, IT하드웨어, 소프트웨어, 성장주",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국의 금리 인상이 국내 서민 경제에 직접적인 부담을 주고, 이는 소비 위축으로 이어져 국내 기업 실적에 부정적 영향을 미칠 수 있습니다.",
-      "key_signal": "미국 연준의 추가 금리 인상 여부와 국내 물가 상승률, 가계 부채 증가 추이를 지속적으로 모니터링해야 합니다.",
+      "investment_reason": "미국 국채 금리 상승은 국내 기술주 및 성장주에 대한 투자 심리를 위축시키는 주요 요인이기 때문이다.",
+      "key_signal": "미국 10년물 국채 금리 추이와 나스닥 선물 지수의 움직임을 매일 확인해야 한다.",
       "keywords": [
-        "미국 금리 인상",
-        "서민 경제",
-        "대출 이자",
-        "기름값",
-        "물가 상승"
+        "나스닥",
+        "국채 금리",
+        "기술주",
+        "성장주",
+        "금리 민감도"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92MDVkYWVtcllNZ1ZheEt0LTZqY0M4QWhwZGtyS1RxZHJGcldYcTVHODNKNGJvRll5NmlPRF8zUWlvR0VNNjdwTnRQbmZSOXBmX0t2VWFlOG15eVhBMnFKcWt3QzQ4elptMWE4VXR3?oc=5",
-      "published": "2026-09-19 10:39",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEdtZ19EUTJLSXJ3Qmh4Yjk0eU4xeTEzRzFpR0FRYlY1dElqUTNMekFHVzhDelpaTnFrRTJkQVRyUVN5MjRaZmpDN2JpTVB6NFpfU0g0NDZ5TnhGZG1ELWthOUpGMmgxbDZRVEs1ZjhPWC1FYlRfWVQxVFh1MlEyaWRmZThzLTkzZXhybnpodEJSQl8yRGtwN090YmM1dEhEOG1Fb3c4QzA?oc=5",
+      "published": "2026-09-21 00:31",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -235,36 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니카페]",
-      "display_title": "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니카페]",
-      "original_title": "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니카페] - 서울경제",
+      "title": "한경협 \"반도체 공장 가동 앞두고 도로·용수 부족…첨단산업 투자 지원 시급\"",
+      "display_title": "한경협 \"반도체 공장 가동 앞두고 도로·용수 부족…첨단산업 투자 지원 시급\"",
+      "original_title": "한경협 \"반도체 공장 가동 앞두고 도로·용수 부족…첨단산업 투자 지원 시급\" - 데일리안",
       "summary": [
-        "매파적 FOMC 결과에도 불구하고 코스피가 선방하며 6900선 돌파를 앞두고 있습니다.",
-        "외국인 투자자들의 매수세 유입이 코스피를 지지하는 주요 원인으로 분석되며, 국내 증시에 긍정적인 신호로 해석됩니다.",
-        "외국인 수급 개선이 지속될 경우 국내 증시의 추가 상승 동력이 될 수 있으므로, 외국인 순매수 동향을 주시해야 합니다."
+        "한경협이 반도체 등 첨단산업 공장 가동을 앞두고 도로, 용수 등 필수 인프라 부족 문제를 제기하며 정부 지원을 촉구했다.",
+        "정부의 첨단산업 육성 정책에도 불구하고, 실제 현장에서는 인프라 미비로 인한 기업 투자의 애로사항이 발생하고 있는 배경이다.",
+        "첨단산업 클러스터 조성 및 인프라 구축 관련 정책 추진에 따라 건설, 수도 설비 등 관련 인프라 투자 기업에 기회가 될 수 있다."
       ],
-      "summary_text": "매파적 FOMC 결과에도 불구하고 코스피가 선방하며 6900선 돌파를 앞두고 있습니다. 외국인 투자자들의 매수세 유입이 코스피를 지지하는 주요 원인으로 분석되며, 국내 증시에 긍정적인 신호로 해석됩니다. 외국인 수급 개선이 지속될 경우 국내 증시의 추가 상승 동력이 될 수 있으므로, 외국인 순매수 동향을 주시해야 합니다.",
-      "description": "매파적(금리 인상 지향)인 FOMC 결과에도 불구하고 코스피가 선방하며 외국인 투자자들의 귀환으로 6900선 돌파를 눈앞에 두고 있다는 서울경제 기사입니다.",
-      "category": "증시·금리",
+      "summary_text": "한경협이 반도체 등 첨단산업 공장 가동을 앞두고 도로, 용수 등 필수 인프라 부족 문제를 제기하며 정부 지원을 촉구했다. 정부의 첨단산업 육성 정책에도 불구하고, 실제 현장에서는 인프라 미비로 인한 기업 투자의 애로사항이 발생하고 있는 배경이다. 첨단산업 클러스터 조성 및 인프라 구축 관련 정책 추진에 따라 건설, 수도 설비 등 관련 인프라 투자 기업에 기회가 될 수 있다.",
+      "description": "한국경제인협회(한경협)가 반도체 공장 가동을 앞두고 도로와 용수 등 인프라 부족 문제를 지적하며, 첨단산업 투자 지원의 시급성을 강조했다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "전반적 증시, 대형주, IT/반도체",
+      "market_impact": "중립",
+      "related_sector": "건설, 상수도, 토목, 반도체",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "삼성물산",
+        "현대건설",
+        "코오롱글로벌"
       ],
       "investment_view": "관심",
-      "investment_reason": "매파적 통화 정책 기조에도 불구하고 외국인 매수세 유입으로 코스피가 안정세를 보이므로 국내 증시 전반에 긍정적입니다.",
-      "key_signal": "FOMC의 금리 인상 속도 및 외국인 순매수 지속 여부를 확인하며 시장의 추가 상승 여력을 판단해야 합니다.",
+      "investment_reason": "국내 첨단산업 경쟁력 강화를 위한 인프라 투자는 관련 건설 및 설비 기업들에게 새로운 성장 동력을 제공할 수 있기 때문이다.",
+      "key_signal": "정부의 첨단산업 인프라 확충 정책 발표 및 관련 예산 편성 여부를 주시해야 한다.",
       "keywords": [
-        "코스피",
-        "FOMC",
-        "외국인 수급",
-        "증시 반등",
-        "금리 인상"
+        "반도체",
+        "첨단산업",
+        "인프라",
+        "용수",
+        "도로"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EcnVfVWdodFo5OGpPVDliU2Y0V1o1YWVPNE55UFotQkJNYWtHR0w2eUIwekw1ZVAtc3pnejhvRzNMVGRDVUtSWVVVWXdzc1Rwb0ln0gFTQVVfeXFMT0RydV9VZ2h0Wjk4ak9UOWJTZjRXWjVhZU80TnlQWi1CQk1ha0dHTDZ5QjB6TDVlUC1zemd6OG9HM0xUZENVS1JZVVVZd3NzVHBvSWc?oc=5",
-      "published": "2026-09-20 07:00",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNV1hyNkZIYzc4bGhBRVQwekNyaE9sQ0E4ZlR2WlFhdVNRM1kwQjlRc082Uk5zdXNGSDJ4Z0lQTXBvVzljV0tQYmVSLVM0b0ZVVjFDWWQ0RWNYZHR3ZjBWMlZzeHBlSnJoNnJPUVhrTHJ6YmlIeDJaaVl0emRmd3N4WG5hVGstZlpYdUx0VVhFMXhWeGhYd0gzQWdUMUM0R3JlLS00MTVVdlNBOXp0Q2YxU3RUc0htSHNQYnc4cVJuNFg0SlZKOGZjR0pEV1RXcnRWVW1OVnZzcTEySG9qZ0hlbVpJbTJSYmVfeENZUHN3cUFPUHhRRkJzVm1RRDJwNFZOU3pOc19URjNNbnliVU9hVmhpSmozaGha?oc=5",
+      "published": "2026-09-21 08:31",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -278,66 +282,66 @@
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "매파적 FOMC에도 불구하고 외국인 매수세 유입으로 코스피가 안정세를 보이며 반등 기대감을 높이고 있습니다. 이는 삼성전자를 포함한 국내 증시 대형주에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "opinion": "중립",
+      "reason": "나스닥 지수의 혼조세와 국채 금리 상승으로 기술주 투자 심리가 위축될 수 있으나, 연준의 매파적 기조 속에서도 나스닥 100 지수가 강세를 유지했던 점은 긍정적입니다. 다만, 반도체를 포함한 한국 주요 수출 산업이 관세 전쟁의 중심에 설 수 있다는 리스크 또한 상존하여 양측의 흐름을 모두 주시해야 합니다.",
       "check_points": [
-        "외국인 순매수 지속 여부",
-        "환율 변동성 및 수출 실적 영향",
-        "글로벌 반도체 업황 개선 시그널"
+        "미국 나스닥 지수의 방향성 및 글로벌 기술주 투자 심리 변화",
+        "미중 등 주요국의 반도체 관련 무역 정책 및 관세 동향",
+        "글로벌 반도체 수요 회복 속도 및 재고 상황"
       ],
       "related_news_titles": [
-        "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니카페]",
-        "50원 뛴 환율, 1400원 넘어설까…\"연말 1420원\" vs \"추세 전환 일러\""
+        "반도체·배터리·자동차가 관세 전쟁의 중심에 선 이유",
+        "연준 매파적 기조에도 불구하고 나스닥 100 지수 평균선 위에서 강세 유지",
+        "오늘 나스닥: 국채 금리 상승에 기술주 중심 지수 0.65% 하락"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "삼성전자와 함께 코스피 시장의 외국인 매수세 유입의 주요 대상이며, 국내 증시 안정화에 기여하며 반도체 업황 개선에 대한 기대를 반영할 수 있습니다. AI 데이터센터 관련 반도체 수요도 간접적인 긍정 요인입니다.",
+      "sector": "자동차",
+      "opinion": "주의",
+      "reason": "한국 경제의 핵심 수출 산업인 자동차가 관세 전쟁의 중심에 서면서 기업의 수익성 및 글로벌 경쟁력에 직접적인 위협이 될 수 있다는 분석이 제기되었습니다. 이는 완성차 업계에 직접적인 하방 압력으로 작용할 수 있습니다.",
       "check_points": [
-        "외국인 수급 동향 및 코스피 움직임",
-        "메모리 반도체 가격 추이 및 수요 회복",
-        "AI 관련 고성능 반도체 시장 성장"
+        "주요국(특히 미국)의 자동차 관련 관세 및 무역 정책 변화",
+        "글로벌 전기차 시장 경쟁 심화 및 수요 변화 추이",
+        "환율 변동이 수출 실적에 미치는 영향"
       ],
       "related_news_titles": [
-        "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니카페]",
-        "온세미의 SiC 반등, AI 데이터 센터가 다음 성장 동력인 이유를 보여주다"
+        "반도체·배터리·자동차가 관세 전쟁의 중심에 선 이유"
       ]
     },
     {
       "rank": 3,
       "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "금융",
-      "opinion": "관심",
-      "reason": "연준의 통화 정책 및 금리 인상 관련 발표가 글로벌 증시와 국내 금융 시장에 큰 영향을 미칠 것으로 예상됩니다. 이에 따라 증권업종의 실적과 시장 심리에 미치는 영향을 주시할 필요가 있습니다.",
+      "sector": "증권",
+      "opinion": "주의",
+      "reason": "연준의 고금리 장기화 기조 유지 발표는 글로벌 유동성을 위축시키고 한국 증시에도 직접적인 하방 압력으로 작용할 수 있습니다. 이는 증시 전반의 거래량 감소와 투자 심리 위축으로 이어져 증권사 실적에 부정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "연준의 통화 정책 방향 및 금리 발표",
-        "국내 증시 거래대금 및 시장 변동성 추이",
-        "금리 인상에 따른 금융사 건전성 영향"
+        "미국 연준의 금리 결정 및 글로벌 유동성 변화",
+        "국내외 증시 거래대금 및 투자 심리 추이",
+        "채권 시장 변동성 및 금리 상승에 따른 증권사 수익성 변화"
       ],
       "related_news_titles": [
-        "연준 발표를 앞둔 나스닥 및 S&P 500 시장 동향",
-        "[주간 오늘의 미국 금리와 서민경제] 미국 3년 만에 금리 인상…대출이자·기름값·장바구니 물가 ‘삼중 부담’"
+        "주간 글로벌 시장: 연준, 인플레이션 및 금리 결정이 시장 움직임 주도",
+        "연준, 고금리 장기화 기조 유지: S&P 500, 나스닥, 다우 추가 하락 가능성은? 투자자들이 주목할 점은?"
       ]
     },
     {
       "rank": 4,
-      "name": "SK이노베이션",
+      "name": "삼성물산",
       "market": "KOSPI",
-      "sector": "에너지",
+      "sector": "건설",
       "opinion": "관심",
-      "reason": "글로벌 경제의 핵심 변수인 유가 변동성이 시장 심리와 에너지 관련 기업의 실적에 큰 영향을 미치고 있습니다. 주말 브리핑에서도 유가 동향이 시장 심리를 좌우하는 요인으로 언급된 만큼 지속적인 관찰이 필요합니다.",
+      "reason": "한경협에서 반도체 공장 가동을 앞두고 도로, 용수 등 인프라 부족을 지적하며 첨단산업 투자 지원을 촉구했습니다. 이는 국내 첨단산업 경쟁력 강화를 위한 필수 인프라 투자가 가시화될 경우, 관련 건설 및 설비 기업들에게 새로운 성장 동력을 제공할 수 있습니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트) 추이",
-        "글로벌 경기 둔화 우려에 따른 석유 수요 변화",
-        "정제 마진 및 화학 사업 부문의 실적"
+        "정부의 첨단산업 인프라 투자 구체화 및 예산 집행 계획",
+        "주요 반도체 및 첨단산업 단지 조성 프로젝트 발주 여부",
+        "건설 원자재 가격 및 인력 수급 동향"
       ],
       "related_news_titles": [
-        "주말 모닝 브리핑: 연준 금리 인상, 유가, AI 우려가 시장 심리를 좌우"
+        "한경협 \"반도체 공장 가동 앞두고 도로·용수 부족…첨단산업 투자 지원 시급\""
       ]
     }
   ],
