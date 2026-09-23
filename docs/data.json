@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22 09:39",
-  "analysis_date": "2026-09-22",
+  "generated_at": "2026-09-23 09:03",
+  "analysis_date": "2026-09-23",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 증시는 국채금리와 연준 정책 전망에 대한 시장의 반응으로 혼조세를 보였으나, AI 낙관론에 힘입어 나스닥이 사상 최고치를 경신하는 등 긍정적인 흐름도 나타났습니다. 국내 증시에서는 급락했던 종목에 대한 투자자들의 관심이 커지고 있으며, 뿌리산업의 사업 다각화 소식이 전해졌습니다.",
-    "국내거시경제": "국내 거시 경제에 대한 직접적인 뉴스는 없었으나, 일부 개별 종목의 변동성과 이에 대한 개인 투자자들의 관심이 확인됩니다.",
-    "글로벌경제": "미국 증시는 연방준비제도(Fed)의 정책 전망과 국채금리 움직임에 따라 등락이 엇갈렸습니다. AI 관련 기업들의 강세와 국제 유가 하락은 증시 전반에 긍정적인 영향을 미쳤습니다.",
-    "증시금리": "미국 증시는 국채금리 상승 압력과 연준의 향후 정책 불확실성 속에서 다우, S&P500, 나스닥 모두 상승했으며 특히 나스닥은 AI 낙관론과 국채금리 하락에 힘입어 사상 최고치를 기록했습니다. 국내에서는 두 달 만에 주가가 반토막 난 종목들에 대한 개인 투자자들의 매수 심리가 고조되는 움직임을 보였습니다.",
-    "부동산정책": "관련 뉴스 없습니다.",
-    "기업산업": "국내 뿌리기업들이 기존 자동차 산업 의존도를 넘어 반도체, 로봇, 원전 등 신성장 분야로 사업 포트폴리오를 확장하며 산업 구조 변화를 모색하고 있습니다.",
-    "오늘의투자시사점": "글로벌 증시는 국채금리와 연준 정책 전망, 그리고 AI 테마에 따라 변동성을 보일 수 있습니다. 국내 투자자들은 급락했던 개별 종목들의 반등 가능성과 함께, 산업 다각화를 통해 성장 동력을 확보하는 기업들에 대한 면밀한 분석이 필요합니다.",
-    "오늘의한줄": "글로벌 증시 혼조 속 AI 테마 강세와 국내 산업 다각화 노력이 주목됩니다."
+    "총평": "오늘 시장은 거시 변수와 금리, 정책 변화, 기업 모멘텀이 동시에 반영되는 흐름으로 보입니다.",
+    "국내거시경제": "국내 경기와 물가, 수출 흐름은 정책 기대와 함께 업종별 차별화를 만들 수 있습니다.",
+    "글로벌경제": "미국 금리와 글로벌 경기, 지정학 변수는 국내 증시의 방향성에 계속 영향을 줄 가능성이 큽니다.",
+    "증시금리": "금리와 환율 흐름은 성장주와 금융주, 수출주 밸류에이션에 직접적인 변수입니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
+    "오늘의투자시사점": "단기 뉴스 반응보다 금리·실적·정책과 연결되는 업종별 흐름을 우선적으로 점검하는 것이 좋겠습니다.",
+    "오늘의한줄": "오늘은 거시 변수와 업종 모멘텀을 함께 읽어야 하는 장입니다."
   },
   "top_news": [
     {
@@ -28,16 +28,16 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook - The Economic Times",
-      "display_title": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook - The Economic Times",
-      "original_title": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook - The Economic Times",
+      "title": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool",
+      "display_title": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool",
+      "original_title": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool",
       "summary": [
-        "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook - The Economic Times",
-        "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook The Economic Times",
-        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
+        "Stock Market Investors Just Got Bad News About President Trump’s Economy.",
+        "History Says This Will Happen Next.",
+        "The Motley Fool"
       ],
-      "summary_text": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook - The Economic Times US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook The Economic Times 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook The Economic Times",
+      "summary_text": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. The Motley Fool",
+      "description": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. The Motley Fool",
       "category": "증시·금리",
       "importance": 5,
       "market_impact": "중립",
@@ -51,13 +51,13 @@
       "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "stocks",
-        "us",
-        "as",
-        "economic"
+        "bad",
+        "economy",
+        "fool",
+        "got"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSG9JalFLM3k4WTlLc0hNOTVOQ3lPWWVGVU16UWo0bm1INWRGa3ZMMDJFYk9SQTE0S3V1YzFsQWZtaXdvZG1SSmtmaWVRWlVwc0xfTzgzOG1SVEFqdHpDdnlKWXZpY0d4UHJWb0NZb2w3VS1hMlp6bFRRNzh1dTB3YlY3TGpzZEZQNEZRRzd4RjcybWZUeHZPSUYxanR0cFNwNkRBTjdDMVBzZlpDeVpFM1MtSE5DekFpaFRnOElJaE9sOHYxSndFUkVjWjVwTFN5TUNYaUVyTmVfbVhiNHhPcmpOSErSAeoBQVVfeXFMTUJhUG1SdVdiUm4zZ3Y2Rl83aTc2WnRtRWJQRGZOS1ZyQXJwQjREQVBGWHZuMzk1clZZVFlXWDVPQ25sNGhiTEJjSmZIN3B2MzVpUEJCc0tkOThVQTZiN1RHTXhaNUh4MVNjTGxhdEVRQjcwcy04N1ZyUnlYaWpQU2FrNGRnZDVJYkxZcDNiOVMyOVlLNl80Y3hocW9mdGR2cjVxWjFoS3VkckdCd3M3aXFONDg1SVJuZkgzM2lILVVCSE9MV1k1eDVJYThtYUdLeUFLU1VBMkc4cnpqZEI1Y0ltR290cVZXTXJB?oc=5",
-      "published": "2026-09-22 08:13",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFzeXltOXVsYjFGV1BGQUNMRzFfMUpCVnZBMmc3YUZYSTlLYU9hY1NZcjdiaERFa2huU3N1cnJmVER5RmViUHFvMmNiTnY3aXNiX19zZk51WUZEQjBVWWE2dEMzeWEwckVMMFFNdXdseHdBNDFrMFVIZnJIX2I1UXk1NmMtWFBNWl9vWDhzNVVrTUlld3lKbl9NVjczN3c?oc=5",
+      "published": "2026-09-22 18:48",
       "quality": {
         "title_status": "원문표시",
         "summary_status": "기본정리",
@@ -66,41 +66,41 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
-      "display_title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
-      "original_title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz",
+      "display_title": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz",
+      "original_title": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz",
       "summary": [
-        "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
-        "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat Reuters",
+        "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz",
+        "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 Chosunbiz",
         "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat Reuters 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat Reuters",
+      "summary_text": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz 9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 Chosunbiz 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 Chosunbiz",
       "category": "증시·금리",
       "importance": 5,
       "market_impact": "중립",
-      "related_sector": "AI/소프트웨어",
+      "related_sector": "금융/증권",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "중립",
       "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "ai",
-        "close",
-        "high",
-        "nasdaq"
+        "9월",
+        "chosunbiz",
+        "개선",
+        "경제성장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-      "published": "2026-09-22 08:12",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUtXSS1kVlhpT1EyNGRnMHVsQkhCVzFPeWxtY0xkN2tTZy0wVGNib211b2tmX2x4cnJQTkVhck14dVZJSGxtUWpKY1hXV085dEVYSUljYlVGN0tjc3M3WmVRUXdTQjRXSmxaSDNBcnpnanRWekkwdmhYd0N2TE14RlBTckp2bUhaYS1GaEVxa2ZqRGhGdDFLME130gGaAUFVX3lxTE8xS1dJLWRWWGlPUTI0ZGcwdWxCSEJXMU95bG1jTGQ3a1NnLTBUY2JvbXVva2ZfbHhyclBORWFyTXh1VklIbG1RakpjWFdXTzl0RVhJSWNiVUY3S2NzczdaZVFRd1NCNFdKbFpIM0FyemdqdFZ6STB2aFh3Q3ZMTXhGUFNySnZtSFphLUZoRXFrZmpEaEZ0MUswTXc?oc=5",
+      "published": "2026-09-23 06:03",
       "quality": {
-        "title_status": "원문표시",
+        "title_status": "원문한국어",
         "summary_status": "기본정리",
         "analysis_status": "fallback"
       }
@@ -110,57 +110,16 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21 - stl.news",
-      "display_title": "Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21 - stl.news",
-      "original_title": "Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21 - stl.news",
+      "title": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today",
+      "display_title": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today",
+      "original_title": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today",
       "summary": [
-        "Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21 - stl.news",
-        "Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21 stl.news",
+        "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today",
+        "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes Free Malaysia Today",
         "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21 - stl.news Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21 stl.news 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21 stl.news",
-      "category": "증시·금리",
-      "importance": 5,
-      "market_impact": "중립",
-      "related_sector": "에너지",
-      "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
-      ],
-      "investment_view": "중립",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
-      "keywords": [
-        "21",
-        "as",
-        "falls",
-        "hits"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUUGRuR0xTNjViLW1PbEFHWWdNNFRQbHp4eWdXYm9LV2JwVjBueUZKMllJZGJWaHVYZzVWSzhyZFRIWEROckR2MFFReFFjVWNxZHVxRExFcU15RndpN2ZNZ2pRRFhFOWgzY1U5a0dJanpjYjdzSWc?oc=5",
-      "published": "2026-09-22 06:27",
-      "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
-      }
-    },
-    {
-      "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] - 한국경제",
-      "display_title": "두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] - 한국경제",
-      "original_title": "두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] - 한국경제",
-      "summary": [
-        "두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] - 한국경제",
-        "두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] 한국경제",
-        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
-      ],
-      "summary_text": "두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] - 한국경제 두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] 한국경제 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] 한국경제",
+      "summary_text": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today Nasdaq hits intraday record high on Alphabet boost, Middle East hopes Free Malaysia Today 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes Free Malaysia Today",
       "category": "증시·금리",
       "importance": 5,
       "market_impact": "중립",
@@ -174,15 +133,52 @@
       "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "개미",
-        "드디어",
-        "들썩",
-        "만에"
+        "alphabet",
+        "boost",
+        "east",
+        "free"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aSWk2Tk92aVRNZDVmMDI1Y2x6WjFxcG9HQ2lGT29uYk9feFdLTUJpQXdJX2xJd3RIcFNXVllzNi1xdTBXUkFNczFZa0dpa1BkSll0NzltY05CQQ?oc=5",
-      "published": "2026-09-22 06:30",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1ktbDVyRFVPdk8teVkxQnRlMXllRVdxQUxhWnF2QWpHY3JqeEZRb0NlamJtNTNhb3BzM0tlQmpXdHI2OTMwa1pXQ1hpdmtDb3RfcDg3V0FZT3VPbGRCazd4Nl8tdU9WZFlqWEZoaERPQXI3X2JNa0VmSFItZC1Cc1dXRDAtVG9KdXFLbUhDMEpQVWtKamU5U0xGSkx0bWFNb0lkbnVoOTdBY3pXNHFiQWVjdXRFRmxqcUhVYnJaNmNDcW1VWTNXMUlHYw?oc=5",
+      "published": "2026-09-22 23:49",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "원문표시",
+        "summary_status": "기본정리",
+        "analysis_status": "fallback"
+      }
+    },
+    {
+      "rank": 4,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com",
+      "display_title": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com",
+      "original_title": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com",
+      "summary": [
+        "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com",
+        "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus FOREX.com",
+        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
+      ],
+      "summary_text": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus FOREX.com 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus FOREX.com",
+      "category": "증시·금리",
+      "importance": 5,
+      "market_impact": "중립",
+      "related_sector": "2차전지",
+      "related_stocks": [],
+      "investment_view": "중립",
+      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "keywords": [
+        "100",
+        "com",
+        "developments",
+        "east"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUNwS3lpOGJPQTExdlhFZFVDdzNlV1hsYWVXUGpRY1ZSazNuMlEybTBGSHNUZC1panEzektEeWkxd1VpSDFOWTJQMm1kRm81aU1EaFFUWUM1QkcwWVZyTXA1QjctbXN4MV9jTkxycmNBQzg1VWFfVnZHTTNSU0lFTy16ZVRFcDc3dDdtbHBFenFHLVhVTzdPem9RNWxjVWNGWjAxRkhucTN3eVd3VVRxLXUwQlZXVzlvUjZEVlJzWDlGM3VVSmk5RW0wVkzSAcwBQVVfeXFMT1VDcEt5aThiT0ExMXZYRWRVQ3czZVdYbGFlV1BqUWNWUmszbjJRMm0wRkhzVGQtaWpxM3pLRHlpMXdVaUgxTlkyUDJtZEZvNWlNRGhRVFlDNUJHMFlWck1wNUI3LW1zeDFfY05McnJjQUM4NVVhX1Z2R00zUlNJRU8temVURXA3N3Q3bWxwRXpxRy1YVU83T3pvUTVsY1VjRlowMUZIbnEzd3lXd1VUcS11MEJWV1c5b1I2RFZSc1g5RjN1VUppOUVtMFZM?oc=5",
+      "published": "2026-09-22 22:51",
+      "quality": {
+        "title_status": "원문표시",
         "summary_status": "기본정리",
         "analysis_status": "fallback"
       }
@@ -192,36 +188,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease - NDTV Profit",
-      "display_title": "US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease - NDTV Profit",
-      "original_title": "US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease - NDTV Profit",
+      "title": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News - Hindustan Times",
+      "display_title": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News - Hindustan Times",
+      "original_title": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News - Hindustan Times",
       "summary": [
-        "US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease - NDTV Profit",
-        "US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease NDTV Profit",
-        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
+        "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise?",
+        "| Business News Hindustan Times",
+        "증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다."
       ],
-      "summary_text": "US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease - NDTV Profit US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease NDTV Profit 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease NDTV Profit",
+      "summary_text": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News Hindustan Times 증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다.",
+      "description": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News Hindustan Times",
       "category": "증시·금리",
       "importance": 5,
-      "market_impact": "중립",
+      "market_impact": "부정",
       "related_sector": "에너지",
       "related_stocks": [
         "SK이노베이션",
         "S-Oil",
         "한국전력"
       ],
-      "investment_view": "중립",
+      "investment_view": "주의",
       "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
       "keywords": [
-        "300",
-        "500",
+        "100",
+        "are",
         "as",
-        "dow"
+        "business"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMk80eGd5SEprbG5kNUFUb1phSW4zTERuTlpNSGsteUhHRnZrQUFMRGlzd01ONHRpRm9XclhHWFFQY0EtYkRWekJyMTZTdVNuNk9QTHk1QnZhTXR5ZVN0eWNBVVhKM3lrZmdQRmtqWUF0bmN6V0trVG5PRnc1cFdDaHR5R19jUF81ZDE3NGxsWk40aElxR19Fd0p4LUprZDBYZC13RFdRS2EyRFNLeWlZS1FWZ2tpRjlzWXJBLXZaMkxIREZsdHNWWVotUjlSSXFVYld6ZdIB3AFBVV95cUxPLVo2amlIZF9QOW1fcks5TE4xRDdaTmh3UU5sTGxRX2FoT2tsaVBQSkdBTjBnQnJRdFlqRG5CNGpnQTBXVVltaDY1aUtab1U2QjVuanBmYklvSG5wY2RBR0xOYWxhdi1ZMHNCUnU4SWZNNkRaeE1uQWw0TTJBM082RS1oWHVaV0FoM2ptcHlGS2gtWDF5ZlZjc21GYUE0R3BpZUJoaWs0eU9GZHllM1U4WmR1SGpVVEI0cVNrS1JaSlJMUDJVWXQyTFRsQXh3bzlIUklYcy1EVzRBVGRa?oc=5",
-      "published": "2026-09-21 22:38",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWXRZUzdPNUdEMElNMXg2MXI3VkItU05kb0RaMWZGZy1lUDQ2TmVDZFBqNmtMTVlJR2hGNnhNajc1SnBfUDJaVk55ZzVMM0lKNnVhbnFBaVhqV3JOZGlEVkQtVGpDWnpUVWYxbFk4VUtsUXN6ZUlhUHFnWTlWeGljZllDMkhXdFlSdDhIUndrMzJFV1VmeWFoT3E1X05mVEJzdkU4dk05MHpCYXVzU3k1VGlDNFg5SmVsMDdydkRtQ2Z6ckpEQms5RE5qQ2hJU0daeHfSAdcBQVVfeXFMT1dHaG5PMVYwUzI0d25VbjVfMWcwQ09pRklLZVlncDc3RFFCWkNKMHRTN1dIcEVPWHk2UUtvYnk4cFpTZzJWQTU2RHdKaXJ0OE1xLS0zU2ZjNDVHUFlQR2J2S1BuTHpiLXNpTndYXzlQbFRLUnB2a3VzZDBzNnozQ0U4c1dkNndvcWFhc2dCQTZqMmJ4MTZ3Qm9sTGY5OFg3Qm1hVzFhZ1M0cDllSFp2TC1uWEU3MHQyVjM1dnQtT0NIUlFHY0VmQ0I1bk9pWmlDejQxTTVKYXM?oc=5",
+      "published": "2026-09-22 21:47",
       "quality": {
         "title_status": "원문표시",
         "summary_status": "기본정리",
@@ -233,35 +229,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 - edaily.co.kr",
-      "display_title": "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 - edaily.co.kr",
-      "original_title": "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 - edaily.co.kr",
+      "title": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미",
+      "display_title": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미",
+      "original_title": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미",
       "summary": [
-        "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 - edaily.co.kr",
-        "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 edaily.co.kr",
+        "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미",
+        "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 지이코노미",
         "기업·산업 관련 투자 판단에 참고할 만한 흐름입니다."
       ],
-      "summary_text": "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 - edaily.co.kr 자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 edaily.co.kr 기업·산업 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 edaily.co.kr",
+      "summary_text": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미 3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 지이코노미 기업·산업 관련 투자 판단에 참고할 만한 흐름입니다.",
+      "description": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 지이코노미",
       "category": "기업·산업",
       "importance": 5,
       "market_impact": "중립",
-      "related_sector": "반도체",
+      "related_sector": "AI/소프트웨어",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "중립",
-      "investment_reason": "반도체 관련 업종과 종목에 직접적인 기대 또는 우려를 반영할 수 있는 뉴스입니다.",
+      "investment_reason": "AI/소프트웨어 관련 업종과 종목에 직접적인 기대 또는 우려를 반영할 수 있는 뉴스입니다.",
       "key_signal": "해당 업종 실적 모멘텀과 투자 확대 여부 확인",
       "keywords": [
-        "co",
-        "edaily",
-        "kr",
-        "넓힌다"
+        "1호로",
+        "223억달러",
+        "3500억달러",
+        "ai"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeE9GaHI4R1ZQTTQ0R0dodzc0OTF0U3BfZW82TXVwVThWclNBbXp1TzFqOEdGN0VobHZjNW9URDZaWERsWk1zYTJDSjV3VjRCWUZMLUJfTTdEMTAydVNKeXR3RFVHX012bkZibWNGYlNGNjdtaTRrTldqWUF0dWFLSA?oc=5",
-      "published": "2026-09-22 08:14",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDT1ZWRVNzN2x6V2JhekhXMUlCNFMtQ2V3aUVRV3JKYVh4em9tUWpDTXk2RFJYNEZyQ3BtNXM1cDlEMHdIMmNuYXpKX3Zqb09vWDRIcVNxM3JQMTd6ODlZT1d1eTBzRG8?oc=5",
+      "published": "2026-09-23 07:14",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "기본정리",
@@ -272,64 +269,58 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "나스닥 사상 최고치와 AI 낙관론 재점화 소식(뉴스2)에 더해, 국내 기업들의 반도체 산업으로의 영토 확장에 대한 긍정적인 뉴스(뉴스6)가 있어 주목할 필요가 있습니다.",
+      "name": "미래에셋증권",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "금융/증권",
+      "opinion": "중립",
+      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "글로벌 반도체 수요 및 가격 동향",
-        "AI 반도체 시장에서의 경쟁력 강화"
+        "금리 방향성과 시장 유동성 흐름 확인"
       ],
       "related_news_titles": [
-        "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
-        "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 - edaily.co.kr"
+        "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "국내 기업들이 반도체 및 로봇, 원전 등으로 사업 영역을 확장하려는 움직임(뉴스6)이 포착됨에 따라, 국내 대표적인 메모리 반도체 기업인 SK하이닉스 또한 산업 성장 기대감 속에서 투자자들의 관심을 받을 수 있습니다.",
+      "name": "한국금융지주",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "금융/증권",
+      "opinion": "중립",
+      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "HBM 등 고성능 메모리 반도체 생산 계획 및 수주",
-        "글로벌 데이터센터 투자 확대 여부"
+        "금리 방향성과 시장 유동성 흐름 확인"
       ],
       "related_news_titles": [
-        "자동차만 바라보던 ‘뿌리기업’, 반도체·로봇·원전으로 영토 넓힌다 - edaily.co.kr"
+        "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool"
       ]
     },
     {
       "rank": 3,
-      "name": "카카오",
-      "market": "KOSPI",
-      "sector": "AI/소프트웨어",
-      "opinion": "관심",
-      "reason": "나스닥이 사상 최고치를 기록하고 AI 낙관론이 재점화되었다는 소식(뉴스2)은 국내 AI 및 플랫폼 기반 소프트웨어 기업인 카카오에 대한 투자 심리에 긍정적인 영향을 미칠 수 있습니다.",
+      "name": "NH투자증권",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "금융/증권",
+      "opinion": "중립",
+      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "AI 기술 접목 신규 서비스 출시 및 성과",
-        "본업인 플랫폼 사업의 수익성 개선 여부"
+        "금리 방향성과 시장 유동성 흐름 확인"
       ],
       "related_news_titles": [
-        "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters"
+        "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
-      "market": "KOSPI",
-      "sector": "금융/증권",
-      "opinion": "중립",
-      "reason": "미 국채 금리 상승 소식(뉴스1)은 증권업종에 대한 부담 요인이 될 수 있으나, '반토막' 난 주가에 개미 투자자들의 관심이 다시 쏠리고 있다는 소식(뉴스4)이 있어 변동성 속에서 단기적인 관심이 형성될 수 있습니다.",
+      "name": "SK이노베이션",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "에너지",
+      "opinion": "주의",
+      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
       "check_points": [
-        "국내외 금리 변동성 및 시장 금리 추이",
-        "국내 증시 거래대금 및 투자 심리 변화"
+        "금리 방향성과 시장 유동성 흐름 확인"
       ],
       "related_news_titles": [
-        "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook - The Economic Times",
-        "두 달 만에 '반토막' 난 주가…\"드디어 오르나\" 개미 들썩 [종목+] - 한국경제"
+        "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News - Hindustan Times"
       ]
     }
   ],
