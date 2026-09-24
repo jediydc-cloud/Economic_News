@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23 09:03",
-  "analysis_date": "2026-09-23",
+  "generated_at": "2026-09-24 09:16",
+  "analysis_date": "2026-09-24",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "오늘 시장은 거시 변수와 금리, 정책 변화, 기업 모멘텀이 동시에 반영되는 흐름으로 보입니다.",
-    "국내거시경제": "국내 경기와 물가, 수출 흐름은 정책 기대와 함께 업종별 차별화를 만들 수 있습니다.",
-    "글로벌경제": "미국 금리와 글로벌 경기, 지정학 변수는 국내 증시의 방향성에 계속 영향을 줄 가능성이 큽니다.",
-    "증시금리": "금리와 환율 흐름은 성장주와 금융주, 수출주 밸류에이션에 직접적인 변수입니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
-    "오늘의투자시사점": "단기 뉴스 반응보다 금리·실적·정책과 연결되는 업종별 흐름을 우선적으로 점검하는 것이 좋겠습니다.",
-    "오늘의한줄": "오늘은 거시 변수와 업종 모멘텀을 함께 읽어야 하는 장입니다."
+    "총평": "미국 고금리 장기화 우려로 글로벌 증시 전반에 위험 회피 심리가 확산되고 있습니다. 한편, 연휴 중 미·중 정상회담 결과에 따라 국내 증시의 향방이 갈릴 것으로 보이며, 특히 반도체 산업에 대한 기대감이 형성되고 있습니다.",
+    "국내거시경제": "국내 증시는 추석 연휴로 휴장했으며, 연휴 이후 시장은 미국 고금리 환경과 미·중 정상회담 결과에 큰 영향을 받을 것으로 예상됩니다.",
+    "글로벌경제": "추석 연휴 기간 중 예정된 미·중 정상회담 결과가 글로벌 경제 및 공급망에 중요한 변수가 될 전망입니다. 특히 반도체 등 핵심 산업에 미칠 영향이 주목됩니다.",
+    "증시금리": "미국 10년 만기 국채금리가 19년 만에 5.1%를 돌파하며 고금리 장기화 우려가 심화되고 있습니다. 이는 뉴욕 증시의 일제 하락을 이끌었으며, 글로벌 위험자산 회피 심리를 가중시키고 국내 증시의 외국인 자금 유출 압력을 키울 수 있습니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "미·중 정상회담의 주요 의제로 AI와 반도체가 부각되면서 삼성전자와 SK하이닉스 등 국내 반도체 기업 주가가 상승했습니다. 이는 미·중 간 반도체 갈등 완화에 대한 기대감을 반영합니다.",
+    "오늘의투자시사점": "글로벌 고금리 장기화 기조에 따라 위험자산 비중을 조절하고 방어적인 포트폴리오 전략을 고려해야 합니다. 연휴 이후 국내 증시 개장 시 미·중 관계 변화에 따른 반도체 섹터의 변동성과 투자 기회를 면밀히 관찰해야 합니다.",
+    "오늘의한줄": "미국 고금리 장기화 우려 속 미·중 정상회담 결과에 따라 연휴 이후 국내 증시의 향방이 결정될 것입니다."
   },
   "top_news": [
     {
@@ -28,81 +28,83 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool",
-      "display_title": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool",
-      "original_title": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool",
+      "title": "10년 만기 국채금리 19년 만에 5.1% 돌파",
+      "display_title": "10년 만기 국채금리 19년 만에 5.1% 돌파",
+      "original_title": "10-year Treasury yield hits 5.1% for first time in 19 years - cnn.com",
       "summary": [
-        "Stock Market Investors Just Got Bad News About President Trump’s Economy.",
-        "History Says This Will Happen Next.",
-        "The Motley Fool"
+        "미국 10년 만기 국채금리가 19년 만에 최고치인 5.1%를 기록하며 급등했습니다.",
+        "이는 연준의 매파적 스탠스와 견조한 미국 경제 지표에 따른 추가 금리 인상 및 고금리 장기화 우려가 반영된 결과입니다.",
+        "글로벌 시장의 위험자산 회피 심리가 심화되고, 국내 증시의 외국인 자금 유출 압력이 커질 수 있으므로 대비해야 합니다."
       ],
-      "summary_text": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. The Motley Fool",
-      "description": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. The Motley Fool",
+      "summary_text": "미국 10년 만기 국채금리가 19년 만에 최고치인 5.1%를 기록하며 급등했습니다. 이는 연준의 매파적 스탠스와 견조한 미국 경제 지표에 따른 추가 금리 인상 및 고금리 장기화 우려가 반영된 결과입니다. 글로벌 시장의 위험자산 회피 심리가 심화되고, 국내 증시의 외국인 자금 유출 압력이 커질 수 있으므로 대비해야 합니다.",
+      "description": "미국 10년 만기 국채금리가 19년 만에 처음으로 5.1%를 넘어섰다.",
       "category": "증시·금리",
-      "importance": 5,
-      "market_impact": "중립",
-      "related_sector": "금융/증권",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "증권, 은행, 성장주 전반",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "중립",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "investment_view": "주의",
+      "investment_reason": "미 국채금리 급등은 글로벌 유동성 환경을 경색시키고, 국내 증시 투자 심리에 가장 큰 부정적 요인으로 작용할 수 있기 때문입니다.",
+      "key_signal": "미국 10년물 국채금리가 심리적 지지선을 돌파하며 추가 상승할지 여부와 이에 대한 연준의 반응을 집중적으로 관찰해야 합니다.",
       "keywords": [
-        "bad",
-        "economy",
-        "fool",
-        "got"
+        "국채금리",
+        "10년물",
+        "미국경제",
+        "금리인상",
+        "고금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVFzeXltOXVsYjFGV1BGQUNMRzFfMUpCVnZBMmc3YUZYSTlLYU9hY1NZcjdiaERFa2huU3N1cnJmVER5RmViUHFvMmNiTnY3aXNiX19zZk51WUZEQjBVWWE2dEMzeWEwckVMMFFNdXdseHdBNDFrMFVIZnJIX2I1UXk1NmMtWFBNWl9vWDhzNVVrTUlld3lKbl9NVjczN3c?oc=5",
-      "published": "2026-09-22 18:48",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxdG1sZTlZdGpENnhEM2hLaTZWWXZpRkY5ZjZka0NXd3RaVzNuUEZRV2dFVUVjbTBremNRT2VfVHNGQlpGeHNqOGhkQmhaaUZKZXJzVFhhOFFralA3QUdWaHhXNW5nZzVoMkFB?oc=5",
+      "published": "2026-09-24 03:31",
       "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz",
-      "display_title": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz",
-      "original_title": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "유가 및 국채금리 상승에 뉴욕 증시 하락 마감",
+      "display_title": "유가 및 국채금리 상승에 뉴욕 증시 하락 마감",
+      "original_title": "Wall Street ends down as oil prices, Treasury yields rise - Reuters",
       "summary": [
-        "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz",
-        "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 Chosunbiz",
-        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
+        "뉴욕 증시가 유가 및 미 국채금리 상승 압력으로 하락 마감했습니다.",
+        "고금리 장기화 우려와 인플레이션 재점화 가능성이 시장 전반에 부담을 주었습니다.",
+        "글로벌 금리 상승 기조가 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 심리 위축에 대비해야 합니다."
       ],
-      "summary_text": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 - Chosunbiz 9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 Chosunbiz 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "9월 소비 심리 소폭 개선… “증시 변동성 줄고 높은 경제성장 덕분” - 조선비즈 Chosunbiz",
+      "summary_text": "뉴욕 증시가 유가 및 미 국채금리 상승 압력으로 하락 마감했습니다. 고금리 장기화 우려와 인플레이션 재점화 가능성이 시장 전반에 부담을 주었습니다. 글로벌 금리 상승 기조가 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 심리 위축에 대비해야 합니다.",
+      "description": "유가와 국채금리가 상승하면서 뉴욕 증시가 하락세로 마감했다.",
       "category": "증시·금리",
-      "importance": 5,
-      "market_impact": "중립",
-      "related_sector": "금융/증권",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "증권, 은행",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "중립",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "investment_view": "주의",
+      "investment_reason": "글로벌 고금리 환경이 국내 증시 투자 심리에 직접적인 부담을 줄 수 있기 때문입니다.",
+      "key_signal": "미국 장기 국채금리 및 국제 유가의 추가 상승 여부를 주시해야 합니다.",
       "keywords": [
-        "9월",
-        "chosunbiz",
-        "개선",
-        "경제성장"
+        "뉴욕증시",
+        "국채금리",
+        "유가",
+        "금리인상",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUtXSS1kVlhpT1EyNGRnMHVsQkhCVzFPeWxtY0xkN2tTZy0wVGNib211b2tmX2x4cnJQTkVhck14dVZJSGxtUWpKY1hXV085dEVYSUljYlVGN0tjc3M3WmVRUXdTQjRXSmxaSDNBcnpnanRWekkwdmhYd0N2TE14RlBTckp2bUhaYS1GaEVxa2ZqRGhGdDFLME130gGaAUFVX3lxTE8xS1dJLWRWWGlPUTI0ZGcwdWxCSEJXMU95bG1jTGQ3a1NnLTBUY2JvbXVva2ZfbHhyclBORWFyTXh1VklIbG1RakpjWFdXTzl0RVhJSWNiVUY3S2NzczdaZVFRd1NCNFdKbFpIM0FyemdqdFZ6STB2aFh3Q3ZMTXhGUFNySnZtSFphLUZoRXFrZmpEaEZ0MUswTXc?oc=5",
-      "published": "2026-09-23 06:03",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
+      "published": "2026-09-24 05:24",
       "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
@@ -110,40 +112,40 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today",
-      "display_title": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today",
-      "original_title": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today",
+      "title": "국채금리 급등과 추가 금리 인상론에 S&P 500, 다우, 나스닥 일제히 하락",
+      "display_title": "국채금리 급등과 추가 금리 인상론에 S&P 500, 다우, 나스닥 일제히 하락",
+      "original_title": "S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus - Yahoo Finance",
       "summary": [
-        "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today",
-        "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes Free Malaysia Today",
-        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
+        "미 국채금리 급등과 추가 금리 인상 가능성으로 인해 주요 미국 증시 지수가 일제히 하락했습니다.",
+        "고금리 장기화 우려가 커지면서 기술주를 포함한 전반적인 시장에 부담으로 작용하고 있습니다.",
+        "미국 금리 환경 변화가 국내 성장주 및 기술주에 미칠 영향에 대비하며 투자 전략을 재검토해야 합니다."
       ],
-      "summary_text": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes - Free Malaysia Today Nasdaq hits intraday record high on Alphabet boost, Middle East hopes Free Malaysia Today 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "Nasdaq hits intraday record high on Alphabet boost, Middle East hopes Free Malaysia Today",
+      "summary_text": "미 국채금리 급등과 추가 금리 인상 가능성으로 인해 주요 미국 증시 지수가 일제히 하락했습니다. 고금리 장기화 우려가 커지면서 기술주를 포함한 전반적인 시장에 부담으로 작용하고 있습니다. 미국 금리 환경 변화가 국내 성장주 및 기술주에 미칠 영향에 대비하며 투자 전략을 재검토해야 합니다.",
+      "description": "국채금리가 급등하고 추가 금리 인상 요구가 나오면서 S&P 500, 다우, 나스닥 지수가 모두 하락했으며, 아마존, 구글, 넷플릭스 등 주요 기술주가 주목받았다.",
       "category": "증시·금리",
-      "importance": 5,
-      "market_impact": "중립",
-      "related_sector": "금융/증권",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "IT, 기술주, 성장주",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "카카오",
+        "네이버"
       ],
-      "investment_view": "중립",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "investment_view": "주의",
+      "investment_reason": "미국 금리 인상 우려가 국내 증시의 성장주 및 기술주에 대한 투자 심리를 위축시킬 수 있기 때문입니다.",
+      "key_signal": "미국 연준의 향후 금리 정책 방향과 장기 국채금리 추이를 면밀히 모니터링해야 합니다.",
       "keywords": [
-        "alphabet",
-        "boost",
-        "east",
-        "free"
+        "미국증시",
+        "국채금리",
+        "금리인상",
+        "기술주",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1ktbDVyRFVPdk8teVkxQnRlMXllRVdxQUxhWnF2QWpHY3JqeEZRb0NlamJtNTNhb3BzM0tlQmpXdHI2OTMwa1pXQ1hpdmtDb3RfcDg3V0FZT3VPbGRCazd4Nl8tdU9WZFlqWEZoaERPQXI3X2JNa0VmSFItZC1Cc1dXRDAtVG9KdXFLbUhDMEpQVWtKamU5U0xGSkx0bWFNb0lkbnVoOTdBY3pXNHFiQWVjdXRFRmxqcUhVYnJaNmNDcW1VWTNXMUlHYw?oc=5",
-      "published": "2026-09-22 23:49",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3E5Mk5oS3NyQTZJRFlBQ093dlBwX1JvanFreVZnWDJTcWJSWlF4c2ZoSmc0Um1kM1o0Uk1SaW9DcjBOLTh1OWFJYThoV1ZoSmotVjVCYmt4Qk1UTlp1Y1dsWVlLSHpZTVBQRXFfZjB2MS1Tb3hjNVI1LXJiMnVLMTdmcF9GM0M5V1ZQR2tkOA?oc=5",
+      "published": "2026-09-24 06:23",
       "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
@@ -151,77 +153,82 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com",
-      "display_title": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com",
-      "original_title": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com",
+      "title": "월스트리트의 연준 추가 금리 인상 우려에 채권금리 5% 돌파",
+      "display_title": "월스트리트의 연준 추가 금리 인상 우려에 채권금리 5% 돌파",
+      "original_title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes - MarketWatch",
       "summary": [
-        "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com",
-        "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus FOREX.com",
-        "증시·금리 관련 투자 판단에 참고할 만한 흐름입니다."
+        "미 연준의 추가 금리 인상 가능성 우려로 채권금리가 5%를 돌파하며 급등세를 보였습니다.",
+        "높은 인플레이션과 견조한 경제 지표가 금리 인상 압력을 지속시키고 있어 시장에 긴축 장기화 우려를 심화시키고 있습니다.",
+        "고금리 환경이 주식 시장 전반에 부담을 줄 수 있으므로, 방어적 포트폴리오 구성 및 금리 민감 섹터에 대한 신중한 접근이 필요합니다."
       ],
-      "summary_text": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus - FOREX.com Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus FOREX.com 증시·금리 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "Nasdaq 100 Forecast: NDX rises further with Middle East developments in focus FOREX.com",
+      "summary_text": "미 연준의 추가 금리 인상 가능성 우려로 채권금리가 5%를 돌파하며 급등세를 보였습니다. 높은 인플레이션과 견조한 경제 지표가 금리 인상 압력을 지속시키고 있어 시장에 긴축 장기화 우려를 심화시키고 있습니다. 고금리 환경이 주식 시장 전반에 부담을 줄 수 있으므로, 방어적 포트폴리오 구성 및 금리 민감 섹터에 대한 신중한 접근이 필요합니다.",
+      "description": "연방준비제도(Fed)의 추가 금리 인상 가능성에 대한 월스트리트의 우려가 커지면서 채권금리가 5%를 넘어섰다.",
       "category": "증시·금리",
-      "importance": 5,
-      "market_impact": "중립",
-      "related_sector": "2차전지",
-      "related_stocks": [],
-      "investment_view": "중립",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
-      "keywords": [
-        "100",
-        "com",
-        "developments",
-        "east"
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "금융, 증권, 건설",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUNwS3lpOGJPQTExdlhFZFVDdzNlV1hsYWVXUGpRY1ZSazNuMlEybTBGSHNUZC1panEzektEeWkxd1VpSDFOWTJQMm1kRm81aU1EaFFUWUM1QkcwWVZyTXA1QjctbXN4MV9jTkxycmNBQzg1VWFfVnZHTTNSU0lFTy16ZVRFcDc3dDdtbHBFenFHLVhVTzdPem9RNWxjVWNGWjAxRkhucTN3eVd3VVRxLXUwQlZXVzlvUjZEVlJzWDlGM3VVSmk5RW0wVkzSAcwBQVVfeXFMT1VDcEt5aThiT0ExMXZYRWRVQ3czZVdYbGFlV1BqUWNWUmszbjJRMm0wRkhzVGQtaWpxM3pLRHlpMXdVaUgxTlkyUDJtZEZvNWlNRGhRVFlDNUJHMFlWck1wNUI3LW1zeDFfY05McnJjQUM4NVVhX1Z2R00zUlNJRU8temVURXA3N3Q3bWxwRXpxRy1YVU83T3pvUTVsY1VjRlowMUZIbnEzd3lXd1VUcS11MEJWV1c5b1I2RFZSc1g5RjN1VUppOUVtMFZM?oc=5",
-      "published": "2026-09-22 22:51",
+      "investment_view": "주의",
+      "investment_reason": "미국 채권금리 급등은 글로벌 유동성 위축과 기업의 자금 조달 비용 증가로 이어져 국내 증시에 악영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "미국 연준의 다음 FOMC 회의 결과와 고위 관계자들의 발언을 예의주시해야 합니다.",
+      "keywords": [
+        "채권금리",
+        "연준",
+        "금리인상",
+        "월스트리트",
+        "고금리"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWJMOGx4MkZURnVjUExNcnhnajRQQ0dnN0hieTVZUEtlQUp2cjdmRWpGZXFub2VxSVByYlVKUnpWSm9kb09DQ2h1UTJMa1pKSlVwbHhYR29jZ3I4ZUR1MGo1SHpwQUQ4U3BkOHhUUGVfOWQyb3Q1QU9ZcEpzX05Ld1BCNktGcUJCRzkxUnBYVmhYWXBBOVF5MUZuS1pZdVJMVG9sWHdEMTljYXRjVC14QUY0RlJsdDY4WlhQbm1fak4?oc=5",
+      "published": "2026-09-24 04:48",
       "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News - Hindustan Times",
-      "display_title": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News - Hindustan Times",
-      "original_title": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News - Hindustan Times",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "추석 연휴 돌입한 한국 증시, 미·중 정상회담 결과에 촉각",
+      "display_title": "추석 연휴 돌입한 한국 증시, 미·중 정상회담 결과에 촉각",
+      "original_title": "추석 연휴 돌입 韓 증시...美·中 정상회담 결과에 쏠린 눈 - digitaltoday.co.kr",
       "summary": [
-        "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise?",
-        "| Business News Hindustan Times",
-        "증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다."
+        "추석 연휴로 국내 증시가 휴장하는 동안, 예정된 미·중 정상회담 결과가 연휴 이후 국내 증시에 큰 영향을 미칠 것으로 예상됩니다.",
+        "미·중 관계는 글로벌 경제 및 공급망에 직접적인 영향을 미치며, 특히 반도체 등 핵심 산업에 민감하게 작용합니다.",
+        "연휴 이후 개장 시 미·중 관계 변화에 따른 시장의 변동성에 대비하고, 관련 산업의 투자 전략을 미리 점검해야 합니다."
       ],
-      "summary_text": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News Hindustan Times 증시·금리 관점에서 후속 흐름을 지켜볼 필요가 있습니다.",
-      "description": "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News Hindustan Times",
-      "category": "증시·금리",
-      "importance": 5,
-      "market_impact": "부정",
-      "related_sector": "에너지",
+      "summary_text": "추석 연휴로 국내 증시가 휴장하는 동안, 예정된 미·중 정상회담 결과가 연휴 이후 국내 증시에 큰 영향을 미칠 것으로 예상됩니다. 미·중 관계는 글로벌 경제 및 공급망에 직접적인 영향을 미치며, 특히 반도체 등 핵심 산업에 민감하게 작용합니다. 연휴 이후 개장 시 미·중 관계 변화에 따른 시장의 변동성에 대비하고, 관련 산업의 투자 전략을 미리 점검해야 합니다.",
+      "description": "추석 연휴에 돌입한 한국 증시 투자자들이 미국의 대중국 정책과 중국의 반응을 가늠할 수 있는 미·중 정상회담 결과에 주목하고 있다.",
+      "category": "글로벌 경제",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "반도체, IT, 무역",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
-      "key_signal": "금리 방향성과 시장 유동성 흐름 확인",
+      "investment_view": "관심",
+      "investment_reason": "미·중 정상회담 결과는 국내 주력 산업의 대외 불확실성을 해소하거나 심화시킬 수 있는 핵심 변수이기 때문입니다.",
+      "key_signal": "미·중 정상회담의 구체적인 결과와 양국 관계 변화의 방향을 연휴 기간 동안 면밀히 확인해야 합니다.",
       "keywords": [
-        "100",
-        "are",
-        "as",
-        "business"
+        "미중정상회담",
+        "한국증시",
+        "추석연휴",
+        "지정학적위험",
+        "공급망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWXRZUzdPNUdEMElNMXg2MXI3VkItU05kb0RaMWZGZy1lUDQ2TmVDZFBqNmtMTVlJR2hGNnhNajc1SnBfUDJaVk55ZzVMM0lKNnVhbnFBaVhqV3JOZGlEVkQtVGpDWnpUVWYxbFk4VUtsUXN6ZUlhUHFnWTlWeGljZllDMkhXdFlSdDhIUndrMzJFV1VmeWFoT3E1X05mVEJzdkU4dk05MHpCYXVzU3k1VGlDNFg5SmVsMDdydkRtQ2Z6ckpEQms5RE5qQ2hJU0daeHfSAdcBQVVfeXFMT1dHaG5PMVYwUzI0d25VbjVfMWcwQ09pRklLZVlncDc3RFFCWkNKMHRTN1dIcEVPWHk2UUtvYnk4cFpTZzJWQTU2RHdKaXJ0OE1xLS0zU2ZjNDVHUFlQR2J2S1BuTHpiLXNpTndYXzlQbFRLUnB2a3VzZDBzNnozQ0U4c1dkNndvcWFhc2dCQTZqMmJ4MTZ3Qm9sTGY5OFg3Qm1hVzFhZ1M0cDllSFp2TC1uWEU3MHQyVjM1dnQtT0NIUlFHY0VmQ0I1bk9pWmlDejQxTTVKYXM?oc=5",
-      "published": "2026-09-22 21:47",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNldlT2s5X3JFdExoc2g4RUFWYlRob1RjeW1yaHpHYUhsalo3R3ZQd3VPYl9WOXVVdk1rYW5rSnA3Wk40cmEtR2Fib196V081RnVGUlFQVGE2YTVpRlVTVHhMM1pMT1lkWjJUYldhekpCOHc?oc=5",
+      "published": "2026-09-24 07:30",
       "quality": {
-        "title_status": "원문표시",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     },
     {
@@ -229,98 +236,105 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미",
-      "display_title": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미",
-      "original_title": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미",
+      "title": "“트럼프·시진핑 회담 주요 의제 AI와 반도체 주목에 삼성전자·SK하이닉스 상승?”",
+      "display_title": "“트럼프·시진핑 회담 주요 의제 AI와 반도체 주목에 삼성전자·SK하이닉스 상승?”",
+      "original_title": "“트럼프·시진핑 만나는데 삼전닉스는 왜 오르죠?”…주요 의제 AI에 반도체 주목 - v.daum.net",
       "summary": [
-        "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미",
-        "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 지이코노미",
-        "기업·산업 관련 투자 판단에 참고할 만한 흐름입니다."
+        "미·중 정상회담의 주요 의제로 AI와 반도체가 부각되면서 삼성전자와 SK하이닉스 등 국내 반도체 기업들의 주가가 상승했습니다.",
+        "미·중 간 반도체 갈등 완화 또는 협력 가능성에 대한 기대감이 반영되며, 글로벌 반도체 산업에 긍정적인 신호로 해석될 수 있습니다.",
+        "미·중 관계 변화에 따른 국내 반도체 기업들의 실적 개선 및 주가 상승 가능성을 염두에 두고 투자 전략을 세워야 합니다."
       ],
-      "summary_text": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 - 지이코노미 3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 지이코노미 기업·산업 관련 투자 판단에 참고할 만한 흐름입니다.",
-      "description": "3500억달러 대미투자 첫발…223억달러 ‘텍사스 AI 발전소’ 1호로 지이코노미",
+      "summary_text": "미·중 정상회담의 주요 의제로 AI와 반도체가 부각되면서 삼성전자와 SK하이닉스 등 국내 반도체 기업들의 주가가 상승했습니다. 미·중 간 반도체 갈등 완화 또는 협력 가능성에 대한 기대감이 반영되며, 글로벌 반도체 산업에 긍정적인 신호로 해석될 수 있습니다. 미·중 관계 변화에 따른 국내 반도체 기업들의 실적 개선 및 주가 상승 가능성을 염두에 두고 투자 전략을 세워야 합니다.",
+      "description": "트럼프와 시진핑의 회담 주요 의제로 인공지능(AI)과 반도체가 주목받으면서 삼성전자와 SK하이닉스 주가가 상승세를 보였다.",
       "category": "기업·산업",
-      "importance": 5,
-      "market_impact": "중립",
-      "related_sector": "AI/소프트웨어",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "중립",
-      "investment_reason": "AI/소프트웨어 관련 업종과 종목에 직접적인 기대 또는 우려를 반영할 수 있는 뉴스입니다.",
-      "key_signal": "해당 업종 실적 모멘텀과 투자 확대 여부 확인",
+      "investment_view": "관심",
+      "investment_reason": "미·중 정상회담에서 반도체 관련 긍정적인 논의가 이루어질 경우 국내 반도체 산업에 대한 불확실성 해소와 투자 심리 개선에 크게 기여할 수 있기 때문입니다.",
+      "key_signal": "미·중 정상회담 결과 발표 후 반도체 관련 구체적인 합의 내용이나 언급이 있는지 집중적으로 확인해야 합니다.",
       "keywords": [
-        "1호로",
-        "223억달러",
-        "3500억달러",
-        "ai"
+        "미중정상회담",
+        "반도체",
+        "AI",
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDT1ZWRVNzN2x6V2JhekhXMUlCNFMtQ2V3aUVRV3JKYVh4em9tUWpDTXk2RFJYNEZyQ3BtNXM1cDlEMHdIMmNuYXpKX3Zqb09vWDRIcVNxM3JQMTd6ODlZT1d1eTBzRG8?oc=5",
-      "published": "2026-09-23 07:14",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03bTVqblRFVEhxNzE2SkVLajA2OXl3N1pQMTB6WkE3N0hvTjlHLW04ZWotazRjUXhsdk9fU1pFZWthelhVa3lmYWFpUQ?oc=5",
+      "published": "2026-09-23 16:21",
       "quality": {
         "title_status": "원문한국어",
-        "summary_status": "기본정리",
-        "analysis_status": "fallback"
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
       }
     }
   ],
   "watchlist": [
     {
       "rank": 1,
-      "name": "미래에셋증권",
-      "market": "KOSPI/KOSDAQ",
-      "sector": "금융/증권",
-      "opinion": "중립",
-      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "미·중 정상회담에서 AI 및 반도체 관련 긍정적 논의 가능성이 제기되며, 이는 국내 반도체 산업의 불확실성 해소와 투자 심리 개선에 기여할 수 있기 때문입니다.",
       "check_points": [
-        "금리 방향성과 시장 유동성 흐름 확인"
+        "미·중 정상회담의 반도체 관련 구체적인 합의 내용",
+        "글로벌 AI 산업 성장세 유지 여부"
       ],
       "related_news_titles": [
-        "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool"
+        "추석 연휴 돌입한 한국 증시, 미·중 정상회담 결과에 촉각",
+        "“트럼프·시진핑 회담 주요 의제 AI와 반도체 주목에 삼성전자·SK하이닉스 상승?”"
       ]
     },
     {
       "rank": 2,
-      "name": "한국금융지주",
-      "market": "KOSPI/KOSDAQ",
-      "sector": "금융/증권",
-      "opinion": "중립",
-      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "sector": "반도체",
+      "opinion": "관심",
+      "reason": "삼성전자와 마찬가지로 미·중 정상회담에서 반도체 및 AI 분야의 긍정적 논의 기대감이 존재하며, 이는 국내 대표 반도체 기업으로서 투자 심리에 긍정적 영향을 미칠 수 있습니다.",
       "check_points": [
-        "금리 방향성과 시장 유동성 흐름 확인"
+        "미·중 정상회담 결과 발표",
+        "메모리 반도체 업황 개선 시그널"
       ],
       "related_news_titles": [
-        "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool"
+        "추석 연휴 돌입한 한국 증시, 미·중 정상회담 결과에 촉각",
+        "“트럼프·시진핑 회담 주요 의제 AI와 반도체 주목에 삼성전자·SK하이닉스 상승?”"
       ]
     },
     {
       "rank": 3,
-      "name": "NH투자증권",
-      "market": "KOSPI/KOSDAQ",
-      "sector": "금융/증권",
-      "opinion": "중립",
-      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "name": "카카오",
+      "market": "KOSPI",
+      "sector": "IT서비스",
+      "opinion": "주의",
+      "reason": "국채금리 급등과 추가 금리 인상론은 성장주 및 기술주에 대한 투자 심리를 위축시키는 주요 요인으로 작용하며, 이는 국내 대표 성장주인 카카오에 부정적인 영향을 미칠 수 있기 때문입니다.",
       "check_points": [
-        "금리 방향성과 시장 유동성 흐름 확인"
+        "미국 연방준비제도(Fed)의 추가 금리 인상 여부",
+        "글로벌 증시에서 기술주 및 성장주의 전반적인 흐름"
       ],
       "related_news_titles": [
-        "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Motley Fool"
+        "국채금리 급등과 추가 금리 인상론에 S&P 500, 다우, 나스닥 일제히 하락"
       ]
     },
     {
       "rank": 4,
-      "name": "SK이노베이션",
-      "market": "KOSPI/KOSDAQ",
-      "sector": "에너지",
+      "name": "미래에셋증권",
+      "market": "KOSPI",
+      "sector": "증권",
       "opinion": "주의",
-      "reason": "금리와 유동성 변화는 시장 전반 밸류에이션과 자금 흐름에 직접 영향을 줄 수 있어 주목할 필요가 있습니다.",
+      "reason": "미 국채금리 급등은 글로벌 유동성 환경을 경색시키고 기업의 자금 조달 비용 증가로 이어져 국내 증권 업종 전반에 부정적인 영향을 미칠 수 있으며, 이는 증권사 실적 및 투자 심리 위축으로 이어질 수 있습니다.",
       "check_points": [
-        "금리 방향성과 시장 유동성 흐름 확인"
+        "국내외 국채금리 변동 추이",
+        "금융 시장의 유동성 변화"
       ],
       "related_news_titles": [
-        "Why are Dow Jones futures flat as oil tops $100 and Fed rate hike fears rise? | Business News - Hindustan Times"
+        "10년 만기 국채금리 19년 만에 5.1% 돌파",
+        "월스트리트의 연준 추가 금리 인상 우려에 채권금리 5% 돌파"
       ]
     }
   ],
