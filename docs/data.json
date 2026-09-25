@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24 09:16",
-  "analysis_date": "2026-09-24",
+  "generated_at": "2026-09-25 09:20",
+  "analysis_date": "2026-09-25",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 고금리 장기화 우려로 글로벌 증시 전반에 위험 회피 심리가 확산되고 있습니다. 한편, 연휴 중 미·중 정상회담 결과에 따라 국내 증시의 향방이 갈릴 것으로 보이며, 특히 반도체 산업에 대한 기대감이 형성되고 있습니다.",
-    "국내거시경제": "국내 증시는 추석 연휴로 휴장했으며, 연휴 이후 시장은 미국 고금리 환경과 미·중 정상회담 결과에 큰 영향을 받을 것으로 예상됩니다.",
-    "글로벌경제": "추석 연휴 기간 중 예정된 미·중 정상회담 결과가 글로벌 경제 및 공급망에 중요한 변수가 될 전망입니다. 특히 반도체 등 핵심 산업에 미칠 영향이 주목됩니다.",
-    "증시금리": "미국 10년 만기 국채금리가 19년 만에 5.1%를 돌파하며 고금리 장기화 우려가 심화되고 있습니다. 이는 뉴욕 증시의 일제 하락을 이끌었으며, 글로벌 위험자산 회피 심리를 가중시키고 국내 증시의 외국인 자금 유출 압력을 키울 수 있습니다.",
-    "부동산정책": "해당 없음",
-    "기업산업": "미·중 정상회담의 주요 의제로 AI와 반도체가 부각되면서 삼성전자와 SK하이닉스 등 국내 반도체 기업 주가가 상승했습니다. 이는 미·중 간 반도체 갈등 완화에 대한 기대감을 반영합니다.",
-    "오늘의투자시사점": "글로벌 고금리 장기화 기조에 따라 위험자산 비중을 조절하고 방어적인 포트폴리오 전략을 고려해야 합니다. 연휴 이후 국내 증시 개장 시 미·중 관계 변화에 따른 반도체 섹터의 변동성과 투자 기회를 면밀히 관찰해야 합니다.",
-    "오늘의한줄": "미국 고금리 장기화 우려 속 미·중 정상회담 결과에 따라 연휴 이후 국내 증시의 향방이 결정될 것입니다."
+    "총평": "글로벌 고금리·고유가·지정학적 리스크 심화와 국내 환율 불안정이 겹치며 시장 전반에 하방 압력이 커지고 있습니다.",
+    "국내거시경제": "OECD가 한국 성장률 전망치를 상향 조정했으나, 대외 변수 영향으로 단기 불확실성이 높습니다.",
+    "글로벌경제": "미 국채 금리 급등, 유가 상승, 중동 지정학적 긴장 고조로 글로벌 금융시장의 불안정성이 확대되고 있습니다.",
+    "증시금리": "미 국채 10년물 금리 5.1% 돌파와 국내 환율 급등으로 외국인 매도세 우려가 커지며 코스피 하방 압력이 가중됩니다.",
+    "부동산정책": "특이사항 없음.",
+    "기업산업": "AI 및 전력화 기술 발전이 능동 전자 부품 시장의 장기적 성장 동력으로 작용할 것으로 기대됩니다.",
+    "오늘의투자시사점": "대외 불확실성 확대로 시장 변동성이 큰 만큼 보수적 관점 유지와 철저한 리스크 관리가 필요합니다. AI/전력화 관련 성장 산업 내 핵심 기업에 대한 장기적 관심은 유효합니다.",
+    "오늘의한줄": "글로벌 악재와 국내 환율 불안정으로 시장 하방 압력이 심화되는 가운데, 보수적인 투자 전략과 철저한 리스크 관리가 중요합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "10년 만기 국채금리 19년 만에 5.1% 돌파",
-      "display_title": "10년 만기 국채금리 19년 만에 5.1% 돌파",
-      "original_title": "10-year Treasury yield hits 5.1% for first time in 19 years - cnn.com",
+      "title": "채권 매도세 심화, 미 국채 10년물 금리 5.1% 돌파, 다우존스 0.3% 하락, 유가 105달러 기록",
+      "display_title": "채권 매도세 심화, 미 국채 10년물 금리 5.1% 돌파, 다우존스 0.3% 하락, 유가 105달러 기록",
+      "original_title": "Stock Market Today: Bond Selloff Worsens as 10-Year Treasury Yield Climbs Above 5.1%, Dow Jones Falls by 0.3%, Oil price at $105 - Eurasia Business News",
       "summary": [
-        "미국 10년 만기 국채금리가 19년 만에 최고치인 5.1%를 기록하며 급등했습니다.",
-        "이는 연준의 매파적 스탠스와 견조한 미국 경제 지표에 따른 추가 금리 인상 및 고금리 장기화 우려가 반영된 결과입니다.",
-        "글로벌 시장의 위험자산 회피 심리가 심화되고, 국내 증시의 외국인 자금 유출 압력이 커질 수 있으므로 대비해야 합니다."
+        "미국 국채 10년물 금리가 5.1%를 돌파하며 채권 매도세가 심화되었고, 다우존스 지수는 0.3% 하락했으며 유가는 105달러를 기록했다.",
+        "글로벌 금융시장은 높은 금리, 높은 유가, 그리고 이에 따른 인플레이션 압력과 경기 둔화 우려에 직면해 있다.",
+        "금리 상승은 기업의 자금 조달 비용을 높이고 소비 심리를 위축시킬 수 있어 국내외 주식 시장 전반에 하방 압력으로 작용할 가능성이 크다."
       ],
-      "summary_text": "미국 10년 만기 국채금리가 19년 만에 최고치인 5.1%를 기록하며 급등했습니다. 이는 연준의 매파적 스탠스와 견조한 미국 경제 지표에 따른 추가 금리 인상 및 고금리 장기화 우려가 반영된 결과입니다. 글로벌 시장의 위험자산 회피 심리가 심화되고, 국내 증시의 외국인 자금 유출 압력이 커질 수 있으므로 대비해야 합니다.",
-      "description": "미국 10년 만기 국채금리가 19년 만에 처음으로 5.1%를 넘어섰다.",
+      "summary_text": "미국 국채 10년물 금리가 5.1%를 돌파하며 채권 매도세가 심화되었고, 다우존스 지수는 0.3% 하락했으며 유가는 105달러를 기록했다. 글로벌 금융시장은 높은 금리, 높은 유가, 그리고 이에 따른 인플레이션 압력과 경기 둔화 우려에 직면해 있다. 금리 상승은 기업의 자금 조달 비용을 높이고 소비 심리를 위축시킬 수 있어 국내외 주식 시장 전반에 하방 압력으로 작용할 가능성이 크다.",
+      "description": "채권 매도세가 심화되면서 미국 10년 만기 국채 금리가 5.1%를 넘어섰고, 다우존스 지수는 0.3% 하락했으며, 유가는 배럴당 105달러를 기록했습니다.",
       "category": "증시·금리",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "증권, 은행, 성장주 전반",
+      "related_sector": "금융, 에너지, 증권",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "KB금융",
+        "S-Oil",
+        "미래에셋증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미 국채금리 급등은 글로벌 유동성 환경을 경색시키고, 국내 증시 투자 심리에 가장 큰 부정적 요인으로 작용할 수 있기 때문입니다.",
-      "key_signal": "미국 10년물 국채금리가 심리적 지지선을 돌파하며 추가 상승할지 여부와 이에 대한 연준의 반응을 집중적으로 관찰해야 합니다.",
+      "investment_reason": "글로벌 채권 금리 급등과 유가 상승은 국내 증시와 기업 실적에 직접적인 부담으로 작용할 수 있으므로 주의 깊은 관찰이 필요합니다.",
+      "key_signal": "미 국채 10년물 금리의 추가 상승 여부와 국제 유가의 변동성을 면밀히 주시해야 합니다.",
       "keywords": [
-        "국채금리",
-        "10년물",
-        "미국경제",
-        "금리인상",
-        "고금리"
+        "채권금리",
+        "유가",
+        "증시하락",
+        "인플레이션",
+        "미국경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxdG1sZTlZdGpENnhEM2hLaTZWWXZpRkY5ZjZka0NXd3RaVzNuUEZRV2dFVUVjbTBremNRT2VfVHNGQlpGeHNqOGhkQmhaaUZKZXJzVFhhOFFralA3QUdWaHhXNW5nZzVoMkFB?oc=5",
-      "published": "2026-09-24 03:31",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaGFRR0M2MG1qbm9OYWFlUktwQ19HeTdwUHRjX3JwdHNheDBnSUVkVzNRZHBzTTNZV1BDWUJUQ3BuMUlNQmJ3aWNuMWh5RWp2SjlveGRNZWxhLWl2c19jMXdrNGhkSnNxZkozQlpkX3h0TE8tYUl3MGlSVy1CSnpDOFgxanZVSzFMTjlQWE1mT2Z3TkhEdjA3MGl5Ul9xcEdPMHcyY2lNYXQtc08yYXBTTm1DZ1RBMTRBUUR6cXpGelZ5LTdMd1lYQ0V4S1FyZVJHMHRlWUs5eVpaSWY1azBiTGlrZTFoSU5aNXhXcmlFbkh4cjF0QlJqNWRB?oc=5",
+      "published": "2026-09-25 05:47",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,42 +67,42 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 및 국채금리 상승에 뉴욕 증시 하락 마감",
-      "display_title": "유가 및 국채금리 상승에 뉴욕 증시 하락 마감",
-      "original_title": "Wall Street ends down as oil prices, Treasury yields rise - Reuters",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[9.25(금) 한국장 전망] 환율 급등·KORU -5%·코스피 하방 압력",
+      "display_title": "[9.25(금) 한국장 전망] 환율 급등·KORU -5%·코스피 하방 압력",
+      "original_title": "[9.25(금) 한국장 전망] 환율 급등·KORU -5%·코스피 하방 압력 - 주달",
       "summary": [
-        "뉴욕 증시가 유가 및 미 국채금리 상승 압력으로 하락 마감했습니다.",
-        "고금리 장기화 우려와 인플레이션 재점화 가능성이 시장 전반에 부담을 주었습니다.",
-        "글로벌 금리 상승 기조가 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 심리 위축에 대비해야 합니다."
+        "9월 25일 금요일 한국 증시는 환율 급등과 KORU 지수 5% 하락 등 대외 악재로 인해 코스피 하방 압력을 받을 것으로 전망된다.",
+        "환율 급등은 외국인 투자자들의 매도세를 부추기고 국내 기업의 외화 부채 부담을 증가시켜 증시 전반에 부정적인 영향을 미친다.",
+        "외국인 수급과 환율 동향을 면밀히 주시하며, 수출주 등 환율 변동에 민감한 종목들의 움직임에 대비하고 보수적인 투자 전략을 유지해야 한다."
       ],
-      "summary_text": "뉴욕 증시가 유가 및 미 국채금리 상승 압력으로 하락 마감했습니다. 고금리 장기화 우려와 인플레이션 재점화 가능성이 시장 전반에 부담을 주었습니다. 글로벌 금리 상승 기조가 국내 증시에도 부정적인 영향을 미칠 수 있으므로 투자 심리 위축에 대비해야 합니다.",
-      "description": "유가와 국채금리가 상승하면서 뉴욕 증시가 하락세로 마감했다.",
+      "summary_text": "9월 25일 금요일 한국 증시는 환율 급등과 KORU 지수 5% 하락 등 대외 악재로 인해 코스피 하방 압력을 받을 것으로 전망된다. 환율 급등은 외국인 투자자들의 매도세를 부추기고 국내 기업의 외화 부채 부담을 증가시켜 증시 전반에 부정적인 영향을 미친다. 외국인 수급과 환율 동향을 면밀히 주시하며, 수출주 등 환율 변동에 민감한 종목들의 움직임에 대비하고 보수적인 투자 전략을 유지해야 한다.",
+      "description": "2026년 9월 25일 금요일 한국 증시 전망으로, 환율 급등, KORU 지수 -5% 하락, 코스피 하방 압력 증대 등의 요인들이 예상됩니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "증권, 은행",
+      "related_sector": "증권, 수출주, 국제금융",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "삼성전자",
+        "SK하이닉스",
+        "현대차"
       ],
       "investment_view": "주의",
-      "investment_reason": "글로벌 고금리 환경이 국내 증시 투자 심리에 직접적인 부담을 줄 수 있기 때문입니다.",
-      "key_signal": "미국 장기 국채금리 및 국제 유가의 추가 상승 여부를 주시해야 합니다.",
+      "investment_reason": "환율 급등과 외국인 매도세는 국내 증시의 핵심 하방 요인이므로, 시장 전체의 방향성을 결정하는 중요한 지표입니다.",
+      "key_signal": "오늘 오전장 외국인 순매도 규모와 원/달러 환율의 추가 상승 여부를 집중적으로 확인해야 합니다.",
       "keywords": [
-        "뉴욕증시",
-        "국채금리",
-        "유가",
-        "금리인상",
-        "인플레이션"
+        "한국증시",
+        "환율급등",
+        "코스피하방",
+        "외국인매도",
+        "시장전망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
-      "published": "2026-09-24 05:24",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BU0RnVzdGVkNtMk0xdlJaSUJ6QWpxbTFmdnNod21FZktQTVQwaDUxTmRzTVZpcGxlRnVfZ09BRXBrRWV2cUlqRnliSjhOeVBWQTg4MnVzeC01WUJlYkItcHZmM0Izbm5zRTFhX3VFMGUxWGcyZnc?oc=5",
+      "published": "2026-09-25 05:30",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,36 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "국채금리 급등과 추가 금리 인상론에 S&P 500, 다우, 나스닥 일제히 하락",
-      "display_title": "국채금리 급등과 추가 금리 인상론에 S&P 500, 다우, 나스닥 일제히 하락",
-      "original_title": "S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus - Yahoo Finance",
+      "title": "능동 전자 부품 시장, AI 및 전력화로 2035년까지 성장 가속화 전망",
+      "display_title": "능동 전자 부품 시장, AI 및 전력화로 2035년까지 성장 가속화 전망",
+      "original_title": "Active Electronic Components Market To 2035: AI and Electrification Drive Growth - News and Statistics - IndexBox",
       "summary": [
-        "미 국채금리 급등과 추가 금리 인상 가능성으로 인해 주요 미국 증시 지수가 일제히 하락했습니다.",
-        "고금리 장기화 우려가 커지면서 기술주를 포함한 전반적인 시장에 부담으로 작용하고 있습니다.",
-        "미국 금리 환경 변화가 국내 성장주 및 기술주에 미칠 영향에 대비하며 투자 전략을 재검토해야 합니다."
+        "인공지능(AI)과 전력화(Electrification) 기술 발전이 2035년까지 능동 전자 부품 시장 성장의 주요 동력이 될 것으로 전망된다.",
+        "자율주행, 로봇, 전기차, 데이터센터 등 AI 및 전력화 관련 산업의 확장은 능동 전자 부품에 대한 수요를 폭발적으로 증가시키고 있다.",
+        "AI 및 전기차 관련 핵심 부품을 생산하는 기업들에 대한 장기적인 투자 기회를 탐색할 필요가 있으며, 관련 기술 트렌드를 지속적으로 팔로우해야 한다."
       ],
-      "summary_text": "미 국채금리 급등과 추가 금리 인상 가능성으로 인해 주요 미국 증시 지수가 일제히 하락했습니다. 고금리 장기화 우려가 커지면서 기술주를 포함한 전반적인 시장에 부담으로 작용하고 있습니다. 미국 금리 환경 변화가 국내 성장주 및 기술주에 미칠 영향에 대비하며 투자 전략을 재검토해야 합니다.",
-      "description": "국채금리가 급등하고 추가 금리 인상 요구가 나오면서 S&P 500, 다우, 나스닥 지수가 모두 하락했으며, 아마존, 구글, 넷플릭스 등 주요 기술주가 주목받았다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "IT, 기술주, 성장주",
+      "summary_text": "인공지능(AI)과 전력화(Electrification) 기술 발전이 2035년까지 능동 전자 부품 시장 성장의 주요 동력이 될 것으로 전망된다. 자율주행, 로봇, 전기차, 데이터센터 등 AI 및 전력화 관련 산업의 확장은 능동 전자 부품에 대한 수요를 폭발적으로 증가시키고 있다. AI 및 전기차 관련 핵심 부품을 생산하는 기업들에 대한 장기적인 투자 기회를 탐색할 필요가 있으며, 관련 기술 트렌드를 지속적으로 팔로우해야 한다.",
+      "description": "능동 전자 부품 시장은 AI(인공지능)와 전력화(Electrification) 추세에 힘입어 2035년까지 큰 성장을 이룰 것으로 예상됩니다.",
+      "category": "기업·산업",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "반도체, 전자부품, 인공지능",
       "related_stocks": [
-        "카카오",
-        "네이버"
+        "삼성전자",
+        "SK하이닉스",
+        "LG이노텍"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 금리 인상 우려가 국내 증시의 성장주 및 기술주에 대한 투자 심리를 위축시킬 수 있기 때문입니다.",
-      "key_signal": "미국 연준의 향후 금리 정책 방향과 장기 국채금리 추이를 면밀히 모니터링해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI와 전기차 관련 핵심 산업 성장의 수혜를 직접적으로 받을 수 있는 능동 전자 부품 기업들은 장기적인 투자 매력이 높습니다.",
+      "key_signal": "AI 반도체 및 전기차 전력 부품 기술 개발 동향과 주요 기업들의 실적 변화를 주목해야 합니다.",
       "keywords": [
-        "미국증시",
-        "국채금리",
-        "금리인상",
-        "기술주",
-        "성장주"
+        "능동전자부품",
+        "AI",
+        "전기차",
+        "반도체",
+        "성장산업"
       ],
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3E5Mk5oS3NyQTZJRFlBQ093dlBwX1JvanFreVZnWDJTcWJSWlF4c2ZoSmc0Um1kM1o0Uk1SaW9DcjBOLTh1OWFJYThoV1ZoSmotVjVCYmt4Qk1UTlp1Y1dsWVlLSHpZTVBQRXFfZjB2MS1Tb3hjNVI1LXJiMnVLMTdmcF9GM0M5V1ZQR2tkOA?oc=5",
-      "published": "2026-09-24 06:23",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLWNtRnJwUFdWaF9iY2ZDWnRxX0pfd0loZGJhZU9STGxUcmZUTUdyWnlpU3ZBOElZTVhMY083Q0F1WERaX1ctME93X0ZHWU10cmxUU3c4aVd1VUJXMzVaM0hYaGFWdGlNcGdFdHh2MW85OFNQRmN6ZGlkaTVLVGJCY0JocVdPYnR1ZzZLQ0t6ajdST2N2NkFrNTZ4bE91MTVFQWRBR1FON3FSQVd4RjlSbGNFZ2xyckFuM3BtaTlB?oc=5",
+      "published": "2026-09-25 07:46",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -153,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "월스트리트의 연준 추가 금리 인상 우려에 채권금리 5% 돌파",
-      "display_title": "월스트리트의 연준 추가 금리 인상 우려에 채권금리 5% 돌파",
-      "original_title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes - MarketWatch",
+      "title": "채권 시장과 유가 압력 속에 미국 증시 등락 거듭",
+      "display_title": "채권 시장과 유가 압력 속에 미국 증시 등락 거듭",
+      "original_title": "U.S. stocks swing as the bond market, oil prices keep up the pressure - BNN Bloomberg",
       "summary": [
-        "미 연준의 추가 금리 인상 가능성 우려로 채권금리가 5%를 돌파하며 급등세를 보였습니다.",
-        "높은 인플레이션과 견조한 경제 지표가 금리 인상 압력을 지속시키고 있어 시장에 긴축 장기화 우려를 심화시키고 있습니다.",
-        "고금리 환경이 주식 시장 전반에 부담을 줄 수 있으므로, 방어적 포트폴리오 구성 및 금리 민감 섹터에 대한 신중한 접근이 필요합니다."
+        "미국 채권 시장의 불안정과 국제 유가 상승 압력으로 인해 미국 주식 시장이 하루 종일 등락을 반복하는 불안정한 모습을 보였다.",
+        "고금리 기조와 높은 유가는 기업의 수익성을 악화시키고 소비를 위축시켜 경기 둔화 우려를 심화시키며 시장에 부담을 준다.",
+        "이러한 대외 변수들은 국내 증시에도 민감하게 영향을 미치므로, 주요 경제 지표 발표와 국제 동향에 대한 지속적인 관심이 요구된다."
       ],
-      "summary_text": "미 연준의 추가 금리 인상 가능성 우려로 채권금리가 5%를 돌파하며 급등세를 보였습니다. 높은 인플레이션과 견조한 경제 지표가 금리 인상 압력을 지속시키고 있어 시장에 긴축 장기화 우려를 심화시키고 있습니다. 고금리 환경이 주식 시장 전반에 부담을 줄 수 있으므로, 방어적 포트폴리오 구성 및 금리 민감 섹터에 대한 신중한 접근이 필요합니다.",
-      "description": "연방준비제도(Fed)의 추가 금리 인상 가능성에 대한 월스트리트의 우려가 커지면서 채권금리가 5%를 넘어섰다.",
+      "summary_text": "미국 채권 시장의 불안정과 국제 유가 상승 압력으로 인해 미국 주식 시장이 하루 종일 등락을 반복하는 불안정한 모습을 보였다. 고금리 기조와 높은 유가는 기업의 수익성을 악화시키고 소비를 위축시켜 경기 둔화 우려를 심화시키며 시장에 부담을 준다. 이러한 대외 변수들은 국내 증시에도 민감하게 영향을 미치므로, 주요 경제 지표 발표와 국제 동향에 대한 지속적인 관심이 요구된다.",
+      "description": "채권 시장과 유가의 지속적인 압력으로 인해 미국 주식 시장은 등락을 거듭했습니다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "금융, 증권, 건설",
+      "related_sector": "금융, 에너지, 수출주",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "POSCO홀딩스"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 채권금리 급등은 글로벌 유동성 위축과 기업의 자금 조달 비용 증가로 이어져 국내 증시에 악영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "미국 연준의 다음 FOMC 회의 결과와 고위 관계자들의 발언을 예의주시해야 합니다.",
+      "investment_reason": "글로벌 채권 시장과 유가의 불안정성은 국내 증시의 하방 압력으로 작용할 수 있으므로 신중한 접근이 필요합니다.",
+      "key_signal": "미 연준의 금리 인상 기조와 OPEC+의 원유 생산량 조절 여부를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "채권금리",
-        "연준",
-        "금리인상",
-        "월스트리트",
-        "고금리"
+        "채권시장",
+        "유가상승",
+        "미국증시",
+        "시장변동성",
+        "글로벌경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWJMOGx4MkZURnVjUExNcnhnajRQQ0dnN0hieTVZUEtlQUp2cjdmRWpGZXFub2VxSVByYlVKUnpWSm9kb09DQ2h1UTJMa1pKSlVwbHhYR29jZ3I4ZUR1MGo1SHpwQUQ4U3BkOHhUUGVfOWQyb3Q1QU9ZcEpzX05Ld1BCNktGcUJCRzkxUnBYVmhYWXBBOVF5MUZuS1pZdVJMVG9sWHdEMTljYXRjVC14QUY0RlJsdDY4WlhQbm1fak4?oc=5",
-      "published": "2026-09-24 04:48",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNi1FWkR6OFphOTJzaEs2bFZwNEFYT0Z4V2xkVnhQVGJJNmdLYjcwNm5LTU4wc2pFWU1ZTzRLRlFua29qTERsUnRGN215RGlWMW5IdGhSZ1J6WjVDb3JaQkxDNEdxMTI4TW1FZ2VveEtseUNERWV2NzhLRXViZGVlRFRXMm16VmVGYVpRRjZnZ19Rd2ZEVXZqbEVqQ1ZoTmlsOFdRTXBxbGRENkZid3c?oc=5",
+      "published": "2026-09-25 03:33",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -195,36 +196,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "추석 연휴 돌입한 한국 증시, 미·중 정상회담 결과에 촉각",
-      "display_title": "추석 연휴 돌입한 한국 증시, 미·중 정상회담 결과에 촉각",
-      "original_title": "추석 연휴 돌입 韓 증시...美·中 정상회담 결과에 쏠린 눈 - digitaltoday.co.kr",
+      "title": "OECD, 한국 성장률 전망 상향…2023년 3.7%·2024년 2.6%로 조정",
+      "display_title": "OECD, 한국 성장률 전망 상향…2023년 3.7%·2024년 2.6%로 조정",
+      "original_title": "OECD, 한국 성장률 전망 상향…2023년 3.7%·2024년 2.6%로 조정 - gukjenews.com",
       "summary": [
-        "추석 연휴로 국내 증시가 휴장하는 동안, 예정된 미·중 정상회담 결과가 연휴 이후 국내 증시에 큰 영향을 미칠 것으로 예상됩니다.",
-        "미·중 관계는 글로벌 경제 및 공급망에 직접적인 영향을 미치며, 특히 반도체 등 핵심 산업에 민감하게 작용합니다.",
-        "연휴 이후 개장 시 미·중 관계 변화에 따른 시장의 변동성에 대비하고, 관련 산업의 투자 전략을 미리 점검해야 합니다."
+        "OECD가 한국의 2023년 성장률을 3.7%로, 2024년 성장률을 2.6%로 상향 조정하며 한국 경제에 대한 긍정적인 전망을 제시했다.",
+        "이는 글로벌 경기 회복과 국내 수출 개선, 정부의 적극적인 경기 부양책 등이 복합적으로 작용한 결과로 해석된다.",
+        "성장률 상향 조정은 국내 기업들의 실적 개선과 투자 확대 기대감을 높여 증시 전반에 긍정적인 영향을 미칠 수 있으며, 내수 및 경기 민감주에 대한 관심이 필요하다."
       ],
-      "summary_text": "추석 연휴로 국내 증시가 휴장하는 동안, 예정된 미·중 정상회담 결과가 연휴 이후 국내 증시에 큰 영향을 미칠 것으로 예상됩니다. 미·중 관계는 글로벌 경제 및 공급망에 직접적인 영향을 미치며, 특히 반도체 등 핵심 산업에 민감하게 작용합니다. 연휴 이후 개장 시 미·중 관계 변화에 따른 시장의 변동성에 대비하고, 관련 산업의 투자 전략을 미리 점검해야 합니다.",
-      "description": "추석 연휴에 돌입한 한국 증시 투자자들이 미국의 대중국 정책과 중국의 반응을 가늠할 수 있는 미·중 정상회담 결과에 주목하고 있다.",
-      "category": "글로벌 경제",
+      "summary_text": "OECD가 한국의 2023년 성장률을 3.7%로, 2024년 성장률을 2.6%로 상향 조정하며 한국 경제에 대한 긍정적인 전망을 제시했다. 이는 글로벌 경기 회복과 국내 수출 개선, 정부의 적극적인 경기 부양책 등이 복합적으로 작용한 결과로 해석된다. 성장률 상향 조정은 국내 기업들의 실적 개선과 투자 확대 기대감을 높여 증시 전반에 긍정적인 영향을 미칠 수 있으며, 내수 및 경기 민감주에 대한 관심이 필요하다.",
+      "description": "OECD가 한국의 경제 성장률 전망치를 상향 조정하여 2023년 3.7%, 2024년 2.6%를 기록할 것으로 예상했습니다.",
+      "category": "국내 거시경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT, 무역",
+      "market_impact": "긍정",
+      "related_sector": "국내경제, 금융, 수출주",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스"
+        "SK하이닉스",
+        "신한지주"
       ],
       "investment_view": "관심",
-      "investment_reason": "미·중 정상회담 결과는 국내 주력 산업의 대외 불확실성을 해소하거나 심화시킬 수 있는 핵심 변수이기 때문입니다.",
-      "key_signal": "미·중 정상회담의 구체적인 결과와 양국 관계 변화의 방향을 연휴 기간 동안 면밀히 확인해야 합니다.",
+      "investment_reason": "국내 경제 성장률 상향 조정은 기업 실적 개선과 고용 증가로 이어져 장기적으로 주식 시장에 긍정적인 투자 환경을 제공합니다.",
+      "key_signal": "상향 조정된 성장률 전망이 실제 경제 지표와 기업들의 투자 및 고용 계획에 어떻게 반영되는지 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "미중정상회담",
-        "한국증시",
-        "추석연휴",
-        "지정학적위험",
-        "공급망"
+        "한국경제",
+        "OECD",
+        "성장률상향",
+        "경기회복",
+        "거시경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNldlT2s5X3JFdExoc2g4RUFWYlRob1RjeW1yaHpHYUhsalo3R3ZQd3VPYl9WOXVVdk1rYW5rSnA3Wk40cmEtR2Fib196V081RnVGUlFQVGE2YTVpRlVTVHhMM1pMT1lkWjJUYldhekpCOHc?oc=5",
-      "published": "2026-09-24 07:30",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ERUhHNkRWdEIzalpwTWkyeG9VWnY5WldQR3gtVUQ4YUt5eWtQUTljRlRpTVhBOVRzMFFRdXl2UEV1aHM0OWdUWE05bXF3SWN2dVBHc1VmSklTYXlhRm50aGlJRkF0S0hEZHlVdHR3?oc=5",
+      "published": "2026-09-25 09:05",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -233,41 +235,42 @@
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "“트럼프·시진핑 회담 주요 의제 AI와 반도체 주목에 삼성전자·SK하이닉스 상승?”",
-      "display_title": "“트럼프·시진핑 회담 주요 의제 AI와 반도체 주목에 삼성전자·SK하이닉스 상승?”",
-      "original_title": "“트럼프·시진핑 만나는데 삼전닉스는 왜 오르죠?”…주요 의제 AI에 반도체 주목 - v.daum.net",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국-이란 전쟁 우려에 S&P 500 소폭 하락 마감",
+      "display_title": "미국-이란 전쟁 우려에 S&P 500 소폭 하락 마감",
+      "original_title": "S&P 500 ends marginally lower as investors focus on US-Iran war - Reuters",
       "summary": [
-        "미·중 정상회담의 주요 의제로 AI와 반도체가 부각되면서 삼성전자와 SK하이닉스 등 국내 반도체 기업들의 주가가 상승했습니다.",
-        "미·중 간 반도체 갈등 완화 또는 협력 가능성에 대한 기대감이 반영되며, 글로벌 반도체 산업에 긍정적인 신호로 해석될 수 있습니다.",
-        "미·중 관계 변화에 따른 국내 반도체 기업들의 실적 개선 및 주가 상승 가능성을 염두에 두고 투자 전략을 세워야 합니다."
+        "미국과 이란 간의 지정학적 긴장 고조에 대한 투자자들의 우려가 증폭되면서 S&P 500 지수가 소폭 하락 마감했다.",
+        "중동 지역의 불안정은 국제 유가 상승 압력과 더불어 글로벌 경제 및 금융 시장에 불확실성을 가중시키는 요인으로 작용한다.",
+        "지정학적 리스크는 단기적으로 시장 변동성을 확대시킬 수 있으므로, 방산주나 에너지 관련주에 대한 관심과 함께 전반적인 리스크 관리가 필요하다."
       ],
-      "summary_text": "미·중 정상회담의 주요 의제로 AI와 반도체가 부각되면서 삼성전자와 SK하이닉스 등 국내 반도체 기업들의 주가가 상승했습니다. 미·중 간 반도체 갈등 완화 또는 협력 가능성에 대한 기대감이 반영되며, 글로벌 반도체 산업에 긍정적인 신호로 해석될 수 있습니다. 미·중 관계 변화에 따른 국내 반도체 기업들의 실적 개선 및 주가 상승 가능성을 염두에 두고 투자 전략을 세워야 합니다.",
-      "description": "트럼프와 시진핑의 회담 주요 의제로 인공지능(AI)과 반도체가 주목받으면서 삼성전자와 SK하이닉스 주가가 상승세를 보였다.",
-      "category": "기업·산업",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT",
+      "summary_text": "미국과 이란 간의 지정학적 긴장 고조에 대한 투자자들의 우려가 증폭되면서 S&P 500 지수가 소폭 하락 마감했다. 중동 지역의 불안정은 국제 유가 상승 압력과 더불어 글로벌 경제 및 금융 시장에 불확실성을 가중시키는 요인으로 작용한다. 지정학적 리스크는 단기적으로 시장 변동성을 확대시킬 수 있으므로, 방산주나 에너지 관련주에 대한 관심과 함께 전반적인 리스크 관리가 필요하다.",
+      "description": "투자자들이 미국과 이란 간의 긴장에 집중하면서 S&P 500 지수가 소폭 하락 마감했습니다.",
+      "category": "증시·금리",
+      "importance": 7,
+      "market_impact": "부정",
+      "related_sector": "방산, 에너지, 국제정치",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "한화에어로스페이스",
+        "S-Oil",
+        "한국항공우주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미·중 정상회담에서 반도체 관련 긍정적인 논의가 이루어질 경우 국내 반도체 산업에 대한 불확실성 해소와 투자 심리 개선에 크게 기여할 수 있기 때문입니다.",
-      "key_signal": "미·중 정상회담 결과 발표 후 반도체 관련 구체적인 합의 내용이나 언급이 있는지 집중적으로 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "중동 지정학적 리스크는 국제 유가와 물가에 영향을 미치며, 글로벌 경제 불확실성을 증대시켜 투자 심리를 위축시킬 수 있습니다.",
+      "key_signal": "미국과 이란의 관계 진전 상황 및 국제 유가 변동을 면밀히 모니터링해야 합니다.",
       "keywords": [
-        "미중정상회담",
-        "반도체",
-        "AI",
-        "삼성전자",
-        "SK하이닉스"
+        "지정학적리스크",
+        "미국-이란",
+        "유가",
+        "증시불안",
+        "S&P500"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03bTVqblRFVEhxNzE2SkVLajA2OXl3N1pQMTB6WkE3N0hvTjlHLW04ZWotazRjUXhsdk9fU1pFZWthelhVa3lmYWFpUQ?oc=5",
-      "published": "2026-09-23 16:21",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
+      "published": "2026-09-25 06:13",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -280,61 +283,62 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미·중 정상회담에서 AI 및 반도체 관련 긍정적 논의 가능성이 제기되며, 이는 국내 반도체 산업의 불확실성 해소와 투자 심리 개선에 기여할 수 있기 때문입니다.",
+      "reason": "AI 및 전력화에 따른 능동 전자 부품 시장의 장기적인 성장 전망과 OECD 한국 성장률 상향 조정은 삼성전자의 실적 개선 기대감을 높이는 긍정적인 요인입니다.",
       "check_points": [
-        "미·중 정상회담의 반도체 관련 구체적인 합의 내용",
-        "글로벌 AI 산업 성장세 유지 여부"
+        "글로벌 반도체 수요 회복 여부 및 데이터센터 투자 동향",
+        "원/달러 환율 변동성 및 외국인 매매 동향"
       ],
       "related_news_titles": [
-        "추석 연휴 돌입한 한국 증시, 미·중 정상회담 결과에 촉각",
-        "“트럼프·시진핑 회담 주요 의제 AI와 반도체 주목에 삼성전자·SK하이닉스 상승?”"
+        "능동 전자 부품 시장, AI 및 전력화로 2035년까지 성장 가속화 전망",
+        "OECD, 한국 성장률 전망 상향…2023년 3.7%·2024년 2.6%로 조정",
+        "[9.25(금) 한국장 전망] 환율 급등·KORU -5%·코스피 하방 압력"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "S-Oil",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "삼성전자와 마찬가지로 미·중 정상회담에서 반도체 및 AI 분야의 긍정적 논의 기대감이 존재하며, 이는 국내 대표 반도체 기업으로서 투자 심리에 긍정적 영향을 미칠 수 있습니다.",
+      "sector": "정유",
+      "opinion": "주의",
+      "reason": "국제 유가 급등과 미국-이란 전쟁 우려 등 중동 지정학적 리스크는 정유업종의 수익성에 직접적인 영향을 미치며, 유가 변동성 확대에 따른 주의가 필요합니다.",
       "check_points": [
-        "미·중 정상회담 결과 발표",
-        "메모리 반도체 업황 개선 시그널"
+        "국제 유가(WTI, 브렌트유) 및 정제마진 추이",
+        "중동 지역의 지정학적 긴장 완화 또는 심화 여부"
       ],
       "related_news_titles": [
-        "추석 연휴 돌입한 한국 증시, 미·중 정상회담 결과에 촉각",
-        "“트럼프·시진핑 회담 주요 의제 AI와 반도체 주목에 삼성전자·SK하이닉스 상승?”"
+        "채권 매도세 심화, 미 국채 10년물 금리 5.1% 돌파, 다우존스 0.3% 하락, 유가 105달러 기록",
+        "미국-이란 전쟁 우려에 S&P 500 소폭 하락 마감"
       ]
     },
     {
       "rank": 3,
-      "name": "카카오",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "IT서비스",
+      "sector": "은행",
       "opinion": "주의",
-      "reason": "국채금리 급등과 추가 금리 인상론은 성장주 및 기술주에 대한 투자 심리를 위축시키는 주요 요인으로 작용하며, 이는 국내 대표 성장주인 카카오에 부정적인 영향을 미칠 수 있기 때문입니다.",
+      "reason": "글로벌 채권 금리 급등과 유가 상승 등 전반적인 시장 불안정성은 국내 금융주에 부담으로 작용할 수 있으며, 금리 환경 변화에 따른 건전성 관찰이 중요합니다.",
       "check_points": [
-        "미국 연방준비제도(Fed)의 추가 금리 인상 여부",
-        "글로벌 증시에서 기술주 및 성장주의 전반적인 흐름"
+        "미국 연방준비제도(Fed)의 통화정책 방향 및 국내 기준금리 결정",
+        "경기 둔화 우려에 따른 대출 자산 건전성 및 연체율 동향"
       ],
       "related_news_titles": [
-        "국채금리 급등과 추가 금리 인상론에 S&P 500, 다우, 나스닥 일제히 하락"
+        "채권 매도세 심화, 미 국채 10년물 금리 5.1% 돌파, 다우존스 0.3% 하락, 유가 105달러 기록",
+        "채권 시장과 유가 압력 속에 미국 증시 등락 거듭"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "한화에어로스페이스",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "주의",
-      "reason": "미 국채금리 급등은 글로벌 유동성 환경을 경색시키고 기업의 자금 조달 비용 증가로 이어져 국내 증권 업종 전반에 부정적인 영향을 미칠 수 있으며, 이는 증권사 실적 및 투자 심리 위축으로 이어질 수 있습니다.",
+      "sector": "방위산업",
+      "opinion": "관심",
+      "reason": "미국-이란 전쟁 우려 등 중동 지정학적 리스크가 고조되면서 방위산업 관련 종목에 대한 투자 심리가 개선될 가능성이 있습니다.",
       "check_points": [
-        "국내외 국채금리 변동 추이",
-        "금융 시장의 유동성 변화"
+        "국제 정세 변화 및 주요 분쟁 지역의 상황",
+        "각국의 국방 예산 증액 및 신규 방산 계약 체결 소식"
       ],
       "related_news_titles": [
-        "10년 만기 국채금리 19년 만에 5.1% 돌파",
-        "월스트리트의 연준 추가 금리 인상 우려에 채권금리 5% 돌파"
+        "미국-이란 전쟁 우려에 S&P 500 소폭 하락 마감"
       ]
     }
   ],
