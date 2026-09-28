@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27 09:16",
-  "analysis_date": "2026-09-27",
+  "generated_at": "2026-09-28 09:23",
+  "analysis_date": "2026-09-28",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 고용 및 물가 지표 발표를 앞두고 글로벌 경제 불확실성이 고조되는 가운데, 국내는 성장률 이면의 물가·일자리·부동산 과제에 직면했습니다.",
-    "국내거시경제": "국내 경제는 3.7% 성장률 예상에도 불구하고 높은 물가, 불안정한 일자리, 급등하는 집값이라는 3중 과제에 직면해 민생 경제의 어려움이 예상됩니다.",
-    "글로벌경제": "이번 주 미 고용 및 인플레이션 데이터 발표로 연준의 금리 경로와 경제 강도가 시험대에 오르며, 복합적인 인플레이션 요인으로 금리 인상 사이클 장기화 가능성이 제기됩니다.",
-    "증시금리": "미 국채금리 급등으로 미국 증시 선물 지수가 하락했으며, 국내 증시 역시 금리 상승에 대한 방어적 전략이 필요합니다. 다만, 국내 전문가는 4분기 코스피 상단을 높게 보며 반도체·은행 업종을 유망하게 평가했습니다.",
-    "부동산정책": "국내 경제의 3대 과제 중 하나로 높은 집값 문제가 부각되었으며, 정부의 향후 부동산 정책 방향에 시장의 관심이 쏠릴 것입니다.",
-    "기업산업": "대규모 전력 저장 시스템(ESS) 수요 증가로 배터리 제어 기술 시장이 2035년까지 성장할 것으로 전망되며, 관련 기업에 대한 장기적 투자 기회 모색이 필요합니다.",
-    "오늘의투자시사점": "미 금리 인상 장기화 가능성과 국내 경제의 복합적 과제를 고려하여 신중한 투자 전략을 유지하되, 반도체·은행 및 ESS 관련 기술주에 대한 장기적 관점의 접근을 검토할 필요가 있습니다.",
-    "오늘의한줄": "미국 경제 지표 발표와 국내 복합 과제 속, 신중한 시장 접근과 유망 섹터에 대한 장기적 관점이 요구됩니다."
+    "총평": "글로벌 증시는 AI 강세와 금리 인하 기대감 속에 있지만, 실제 고금리 장기화 우려가 심화되며 혼조세가 예상됩니다. 국내는 전월세 안정화와 ESG 정책 변화에 주목할 시점입니다.",
+    "국내거시경제": "정부의 전월세 시장 안정화 추가 대책 마련이 시급하며, ESG 관련 선상 탄소포집 안전 지침 및 EU 산업가속화법 대응 방안이 국내 산업 환경 변화를 예고합니다.",
+    "글로벌경제": "유가 및 금리 하락 기대감이 S&P 500 상승 요인으로 제시되지만, 예상보다 가파른 글로벌 금리 상승은 경기 둔화 우려를 키우며 투자 심리를 위축시키고 있습니다.",
+    "증시금리": "AI 주식 강세가 S&P 500 지수 상승을 견인할 수 있다는 전망과 달리, 연준 금리 인상 이후 10년물 국채 금리 5% 재돌파 등 고금리 장기화 압력이 증시에 하방 압력을 가하고 있습니다. 2026년 주가지수에는 이미 약세 신호가 나타나기 시작했습니다.",
+    "부동산정책": "불안정한 전월세 시장 안정을 위한 정부의 추가 대책 마련 요구가 커지고 있으며, 향후 정책 내용이 부동산 시장 전반에 미칠 영향을 면밀히 관찰해야 합니다.",
+    "기업산업": "선상 탄소포집 안전 지침 및 EU 산업가속화법 대응은 국내 기업들의 ESG 경영 및 탄소 배출 규제 준수에 필수적인 요소로, 관련 기술 개발 및 정책 변화에 선제적으로 대응해야 합니다.",
+    "오늘의투자시사점": "고금리 장기화 가능성에 대비, 안정적인 현금 흐름을 제공하는 배당주를 고려하고, AI 관련 기술주의 실적과 ESG 정책 변화에 따른 산업별 기회 요인을 주시해야 합니다. 다가오는 시장의 약세 신호에 대한 보수적이고 방어적인 포트폴리오 전략이 요구됩니다.",
+    "오늘의한줄": "치솟는 글로벌 금리가 증시에 부담을 주는 가운데, AI 기술 성장과 국내외 ESG 정책 변화에 주목하며 보수적인 투자 전략을 유지해야 합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이번 주 월스트리트: 고용 보고서, 인플레이션 데이터로 미 금리 경로 및 경제 강도 시험대",
-      "display_title": "이번 주 월스트리트: 고용 보고서, 인플레이션 데이터로 미 금리 경로 및 경제 강도 시험대",
-      "original_title": "Wall Street Week Ahead: Jobs report, inflation data to test US rate path, economic strength - inkl.com",
+      "title": "S&P 500 전망: 유가 및 금리 하락, AI 주식 상승으로 SPX 상승 예측",
+      "display_title": "S&P 500 전망: 유가 및 금리 하락, AI 주식 상승으로 SPX 상승 예측",
+      "original_title": "S&P 500 Forecast: SPX higher as oil & yields fall, AI stocks rise - stonex.com",
       "summary": [
-        "핵심사실: 다가오는 주에 발표될 미국 고용 보고서와 인플레이션 데이터가 미 연준의 금리 정책 방향과 경제 건전성을 판단하는 주요 지표가 될 것입니다.",
-        "배경·맥락: 연준은 고용 및 물가 지표를 기반으로 통화정책을 결정하므로, 이 데이터들은 글로벌 금융시장에 큰 영향을 미칩니다.",
-        "투자 시사점: 발표될 경제 지표 결과에 따라 주식, 채권, 환율 시장의 변동성이 확대될 수 있으므로, 지표 발표 전후로 신중한 포지션 관리가 필요합니다."
+        "유가 및 채권 금리 하락과 AI 주식 강세가 S&P 500 지수 상승을 견인할 것으로 전망된다.",
+        "에너지 비용 감소와 금리 하향 안정화는 기업 수익성과 투자 심리에 긍정적이며, AI 산업은 계속해서 성장 동력으로 작용하고 있다.",
+        "유가 및 금리 추이와 AI 관련 기술주들의 실적을 주시하며 투자 전략을 수립할 필요가 있다."
       ],
-      "summary_text": "핵심사실: 다가오는 주에 발표될 미국 고용 보고서와 인플레이션 데이터가 미 연준의 금리 정책 방향과 경제 건전성을 판단하는 주요 지표가 될 것입니다. 배경·맥락: 연준은 고용 및 물가 지표를 기반으로 통화정책을 결정하므로, 이 데이터들은 글로벌 금융시장에 큰 영향을 미칩니다. 투자 시사점: 발표될 경제 지표 결과에 따라 주식, 채권, 환율 시장의 변동성이 확대될 수 있으므로, 지표 발표 전후로 신중한 포지션 관리가 필요합니다.",
-      "description": "이번 주 월스트리트 시장은 고용 보고서와 인플레이션 데이터를 통해 미국의 금리 인상 경로와 경제 전반의 강도를 시험하게 될 것이다.",
-      "category": "글로벌 경제",
-      "importance": 10,
-      "market_impact": "중립",
-      "related_sector": "전반적 시장, 금융",
+      "summary_text": "유가 및 채권 금리 하락과 AI 주식 강세가 S&P 500 지수 상승을 견인할 것으로 전망된다. 에너지 비용 감소와 금리 하향 안정화는 기업 수익성과 투자 심리에 긍정적이며, AI 산업은 계속해서 성장 동력으로 작용하고 있다. 유가 및 금리 추이와 AI 관련 기술주들의 실적을 주시하며 투자 전략을 수립할 필요가 있다.",
+      "description": "유가와 채권 금리가 하락하고 인공지능(AI) 관련 주식이 상승하면서 S&P 500 지수(SPX)가 더 오를 것이라는 전망이 나왔다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "IT, 반도체, 에너지, 금융시장",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "엔비디아",
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 고용 및 인플레이션 데이터는 연준의 통화정책 결정에 가장 중요한 근거가 되며, 이는 글로벌 증시와 국내 투자 환경에 직접적인 영향을 미치기 때문입니다.",
-      "key_signal": "고용 보고서(특히 비농업 고용 및 실업률)와 소비자물가지수(CPI) 발표 결과를 확인하고, 연준 위원들의 후속 발언을 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "유가 및 금리 안정화와 AI 산업 성장이 글로벌 증시 전반에 긍정적인 영향을 미쳐 국내 시장에도 파급 효과가 예상되기 때문이다.",
+      "key_signal": "유가 및 주요국 금리 동향, 그리고 AI 관련 기업들의 실적 발표를 면밀히 주시하여 S&P 500 및 국내 증시의 흐름을 예측해야 한다.",
       "keywords": [
-        "고용보고서",
-        "인플레이션",
-        "금리정책",
-        "연준",
-        "경제지표"
+        "S&P 500",
+        "유가",
+        "금리 하락",
+        "AI 주식",
+        "증시 전망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQll6aUZhLWY5NUJOMUt0TWh2bzgxdnhmZHlUWTBNQ2NVcVVRRk5uN25YaUd3ZWtxemRaQ3pKV3RSaHlTc3FKenBEcU5kanRzeG9Dc21RUy1EejVMRnpXb2RZZmIzRWF2QVhSeWJBZTJtVXpTSEctV1NScHZsb1ZCOFRsZlp0U0h5NmxualVMV08yc21vX2hnQURONDlwOUl1QzNDOFY5OUc0c0hDaFR6UVRXMDc?oc=5",
-      "published": "2026-09-26 14:15",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHp4eExjcFVLMF9XbndXN0hNYnN4UWlrbUNjV1BBekh4NXRDQjFocFI1ZE44Zl9qekhpWFRvS2RpcGU5ZzRXR245dlpqcElFVTF3TkFmUXJ6bG1IVWxpa29XMzdSWWoxNHlIeXBYMXlNS00yTHhLRTFqTzN1ODNiQTAwMTJJdWU4SHpKbThsTE52U2VBa2pSNWJfZFlMZ2FwU25fZE00TkVkcEE2aTlQTWppa085dw?oc=5",
+      "published": "2026-09-27 22:24",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,33 +70,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 의장 케빈 워시, 인플레이션 난제 직면; 트럼프발 인플레이션은 일부 요인일 뿐",
-      "display_title": "연준 의장 케빈 워시, 인플레이션 난제 직면; 트럼프발 인플레이션은 일부 요인일 뿐",
-      "original_title": "Fed Chair Kevin Warsh Has an Inflation Conundrum, and Trumpflation Is Only Part of the Problem - The Motley Fool",
+      "title": "연준 금리 인상 후 10년물 국채 금리 5% 재돌파, 장기 패시브 인컴 투자자에게 S&P 500 배당주가 더 나은 이유 3가지",
+      "display_title": "연준 금리 인상 후 10년물 국채 금리 5% 재돌파, 장기 패시브 인컴 투자자에게 S&P 500 배당주가 더 나은 이유 3가지",
+      "original_title": "10-Year Treasury Yields Are Back Over 5% After the Fed Raised Rates. 3 Reasons Why This S&P 500 Dividend Stock Is a Better Buy for Long-Term Passive Income Investors - The Motley Fool",
       "summary": [
-        "핵심사실: 연준 의장 후보로 거론되는 케빈 워시가 복합적인 인플레이션 문제에 직면했으며, '트럼프플레이션' 외 다른 요인들도 작용하고 있음.",
-        "배경·맥락: 차기 연준 의장 후보의 시각을 통해 향후 미국 통화정책 방향과 인플레이션 대응 방식에 대한 중요한 힌트를 얻을 수 있습니다.",
-        "투자 시사점: 복합적인 인플레이션 요인과 연준의 스탠스를 이해하고, 금리 인상 사이클 장기화 가능성에 대비해야 합니다."
+        "연준 금리 인상으로 10년물 미국 국채 금리가 5%를 다시 넘어섰다.",
+        "고금리 환경에서 국채 대비 특정 S&P 500 배당주가 장기 인컴 투자에 유리할 수 있다는 분석이 제시되었다.",
+        "금리 상승기에도 안정적인 현금 흐름을 제공하는 고배당주에 대한 관심이 필요하다."
       ],
-      "summary_text": "핵심사실: 연준 의장 후보로 거론되는 케빈 워시가 복합적인 인플레이션 문제에 직면했으며, '트럼프플레이션' 외 다른 요인들도 작용하고 있음. 배경·맥락: 차기 연준 의장 후보의 시각을 통해 향후 미국 통화정책 방향과 인플레이션 대응 방식에 대한 중요한 힌트를 얻을 수 있습니다. 투자 시사점: 복합적인 인플레이션 요인과 연준의 스탠스를 이해하고, 금리 인상 사이클 장기화 가능성에 대비해야 합니다.",
-      "description": "연준 의장 케빈 워시가 인플레이션 난제에 직면했으며, 트럼프발 인플레이션은 문제의 일부에 불과하다는 분석.",
-      "category": "글로벌 경제",
-      "importance": 9,
+      "summary_text": "연준 금리 인상으로 10년물 미국 국채 금리가 5%를 다시 넘어섰다. 고금리 환경에서 국채 대비 특정 S&P 500 배당주가 장기 인컴 투자에 유리할 수 있다는 분석이 제시되었다. 금리 상승기에도 안정적인 현금 흐름을 제공하는 고배당주에 대한 관심이 필요하다.",
+      "description": "연방준비제도(Fed)의 금리 인상 이후 10년물 국채 금리가 다시 5%를 넘어섰으며, 장기적인 패시브 인컴을 추구하는 투자자들에게 특정 S&P 500 배당주가 더 나은 투자처인 3가지 이유를 설명한다.",
+      "category": "증시·금리",
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "전반적 시장",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "연준의 통화정책 방향과 글로벌 인플레이션 압력이 국내외 증시에 직접적인 영향을 미치기 때문에 주의 깊게 살펴봐야 합니다.",
-      "key_signal": "연준 의장 후보 발언과 인플레이션 지표 변화를 주시하여 통화정책 기조 변화 가능성을 파악해야 합니다.",
-      "keywords": [
-        "연준",
-        "인플레이션",
-        "금리정책",
-        "트럼프플레이션",
-        "통화정책"
+      "related_sector": "배당주, 금융, 필수소비재",
+      "related_stocks": [
+        "맥쿼리인프라",
+        "신한지주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMF92Tnc1VlNwMTR3ZDA2RHlrX1pMeVRSazI4MzNyQ0JRZlVpdEttYks0ZWVlanFHVXVYWXdhbmNkVzVzNDh3bXA3ejd3eEk4aU16eGNwbVFmaXN1ajZFMlFIeFFUOXg3UEJaU0hjSGVmZXNHQkN6aTA0NG1JeUZ5aG5RbjZSU0tjVG1jeGY0czRCTmxYaldjN0RfLWl5X2tBakZ4UVZaallsNFV0MERzRVNLVGotN1JGN3JwM0hSWQ?oc=5",
-      "published": "2026-09-26 23:06",
+      "investment_view": "관심",
+      "investment_reason": "높은 국채 금리가 지속되는 환경에서 안정적인 배당 수익을 제공하는 기업에 대한 재평가가 이루어질 수 있기 때문이다.",
+      "key_signal": "10년물 국채 금리 추이와 시장의 고배당주 선호도 변화를 지속적으로 관찰해야 한다.",
+      "keywords": [
+        "미국 국채",
+        "금리 인상",
+        "배당주",
+        "S&P 500",
+        "패시브 인컴"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTNkN0FYenM0MnRYTHp2NXo2NDVRZ0cxcEMxU1p5dGxobHBVdUY1dkxWZWFLUVFhaTlLX2xfcUtVd1FvSFdWSDZXZUVFYWxwRk8xeFAyV2JGRG0xbFB6c0pCQnEtekwxTUowLWl5VW8tOE41Z3o4UGhGTWtIX3BQcEJUakEwdjd2cG9mMzZZRjJWZE1EZmJN?oc=5",
+      "published": "2026-09-28 01:03",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -108,37 +111,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미 국채금리 급등에 S&P 500, 다우, 나스닥 선물 하락 — ORCL, META, AKAM, GOOGL, MGM 주목",
-      "display_title": "미 국채금리 급등에 S&P 500, 다우, 나스닥 선물 하락 — ORCL, META, AKAM, GOOGL, MGM 주목",
-      "original_title": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, META, AKAM, GOOGL, MGM In Focus - Stocktwits",
+      "title": "치솟는 금리",
+      "display_title": "치솟는 금리",
+      "original_title": "Runaway Rates - Seeking Alpha",
       "summary": [
-        "핵심사실: 미 국채금리 급등으로 인해 주요 미국 증시 선물 지수(S&P 500, 다우, 나스닥)가 하락세를 보였습니다.",
-        "배경·맥락: 국채금리 상승은 주식 시장의 매력도를 떨어뜨리고 기업의 자금 조달 비용을 증가시켜 주가에 부정적인 영향을 미칠 수 있습니다.",
-        "투자 시사점: 미국 증시와 국채금리 동향이 국내 증시에도 영향을 미칠 수 있으므로 금리 상승에 대한 방어적인 투자 전략을 고려해야 합니다."
+        "주요국 금리가 예상보다 더 가파르게 상승하는 '치솟는 금리' 현상에 대한 우려가 제기되었다.",
+        "인플레이션 압력과 중앙은행의 긴축 정책이 맞물려 금리가 예상치 못한 수준으로 오르며 시장에 불안감을 조성하고 있다.",
+        "고금리 장기화는 기업의 자금 조달 비용을 높이고 소비 심리를 위축시켜 주식 시장 전반에 부정적인 영향을 미칠 수 있다."
       ],
-      "summary_text": "핵심사실: 미 국채금리 급등으로 인해 주요 미국 증시 선물 지수(S&P 500, 다우, 나스닥)가 하락세를 보였습니다. 배경·맥락: 국채금리 상승은 주식 시장의 매력도를 떨어뜨리고 기업의 자금 조달 비용을 증가시켜 주가에 부정적인 영향을 미칠 수 있습니다. 투자 시사점: 미국 증시와 국채금리 동향이 국내 증시에도 영향을 미칠 수 있으므로 금리 상승에 대한 방어적인 투자 전략을 고려해야 합니다.",
-      "description": "미 국채금리가 계속 상승함에 따라 S&P 500, 다우, 나스닥 선물 지수가 하락했으며, 오라클, 메타, 아카마이, 구글, MGM 등의 주식에 관심이 집중되었다.",
+      "summary_text": "주요국 금리가 예상보다 더 가파르게 상승하는 '치솟는 금리' 현상에 대한 우려가 제기되었다. 인플레이션 압력과 중앙은행의 긴축 정책이 맞물려 금리가 예상치 못한 수준으로 오르며 시장에 불안감을 조성하고 있다. 고금리 장기화는 기업의 자금 조달 비용을 높이고 소비 심리를 위축시켜 주식 시장 전반에 부정적인 영향을 미칠 수 있다.",
+      "description": "통제 불능으로 치솟는 금리 상황에 대한 분석이다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "기술주, 금융",
+      "related_sector": "금융, 채권, 기술주, 부동산",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 국채금리 상승은 글로벌 유동성 축소와 국내 증시 전반에 걸쳐 하방 압력을 가할 수 있어 주요 변수로 작용합니다.",
-      "key_signal": "미국 10년물 국채금리 추이와 이에 따른 주요 기술주들의 움직임을 면밀히 모니터링해야 합니다.",
+      "investment_reason": "통제 불가능하게 치솟는 금리는 기업의 수익성 악화와 소비 심리 위축으로 이어져 주식 시장에 전반적인 하방 압력으로 작용할 수 있기 때문이다.",
+      "key_signal": "주요국 중앙은행의 금리 결정과 시장의 금리 전망치 변화를 면밀히 주시하며 금리 민감도가 높은 업종에 대한 투자 위험을 관리해야 한다.",
       "keywords": [
-        "미 국채금리",
-        "증시선물",
-        "금리인상",
-        "나스닥",
-        "S&P500"
+        "금리 인상",
+        "인플레이션",
+        "중앙은행",
+        "시장 불안",
+        "긴축 정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnFfWmo3cUVQR2Frd0hJLTBKRVo4RTlaV0VJT09QMmRzbGJfT0pFNjd2UjRXSUNhRWxiS0JRLWR4ZkVnMHUxZjNnMnpnRmU0THltRWVFTjNVOUtPSU1xVkFRQ0QzcVhQRGxidU1Zck9nYUFWOEdCZzBUeUdnb0Y5ZzVHZy1GNjRoeFJ0SXIwU0JqMlp4YjNMaGQ3UE1DUmlobjhUc0U2Q3pxZGdfNndac0hjM29ndzNkaWFiSUtkdU5kcFVfNlE?oc=5",
-      "published": "2026-09-26 14:17",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQUWJXem91cGFVZHJUNGdzU2ZKSGMzbGN4aU1NMl9ZT0lZamdCSGtGUHRqNkVOeVJvdVVOT3BncmpIYWxVX2ZRV1cwRmxUTDdJVkY2ZVZoNlEwaWV4blNMbzBjWmw?oc=5",
+      "published": "2026-09-27 22:00",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -147,84 +150,84 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\"",
-      "display_title": "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\"",
-      "original_title": "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\" - paxetv.com",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "2026년 4분기 주가지수 전망: 균열이 보이기 시작하다",
+      "display_title": "2026년 4분기 주가지수 전망: 균열이 보이기 시작하다",
+      "original_title": "Equity Indices Q4, 2026 Outlook: Cracks Begin to Show - FOREX.com",
       "summary": [
-        "핵심사실: 양지환 센터장은 4분기 코스피 지수 예상 범위로 6000~9300을 제시하며 반도체와 은행 업종을 유망하게 평가했습니다.",
-        "배경·맥락: 추석 연휴 이후 국내 증시의 향방에 대한 전문가의 시각을 제시하여 개인 투자자의 전략 수립에 도움을 줍니다.",
-        "투자 시사점: 제시된 유망 업종(반도체, 은행)에 대한 관심과 함께, 지수 상단에 대한 과도한 기대보다는 보수적인 접근이 필요합니다."
+        "2026년 4분기 주가지수 전망에서 시장에 약세 신호(균열)가 나타나기 시작했다는 분석이 나왔다.",
+        "고금리, 경기 둔화 우려, 지정학적 리스크 등 복합적인 요인이 시장의 상승 동력을 둔화시키고 있다.",
+        "다가오는 4분기에는 보수적인 투자 전략을 유지하며 시장의 약세 신호에 대한 방어적 포트폴리오를 고려할 필요가 있다."
       ],
-      "summary_text": "핵심사실: 양지환 센터장은 4분기 코스피 지수 예상 범위로 6000~9300을 제시하며 반도체와 은행 업종을 유망하게 평가했습니다. 배경·맥락: 추석 연휴 이후 국내 증시의 향방에 대한 전문가의 시각을 제시하여 개인 투자자의 전략 수립에 도움을 줍니다. 투자 시사점: 제시된 유망 업종(반도체, 은행)에 대한 관심과 함께, 지수 상단에 대한 과도한 기대보다는 보수적인 접근이 필요합니다.",
-      "description": "양지환 센터장이 추석 이후 4분기 코스피 지수 범위를 6000~9300으로 제시하며, 반도체와 은행 업종을 유망하게 전망했다.",
+      "summary_text": "2026년 4분기 주가지수 전망에서 시장에 약세 신호(균열)가 나타나기 시작했다는 분석이 나왔다. 고금리, 경기 둔화 우려, 지정학적 리스크 등 복합적인 요인이 시장의 상승 동력을 둔화시키고 있다. 다가오는 4분기에는 보수적인 투자 전략을 유지하며 시장의 약세 신호에 대한 방어적 포트폴리오를 고려할 필요가 있다.",
+      "description": "2026년 4분기 주가지수 전망에 따르면, 시장에 일부 균열(약세 신호)이 나타나기 시작하고 있다는 분석이다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 은행",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "금융시장, 모든 업종",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "KB금융"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시의 4분기 전망과 유망 업종에 대한 구체적인 가이드라인을 제시하여 투자 포트폴리오 구성에 실질적인 도움을 주기 때문입니다.",
-      "key_signal": "오늘 제시된 코스피 전망치와 유망 업종에 대한 시장 반응 및 실제 기업 실적 발표를 주목해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "주요 주가지수의 약세 전환 가능성이 제기되면서 시장 전반의 투자 심리 위축과 하방 압력에 대비할 필요가 있기 때문이다.",
+      "key_signal": "4분기 경기 지표, 기업 실적 발표, 중앙은행 정책 변화 등을 면밀히 관찰하여 시장의 추가적인 약세 신호 여부를 확인해야 한다.",
       "keywords": [
-        "코스피",
-        "4분기 전망",
-        "반도체",
-        "은행",
-        "국내증시"
+        "주가지수 전망",
+        "2026년 4분기",
+        "시장 약세",
+        "경기 둔화",
+        "투자 전략"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ta1FVTHRoeDBaVmI3SHdNN0VDbS13cFFtWnJQbnA5Z2ZmUE9FUkhVaUNSUGI2aXBlT2pUdFVDQS1RaFBmSnlHSGV4LUd5Z3B6bVhRcG56Wll3OThkU1lIdzhqcVJZOVU?oc=5",
-      "published": "2026-09-27 09:10",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlN0cXl2LTMtSmxfZjlvZ3BUQzljaGtaZmU3TktydlNCT25KR0wzSEw4Y2R6dXlIY2RGYlF3dTlIWjloMDljVW11VVMyczdpMWlaa282QktwNXlhT1p6cW5KWG5SQTJxNUxJMXBmVVM1NzZ5ZE9vZlFSZjdDcHMwb1lUS2xWLVU1TWdHLUtibzloQ3E4N2VZYkNzWHJXZkE?oc=5",
+      "published": "2026-09-27 18:51",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "배터리 제어 기술 시장 2035년까지 성장 전망: 그리드 규모 저장 수요가 성장 견인",
-      "display_title": "배터리 제어 기술 시장 2035년까지 성장 전망: 그리드 규모 저장 수요가 성장 견인",
-      "original_title": "Battery Control Technology Market To 2035: Grid-Scale Storage Demand Drives Growth - News and Statistics - IndexBox",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "【데일리 ESG 정책 브리핑】 선상 탄소포집 안전 지침 · EU 산업가속화법 대응",
+      "display_title": "【데일리 ESG 정책 브리핑】 선상 탄소포집 안전 지침 · EU 산업가속화법 대응",
+      "original_title": "【데일리 ESG 정책 브리핑】선상탄소포집 안전지침·EU 산업가속화법 대응 - 임팩트온",
       "summary": [
-        "핵심사실: 배터리 제어 기술 시장은 2035년까지 성장할 것으로 예상되며, 대규모 전력 저장 시스템(ESS) 수요가 핵심 동력입니다.",
-        "배경·맥락: 신재생에너지 확대와 전력망 안정화 요구가 커지면서 배터리 및 관련 제어 기술의 중요성이 부각되고 있습니다.",
-        "투자 시사점: ESS 관련 배터리 및 제어 기술을 보유한 기업에 대한 장기적인 투자 기회를 모색하고, 관련 산업의 성장 잠재력을 고려해야 합니다."
+        "선상 탄소포집 안전 지침과 EU 산업가속화법 대응 방안이 주요 ESG 정책 브리핑으로 다뤄졌다.",
+        "전 세계적으로 탄소 배출 규제가 강화되고 있으며, 기업들은 이에 대한 기술 개발 및 정책적 대응이 시급하다.",
+        "탄소 포집 기술을 개발하거나 ESG 경영에 적극적인 기업, 그리고 EU 시장과 연관된 산업 분야의 변화를 주시해야 한다."
       ],
-      "summary_text": "핵심사실: 배터리 제어 기술 시장은 2035년까지 성장할 것으로 예상되며, 대규모 전력 저장 시스템(ESS) 수요가 핵심 동력입니다. 배경·맥락: 신재생에너지 확대와 전력망 안정화 요구가 커지면서 배터리 및 관련 제어 기술의 중요성이 부각되고 있습니다. 투자 시사점: ESS 관련 배터리 및 제어 기술을 보유한 기업에 대한 장기적인 투자 기회를 모색하고, 관련 산업의 성장 잠재력을 고려해야 합니다.",
-      "description": "2035년까지 배터리 제어 기술 시장이 성장할 것으로 예상되며, 특히 대규모 전력망 저장(Grid-Scale Storage) 수요가 성장을 견인할 것이라는 전망.",
+      "summary_text": "선상 탄소포집 안전 지침과 EU 산업가속화법 대응 방안이 주요 ESG 정책 브리핑으로 다뤄졌다. 전 세계적으로 탄소 배출 규제가 강화되고 있으며, 기업들은 이에 대한 기술 개발 및 정책적 대응이 시급하다. 탄소 포집 기술을 개발하거나 ESG 경영에 적극적인 기업, 그리고 EU 시장과 연관된 산업 분야의 변화를 주시해야 한다.",
+      "description": "선박에서 탄소를 포집하는 안전 지침과 유럽연합(EU)의 산업가속화법에 대한 대응 방안을 담은 일일 ESG 정책 브리핑 내용이다.",
       "category": "기업·산업",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "2차전지, ESS, 신재생에너지",
+      "market_impact": "중립",
+      "related_sector": "조선, 해운, 친환경 에너지, 탄소포집, EU 관련 산업",
       "related_stocks": [
-        "LG에너지솔루션",
-        "삼성SDI",
-        "포스코퓨처엠"
+        "현대중공업",
+        "삼성중공업",
+        "한화오션"
       ],
       "investment_view": "관심",
-      "investment_reason": "에너지 전환 시대에 필수적인 배터리 제어 기술 시장의 장기적인 성장 전망은 관련 기업의 높은 투자 잠재력을 시사하기 때문입니다.",
-      "key_signal": "그리드 규모 ESS 프로젝트 수주 소식이나 배터리 제어 기술 관련 기업들의 신기술 개발 및 상용화 진행 상황을 주목해야 합니다.",
+      "investment_reason": "강화되는 국제 환경 규제 및 EU 정책 변화는 관련 산업의 사업 기회와 위협 요인으로 작용하여 기업의 경쟁력에 직접적인 영향을 미치기 때문이다.",
+      "key_signal": "선상 탄소포집 기술 개발 동향, 관련 기업들의 투자 및 EU 산업가속화법의 국내 기업 영향 분석을 지속적으로 확인해야 한다.",
       "keywords": [
-        "배터리",
-        "ESS",
-        "에너지 저장",
-        "신재생에너지",
-        "전력망"
+        "ESG",
+        "탄소포집",
+        "EU 산업가속화법",
+        "친환경 기술",
+        "조선 해운"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckRKOU1rUlRhcWExZGd4RG9GOVkzZWoyRDRVMjlpd2ctZVlkaGhEend3bDU5YlROSzFJUW0tZnlJS2dQMTBaODNTT0MzNFFBS2RUbElkUWU4NDlMUU5qeGJUMy1JUWd1elYxX2ZHcWgwZFIxVVNQQ2pVdUtMUmhwWWk4c2M5NmlTSUZQNkE4NkNtUmNaRmZUTXl4bE1XckRUdlpGRktyeHRaSGdueWpQbmNuTzllcVJhcHlDRA?oc=5",
-      "published": "2026-09-26 20:06",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KY0lvSXpWaUFlMVV0VnZ6cXktRUM0bHdCc1BlWUxfOGpUbEFoc0p0YW5mQmM1eGJDREM4TjNicll1Y3lUb3NmRmxvMzRzdnRDdm9OWVllcmxudHhqRVI2UUVRRldfWDhibUE?oc=5",
+      "published": "2026-09-28 08:58",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -234,33 +237,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[출범 이형일호②] 성장률 3.7%의 이면…물가·일자리·집값 '3중 과제' 직면",
-      "display_title": "[출범 이형일호②] 성장률 3.7%의 이면…물가·일자리·집값 '3중 과제' 직면",
-      "original_title": "[닻 올린 이형일號②] 성장률 3.7%의 그늘…물가·일자리·집값 ‘3중 숙제’ - 뉴시안",
+      "title": "다음 카드는 '전월세 안정'…전문가 70% \"추가 대책 필요\"",
+      "display_title": "다음 카드는 '전월세 안정'…전문가 70% \"추가 대책 필요\"",
+      "original_title": "다음 카드는 '전월세 안정'…전문가 70% \"추가 대책 필요\" - 뉴스1",
       "summary": [
-        "핵심사실: 국내 경제가 3.7% 성장률을 기록할 것으로 예상되지만, 높은 물가, 불안정한 일자리, 급등하는 집값이 주요 현안으로 부각되고 있습니다.",
-        "배경·맥락: 거시경제 수치만으로는 파악하기 어려운 민생 경제의 어려움과 정부가 해결해야 할 핵심 과제들을 명확히 보여줍니다.",
-        "투자 시사점: 물가, 일자리, 부동산 정책 방향에 따라 민간 소비 및 투자 심리에 영향을 미칠 수 있으므로 관련 정책 변화를 주시해야 합니다."
+        "전월세 시장 안정을 위한 정부의 추가 대책 필요성에 전문가 70%가 동의했다.",
+        "불안정한 전월세 시장은 서민 경제에 큰 부담을 주고 있어 정부의 적극적인 개입이 요구되고 있다.",
+        "전월세 시장 안정화 정책은 부동산 시장 전반의 거래량과 가격에 영향을 미칠 수 있으므로 발표될 정책의 내용을 확인해야 한다."
       ],
-      "summary_text": "핵심사실: 국내 경제가 3.7% 성장률을 기록할 것으로 예상되지만, 높은 물가, 불안정한 일자리, 급등하는 집값이 주요 현안으로 부각되고 있습니다. 배경·맥락: 거시경제 수치만으로는 파악하기 어려운 민생 경제의 어려움과 정부가 해결해야 할 핵심 과제들을 명확히 보여줍니다. 투자 시사점: 물가, 일자리, 부동산 정책 방향에 따라 민간 소비 및 투자 심리에 영향을 미칠 수 있으므로 관련 정책 변화를 주시해야 합니다.",
-      "description": "이형일 체제 출범 후 성장률 3.7%라는 수치 뒤에 가려진 물가, 일자리, 집값이라는 세 가지 주요 경제 과제에 대한 분석.",
-      "category": "국내 거시경제",
-      "importance": 7,
-      "market_impact": "부정",
-      "related_sector": "유통, 건설, 소비재",
-      "related_stocks": [],
-      "investment_view": "주의",
-      "investment_reason": "국내 거시경제의 핵심 위험 요인인 물가, 일자리, 부동산 문제를 이해하여 장기적인 경제 성장과 투자 환경 변화를 예측하는 데 필요합니다.",
-      "key_signal": "정부의 물가 안정 대책, 고용 창출 정책, 부동산 시장 규제 또는 완화 정책 발표를 면밀히 관찰해야 합니다.",
+      "summary_text": "전월세 시장 안정을 위한 정부의 추가 대책 필요성에 전문가 70%가 동의했다. 불안정한 전월세 시장은 서민 경제에 큰 부담을 주고 있어 정부의 적극적인 개입이 요구되고 있다. 전월세 시장 안정화 정책은 부동산 시장 전반의 거래량과 가격에 영향을 미칠 수 있으므로 발표될 정책의 내용을 확인해야 한다.",
+      "description": "전월세 시장 안정을 위한 정부의 다음 대책이 주목받는 가운데, 전문가 70%가 추가적인 대책이 필요하다고 응답했다.",
+      "category": "부동산·정책",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "부동산, 주택산업, 건설",
+      "related_stocks": [
+        "대한방직",
+        "SG충남방적"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "전월세 시장 안정화 대책은 임대수익형 부동산을 포함한 전반적인 부동산 투자 환경에 변화를 가져올 수 있기 때문이다.",
+      "key_signal": "정부가 발표할 구체적인 전월세 안정화 대책 내용과 시장 반응을 면밀히 분석하여 투자 전략에 반영해야 한다.",
       "keywords": [
-        "국내경제",
-        "성장률",
-        "물가",
-        "일자리",
-        "부동산"
+        "전월세 안정",
+        "부동산 정책",
+        "주택 시장",
+        "정부 대책",
+        "임대차 시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOVVhyN0VKR2hmaDN6SlRfRlZmQlRvZUVIcnpYQlp0dHcyWjU1QlRvY3VkTEdLdzFHMmJFWmhscmxLaWhqa0tubjFTZG1XRXhBeWpic0FXdTFYdkFIYWV2Ql9HUFJ5a05KbXfSAW5BVV95cUxPMEpVVE1LUGJ2WXJLaWpneEJqN0RRY2I5M2lXUHBGZHp5TVBGZnJLNWc1MTdwaTRrMzBlNU1JcUYxNTZ6U3B1QUl2QWE1alF4TlZSVGZTeVNSZnpfZzZNNkVScWFYcWFLNk4yb1hvdw?oc=5",
-      "published": "2026-09-27 06:48",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVjNFRE9Bdkxud0VTQnhBbXV2djBLVkdKV3hnVjROV0N2Y1J1R0puOXBxbnVfOUNRTDhiNWdhLThHQTFMa0tRbkU2VXNTWUVkRUFSQmxvcVZvdWJhUGZiX9IBYEFVX3lxTE1lVjNFRE9Bdkxud0VTQnhBbXV2djBLVkdKV3hnVjROV0N2Y1J1R0puOXBxbnVfOUNRTDhiNWdhLThHQTFMa0tRbkU2VXNTWUVkRUFSQmxvcVZvdWJhUGZiXw?oc=5",
+      "published": "2026-09-28 05:05",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -275,63 +281,63 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "증시 전문가가 4분기 국내 증시 유망 업종으로 반도체를 제시한 점을 고려할 때, 국내 대표 반도체 기업으로서 투자 관심이 필요합니다.",
+      "reason": "유가 및 금리 안정화와 AI 산업 성장이 글로벌 증시 전반에 긍정적인 영향을 미쳐 국내 시장에도 파급 효과가 예상되며, 특히 반도체 부문의 회복이 기대되기 때문입니다.",
       "check_points": [
-        "미국 고용 및 인플레이션 데이터 발표 결과",
-        "글로벌 반도체 수요 및 가격 동향",
-        "환율 변동성"
+        "글로벌 금리 및 유가 동향",
+        "AI 반도체 수요 증가",
+        "반도체 업황 회복 시그널"
       ],
       "related_news_titles": [
-        "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\""
+        "S&P 500 전망: 유가 및 금리 하락, AI 주식 상승으로 SPX 상승 예측"
       ]
     },
     {
       "rank": 2,
-      "name": "KB금융",
+      "name": "신한지주",
       "market": "KOSPI",
       "sector": "은행",
       "opinion": "관심",
-      "reason": "4분기 국내 증시 유망 업종으로 은행이 제시되었으며, 견조한 실적과 배당 매력이 기대되는 국내 대표 은행주로서 관심 있게 지켜볼 필요가 있습니다.",
+      "reason": "높은 국채 금리가 지속되는 환경에서 안정적인 배당 수익을 제공하는 기업에 대한 재평가가 이루어질 수 있으며, 금융주의 실적 개선 기대감도 함께 작용할 수 있기 때문입니다.",
       "check_points": [
-        "국내외 금리 인상 사이클 지속 여부",
-        "국내 경제 성장률 및 가계 대출 건전성",
-        "배당 정책 변화"
+        "배당 정책 및 수익률",
+        "예대마진 등 실적 지표",
+        "기준금리 추가 인상 여부"
       ],
       "related_news_titles": [
-        "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\""
+        "연준 금리 인상 후 10년물 국채 금리 5% 재돌파, 장기 패시브 인컴 투자자에게 S&P 500 배당주가 더 나은 이유 3가지"
       ]
     },
     {
       "rank": 3,
-      "name": "LG에너지솔루션",
+      "name": "현대중공업",
       "market": "KOSPI",
-      "sector": "2차전지",
+      "sector": "조선",
       "opinion": "관심",
-      "reason": "배터리 제어 기술 시장이 2035년까지 그리드 규모 저장 수요를 바탕으로 성장할 것으로 전망되는 바, 관련 핵심 기업으로서 장기적인 관점에서 주목할 만합니다.",
+      "reason": "강화되는 국제 환경 규제 및 EU 정책 변화가 조선 산업에 새로운 사업 기회를 제공할 수 있으며, 친환경 선박 및 탄소포집 기술 개발에 대한 관심이 높아질 것으로 예상되기 때문입니다.",
       "check_points": [
-        "글로벌 전기차 시장 성장세 및 경쟁 심화",
-        "ESS(에너지 저장 시스템) 시장 확대 속도",
-        "핵심 원자재 가격 변동"
+        "친환경 선박 수주 동향",
+        "국제 해운 규제 강화",
+        "EU 산업 정책 변화"
       ],
       "related_news_titles": [
-        "배터리 제어 기술 시장 2035년까지 성장 전망: 그리드 규모 저장 수요가 성장 견인"
+        "【데일리 ESG 정책 브리핑】 선상 탄소포집 안전 지침 · EU 산업가속화법 대응"
       ]
     },
     {
       "rank": 4,
-      "name": "한국금융지주",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "금융",
+      "sector": "증권",
       "opinion": "주의",
-      "reason": "미국 고용 및 인플레이션 데이터와 국채금리 급등은 국내 금융주의 변동성을 확대시킬 수 있으며, 연준의 통화정책 방향에 대한 민감도가 높아 주의 깊게 모니터링해야 합니다.",
+      "reason": "치솟는 금리가 기업의 수익성 악화와 소비 심리 위축으로 이어져 주식 시장에 전반적인 하방 압력으로 작용할 수 있으며, 주가지수 약세 전환 가능성에 대한 시장 전반의 투자 심리 위축에 대비할 필요가 있기 때문입니다.",
       "check_points": [
-        "미국 고용 보고서 및 CPI 발표 결과",
-        "미국 국채금리 추이",
-        "연준의 통화정책 스탠스 변화"
+        "금리 인상 속도 및 수준",
+        "증시 거래량 및 투자심리 동향",
+        "부동산 시장 변화"
       ],
       "related_news_titles": [
-        "이번 주 월스트리트: 고용 보고서, 인플레이션 데이터로 미 금리 경로 및 경제 강도 시험대",
-        "미 국채금리 급등에 S&P 500, 다우, 나스닥 선물 하락 — ORCL, META, AKAM, GOOGL, MGM 주목"
+        "치솟는 금리",
+        "2026년 4분기 주가지수 전망: 균열이 보이기 시작하다"
       ]
     }
   ],
