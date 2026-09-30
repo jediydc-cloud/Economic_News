@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29 10:30",
-  "analysis_date": "2026-09-29",
+  "generated_at": "2026-09-30 10:06",
+  "analysis_date": "2026-09-30",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 국채금리 급등과 고유가 압력이 글로벌 증시 하락을 이끌고 국내 증시에도 영향을 미쳤습니다. 한편, 삼성은 대규모 AI 인프라 투자를 통해 미래 성장 동력 확보에 나섰습니다.",
-    "국내거시경제": "미국 국채금리 급등 여파로 코스피와 코스닥 지수 모두 하락 출발하며 국내 증시의 약세가 이어지고 있습니다.",
-    "글로벌경제": "미국 10년물 국채금리가 19년 만에 최고치를 기록하며 뉴욕 증시가 전반적으로 하락했습니다. 유가 상승 압력 또한 글로벌 증시에 부정적인 영향을 미치고 있습니다.",
-    "증시금리": "미국 10년물 국채금리가 5.24%를 기록하며 뉴욕 증시와 나스닥 100 지수를 끌어내렸습니다. 국내 코스피와 코스닥도 하락 출발하며 고금리 환경의 영향을 받았습니다.",
-    "부동산정책": "관련 특이사항 없습니다.",
-    "기업산업": "삼성 6개 계열사가 미국 AI 인프라 기업 '헬릭스'에 10억 달러를 투자했습니다. 이는 반도체뿐만 아니라 데이터센터, 전력 등 AI 인프라 전반의 역량을 강화하고 계열사 시너지를 창출하기 위한 전략적 행보입니다.",
-    "오늘의투자시사점": "글로벌 고금리 및 고유가 환경의 장기화 가능성에 대비하고, 기술주 등 고벨류 자산의 추가 하락 위험을 염두에 두어야 합니다. 동시에 국내 대기업의 미래 기술 투자 방향에 대한 지속적인 관심이 필요합니다.",
-    "오늘의한줄": "글로벌 고금리·고유가 압력으로 증시가 약세를 보이는 가운데, 삼성의 대규모 AI 인프라 투자가 미래 성장 동력으로 주목받고 있습니다."
+    "총평": "글로벌 고금리 압박이 지속되며 해외 증시는 하락했으나, 국내 증시는 반도체 강세에 힘입어 반등하며 차별화된 흐름을 보였습니다.",
+    "국내거시경제": "미국 금리 인상 부담에도 코스피가 자체적인 반등 동력을 확보하며 국내 증시의 회복력을 시사했습니다.",
+    "글로벌경제": "글로벌 채권 금리가 수십 년래 최고 수준을 유지하며 주식 시장에 지속적인 하방 압력으로 작용하고 있습니다. 유가 하락에도 금리 상승세가 두드러집니다.",
+    "증시금리": "코스피는 반도체주 강세로 6940선을 회복하며 상승 마감했습니다. 반면, 미국 S&P 500 및 다우지수는 높은 금리 압력과 채권 수익률 상승에 따라 하락세를 보였습니다.",
+    "부동산정책": "해당 특이사항 없음.",
+    "기업산업": "국내 반도체 업종은 견조한 실적 기대감으로 강세를 보이며 국내 증시 반등을 주도했습니다.",
+    "오늘의투자시사점": "고금리 환경이 지속될 수 있음을 고려하여 재무 건전성과 현금 흐름이 우수한 기업에 대한 선별적 투자가 중요합니다. 국내 반도체 업종의 독자적인 모멘텀에 대한 관심은 유효합니다.",
+    "오늘의한줄": "글로벌 고금리 압박 속 국내 증시는 반도체 업종 강세로 차별화된 흐름을 보였으나, 시장 변동성에 대비한 선별적 투자가 필요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 10년물 국채금리 5.24% 기록, 19년 만에 최고치 달성—뉴욕 증시 전반적 하락",
-      "display_title": "미국 10년물 국채금리 5.24% 기록, 19년 만에 최고치 달성—뉴욕 증시 전반적 하락",
-      "original_title": "10-Year US Treasury Yield Hits 5.24%, Highest in 19 Years—New York Stocks Fall Across the Board - finance.biggo.com",
+      "title": "S&P 500 및 다우지수, 높은 금리 압력으로 하락세 지속 — SPCX, TGT, AAPL, MU, NTAP 주목",
+      "display_title": "S&P 500 및 다우지수, 높은 금리 압력으로 하락세 지속 — SPCX, TGT, AAPL, MU, NTAP 주목",
+      "original_title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure — SPCX, TGT, AAPL, MU, NTAP In Focus - TradingView",
       "summary": [
-        "미국 10년물 국채금리가 5.24%로 19년 만의 최고치를 기록하며 뉴욕 증시가 일제히 하락했습니다.",
-        "고금리 환경은 기업의 차입 비용을 증가시키고 주식 시장의 매력을 떨어뜨려 투자 심리를 위축시킵니다.",
-        "투자자들은 국채금리 상승이 글로벌 유동성 축소와 경기 둔화 가능성을 높이는 신호로 해석해야 합니다."
+        "미국 주요 지수인 S&P 500과 다우지수가 높은 금리 압력으로 하락세를 보였습니다.",
+        "채권 수익률 상승이 지속되며 주식 시장에 부정적인 영향을 미치고, 특정 대형 기술주 및 소비재 기업들이 영향을 받았습니다.",
+        "금리 인상 사이클의 정점과 기업 실적 발표에 따라 개별 종목의 변동성이 확대될 수 있으므로, 재무 건전성이 우수한 기업에 대한 선별적 투자가 중요합니다."
       ],
-      "summary_text": "미국 10년물 국채금리가 5.24%로 19년 만의 최고치를 기록하며 뉴욕 증시가 일제히 하락했습니다. 고금리 환경은 기업의 차입 비용을 증가시키고 주식 시장의 매력을 떨어뜨려 투자 심리를 위축시킵니다. 투자자들은 국채금리 상승이 글로벌 유동성 축소와 경기 둔화 가능성을 높이는 신호로 해석해야 합니다.",
-      "description": "미국 10년물 국채금리가 19년 만에 최고치인 5.24%를 기록하며 뉴욕 증시가 전반적으로 하락했다.",
+      "summary_text": "미국 주요 지수인 S&P 500과 다우지수가 높은 금리 압력으로 하락세를 보였습니다. 채권 수익률 상승이 지속되며 주식 시장에 부정적인 영향을 미치고, 특정 대형 기술주 및 소비재 기업들이 영향을 받았습니다. 금리 인상 사이클의 정점과 기업 실적 발표에 따라 개별 종목의 변동성이 확대될 수 있으므로, 재무 건전성이 우수한 기업에 대한 선별적 투자가 중요합니다.",
+      "description": "높은 채권 금리 압력으로 S&P 500 지수와 다우지수가 하락세를 이어갔으며, SPCX, TGT, AAPL, MU, NTAP 등 주요 종목들이 주목받았습니다.",
       "category": "증시·금리",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전 섹터",
+      "related_sector": "기술주",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "애플",
+        "마이크론테크놀로지",
+        "넷앱"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 국채금리의 급등은 전 세계 자금 흐름에 직접적인 영향을 미치며, 국내 증시의 외국인 자금 이탈과 기업들의 비용 부담 증가로 이어질 수 있기 때문입니다.",
-      "key_signal": "미국 연준의 향후 금리 정책 방향과 10년물 국채금리의 추가 상승 또는 안정화 여부를 면밀히 모니터링해야 합니다.",
+      "investment_reason": "주요 지수의 하락세는 전반적인 투자 심리 위축을 시사하며, 개별 종목의 실적과 금리 민감도를 면밀히 분석해야 합니다.",
+      "key_signal": "FOMC 금리 인상 기조와 기업들의 실적 가이던스 변화를 통해 금리 압력 완화 여부를 판단해야 합니다.",
       "keywords": [
-        "미국국채금리",
-        "뉴욕증시",
-        "금리인상",
-        "경기둔화",
-        "유동성축소"
+        "S&P500",
+        "다우지수",
+        "금리압력",
+        "기술주",
+        "시장하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vVFIwWm1qdnFSS25CRzI4TDFOeXBSa3VBcEZTUW9odUlQbVZLbmc5TFhnV0dyR0U4YThYV291cWdyZjhncmxwbmE3aGlhM2RLNDlsQjd3S0pTaHR0R2U2ODZoa09HY2FMazROWGtPSVNRWlQ0WkE?oc=5",
-      "published": "2026-09-29 06:25",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYmRmbHYzUmlPZkFfRTd5X0N5SjBYMDllQzNhc1NTOFdyRm1jVk8zR09yd2IycUpzOUVyQ1RjU1dWX0hoSFB5Y0xLajZHNEc1VjJBSE83QTdLcEtpeVU5dlZvdGpBTTJZM3QwWGo4ZW9IbzY1NGtOVzJNTE5pVDVoem95QmdZa0Z2R0xrTnRNeHU5ZEV0SU90WE9ybmktSlVTVVJCMnEyRHp1ZFkyZ281U3dvLWUxVS03UFNLVUNMLUFWMjVUcDhBdUJLY3hUazFpLV85UTdUVXIwaDRVck9n?oc=5",
+      "published": "2026-09-30 07:30",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,42 +67,41 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "유가 및 국채금리 상승 압력으로 주식 시장 하락",
-      "display_title": "유가 및 국채금리 상승 압력으로 주식 시장 하락",
-      "original_title": "Stocks fall as higher oil prices, Treasury yields weigh - Reuters",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피, 반도체주 강세에 사흘 만에 반등하며 6900선 회복",
+      "display_title": "코스피, 반도체주 강세에 사흘 만에 반등하며 6900선 회복",
+      "original_title": "코스피, 반도체주 강세에 사흘 만에 반등...6900선 회복 - M이코노미뉴스",
       "summary": [
-        "국제 유가 상승과 국채금리 상승이 지속적인 압력으로 작용하며 전반적인 주식 시장이 하락했습니다.",
-        "고유가는 기업 비용 부담을 증가시키고 소비를 위축시키며, 고금리는 투자 매력을 떨어뜨립니다.",
-        "투자자들은 이 두 가지 매크로 변수가 증시 하방 압력으로 작용할 수 있음에 유의해야 합니다."
+        "코스피 지수가 반도체주의 강세에 힘입어 사흘 만에 반등하며 6900선을 회복했습니다.",
+        "미국발 금리 인상 압력에도 불구하고 국내 반도체 업종의 견조한 실적 기대감이 투자 심리를 지지했습니다.",
+        "글로벌 금리 불확실성 속에서도 반도체 업종의 독자적인 모멘텀이 확인된 만큼, 관련 기업에 대한 관심이 유효합니다."
       ],
-      "summary_text": "국제 유가 상승과 국채금리 상승이 지속적인 압력으로 작용하며 전반적인 주식 시장이 하락했습니다. 고유가는 기업 비용 부담을 증가시키고 소비를 위축시키며, 고금리는 투자 매력을 떨어뜨립니다. 투자자들은 이 두 가지 매크로 변수가 증시 하방 압력으로 작용할 수 있음에 유의해야 합니다.",
-      "description": "유가와 국채금리의 상승 압력이 지속되면서 주식 시장이 전반적으로 하락세를 보였다.",
+      "summary_text": "코스피 지수가 반도체주의 강세에 힘입어 사흘 만에 반등하며 6900선을 회복했습니다. 미국발 금리 인상 압력에도 불구하고 국내 반도체 업종의 견조한 실적 기대감이 투자 심리를 지지했습니다. 글로벌 금리 불확실성 속에서도 반도체 업종의 독자적인 모멘텀이 확인된 만큼, 관련 기업에 대한 관심이 유효합니다.",
+      "description": "코스피 지수가 반도체주의 강한 상승세에 힘입어 사흘 만에 반등하여 6900선을 회복했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전 섹터",
+      "market_impact": "긍정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "유가와 국채금리의 동반 상승은 글로벌 경제의 인플레이션 압력을 높이고 긴축 기조를 장기화시켜 국내외 증시에 부정적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "주요 산유국들의 정책과 중앙은행의 통화 정책 스탠스를 지속적으로 확인하여 유가 및 금리 변동성을 예측해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "글로벌 고금리 환경에서도 국내 반도체 업종이 강세를 보이며 시장 반등을 주도했으므로, 실적 개선 기대감과 함께 투자 매력이 높습니다.",
+      "key_signal": "반도체 업황 개선 시그널과 주요 반도체 기업들의 실적 발표를 통해 상승 동력 지속 여부를 확인해야 합니다.",
       "keywords": [
-        "주식하락",
-        "유가상승",
-        "국채금리",
-        "인플레이션",
-        "긴축"
+        "코스피",
+        "반도체주",
+        "반등",
+        "6900선",
+        "강세"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
-      "published": "2026-09-29 05:38",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TSzdHU0RLUms4cWFzZy1EUjRCTnY2TExVTEFkazZVSlhMNU1QekoybUl3UDNuSGdGZ1hRZDBPTG84WEo4RWJ6ZG4xWm93Zkx0WDRNMEw3Y0pvR01FaTR2QVBBMHdkbGs?oc=5",
+      "published": "2026-09-30 10:02",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +111,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "삼성 6개 계열사, KKR이 설립한 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자...계열사 시너지 극대화",
-      "display_title": "삼성 6개 계열사, KKR이 설립한 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자...계열사 시너지 극대화",
-      "original_title": "삼성 6개사, KKR 설립 美 AI 인프라 기업 ‘헬릭스’에 10억달러 투자...계열사 시너지 극대화 - 생생비즈플러스",
+      "title": "코스피, 미국 금리 부담에도 1%대 상승하며 6940선 도달",
+      "display_title": "코스피, 미국 금리 부담에도 1%대 상승하며 6940선 도달",
+      "original_title": "코스피, 美 금리 부담에도 1%대 상승...6940선 - greened.kr",
       "summary": [
-        "삼성 6개 계열사가 사모펀드 KKR이 설립한 미국 AI 인프라 기업 '헬릭스'에 총 10억 달러를 투자했습니다.",
-        "이번 투자는 반도체, 데이터센터, 전력 등 AI 인프라 전반의 역량을 강화하고 계열사 간 시너지를 창출하기 위한 전략적 행보입니다.",
-        "투자자들은 삼성의 AI 인프라 확장 전략이 장기적인 성장 동력 확보와 미래 기술 경쟁력 강화에 기여할지 주목해야 합니다."
+        "코스피 지수가 미국 금리 인상에 대한 부담에도 불구하고 1%대 상승세를 보이며 6940선을 기록했습니다.",
+        "이는 해외 시장의 금리 압박 속에서도 국내 증시가 자체적인 반등 동력을 확보했음을 시사합니다.",
+        "글로벌 금리 인상 기조가 완화될 경우 국내 증시의 추가 상승 여력이 커질 수 있으므로, 매크로 지표 변화에 집중해야 합니다."
       ],
-      "summary_text": "삼성 6개 계열사가 사모펀드 KKR이 설립한 미국 AI 인프라 기업 '헬릭스'에 총 10억 달러를 투자했습니다. 이번 투자는 반도체, 데이터센터, 전력 등 AI 인프라 전반의 역량을 강화하고 계열사 간 시너지를 창출하기 위한 전략적 행보입니다. 투자자들은 삼성의 AI 인프라 확장 전략이 장기적인 성장 동력 확보와 미래 기술 경쟁력 강화에 기여할지 주목해야 합니다.",
-      "description": "삼성 6개 계열사가 KKR이 설립한 미국 AI 인프라 기업 '헬릭스'에 10억 달러를 투자하여 계열사 간 시너지를 극대화할 예정이다.",
-      "category": "기업·산업",
+      "summary_text": "코스피 지수가 미국 금리 인상에 대한 부담에도 불구하고 1%대 상승세를 보이며 6940선을 기록했습니다. 이는 해외 시장의 금리 압박 속에서도 국내 증시가 자체적인 반등 동력을 확보했음을 시사합니다. 글로벌 금리 인상 기조가 완화될 경우 국내 증시의 추가 상승 여력이 커질 수 있으므로, 매크로 지표 변화에 집중해야 합니다.",
+      "description": "코스피 지수가 미국의 금리 인상 부담에도 불구하고 1%대 상승률을 기록하며 6940선에 도달했습니다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "인공지능(AI), 데이터센터, 반도체",
+      "related_sector": "전반적인 시장",
       "related_stocks": [
-        "삼성전자",
-        "삼성SDS",
-        "삼성물산"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "삼성 그룹의 대규모 AI 인프라 투자는 미래 핵심 산업인 AI 분야에서 그룹의 입지를 강화하고, 관련 계열사들의 장기적인 성장 잠재력을 높일 수 있기 때문입니다.",
-      "key_signal": "헬릭스 투자 이후 삼성 계열사들의 AI 관련 사업 확장 및 시너지 구체화 방안과 실질적인 성과를 지속적으로 확인해야 합니다.",
+      "investment_reason": "미국 금리 인상이라는 악재에도 불구하고 국내 코스피가 반등했다는 점은 시장의 회복 탄력성을 보여주며 긍정적인 투자 기회를 제공할 수 있습니다.",
+      "key_signal": "미국 금리 동향과 국내 증시의 decoupling(탈동조화) 현상이 지속될지 여부를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "삼성",
-        "AI인프라",
-        "헬릭스",
-        "KKR",
-        "전략투자"
+        "코스피",
+        "미국금리",
+        "상승세",
+        "6940선",
+        "금리부담"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZMUxQbDh4aUVoRHdzeGpmLXhqaWVtTHIxY0poRmxlUV95dFdMbWZKSkpMWlpwVktwVzZRM3ROekdrcHFUeU5yMWNZY3pvNEtjMmVlOHNpanNicjJKM1Z0cFFYeDBUM3hYUmxYMw?oc=5",
-      "published": "2026-09-29 08:51",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHVVV1bGZaTl9rNnNOQ2Y2RVZqc1AyalpEY1VhT0h2SVFoUUFnRFo3YS03MlJHY0ZnYkJGMkpKVnZqbFMwOUJGeWNDQmQ2eU9SUTdMOVVFYnNaS1pRdG54cmJEUi1sa1Fn?oc=5",
+      "published": "2026-09-30 09:38",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -151,84 +150,84 @@
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[글로벌 AI 인프라 투자] 삼성 6개 계열사, 美 AI 인프라 기업에 10억 달러 투자…반도체 넘어 데이터센터·전력까지",
-      "display_title": "[글로벌 AI 인프라 투자] 삼성 6개 계열사, 美 AI 인프라 기업에 10억 달러 투자…반도체 넘어 데이터센터·전력까지",
-      "original_title": "[글로벌 AI 인프라 투자] 삼성 6개사, 美 AI 인프라 기업에 10억 달러 투자…반도체 넘어 데이터센터·전력까지 - 코리아포스트 한글판",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "채권 금리가 수십 년래 최고치 부근에 머물면서 주식 시장 소폭 하락",
+      "display_title": "채권 금리가 수십 년래 최고치 부근에 머물면서 주식 시장 소폭 하락",
+      "original_title": "Equities end slightly lower as bond yields hold near multi-decade highs - Reuters",
       "summary": [
-        "삼성 6개 계열사가 미국 AI 인프라 기업에 10억 달러를 투자하며 AI 산업 전반으로 영향력을 확대하고 있습니다.",
-        "이번 투자는 기존 반도체 중심의 AI 사업을 넘어 데이터센터, 전력 등 종합적인 AI 인프라 구축으로 나아가려는 전략을 보여줍니다.",
-        "투자자들은 삼성의 이러한 광범위한 AI 인프라 투자가 그룹의 장기 성장 동력과 신규 비즈니스 창출에 어떤 영향을 미칠지 주목해야 합니다."
+        "글로벌 주식 시장이 채권 금리 상승 압력으로 소폭 하락 마감했습니다.",
+        "장기 채권 금리가 수십 년 만의 최고 수준을 유지하며 주식 시장의 하방 압력으로 작용했습니다.",
+        "고금리 환경이 지속될 수 있음을 시사하므로, 성장주 및 부채 비율이 높은 기업 투자에 주의가 필요합니다."
       ],
-      "summary_text": "삼성 6개 계열사가 미국 AI 인프라 기업에 10억 달러를 투자하며 AI 산업 전반으로 영향력을 확대하고 있습니다. 이번 투자는 기존 반도체 중심의 AI 사업을 넘어 데이터센터, 전력 등 종합적인 AI 인프라 구축으로 나아가려는 전략을 보여줍니다. 투자자들은 삼성의 이러한 광범위한 AI 인프라 투자가 그룹의 장기 성장 동력과 신규 비즈니스 창출에 어떤 영향을 미칠지 주목해야 합니다.",
-      "description": "삼성 6개 계열사가 미국 AI 인프라 기업에 10억 달러를 투자하며, 반도체뿐만 아니라 데이터센터 및 전력 분야까지 AI 인프라 투자를 확대하고 있다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "인공지능(AI), 데이터센터, 전력설비",
-      "related_stocks": [
-        "삼성전자",
-        "삼성SDS",
-        "삼성물산"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "삼성 그룹의 AI 인프라 투자 확대는 미래 성장 동력 확보를 위한 중요한 전략이며, 관련 계열사들의 사업 기회 확장과 밸류에이션 재평가 가능성을 높이기 때문입니다.",
-      "key_signal": "삼성의 AI 인프라 투자 로드맵과 각 계열사의 구체적인 역할 및 성과를 통해 장기적인 AI 시장 선점 가능성을 평가해야 합니다.",
-      "keywords": [
-        "삼성",
-        "AI인프라",
-        "글로벌투자",
-        "데이터센터",
-        "전력"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XZUxyTEVGd0lTZ2p5eG5vVG5SREd4eGxfV1lSVEhkZDkwZS0xbm1pR1d3UTl1MGtIdzJNSHNCZHRMWTZZbUEzMkR4d0tzQU9Ba1RQLXdsNERsODZtQXVZc1FUd21rbFZhU2dxZUFB?oc=5",
-      "published": "2026-09-29 08:34",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피·코스닥 하락 출발…미국 국채금리 급등 여파 지속",
-      "display_title": "코스피·코스닥 하락 출발…미국 국채금리 급등 여파 지속",
-      "original_title": "코스피·코스닥 하락 출발…美국채금리 급등 여파 지속 - 노컷뉴스",
-      "summary": [
-        "코스피와 코스닥 지수 모두 하락 출발하며 국내 증시의 약세가 이어지고 있습니다.",
-        "주요 원인은 미국 국채금리의 급등세가 지속되면서 글로벌 투자 심리가 위축된 것에 있습니다.",
-        "투자자들은 고금리 환경의 장기화 가능성과 국내외 증시에 미칠 추가적인 파장을 대비해야 합니다."
-      ],
-      "summary_text": "코스피와 코스닥 지수 모두 하락 출발하며 국내 증시의 약세가 이어지고 있습니다. 주요 원인은 미국 국채금리의 급등세가 지속되면서 글로벌 투자 심리가 위축된 것에 있습니다. 투자자들은 고금리 환경의 장기화 가능성과 국내외 증시에 미칠 추가적인 파장을 대비해야 합니다.",
-      "description": "코스피와 코스닥 지수가 하락 출발했으며, 이는 미국 국채금리 급등의 여파가 지속되고 있기 때문이다.",
+      "summary_text": "글로벌 주식 시장이 채권 금리 상승 압력으로 소폭 하락 마감했습니다. 장기 채권 금리가 수십 년 만의 최고 수준을 유지하며 주식 시장의 하방 압력으로 작용했습니다. 고금리 환경이 지속될 수 있음을 시사하므로, 성장주 및 부채 비율이 높은 기업 투자에 주의가 필요합니다.",
+      "description": "채권 금리가 수십 년 만에 최고치에 근접하며 유지되자 주식 시장이 소폭 하락 마감했습니다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "전 섹터",
+      "related_sector": "성장주",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 국채금리 급등은 국내 증시의 외국인 자금 유출을 가속화하고 기업들의 자금 조달 비용을 높여 전반적인 증시 하락 압력을 가중시킬 수 있기 때문입니다.",
-      "key_signal": "미국 10년물 국채금리의 변동성과 이에 따른 외국인 수급 변화를 면밀히 관찰하며 보수적인 투자 전략을 유지해야 합니다.",
+      "investment_reason": "고금리 환경이 주식 시장 전반에 부담을 줄 수 있어 투자 전략 재검토가 필요합니다.",
+      "key_signal": "미국 국채 금리 동향과 이에 따른 기술주 변동성을 지속적으로 주시해야 합니다.",
       "keywords": [
-        "코스피",
-        "코스닥",
-        "증시하락",
-        "미국국채금리",
-        "금리인상"
+        "미국채금리",
+        "주식시장",
+        "고금리",
+        "하락압력",
+        "채권시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fc3l0OEJOc28xa2FQc3NIQ1Zfc21hXy1zOVg2OHRQckZOTjRkcG5GTWVRazZPLV9aeU9uU1VUZEpqeDBDN1FCNUdSUzBmRE83c1E?oc=5",
-      "published": "2026-09-29 09:24",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
+      "published": "2026-09-30 07:55",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 5,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 주식 시장: 유가 하락에도 불구하고 국채 금리 상승하며 다우지수 하락",
+      "display_title": "오늘 주식 시장: 유가 하락에도 불구하고 국채 금리 상승하며 다우지수 하락",
+      "original_title": "Stock Market Today: Treasury Yields Rise Despite Falling Oil Prices as Dow Slips - Eurasia Business News",
+      "summary": [
+        "미국 국채 금리가 상승세를 지속하면서 다우지수가 하락했습니다.",
+        "이는 유가 하락에도 불구하고 나타난 현상으로, 인플레이션 둔화 기대에도 불구하고 채권 시장은 여전히 높은 금리를 유지하려는 경향을 보였습니다.",
+        "유가 하락에도 불구하고 금리 상승이 주식 시장에 더 큰 영향을 미치고 있으므로, 거시경제 지표 간의 복합적인 관계를 이해하고 투자에 반영해야 합니다."
+      ],
+      "summary_text": "미국 국채 금리가 상승세를 지속하면서 다우지수가 하락했습니다. 이는 유가 하락에도 불구하고 나타난 현상으로, 인플레이션 둔화 기대에도 불구하고 채권 시장은 여전히 높은 금리를 유지하려는 경향을 보였습니다. 유가 하락에도 불구하고 금리 상승이 주식 시장에 더 큰 영향을 미치고 있으므로, 거시경제 지표 간의 복합적인 관계를 이해하고 투자에 반영해야 합니다.",
+      "description": "오늘 주식 시장에서 유가가 하락했음에도 불구하고 국채 금리가 상승하여 다우지수가 하락 마감했습니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "에너지",
+      "related_stocks": [
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "유가 하락이 주식 시장에 긍정적인 요인이 될 수 있었으나, 금리 상승 압력이 이를 상쇄하며 주식 시장의 하방 압력이 커지고 있기 때문입니다.",
+      "key_signal": "유가, 국채 금리, 주식 시장의 상호작용을 면밀히 분석하여 투자 방향을 설정해야 합니다.",
+      "keywords": [
+        "국채금리",
+        "유가",
+        "다우지수",
+        "주식시장",
+        "인플레이션"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSndYUUo5cTI1dkZ0QlYyanE0RlZRNkQxZ3lpdHlnWWZOamtWYUM4RlRPYkdPVEoyX3c3YmItU1BYelZUSTBLMGtSd0dSMGFRRmxRZ3ZjdkNjYjA1Ui1yejdacWFxSzR5N0JWR2kydXJES0h0U1FoRm9acGQ5bVpzSHpPSVZSXzlBdllEUFlJZ1I4OXp0ME00Ymc1aTdUa0hiNHl0ZDQzYnFQM3NPaWtzcjRlUkt2UmFDVVN1TWczckg?oc=5",
+      "published": "2026-09-30 06:43",
+      "quality": {
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -238,37 +237,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥 100 전망: 유가 및 국채금리 상승으로 NDX 하락",
-      "display_title": "나스닥 100 전망: 유가 및 국채금리 상승으로 NDX 하락",
-      "original_title": "Nasdaq 100 Forecast: NDX falls as oil jumps and Treasury yields rise - FOREX.com",
+      "title": "금리 압박으로 주식 시장 하락세 지속: 오늘 주식 시장",
+      "display_title": "금리 압박으로 주식 시장 하락세 지속: 오늘 주식 시장",
+      "original_title": "Stocks Grind Lower Under Interest Rate Pressure: Stock Market Today - Yahoo Finance",
       "summary": [
-        "미국 기술주 중심의 나스닥 100 지수가 유가 상승과 국채금리 인상 압력으로 하락세를 보였습니다.",
-        "국채금리 상승은 기업의 자금 조달 비용을 높이고 고벨류에이션 기술주에 부정적인 영향을 미칩니다.",
-        "투자자들은 매크로 환경 변화에 따른 기술주의 추가 하락 가능성을 염두에 두어야 합니다."
+        "주식 시장이 고금리 압력 아래에서 지속적인 하락세를 나타냈습니다.",
+        "중앙은행의 매파적 스탠스와 높은 인플레이션이 금리 상승을 부추기며 시장 전반에 부담을 주고 있습니다.",
+        "금리 인상 사이클의 끝이 불확실한 상황에서, 현금 흐름이 견조하고 부채가 적은 기업에 대한 관심이 필요합니다."
       ],
-      "summary_text": "미국 기술주 중심의 나스닥 100 지수가 유가 상승과 국채금리 인상 압력으로 하락세를 보였습니다. 국채금리 상승은 기업의 자금 조달 비용을 높이고 고벨류에이션 기술주에 부정적인 영향을 미칩니다. 투자자들은 매크로 환경 변화에 따른 기술주의 추가 하락 가능성을 염두에 두어야 합니다.",
-      "description": "유가 상승과 국채금리 인상으로 인해 나스닥 100 지수가 하락했다.",
+      "summary_text": "주식 시장이 고금리 압력 아래에서 지속적인 하락세를 나타냈습니다. 중앙은행의 매파적 스탠스와 높은 인플레이션이 금리 상승을 부추기며 시장 전반에 부담을 주고 있습니다. 금리 인상 사이클의 끝이 불확실한 상황에서, 현금 흐름이 견조하고 부채가 적은 기업에 대한 관심이 필요합니다.",
+      "description": "오늘 주식 시장은 지속적인 금리 인상 압박으로 인해 하락세를 보였습니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "기술주",
+      "related_sector": "전반적인 시장",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 국채금리와 유가 상승은 글로벌 유동성 위축 및 기술주 투자 심리 악화로 이어져 국내 증시에도 부정적 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "미국 10년물 국채금리와 국제 유가의 추가 상승 여부를 주시하며 기술주 포트폴리오의 리스크 관리가 필요합니다.",
+      "investment_reason": "지속적인 금리 압박은 전반적인 시장 밸류에이션에 부정적인 영향을 미쳐 투자 수익률에 제약을 줄 수 있습니다.",
+      "key_signal": "연준의 금리 정책 방향과 향후 인플레이션 지표 발표에 주목하여 시장의 방향성을 예측해야 합니다.",
       "keywords": [
-        "나스닥100",
-        "국채금리",
-        "유가",
-        "기술주",
-        "증시하락"
+        "금리압박",
+        "주식시장",
+        "시장하락",
+        "인플레이션",
+        "연준정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa216SEQwT0ppQkpueW1uR1pyMlV4NWtLU3JLdVJkeTYzeV9qSFI0bnAwZjBKeHRKdjZmSFhuaU81UTg3OEZCZkNTY196SlNjd3NhQU1VNDFNU3d5Y3Btem1mM01kckd5TEp1QzFqRWtwVWhTSE1VcjBISmVVTG91SFhlX3MtSTFpX21xQXd0V01SUUJCTzlBYVBYZThwNl9qMndfUERKa1hjUjNwRGtUb1dtc1E?oc=5",
-      "published": "2026-09-28 22:50",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb19pZW1hcU1hQ2FVX3NEaDU2c09IaHc3NEluaWhMR1VidHdqa0QwNWx6ekFpdUc5LS13dVhVeTc1Nk9BdUd1clBvb1dWZUVCX1g1cm9mUmV0YjlFOWFsSEFBSHp5MkNPNGoxOFZocVRpYkJWb3Z3Ty1CeENSc1h1ci1CanJuYmRDaXJPZXpXSEF2YkpjZ3AwcVRvV19WSXc?oc=5",
+      "published": "2026-09-30 05:09",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -283,66 +282,62 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성 그룹이 미국 AI 인프라 기업 '헬릭스'에 10억 달러를 투자하며 미래 핵심 산업인 AI 분야에서 그룹의 입지를 강화하고 있습니다. 이는 AI 반도체 수요 증가와 함께 핵심 계열사인 삼성전자의 장기적인 성장 잠재력을 높일 수 있기 때문에 관심 있게 지켜볼 필요가 있습니다.",
+      "reason": "코스피 반등을 주도한 국내 반도체 업종의 강세가 긍정적이며, 실적 개선 기대감이 높아 투자 매력이 부각됩니다.",
       "check_points": [
-        "AI 반도체 수요 및 공급망 변화 추이",
-        "헬릭스와의 기술 협력 및 시너지 효과",
-        "그룹 전체 AI 전략 실행 속도"
+        "글로벌 반도체 수요 회복 시점",
+        "미국 금리 정책 변화",
+        "외국인 투자자 수급 동향"
       ],
       "related_news_titles": [
-        "삼성 6개 계열사, KKR이 설립한 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자...계열사 시너지 극대화",
-        "[글로벌 AI 인프라 투자] 삼성 6개 계열사, 美 AI 인프라 기업에 10억 달러 투자…반도체 넘어 데이터센터·전력까지"
+        "코스피, 반도체주 강세에 사흘 만에 반등하며 6900선 회복"
       ]
     },
     {
       "rank": 2,
-      "name": "삼성SDS",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "IT서비스",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성 그룹의 대규모 AI 인프라 투자는 데이터센터 및 AI 솔루션 분야에서 강점을 가진 삼성SDS의 사업 기회를 확장할 것으로 기대됩니다. 그룹 내외부의 AI 인프라 및 서비스 수요 증가에 따른 직접적인 수혜가 예상되어 관심을 가져볼 만합니다.",
+      "reason": "반도체 업황 개선 기대감과 함께 코스피 시장 반등을 이끈 주도주로서, 견조한 실적을 바탕으로 한 상승 여력이 주목됩니다.",
       "check_points": [
-        "데이터센터 및 클라우드 사업 성장률",
-        "그룹 내 AI 솔루션 도입 확대 여부",
-        "AI 인프라 관련 신규 사업 추진 동향"
+        "D램 및 낸드 가격 추이",
+        "주요 고객사 재고 수준",
+        "경쟁사 신기술 동향"
       ],
       "related_news_titles": [
-        "삼성 6개 계열사, KKR이 설립한 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자...계열사 시너지 극대화",
-        "[글로벌 AI 인프라 투자] 삼성 6개 계열사, 美 AI 인프라 기업에 10억 달러 투자…반도체 넘어 데이터센터·전력까지"
+        "코스피, 반도체주 강세에 사흘 만에 반등하며 6900선 회복"
       ]
     },
     {
       "rank": 3,
-      "name": "삼성물산",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "건설/지주",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "삼성 그룹의 AI 인프라 투자에 삼성물산이 참여하며 그룹 전체의 AI 전략 시너지를 도모할 것으로 예상됩니다. 특히 AI 인프라 구축에 필요한 전력 설비 등 관련 사업 기회 확대로 장기적인 성장 동력을 확보할 가능성이 있어 주목할 필요가 있습니다.",
+      "reason": "미국 금리 부담에도 코스피가 반등하며 시장의 회복 탄력성을 보여준 점은 증권업종에 대한 긍정적인 투자 심리를 형성할 수 있습니다.",
       "check_points": [
-        "그룹 내 AI 인프라 프로젝트 참여 확대 여부",
-        "신재생에너지 및 전력 인프라 사업 성장성",
-        "지주회사로서 그룹 투자 전략에 미치는 영향"
+        "국내 증시 거래대금 추이",
+        "금리 인하 기대감 반영 여부",
+        "리테일 및 IB 부문 실적"
       ],
       "related_news_titles": [
-        "삼성 6개 계열사, KKR이 설립한 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자...계열사 시너지 극대화",
-        "[글로벌 AI 인프라 투자] 삼성 6개 계열사, 美 AI 인프라 기업에 10억 달러 투자…반도체 넘어 데이터센터·전력까지"
+        "코스피, 미국 금리 부담에도 1%대 상승하며 6940선 도달"
       ]
     },
     {
       "rank": 4,
-      "name": "한국전력",
+      "name": "한국금융지주",
       "market": "KOSPI",
-      "sector": "전력 유틸리티",
-      "opinion": "주의",
-      "reason": "미국 국채금리 및 유가 상승 압력이 지속될 경우, 국제 에너지 가격 상승으로 전력 생산 원가 부담이 가중될 수 있습니다. 이는 한국전력의 재무 건전성 및 실적에 부정적인 영향을 미칠 수 있으므로 주의 깊게 동향을 지켜봐야 합니다.",
+      "sector": "지주",
+      "opinion": "관심",
+      "reason": "코스피 시장의 상승세가 지속될 경우, 전반적인 시장 거래 활동 증가와 함께 금융투자업종의 실적 개선 기대감이 높아질 수 있습니다.",
       "check_points": [
-        "국제 유가 및 천연가스 가격 변동 추이",
-        "정부의 전기요금 인상 정책 방향",
-        "환율 변동이 연료비에 미치는 영향"
+        "시장 변동성 변화",
+        "기준금리 정책 방향",
+        "자회사 실적 기여도"
       ],
       "related_news_titles": [
-        "유가 및 국채금리 상승 압력으로 주식 시장 하락",
-        "나스닥 100 전망: 유가 및 국채금리 상승으로 NDX 하락"
+        "코스피, 미국 금리 부담에도 1%대 상승하며 6940선 도달"
       ]
     }
   ],
