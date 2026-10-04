@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03 09:57",
-  "analysis_date": "2026-10-03",
+  "generated_at": "2026-10-04 09:23",
+  "analysis_date": "2026-10-04",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 고용 지표 둔화로 연준의 금리 인상 기대가 약화되며 기술주 중심의 미국 증시가 강세를 보였다. 국내 부동산 시장은 규제에도 상승세를 이어갔으며, 글로벌 제조업 경쟁력 이슈도 부각되었다.",
-    "국내거시경제": "정부의 부동산 규제 강화에도 불구하고 국내 집값이 86주 연속 상승하며 시장의 공급 부족 및 유동성, 저금리 기조가 복합적으로 작용한 것으로 분석된다.",
-    "글로벌경제": "미국의 미약한 고용 보고서 발표로 연준의 금리 인상 가능성이 낮아지면서 통화 긴축 완화에 대한 기대감이 커졌다. 이는 주요 증시의 강세로 이어졌다.",
-    "증시금리": "미약한 고용 지표에 따른 국채 수익률 하락과 연준의 비둘기파적 통화 정책 기대감이 커지며 나스닥은 사상 최고치를 경신했고 다우지수도 급등하는 등 미국 증시 전반이 강세를 보였다.",
-    "부동산정책": "강력한 부동산 규제에도 불구하고 국내 집값 상승세가 지속되며 정책의 한계와 함께 자금의 다른 투자처 이동 가능성을 시사한다. 관련 정책 변화에 대한 면밀한 관찰이 필요하다.",
-    "기업산업": "일론 머스크가 중국의 우수한 인프라와 제조업 경쟁력을 강조하며 미국 제조업의 취약성을 경고했다. 이는 글로벌 공급망 재편과 각국 산업 경쟁력에 대한 인식을 심화시켰다.",
-    "오늘의투자시사점": "연준의 통화 긴축 완화 기대감은 국내 성장주 및 기술 관련 기업 투자에 긍정적 시그널이다. 한편, 국내 부동산 시장의 불안정성은 자금의 증시 유입 가능성을 높이며, 중국의 제조업 인프라 우위는 국내 기업의 글로벌 전략 수립 시 고려할 중요한 요소다.",
-    "오늘의한줄": "미약한 미국 고용 지표가 연준의 금리 인상 기대를 낮추며 글로벌 증시에 긍정적 바람을 불어넣었다."
+    "총평": "해외 시장은 고금리 기조 유지와 유가 변동에 따라 혼조세를 보였으나, 국내 경제는 OECD 성장률 상향과 정부의 자신감 표명으로 긍정적인 신호가 감지됩니다.",
+    "국내거시경제": "OECD가 한국 성장률 전망치를 3.7%로 상향 조정하며 경기 회복 기대감을 높였습니다. 정부는 반도체 산업 주도와 내수 뒷받침을 통한 경제 회복을 강조했습니다.",
+    "글로벌경제": "미국 10년물 국채 수익률이 5.3%를 돌파하며 고금리 환경 장기화 우려가 커졌습니다. 이는 글로벌 자금 흐름과 투자 심리에 부정적 영향을 미칠 수 있습니다.",
+    "증시금리": "미국 국채 수익률 급등은 위험 신호로 인식되며 주식 시장의 매력을 감소시켰습니다. 다만 유가 하락은 증시 상승 요인으로 작용했으나, AI 관련주는 강세를 이어갔습니다. 미중 정상회담 불확실성도 증시 변동성을 키웠습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "해외 시장에서는 인공지능(AI) 관련 주식이 강세를 나타냈습니다. 국내에서는 정부가 반도체 산업을 경제 회복의 핵심 동력으로 지목하며 관련 산업에 대한 기대감을 높였습니다.",
+    "오늘의투자시사점": "미국 국채 수익률 급등에 따른 해외 투자 리스크를 점검하고 포트폴리오 조정을 고려해야 합니다. 국내외 AI, 반도체 산업의 성장 가능성과 내수 활성화 정책 수혜 업종에 주목할 필요가 있습니다.",
+    "오늘의한줄": "미 국채 수익률 발 위험 관리 속 국내 경제 회복 모멘텀 활용이 필요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 증시: 미약한 고용 보고서에 연준 금리 인상 기대 약화되며 나스닥과 다우 상승",
-      "display_title": "오늘 증시: 미약한 고용 보고서에 연준 금리 인상 기대 약화되며 나스닥과 다우 상승",
-      "original_title": "Stock Market Today: Weak Jobs Report Lifts Stocks as Fed Rate-Hike Bets Fade, Nasdaq and Dow Rally - Eurasia Business News",
+      "title": "'이 신호는 위험을 의미한다': 10년물 국채 수익률 5.3% 돌파에 미국 주식 투자 한국인들 불안감 고조",
+      "display_title": "'이 신호는 위험을 의미한다': 10년물 국채 수익률 5.3% 돌파에 미국 주식 투자 한국인들 불안감 고조",
+      "original_title": "‘This Signal Means Danger’: The Scenario That Has Korean Investors in U.S. Stocks on Edge as 10-Year Treasury Yield Tops 5.3% - bloomingbit",
       "summary": [
-        "미국의 미약한 고용 보고서 발표로 연준의 추가 금리 인상 가능성이 낮아졌다.",
-        "고용 지표 둔화는 경제 둔화 신호일 수 있지만, 통화 긴축 완화 기대로 이어져 주식 시장에는 긍정적으로 작용했다.",
-        "금리 인하 기대감은 기술주 중심의 성장이 예상되는 나스닥에 특히 긍정적인 영향을 미칠 수 있다."
+        "미국 10년물 국채 수익률이 5.3%를 넘어서면서 위험 신호로 간주되며, 미국 주식에 투자한 한국인들이 긴장하고 있다.",
+        "국채 수익률 급등은 주식 시장의 매력을 감소시키고 자금 이탈을 유도할 수 있으며, 특히 해외 투자자들에게는 환율 변동성까지 더해져 부담이 가중된다.",
+        "고금리 환경 장기화 우려가 커지면서 미국 기술주 등 고성장 자산의 밸류에이션 부담이 가중될 수 있으므로 포트폴리오 점검이 필요하다."
       ],
-      "summary_text": "미국의 미약한 고용 보고서 발표로 연준의 추가 금리 인상 가능성이 낮아졌다. 고용 지표 둔화는 경제 둔화 신호일 수 있지만, 통화 긴축 완화 기대로 이어져 주식 시장에는 긍정적으로 작용했다. 금리 인하 기대감은 기술주 중심의 성장이 예상되는 나스닥에 특히 긍정적인 영향을 미칠 수 있다.",
-      "description": "오늘 증시는 미약한 고용 보고서 발표 후 연준의 금리 인상 기대감이 줄어들면서 주가가 상승했으며, 나스닥과 다우지수가 강세를 보였습니다.",
+      "summary_text": "미국 10년물 국채 수익률이 5.3%를 넘어서면서 위험 신호로 간주되며, 미국 주식에 투자한 한국인들이 긴장하고 있다. 국채 수익률 급등은 주식 시장의 매력을 감소시키고 자금 이탈을 유도할 수 있으며, 특히 해외 투자자들에게는 환율 변동성까지 더해져 부담이 가중된다. 고금리 환경 장기화 우려가 커지면서 미국 기술주 등 고성장 자산의 밸류에이션 부담이 가중될 수 있으므로 포트폴리오 점검이 필요하다.",
+      "description": "미국 10년물 국채 수익률이 5.3%를 돌파하면서 위험 신호로 해석되며, 미국 주식에 투자하는 한국 개인투자자들의 불안감이 커지고 있다는 bloomingbit의 보도이다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "기술주, 성장주, 반도체",
+      "market_impact": "부정",
+      "related_sector": "기술주, 성장주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "연준의 통화 정책 스탠스 변화 가능성은 글로벌 유동성 및 국내 증시의 방향성에 큰 영향을 미치기 때문이다.",
-      "key_signal": "향후 발표될 물가 지표와 연준 위원들의 발언을 통해 금리 인하 기대감이 유지될지 지속적으로 확인해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 국채 수익률 급등은 국내 투자자들의 해외 주식 투자 심리에 직접적인 영향을 미치며, 고금리 장기화 가능성을 시사하기 때문이다.",
+      "key_signal": "미국 10년물 국채 수익률의 5.3% 선 유지가능성과 추가 상승 여부가 시장에 미칠 영향을 면밀히 모니터링해야 한다.",
       "keywords": [
-        "고용보고서",
-        "금리인상",
-        "나스닥",
-        "연준",
-        "증시상승"
+        "국채수익률",
+        "미국주식",
+        "한국투자자",
+        "고금리",
+        "시장위험"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORi0wd2VjQTlfSDg1LXc1dkJzZlpiSHlvRnpWTDBtY1dEYThiLXotWG9aWWdmLUR3WDFOX2g5aGRhVjJudTJObm91aTJjRGF4LWRRRk90YkhZT25GSU92ZndkelZYYXZ2WVA2cldwOWd0dlVFallPa25wb0VuZDNFNzUwalRuX2pqR2hNYnFjeGVyTnpqUVJPYnRRSW5TbDhyUFJiWE4yTkt3ektvSFMxdWtKSHhycmlYdEZ1RXY5VXpWTV96WmQyLVBJQ0wzejNVY3NMRHJLYw?oc=5",
-      "published": "2026-10-03 06:53",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MUzI2RGpLeFMtYzJYTlFpSHNmVlBwRzJWQ3ZhUzlQbjl1dXdxcFROMC1aSkxPYlJWTVZRS0pZb0pIeTBKRFNYc2tGdEV2TXJKdzZGUA?oc=5",
+      "published": "2026-10-03 22:18",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "국채 수익률 하락에 나스닥 사상 최고치 경신",
-      "display_title": "국채 수익률 하락에 나스닥 사상 최고치 경신",
-      "original_title": "Nasdaq Hits Record High as Treasury Yields Retreat - Schaeffer's Investment Research",
+      "title": "S&P 500 전망: 유가 및 수익률 하락에 S&P 500 상승, AI 주식 강세",
+      "display_title": "S&P 500 전망: 유가 및 수익률 하락에 S&P 500 상승, AI 주식 강세",
+      "original_title": "S&P 500 Forecast: SPX higher as oil & yields fall, AI stocks rise - StoneX",
       "summary": [
-        "미 국채 수익률이 하락하자 기술주 중심의 나스닥 지수가 사상 최고치를 기록했다.",
-        "고용 보고서 둔화 등으로 연준의 금리 인상 기대감이 약화되면서 국채 수익률이 하락했고, 이는 성장주에 긍정적으로 작용했다.",
-        "금리 하락 환경은 높은 밸류에이션을 가진 성장주와 기술주에 유리하므로 관련 국내 기업 투자에 긍정적 시그널이다."
+        "유가와 국채 수익률이 하락하면서 S&P 500 지수가 상승했고, 인공지능(AI) 관련 주식들이 강세를 나타냈다.",
+        "유가 및 국채 수익률 하락은 인플레이션 압력 완화 및 기업 자금 조달 비용 감소 기대로 이어져 증시 전반에 긍정적인 영향을 미친다. AI 기술의 발전은 관련 기업의 성장 기대감을 높이고 있다.",
+        "거시경제 환경의 개선과 함께 AI와 같은 신기술 섹터의 성장이 지속될 경우, 관련 기업들이 시장 상승을 주도할 수 있으므로 관련 투자 기회를 모색해야 한다."
       ],
-      "summary_text": "미 국채 수익률이 하락하자 기술주 중심의 나스닥 지수가 사상 최고치를 기록했다. 고용 보고서 둔화 등으로 연준의 금리 인상 기대감이 약화되면서 국채 수익률이 하락했고, 이는 성장주에 긍정적으로 작용했다. 금리 하락 환경은 높은 밸류에이션을 가진 성장주와 기술주에 유리하므로 관련 국내 기업 투자에 긍정적 시그널이다.",
-      "description": "국채 수익률이 하락하면서 나스닥 지수가 사상 최고치를 경신했습니다.",
+      "summary_text": "유가와 국채 수익률이 하락하면서 S&P 500 지수가 상승했고, 인공지능(AI) 관련 주식들이 강세를 나타냈다. 유가 및 국채 수익률 하락은 인플레이션 압력 완화 및 기업 자금 조달 비용 감소 기대로 이어져 증시 전반에 긍정적인 영향을 미친다. AI 기술의 발전은 관련 기업의 성장 기대감을 높이고 있다. 거시경제 환경의 개선과 함께 AI와 같은 신기술 섹터의 성장이 지속될 경우, 관련 기업들이 시장 상승을 주도할 수 있으므로 관련 투자 기회를 모색해야 한다.",
+      "description": "유가와 국채 수익률 하락이 S&P 500 지수 상승을 이끌었고, 특히 AI 관련 주식들이 강세를 보였다는 StoneX의 분석이다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "기술주, 성장주, 반도체",
+      "related_sector": "인공지능(AI), 반도체, 소프트웨어",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "카카오"
+        "엔비디아",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "국채 수익률 하락은 기술주 중심의 국내 증시에도 긍정적인 영향을 미칠 수 있는 중요한 매크로 변수이기 때문이다.",
-      "key_signal": "국채 수익률의 추가적인 하락 여부와 연준의 금리 정책 기조 변화에 대한 시장의 반응을 지속적으로 관찰해야 한다.",
+      "investment_reason": "유가 및 금리 하락이라는 거시경제 환경 개선과 함께 AI 섹터의 성장이 시장을 견인하고 있어, 투자 기회를 적극적으로 탐색할 필요가 있다.",
+      "key_signal": "유가 및 국채 수익률의 추가적인 안정화 추이와 AI 관련 기술 발전 및 산업 확산 속도를 주시해야 한다.",
       "keywords": [
-        "나스닥",
-        "사상최고치",
-        "국채수익률",
-        "기술주",
-        "금리인하"
+        "S&P500",
+        "유가하락",
+        "금리하락",
+        "AI주식",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONkN0WDN0aU8tcXhzb1lKcU16WVdZSHo5dXJ5VmJoUFN1TnVGQlMwbjlIbDRMTHlEQkRsODFGRHliU1g3clN1MnhmVWsxdFg3MnJXX21lbmthVTJrNGk0a2dBVzVZRXpvOU40OVZ1VFF4WGZFcm5hTGVYMWhTMXRvRjRXbVJYQWM3ckd2X2M4TnJCQUxEZWRtRHJ3WmZaRDlyZnNESmFPbHVWZWtxN0tnbg?oc=5",
-      "published": "2026-10-03 00:48",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHp4eExjcFVLMF9XbndXN0hNYnN4UWlrbUNjV1BBekh4NXRDQjFocFI1ZE44Zl9qekhpWFRvS2RpcGU5ZzRXR245dlpqcElFVTF3TkFmUXJ6bG1IVWxpa29XMzdSWWoxNHlIeXBYMXlNS00yTHhLRTFqTzN1ODNiQTAwMTJJdWU4SHpKbThsTE52U2VBa2pSNWJfZFlMZ2FwU25fZE00TkVkcEE2aTlQTWppa085dw?oc=5",
+      "published": "2026-10-04 01:00",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,84 +108,80 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "고용 보고서 발표 후 다우지수 400포인트 급등, 나스닥 사상 최고치 경신 — 블랙록 로젠버그 “비둘기파적” 데이터 평가",
-      "display_title": "고용 보고서 발표 후 다우지수 400포인트 급등, 나스닥 사상 최고치 경신 — 블랙록 로젠버그 “비둘기파적” 데이터 평가",
-      "original_title": "Dow Jumps 400 Points, Nasdaq Hits Record High After Jobs Report — BlackRock’s Rosenberg Calls Data ‘Dovish’ - TradingView",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "OECD, 한국 성장률 전망 2.6%→3.7% 상향 조정…회복세 '탄력'",
+      "display_title": "OECD, 한국 성장률 전망 2.6%→3.7% 상향 조정…회복세 '탄력'",
+      "original_title": "OECD, 한국 성장률 2.6%→3.7% 상향 제시…회복세 '탄력' > 뉴스 - 지데일리",
       "summary": [
-        "고용 보고서 발표 후 다우지수가 400포인트 이상 급등하고 나스닥이 사상 최고치를 기록했다.",
-        "블랙록의 로젠버그는 이 데이터를 '비둘기파적'으로 해석하며, 연준의 금리 인상 가능성 축소에 힘을 실었다.",
-        "주요 기관의 해석은 시장 컨센서스 형성에 중요하며, 연준의 통화 정책 완화 기대감은 주식 시장에 지속적인 동력을 제공할 수 있다."
+        "OECD가 한국의 경제 성장률 전망치를 2.6%에서 3.7%로 상향 조정하며, 한국 경제의 회복에 대한 긍정적인 평가를 내렸다.",
+        "주요 국제기구의 성장률 상향 조정은 한국 경제의 펀더멘털 개선과 대외 여건 호전에 대한 기대를 반영하며, 투자 심리에도 긍정적인 영향을 미칠 수 있다.",
+        "경제 성장률 상향 조정은 국내 기업들의 실적 개선과 투자 확대로 이어질 수 있으므로, 내수 활성화 및 수출 증가와 관련된 업종에 주목할 필요가 있다."
       ],
-      "summary_text": "고용 보고서 발표 후 다우지수가 400포인트 이상 급등하고 나스닥이 사상 최고치를 기록했다. 블랙록의 로젠버그는 이 데이터를 '비둘기파적'으로 해석하며, 연준의 금리 인상 가능성 축소에 힘을 실었다. 주요 기관의 해석은 시장 컨센서스 형성에 중요하며, 연준의 통화 정책 완화 기대감은 주식 시장에 지속적인 동력을 제공할 수 있다.",
-      "description": "고용 보고서 발표 이후 다우지수가 400포인트 급등하고 나스닥이 사상 최고치를 경신했으며, 블랙록의 로젠버그는 해당 데이터를 '비둘기파적'이라고 평가했습니다.",
-      "category": "증시·금리",
+      "summary_text": "OECD가 한국의 경제 성장률 전망치를 2.6%에서 3.7%로 상향 조정하며, 한국 경제의 회복에 대한 긍정적인 평가를 내렸다. 주요 국제기구의 성장률 상향 조정은 한국 경제의 펀더멘털 개선과 대외 여건 호전에 대한 기대를 반영하며, 투자 심리에도 긍정적인 영향을 미칠 수 있다. 경제 성장률 상향 조정은 국내 기업들의 실적 개선과 투자 확대로 이어질 수 있으므로, 내수 활성화 및 수출 증가와 관련된 업종에 주목할 필요가 있다.",
+      "description": "OECD가 한국의 경제 성장률 전망치를 기존 2.6%에서 3.7%로 대폭 상향 조정하며, 한국 경제의 회복세가 더욱 탄력을 받을 것으로 예상했다는 지데일리 보도이다.",
+      "category": "국내 거시경제",
       "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "기술주, 전반적인 시장",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
+      "related_sector": "전반적 시장, 경기민감주, 수출주",
+      "related_stocks": [],
       "investment_view": "관심",
-      "investment_reason": "고용 보고서에 대한 시장의 긍정적인 반응과 전문가의 비둘기파적 해석은 향후 시장의 방향성을 예측하는 데 중요한 단서가 되기 때문이다.",
-      "key_signal": "연준의 다음 FOMC 회의록 및 위원들의 발언에서 고용 지표에 대한 구체적인 평가와 향후 통화 정책 방향을 주시해야 한다.",
+      "investment_reason": "OECD의 성장률 상향 조정은 국내 경제 전반에 대한 긍정적인 신호이며, 이는 기업 실적 개선과 주식 시장 상승의 동력으로 작용할 수 있기 때문이다.",
+      "key_signal": "한국 경제의 실제 회복 속도와 수출 및 내수 지표의 지속적인 개선 여부를 확인해야 한다.",
       "keywords": [
-        "고용보고서",
-        "다우지수",
-        "나스닥",
-        "금리정책",
-        "블랙록"
+        "한국경제",
+        "OECD",
+        "성장률",
+        "경제회복",
+        "경기민감주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHJBMGRlclR3R0g5cF92bjVuSm91b0JtM0kwSzNnWWtnSDVDV1BiVWJ0aWMwLWNZazBNQklQRWJBbEs4UC04Q2tVNkc4amp1OFA5WFI5SmZjWmltSFdQQndCX21VQjN0R3hETk1EanNxaUxFR1lRQTF3SVg1TFhKZjRmc29WdXl0cWpPYzVZSmhhejVwNUFYdmdqV19VbFYtMTJKa19EcFV6dEtOMHdQQk1GT0dzNW1UNGVsY0hjbXFOb0Nxdkt0dUxyVlhualJoYVVvZTNMd3pocWstSjg4Y1c5RGJIZExUVkFRbE1ITnhOS1ox?oc=5",
-      "published": "2026-10-02 23:41",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQREptVllCR0RtVjQzSFRvWWVPT0JiU3Fodnp2RF9ueXdISWpYNlJUVlJ1VV9iNXBITGlabDhLUS0tMnRNZS1UbzNZeEttNE5tZTJ3MU1pSlhjV3VSYjVZM0d6VEtiSEFnbHFVMXVKM01FeUdob0wyQ294WnB3VnFFV2xacG1vZGU0OGdBU1NRdFNTY29WNWRmUW5aMEdtcnRjWFBKVTVaWXg5MWo4VEI2S2NGaEp2alJHcDJVT3NEZ2RzalBTdkpGSDNGcWJfbjlhTmc2dmVjMFg2ZWd4WVpqcW1KOWd4UE4wc21ZdXA0Skw5aEU5VF85ak13SEdZQ3l0SjU1SkMzV3l4MXJxbGV1VDYxbw?oc=5",
+      "published": "2026-10-03 21:37",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "86주 연속 상승, 규제 강화에도 집값은 더 올랐다 [손바닥부동산]",
-      "display_title": "86주 연속 상승, 규제 강화에도 집값은 더 올랐다 [손바닥부동산]",
-      "original_title": "86주 연속 상승, 규제는 강해졌지만 집값은 더 올랐다[손바닥부동산] - edaily.co.kr",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "S&P 500 전망: 유가 하락에 S&P 500 상승했으나, 국채 수익률은 수십 년래 최고치 유지",
+      "display_title": "S&P 500 전망: 유가 하락에 S&P 500 상승했으나, 국채 수익률은 수십 년래 최고치 유지",
+      "original_title": "S&P 500 Forecast: SPX rises as oil prices fall, but treasuries remain at multi-decade highs - StoneX",
       "summary": [
-        "정부 규제 강화에도 불구하고 전국 집값이 86주 연속 상승세를 기록했다.",
-        "강력한 규제에도 불구하고 시장의 공급 부족, 유동성, 저금리 기조 등의 요인이 복합적으로 작용하여 집값 상승을 견인한 것으로 보인다.",
-        "부동산 시장의 불안정성과 정부 정책의 한계는 자금의 다른 투자처로의 이동 가능성을 시사하며, 관련 정책 변화에 주목해야 한다."
+        "유가 하락으로 S&P 500 지수가 상승했으나, 미 국채 수익률은 여전히 수십 년래 최고 수준을 기록 중이다.",
+        "유가 하락은 인플레이션 압력 완화 기대로 증시에 긍정적이지만, 높은 국채 수익률은 기업 자금조달 비용 증가 및 증시 매력도 하락으로 작용할 수 있다.",
+        "유가와 국채 수익률이라는 두 가지 상반된 요인이 시장에 동시에 영향을 미치고 있어, 투자자들은 이들 지표의 추이를 면밀히 주시해야 한다."
       ],
-      "summary_text": "정부 규제 강화에도 불구하고 전국 집값이 86주 연속 상승세를 기록했다. 강력한 규제에도 불구하고 시장의 공급 부족, 유동성, 저금리 기조 등의 요인이 복합적으로 작용하여 집값 상승을 견인한 것으로 보인다. 부동산 시장의 불안정성과 정부 정책의 한계는 자금의 다른 투자처로의 이동 가능성을 시사하며, 관련 정책 변화에 주목해야 한다.",
-      "description": "정부의 규제가 강화되었음에도 불구하고 집값이 86주 연속 상승하는 현상이 나타났다는 이데일리 부동산 기사입니다.",
-      "category": "부동산·정책",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "건설, 부동산개발, 금융",
+      "summary_text": "유가 하락으로 S&P 500 지수가 상승했으나, 미 국채 수익률은 여전히 수십 년래 최고 수준을 기록 중이다. 유가 하락은 인플레이션 압력 완화 기대로 증시에 긍정적이지만, 높은 국채 수익률은 기업 자금조달 비용 증가 및 증시 매력도 하락으로 작용할 수 있다. 유가와 국채 수익률이라는 두 가지 상반된 요인이 시장에 동시에 영향을 미치고 있어, 투자자들은 이들 지표의 추이를 면밀히 주시해야 한다.",
+      "description": "유가 하락이 S&P 500 지수 상승을 이끌었지만, 미국 국채 수익률은 수십 년 만에 최고 수준을 유지하며 시장에 혼재된 신호를 주고 있다는 StoneX의 분석입니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "에너지, 금융",
       "related_stocks": [
-        "현대건설",
-        "GS건설",
-        "대우건설"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
       "investment_view": "주의",
-      "investment_reason": "부동산 시장의 과열은 가계 부채 증가와 함께 전반적인 경제 불안정성을 심화시킬 수 있으며, 정부의 추가 정책 개입 가능성이 높기 때문이다.",
-      "key_signal": "정부의 추가 부동산 정책 발표 여부와 금리 인상 가능성 등 부동산 시장에 영향을 미칠 수 있는 변수들을 면밀히 주시해야 한다.",
+      "investment_reason": "유가와 국채 수익률이라는 주요 거시경제 변수들이 시장에 상반된 영향을 미치고 있어 전반적인 투자 전략 수립에 중요한 고려사항이다.",
+      "key_signal": "유가 추가 하락 여부와 미 국채 수익률의 안정화 신호가 나타나는지 확인해야 한다.",
       "keywords": [
-        "부동산",
-        "집값상승",
-        "정부규제",
-        "가계부채",
-        "주택정책"
+        "유가",
+        "국채수익률",
+        "S&P500",
+        "증시",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjhMcHNHUDhSaHd3OXpVNjByTFBiNW1XLVVSMjVSakd2YWhfdHRWTUYydnZyS2xQXzFJSHladGdUODJXVlRGZlNWVF9LclFqeEs2NFdXbDM3QWhqS3pibzF2cmF6ZkwyQ2k1RHN6LUdjajNDMmF4Nl9wd1ZiNWJXdA?oc=5",
-      "published": "2026-10-03 07:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVjhDTS16Uy1LMFhPLTNXMm5WaHJDY3lIcmNtOFpjYzJ6TUpnQ3ZCb3hwd240YWRLR01DWllsVFFyd1c4dWp0Zlpuc3B6c2VIUFlQYXp1X2FTSU5ZME4xS0xRYlJrX2haNWluMmMxeVBqRWJWNUtmcnNXZjNRVXhseGZZaUdtQlF3ODhvZngxd2JYMDRja2pEZEhQdXBmN2xWRy1CTG9UVmVrbVFaT2tIcVFULUpONUZkYndWZHNtTUgzVk1aWGl0SW43WF9nZ0VZbXo4OEJ3?oc=5",
+      "published": "2026-10-04 05:07",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -196,37 +191,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주요 고용 보고서 발표 앞두고 다우, S&P 500, 나스닥 선물 상승: NKE, NFLX, BABA, XRPN 주목",
-      "display_title": "주요 고용 보고서 발표 앞두고 다우, S&P 500, 나스닥 선물 상승: NKE, NFLX, BABA, XRPN 주목",
-      "original_title": "Dow, S&P 500, Nasdaq Futures Rise Ahead Of Key Jobs Report: NKE, NFLX, BABA, XRPN Stocks In Focus - Yahoo Finance",
+      "title": "월스트리트 전망: 국채 수익률 최고치 경신 및 트럼프-시진핑 정상회담 앞두고 다우지수 하락",
+      "display_title": "월스트리트 전망: 국채 수익률 최고치 경신 및 트럼프-시진핑 정상회담 앞두고 다우지수 하락",
+      "original_title": "Wall Street Forecast: DJIA falls as treasury yields hit new highs and ahead of the Trump-Xi summit - StoneX",
       "summary": [
-        "주요 고용 보고서 발표를 앞두고 미국 증시 선물 지수(다우, S&P 500, 나스닥)가 일제히 상승했다.",
-        "투자자들은 고용 보고서가 연준의 금리 정책에 영향을 미칠 것으로 예상하며, 특정 종목들이 주목받고 있다.",
-        "고용 보고서 발표 전 시장의 기대감과 함께 주요 종목들의 움직임은 국내 관련 섹터 투자에도 참고할 만하다."
+        "미국 국채 수익률이 최고치를 경신하면서 다우존스 산업평균지수가 하락했다.",
+        "고금리 환경 심화는 기업의 자금 조달 비용을 높이고 증시 전반의 매력을 떨어뜨리며, 트럼프-시진핑 정상회담은 미중 관계에 대한 불확실성을 더한다.",
+        "국채 수익률 급등과 미중 정상회담 결과에 따라 시장 변동성이 커질 수 있으므로, 관련 정책 및 경제 지표 변화를 면밀히 관찰해야 한다."
       ],
-      "summary_text": "주요 고용 보고서 발표를 앞두고 미국 증시 선물 지수(다우, S&P 500, 나스닥)가 일제히 상승했다. 투자자들은 고용 보고서가 연준의 금리 정책에 영향을 미칠 것으로 예상하며, 특정 종목들이 주목받고 있다. 고용 보고서 발표 전 시장의 기대감과 함께 주요 종목들의 움직임은 국내 관련 섹터 투자에도 참고할 만하다.",
-      "description": "주요 고용 보고서 발표를 앞두고 다우, S&P 500, 나스닥 선물 지수가 상승했으며, 나이키(NKE), 넷플릭스(NFLX), 알리바바(BABA), XRPN 주식에 관심이 집중되고 있습니다.",
+      "summary_text": "미국 국채 수익률이 최고치를 경신하면서 다우존스 산업평균지수가 하락했다. 고금리 환경 심화는 기업의 자금 조달 비용을 높이고 증시 전반의 매력을 떨어뜨리며, 트럼프-시진핑 정상회담은 미중 관계에 대한 불확실성을 더한다. 국채 수익률 급등과 미중 정상회담 결과에 따라 시장 변동성이 커질 수 있으므로, 관련 정책 및 경제 지표 변화를 면밀히 관찰해야 한다.",
+      "description": "미국 국채 수익률이 새로운 최고치를 기록하고 트럼프-시진핑 정상회담을 앞둔 불확실성으로 다우존스 산업평균지수가 하락했다는 StoneX의 분석이다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "기술주, 소비재, 플랫폼",
+      "market_impact": "부정",
+      "related_sector": "전반적 시장, 기술",
       "related_stocks": [
-        "나이키",
-        "넷플릭스",
-        "알리바바"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "고용 보고서 발표 전의 시장 분위기는 향후 증시 방향성을 가늠하는 중요한 선행 지표가 될 수 있기 때문이다.",
-      "key_signal": "실제 고용 보고서 내용과 시장의 반응이 선물 시장의 흐름과 일치하는지, 그리고 언급된 개별 기업들의 실적 및 전망을 추가로 확인해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미 국채 수익률의 최고치 경신과 미중 정상회담이라는 지정학적 이벤트가 겹쳐 시장에 큰 불확실성과 하방 압력을 제공하기 때문이다.",
+      "key_signal": "트럼프-시진핑 정상회담 결과와 국채 수익률의 추가적인 움직임이 시장 방향성을 결정할 주요 요인이다.",
       "keywords": [
-        "고용보고서",
-        "선물지수",
-        "나스닥",
-        "연준정책",
-        "기술주"
+        "국채수익률",
+        "다우지수",
+        "트럼프-시진핑",
+        "미중관계",
+        "고금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2xLVEROUUJUTmFwSE92UzE4NnVsbXZFQXNnZkFuNzlZV1d0ZWozaFFBWWdYNTY4VV93Zlp6NkJjV3I5ZnJENVBFaUFDS1p5eDRWcVNPVmVQN181a0NBdmJXTzBZam5zekkxX3BDQlVuc0FjS2oxaXo3UXJuZEQydEVTbWl1RHFtR0VRS25ISkV0VHM?oc=5",
-      "published": "2026-10-02 11:37",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHlZbHRBMWtyYUhfelpkWWItbktXU1p0TzRKczNJSDZOeDVOejFkRnpTQTM1M3pGX1BkSFdDNEM1d2FTbEFOY2JtUkUtbTY5VUU0blJSbWJsZVZYZmM1bnBqb1hMU0dxcGlqa25nSl91bjJhaHN2Uk13c3NPazk4UkxiMS1SLUxFRGt2RGFCZ3F6YjFYMVVtZnN6UHBvM25pdUZTdHhUYnYtb0g5dGtLVVNuUk9nenRWU0NlYzQ4TDl0ZkpqZGxaam8yZVNjY2FTMDNscVJoMFdjZjVKWXc?oc=5",
+      "published": "2026-10-04 03:44",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -238,36 +233,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "머스크의 경고: 중국 인프라에 밀려 멈춰서는 미국 제조업, 상하이 기가팩토리의 생산 혁명과 중국 인프라 우위 10가지 이유",
-      "display_title": "머스크의 경고: 중국 인프라에 밀려 멈춰서는 미국 제조업, 상하이 기가팩토리의 생산 혁명과 중국 인프라 우위 10가지 이유",
-      "original_title": "머스크의 충격 경고 -> 중국 인프라에 밀려 멈춰 서는 미국 제조업 > 상하이 기가팩토리의 기적 => 착공 168일 만에 완성한 생산 혁명 = 초고압 전력망부터 자동화 항만까지 >> 중국 인프라가 앞선 10대 이유 - 데일리머니",
+      "title": "이재명 대통령, 경제회복 자신감 표명…반도체 주도-내수 뒷받침 기대",
+      "display_title": "이재명 대통령, 경제회복 자신감 표명…반도체 주도-내수 뒷받침 기대",
+      "original_title": "이재명 대통령, 경제회복 자신감.. 반도체가 끌고 내수가 받칠까 > 뉴스 - 지데일리",
       "summary": [
-        "일론 머스크가 중국의 우수한 인프라 대비 미국 제조업의 취약성을 경고하며, 상하이 기가팩토리의 빠른 건설 사례를 들었다.",
-        "중국은 초고압 전력망, 자동화 항만 등 선진 인프라를 바탕으로 제조업 생산 효율성과 경쟁력을 높이고 있다.",
-        "글로벌 공급망 재편 및 각국의 제조업 경쟁력 비교 시 중국 인프라의 강점이 부각되며, 이는 국내 기업의 대중국 전략에도 영향을 미칠 수 있다."
+        "이재명 대통령이 경제 회복에 대한 강한 자신감을 보이며, 반도체 산업의 선도적인 역할과 내수 시장의 뒷받침을 강조했다.",
+        "정부의 경제 정책 방향을 엿볼 수 있는 발언으로, 수출 주력 산업인 반도체와 내수 경기 활성화를 통한 균형 잡힌 성장을 목표로 하고 있음을 시사한다.",
+        "반도체 산업과 함께 정부의 내수 진작 정책에 따라 수혜를 입을 수 있는 소비재, 유통, 관광 등 내수 관련 업종에 대한 투자 기회를 모색할 수 있다."
       ],
-      "summary_text": "일론 머스크가 중국의 우수한 인프라 대비 미국 제조업의 취약성을 경고하며, 상하이 기가팩토리의 빠른 건설 사례를 들었다. 중국은 초고압 전력망, 자동화 항만 등 선진 인프라를 바탕으로 제조업 생산 효율성과 경쟁력을 높이고 있다. 글로벌 공급망 재편 및 각국의 제조업 경쟁력 비교 시 중국 인프라의 강점이 부각되며, 이는 국내 기업의 대중국 전략에도 영향을 미칠 수 있다.",
-      "description": "일론 머스크의 경고에 따르면 중국의 앞선 인프라로 인해 미국 제조업이 어려움을 겪고 있으며, 상하이 기가팩토리가 168일 만에 완성된 생산 혁명 사례와 초고압 전력망, 자동화 항만 등 중국 인프라가 앞선 10가지 이유를 설명합니다.",
-      "category": "기업·산업",
+      "summary_text": "이재명 대통령이 경제 회복에 대한 강한 자신감을 보이며, 반도체 산업의 선도적인 역할과 내수 시장의 뒷받침을 강조했다. 정부의 경제 정책 방향을 엿볼 수 있는 발언으로, 수출 주력 산업인 반도체와 내수 경기 활성화를 통한 균형 잡힌 성장을 목표로 하고 있음을 시사한다. 반도체 산업과 함께 정부의 내수 진작 정책에 따라 수혜를 입을 수 있는 소비재, 유통, 관광 등 내수 관련 업종에 대한 투자 기회를 모색할 수 있다.",
+      "description": "이재명 대통령이 경제 회복에 대한 자신감을 표명하며, 반도체 산업이 회복을 주도하고 내수 시장이 이를 뒷받침할 것이라는 기대를 나타냈다는 지데일리 보도이다.",
+      "category": "국내 거시경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "인프라, 제조업, 전기차, 건설",
+      "market_impact": "긍정",
+      "related_sector": "반도체, 소비재, 유통",
       "related_stocks": [
-        "현대건설",
-        "두산밥캣"
+        "삼성전자",
+        "신세계"
       ],
       "investment_view": "관심",
-      "investment_reason": "글로벌 공급망 재편과 제조업 경쟁력은 국가 경제와 주요 기업들의 장기 성장에 직접적인 영향을 미치기 때문이다.",
-      "key_signal": "미국과 중국 간의 제조업 및 인프라 경쟁 구도 변화가 국내 기업의 생산 기지 전략이나 수출입 구조에 미칠 영향을 지속적으로 모니터링해야 한다.",
+      "investment_reason": "대통령의 경제 회복 자신감 표명과 핵심 성장 동력 제시 발언은 향후 국내 경제 및 관련 산업의 투자 방향을 가늠하는 중요한 지표가 된다.",
+      "key_signal": "반도체 수출 실적과 정부의 내수 활성화 정책 실행 및 효과에 대한 구체적인 지표 변화를 확인해야 한다.",
       "keywords": [
-        "중국인프라",
-        "미국제조업",
-        "상하이기아팩토리",
-        "글로벌공급망",
-        "테슬라"
+        "이재명대통령",
+        "경제회복",
+        "반도체",
+        "내수",
+        "정부정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fMVpKTko3QzdESVV6eXd0VUlDYVVsYTN5dVpJRGJYMmdzV2ZZc1BseHZqNGtQRUtxNHdGWmxFM1prRHdXbVpOXzhHamc4X01KLXRsdldSSXQtRmduZlpsYTVDV3Q5TFZqOTktM0xZbnQ2UQ?oc=5",
-      "published": "2026-10-02 17:42",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQWw2TUFFTzJtc1RhSkpEWlZhOFVpVXJjWDA3ak5UZ2Z6TXRWb05NNGhNd0Y5QWpDQ0V4QmZYaVE1WDM0eFYwVTZEeVRjMTRpSnRkdWJHUUxadEtrX2VtSGEtUkdKOXc?oc=5",
+      "published": "2026-10-03 18:53",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -282,60 +277,65 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미약한 고용 보고서에 따른 연준의 금리 인상 기대 약화 및 국채 수익률 하락이 나스닥 강세로 이어지며, 기술주 및 반도체 업종에 긍정적인 투자 심리가 예상됩니다.",
+      "reason": "인공지능(AI) 섹터 강세와 함께 정부의 국내 경제 반도체 주도 성장 기조가 강조되며, 국내외 긍정적 모멘텀이 기대되는 종목입니다.",
       "check_points": [
-        "미국 금리 정책 방향성 변화 추이",
-        "글로벌 반도체 업황 회복 속도"
+        "글로벌 반도체 업황 회복 속도 및 AI 칩 수요 증가 추이",
+        "국내 정책 지원의 구체적인 내용 및 효과",
+        "환율 변동성과 글로벌 경쟁 환경 변화"
       ],
       "related_news_titles": [
-        "오늘 증시: 미약한 고용 보고서에 연준 금리 인상 기대 약화되며 나스닥과 다우 상승",
-        "국채 수익률 하락에 나스닥 사상 최고치 경신"
+        "S&P 500 전망: 유가 및 수익률 하락에 S&P 500 상승, AI 주식 강세",
+        "이재명 대통령, 경제회복 자신감 표명…반도체 주도-내수 뒷받침 기대"
       ]
     },
     {
       "rank": 2,
-      "name": "네이버",
+      "name": "신세계",
       "market": "KOSPI",
-      "sector": "기술주",
+      "sector": "유통/소비재",
       "opinion": "관심",
-      "reason": "국채 수익률 하락과 연준의 비둘기파적 스탠스 변화 가능성은 성장주 전반의 투자 매력을 높이며, 국내 대표 기술주에도 긍정적인 영향을 미칠 수 있습니다.",
+      "reason": "OECD의 한국 성장률 전망 상향 조정과 대통령의 내수 뒷받침 언급은 국내 소비 심리 개선 및 유통 섹터의 회복에 대한 기대감을 높이고 있습니다.",
       "check_points": [
-        "글로벌 기술주 동향 및 투자 심리",
-        "국내 플랫폼 사업 환경 변화"
+        "국내 소비 심리 지수 및 가계 구매력 변화 동향",
+        "정부의 내수 활성화 정책 실효성",
+        "온라인 및 오프라인 유통 채널의 경쟁 상황"
       ],
       "related_news_titles": [
-        "오늘 증시: 미약한 고용 보고서에 연준 금리 인상 기대 약화되며 나스닥과 다우 상승",
-        "국채 수익률 하락에 나스닥 사상 최고치 경신"
+        "OECD, 한국 성장률 전망 2.6%→3.7% 상향 조정…회복세 '탄력'",
+        "이재명 대통령, 경제회복 자신감 표명…반도체 주도-내수 뒷받침 기대"
       ]
     },
     {
       "rank": 3,
       "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "금융",
-      "opinion": "관심",
-      "reason": "고용 보고서에 대한 시장의 긍정적 해석과 나스닥 사상 최고치 경신 등 전반적인 증시 강세 분위기는 증권사 거래량 증가 및 실적 개선에 긍정적인 영향을 줄 수 있습니다.",
+      "sector": "금융(증권)",
+      "opinion": "주의",
+      "reason": "미국 10년물 국채 수익률이 급등하며 고금리 장기화 가능성이 커지고 있어, 이는 국내 투자자들의 해외 주식 투자 심리 및 증권사의 실적에 부정적 영향을 미칠 수 있습니다.",
       "check_points": [
-        "국내 증시 거래대금 추이",
-        "투자자 예탁금 변동성"
+        "미국 국채 수익률의 추가 상승 여부 및 글로벌 금리 동향",
+        "국내 증시의 거래대금 및 투자 심리 변화",
+        "부동산 프로젝트파이낸싱(PF) 등 잠재적 리스크 요인"
       ],
       "related_news_titles": [
-        "고용 보고서 발표 후 다우지수 400포인트 급등, 나스닥 사상 최고치 경신 — 블랙록 로젠버그 “비둘기파적” 데이터 평가"
+        "'이 신호는 위험을 의미한다': 10년물 국채 수익률 5.3% 돌파에 미국 주식 투자 한국인들 불안감 고조",
+        "월스트리트 전망: 국채 수익률 최고치 경신 및 트럼프-시진핑 정상회담 앞두고 다우지수 하락"
       ]
     },
     {
       "rank": 4,
-      "name": "두산밥캣",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "건설장비",
-      "opinion": "관심",
-      "reason": "글로벌 공급망 재편 및 주요국의 인프라 투자 확대 가능성에 대한 논의가 부각됨에 따라, 글로벌 제조업 및 건설장비 관련 기업에 대한 관심이 높아질 수 있습니다.",
+      "sector": "정유/화학",
+      "opinion": "중립",
+      "reason": "유가 하락은 긍정적 요인이 될 수 있으나, 동시에 국채 수익률이 수십 년래 최고치를 유지하는 등 거시 경제 변수들이 상반된 영향을 미 미치고 있어 신중한 접근이 요구됩니다.",
       "check_points": [
-        "주요국 인프라 투자 정책 변화",
-        "글로벌 제조업 경기 지표 동향"
+        "국제 유가(WTI, 브렌트유)의 변동성 및 향후 전망",
+        "정유 제품의 수요-공급 균형 및 정제 마진 추이",
+        "글로벌 경기 둔화가 석유화학 산업에 미치는 영향"
       ],
       "related_news_titles": [
-        "머스크의 경고: 중국 인프라에 밀려 멈춰서는 미국 제조업, 상하이 기가팩토리의 생산 혁명과 중국 인프라 우위 10가지 이유"
+        "S&P 500 전망: 유가 하락에 S&P 500 상승했으나, 국채 수익률은 수십 년래 최고치 유지"
       ]
     }
   ],
