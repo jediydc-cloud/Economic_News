@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05 09:29",
-  "analysis_date": "2026-10-05",
+  "generated_at": "2026-10-06 11:06",
+  "analysis_date": "2026-10-06",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 고용 지표 둔화로 금리 인상 기대가 완화되며 증시에 긍정적 요인이 부각되나, 유가와 국채 수익률 변동성에 따른 시장의 혼조세가 예상됩니다. 국내에서는 전고체 배터리 기대감으로 관련 ETF가 강세를 보인 반면, 고금리 및 특정 섹터 쏠림으로 코스닥 제약 바이오 업종은 부진했습니다.",
-    "국내거시경제": "고금리 환경과 특정 업종 쏠림 현상이 국내 시장 내 섹터별 성과에 큰 영향을 미치고 있습니다. 특히 지난달 코스닥 시장에서는 제약 바이오 업종이 가장 부진했습니다.",
-    "글로벌경제": "미국 고용 지표 둔화로 연준의 금리 인상 기대가 완화되며 위험 자산에 긍정적인 신호가 나타났습니다. 하지만 이번 주 연준 의사록, ISM 서비스업 지표, 유가 등 주요 거시경제 지표에 따라 시장 변동성이 커질 수 있습니다.",
-    "증시금리": "미국 주식 선물은 고용 지표 둔화로 금리 인상 기대가 완화되며 상승했으나, 유가와 국채 수익률 상승은 기술주 중심의 나스닥 100에 하락 압력을 가했습니다. 국내 코스닥 시장에서는 고금리 환경 속에 제약 바이오 업종이 부진한 흐름을 보였습니다.",
-    "부동산정책": "해당 사항 없음",
-    "기업산업": "전고체 배터리 기술 상용화 기대감에 관련 ETF가 지난주 국내 주간 수익률 1위를 차지했습니다. 이는 차세대 배터리 기술에 대한 시장의 뜨거운 관심을 보여줍니다.",
-    "오늘의투자시사점": "주요 거시 지표 발표에 따른 시장 변동성에 대비하고, 유가 및 금리 환경 변화에 따라 기술 성장주와 가치주/경기 방어주 간의 투자 비중 조정을 고려해야 합니다. 국내에서는 전고체 배터리 기술 동향에 관심을 가지되, 금리 민감도가 높은 성장주 섹터는 주의 깊게 접근할 필요가 있습니다.",
-    "오늘의한줄": "고용 둔화로 금리 인상 기대는 완화됐지만, 유가와 주요 경제 지표에 따라 시장 변동성 확대가 예상됩니다."
+    "총평": "글로벌 기술주 강세에도 불구하고 국내 증시는 외국인 매도세로 인해 코스피와 코스닥이 차별화된 흐름을 보였습니다. 유동성 및 금리 불확실성 속 개별 섹터 집중 전략이 유효합니다.",
+    "국내거시경제": "외국인 투자자들의 매도세가 코스피 시장의 주요 하방 압력으로 작용하고 있으며, 유동성 위축과 금리 반락 기대감이 10월 증시 변동성 확대 요인으로 언급됩니다.",
+    "글로벌경제": "미국 나스닥 지수가 기업 실적 기대감과 기술주 주도 아래 사상 최고치를 경신하며 글로벌 증시의 긍정적 투자 심리를 이끌었습니다.",
+    "증시금리": "나스닥의 신고가에도 불구하고 코스피는 외국인 매도세로 7000선 공방을 벌였으며, 코스닥은 2% 강세를 보였습니다. 10월 코스피는 6,400~7,600 박스권 예상 속 반도체, 2차전지 섹터에 대한 관심이 제시됩니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "글로벌 기술주 강세가 이어지는 가운데, 국내에서는 반도체와 2차전지 섹터가 10월 시장의 주요 관심 업종으로 부상하며 개별 기업 및 섹터별 차별화 장세가 예상됩니다.",
+    "오늘의투자시사점": "글로벌 기술주 강세를 반영한 코스닥 및 성장주에 대한 관심은 유지하되, 외국인 수급에 민감한 코스피 대형주에 대한 접근은 주의가 필요합니다. 반도체, 2차전지 등 실적 모멘텀이 있는 특정 섹터에 집중하는 전략이 유효합니다.",
+    "오늘의한줄": "글로벌 기술주 강세에도 외국인 매도로 차별화된 국내 증시, 실적 기대 섹터에 주목하며 유동성 흐름을 주시해야 합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주간 증시 전망 (2026년 10월 5-9일): 연준 의사록, ISM 서비스업 지표, 유가에 주목",
-      "display_title": "주간 증시 전망 (2026년 10월 5-9일): 연준 의사록, ISM 서비스업 지표, 유가에 주목",
-      "original_title": "Stock Market Week Ahead (5-9 October 2026): Fed Minutes, ISM Services and Oil in Focus - BBN Times",
+      "title": "나스닥, 기업 실적 기대감 속 사상 최고치 마감",
+      "display_title": "나스닥, 기업 실적 기대감 속 사상 최고치 마감",
+      "original_title": "Nasdaq notches record high close as investors focus on earnings - reuters.com",
       "summary": [
-        "이번 주(10월 5-9일) 증시는 연준 의사록, ISM 서비스업 지표, 유가 등 주요 거시경제 지표와 이벤트에 주목할 예정이다.",
-        "연준 의사록은 금리 정책 방향을, ISM 서비스업 지수는 미국 경제의 건전성을, 유가는 인플레이션 압력을 가늠하는 중요한 지표이다.",
-        "이번 주 발표되는 주요 지표들은 시장의 변동성을 키울 수 있으므로, 결과에 따라 유연하게 투자 전략을 조정해야 한다."
+        "나스닥 지수가 투자자들의 실적 발표 기대감에 힘입어 사상 최고치로 마감했습니다.",
+        "기업들의 실적 시즌이 다가오면서 기술주 중심의 나스닥 시장에 긍정적인 투자 심리가 형성되고 있습니다.",
+        "글로벌 기술주 강세가 국내 증시, 특히 기술 성장주에 대한 투자 심리에 긍정적 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "이번 주(10월 5-9일) 증시는 연준 의사록, ISM 서비스업 지표, 유가 등 주요 거시경제 지표와 이벤트에 주목할 예정이다. 연준 의사록은 금리 정책 방향을, ISM 서비스업 지수는 미국 경제의 건전성을, 유가는 인플레이션 압력을 가늠하는 중요한 지표이다. 이번 주 발표되는 주요 지표들은 시장의 변동성을 키울 수 있으므로, 결과에 따라 유연하게 투자 전략을 조정해야 한다.",
-      "description": "2026년 10월 5일부터 9일까지의 주간 증시에서 연방준비제도(Fed) 의사록, ISM 서비스업 구매관리자지수, 유가 동향이 핵심 초점이 될 것이다.",
+      "summary_text": "나스닥 지수가 투자자들의 실적 발표 기대감에 힘입어 사상 최고치로 마감했습니다. 기업들의 실적 시즌이 다가오면서 기술주 중심의 나스닥 시장에 긍정적인 투자 심리가 형성되고 있습니다. 글로벌 기술주 강세가 국내 증시, 특히 기술 성장주에 대한 투자 심리에 긍정적 영향을 미칠 수 있습니다.",
+      "description": "투자자들이 기업 실적에 집중하면서 미국 나스닥 지수가 사상 최고치를 기록하며 마감했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "전 업종",
+      "market_impact": "긍정",
+      "related_sector": "IT, 기술주, 반도체",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "관심",
-      "investment_reason": "다가오는 한 주 동안 시장의 방향을 결정할 핵심 거시경제 지표와 이벤트를 미리 파악하여 투자 계획을 세우는 데 필수적이기 때문이다.",
-      "key_signal": "연준 의사록에서 금리 인상 기조에 대한 추가 단서가 있는지, ISM 서비스업 지표가 예상치를 상회하는지, 그리고 유가 변동성을 주시해야 한다.",
+      "investment_reason": "미국 기술주 강세는 국내 기술주와 성장주에 대한 투자 심리를 견인할 수 있기 때문입니다.",
+      "key_signal": "미국 기업들의 실적 발표 내용과 나스닥의 추가 상승 여부를 지속적으로 확인해야 합니다.",
       "keywords": [
-        "주간 전망",
-        "연준 의사록",
-        "ISM 서비스업",
-        "유가",
-        "거시경제 지표"
+        "나스닥",
+        "신고가",
+        "기술주",
+        "기업실적",
+        "미국증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUJuVUlrdEstUEpaQTlFZjJCMmdNOW5HeTdvZUg4d3g4cjVWQzZJYUJDOWktTEtIamI2cFp6WXU4eUpNOG1CLWFNQ25DX3BmbkxSb01KRU84cmNSeG9WRFRlUkdTWEpEdUNkTFJla2ctNWd1WGVNdnhvZXkwMENZS21pTzdjQTVhWUlldkN4RElKMUJUeDhMaVRCVDk3cXRLcGhxUFpvYW1jcnNIUG1zRk8xdHpwZ2syenE5X0JUNA?oc=5",
-      "published": "2026-10-05 02:28",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R?oc=5",
+      "published": "2026-10-06 07:38",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 주식 선물 상승, 고용 지표 둔화로 연준 금리 인상 기대 완화",
-      "display_title": "미국 주식 선물 상승, 고용 지표 둔화로 연준 금리 인상 기대 완화",
-      "original_title": "U.S. stock futures tick higher as soft jobs data eases Fed hike bets - Investing.com",
+      "title": "기술주 주도로 나스닥 사상 최고치 경신",
+      "display_title": "기술주 주도로 나스닥 사상 최고치 경신",
+      "original_title": "Nasdaq Hits Record as Tech Leads Wall Street Higher - stl.news",
       "summary": [
-        "미국의 고용 지표가 예상보다 둔화되면서 주식 선물이 상승했다.",
-        "고용 지표 둔화는 연방준비제도(Fed)의 추가 금리 인상 압력을 완화시키는 요인으로 작용한다.",
-        "금리 인상 완화 기대감은 위험 자산에 긍정적으로 작용할 수 있다."
+        "기술 섹터의 강력한 주도로 미국 나스닥 지수가 또다시 사상 최고가를 경신했습니다.",
+        "전반적인 월스트리트의 상승세 속에서 기술 기업들의 성과 기대감이 주가에 반영되고 있습니다.",
+        "글로벌 기술주에 대한 긍정적인 투자 심리는 국내 관련 산업군에 대한 관심으로 이어질 수 있습니다."
       ],
-      "summary_text": "미국의 고용 지표가 예상보다 둔화되면서 주식 선물이 상승했다. 고용 지표 둔화는 연방준비제도(Fed)의 추가 금리 인상 압력을 완화시키는 요인으로 작용한다. 금리 인상 완화 기대감은 위험 자산에 긍정적으로 작용할 수 있다.",
-      "description": "미국 주식 선물이 상승했으며, 이는 고용 지표 둔화로 연준의 금리 인상 가능성이 줄어든 데 따른 것이다.",
+      "summary_text": "기술 섹터의 강력한 주도로 미국 나스닥 지수가 또다시 사상 최고가를 경신했습니다. 전반적인 월스트리트의 상승세 속에서 기술 기업들의 성과 기대감이 주가에 반영되고 있습니다. 글로벌 기술주에 대한 긍정적인 투자 심리는 국내 관련 산업군에 대한 관심으로 이어질 수 있습니다.",
+      "description": "기술주가 월스트리트 상승을 주도하며 나스닥 지수가 사상 최고치를 기록했습니다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "증권, 기술주",
+      "related_sector": "IT, 기술주, 소프트웨어, 반도체",
       "related_stocks": [
-        "삼성전자",
-        "NAVER",
-        "카카오"
+        "카카오",
+        "LG전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "연준의 통화 정책 방향을 가늠할 수 있는 중요한 지표이며, 글로벌 증시 흐름에 큰 영향을 미치기 때문이다.",
-      "key_signal": "오늘 발표될 다른 경제 지표나 연준 위원의 발언을 통해 금리 인상 기대감이 어떻게 변화하는지 주목해야 한다.",
+      "investment_reason": "미국 기술주의 강세는 한국의 IT 및 기술 관련 기업 주가에도 긍정적인 영향을 미칠 가능성이 높습니다.",
+      "key_signal": "미국 기술주의 상승 모멘텀이 유지되는지, 그리고 국내 기술주로의 투자심리 확산 여부를 지켜봐야 합니다.",
       "keywords": [
-        "미국 증시",
-        "금리 인상",
-        "고용 지표",
-        "연준",
-        "선물 시장"
+        "나스닥",
+        "신고가",
+        "기술주",
+        "월스트리트",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzZtS0thRlRiOHc0c28zV0EydE9CZGtJNTBhbEdMYXhxVUpSWjQyN2xFSmNQVE5qWmM1M3hTcDhmU1Z3c3lSVkpvMW92a2txUEwzSkpfM3VlcjhQM09UdXhvZWNjaHZ2eGQ3ZFdmV0ZPRmdES3l1b3RxS3IyLUloYUt6cDVwR01FdmFtUmdETVlqRGZaaExQUHd1ZjlDZGFBZTVxbkdGSHNNQ3F3WHZIMndvc3UzU0EwTWJDQjRJeFo?oc=5",
-      "published": "2026-10-05 09:22",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCZXFXbTdQWVdpSEZmWXV1amQwckJWeVRTblFOOHdSMUNPQXBJdzc0cWI4T2RlbmFMTHYxSmdaeng2dXhDVzdXeld3dW5IdWdJMGl3ZGN6b20xU0JTMzVTb2VoN2FBeTY2dzlGajJ0VU1LQmpuQlVyWU5RcG1MUQ?oc=5",
+      "published": "2026-10-06 05:23",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,84 +108,83 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "나스닥 100 전망: 유가 급등과 국채 수익률 상승으로 하락세",
-      "display_title": "나스닥 100 전망: 유가 급등과 국채 수익률 상승으로 하락세",
-      "original_title": "Nasdaq 100 Forecast: NDX falls as oil jumps and Treasury yields rise - StoneX",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "\"코스피 7600까지 가능하나 급등은 어려워\"...한투증권, 10월 반도체·2차전지 주목",
+      "display_title": "\"코스피 7600까지 가능하나 급등은 어려워\"...한투증권, 10월 반도체·2차전지 주목",
+      "original_title": "“코스피 7600까지 열어뒀지만 급등은 어렵다”…한투證, 10월 반도체·2차전지 주목 - 디지털데일리",
       "summary": [
-        "유가와 미국 국채 수익률이 동시에 상승하면서 나스닥 100 지수가 하락 압력을 받았다.",
-        "유가 상승은 인플레이션 압력을 높이고, 국채 수익률 상승은 성장주 가치 평가에 부정적인 영향을 미쳐 기술주 중심의 나스닥에 불리하게 작용한다.",
-        "고유가와 고금리 환경이 지속될 경우, 기술 성장주보다는 가치주나 경기 방어주에 대한 관심이 높아질 수 있다."
+        "한국투자증권은 10월 코스피가 7600까지 상승할 수 있으나 급등은 어려울 것으로 전망하며, 반도체와 2차전지 섹터에 주목할 것을 권고했습니다.",
+        "시장 전반의 유동성 제약과 금리 불확실성 속에서 실적 모멘텀이 있는 특정 섹터로의 자금 쏠림 현상을 예상하는 분석입니다.",
+        "반도체와 2차전지 섹터는 10월 포트폴리오의 주요 관심 업종으로 고려할 가치가 있으며, 코스피 전체보다는 개별 종목과 섹터에 집중하는 전략이 유효합니다."
       ],
-      "summary_text": "유가와 미국 국채 수익률이 동시에 상승하면서 나스닥 100 지수가 하락 압력을 받았다. 유가 상승은 인플레이션 압력을 높이고, 국채 수익률 상승은 성장주 가치 평가에 부정적인 영향을 미쳐 기술주 중심의 나스닥에 불리하게 작용한다. 고유가와 고금리 환경이 지속될 경우, 기술 성장주보다는 가치주나 경기 방어주에 대한 관심이 높아질 수 있다.",
-      "description": "유가가 급등하고 국채 수익률이 상승하면서 나스닥 100 지수가 하락했다.",
+      "summary_text": "한국투자증권은 10월 코스피가 7600까지 상승할 수 있으나 급등은 어려울 것으로 전망하며, 반도체와 2차전지 섹터에 주목할 것을 권고했습니다. 시장 전반의 유동성 제약과 금리 불확실성 속에서 실적 모멘텀이 있는 특정 섹터로의 자금 쏠림 현상을 예상하는 분석입니다. 반도체와 2차전지 섹터는 10월 포트폴리오의 주요 관심 업종으로 고려할 가치가 있으며, 코스피 전체보다는 개별 종목과 섹터에 집중하는 전략이 유효합니다.",
+      "description": "한국투자증권은 코스피가 7600선까지 상승 여력이 있지만 급격한 상승은 어려울 것으로 전망하며, 10월에 반도체와 2차전지 업종을 주목할 것을 조언했습니다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "기술주, 에너지",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "반도체, 2차전지",
       "related_stocks": [
-        "엔비디아",
-        "테슬라",
-        "S-Oil"
+        "삼성전자",
+        "SK하이닉스",
+        "LG에너지솔루션"
       ],
-      "investment_view": "주의",
-      "investment_reason": "주요 기술주의 실적과 투자 심리에 직접적인 영향을 미치는 유가 및 금리 동향을 파악하는 데 필수적이기 때문이다.",
-      "key_signal": "유가와 미국 국채 10년물 수익률의 추가 상승 여부를 주시하며, 기술주 조정이 지속되는지 확인해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "증권사의 구체적인 지수 전망과 유망 섹터 추천은 투자 전략 수립에 실질적인 도움을 줄 수 있기 때문입니다.",
+      "key_signal": "10월 한투증권이 제시한 반도체 및 2차전지 섹터의 실제 성과와 코스피 지수 흐름을 비교하며 추이를 관찰해야 합니다.",
       "keywords": [
-        "나스닥",
-        "유가",
-        "국채 수익률",
-        "기술주",
-        "인플레이션"
+        "코스피",
+        "10월전망",
+        "반도체",
+        "2차전지",
+        "증권사전망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzFaSGZXVjNNX05aSDR5dS01SUpKMGU0b1JkZi1SSENXN3NSdDhUazE0LXh6ekVVdmJ3cWx5UnllMzd4OUdiQWNPbFg0ZnQ3M3E5MWVXVFowQjZSMnFQUjQ3TTRaeWpFdjl5Ympld25CN3UtV2t3dW04TnF0V3Z5bU5yV3VlSExLS1p4RHVYS1VWSnFVM2pYWnhWVVJCMDFpRDJhSnNNUWFuQ21GTWM1Qjlsd1ZLdw?oc=5",
-      "published": "2026-10-05 06:38",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOQ3BKSDhjQ1E2V2RnSGVISWZLSXdzcVp1bFdockJPaEhYWFpSem4zUjIwZ2JCOVVnTzY5OGkxR2ctOTAyTzJ4a0ZMazdCYXdkS0Q3VEZPUVhYcHNwekxjUjRn?oc=5",
+      "published": "2026-10-06 09:27",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "S&P 500 전망: 유가 및 수익률 하락, AI 주식 상승으로 지수 상승",
-      "display_title": "S&P 500 전망: 유가 및 수익률 하락, AI 주식 상승으로 지수 상승",
-      "original_title": "S&P 500 Forecast: SPX higher as oil & yields fall, AI stocks rise - StoneX",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[속보] 나스닥 신고가에도 코스피 주춤...외국인 1000억 매도",
+      "display_title": "[속보] 나스닥 신고가에도 코스피 주춤...외국인 1000억 매도",
+      "original_title": "[속보]나스닥 신고가인데 코스피는 ‘주춤’…외국인 1000억 팔았다 - 이데일리TV",
       "summary": [
-        "유가와 채권 수익률 하락, 그리고 AI 관련 주식들의 강세에 힘입어 S&P 500 지수가 상승했다.",
-        "유가 및 채권 수익률 하락은 시장 전반의 긴축 우려를 완화하고, AI 테마는 지속적으로 시장을 주도하는 성장 동력으로 작용한다.",
-        "금리 인하 기대감과 AI 성장 모멘텀이 결합될 경우 기술주 중심의 시장 강세가 다시 나타날 수 있다."
+        "나스닥의 신고가에도 불구하고 코스피는 주춤했으며, 외국인 투자자들이 1000억 원 규모의 순매도를 기록했습니다.",
+        "글로벌 증시의 긍정적 흐름과 달리 국내 증시는 외국인 수급의 영향을 크게 받으며 차별화된 모습을 보이고 있습니다.",
+        "외국인의 매도세가 지속될 경우 국내 증시 전반에 걸쳐 하방 압력이 가해질 수 있으므로, 외국인 수급 동향에 대한 면밀한 관찰이 필수적입니다."
       ],
-      "summary_text": "유가와 채권 수익률 하락, 그리고 AI 관련 주식들의 강세에 힘입어 S&P 500 지수가 상승했다. 유가 및 채권 수익률 하락은 시장 전반의 긴축 우려를 완화하고, AI 테마는 지속적으로 시장을 주도하는 성장 동력으로 작용한다. 금리 인하 기대감과 AI 성장 모멘텀이 결합될 경우 기술주 중심의 시장 강세가 다시 나타날 수 있다.",
-      "description": "유가와 채권 수익률이 하락하고 AI 관련 주식들이 상승하면서 S&P 500 지수가 상승했다.",
+      "summary_text": "나스닥의 신고가에도 불구하고 코스피는 주춤했으며, 외국인 투자자들이 1000억 원 규모의 순매도를 기록했습니다. 글로벌 증시의 긍정적 흐름과 달리 국내 증시는 외국인 수급의 영향을 크게 받으며 차별화된 모습을 보이고 있습니다. 외국인의 매도세가 지속될 경우 국내 증시 전반에 걸쳐 하방 압력이 가해질 수 있으므로, 외국인 수급 동향에 대한 면밀한 관찰이 필수적입니다.",
+      "description": "미국 나스닥 지수가 사상 최고가를 기록했지만, 국내 코스피는 주춤하는 모습을 보였으며 외국인 투자자들이 1000억 원 이상 순매도했습니다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "AI, 반도체, 기술주",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "전 업종",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "유가와 금리 하락이 증시에 긍정적이며, 특히 AI 관련주의 지속적인 강세는 투자 기회를 제공하기 때문이다.",
-      "key_signal": "유가 및 채권 수익률의 추가 하락 여부와 AI 관련 기업들의 실적 발표 및 신기술 개발 동향을 주시해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "나스닥의 강세에도 불구하고 국내 증시가 외국인 매도로 주춤하는 것은 추가적인 하락 압력을 암시할 수 있기 때문입니다.",
+      "key_signal": "외국인 투자자의 매도 규모가 확대될지, 혹은 매도세가 진정되고 순매수로 전환될지 여부가 시장의 중요한 변곡점이 될 것입니다.",
       "keywords": [
-        "S&P 500",
-        "유가 하락",
-        "채권 수익률",
-        "AI 주식",
-        "기술 성장주"
+        "나스닥",
+        "코스피",
+        "외국인매도",
+        "수급",
+        "디커플링"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHp4eExjcFVLMF9XbndXN0hNYnN4UWlrbUNjV1BBekh4NXRDQjFocFI1ZE44Zl9qekhpWFRvS2RpcGU5ZzRXR245dlpqcElFVTF3TkFmUXJ6bG1IVWxpa29XMzdSWWoxNHlIeXBYMXlNS00yTHhLRTFqTzN1ODNiQTAwMTJJdWU4SHpKbThsTE52U2VBa2pSNWJfZFlMZ2FwU25fZE00TkVkcEE2aTlQTWppa085dw?oc=5",
-      "published": "2026-10-05 05:22",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1NTB3MTlqQVAyWXZoTjk2aGstX3Z5U0taUmVpWERGcHNiX3g4Ym1VdkxmWUQ1cjJrd2ZJYTBidTE0b3dIdEYwei1UcnctelB6dTlJaWJNUXRJclR3YTRLWWFkalNNOTdhM1FaeWNabFRKY3Rya04wSmE3VQ?oc=5",
+      "published": "2026-10-06 09:02",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -196,37 +194,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "전고체 상용화 기대에 배터리 ETF '쑥'…주간 수익률 1위",
-      "display_title": "전고체 상용화 기대에 배터리 ETF '쑥'…주간 수익률 1위",
-      "original_title": "전고체 상용화 기대에 배터리 ETF '쑥'…주간 수익률 1위 - 시장경제신문",
+      "title": "코스피, 외국인 매도에 7000선 공방...코스닥은 2% 강세",
+      "display_title": "코스피, 외국인 매도에 7000선 공방...코스닥은 2% 강세",
+      "original_title": "코스피, 외국인 매도에 7000선 공방···코스닥은 2% 강세 - 스마트비즈",
       "summary": [
-        "전고체 배터리 기술 상용화에 대한 기대감이 높아지면서 관련 배터리 ETF가 지난주 국내 시장에서 최고 수익률을 기록했다.",
-        "전고체 배터리는 기존 리튬이온 배터리의 단점을 보완할 차세대 기술로 주목받고 있으며, 기술 발전 기대감이 투자 심리를 자극했다.",
-        "전고체 배터리 관련 기술 개발 동향과 실제 상용화 시기를 주시하며, 관련 기업 및 ETF에 대한 투자 기회를 모색할 수 있다."
+        "코스피는 외국인 매도로 7000선 공방을 벌였으나, 코스닥은 2% 이상 강세를 보였습니다.",
+        "미국 증시의 기술주 강세에도 불구하고 국내 증시는 외국인 수급에 따라 다른 양상을 보이며 차별화된 흐름을 연출하고 있습니다.",
+        "외국인 매도세가 지속될 경우 코스피 대형주에 대한 접근은 주의가 필요하며, 코스닥 중소형 성장주에 대한 관심은 유지될 수 있습니다."
       ],
-      "summary_text": "전고체 배터리 기술 상용화에 대한 기대감이 높아지면서 관련 배터리 ETF가 지난주 국내 시장에서 최고 수익률을 기록했다. 전고체 배터리는 기존 리튬이온 배터리의 단점을 보완할 차세대 기술로 주목받고 있으며, 기술 발전 기대감이 투자 심리를 자극했다. 전고체 배터리 관련 기술 개발 동향과 실제 상용화 시기를 주시하며, 관련 기업 및 ETF에 대한 투자 기회를 모색할 수 있다.",
-      "description": "전고체 배터리 상용화에 대한 기대감이 커지면서 배터리 관련 상장지수펀드(ETF)가 주간 수익률 1위를 기록하며 크게 상승했다.",
-      "category": "기업·산업",
+      "summary_text": "코스피는 외국인 매도로 7000선 공방을 벌였으나, 코스닥은 2% 이상 강세를 보였습니다. 미국 증시의 기술주 강세에도 불구하고 국내 증시는 외국인 수급에 따라 다른 양상을 보이며 차별화된 흐름을 연출하고 있습니다. 외국인 매도세가 지속될 경우 코스피 대형주에 대한 접근은 주의가 필요하며, 코스닥 중소형 성장주에 대한 관심은 유지될 수 있습니다.",
+      "description": "외국인 투자자 매도세로 코스피가 7000선에서 등락을 거듭하는 가운데, 코스닥은 2%대 강세를 보였습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "2차전지, 전기차",
+      "market_impact": "중립",
+      "related_sector": "반도체, IT, 2차전지",
       "related_stocks": [
-        "삼성SDI",
-        "LG에너지솔루션",
-        "에코프로비엠"
+        "에코프로비엠",
+        "HLB"
       ],
-      "investment_view": "관심",
-      "investment_reason": "전고체 배터리는 2차전지 산업의 게임 체인저가 될 수 있는 기술로, 관련 기업의 성장 가능성이 매우 높기 때문이다.",
-      "key_signal": "전고체 배터리 기술 개발의 구체적인 진전 상황과 상용화 로드맵 발표 여부, 그리고 주요 기업들의 투자 계획을 면밀히 살펴야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "외국인 매도세로 인한 코스피의 불확실성이 존재하는 반면, 코스닥은 강세를 보여 섹터별 차별화된 접근이 필요합니다.",
+      "key_signal": "외국인 투자자의 수급 동향과 코스피 대형주의 향방, 그리고 코스닥 시장의 성장주 모멘텀 지속 여부를 주시해야 합니다.",
       "keywords": [
-        "전고체 배터리",
-        "2차전지",
-        "배터리 ETF",
-        "상용화",
-        "전기차"
+        "코스피",
+        "코스닥",
+        "외국인매도",
+        "7000선",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlcm5ZTG8tYVdZTThvcVEyME4yd0NzRW54OVdjTVRCSkNaYm1BRjg4MzB4TmZORGp6bEN5MU54Q0lLYmpIZHVKQlNUcWZ0dmU2TUdNR05BRDdZRG1ISE8yTlc2WnF2LTZaeEVORnpXR2o?oc=5",
-      "published": "2026-10-05 09:00",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10SzVqdjZtVDdrTDZ2ZkI1MmEwQXdjUldxWXZUR2VDWElGZGd3Uk1hczZ1bnhacm1kR0VkMk5hNzBmeVpKNUpDTUFIeXFXXzFiVTBBV0dVZU5zYXpEb2lVNDA3MU9WMnp0Y2c4Vw?oc=5",
+      "published": "2026-10-06 09:45",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -238,37 +235,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스닥 지난달 최악 수익률은 제약…금리·반도체 쏠림에 직격탄",
-      "display_title": "코스닥 지난달 최악 수익률은 제약…금리·반도체 쏠림에 직격탄",
-      "original_title": "코스닥 지난달 최악 수익률은 제약…금리·반도체 쏠림에 직격탄 - 매일경제 마켓",
+      "title": "\"10월 코스피 6,400∼7,600 예상...유동성 위축·금리 반락 기대\"",
+      "display_title": "\"10월 코스피 6,400∼7,600 예상...유동성 위축·금리 반락 기대\"",
+      "original_title": "\"10월 코스피 6,400∼7,600 예상…유동성 위축·금리 반락 기대\" - 연합뉴스",
       "summary": [
-        "지난달 코스닥 시장에서 제약 바이오 업종이 금리 인상과 반도체 쏠림 현상으로 인해 가장 부진한 수익률을 기록했다.",
-        "고금리 환경은 미래 가치에 대한 할인을 크게 하여 성장주인 제약 바이오에 불리하며, 반도체 업종의 강세는 다른 섹터의 자금 이탈을 유도했다.",
-        "금리 환경과 시장의 주도 업종 변화에 따라 섹터별 투자 전략을 조정할 필요가 있으며, 제약 바이오 업종은 투자 심리가 위축될 수 있다."
+        "10월 코스피 예상 밴드가 6,400~7,600으로 제시되었으며, 유동성 위축과 금리 반락 기대가 주요 변수로 언급되었습니다.",
+        "높은 변동성 속에서 시장의 불확실성을 반영하는 넓은 밴드이지만, 금리 인하 기대감이 투자 심리에 긍정적 요인으로 작용할 수 있습니다.",
+        "지수 전체의 큰 변동성보다는 금리 변동에 민감한 업종이나 유동성 위축 상황에서 비교적 안정적인 실적을 낼 수 있는 기업에 주목하는 전략이 필요합니다."
       ],
-      "summary_text": "지난달 코스닥 시장에서 제약 바이오 업종이 금리 인상과 반도체 쏠림 현상으로 인해 가장 부진한 수익률을 기록했다. 고금리 환경은 미래 가치에 대한 할인을 크게 하여 성장주인 제약 바이오에 불리하며, 반도체 업종의 강세는 다른 섹터의 자금 이탈을 유도했다. 금리 환경과 시장의 주도 업종 변화에 따라 섹터별 투자 전략을 조정할 필요가 있으며, 제약 바이오 업종은 투자 심리가 위축될 수 있다.",
-      "description": "지난달 코스닥 시장에서 제약 업종이 최악의 수익률을 기록했으며, 이는 고금리 환경과 반도체 업종으로의 쏠림 현상에 직접적인 타격을 입었기 때문이다.",
+      "summary_text": "10월 코스피 예상 밴드가 6,400~7,600으로 제시되었으며, 유동성 위축과 금리 반락 기대가 주요 변수로 언급되었습니다. 높은 변동성 속에서 시장의 불확실성을 반영하는 넓은 밴드이지만, 금리 인하 기대감이 투자 심리에 긍정적 요인으로 작용할 수 있습니다. 지수 전체의 큰 변동성보다는 금리 변동에 민감한 업종이나 유동성 위축 상황에서 비교적 안정적인 실적을 낼 수 있는 기업에 주목하는 전략이 필요합니다.",
+      "description": "시장 전문가들은 10월 코스피 예상 범위를 6,400에서 7,600으로 제시하며, 유동성 위축과 금리 반락 가능성을 언급했습니다.",
       "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "부정",
-      "related_sector": "제약·바이오, 반도체",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "금융, 성장주, 경기민감주",
       "related_stocks": [
-        "셀트리온",
-        "HLB",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "고금리 환경과 특정 업종 쏠림 현상이 국내 증시 섹터별 수익률에 미치는 영향을 파악하고 투자 포트폴리오를 조정하는 데 필요하다.",
-      "key_signal": "금리 인상 기조의 변화와 반도체 업종의 과열 여부를 주시하며, 제약 바이오 업종의 반등 가능성을 탐색해야 한다.",
+      "investment_view": "중립",
+      "investment_reason": "넓은 지수 예상 범위는 시장의 불확실성을 나타내므로, 금리 및 유동성 동향에 대한 지속적인 모니터링이 필요합니다.",
+      "key_signal": "10월 중 금리 인하에 대한 시장의 기대감이 어떻게 반영될지, 그리고 실제 유동성 흐름에 어떤 변화가 생길지 주목해야 합니다.",
       "keywords": [
-        "코스닥",
-        "제약 바이오",
-        "금리 인상",
-        "반도체 쏠림",
-        "섹터 로테이션"
+        "코스피",
+        "10월전망",
+        "유동성",
+        "금리",
+        "변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90ajhlUTVjSHRsczYxOE5FTFVZMGpqU1d5ejdUNDBuRHpQNFZ1YktEQmF4NDJGUlZpbGNDZU14ZTQ0RVpKbEl0c2Iwb2duVEdELWc?oc=5",
-      "published": "2026-10-05 06:20",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PaHlxVzc1cDU5QWNxS2FZbXU0dzNCemc4dTlOdjhMb056czh3WjhJNUtYMEIxckJ2V1JkdXlqRjRBYVBWUVBYdjVoNmVFSE1GNHdhX2xJRGFseUxleUJmYdIBYEFVX3lxTE1PaHlxVzc1cDU5QWNxS2FZbXU0dzNCemc4dTlOdjhMb056czh3WjhJNUtYMEIxckJ2V1JkdXlqRjRBYVBWUVBYdjVoNmVFSE1GNHdhX2xJRGFseUxleUJmYQ?oc=5",
+      "published": "2026-10-06 08:23",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -283,14 +280,15 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 고용 지표 둔화로 인한 연준의 금리 인상 기대 완화 소식과 AI 및 반도체 관련주의 강세가 긍정적인 투자 기회를 제공할 것으로 예상됩니다.",
+      "reason": "나스닥의 사상 최고치 경신 및 미국 기술주 강세가 국내 반도체 대형주에 대한 투자 심리를 견인할 수 있으며, 증권사에서도 10월 유망 섹터로 반도체에 주목했습니다.",
       "check_points": [
-        "글로벌 금리 인하 정책 방향",
-        "AI 반도체 수요 및 재고 동향"
+        "글로벌 반도체 업황 개선 여부",
+        "외국인 및 기관 수급 동향"
       ],
       "related_news_titles": [
-        "미국 주식 선물 상승, 고용 지표 둔화로 연준 금리 인상 기대 완화",
-        "S&P 500 전망: 유가 및 수익률 하락, AI 주식 상승으로 지수 상승"
+        "나스닥, 기업 실적 기대감 속 사상 최고치 마감",
+        "기술주 주도로 나스닥 사상 최고치 경신",
+        "\"코스피 7600까지 가능하나 급등은 어려워\"...한투증권, 10월 반도체·2차전지 주목"
       ]
     },
     {
@@ -299,43 +297,45 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "유가 및 국채 수익률 하락이 증시에 긍정적으로 작용하며, 특히 AI 관련주의 지속적인 강세가 반도체 업황 개선 기대감과 함께 투자 기회를 제공합니다.",
+      "reason": "미국 기술주 강세 분위기 속 국내 반도체 업종에 대한 긍정적 시각이 유지되며, 증권사 추천 섹터에 포함되어 있어 시장의 주목을 받을 수 있습니다.",
       "check_points": [
-        "AI 반도체(HBM) 시장 경쟁 심화 여부",
-        "전방 IT 산업의 메모리 수요 회복 시점"
+        "글로벌 메모리 반도체 가격 동향",
+        "주요 고객사 수요 변화"
       ],
       "related_news_titles": [
-        "S&P 500 전망: 유가 및 수익률 하락, AI 주식 상승으로 지수 상승"
+        "나스닥, 기업 실적 기대감 속 사상 최고치 마감",
+        "기술주 주도로 나스닥 사상 최고치 경신",
+        "\"코스피 7600까지 가능하나 급등은 어려워\"...한투증권, 10월 반도체·2차전지 주목"
       ]
     },
     {
       "rank": 3,
-      "name": "삼성SDI",
+      "name": "카카오",
       "market": "KOSPI",
-      "sector": "2차전지",
+      "sector": "IT, 소프트웨어",
       "opinion": "관심",
-      "reason": "전고체 배터리는 2차전지 산업의 판도를 바꿀 수 있는 핵심 기술로, 상용화 기대감이 커지면서 관련 기업들의 성장 가능성이 매우 높게 평가됩니다.",
+      "reason": "나스닥 기술주 강세가 국내 IT 및 소프트웨어 관련 성장주에 대한 투자 심리 개선으로 이어질 가능성이 높기 때문입니다.",
       "check_points": [
-        "전고체 배터리 기술 개발 및 양산 로드맵",
-        "글로벌 전기차 시장 성장률 및 배터리 수요"
+        "미국 기술주 전반의 흐름",
+        "플랫폼 사업 실적 개선 및 신사업 모멘텀"
       ],
       "related_news_titles": [
-        "전고체 상용화 기대에 배터리 ETF '쑥'…주간 수익률 1위"
+        "기술주 주도로 나스닥 사상 최고치 경신"
       ]
     },
     {
       "rank": 4,
-      "name": "NAVER",
+      "name": "LG에너지솔루션",
       "market": "KOSPI",
-      "sector": "기술주",
+      "sector": "2차전지",
       "opinion": "관심",
-      "reason": "미국의 고용 지표 둔화가 연준의 금리 인상 기대감을 완화시키며, 이는 국내 기술주 전반에 긍정적인 투자 심리를 형성할 것으로 기대됩니다.",
+      "reason": "증권사에서 10월 유망 섹터로 2차전지를 지목하며, 업황 개선 및 성장 기대감이 형성될 수 있습니다.",
       "check_points": [
-        "글로벌 금리 인하 기조의 구체화",
-        "핵심 플랫폼 사업 및 신사업(AI 등) 성장 전략"
+        "글로벌 전기차 시장 성장률",
+        "배터리 원자재 가격 변동성"
       ],
       "related_news_titles": [
-        "미국 주식 선물 상승, 고용 지표 둔화로 연준 금리 인상 기대 완화"
+        "\"코스피 7600까지 가능하나 급등은 어려워\"...한투증권, 10월 반도체·2차전지 주목"
       ]
     }
   ],
