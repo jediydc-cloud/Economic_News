@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07 10:14",
-  "analysis_date": "2026-10-07",
+  "generated_at": "2026-10-08 10:35",
+  "analysis_date": "2026-10-08",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "해외 증시는 AI 반도체 랠리와 기업 실적 기대감으로 사상 최고치를 경신했습니다. 국내 증시는 업종 순환매 속 삼성전자 실적에 집중하며, 고금리 환경의 국내 경제 영향을 주시해야 합니다.",
-    "국내거시경제": "한국은 높은 가계부채와 부동산 시장 취약성 등으로 고금리 환경에 더 빨리, 더 큰 부정적 영향을 받을 수 있습니다. 고금리 장기화 시 내수 위축 및 기업 투자 감소 가능성에 대비해야 합니다.",
-    "글로벌경제": "AI 반도체 기업 랠리가 S&P 500과 나스닥 사상 최고치를 견인했습니다. AI 기술 및 산업 성장에 대한 기대감이 시장을 주도하며, 향후 기업 실적 발표가 증시 방향성을 결정할 주요 변수입니다.",
-    "증시금리": "미국 S&P 500과 나스닥은 AI 랠리 및 실적 기대감에 힘입어 최고치를 기록했습니다. 국내 증시는 업종 순환매 장세가 전망되며, 10월 코스피는 지수보다 업종별 대응이 중요합니다. 삼성전자 실적은 국내외 증시의 핵심 지표입니다.",
-    "부동산정책": "해당 없음",
-    "기업산업": "AI 반도체 기업들의 성장 모멘텀이 당분간 지속될 가능성이 높습니다. 삼성전자의 3분기 이익은 급증 전망이지만, 반도체 마진율 정체 우려가 있습니다. 고부가 반도체(HBM)의 마진 개선 여부가 향후 주가에 중요하게 작용할 것입니다.",
-    "오늘의투자시사점": "글로벌 AI 관련 기술주 및 반도체 섹터의 지속적인 성장에 주목해야 합니다. 국내 증시에서는 삼성전자 실적 발표를 통해 시장 방향성을 파악하고, 업종 순환매에 맞춰 주도 업종을 선별하는 전략이 유효합니다. 또한, 국내 고금리 장기화에 따른 경제적 리스크를 염두에 두어야 합니다.",
-    "오늘의한줄": "글로벌 AI 랠리와 기업 실적 기대감 속, 국내 증시는 업종 순환매와 삼성전자 실적, 고금리 영향을 주시해야 합니다."
+    "총평": "글로벌 고금리 기조와 신흥 시장 자금 유출 우려가 증시 하방 압력으로 작용하는 가운데, 국내 주요 기업의 견조한 실적 발표는 시장에 긍정적 요인으로 작용하고 있습니다.",
+    "국내거시경제": "글로벌 금리 상승 압력으로 국내 시장의 금리 부담이 가중되며 전반적인 투자 심리가 위축되는 모습입니다.",
+    "글로벌경제": "미국 연준의 매파적 기조와 인플레이션 지속으로 연말 추가 금리 인상 가능성이 시사되며, 9월 한 달간 신흥 시장에서 263억 달러의 외국인 자금이 유출되었습니다.",
+    "증시금리": "미국 국채 수익률 급등 여파로 S&P 500 및 나스닥 100 지수가 하락했으며, 국내 코스피와 코스닥도 금리 부담 속에 동반 하락 출발했습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "삼성전자가 3분기 영업이익 107조 원을 돌파하며 역대 최고 실적을 달성, 반도체 업황 회복과 AI 수요 증가가 실적을 견인했습니다.",
+    "오늘의투자시사점": "글로벌 고금리 및 자금 이탈 압력으로 시장 변동성은 확대될 수 있으나, 삼성전자 등 국내 대표 기업의 실적 개선은 특정 섹터에 긍정적 모멘텀을 제공합니다. 금리 동향을 주시하며 실적 기반의 선별적 투자 전략이 필요합니다.",
+    "오늘의한줄": "글로벌 고금리 압박과 국내 기업의 호실적이라는 상반된 재료가 공존하며 시장의 변동성이 확대될 전망입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "AI 반도체 기업 랠리 후 S&P 500 및 나스닥 사상 최고치 급등",
-      "display_title": "AI 반도체 기업 랠리 후 S&P 500 및 나스닥 사상 최고치 급등",
-      "original_title": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally - The Guardian",
+      "title": "매파적 연준과 미국 국채 강세에 9월 신흥 시장에서 외국인 투자자 263억 달러 유출",
+      "display_title": "매파적 연준과 미국 국채 강세에 9월 신흥 시장에서 외국인 투자자 263억 달러 유출",
+      "original_title": "Foreign investors pull out $26.3 billion from emerging markets in September as hawkish Fed pushes US Treas - The Economic Times",
       "summary": [
-        "AI 반도체 기업들의 강력한 랠리가 S&P 500과 나스닥의 사상 최고치 경신을 이끌었습니다.",
-        "인공지능(AI) 관련 기술 및 산업 성장에 대한 기대감이 시장을 주도하는 핵심 동력으로 작용하고 있습니다.",
-        "이는 AI 관련 기술주 및 반도체 섹터의 성장 모멘텀이 당분간 지속될 가능성이 높음을 시사합니다."
+        "9월 한 달간 신흥 시장에서 263억 달러(약 35조 7천억 원) 규모의 외국인 자금이 유출되었다.",
+        "매파적인 연준의 통화 정책과 미국 국채 수익률 상승으로 인해 달러 강세가 지속되며 신흥 시장 매력이 감소했기 때문이다.",
+        "한국을 포함한 신흥 시장 전반에 대한 외국인 투자 심리 위축이 국내 증시에 부정적인 영향을 미칠 수 있다."
       ],
-      "summary_text": "AI 반도체 기업들의 강력한 랠리가 S&P 500과 나스닥의 사상 최고치 경신을 이끌었습니다. 인공지능(AI) 관련 기술 및 산업 성장에 대한 기대감이 시장을 주도하는 핵심 동력으로 작용하고 있습니다. 이는 AI 관련 기술주 및 반도체 섹터의 성장 모멘텀이 당분간 지속될 가능성이 높음을 시사합니다.",
-      "description": "AI 반도체 기업들의 강세 랠리 이후 S&P 500과 나스닥 지수가 사상 최고치를 경신하며 급등했습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 인공지능, 기술주",
+      "summary_text": "9월 한 달간 신흥 시장에서 263억 달러(약 35조 7천억 원) 규모의 외국인 자금이 유출되었다. 매파적인 연준의 통화 정책과 미국 국채 수익률 상승으로 인해 달러 강세가 지속되며 신흥 시장 매력이 감소했기 때문이다. 한국을 포함한 신흥 시장 전반에 대한 외국인 투자 심리 위축이 국내 증시에 부정적인 영향을 미칠 수 있다.",
+      "description": "연방준비제도(Fed)의 매파적 기조와 미국 국채 강세로 인해 9월 한 달간 신흥 시장에서 263억 달러의 외국인 자금이 유출되었다.",
+      "category": "글로벌 경제",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "전반적인 시장, 금융",
       "related_stocks": [
-        "엔비디아",
-        "AMD",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 반도체 랠리는 글로벌 기술 산업의 핵심 동력이며, 국내 반도체 기업에도 직접적인 수혜를 줄 수 있기 때문입니다.",
-      "key_signal": "AI 반도체 관련 기업들의 실적과 신기술 발표 동향, 그리고 관련 산업 투자 계획을 지속적으로 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "외국인 자금 유출은 국내 증시의 주요 수급 악화 요인으로 작용하여 주가 하락 압력을 가중시킬 수 있기 때문이다.",
+      "key_signal": "외국인 투자자들의 국내 증시 순매도 추세가 지속될지 여부와 달러 인덱스 움직임을 주시해야 한다.",
       "keywords": [
-        "AI 반도체",
-        "S&P 500",
-        "나스닥",
-        "기술주",
-        "엔비디아"
+        "외국인투자",
+        "신흥시장",
+        "자금유출",
+        "연준",
+        "금리인상"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmNydTJJRjhlaHZkMm1FYXBxeTNkcXRnLTA1S2YtNWhicmVhc2txU3pfb0p4NmFfVzRRQUdaRVhaUXROMy15a2VSOWZVV3oyTTF3TWZ4MEg3dkJOcTRBUzBIdEJJcXZMeWdBR0FsMHY1UldtTnV5bVRuWDBhQU16WXlkbmtpVzdCWDl3?oc=5",
-      "published": "2026-10-07 05:38",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdUpYVlZjc3FWN2E5YV9oU2dfaHN0YVFhXzFQQTNTcjViSlozSjlxVmdTcVhCQkhaQmg3amppTTY0amxxMVV0T2FCLTkxdEx1WmlqSHlIZDM0YUFyb2pTY2dhVGFrcnNRaHQwYVdENlVDZWNrY1JUSk1sN0ZYM2NSWnNwS183X3pQekwteUJBV2UtV0cxdXZEb29nTzdOUWdmY1FRUk1YVVozUUZTS1NnRi02azJkU2VOUDQ4UGdlNkxud05yS0hXUUozMWd4YUdpWHVVMlVPTGo3Qm9PWFVtazVDdWViTVNLWTVTMnlsUzlnYWI1Z3JlNGE1cExxZE10ZnVpN0oyY1d5eWtzd1VxemQ2YlQwdzhRZkxnXzFzYnBKaEhoeEhXSlRsSkRNNUNTUHBDN2Nha9IBvAJBVV95cUxQZmRWVDMxYnBxU3BMSGQyMkhfeS1XX01yRDRxU0JHQWVTaFVRTFV5TTFQNndhSVE2SS1pYVZYNnR5VUl1dU9LeElvRUtsWVl1bm0wMVpMdEZDalgxMXRYUnFzWGE5N0x0bWttNHl6V1BzeW1kc0pLNTI1cVZ2Y09oTVR3dzhOMG5PSzZ6TEd5R2xTamEzUnlzR1M0ZkdmQ0o2MXNiN2JtQU5wVXNPQzRiRi12SjFRXzUwUDlJUTF3SGhYeE1Bd3JWWTZaMkRxOS01T2cwQWdPWVhzeGhHSk52WU43LW4tRGNJOXhDOUpfWkFOTDBWTFZFWDU5WENZZ2lFcVNFUUhFeS03ckZBWjdudGRqdFp0ZEhTSDd4MlRabUlQR1NER1lJTXcyVkZFUGZIcjBXeFlCaW9pRUxE?oc=5",
+      "published": "2026-10-08 03:26",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -67,164 +67,81 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "삼성전자 3분기 이익 9배 급증 전망, 그러나 반도체 마진은 정체될 수도",
-      "display_title": "삼성전자 3분기 이익 9배 급증 전망, 그러나 반도체 마진은 정체될 수도",
-      "original_title": "Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat - electronics.economictimes.indiatimes.com",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피, 금리 부담 속 6780선 하락 출발…코스닥도 1%대 하락",
+      "display_title": "코스피, 금리 부담 속 6780선 하락 출발…코스닥도 1%대 하락",
+      "original_title": "코스피, 금리 부담 속 6780선 하락 출발…코스닥도 1%대 하락 - 강원도민일보",
       "summary": [
-        "삼성전자의 3분기 전체 이익은 전년 대비 9배 급증할 것으로 전망되지만, 핵심인 반도체 부문 마진율은 보합세를 유지할 수 있습니다.",
-        "메모리 반도체 업황 회복이 이익 개선을 이끌지만, 가격 경쟁 심화 등으로 마진 회복은 제한적일 수 있다는 분석입니다.",
-        "이익의 양적 성장과 더불어 질적 측면, 특히 고부가 반도체(HBM 등)의 마진 개선 여부가 향후 주가에 중요하게 작용할 것입니다."
+        "국내 코스피 지수가 6780선으로 하락 출발했으며, 코스닥 지수도 1%대 하락을 보였다.",
+        "미국 국채 금리 급등과 그에 따른 미국 증시 하락의 영향으로 국내 시장의 금리 부담이 가중된 결과이다.",
+        "글로벌 고금리 환경이 국내 증시에도 직접적인 하방 압력으로 작용하며 투자 심리가 위축될 수 있다."
       ],
-      "summary_text": "삼성전자의 3분기 전체 이익은 전년 대비 9배 급증할 것으로 전망되지만, 핵심인 반도체 부문 마진율은 보합세를 유지할 수 있습니다. 메모리 반도체 업황 회복이 이익 개선을 이끌지만, 가격 경쟁 심화 등으로 마진 회복은 제한적일 수 있다는 분석입니다. 이익의 양적 성장과 더불어 질적 측면, 특히 고부가 반도체(HBM 등)의 마진 개선 여부가 향후 주가에 중요하게 작용할 것입니다.",
-      "description": "삼성전자의 3분기 이익이 9배 급증할 것으로 예상되지만, 반도체 부문 마진은 정체될 가능성이 있습니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, 전자제품",
+      "summary_text": "국내 코스피 지수가 6780선으로 하락 출발했으며, 코스닥 지수도 1%대 하락을 보였다. 미국 국채 금리 급등과 그에 따른 미국 증시 하락의 영향으로 국내 시장의 금리 부담이 가중된 결과이다. 글로벌 고금리 환경이 국내 증시에도 직접적인 하방 압력으로 작용하며 투자 심리가 위축될 수 있다.",
+      "description": "코스피 지수가 금리 부담 속에서 6780선으로 하락 출발했으며, 코스닥 지수도 1%대 하락을 기록했다.",
+      "category": "증시·금리",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "전반적인 시장",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "삼성전자의 실적은 국내 증시에 큰 영향을 미치며, 특히 반도체 업황 회복과 마진율 개선 여부는 핵심 투자 포인트이기 때문입니다.",
-      "key_signal": "삼성전자 실적 발표 시 매출 구성과 부문별 이익, 특히 메모리 반도체(D램, 낸드) 및 파운드리 마진율 변화를 집중적으로 살펴야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 증시의 하락 출발은 전반적인 투자 위험 신호이며, 특히 금리 민감 섹터에 대한 주의가 필요하다.",
+      "key_signal": "외국인 및 기관 투자자들의 순매도 규모와 원/달러 환율의 움직임을 면밀히 관찰해야 한다.",
       "keywords": [
-        "삼성전자",
-        "3분기 실적",
-        "반도체 마진",
-        "메모리 반도체",
-        "업황 회복"
+        "코스피",
+        "코스닥",
+        "국내증시",
+        "금리부담",
+        "환율"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcEFmYlJXT0xGRllHZ29NaTdDMm1NdXM3ay14QjhfVEE1LXZaYmVuc1FYVmIxUy1PMkw1VkF0dDU1a2dTd2gyNGN5VE02WUlhbFFLeXh1dVpPQkNVTmtNTDFPUkh3UzJacGdYQTRkcXd5emFvSkVhdzFMZ3ZnSzJMR1FjUWYwSDRTSFNVSjJNaGZycEFxQ0tpckltMExIajlydjlZV2VwWTEzRno2eS1iQWRCYkQzSFBnZWNVUkZ0YzhITmg0clNxdi1vRzNaWFMwbjdvMWtodmQ0NldMMUJBMVZGMA?oc=5",
-      "published": "2026-10-07 09:23",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFalhzWE1WX1p5S3dldUNVTGxiRDd1cm9oQ3pFLVlXbC1OQWlTaEZ4akFHb1FPeDZlY0t3ek9zcHNwbElxanZFUXc3R0c3WXRjaThmQ3lRVzBrUXlxM3VSQVh2cnAtRm8?oc=5",
+      "published": "2026-10-08 09:29",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[굿모닝 증시] 국내 증시, 업종 순환매 장세 전망…전 세계가 주목하는 삼성전자 실적",
-      "display_title": "[굿모닝 증시] 국내 증시, 업종 순환매 장세 전망…전 세계가 주목하는 삼성전자 실적",
-      "original_title": "[굿모닝 증시]국내증시, 업종 순환매 장세 전망…전세계가 주목하는 삼전 실적 - 아시아경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "삼성전자 3분기 잠정 실적 미리보기: 시장, 사상 최고 100조원 이익 전망, 메모리 마진 80% 상회 가능성",
+      "display_title": "삼성전자 3분기 잠정 실적 미리보기: 시장, 사상 최고 100조원 이익 전망, 메모리 마진 80% 상회 가능성",
+      "original_title": "[News] Samsung 3Q Preliminary Results Preview: Market Sees Historic KRW 100T Profit, Memory Margin Could Top 80% - TrendForce",
       "summary": [
-        "국내 증시는 업종별 순환매 장세를 보일 것으로 예상되며, 특히 삼성전자 실적에 글로벌 관심이 집중됩니다.",
-        "삼성전자 실적은 국내 증시뿐 아니라 글로벌 반도체 업황의 가늠자 역할을 하며, 시장 전반의 투자심리에 영향을 미칩니다.",
-        "삼성전자 실적 발표가 국내 증시의 방향성을 결정하는 중요한 변수가 될 것이므로, 관련 업종 및 종목의 투자 전략을 세워야 합니다."
+        "삼성전자의 3분기 잠정 실적이 역대 최고치인 100조 원 이상을 기록하고, 메모리 부문 마진이 80%를 상회할 것이라는 전망이 나왔다.",
+        "글로벌 메모리 반도체 시장의 회복과 인공지능(AI) 수요 증가가 실적 개선의 주요 요인으로 분석된다.",
+        "삼성전자의 호실적은 국내 증시 전반의 투자 심리 개선과 반도체 관련 섹터에 긍정적인 영향을 줄 수 있다."
       ],
-      "summary_text": "국내 증시는 업종별 순환매 장세를 보일 것으로 예상되며, 특히 삼성전자 실적에 글로벌 관심이 집중됩니다. 삼성전자 실적은 국내 증시뿐 아니라 글로벌 반도체 업황의 가늠자 역할을 하며, 시장 전반의 투자심리에 영향을 미칩니다. 삼성전자 실적 발표가 국내 증시의 방향성을 결정하는 중요한 변수가 될 것이므로, 관련 업종 및 종목의 투자 전략을 세워야 합니다.",
-      "description": "국내 증시가 업종 순환매 장세를 보일 것으로 전망되며, 전 세계의 관심이 삼성전자의 실적 발표에 집중되고 있습니다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT, 전자제품",
+      "summary_text": "삼성전자의 3분기 잠정 실적이 역대 최고치인 100조 원 이상을 기록하고, 메모리 부문 마진이 80%를 상회할 것이라는 전망이 나왔다. 글로벌 메모리 반도체 시장의 회복과 인공지능(AI) 수요 증가가 실적 개선의 주요 요인으로 분석된다. 삼성전자의 호실적은 국내 증시 전반의 투자 심리 개선과 반도체 관련 섹터에 긍정적인 영향을 줄 수 있다.",
+      "description": "삼성전자의 3분기 잠정 실적 미리보기 결과, 시장은 사상 최고치인 100조 원의 이익을 전망하며, 메모리 부문 마진이 80%를 넘어설 가능성을 보고 있다.",
+      "category": "기업·산업",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT하드웨어",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "국내 증시의 핵심인 삼성전자 실적은 시장 전반에 큰 영향을 미치며, 업종 순환매 속에서 주도 업종을 판단하는 중요한 기준이 될 수 있습니다.",
-      "key_signal": "삼성전자 실적 발표 내용과 더불어 향후 가이던스, 그리고 AI 반도체 등 고부가 제품의 성과를 집중적으로 확인해야 합니다.",
+      "investment_reason": "삼성전자의 실적은 국내 증시의 향방을 좌우하는 핵심 요소이며, 특히 반도체 업황 개선의 신호로 해석될 수 있기 때문이다.",
+      "key_signal": "삼성전자 잠정 실적 발표 후 컨퍼런스 콜 내용과 반도체 업종 전반의 주가 흐름을 면밀히 살펴야 한다.",
       "keywords": [
-        "국내 증시",
-        "업종 순환매",
-        "삼성전자 실적",
-        "반도체 업황",
-        "투자 전략"
+        "삼성전자",
+        "실적",
+        "반도체",
+        "메모리",
+        "AI"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hR2p2ckdQR1hVd1FOT0h5eENHRjBWZmVHLVFGRjA0ZU4xRFFsdnBLeDIxOGk4Y1VsR2dmRlo0OFpCV2UtcjhIS3ZmeUs2VW9Eend6MzIxVHJnYWp3YldyWFlR?oc=5",
-      "published": "2026-10-07 08:10",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "고금리? 한국이 미국보다 더 빨리 더 세게 맞는 이유",
-      "display_title": "고금리? 한국이 미국보다 더 빨리 더 세게 맞는 이유",
-      "original_title": "고금리? 한국이 미국보다 더 빨리 더 세게 맞는 이유 - OhmyNews",
-      "summary": [
-        "한국 경제는 미국에 비해 고금리 환경에 더 취약하며, 그 부정적 영향이 빠르게 나타날 수 있다는 분석입니다.",
-        "높은 가계부채, 수출 의존도, 부동산 시장의 취약성 등 한국 경제의 구조적 문제와 맞물려 고금리 타격이 심화될 수 있습니다.",
-        "고금리 환경이 장기화될 경우 내수 위축, 기업 투자 감소, 부동산 시장 경색 등으로 국내 증시에 부정적 영향을 미칠 수 있습니다."
-      ],
-      "summary_text": "한국 경제는 미국에 비해 고금리 환경에 더 취약하며, 그 부정적 영향이 빠르게 나타날 수 있다는 분석입니다. 높은 가계부채, 수출 의존도, 부동산 시장의 취약성 등 한국 경제의 구조적 문제와 맞물려 고금리 타격이 심화될 수 있습니다. 고금리 환경이 장기화될 경우 내수 위축, 기업 투자 감소, 부동산 시장 경색 등으로 국내 증시에 부정적 영향을 미칠 수 있습니다.",
-      "description": "한국 경제가 미국보다 고금리의 영향을 더 빠르고 강하게 받는 이유에 대해 분석하는 기사입니다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "금융, 건설, 부동산, 소비재",
-      "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "현대건설"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "고금리 장기화는 국내 경제 전반에 부정적인 영향을 미치며, 특히 취약 섹터에 대한 투자 위험을 높일 수 있기 때문에 주의 깊게 살펴야 합니다.",
-      "key_signal": "한국은행의 통화 정책 방향, 가계부채 및 부동산 시장 동향, 그리고 고금리에 취약한 기업들의 재무 건전성 변화를 주시해야 합니다.",
-      "keywords": [
-        "고금리",
-        "한국 경제",
-        "가계부채",
-        "부동산 시장",
-        "금리 정책"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQXzY3QXJHTW5IcTh6clVScG83NU1HMGFyVGpmdHQtSWp6U0pkck9DZHZIU3JYck5qb0dwRl9va2I2N2FiWjFYVVZzakU2TURQdDcxNGpnR2NWY1VJWFhpSGNNRks5emh5NjhuLXRCSHdDMWZfSkkxUE1PQzJfV0E1VlpKRVJwYUxYWXc?oc=5",
-      "published": "2026-10-07 07:27",
-      "quality": {
-        "title_status": "원문한국어",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "S&P 500, 나스닥 사상 최고치 마감, 실적 발표에 관심 집중",
-      "display_title": "S&P 500, 나스닥 사상 최고치 마감, 실적 발표에 관심 집중",
-      "original_title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
-      "summary": [
-        "미국 S&P 500과 나스닥 지수가 사상 최고치를 경신하며 마감했습니다.",
-        "강력한 기업 실적에 대한 기대감이 투자 심리 개선을 이끌고 있습니다.",
-        "향후 발표될 기업 실적 내용과 가이던스가 증시의 추가적인 방향성을 결정할 핵심 요소가 될 것입니다."
-      ],
-      "summary_text": "미국 S&P 500과 나스닥 지수가 사상 최고치를 경신하며 마감했습니다. 강력한 기업 실적에 대한 기대감이 투자 심리 개선을 이끌고 있습니다. 향후 발표될 기업 실적 내용과 가이던스가 증시의 추가적인 방향성을 결정할 핵심 요소가 될 것입니다.",
-      "description": "S&P 500과 나스닥 지수가 사상 최고치로 마감했으며, 시장의 관심이 기업 실적 발표로 이동하고 있습니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "기술주, 성장주",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "미국 주요 증시의 사상 최고치 경신은 글로벌 투자 심리에 긍정적 영향을 미치며 국내 증시에도 영향을 줄 수 있기 때문입니다.",
-      "key_signal": "다음 주부터 본격화될 주요 기업들의 실적 발표 내용과 향후 가이던스를 주목해야 합니다.",
-      "keywords": [
-        "미국 증시",
-        "S&P 500",
-        "나스닥",
-        "사상 최고치",
-        "실적 발표"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
-      "published": "2026-10-07 08:41",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXFYSzE3M3c0QUMxTDBMdzRERzlWWF85UlBHX0h6YkxqNm1laXJLcGRxZ055eHY1eEJCZDdPSEhTNFVNMFFuVmhjMmNHc0lmS0tHUEZXUG8xUnJDSG5pd010RU1kS0pxQTdyeHAxTG5Pazh4ejVvQkRKSFlfNFRFQkNxbXE2VHBFcW1FUjNreE1XNVVfbHBJRGlQVk4tWlc0ZGJ6cUNoa01mVzM3QkVOUVFwdC1xeGk2ZmRvOTA5YlZXSWNNLW0za3VJakVERVBUZ3Y4Rk1uOFJOMXFCT21pTlZJenZLQQ?oc=5",
+      "published": "2026-10-07 13:07",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -232,43 +149,126 @@
       }
     },
     {
-      "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "“10월 코스피 6,400~7,600…지수보다 업종 대응 중요”",
-      "display_title": "“10월 코스피 6,400~7,600…지수보다 업종 대응 중요”",
-      "original_title": "“10월 코스피 6,400~7,600…지수보다 업종 대응 중요” - 뉴스투데이",
+      "rank": 4,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 연준 의사록, 인플레이션 지속에 연말 추가 금리 인상 시사",
+      "display_title": "미국 연준 의사록, 인플레이션 지속에 연말 추가 금리 인상 시사",
+      "original_title": "US Fed minutes signal another rate hike by year-end as inflation stays high - The Economic Times",
       "summary": [
-        "10월 코스피 예상 밴드는 6,400~7,600으로 제시되었으며, 지수 전반보다 업종별 순환매에 집중해야 한다는 분석입니다.",
-        "대외 변수와 국내 기업 실적 발표 등이 복합적으로 작용하며 지수 전체의 방향성보다는 개별 업종의 강세가 두드러질 수 있습니다.",
-        "시장 주도 업종을 파악하고 해당 업종 내 성장 가능성이 높은 종목을 선별하는 전략이 유효할 것으로 보입니다."
+        "미국 연준(Fed)의 의사록 내용에서 높은 인플레이션으로 인해 연말까지 추가 금리 인상 가능성이 시사되었다.",
+        "연준은 인플레이션 억제를 최우선 과제로 삼고 있으며, 물가 상승률이 목표치에 도달할 때까지 매파적인 통화 정책을 유지할 의지를 보이고 있다.",
+        "추가 금리 인상은 주식 시장에 부정적인 영향을 미치며, 특히 성장주와 부채가 많은 기업들에 부담을 가중시킬 수 있다."
       ],
-      "summary_text": "10월 코스피 예상 밴드는 6,400~7,600으로 제시되었으며, 지수 전반보다 업종별 순환매에 집중해야 한다는 분석입니다. 대외 변수와 국내 기업 실적 발표 등이 복합적으로 작용하며 지수 전체의 방향성보다는 개별 업종의 강세가 두드러질 수 있습니다. 시장 주도 업종을 파악하고 해당 업종 내 성장 가능성이 높은 종목을 선별하는 전략이 유효할 것으로 보입니다.",
-      "description": "10월 코스피 지수가 6,400~7,600선에서 움직일 것으로 전망되며, 지수 전체보다는 특정 업종에 대한 대응이 중요하다고 분석됩니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "모든 업종 (섹터 순환매)",
+      "summary_text": "미국 연준(Fed)의 의사록 내용에서 높은 인플레이션으로 인해 연말까지 추가 금리 인상 가능성이 시사되었다. 연준은 인플레이션 억제를 최우선 과제로 삼고 있으며, 물가 상승률이 목표치에 도달할 때까지 매파적인 통화 정책을 유지할 의지를 보이고 있다. 추가 금리 인상은 주식 시장에 부정적인 영향을 미치며, 특히 성장주와 부채가 많은 기업들에 부담을 가중시킬 수 있다.",
+      "description": "미국 연방준비제도(Fed)의 의사록에 따르면 인플레이션이 여전히 높은 수준을 유지함에 따라 연말까지 추가 금리 인상이 있을 수 있음을 시사했다.",
+      "category": "글로벌 경제",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "전반적인 시장, 금융",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "업종별 순환매는 투자 기회를 제공하지만, 잘못된 업종 선택 시 수익률이 저조할 수 있으므로 시장 흐름 파악이 중요하기 때문입니다.",
-      "key_signal": "기관 및 외국인 수급 동향과 실적 발표 시즌에 두각을 나타내는 업종 변화를 면밀히 관찰해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "연준의 추가 금리 인상 시그널은 국내외 유동성 축소와 투자 심리 위축을 야기하여 증시 전반에 걸쳐 하락 압력을 가할 수 있기 때문이다.",
+      "key_signal": "향후 발표될 미국 물가 지표와 연준 위원들의 발언을 주시하며 실제 금리 인상 시기 및 폭을 예측해야 한다.",
       "keywords": [
-        "코스피",
-        "업종 순환매",
-        "시장 전망",
-        "실적 시즌",
-        "투자 전략"
+        "연준",
+        "금리인상",
+        "인플레이션",
+        "통화정책",
+        "매파적"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QZDRvbC1RZ0hoMzFlS1ExYW10OHo5ejhCWVJweFhqVU4xTzZfRDBIZGpqdlk4RXM1ZWVmWnQxVFlBaHF2c1otUEd6OXdqaTlDNUpVa19kVHU5NmpsTUE?oc=5",
-      "published": "2026-10-07 08:54",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNWExUV9mTzlNSzUtcVJ5dHg2dlM1NEpFQXZXTVJOR2pRdmFkN2NhM3hrV3lzU1dXSHhZOE9zcDlJQnJpV1k3Tjh4ckdXZmZTVGJpSUphZlNIMDR3em5zdi12UUhYc2Y4WGlVelo3RjFUUW1BN3JlMXhkSnZKMUdFVlQ0RklxRzU4YWcxeUhEUC0wS0o2d0hHLW90ZGF3Q3hfbl9rWERmOWZOa3VzckJHNm5CcEZIbnlCV1FFeTdSVUtZNHpkLVFrWUNhODVub0pxWVN4eVVZRnhCQWZ2eHBRdGR1bk5qd3V0T09BeG5TbWPSAfYBQVVfeXFMTzhmZ2JFaEt3X0pYOFE4am4wQmdkTnBxVU9pQS14ZjR5SnJWTFg3YVlFZXZkRGVhM0Jha0lUMDV1S1hVYjZUSHRHci1mSTFTbTZaNWdpcnNVRjNqNG9KT1pNV29RdmlyZk0xMUFBSTZoMkFQSUk2U3hzU20tazlwLXI3R0NLajk1UG15X1ljWkFqMlYzbGVFMXdEUk5Ccm1DR1dYWU55ZTZGNENYcWo2TU83Uy1sbnVhUEJUc2hCZlk1bnFJaF81SHpOMUNUTnl2R0RmRExOSHdTMGhuOThFSGtRY3RiWE1KRkNkV2V3NFZzcTgxSWJR?oc=5",
+      "published": "2026-10-08 03:53",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 5,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "삼성전자, 3분기 영업이익 107조 돌파…역대 최고 실적",
+      "display_title": "삼성전자, 3분기 영업이익 107조 돌파…역대 최고 실적",
+      "original_title": "삼성전자, 3분기 영업익 107조 돌파…역대 최고 실적 - 스페셜경제",
+      "summary": [
+        "삼성전자가 3분기 영업이익 107조 원을 돌파하며 역대 최고 실적을 달성했다.",
+        "반도체 업황 회복과 파운드리, 모바일 등 주요 사업부문의 고른 성장이 실적을 견인한 것으로 보인다.",
+        "삼성전자 실적 호조는 국내 증시의 대형주를 중심으로 긍정적인 투자 심리를 형성하고 관련 공급망 기업에도 긍정적인 영향을 미칠 수 있다."
+      ],
+      "summary_text": "삼성전자가 3분기 영업이익 107조 원을 돌파하며 역대 최고 실적을 달성했다. 반도체 업황 회복과 파운드리, 모바일 등 주요 사업부문의 고른 성장이 실적을 견인한 것으로 보인다. 삼성전자 실적 호조는 국내 증시의 대형주를 중심으로 긍정적인 투자 심리를 형성하고 관련 공급망 기업에도 긍정적인 영향을 미칠 수 있다.",
+      "description": "삼성전자의 3분기 영업이익이 107조 원을 돌파하며 역대 최고 실적을 기록했다.",
+      "category": "기업·산업",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT하드웨어",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스",
+        "DB하이텍"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "삼성전자의 역대급 실적은 국내 경제 전반에 긍정적인 신호이며, 특히 반도체 사이클 회복의 강력한 증거가 될 수 있기 때문이다.",
+      "key_signal": "삼성전자 실적 발표 내용 중 사업부별 구체적인 성장 요인과 향후 가이던스를 통해 추가적인 투자 기회를 모색해야 한다.",
+      "keywords": [
+        "삼성전자",
+        "실적발표",
+        "영업이익",
+        "반도체",
+        "역대최고"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEeXhFNFdaLU1JRzd1VFZnYjNNUVBfVnhkRUJuSGRWdGV0ODlZcW5hTFpfYUlfMWZIZXJqRHVhalhIMjNmM25ZRWJPSmVUWmc1ZlRsNXJ6Mm5WaU5xalpnaFk4c1hxemZsNTVBaA?oc=5",
+      "published": "2026-10-08 09:19",
       "quality": {
         "title_status": "원문한국어",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 6,
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "S&P 500 및 나스닥 100, 국채 수익률 급등 압박에 사상 최고치에서 하락",
+      "display_title": "S&P 500 및 나스닥 100, 국채 수익률 급등 압박에 사상 최고치에서 하락",
+      "original_title": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus - Yahoo Finance",
+      "summary": [
+        "미국 S&P 500 및 나스닥 100 지수가 사상 최고치에서 하락 마감했다.",
+        "미국 국채 수익률 급등이 기술주 중심의 시장에 부담으로 작용한 것이 주요 원인이다.",
+        "고금리 환경 지속 가능성이 높아지며 성장주 투자 심리에 부정적인 영향을 미칠 수 있다."
+      ],
+      "summary_text": "미국 S&P 500 및 나스닥 100 지수가 사상 최고치에서 하락 마감했다. 미국 국채 수익률 급등이 기술주 중심의 시장에 부담으로 작용한 것이 주요 원인이다. 고금리 환경 지속 가능성이 높아지며 성장주 투자 심리에 부정적인 영향을 미칠 수 있다.",
+      "description": "S&P 500과 나스닥 100 지수가 급등하는 국채 수익률의 압력으로 사상 최고치에서 하락했다. SPCX, AMD, NVDA, MRVL 등이 주목받고 있다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "기술주, 반도체",
+      "related_stocks": [
+        "삼성전자",
+        "SK하이닉스"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "미국 증시의 하락 압력은 국내 증시, 특히 기술 성장주에 대한 투자 심리를 위축시킬 수 있기 때문이다.",
+      "key_signal": "미국 국채 10년물 금리 추이와 미국 기술주의 추가 하락 여부를 주시해야 한다.",
+      "keywords": [
+        "미국증시",
+        "국채금리",
+        "기술주",
+        "나스닥",
+        "S&P500"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclBPX2xMZTFnZnRveWxfOGlEaWctQTY2SXp0RU9RNHdGS0l2WXUycHRGTVJwTjRLOERWR2FYVUhYY1VGNUZpSV9aandyQVkxX0dEaFpPdEgwS3JqVTR4STJqQmt6bW1BUHd6UXl1VnpYNmFWYlZuUTRUODg4NzY0WGxiS1kyVmJvakhwcmwwWQ?oc=5",
+      "published": "2026-10-08 07:50",
+      "quality": {
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -281,16 +281,16 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 반도체 랠리는 글로벌 기술 산업의 핵심 동력이며, 삼성전자는 국내 증시의 대장주로서 반도체 업황 회복과 실적 개선 기대감이 높아지고 있기 때문입니다.",
+      "reason": "3분기 잠정 실적에서 역대 최고 수준의 영업이익을 달성하며 반도체 업황 개선에 대한 강력한 신호를 보냈습니다. 이는 국내 증시 전반에 긍정적인 영향을 미칠 수 있는 핵심 요소입니다.",
       "check_points": [
-        "AI 반도체 수요 및 수혜 정도",
-        "3분기 실적 발표 및 반도체 마진율 변화",
-        "글로벌 기술주 동향"
+        "3분기 실적 발표의 상세 내용과 향후 가이던스",
+        "글로벌 메모리 반도체 가격 동향",
+        "주요 고객사의 수요 회복세"
       ],
       "related_news_titles": [
-        "AI 반도체 기업 랠리 후 S&P 500 및 나스닥 사상 최고치 급등",
-        "삼성전자 3분기 이익 9배 급증 전망, 그러나 반도체 마진은 정체될 수도",
-        "[굿모닝 증시] 국내 증시, 업종 순환매 장세 전망…전 세계가 주목하는 삼성전자 실적"
+        "삼성전자 3분기 잠정 실적 미리보기: 시장, 사상 최고 100조원 이익 전망, 메모리 마진 80% 상회 가능성",
+        "삼성전자, 3분기 영업이익 107조 돌파…역대 최고 실적",
+        "S&P 500 및 나스닥 100, 국채 수익률 급등 압박에 사상 최고치에서 하락"
       ]
     },
     {
@@ -299,49 +299,50 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "삼성전자와 함께 국내 반도체 산업의 핵심 축으로, AI 반도체 랠리와 반도체 업황 회복 기대감에 직접적인 수혜가 예상되며, 삼성전자 실적과 함께 시장의 주요 관심사입니다.",
+      "reason": "삼성전자의 호실적 발표는 메모리 반도체 시장의 회복 기대감을 높이며, 국내 주요 메모리 반도체 기업인 SK하이닉스 또한 동반 관심이 필요합니다.",
       "check_points": [
-        "HBM 등 고부가 AI 반도체 생산 및 수요 확대 여부",
-        "반도체 업황 회복 속도 및 D램 가격 동향",
-        "글로벌 경쟁사들의 투자 및 실적 발표"
+        "고대역폭 메모리(HBM) 등 고부가가치 제품의 수요 변화",
+        "메모리 반도체 재고 수준 및 가격 추이",
+        "글로벌 기술주 투자 심리 회복 여부"
       ],
       "related_news_titles": [
-        "삼성전자 3분기 이익 9배 급증 전망, 그러나 반도체 마진은 정체될 수도",
-        "[굿모닝 증시] 국내 증시, 업종 순환매 장세 전망…전 세계가 주목하는 삼성전자 실적"
+        "삼성전자 3분기 잠정 실적 미리보기: 시장, 사상 최고 100조원 이익 전망, 메모리 마진 80% 상회 가능성",
+        "삼성전자, 3분기 영업이익 107조 돌파…역대 최고 실적",
+        "S&P 500 및 나스닥 100, 국채 수익률 급등 압박에 사상 최고치에서 하락"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "DB하이텍",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 S&P 500 및 나스닥의 사상 최고치 경신은 글로벌 투자 심리를 개선하며 국내 증시에도 긍정적인 영향을 미칠 것으로 예상되어, 증시 활성화에 따른 거래량 증가 및 업종 순환매 수혜를 기대할 수 있습니다.",
+      "reason": "삼성전자의 실적 개선은 반도체 산업 전반에 긍정적인 신호로 해석될 수 있으며, 비메모리 파운드리 섹터의 대표 주자인 DB하이텍 역시 반도체 업황 회복 기대감 속에서 흐름을 주목할 필요가 있습니다.",
       "check_points": [
-        "미국 주요 증시 흐름 및 글로벌 투자 심리 변화",
-        "국내 증시 거래대금 및 수급 동향",
-        "업종 순환매 장세 속 증권업종 수혜 정도"
+        "파운드리 가동률 및 수주 상황 변화",
+        "글로벌 경기 회복에 따른 전방 산업 수요 증가",
+        "환율 변동이 실적에 미치는 영향"
       ],
       "related_news_titles": [
-        "S&P 500, 나스닥 사상 최고치 마감, 실적 발표에 관심 집중",
-        "“10월 코스피 6,400~7,600…지수보다 업종 대응 중요”"
+        "삼성전자, 3분기 영업이익 107조 돌파…역대 최고 실적"
       ]
     },
     {
       "rank": 4,
-      "name": "한국금융지주",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "금융지주",
-      "opinion": "관심",
-      "reason": "글로벌 증시의 긍정적인 흐름과 국내 증시의 업종 순환매 장세는 전반적인 시장 참여를 확대시킬 수 있으며, 한국금융지주와 같은 주요 금융지주사는 시장 활성화에 따른 수혜와 함께 실적 개선 기대를 받을 수 있습니다.",
+      "sector": "금융",
+      "opinion": "주의",
+      "reason": "미국 연준의 추가 금리 인상 시사와 신흥 시장에서의 외국인 자금 유출은 국내 증시의 유동성 축소 및 투자 심리 위축을 야기할 수 있으며, 금융주는 이러한 시장 환경 변화에 민감하게 반응할 수 있습니다.",
       "check_points": [
-        "글로벌 및 국내 증시 거래량 변화",
-        "금리 환경 변화가 금융업에 미치는 영향",
-        "계열사 실적 및 신사업 추진 동향"
+        "외국인 자금의 국내 증시 순매수 전환 여부",
+        "국내외 금리 인상 기조의 변화",
+        "국내 증시의 일평균 거래대금 추이"
       ],
       "related_news_titles": [
-        "S&P 500, 나스닥 사상 최고치 마감, 실적 발표에 관심 집중",
-        "“10월 코스피 6,400~7,600…지수보다 업종 대응 중요”"
+        "매파적 연준과 미국 국채 강세에 9월 신흥 시장에서 외국인 투자자 263억 달러 유출",
+        "코스피, 금리 부담 속 6780선 하락 출발…코스닥도 1%대 하락",
+        "미국 연준 의사록, 인플레이션 지속에 연말 추가 금리 인상 시사"
       ]
     }
   ],
