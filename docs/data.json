@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09 10:46",
-  "analysis_date": "2026-10-09",
+  "generated_at": "2026-10-10 10:32",
+  "analysis_date": "2026-10-10",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 증시는 국채 수익률 상승과 유가 급등, 지정학적 리스크 확대로 전반적인 하락세를 보였습니다. 국내 증시에서는 반도체 부진 속 2차전지 섹터가 강세를 나타내며 순환매 가능성을 시사합니다.",
-    "국내거시경제": "특별한 거시경제 지표 발표는 없었으나, 국내 증시에서 반도체와 2차전지 간의 섹터 순환매가 감지됩니다. 이는 특정 산업의 업황 변화에 따른 투자 심리 이동으로 해석됩니다.",
-    "글로벌경제": "미국 국채 수익률이 24년 최고치에 근접하며 고금리 장기화 우려가 커지고 있습니다. 중동 지정학적 리스크(미 국방부의 이란 공격 준비)와 국제 유가 급등 또한 글로벌 경제 불확실성을 가중시키는 요인입니다. 중국은 경기 둔화에도 불구하고 국방, 우주, AI 등 전략 산업에 대한 투자를 지속하고 있어 주목됩니다.",
-    "증시금리": "미국 다우, S&P 500, 나스닥 등 주요 증시는 국채 수익률 상승과 유가 급등, 지정학적 우려로 인해 일제히 하락 마감했습니다. 특히 반도체주의 약세가 두드러졌으며, 고금리, 고유가 환경은 기업 실적에 부담을 주고 기술주에 부정적인 영향을 미치고 있습니다.",
-    "부동산정책": "없음",
-    "기업산업": "미국 반도체주의 약세는 국내 반도체 산업에도 부담으로 작용할 수 있습니다. 반면, 국내에서는 반도체 주춤세 속 2차전지 관련 ETF들이 높은 수익률을 기록하며 강세를 보였습니다. 중국의 국방, 우주, AI 분야 투자는 관련 국내 기업들에게 잠재적 기회 또는 경쟁 요인으로 작용할 수 있습니다.",
-    "오늘의투자시사점": "고금리, 고유가, 지정학적 리스크 등 대외 불확실성이 높은 시기에는 방어적인 포트폴리오 전략을 유지할 필요가 있습니다. 국내 증시에서는 반도체와 2차전지 간 섹터 순환매 가능성을 고려하여 비중 조절을 검토하고, 중국의 전략 산업 투자 동향도 주시해야 합니다.",
-    "오늘의한줄": "글로벌 불확실성 증대에 대비하여 방어적 포트폴리오를 유지하고, 국내 증시 내 섹터 순환매 흐름을 예의주시해야 할 시점입니다."
+    "총평": "글로벌 증시는 AI 주도 랠리로 사상 최고치 경신을 이어가는 가운데, 국내 증시에서는 2차전지 섹터가 반도체 대비 강세를 보입니다. 주요 경제 지표 발표를 앞두고 시장 변동성 확대 가능성이 있습니다.",
+    "국내거시경제": "국내 증시에서 반도체 섹터가 잠시 주춤한 가운데, 2차전지 산업이 전기차 및 에너지 저장 시스템(ESS) 시장 확장에 힘입어 급속 성장 중입니다. 관련 ETF 수익률이 상위권을 기록하며 시장의 주목을 받고 있습니다.",
+    "글로벌경제": "AI 컴퓨팅 수요의 견조세로 대만 TSMC의 가격 인상, 메모리칩 가격 상승 등 반도체 랠리가 지속될 전망입니다. S&P 500 지수가 사상 최고치를 경신했으며, 아마존 실적 호조로 AI 관련 주식들의 강세가 이어집니다.",
+    "증시금리": "S&P 500 지수가 AI 기술주 주도 랠리에 힘입어 7,800을 돌파하며 사상 최고치를 경신했습니다. 이번 주 예정된 주요 은행 실적 발표와 미국 CPI 지표 발표가 글로벌 증시의 방향을 결정할 주요 변수로 작용할 것으로 보이며, 시장 변동성 확대에 유의해야 합니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "AI 컴퓨팅 수요 증가로 TSMC 등 글로벌 반도체 기업의 강세가 지속될 것으로 예상됩니다. 국내에서는 2차전지 산업이 빠르게 성장하며 관련 ETF 수익률이 상위권을 기록했고, 해외에서는 아마존 실적 호조에 AI 관련 주식들의 강세가 두드러집니다.",
+    "오늘의투자시사점": "글로벌 AI 관련 반도체 및 기술주에 대한 지속적인 관심이 필요하며, 국내에서는 반도체 외 2차전지 섹터의 성장 모멘텀에 주목해야 합니다. 이번 주 발표될 주요 경제 지표와 기업 실적에 따른 시장 변동성에 대비하여 신중한 투자 전략 수립이 요구됩니다.",
+    "오늘의한줄": "AI 랠리가 글로벌 증시를 견인하는 가운데 국내 2차전지가 급부상하며, 주요 경제 지표 발표를 앞두고 신중한 접근이 필요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,36 +28,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시, 국채 수익률 24년 최고치 근접 및 유가 급등으로 다우, S&P 500, 나스닥 하락",
-      "display_title": "미국 증시, 국채 수익률 24년 최고치 근접 및 유가 급등으로 다우, S&P 500, 나스닥 하락",
-      "original_title": "Dow Falls Nearly 200 Points, S&P 500 And Nasdaq In Red As Treasury Yields Stay Near 24-Year Highs, Oil Prices Jump - Yahoo Finance",
+      "title": "AI 컴퓨팅 수요 견조! 대만 TSMC 가격 인상·메모리칩 상승·ASIC 확대로 반도체 랠리 지속 전망",
+      "display_title": "AI 컴퓨팅 수요 견조! 대만 TSMC 가격 인상·메모리칩 상승·ASIC 확대로 반도체 랠리 지속 전망",
+      "original_title": "Demand for AI computing power remains robust! Bernstein backs the semiconductor rally, citing Taiwan Semiconductor's price hikes, rising memory chip prices, and ASIC expansion as key themes. - 富途牛牛",
       "summary": [
-        "다우, S&P 500, 나스닥 등 미국 주요 지수가 국채 수익률 상승과 유가 급등 영향으로 하락 마감했다.",
-        "미국 국채 수익률이 24년 만의 최고치에 근접한 것은 고금리 장기화 우려를 심화시키고, 이는 주식 시장 전반에 부담이다.",
-        "고금리, 고유가 환경은 기업 실적 압박과 투자 심리 위축을 야기하므로 방어적인 포트폴리오 전략을 고려해야 한다."
+        "AI 컴퓨팅 수요의 견조세가 이어지며 반도체 시장의 강세가 지속될 전망이다.",
+        "대만 TSMC의 가격 인상, 메모리칩 가격 상승, ASIC 확장이 주요 동인으로 지목된다.",
+        "AI 관련 반도체 기업들의 실적 개선 및 주가 상승 가능성에 주목해야 한다."
       ],
-      "summary_text": "다우, S&P 500, 나스닥 등 미국 주요 지수가 국채 수익률 상승과 유가 급등 영향으로 하락 마감했다. 미국 국채 수익률이 24년 만의 최고치에 근접한 것은 고금리 장기화 우려를 심화시키고, 이는 주식 시장 전반에 부담이다. 고금리, 고유가 환경은 기업 실적 압박과 투자 심리 위축을 야기하므로 방어적인 포트폴리오 전략을 고려해야 한다.",
-      "description": "다우존스 지수는 거의 200포인트 하락했으며, S&P 500과 나스닥도 국채 수익률이 24년 최고치에 근접하고 유가가 급등하면서 적자를 기록했다.",
-      "category": "증시·금리",
+      "summary_text": "AI 컴퓨팅 수요의 견조세가 이어지며 반도체 시장의 강세가 지속될 전망이다. 대만 TSMC의 가격 인상, 메모리칩 가격 상승, ASIC 확장이 주요 동인으로 지목된다. AI 관련 반도체 기업들의 실적 개선 및 주가 상승 가능성에 주목해야 한다.",
+      "description": "AI 컴퓨팅 파워 수요가 여전히 견조하며, 번스타인은 대만 TSMC의 가격 인상, 메모리칩 가격 상승, ASIC 확장 등을 핵심 테마로 꼽으며 반도체 랠리를 지지했습니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전반적 시장, 기술주",
+      "market_impact": "긍정",
+      "related_sector": "반도체, AI, 비메모리",
       "related_stocks": [
-        "KODEX 미국S&P500TR",
-        "TIGER 미국나스닥100"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 장기 국채 수익률 급등은 자산 시장 전반의 할인율을 높여 주식 가치 평가에 부정적인 영향을 주기 때문이다.",
-      "key_signal": "미국 10년물 국채 금리의 추가 상승 여부와 이에 따른 시장 반응을 면밀히 주시해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 시대의 핵심 동력인 반도체 산업의 지속적인 성장은 관련 기업들의 중장기 투자 매력을 높이기 때문이다.",
+      "key_signal": "TSMC의 가격 인상 움직임과 메모리 및 비메모리 반도체 시장의 동향을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "국채 금리",
-        "유가",
-        "고금리",
-        "시장 하락"
+        "AI",
+        "반도체",
+        "TSMC",
+        "메모리칩",
+        "ASIC"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXBzd1pjd2JRLTZZcXpyaXZXNGJROTZnT2JGemk4OXJlQ2pZUWxJVmMyRUNVSXhQa08ydi01U3lkbTh2bWpjM0xtaHpXWmhDSERVekE2cGg5RU1tek9GS3Bock4xNTFRaE9zd2IwMWpsSGRCTWFXczg2RFFpNE5MZE9QVW9OWE55SVpkT2hmVDJRcVVCX2c4?oc=5",
-      "published": "2026-10-08 22:59",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcDZzbklEWnhzRXdvMWhSd1V4cy04NUhIUG1mOUdOTDl2VUF5YVdadGtUS3I0anJXZXBvWVlmT3FzZkx1NWd5blctT1dza2RLaTNzUlVWbnB3SzY4bVlJc0FiZUN3ZndHNVFPeFJucnhQdEdBX2xqRkFCaDdJQklobERFQzRSQzhUWTE0eExMeC1DRG9XN1JxdG1EaTdLQ2pEQmxTWXJBOU9NMGM?oc=5",
+      "published": "2026-10-09 23:47",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -66,42 +66,42 @@
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "오늘 증시: 국방부 이란 군사 공격 준비에 S&P 500, 다우 존스 선물 하락",
-      "display_title": "오늘 증시: 국방부 이란 군사 공격 준비에 S&P 500, 다우 존스 선물 하락",
-      "original_title": "Stock Market Today: S&P 500, Dow Jones Futures Decline as Pentagon Prepares for Potential Military Strikes on Iran — APLD, LEVI, MU in Focus - TradingView",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "반도체 잠시 주춤, 2차전지 급속 '충전'…관련 ETF 수익률 상위권",
+      "display_title": "반도체 잠시 주춤, 2차전지 급속 '충전'…관련 ETF 수익률 상위권",
+      "original_title": "반도체 주춤한 사이 2차전지 \"급속충전\"…관련 ETF 수익률 상위권 - 라디오코리아",
       "summary": [
-        "미국 국방부의 이란 군사 공격 준비 소식에 S&P 500 및 다우 존스 선물 지수가 하락세를 보였다.",
-        "중동 지역의 지정학적 리스크 증가는 국제 유가 상승 및 투자 심리 위축으로 이어져 증시에 부정적인 영향을 미친다.",
-        "지정학적 불확실성이 고조될 때 안전 자산 선호 심리가 강해지므로, 방어적인 포트폴리오 전략을 고려할 필요가 있다."
+        "반도체 주춤세 속 2차전지 산업이 빠르게 성장하며 관련 ETF 수익률이 상위권을 기록했다.",
+        "이는 전기차 및 에너지 저장 시스템(ESS) 시장의 지속적인 확장에 기인한다.",
+        "반도체 외에 성장 모멘텀이 강한 2차전지 섹터에 대한 투자 기회를 적극적으로 검토해야 한다."
       ],
-      "summary_text": "미국 국방부의 이란 군사 공격 준비 소식에 S&P 500 및 다우 존스 선물 지수가 하락세를 보였다. 중동 지역의 지정학적 리스크 증가는 국제 유가 상승 및 투자 심리 위축으로 이어져 증시에 부정적인 영향을 미친다. 지정학적 불확실성이 고조될 때 안전 자산 선호 심리가 강해지므로, 방어적인 포트폴리오 전략을 고려할 필요가 있다.",
-      "description": "오늘 주식 시장에서 S&P 500과 다우 존스 선물 지수가 국방부가 이란에 대한 잠재적 군사 공격을 준비하면서 하락했다. APLD, LEVI, MU가 주목받고 있다.",
-      "category": "글로벌 경제",
+      "summary_text": "반도체 주춤세 속 2차전지 산업이 빠르게 성장하며 관련 ETF 수익률이 상위권을 기록했다. 이는 전기차 및 에너지 저장 시스템(ESS) 시장의 지속적인 확장에 기인한다. 반도체 외에 성장 모멘텀이 강한 2차전지 섹터에 대한 투자 기회를 적극적으로 검토해야 한다.",
+      "description": "반도체 산업이 잠시 주춤하는 사이 2차전지 관련 기업들이 급성장하며 관련 ETF들이 높은 수익률을 기록하고 있습니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "방산, 에너지, 전반적 시장",
+      "market_impact": "긍정",
+      "related_sector": "2차전지, 전기차, 배터리소재",
       "related_stocks": [
-        "한국항공우주",
-        "한화에어로스페이스",
-        "S-Oil"
+        "LG에너지솔루션",
+        "삼성SDI",
+        "에코프로비엠"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중동 지역의 지정학적 리스크는 국제 유가 급등과 글로벌 경제 불확실성을 증폭시켜 국내 증시에도 큰 부담이 될 수 있기 때문이다.",
-      "key_signal": "이란 관련 지정학적 긴장 완화 여부와 국제 유가 변동성을 면밀히 주시해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "반도체와 함께 한국 증시의 주요 성장 동력인 2차전지 산업의 강세는 관련 기업들의 투자 매력을 높이고 있기 때문이다.",
+      "key_signal": "2차전지 소재 및 셀 기업들의 실적 개선 여부와 전기차 시장 동향을 면밀히 주시해야 합니다.",
       "keywords": [
-        "지정학적 리스크",
-        "이란",
-        "군사 공격",
-        "유가 상승",
-        "시장 하락"
+        "2차전지",
+        "반도체",
+        "ETF",
+        "전기차",
+        "배터리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPXzVSdXRUamx5d245OXdXVVVhQlptYkxSUEhYd0RycTU4d0hYeHA2UVdwUFRwaDFYSWFxVWNGNzVma3pzMWVlTE9IaFNSY19UWWhCSGlFbkVSVEpPclpLczBVVEowUHMyQzlZTFpnS0RrZ2J2RWEzdFdwXzFmM3F2MG5zYW5ENHhpMkZqOXhSYjh2eHhTVDYyRTd6WElIWDA1ZnFRc3NRaV9BWnc4MzNTa0VPdlNVcGtnV1NUYmVXUkUzZU9HSFE3NW9kakZPQXgtQW41RzRNSmwtQmZmdGg2eVUta2JTbUJsV01kUUtRR0lFcUFGQ1BLbjJUZHZFMDR2S0M0aFpZOUJLTjJRR0k3eG51RzlhSzl2RG52bG9n?oc=5",
-      "published": "2026-10-08 19:05",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iTktNYlFKUEhrT3FZR2FSYUwtODUxRWJPXzU2MEcxb2JlSHlMRGV0NkN2eUxja09qSkdXQklPaERCdWlpNUtuSnNSMGRLbjUwWHQ3V09VaDJGVzVpNlNLb2JGeWE?oc=5",
+      "published": "2026-10-10 01:07",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -111,36 +111,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시: 유가 급등 및 반도체주 약세로 S&P 500, 나스닥 하락 마감",
-      "display_title": "미국 증시: 유가 급등 및 반도체주 약세로 S&P 500, 나스닥 하락 마감",
-      "original_title": "US stocks: S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - The Economic Times",
+      "title": "S&P 500 지수 7,800 돌파하며 사상 최고치 경신! AI 주도 랠리 지속 가능할까?",
+      "display_title": "S&P 500 지수 7,800 돌파하며 사상 최고치 경신! AI 주도 랠리 지속 가능할까?",
+      "original_title": "S&P 500 breaks above 7,800 to hit a new high! Can the AI-dri... - Futubull Community - 富途牛牛",
       "summary": [
-        "미국 S&P 500과 나스닥 지수가 유가 급등과 반도체주 부진으로 하락 마감했다.",
-        "고유가는 기업 비용 증가와 소비 위축 우려를 낳고, 높은 금리 환경은 기술주 전반에 부담을 준다.",
-        "글로벌 경기 둔화 우려와 고금리, 고유가 환경이 지속될 경우 기술주와 성장주에 대한 보수적인 접근이 필요하다."
+        "S&P 500 지수가 7,800을 넘어 사상 최고치를 기록했다.",
+        "이는 주로 AI 관련 기술주들의 강세에 힘입은 것으로 풀이된다.",
+        "글로벌 증시의 강세가 지속될지, AI 테마의 추가 상승 여력을 파악해야 한다."
       ],
-      "summary_text": "미국 S&P 500과 나스닥 지수가 유가 급등과 반도체주 부진으로 하락 마감했다. 고유가는 기업 비용 증가와 소비 위축 우려를 낳고, 높은 금리 환경은 기술주 전반에 부담을 준다. 글로벌 경기 둔화 우려와 고금리, 고유가 환경이 지속될 경우 기술주와 성장주에 대한 보수적인 접근이 필요하다.",
-      "description": "유가 급등과 반도체주 약세의 영향으로 미국 증시의 S&P 500과 나스닥 지수가 하락 마감했다.",
+      "summary_text": "S&P 500 지수가 7,800을 넘어 사상 최고치를 기록했다. 이는 주로 AI 관련 기술주들의 강세에 힘입은 것으로 풀이된다. 글로벌 증시의 강세가 지속될지, AI 테마의 추가 상승 여력을 파악해야 한다.",
+      "description": "S&P 500 지수가 7,800을 돌파하며 사상 최고치를 경신했으며, AI 주도 랠리가 계속될지에 대한 관심이 커지고 있습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "반도체, 정유/에너지",
+      "market_impact": "긍정",
+      "related_sector": "증시, 기술주, AI",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 기술주 약세와 고유가, 고금리 환경은 국내 증시 특히 기술주 투자심리에 부정적 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "유가 움직임과 미국 10년물 국채 금리 추이를 주시하며 기술주 비중 조절을 고려해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 증시의 전반적인 강세는 국내 증시에도 긍정적인 영향을 미칠 수 있으며, AI 관련 투자 기회를 지속적으로 모색해야 한다.",
+      "key_signal": "S&P 500 지수의 추가 상승 여부와 AI 관련 기업들의 실적 발표를 주시해야 합니다.",
       "keywords": [
-        "미국 증시",
-        "S&P 500",
-        "나스닥",
-        "유가",
-        "반도체"
+        "S&P500",
+        "신고가",
+        "AI랠리",
+        "미국증시",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRjhHU0Z4OWp1TEtRRF9jd3lfb1E3bDlUc09rM3dpSGJjNFhhM3RlX0JwWmdKUnJyUXJ5SlA4YUJlR25NRmZPSFh1a2VTSzJVc2szVUIzOE12S1FwX2o1dUhhaFF2TV9zQlNBZWtTaGFnU25QVjRiLUNlUWlrU3R6SGxGU2YtcExHTndMdlhVb3pHN01NNzVRY2VMZ1Y2cnhTdlJzUElyT3VuV1RaZERZMjlXS2J6WG9WdE54VDFVWFE4Sm5Wdzh6TUxsM0t3WEZxbDFOQzhuS3RpYWtPQ1lad0M1b9IB6AFBVV95cUxNdktRR1g5VVFKMnp3QnkxN3dhWjlqMkNoMEo3VWN5NXRsMUo4WjRyaXVwUHhYcThsMl96V3ZZMkd6bnoxZy13TS03X204SFBsR2NyckE5dGpROUNHLURmUEk2emRuYlptbWNpLXlDM1R4dnozNXpMbTdjVWdxWWRoTWhOdXFjUDBacFBuTWdxTnpoSnl2ZHlKR1gxZ0lrd1RGblV3em9fRW5DT19wYnlXWVgzMHNZRVN0ZVFVbTNfSFU1ZWV1Q1U4OXY1T05ZcnlQbFBhYTFYSV9hejMyY3J1VXdYRXNyNmhZ?oc=5",
-      "published": "2026-10-09 05:08",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOamg2cnkxOTlOWURIR1FGaW9xMm9pU1JEakluSV85Yk1CcURXcE5acUJOLXFEa3FQSWFnYVdMR1RabHg1dVZ3S0NHdkRzRG54YkcyVTBTRFBmdGpBZ2RnZ01iR2tTRE0xd3RuTXZrMXRyWFcyd0hvaXFCdVZmMERqQWlzREVJWHJncGFTcVZhOWxDc0ppU1VtQ2sxNjV1U1drbHZIYXU0ck1TWjZNOWFscXlydkpDUnpKZ01BTk5PTEEybEpDWm5GdThNZ2hpUjE1TUF1Y3BZb0JVMGl4TTZzTUF2ajBnajU3ZkpCNjBfaUM0Wjc5bXNsamNyVzlaSWJFUUV5RWVHaFowZFFnY1UwbFRPVG1EaElVRkVJbU8yd2dxWjk4Q29aaDZrWG5Udw?oc=5",
+      "published": "2026-10-10 07:51",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -152,37 +153,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "유가 급등과 반도체주 약세에 S&P 500, 나스닥 하락",
-      "display_title": "유가 급등과 반도체주 약세에 S&P 500, 나스닥 하락",
-      "original_title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Yahoo Finance",
+      "title": "이번 주 은행 실적 발표 및 CPI 지표 주목…S&P 500 사상 최고치 근접",
+      "display_title": "이번 주 은행 실적 발표 및 CPI 지표 주목…S&P 500 사상 최고치 근접",
+      "original_title": "Bank earnings, CPI headline busy markets week as S&P 500 hovers near records - AOL.com",
       "summary": [
-        "유가 급등과 반도체 종목들의 약세로 미국 주요 지수인 S&P 500과 나스닥이 하락세를 보였다.",
-        "국제 유가 상승은 인플레이션 압력을 높여 연준의 긴축 기조 유지 가능성을 높이고, 이는 성장주에 부정적이다.",
-        "미국 반도체주의 동향은 국내 반도체 산업에도 민감하게 작용하므로 관련 종목 투자 시 주의가 필요하다."
+        "이번 주 주요 은행 실적 발표와 미국 CPI 지표 발표가 예정되어 있다.",
+        "S&P 500 지수가 사상 최고치 근접한 상황에서 이들 지표는 시장 방향을 결정할 주요 변수다.",
+        "발표될 경제 지표와 기업 실적에 따라 시장 변동성이 커질 수 있으니 투자 전략을 신중하게 수립해야 한다."
       ],
-      "summary_text": "유가 급등과 반도체 종목들의 약세로 미국 주요 지수인 S&P 500과 나스닥이 하락세를 보였다. 국제 유가 상승은 인플레이션 압력을 높여 연준의 긴축 기조 유지 가능성을 높이고, 이는 성장주에 부정적이다. 미국 반도체주의 동향은 국내 반도체 산업에도 민감하게 작용하므로 관련 종목 투자 시 주의가 필요하다.",
-      "description": "유가 급등과 반도체주 부진으로 인해 S&P 500과 나스닥 지수가 하락 마감했다.",
+      "summary_text": "이번 주 주요 은행 실적 발표와 미국 CPI 지표 발표가 예정되어 있다. S&P 500 지수가 사상 최고치 근접한 상황에서 이들 지표는 시장 방향을 결정할 주요 변수다. 발표될 경제 지표와 기업 실적에 따라 시장 변동성이 커질 수 있으니 투자 전략을 신중하게 수립해야 한다.",
+      "description": "이번 주 시장은 은행 실적 발표와 소비자물가지수(CPI) 발표로 분주할 것으로 예상되며, S&P 500 지수는 사상 최고치 부근에 머물고 있습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "반도체, 정유/에너지",
+      "market_impact": "중립",
+      "related_sector": "은행, 금융, 거시경제",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "마이크론테크놀로지"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 주요 지수의 하락세와 반도체주 약세는 국내 증시의 투자 심리에도 부정적인 영향을 미칠 수 있다.",
-      "key_signal": "글로벌 유가 추이와 미국 기술주, 특히 반도체 섹터의 추가적인 움직임을 면밀히 관찰해야 한다.",
+      "investment_reason": "주요 경제 지표와 기업 실적은 시장의 단기적인 방향을 결정할 수 있어 투자자들의 신중한 접근이 필요하기 때문이다.",
+      "key_signal": "은행들의 실적 내용과 미국 CPI 발표 결과를 통해 연준의 통화 정책 방향과 경기 판단에 대한 힌트를 얻어야 합니다.",
       "keywords": [
-        "미국 증시",
-        "S&P 500",
-        "나스닥",
-        "유가",
-        "반도체주"
+        "은행실적",
+        "CPI",
+        "S&P500",
+        "경제지표",
+        "시장변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80ZFlDS25nMDgxRll4M1J2TU5aZ1lVV1JZY1JsUjRJdWJoWHQydVpva2VjSU1uOFZMdHl6ZldiMUtSekU3ckxrVDRnRTJJdUtkNWpBcTlnM1NsLTdxcnF0UlFwMFlTWXd3WEtnM0lMQVRrWEtleFMw?oc=5",
-      "published": "2026-10-09 05:32",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3dZSVB6bnVxbVJ4Zl9hSWRTMlNoSWxGQUtwVl9MVTNabkJuRGZYQUExb1ZGNkdJME5QMGNMQ2NOc25GYndwRUtYT0dxZWxoOW1lX25ZOVZtVmFydElFZ0pHUEttbWRCQ2NNTW8tSEczTUk5UVVkRHQ0M2tVb1FLaA?oc=5",
+      "published": "2026-10-10 05:53",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -191,42 +192,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[차이나 인사이트] 경제는 안좋아도 ‘국방·우주·AI’에 돈 쏟아붓는 중국",
-      "display_title": "[차이나 인사이트] 경제는 안좋아도 ‘국방·우주·AI’에 돈 쏟아붓는 중국",
-      "original_title": "[차이나 인사이트] 경제는 안좋아도 ‘국방·우주·AI’에 돈 쏟아붓는 중국 - 뉴스임팩트",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "아마존 실적 호조에 나스닥 선물 상승, 애플 약세에도 AI 주식 강세 지속",
+      "display_title": "아마존 실적 호조에 나스닥 선물 상승, 애플 약세에도 AI 주식 강세 지속",
+      "original_title": "Nasdaq Futures Tick Higher As Amazon Earnings Lift AI Stocks Despite Apple Selloff: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus - Stocktwits",
       "summary": [
-        "중국이 경기 둔화에도 불구하고 국방, 우주, 인공지능(AI) 등 특정 전략 산업 분야에 대규모 투자를 지속하고 있다.",
-        "이는 미국과의 기술 경쟁과 지정학적 패권 다툼 속에서 미래 핵심 기술 주도권을 확보하려는 중국의 의도를 반영한다.",
-        "중국의 이러한 전략적 투자는 관련 국내 산업에도 직간접적인 영향을 미칠 수 있으므로 관련 기술 및 기업 동향을 주시해야 한다."
+        "아마존의 양호한 실적 발표로 나스닥 선물이 상승하고 AI 관련 주식들이 강세를 보였다.",
+        "애플의 약세에도 불구하고 AI 테마의 강한 매수세가 시장을 지지하고 있다.",
+        "AI 관련 기술주들의 개별 실적과 시장 모멘텀을 지속적으로 추적하여 투자 기회를 발굴해야 한다."
       ],
-      "summary_text": "중국이 경기 둔화에도 불구하고 국방, 우주, 인공지능(AI) 등 특정 전략 산업 분야에 대규모 투자를 지속하고 있다. 이는 미국과의 기술 경쟁과 지정학적 패권 다툼 속에서 미래 핵심 기술 주도권을 확보하려는 중국의 의도를 반영한다. 중국의 이러한 전략적 투자는 관련 국내 산업에도 직간접적인 영향을 미칠 수 있으므로 관련 기술 및 기업 동향을 주시해야 한다.",
-      "description": "중국은 경제 상황이 좋지 않음에도 불구하고 국방, 우주, 인공지능(AI) 분야에 막대한 투자를 집중하고 있다.",
-      "category": "글로벌 경제",
+      "summary_text": "아마존의 양호한 실적 발표로 나스닥 선물이 상승하고 AI 관련 주식들이 강세를 보였다. 애플의 약세에도 불구하고 AI 테마의 강한 매수세가 시장을 지지하고 있다. AI 관련 기술주들의 개별 실적과 시장 모멘텀을 지속적으로 추적하여 투자 기회를 발굴해야 한다.",
+      "description": "나스닥 선물이 소폭 상승하는 가운데, 아마존 실적 호조가 AI 관련 주식들을 끌어올렸으며, 애플의 매도세에도 불구하고 테슬라, SPCX, RDDT, SMCI, BE, RKLB 등이 주목받고 있습니다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "방산, 우주항공, 인공지능, 반도체",
+      "market_impact": "긍정",
+      "related_sector": "기술주, AI, 클라우드, 전기차",
       "related_stocks": [
-        "한화에어로스페이스",
-        "LIG넥스원",
-        "솔트룩스"
+        "아마존",
+        "테슬라",
+        "슈퍼마이크로컴퓨터"
       ],
       "investment_view": "관심",
-      "investment_reason": "중국의 전략 산업 투자는 글로벌 기술 경쟁 구도를 심화시키고, 관련 국내 기업들의 장기적인 성장 기회 또는 위협이 될 수 있기 때문이다.",
-      "key_signal": "중국의 전략 투자 분야에서 실제적인 기술 발전과 글로벌 경쟁 구도 변화를 지속적으로 모니터링해야 한다.",
+      "investment_reason": "개별 기업의 실적 호조가 AI 테마의 전반적인 강세를 이끌며 관련 투자 종목의 매력을 높이고 있기 때문이다.",
+      "key_signal": "아마존을 비롯한 주요 AI 기업들의 추가 실적 발표와 주가 흐름을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "중국",
-        "전략 산업",
-        "국방",
-        "우주",
-        "AI"
+        "나스닥",
+        "아마존",
+        "AI주식",
+        "애플",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xWlRJd1ZRam5qVk9BQU5QT3h0NEhZQ1FlUHpkY2VjUFMteEdKYU5NaDRCUUx4aUlpaVpkekNJZkc1cjJibTh6WnkyZms2YXZfRVpxSGlhSXVQcXJyNklTN3RBRVNsMUhXY1gxYWJVaERQdw?oc=5",
-      "published": "2026-10-09 06:05",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQ0tsMWtzYkhFYlFDZVRSTTBCdnFsOGFGUkEzTVZkMExRYkxNeHc3MjA4cmdmejU1MmdMWG10UVhzSnJaVHlvcGI1WW9BSklsV2lfdjAwaXI3LURaLU53c3pPQlNvdDliMUhyS1FsbUQ1cHMtanFqbXRqRThHTXpWbzd2dVZNMlE2UEVabHdGbEJzU2pKQ0Y3WC1PdWYxbU92OHYydGNva3VISWJUM2pTbHo3RTJXQUY4a2lRb0szNDhGUUlUNDcySXUtOU1waUExRmMxZkJaaG93eTBvUFMyRV9Yc2swT3lhMXBteWNYTXIxWUlrM3c?oc=5",
+      "published": "2026-10-09 10:42",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -236,37 +237,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "반도체 주춤하자 2차전지 ETF 강세... 이달 수익률 상위권 '싹쓸이'",
-      "display_title": "반도체 주춤하자 2차전지 ETF 강세... 이달 수익률 상위권 '싹쓸이'",
-      "original_title": "반도체 주춤하자 2차전지 ETF 강세... 이달 수익률 상위권 '싹쓸이' - 시장경제신문",
+      "title": "마메 슬롯머신 롬 한 라운드 안의 추가 단계",
+      "display_title": "마메 슬롯머신 롬 한 라운드 안의 추가 단계",
+      "original_title": "마메 슬롯머신 롬 한 라운드 안의 추가 단계 - Calgary Roughnecks",
       "summary": [
-        "반도체 주식의 부진 속에서 2차전지 관련 상장지수펀드(ETF)들이 이달 높은 수익률을 기록하며 강세를 보였다.",
-        "글로벌 전기차 시장 성장 기대감과 함께 반도체 업황 둔화 우려가 복합적으로 작용한 결과로 분석된다.",
-        "국내 증시에서 반도체와 2차전지 간의 섹터 순환매 가능성을 염두에 두고 포트폴리오 비중을 조절할 필요가 있다."
+        "마메 슬롯머신 게임의 라운드 진행 방식에 대한 설명이 포함되어 있다.",
+        "이는 금융 시장 투자와는 직접적인 관련이 없는 게임 관련 정보다.",
+        "해당 기사는 투자 관련 정보가 아니므로 투자 결정에 참고할 필요가 없다."
       ],
-      "summary_text": "반도체 주식의 부진 속에서 2차전지 관련 상장지수펀드(ETF)들이 이달 높은 수익률을 기록하며 강세를 보였다. 글로벌 전기차 시장 성장 기대감과 함께 반도체 업황 둔화 우려가 복합적으로 작용한 결과로 분석된다. 국내 증시에서 반도체와 2차전지 간의 섹터 순환매 가능성을 염두에 두고 포트폴리오 비중을 조절할 필요가 있다.",
-      "description": "반도체 부문이 주춤하는 동안 2차전지 ETF가 강세를 보이며 이달 수익률 상위권을 휩쓸었다.",
-      "category": "기업·산업",
-      "importance": 7,
+      "summary_text": "마메 슬롯머신 게임의 라운드 진행 방식에 대한 설명이 포함되어 있다. 이는 금융 시장 투자와는 직접적인 관련이 없는 게임 관련 정보다. 해당 기사는 투자 관련 정보가 아니므로 투자 결정에 참고할 필요가 없다.",
+      "description": "이 기사는 마메 슬롯머신 롬 게임에서 한 라운드 내 추가 단계에 대해 설명합니다.",
+      "category": "기타",
+      "importance": 1,
       "market_impact": "중립",
-      "related_sector": "2차전지, 반도체",
+      "related_sector": "게임",
       "related_stocks": [
-        "삼성SDI",
-        "LG에너지솔루션",
-        "에코프로비엠"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시에서 주요 성장 동력인 반도체와 2차전지 섹터 간의 자금 흐름 변화를 파악하는 것이 중요하기 때문이다.",
-      "key_signal": "2차전지 ETF의 강세가 지속될지, 또는 반도체 업황 회복 조짐에 따라 다시 자금이 유입될지 추이를 지켜봐야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "이 기사는 개인 투자자의 경제 뉴스 분석 목적에는 부합하지 않는 정보로, 불필요한 노이즈로 작용할 수 있기 때문이다.",
+      "key_signal": "해당 기사는 투자 정보가 아니므로 무시하고 다른 경제 뉴스에 집중해야 합니다.",
       "keywords": [
-        "2차전지",
-        "ETF",
-        "반도체",
-        "섹터 순환",
-        "수익률"
+        "마메",
+        "슬롯머신",
+        "게임",
+        "불필요정보",
+        "기타"
       ],
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11ZnJ3VTNrQ0cwU0ZKQnMySGk2R3hXU3V4QWFXNElCUGJjU3p5aFhsZGY3cnE0U0FQYUNLY09rVGRNSmh6Mld3cnVuaDlUNUxpY09rY0tTd3puWWF3UEh1SmRMdWg1cU9BTVN3QzhhVFE?oc=5",
-      "published": "2026-10-09 08:53",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnV2SWtBMVB6MHlLV0RVTUR2UUJVU0xQZDMwakw5YzJnX1hCNzhteDJBbWh6WGx2eDBXSlFMaloyY3ZsQlFtcFRpREtvazhMRXJJbDM3d21POHV3blE5YlpubURaYTlfcVdCWnV4eGl4SGRINkowUk1HX084bVlncWpRemJzZjZ1SFUzZVd3?oc=5",
+      "published": "2026-10-09 14:06",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -280,66 +281,64 @@
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "주의",
-      "reason": "미국 증시의 기술주 약세와 고유가, 고금리 환경이 국내 증시 특히 반도체주 투자심리에 부정적 영향을 미치고 있어 면밀한 관찰이 필요합니다.",
+      "opinion": "관심",
+      "reason": "AI 시대 핵심 동력인 반도체 산업의 지속적인 성장이 기대되며, 미국 증시의 AI 주도 랠리가 국내 증시 대형 기술주에 긍정적 영향을 미칠 수 있습니다.",
       "check_points": [
-        "미국 기술주 동향",
-        "글로벌 반도체 수요 및 가격 변화",
-        "외국인 수급"
+        "글로벌 AI 반도체 수요 증가와 HBM 시장 경쟁력 강화 여부",
+        "파운드리 사업부의 실적 개선 흐름",
+        "외국인 및 기관 투자자 수급 동향"
       ],
       "related_news_titles": [
-        "미국 증시: 유가 급등 및 반도체주 약세로 S&P 500, 나스닥 하락 마감",
-        "유가 급등과 반도체주 약세에 S&P 500, 나스닥 하락"
+        "AI 컴퓨팅 수요 견조! 대만 TSMC 가격 인상·메모리칩 상승·ASIC 확대로 반도체 랠리 지속 전망",
+        "S&P 500 지수 7,800 돌파하며 사상 최고치 경신! AI 주도 랠리 지속 가능할까?"
       ]
     },
     {
       "rank": 2,
-      "name": "한화에어로스페이스",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "방산, 우주항공",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "중동 지역의 지정학적 리스크 심화와 중국의 국방·우주 산업 투자 확대는 국내 방산 및 우주항공 관련 기업에 대한 관심으로 이어질 수 있습니다.",
+      "reason": "AI 컴퓨팅 수요 증가와 메모리칩 가격 상승 전망에 따라 고대역폭 메모리(HBM) 시장의 선두 주자로서 수혜가 기대됩니다.",
       "check_points": [
-        "중동 정세 변화",
-        "각국 국방비 지출 동향",
-        "K-방산 수출 계약 소식"
+        "HBM 생산 능력 확대 및 신규 고객사 확보 현황",
+        "DRAM 및 낸드(NAND) 가격 상승세 지속 여부",
+        "AI 서버 시장의 성장세"
       ],
       "related_news_titles": [
-        "오늘 증시: 국방부 이란 군사 공격 준비에 S&P 500, 다우 존스 선물 하락",
-        "[차이나 인사이트] 경제는 안좋아도 ‘국방·우주·AI’에 돈 쏟아붓는 중국"
+        "AI 컴퓨팅 수요 견조! 대만 TSMC 가격 인상·메모리칩 상승·ASIC 확대로 반도체 랠리 지속 전망"
       ]
     },
     {
       "rank": 3,
-      "name": "S-Oil",
-      "market": "KOSPI",
-      "sector": "정유/에너지",
-      "opinion": "관심",
-      "reason": "국제 유가 급등세가 지속되고 있어 정유/에너지 업종에 대한 단기적인 관심이 필요합니다.",
-      "check_points": [
-        "국제 유가 흐름(WTI, 브렌트유)",
-        "정제 마진 변화",
-        "OPEC+ 정책"
-      ],
-      "related_news_titles": [
-        "오늘 증시: 국방부 이란 군사 공격 준비에 S&P 500, 다우 존스 선물 하락",
-        "미국 증시: 유가 급등 및 반도체주 약세로 S&P 500, 나스닥 하락 마감"
-      ]
-    },
-    {
-      "rank": 4,
       "name": "LG에너지솔루션",
       "market": "KOSPI",
       "sector": "2차전지",
       "opinion": "관심",
-      "reason": "반도체주 약세 속에서 2차전지 ETF가 강세를 보이며 자금 유입이 확인되고 있어, 섹터 순환매 관점에서 관심이 필요한 종목입니다.",
+      "reason": "반도체와 더불어 한국 증시의 주요 성장 동력인 2차전지 산업의 강세가 나타나고 있어, 대형 배터리 셀 기업에 대한 관심이 유효합니다.",
       "check_points": [
-        "반도체-2차전지 섹터 수급 동향",
-        "주요 배터리 기업 실적 전망",
-        "전기차 판매량 추이"
+        "북미 시장 내 생산 능력 확장 및 신규 수주 실적",
+        "IRA 등 정책 수혜 지속 여부",
+        "글로벌 전기차 시장의 수요 변화"
       ],
       "related_news_titles": [
-        "반도체 주춤하자 2차전지 ETF 강세... 이달 수익률 상위권 '싹쓸이'"
+        "반도체 잠시 주춤, 2차전지 급속 '충전'…관련 ETF 수익률 상위권"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "네이버",
+      "market": "KOSPI",
+      "sector": "인터넷/IT플랫폼",
+      "opinion": "관심",
+      "reason": "미국 증시의 AI 주도 랠리가 국내 증시 기술주에도 긍정적 영향을 미치고 있으며, 국내 대표 AI 및 플랫폼 기술 기업으로서 성장 기대감이 높습니다.",
+      "check_points": [
+        "생성형 AI 서비스 '하이퍼클로바X'의 사업 확장 성과",
+        "광고 및 커머스 등 핵심 사업부문의 실적 개선",
+        "글로벌 AI 경쟁 환경 속 기술력 확보 전략"
+      ],
+      "related_news_titles": [
+        "S&P 500 지수 7,800 돌파하며 사상 최고치 경신! AI 주도 랠리 지속 가능할까?"
       ]
     }
   ],
