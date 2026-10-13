@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12 10:02",
-  "analysis_date": "2026-10-12",
+  "generated_at": "2026-10-13 11:51",
+  "analysis_date": "2026-10-13",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,53 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 고금리 환경과 미국 주요 경제지표 발표를 앞두고 시장 불확실성이 커지고 있습니다. 국내 증시는 연휴 후 하락세를 보이며 외국인 매도세가 지속되어 투자 심리 위축이 심화되고 있습니다.",
-    "국내거시경제": "국내 거시경제에 대한 직접적인 뉴스는 없으나, 연휴 후 코스피 하락과 외국인 투자자 이탈은 전반적인 국내 투자 심리가 위축되었음을 시사합니다.",
-    "글로벌경제": "미국 국채 금리가 24년 만의 최고치에 근접하며 글로벌 시장에 부담을 주고 있습니다. 이번 주 미국 증시는 CPI, 소매 판매 데이터, 주요 은행 실적 발표에 따라 높은 변동성이 예상됩니다. 연준의 통화정책 방향과 인플레이션 데이터에 주목해야 합니다.",
-    "증시금리": "연휴 후 코스피는 하락세를 보였으며, 삼성전자와 SK하이닉스 등 대형주도 동반 약세를 기록했습니다. 외국인 투자자의 매도세가 지속되는 가운데, 10월 중순이 국내 증시 반등의 분수령이 될지 주목됩니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "한국을 포함한 15개국이 배터리, 전기차, 태양광 산업의 과잉생산 문제에 공동 대응하기로 했습니다. 이는 COP31을 앞두고 기후재원 접근성 개선 논의와 함께 진행되며, 관련 산업의 구조조정 및 경쟁 환경 변화에 관심을 가져야 합니다.",
-    "오늘의투자시사점": "글로벌 고금리 환경과 미국 주요 경제지표 발표에 따른 시장 변동성 확대에 대비해야 합니다. 국내 증시는 외국인 수급과 주요 대형주 실적을 주시하며 신중한 접근이 필요합니다. 배터리, 전기차, 태양광 등 산업 재편 움직임도 함께 살펴보십시오.",
-    "오늘의한줄": "글로벌 고금리 우려와 주요 경제지표 발표를 앞두고 국내외 시장의 변동성 확대가 예상되니, 신중한 투자 전략이 요구됩니다."
+    "총평": "국내 증시는 코스피 6천선 붕괴와 외국인 투매로 심각한 하방 압력을 받고 있으며, 미국 증시와 디커플링 현상이 심화되고 있습니다. 반면 삼성의 해외 투자는 긍정적인 신호로 해석됩니다.",
+    "국내거시경제": "반도체 산업이 국내 경제 성장을 견인하고 있으나, 동반된 고금리 부담은 기업 투자와 내수 회복에 부정적인 영향을 미치고 있습니다. 균형 잡힌 경제 정책의 필요성이 대두됩니다.",
+    "글로벌경제": "글로벌 경기 둔화 우려가 지속되는 가운데, 미국 증시 역시 특정 거시경제 지표와 기업 실적 우려로 하락세를 보였습니다. 이는 국내 증시 투자 심리에도 부담으로 작용하고 있습니다.",
+    "증시금리": "코스피가 장중 6천 선을 하회하며 매도 사이드카가 발동되었고, 외국인은 삼성전자와 SK하이닉스 등 대형주를 중심으로 대규모 매도를 보였습니다. 미국 증시와 한국 증시의 디커플링 심화 원인으로는 국내 기업 실적 부진과 외국인 매도세, 지정학적 리스크 등이 지목되며, 외국인 투자자 복귀 조건으로 원화 가치 안정과 제조업 경기 회복이 제시되었습니다.",
+    "부동산정책": "해당 내용 없음",
+    "기업산업": "삼성전자가 베트남 북부에 41억 달러 규모의 반도체 테스트 시설 투자를 계획하며, 글로벌 반도체 공급망 재편 및 생산 능력 확대를 통한 경쟁력 강화에 나섰습니다.",
+    "오늘의투자시사점": "국내 증시의 외국인 매도세 심화와 주요 지수 하락에 대비하여, 반도체 및 시가총액 상위 종목의 수급 동향을 면밀히 주시해야 합니다. 원화 가치 안정과 제조업 회복 여부가 향후 시장 반등의 핵심 요인이므로 관련 지표에 대한 지속적인 관심이 필요합니다.",
+    "오늘의한줄": "코스피 6천선 붕괴와 외국인 투매로 국내 증시의 하방 압력이 커진 가운데, 원화 안정과 제조업 회복이 시장 반등의 중요한 열쇠가 될 것입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "국채 금리 24년 만의 최고치 근접, 투자자들은 인플레이션 데이터와 연준 신호 주시",
-      "display_title": "국채 금리 24년 만의 최고치 근접, 투자자들은 인플레이션 데이터와 연준 신호 주시",
-      "original_title": "Treasury yields near 24-yr high as investors await inflation data, Fed signals - Seeking Alpha",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피, 47일 만에 장중 6천 포인트 붕괴 및 매도 사이드카 발동... 외국인 삼성전자·SK하이닉스 투매",
+      "display_title": "코스피, 47일 만에 장중 6천 포인트 붕괴 및 매도 사이드카 발동... 외국인 삼성전자·SK하이닉스 투매",
+      "original_title": "코스피, 47일 만에 장중 6천피 붕괴하며 매도 사이드카...외국인 삼전닉스 투매 - 생생비즈플러스",
       "summary": [
-        "미국 국채 금리가 24년 만의 최고치 수준에 근접하며 높은 수준을 유지하고 있습니다.",
-        "이는 투자자들이 인플레이션 데이터 발표와 연방준비제도(Fed)의 향후 통화정책 신호를 기다리고 있기 때문입니다.",
-        "높은 금리는 기업들의 자금 조달 비용을 높이고 증시 전반에 부담을 줄 수 있어 투자 시 주의가 필요합니다."
+        "코스피 지수가 장중 6천 포인트를 하회하며 매도 사이드카가 발동되었고, 외국인 투자자들이 삼성전자와 SK하이닉스를 중심으로 대규모 매도를 보였습니다.",
+        "이는 글로벌 경기 둔화 우려, 미국 증시 약세, 국내 기업 실적 불안정 등이 복합적으로 작용한 결과로 보입니다.",
+        "외국인 매도세가 지속될 경우 추가 하락 압력이 커질 수 있으므로 주요 반도체 및 시가총액 상위 종목의 수급 동향에 주의해야 합니다."
       ],
-      "summary_text": "미국 국채 금리가 24년 만의 최고치 수준에 근접하며 높은 수준을 유지하고 있습니다. 이는 투자자들이 인플레이션 데이터 발표와 연방준비제도(Fed)의 향후 통화정책 신호를 기다리고 있기 때문입니다. 높은 금리는 기업들의 자금 조달 비용을 높이고 증시 전반에 부담을 줄 수 있어 투자 시 주의가 필요합니다.",
-      "description": "국채 수익률이 24년 만의 최고치에 근접하고 있으며, 투자자들은 다가오는 인플레이션 데이터와 연방준비제도(Fed)의 정책 신호를 예의주시하고 있습니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
+      "summary_text": "코스피 지수가 장중 6천 포인트를 하회하며 매도 사이드카가 발동되었고, 외국인 투자자들이 삼성전자와 SK하이닉스를 중심으로 대규모 매도를 보였습니다. 이는 글로벌 경기 둔화 우려, 미국 증시 약세, 국내 기업 실적 불안정 등이 복합적으로 작용한 결과로 보입니다. 외국인 매도세가 지속될 경우 추가 하락 압력이 커질 수 있으므로 주요 반도체 및 시가총액 상위 종목의 수급 동향에 주의해야 합니다.",
+      "description": "코스피 지수가 장중 6천 포인트를 47일 만에 하회하며 매도 사이드카가 발동되었고, 외국인 투자자들이 삼성전자와 SK하이닉스를 대규모 매도했습니다.",
+      "category": "증시·금리",
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "금융, 성장주",
+      "related_sector": "반도체, IT, 증권",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스",
+        "카카오"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 금리 상승은 글로벌 자금 흐름과 국내 금리에 직접적인 영향을 미쳐 주식 시장 전반에 부담을 줄 수 있습니다.",
-      "key_signal": "이번 주 발표될 미국 CPI 등 인플레이션 데이터와 연준 위원들의 발언을 집중적으로 확인해야 합니다.",
+      "investment_reason": "코스피 지수의 급락과 외국인 투매는 전반적인 시장의 약세 신호로, 추가적인 하락 가능성을 염두에 두고 방어적인 투자 전략이 필요한 시점입니다.",
+      "key_signal": "외국인 투자자들의 매도세 지속 여부와 반도체 업황 개선 기대감에 따른 수급 변화를 주시해야 합니다.",
       "keywords": [
-        "미국국채",
-        "금리상승",
-        "인플레이션",
-        "연준"
+        "코스피",
+        "증시 급락",
+        "외국인 매도",
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWJWYURZMjVBOUdtMzlDZjJFVU5aV010SHRHcVlUZ01tMDdhNXhhNEJRb2daTkdYSG54bEMyREtUUGZiSzVETkFxMXFITFF5OFVDbXVFUUZTY0gtQTRpR3BkWDA5UTZEdlZYNXpydGJEbEQ4NEloMTlFemFUWl9NcFZtd3phaUVnaDdLSXFmZkg4WUVpenduV1FRRGpWSkE2aWlqdEFxeVc2cF9ob0RLWXpUamUwQQ?oc=5",
-      "published": "2026-10-12 05:09",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EbzZfLWViR0N2V3hWVjBsRURzeThxQzd6N0FWSzZlTTk5S0FISUZnOU9fX0lTbUVQRUlGY25pejNfNmJ1cGIwdXRGVXBVdzU4eGlEclRXdV92UXFqNFZybU91T2pMTlc0dDBvVQ?oc=5",
+      "published": "2026-10-13 10:43",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -69,37 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "이번 주 증시(10월 12-16일): 대형 은행 실적, 9월 CPI, 소매 판매가 기록적인 랠리를 시험할 것",
-      "display_title": "이번 주 증시(10월 12-16일): 대형 은행 실적, 9월 CPI, 소매 판매가 기록적인 랠리를 시험할 것",
-      "original_title": "The stock market this week (October 12–16): Big bank earnings, September CPI, and retail sales to test record rally - Clarin.com",
+      "title": "삼성, 베트남 북부 반도체 테스트 시설에 41억 달러 투자 계획",
+      "display_title": "삼성, 베트남 북부 반도체 테스트 시설에 41억 달러 투자 계획",
+      "original_title": "Samsung plans $4.1 bln investment in northern Vietnam chip testing facilities - Theinvestor",
       "summary": [
-        "이번 주 미국 증시는 대형 은행 실적, 9월 CPI, 소매 판매 데이터 등 주요 경제 지표 발표를 앞두고 있습니다.",
-        "이 지표들은 최근의 시장 랠리가 지속될 수 있을지를 가늠하는 중요한 시험대가 될 것입니다.",
-        "투자자들은 이들 지표의 결과에 따라 시장 변동성이 커질 수 있으므로 신중한 접근과 포트폴리오 점검이 필요합니다."
+        "삼성전자가 베트남 북부에 41억 달러를 투자하여 새로운 반도체 테스트 시설을 건설할 계획입니다.",
+        "이는 글로벌 반도체 공급망 재편 및 생산 능력 확대를 위한 전략적 움직임으로 풀이됩니다.",
+        "삼성의 해외 투자 확대는 글로벌 시장 경쟁력 강화와 함께 국내 반도체 장비 및 소재 기업에도 긍정적인 영향을 미칠 수 있습니다."
       ],
-      "summary_text": "이번 주 미국 증시는 대형 은행 실적, 9월 CPI, 소매 판매 데이터 등 주요 경제 지표 발표를 앞두고 있습니다. 이 지표들은 최근의 시장 랠리가 지속될 수 있을지를 가늠하는 중요한 시험대가 될 것입니다. 투자자들은 이들 지표의 결과에 따라 시장 변동성이 커질 수 있으므로 신중한 접근과 포트폴리오 점검이 필요합니다.",
-      "description": "이번 주(10월 12일~16일) 증시는 대형 은행들의 실적 발표, 9월 소비자물가지수(CPI), 소매 판매 데이터 발표를 통해 기록적인 랠리가 시험대에 오를 것입니다.",
-      "category": "글로벌 경제",
+      "summary_text": "삼성전자가 베트남 북부에 41억 달러를 투자하여 새로운 반도체 테스트 시설을 건설할 계획입니다. 이는 글로벌 반도체 공급망 재편 및 생산 능력 확대를 위한 전략적 움직임으로 풀이됩니다. 삼성의 해외 투자 확대는 글로벌 시장 경쟁력 강화와 함께 국내 반도체 장비 및 소재 기업에도 긍정적인 영향을 미칠 수 있습니다.",
+      "description": "삼성전자가 베트남 북부 지역에 반도체 테스트 시설을 구축하기 위해 41억 달러를 투자할 계획이라는 소식입니다.",
+      "category": "기업·산업",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 유통, 소비재",
+      "market_impact": "긍정",
+      "related_sector": "반도체 장비, 반도체 소재, 반도체 후공정",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "삼성전자",
+        "테스나",
+        "하나마이크론"
       ],
       "investment_view": "관심",
-      "investment_reason": "이번 주 예정된 미국 주요 경제 지표와 기업 실적은 글로벌 시장과 국내 투자 심리에 중대한 영향을 미칠 수 있습니다.",
-      "key_signal": "9월 CPI, 소매 판매 데이터, 그리고 JP모건 등 주요 은행들의 실적 발표 내용을 핵심적으로 확인해야 합니다.",
+      "investment_reason": "삼성전자의 대규모 해외 투자는 글로벌 반도체 시장에서의 입지 강화와 함께 관련 국내 협력 업체들의 성장 기회로 이어질 수 있습니다.",
+      "key_signal": "삼성전자의 투자 계획이 구체화되면 관련 국내 반도체 장비 및 소재 기업들의 수주 확대 가능성을 면밀히 살펴봐야 합니다.",
       "keywords": [
-        "미국증시",
-        "은행실적",
-        "CPI",
-        "소매판매",
-        "시장랠리"
+        "삼성전자",
+        "베트남 투자",
+        "반도체 테스트",
+        "반도체 공급망",
+        "장비/소재"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHRyWUxYTkVmUFZzREJnZEkxMWdBMFh3dUNrTmhFdlBXS25uNHM0YXFwRVhxak1qSlcxaUh3OHhSdlNDSzBxR0dXMjBkLTJKa3N3cExBajAtaldJQlhudGZpbzhlU3dGckhialVlUkZadnRSMFpsbFJlR0tDdE1FSFNhaTJTRnA2eFNXQ0s2SXpSWFNfZnlDZFJUMUJNMW9aOWdnRUFsR0ZrZktLdHM5XzZCU0hLcWVNbUVwRU4yNFZIc1VXNTZaVVE4ZEVQNThvcklFaEVoY20zWHIzTVJiaTB4U3VkOGhaRVh4dkxQRdIB9AFBVV95cUxPSVpsNUgwaTRtWFVZQzMtcC1LUEd3NlBRRjZqcE1lNWhnZUZNdHpzYkY2ZHNNb3VnT3FDc0pmWDA3aEhXanFOUHdWdDIyOXl6U3JXWTUwOFlxSXhrLXIzU3EwaWRkbHNSaHE1LVdoX1ZuenZtanRFTmttSUM5OTdieFMyM05UUkgxazFLLWRCNDZ3a2o0bDNGVFlJNnFfYlNmSG13ZkQyOU9NMkU5WFBIM3Vjbm1WZlo1RE5jbjFCeFBiVjdEMnkxUXJJTWs1MnZBZndLN0cyekduTjBTUEdsYkt5ZWhNUnI2NTdpTVRIMkxLTXJk?oc=5",
-      "published": "2026-10-11 22:08",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkUwMkNKOWgzOTVRbmRHbXhEWlJYY3kwSlRkU1hGUzhSSF9HVXdUT0NSZ3Y4bUN0dlEtcHRuYWhrQUwtSDN4XzBCWTgyU0pDdW04Z3ViSXFweGEzZU1DV3h2NXdUd0FNS3dKMXJtbHpTaXFGME9BeDlUNHFLNFZ3cHB2WDdUcnZqVUVKeDR0NC1QREZHeUkxN09Lb0R1UWduQmZHWXdaS1d4ajdHcWRR?oc=5",
+      "published": "2026-10-13 10:53",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -108,83 +109,84 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "다우존스 산업평균지수 전망: CPI와 은행 실적에 주목",
-      "display_title": "다우존스 산업평균지수 전망: CPI와 은행 실적에 주목",
-      "original_title": "Dow Jones Industrial (DJI) Average Index forecast: CPI and bank earnings in focus - Beinsure",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[긴급진단] 미국 증시는 신고가, 한국 증시는 6천 선 위협... 원인은?",
+      "display_title": "[긴급진단] 미국 증시는 신고가, 한국 증시는 6천 선 위협... 원인은?",
+      "original_title": "[긴급진단] 미국 증시는 신고가, 한국 증시는 6000선 위협…왜 이런가 - CEONEWS",
       "summary": [
-        "다우존스 산업평균지수가 이번 주 발표될 미국 CPI 데이터와 주요 은행 실적에 따라 움직일 것으로 예상됩니다.",
-        "인플레이션 지표와 금융권 실적은 전반적인 경제 건전성과 금리 정책 방향을 가늠하는 중요한 신호가 됩니다.",
-        "두 가지 주요 이벤트를 통해 시장 변동성이 커질 수 있으므로 관련 섹터 및 시장 전체에 대한 투자 전략 점검이 필요합니다."
+        "미국 증시가 신고가를 경신하는 동안, 한국 증시는 코스피 6천 선 붕괴 위협에 직면하며 극명한 대조를 보이고 있습니다.",
+        "이러한 차이는 국내 기업의 실적 부진, 외국인 매도세, 지정학적 리스크, 그리고 한미 간 통화정책 및 경제 성장률 격차 등 복합적인 요인 때문으로 분석됩니다.",
+        "국내 증시의 디커플링 심화는 외국인 투자자들의 한국 시장 이탈을 가속화할 수 있으므로, 국내 투자 환경 개선 여부에 주목해야 합니다."
       ],
-      "summary_text": "다우존스 산업평균지수가 이번 주 발표될 미국 CPI 데이터와 주요 은행 실적에 따라 움직일 것으로 예상됩니다. 인플레이션 지표와 금융권 실적은 전반적인 경제 건전성과 금리 정책 방향을 가늠하는 중요한 신호가 됩니다. 두 가지 주요 이벤트를 통해 시장 변동성이 커질 수 있으므로 관련 섹터 및 시장 전체에 대한 투자 전략 점검이 필요합니다.",
-      "description": "다우존스 산업평균지수 전망에서 이번 주 소비자물가지수(CPI) 발표와 주요 은행들의 실적 발표가 핵심적인 관심사로 떠오르고 있습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "금융, 필수소비재",
+      "summary_text": "미국 증시가 신고가를 경신하는 동안, 한국 증시는 코스피 6천 선 붕괴 위협에 직면하며 극명한 대조를 보이고 있습니다. 이러한 차이는 국내 기업의 실적 부진, 외국인 매도세, 지정학적 리스크, 그리고 한미 간 통화정책 및 경제 성장률 격차 등 복합적인 요인 때문으로 분석됩니다. 국내 증시의 디커플링 심화는 외국인 투자자들의 한국 시장 이탈을 가속화할 수 있으므로, 국내 투자 환경 개선 여부에 주목해야 합니다.",
+      "description": "미국 증시가 신고가를 기록하는 반면 한국 증시는 6천 선 붕괴 위협에 직면한 배경에 대해 긴급 진단한 기사입니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "전반적인 시장",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 주요 경제 지표와 금융권 실적은 글로벌 경기 흐름과 국내 증시 투자심리에 큰 영향을 미칩니다.",
-      "key_signal": "미국 CPI 결과와 JP모건 등 대형 은행들의 실적 발표 내용을 주의 깊게 분석해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "한미 증시의 디커플링 현상이 심화되고 있어 국내 증시 투자에 더욱 신중한 접근과 국내 경기 회복 및 기업 실적 개선 여부에 대한 면밀한 관찰이 필요합니다.",
+      "key_signal": "미국 증시와의 디커플링 원인을 정확히 이해하고, 국내 증시의 고질적인 문제점(예: 저PBR, 지정학적 리스크) 해결을 위한 정책적 노력과 기업들의 실적 개선 여부를 확인해야 합니다.",
       "keywords": [
-        "다우존스",
-        "CPI",
-        "은행실적",
-        "미국경제"
+        "한미 증시",
+        "디커플링",
+        "코스피",
+        "외국인 매도",
+        "경기 둔화"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5LWN2em9SalVZSElYT3dSRGxhQWJkSVZvUHRKeUhyQlp5cDRnUjBfOVh5LVhxbThkQWhKaC1RZjhxMXRnaUpWNXRsQV9UTllTb0Q5VDRVZjQyZjdrXzdIUXlONS02YlIzblo1TGpyYXlQNmNyZGVHakhR?oc=5",
-      "published": "2026-10-12 04:36",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ISzM3bzJWVm8zaGNhdkpSRmRoQnpNZndvaUM4b3JGV3VjbV9POExGMTlJLWs4czF3VHA4U1E4QkQxSENhVW5GdnJXNDV3clpYWkpUb0V0UkktSGpZUzdr?oc=5",
+      "published": "2026-10-13 10:17",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "한국 등 15개국, 배터리·전기차·태양광 과잉생산 공동 대응 및 COP31 앞두고 기후재원 접근성 개선 논의",
-      "display_title": "한국 등 15개국, 배터리·전기차·태양광 과잉생산 공동 대응 및 COP31 앞두고 기후재원 접근성 개선 논의",
-      "original_title": "【데일리 ESG 정책 브리핑】한국 등 15개국, 배터리·전기차·태양광 과잉생산 공동 대응…COP31 앞두고 기후재원 접근성 개선 논의 - 임팩트온",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 미국 증시: S&P 500, 나스닥 하락 원인 및 최고/최악 실적 섹터",
+      "display_title": "오늘 미국 증시: S&P 500, 나스닥 하락 원인 및 최고/최악 실적 섹터",
+      "original_title": "US Stock Market today: Reasons behind S&P 500, Nasdaq fall in Wall Street, top, worst performing sectors, - The Economic Times",
       "summary": [
-        "한국 등 15개국이 배터리, 전기차, 태양광 산업의 과잉생산 문제에 공동으로 대응하기로 했습니다.",
-        "이는 기후변화협약 당사국총회(COP31)를 앞두고 기후재원 접근성 개선 논의와 함께 진행되었습니다.",
-        "과잉생산 문제가 해소되면 관련 산업의 구조조정과 함께 경쟁 환경이 개선될 수 있어 관련 기업 투자 시 주의 깊게 살펴봐야 합니다."
+        "미국 증시에서 S&P 500과 나스닥 지수가 하락했으며, 이에 대한 원인 분석이 제시되었습니다.",
+        "주요 하락 요인으로는 특정 거시경제 지표, 기업 실적 우려, 금리 인상 가능성 등이 지목될 수 있습니다.",
+        "미국 증시의 약세는 국내 투자 심리에도 영향을 미칠 수 있으므로 주요 기술주 및 성장주 관련 동향을 주시해야 합니다."
       ],
-      "summary_text": "한국 등 15개국이 배터리, 전기차, 태양광 산업의 과잉생산 문제에 공동으로 대응하기로 했습니다. 이는 기후변화협약 당사국총회(COP31)를 앞두고 기후재원 접근성 개선 논의와 함께 진행되었습니다. 과잉생산 문제가 해소되면 관련 산업의 구조조정과 함께 경쟁 환경이 개선될 수 있어 관련 기업 투자 시 주의 깊게 살펴봐야 합니다.",
-      "description": "한국을 포함한 15개국이 배터리, 전기차, 태양광 등 주요 친환경 산업의 과잉생산 문제에 공동 대응하고, COP31을 앞두고 기후재원 접근성 개선 방안을 논의했습니다.",
-      "category": "기업·산업",
+      "summary_text": "미국 증시에서 S&P 500과 나스닥 지수가 하락했으며, 이에 대한 원인 분석이 제시되었습니다. 주요 하락 요인으로는 특정 거시경제 지표, 기업 실적 우려, 금리 인상 가능성 등이 지목될 수 있습니다. 미국 증시의 약세는 국내 투자 심리에도 영향을 미칠 수 있으므로 주요 기술주 및 성장주 관련 동향을 주시해야 합니다.",
+      "description": "월스트리트의 S&P 500과 나스닥 지수 하락 배경과 최고 및 최악 실적 섹터에 대한 분석입니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "2차전지, 전기차, 태양광",
+      "market_impact": "부정",
+      "related_sector": "기술주, 성장주",
       "related_stocks": [
-        "LG에너지솔루션",
-        "삼성SDI",
-        "한화솔루션"
+        "애플",
+        "마이크로소프트",
+        "엔비디아"
       ],
-      "investment_view": "관심",
-      "investment_reason": "주요 국가들의 과잉생산 공동 대응 정책은 국내 2차전지, 전기차, 태양광 산업의 경쟁 환경에 직접적인 영향을 줄 수 있습니다.",
-      "key_signal": "과잉생산 해소를 위한 구체적인 정책 방향과 각국 정부의 협력 수준을 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 증시의 하락세는 글로벌 투자 심리 위축 및 국내 증시 조정 가능성을 높이므로 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "미국 증시 하락의 구체적인 원인과 하락 주도 섹터를 파악하여 국내 증시 영향력을 가늠해야 합니다.",
       "keywords": [
-        "과잉생산",
-        "2차전지",
-        "전기차",
-        "태양광",
-        "ESG"
+        "미국 증시",
+        "S&P 500",
+        "나스닥",
+        "증시 하락",
+        "투자 심리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55Z3I5NzVZeUQ1QWxfUHp1TlhsVHY4R3BPODYxM0NublZXZjlQeGdybFVLeUY4cjdXVFdNbmhLMFJmSUVsNGxldURMSFozWmVFcjVmUFhGbTBuajBUZmtoblFVODNpb24yLWc?oc=5",
-      "published": "2026-10-12 09:26",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOT0NSUjB6Qnlkb2hLSEdYOGd2eHgzS2hObWlDVklEbE9oOFctUld5WWpmQ2FWRVhQbkhtcFNoWDJzTm80aUtydTkyVWtOZXU1UEdIczdic3Bha29JMWtYQW9qdmZmdlJMSEYwTzlSSnU4Ykp4cElhdXpWRG55RHVSREZNZTJYZ2NvN3N2LXdhWkp4cjZ1TzlPVWZmYm5zb0JVekEzTDhZTEY4bVNWTzFuR1B3LWJwZUQ1UmM2UTBfcHl5OUFpY2RpV1ltWDBOUVFJQXpfaXpBbDN1ajhBQ2N4bXhyVVk2b3RGbU9ncFZzT2xESDFZdlIwT0psNU9sdk5iczlGb19DdTFxUGViUmdj0gGUAkFVX3lxTE1zX0RCUWllNXJPOEZrRGwtQWdhc2ZObEdCVHk5TUF4cUdKNGd4Y0VESlZuYXN0T1lfaHVUZEZ0c3JOU3VIclR2aGhMZzNpQ3RGdE4tU2p6LVZVcHd4X1AxVGlLNGROVDN4UFM1SXNLQlVwZnlLcWFLYm4zVkNxTmdwU3ZfUW1OWmFqdXVORnY1REhiQkVlV0FCUzZVLUpmUUJOYWZtczNUbldCZ3hPU1lIWXVCUlVPWUQyUEJkRGg5UDhQZjBiNkphMEw4cjRCbC1TbTBEODFUQUlZY25Jd3FNWUNHVmRWM1pYV3U5Tm4xcTZ4MUdObGpzS21ibXVxRXpWcVFiX1JOY3VnZ2NfaWk2WnJ6Sw?oc=5",
+      "published": "2026-10-13 09:01",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -194,36 +196,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "“한숨만 푹푹” 연휴 후 코스피 하락, 삼성전자·SK하이닉스도 동반 약세",
-      "display_title": "“한숨만 푹푹” 연휴 후 코스피 하락, 삼성전자·SK하이닉스도 동반 약세",
-      "original_title": "“한숨만 푹푹” 연휴 끝나서 우울한데 코스피까지…‘삼전닉스’도 주르륵 [투자360] - 헤럴드경제",
+      "title": "외국인 국내 증시 복귀 조건은? 하나증권 \"원화 안정·제조업 회복이 관건\"",
+      "display_title": "외국인 국내 증시 복귀 조건은? 하나증권 \"원화 안정·제조업 회복이 관건\"",
+      "original_title": "외국인 국내증시 복귀 조건은?…하나證 “원화 안정·제조업 회복 봐야\" - 조선비즈 - Chosunbiz",
       "summary": [
-        "연휴 이후 국내 증시가 투자 심리 위축과 함께 코스피 지수가 하락세를 기록했습니다.",
-        "시장 대형주인 삼성전자와 SK하이닉스(삼전닉스)도 약세를 면치 못하며 지수 하락을 이끌었습니다.",
-        "이는 글로벌 시장의 불확실성 증대와 함께 국내 투자자들의 우려를 키우는 요인으로, 반도체 및 대형주 실적과 글로벌 경기 회복 여부를 주시해야 합니다."
+        "하나증권은 외국인 투자자들이 국내 증시로 돌아오려면 원화 가치 안정과 국내 제조업 경기 회복이 선행되어야 한다고 분석했습니다.",
+        "원화 약세와 제조업 부진은 외국인 자금 유출의 주요 원인이며, 이 두 가지 지표의 개선이 투자 심리 회복의 중요한 신호가 될 것입니다.",
+        "외국인 매도세가 국내 증시에 큰 부담을 주고 있는 상황에서, 환율 안정과 제조업 지표 개선 여부가 향후 시장 반등의 핵심 요인이 될 수 있습니다."
       ],
-      "summary_text": "연휴 이후 국내 증시가 투자 심리 위축과 함께 코스피 지수가 하락세를 기록했습니다. 시장 대형주인 삼성전자와 SK하이닉스(삼전닉스)도 약세를 면치 못하며 지수 하락을 이끌었습니다. 이는 글로벌 시장의 불확실성 증대와 함께 국내 투자자들의 우려를 키우는 요인으로, 반도체 및 대형주 실적과 글로벌 경기 회복 여부를 주시해야 합니다.",
-      "description": "긴 연휴가 끝나고 투자 심리가 가라앉은 가운데 코스피 지수마저 하락세를 보이며, 삼성전자와 SK하이닉스 등 대형주도 동반 약세를 나타냈습니다.",
+      "summary_text": "하나증권은 외국인 투자자들이 국내 증시로 돌아오려면 원화 가치 안정과 국내 제조업 경기 회복이 선행되어야 한다고 분석했습니다. 원화 약세와 제조업 부진은 외국인 자금 유출의 주요 원인이며, 이 두 가지 지표의 개선이 투자 심리 회복의 중요한 신호가 될 것입니다. 외국인 매도세가 국내 증시에 큰 부담을 주고 있는 상황에서, 환율 안정과 제조업 지표 개선 여부가 향후 시장 반등의 핵심 요인이 될 수 있습니다.",
+      "description": "하나증권은 외국인 투자자들이 국내 증시로 다시 돌아오기 위한 조건으로 원화 안정과 국내 제조업 회복을 꼽았습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "반도체, 대형주",
+      "market_impact": "중립",
+      "related_sector": "전반적인 시장, 제조업, 반도체, 자동차",
       "related_stocks": [
         "삼성전자",
+        "현대차",
         "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "국내 증시의 방향성을 결정하는 주요 대형주와 반도체 섹터의 약세는 시장 전반의 투자 전략에 중요한 영향을 미칩니다.",
-      "key_signal": "외국인 매매 동향과 주요 반도체 기업들의 실적 전망 및 글로벌 IT 수요 회복 여부를 지속적으로 체크해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "외국인 수급은 국내 증시의 중요한 동력이며, 이들의 복귀 조건에 대한 분석은 향후 시장 방향성을 예측하고 투자 전략을 수립하는 데 필수적입니다.",
+      "key_signal": "환율(원/달러 환율) 추이와 국내 제조업 생산 및 수출 지표를 면밀히 모니터링하여 외국인 수급 개선 가능성을 판단해야 합니다.",
       "keywords": [
-        "코스피",
-        "삼성전자",
-        "SK하이닉스",
-        "반도체",
-        "증시하락"
+        "외국인 수급",
+        "원화 안정",
+        "제조업 회복",
+        "환율",
+        "증시 반등"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83ZEZDNENzUVVYeU9RcEJHb0pYV2dOLTdnNC1GX1FtOElaVWU5Rm5rWmlMaUNXQ3ozMGJUOWZ2c05MVHJ1elA1WUlHbVZHVm53TGVVUG1R?oc=5",
-      "published": "2026-10-12 09:51",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQlFONzlYa1NjRHk5Q0Y1dkIxaENQVkw0NlFDQWpsMTZLRmwwZHB5cllnaG9GUnN4V1liNDB2cHZfTXJQQjVpSkhycENuTGlhaTRhOWtRUXFVNXFWbklkbndMQ28yZXNLdGRiN2VJdV9zdVVkZjV4X2ZtUVZPRGxaU3VOUUM1RXlUaHdmeTFYMTdUWE54RlhKSmhNbHTSAZwBQVVfeXFMTkJRTjc5WGtTY0R5OUNGNXZCMWhDUFZMNDZRQ0FqbDE2S0ZsMGRweXJZZ2hvRlJzeFdZYjQwdnB2X01yUEI1aUpIcnBDbkxpYWk0YTlrUVFxVTVxVm5JZG53TENvMmVzS3RkYjdlSXVfc3VVZGY1eF9mbVFWT0RsWlN1TlFDNUV5VGh3ZnkxWDE3VFhOeEZYSkpoTWx0?oc=5",
+      "published": "2026-10-13 09:01",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -235,35 +238,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "외국인 투자자 이탈 지속되는 코스피, 10월 중순이 반등의 분수령 될까",
-      "display_title": "외국인 투자자 이탈 지속되는 코스피, 10월 중순이 반등의 분수령 될까",
-      "original_title": "코스피 등돌린 외국인, 언제 컴백할까…10월 중순이 분수령 - 아주경제",
+      "title": "[정선미의 돈터치] 반도체가 견인한 성장, 모두가 부담하는 금리",
+      "display_title": "[정선미의 돈터치] 반도체가 견인한 성장, 모두가 부담하는 금리",
+      "original_title": "[정선미의 돈터치] 반도체가 끌어올린 성장, 모두가 감당하는 금리 - KB Think",
       "summary": [
-        "코스피 시장에서 외국인 투자자들의 매도세가 지속되며 지수 하락 압력을 가하고 있습니다.",
-        "일부 분석에 따르면 10월 중순이 외국인 투자심리 개선과 매수 전환의 중요한 변곡점이 될 수 있습니다.",
-        "외국인 수급은 국내 증시의 주요 동력이므로, 10월 중순 전후 외국인의 순매수 전환 여부와 그 배경을 면밀히 관찰해야 합니다."
+        "국내 경제 성장이 주로 반도체 산업에 의해 견인되고 있으나, 이와 동반된 고금리 부담은 경제 전반에 영향을 미치고 있습니다.",
+        "반도체 중심의 성장은 특정 섹터에 긍정적이지만, 높은 금리는 기업의 투자 심리를 위축시키고 가계 부채 부담을 가중시켜 내수 회복을 저해할 수 있습니다.",
+        "반도체 호황에만 의존하기보다는 금리 인하 기대감 형성 및 내수 활성화를 위한 균형 잡힌 경제 정책의 필요성을 시사합니다."
       ],
-      "summary_text": "코스피 시장에서 외국인 투자자들의 매도세가 지속되며 지수 하락 압력을 가하고 있습니다. 일부 분석에 따르면 10월 중순이 외국인 투자심리 개선과 매수 전환의 중요한 변곡점이 될 수 있습니다. 외국인 수급은 국내 증시의 주요 동력이므로, 10월 중순 전후 외국인의 순매수 전환 여부와 그 배경을 면밀히 관찰해야 합니다.",
-      "description": "외국인 투자자들이 코스피에서 이탈하는 현상이 지속되는 가운데, 10월 중순이 외국인 매수세 전환의 중요한 분수령이 될 수 있다는 분석입니다.",
-      "category": "증시·금리",
+      "summary_text": "국내 경제 성장이 주로 반도체 산업에 의해 견인되고 있으나, 이와 동반된 고금리 부담은 경제 전반에 영향을 미치고 있습니다. 반도체 중심의 성장은 특정 섹터에 긍정적이지만, 높은 금리는 기업의 투자 심리를 위축시키고 가계 부채 부담을 가중시켜 내수 회복을 저해할 수 있습니다. 반도체 호황에만 의존하기보다는 금리 인하 기대감 형성 및 내수 활성화를 위한 균형 잡힌 경제 정책의 필요성을 시사합니다.",
+      "description": "국내 경제 성장을 반도체가 주도하고 있지만, 이로 인해 상승하는 금리 부담을 모두가 짊어지고 있다는 내용을 다룬 KB Think의 분석 칼럼입니다.",
+      "category": "국내 거시경제",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "전반적인 시장",
+      "market_impact": "중립",
+      "related_sector": "반도체, 건설, 금융",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스"
+        "SK하이닉스",
+        "카카오뱅크"
       ],
       "investment_view": "관심",
-      "investment_reason": "외국인 투자자의 매매 동향은 국내 증시의 주요 상승 동력이자 향후 시장 흐름을 예측하는 핵심 지표이기 때문에 중요합니다.",
-      "key_signal": "10월 중순을 전후한 외국인 순매수 전환 여부와 글로벌 경기 및 금리 환경 변화를 주시해야 합니다.",
+      "investment_reason": "반도체에 편중된 국내 성장 동력과 전반적인 고금리 환경은 국내 경제와 증시에 복합적인 영향을 미치므로, 이를 이해하는 것이 중요합니다.",
+      "key_signal": "반도체 업황의 지속적인 개선 여부와 함께 국내 금리 인하 시점, 그리고 금리 부담 완화를 위한 정부 정책의 방향성을 주시해야 합니다.",
       "keywords": [
-        "외국인매매",
-        "코스피",
-        "수급",
-        "시장전망"
+        "반도체 성장",
+        "고금리",
+        "국내 경제",
+        "가계 부채",
+        "내수 침체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fb0J4ZVdNMHBiTmd5WTk3WG10dkdORDZ0NzRlUXhzZjJIR3Q0VDZLTF9jQklLU2MxZVE3dlRCQjhjWFRGZG9UWHI4RXdRc3ZZREpiMThKMDnSAVhBVV95cUxNX29CeGVXTTBwYk5neVk5N1htdHZHTkQ2dDc0ZVF4c2YySEd0NFQ2S0xfY0JJS1NjMWVRN3ZUQkI4Y1hURmRvVFhyOEV3UXN2WURKYjE4SjA5?oc=5",
-      "published": "2026-10-12 05:00",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SeUkxWHptaGg2YUp3T0RwNXMwblZrNTVxN212djByaU9jUWdwd1RHeUc1V1k4bmc4Y2xIV0h2aGpyU3c3ZURKS2I5eUdCUHp1d2ttOFFJNTh6eWNLZ3I5Z29IeUFqU0J6Z01Cb2RURGVMQQ?oc=5",
+      "published": "2026-10-13 08:53",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -278,65 +283,64 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 금리 상승 부담과 외국인 투자자 이탈 속에서 국내 증시의 방향성을 결정하는 핵심 종목입니다. 최근 약세에도 불구하고 반등의 분수령이 될 수 있는지 주목해야 합니다.",
+      "reason": "글로벌 반도체 시장의 핵심 기업인 삼성전자의 베트남 대규모 투자는 장기적인 관점에서 기업의 경쟁력 강화와 국내 관련 협력사 성장에 긍정적인 영향을 미칠 수 있습니다. 단기적인 시장 불안감 속에서도 기업의 중장기 성장 모멘텀에 주목할 필요가 있습니다.",
       "check_points": [
-        "미국 국채 금리 동향",
-        "외국인 투자자 수급 변화",
-        "반도체 업황 개선 신호"
+        "외국인 매매 동향 및 환율 안정 여부",
+        "글로벌 D램/낸드 가격 추이 및 반도체 업황 회복 속도",
+        "베트남 투자 계획의 구체적인 진행 상황 및 성과"
       ],
       "related_news_titles": [
-        "국채 금리 24년 만의 최고치 근접, 투자자들은 인플레이션 데이터와 연준 신호 주시",
-        "“한숨만 푹푹” 연휴 후 코스피 하락, 삼성전자·SK하이닉스도 동반 약세",
-        "외국인 투자자 이탈 지속되는 코스피, 10월 중순이 반등의 분수령 될까"
+        "삼성, 베트남 북부 반도체 테스트 시설에 41억 달러 투자 계획",
+        "코스피, 47일 만에 장중 6천 포인트 붕괴 및 매도 사이드카 발동... 외국인 삼성전자·SK하이닉스 투매",
+        "외국인 국내 증시 복귀 조건은? 하나증권 \"원화 안정·제조업 회복이 관건\""
       ]
     },
     {
       "rank": 2,
-      "name": "KB금융",
-      "market": "KOSPI",
-      "sector": "금융",
+      "name": "하나마이크론",
+      "market": "KOSDAQ",
+      "sector": "반도체 후공정",
       "opinion": "관심",
-      "reason": "이번 주 발표될 미국 9월 CPI와 주요 은행 실적은 글로벌 금융 시장과 국내 투자 심리에 중대한 영향을 미칠 수 있습니다. 금융 섹터의 대표주인 KB금융을 통해 흐름을 확인해야 합니다.",
+      "reason": "삼성전자의 베트남 반도체 테스트 시설 대규모 투자는 반도체 후공정 관련 국내 협력 업체들에게 새로운 성장 기회를 제공할 수 있습니다. 글로벌 반도체 공급망 내에서 이들 기업의 역할 확대 및 수혜 가능성을 관심 있게 지켜볼 필요가 있습니다.",
       "check_points": [
-        "미국 9월 CPI 발표 결과",
-        "미국 대형 은행 실적 발표",
-        "국내외 금리 변동성"
+        "삼성전자 투자 계획 구체화에 따른 수주 기대감",
+        "글로벌 반도체 후공정 시장 동향 및 기술 경쟁력",
+        "분기별 실적 발표를 통한 수주 및 매출 성장세 확인"
       ],
       "related_news_titles": [
-        "이번 주 증시(10월 12-16일): 대형 은행 실적, 9월 CPI, 소매 판매가 기록적인 랠리를 시험할 것",
-        "다우존스 산업평균지수 전망: CPI와 은행 실적에 주목"
+        "삼성, 베트남 북부 반도체 테스트 시설에 41억 달러 투자 계획"
       ]
     },
     {
       "rank": 3,
-      "name": "LG에너지솔루션",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "2차전지",
+      "sector": "자동차",
       "opinion": "관심",
-      "reason": "한국을 포함한 주요 15개국이 배터리·전기차 산업의 과잉생산 공동 대응을 논의하고 있어, 관련 정책 변화가 국내 2차전지 산업의 경쟁 환경에 미칠 영향을 면밀히 관찰해야 합니다.",
+      "reason": "외국인 투자자들의 국내 증시 복귀의 주요 조건으로 제조업 회복이 제시된 만큼, 자동차 산업을 대표하는 현대차의 실적 개선과 수출 동향은 국내 증시 전반의 활력 회복을 가늠하는 중요한 지표가 될 수 있습니다. 제조업 전반의 투자심리 개선 여부를 함께 관찰해야 합니다.",
       "check_points": [
-        "과잉생산 공동 대응 정책의 구체화",
-        "글로벌 전기차 시장의 수요 및 공급 균형",
-        "주요국 보조금 정책 변화"
+        "원화 환율 안정화 및 외국인 매매 동향",
+        "글로벌 판매량 및 시장 점유율 변화",
+        "글로벌 전기차 시장 경쟁 및 전동화 전략 추진 현황"
       ],
       "related_news_titles": [
-        "한국 등 15개국, 배터리·전기차·태양광 과잉생산 공동 대응 및 COP31 앞두고 기후재원 접근성 개선 논의"
+        "외국인 국내 증시 복귀 조건은? 하나증권 \"원화 안정·제조업 회복이 관건\""
       ]
     },
     {
       "rank": 4,
-      "name": "네이버",
+      "name": "카카오뱅크",
       "market": "KOSPI",
-      "sector": "인터넷 플랫폼",
-      "opinion": "주의",
-      "reason": "국채 금리가 24년 만의 최고치에 근접하는 등 고금리 환경이 지속될 경우, 성장주에 대한 투자 심리가 위축될 수 있습니다. 금리 동향과 함께 네이버의 주가 흐름을 주의 깊게 살펴야 합니다.",
+      "sector": "금융 (인터넷전문은행)",
+      "opinion": "중립",
+      "reason": "국내 경제의 고금리 환경은 금융 섹터에 복합적인 영향을 미치고 있습니다. 인터넷전문은행으로서 금리 변동에 따른 수익성 변화와 대출 건전성 관리 현황을 면밀히 관찰하며, 시장 변화에 따른 금융 환경 변화에 대비할 필요가 있습니다.",
       "check_points": [
-        "미국 국채 금리 변동성",
-        "인플레이션 데이터 발표",
-        "성장주 전반의 투자심리 변화"
+        "기준금리 변동 추이 및 순이자마진(NIM) 변화",
+        "연체율 등 자산 건전성 지표 변화",
+        "플랫폼 경쟁력 강화 및 신규 서비스 출시 여부"
       ],
       "related_news_titles": [
-        "국채 금리 24년 만의 최고치 근접, 투자자들은 인플레이션 데이터와 연준 신호 주시"
+        "[정선미의 돈터치] 반도체가 견인한 성장, 모두가 부담하는 금리"
       ]
     }
   ],
