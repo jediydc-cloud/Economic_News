@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14 09:53",
-  "analysis_date": "2026-10-14",
+  "generated_at": "2026-10-15 09:18",
+  "analysis_date": "2026-10-15",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,53 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 경제는 AI 기반 성장 기대와 함께 시장 과열 및 금융 시스템 리스크 경고가 상존합니다. 국내 증시는 외국인 매수세에 힘입어 반등했으나, 주요 경제 지표 발표를 앞두고 신중한 접근이 요구됩니다.",
-    "국내거시경제": "국내 증시는 외국인 매수 전환에 힘입어 코스피가 반등했으나, 전반적인 거시 경제 지표나 정책 변화에 대한 새로운 소식은 제한적입니다.",
-    "글로벌경제": "IMF는 올해 세계 경제 성장률 전망치를 상향 조정했지만, AI 붐이 초래할 시장 과열과 사이버 위협 등 글로벌 금융 시스템의 위험 고조를 경고했습니다. AI 기술 발전에 따른 잠재적 위험에 대한 주의가 필요합니다.",
-    "증시금리": "마이크로소프트의 AI 모멘텀에 나스닥 선물이 상승했으나, PCE 및 CPI 발표와 지정학적 리스크로 투자 심리는 여전히 신중합니다. 국내 코스피는 외국인 순매수에 힘입어 2%대 상승 출발했으며, 증권가는 과도한 투매의 실익이 제한적이라는 의견을 제시했습니다.",
-    "부동산정책": "해당 없음",
-    "기업산업": "AI 기술의 빠른 발전은 관련 기업들의 주가에 긍정적 영향을 미치고 있으나, IMF의 경고처럼 산업 전반의 과열 가능성과 사이버 보안 리스크에 대한 주의가 필요합니다.",
-    "오늘의투자시사점": "AI 관련 대형 기술주에 대한 관심은 유효하나, 시장 과열 가능성과 잠재적 리스크를 함께 고려해야 합니다. 인플레이션 지표(PCE, CPI) 발표에 따른 시장 변동성 확대에 대비하고, 외국인 수급 동향과 국내 증시의 저가 매수 기회를 면밀히 주시하며 분할 매수 전략을 검토할 시점입니다.",
-    "오늘의한줄": "AI 성장 기대와 금융 시스템 리스크 경고가 공존하는 가운데, 주요 지표 발표를 앞두고 신중한 접근 속 국내 증시 외국인 수급 동향에 주목해야 합니다."
+    "총평": "미국 CPI 충격으로 글로벌 및 국내 증시의 투자 심리가 크게 위축되었으며, 고금리 장기화 우려로 기술주 중심의 조정이 예상됩니다.",
+    "국내거시경제": "미국발 인플레이션과 금리 인상 압박으로 국내 증시 변동성이 확대되고 있으며, 국내 대출 금리 상승 압박도 커지고 있습니다.",
+    "글로벌경제": "미국 9월 CPI가 예상치를 상회하며 연준의 긴축 장기화 우려를 심화시켰고, 이는 미국 증시 급락과 국채 금리 급등으로 이어졌습니다.",
+    "증시금리": "미국 CPI 충격으로 나스닥이 급락하고 코스피 6000선이 위협받고 있으며, 미국 10년물 국채 금리 급등으로 고금리 환경 장기화 가능성이 높아졌습니다.",
+    "부동산정책": "특이사항 없음.",
+    "기업산업": "금리 인상 장기화 우려 및 AI 투자 지출 둔화 가능성으로 삼성전자, SK하이닉스 등 국내 주요 기술주 및 AI 관련 종목들이 하방 압력을 받고 있습니다.",
+    "오늘의투자시사점": "글로벌 고금리 장기화와 기술주 밸류에이션 부담이 커져 포트폴리오 조정이 필요하며, AI 및 반도체 등 성장주 투자에 신중한 접근이 요구됩니다.",
+    "오늘의한줄": "미국 CPI 충격으로 고금리 장기화 우려가 확산되며 기술주 중심의 시장 조정에 대비해야 합니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "IMF, \"AI 관련 시장 조정 및 사이버 위협으로 글로벌 금융 시스템 위험 고조\" 경고",
-      "display_title": "IMF, \"AI 관련 시장 조정 및 사이버 위협으로 글로벌 금융 시스템 위험 고조\" 경고",
-      "original_title": "The International Monetary Fund warned of \"elevated\" risks faced by the global financial system, with potential perils including an AI-related market correction and cyber threats that could have \"severe\" consequences. Link to the full story in the comments secti - Facebook",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[국내증시 전망] 코스피 6000선 위태…미국 CPI 충격에 삼성전자·SK하이닉스 시험대",
+      "display_title": "[국내증시 전망] 코스피 6000선 위태…미국 CPI 충격에 삼성전자·SK하이닉스 시험대",
+      "original_title": "[국내증시 전망] 코스피 6000선 위태…미국 CPI 충격에 삼성전자·SK하이닉스 시험대 - 톱스타뉴스",
       "summary": [
-        "IMF가 AI 관련 시장 조정과 사이버 위협을 포함한 글로벌 금융 시스템의 '고조된' 위험을 경고했다.",
-        "급격한 AI 기술 발전과 디지털화 심화가 새로운 유형의 금융 리스크를 초래할 수 있다는 인식에서 비롯된 경고다.",
-        "AI 관련 주식 투자 시 과열 가능성과 사이버 보안 위험에 대한 면밀한 점검이 필요하며, 장기적 관점에서 안정성을 고려해야 한다."
+        "미국 CPI 충격으로 국내 증시 코스피가 6000선이 위태로우며, 삼성전자와 SK하이닉스 등 주요 기술주가 하방 압력을 받고 있습니다.",
+        "예상치를 뛰어넘는 미국 CPI 지표는 금리 인상 장기화 우려를 심화시켜 글로벌 기술주 전반에 대한 투자 심리를 위축시켰습니다.",
+        "국내 증시는 미국발 금리 및 인플레이션 압박에 민감하게 반응할 것으로 예상되므로, 대형 기술주 중심의 포트폴리오 조정이 필요할 수 있습니다."
       ],
-      "summary_text": "IMF가 AI 관련 시장 조정과 사이버 위협을 포함한 글로벌 금융 시스템의 '고조된' 위험을 경고했다. 급격한 AI 기술 발전과 디지털화 심화가 새로운 유형의 금융 리스크를 초래할 수 있다는 인식에서 비롯된 경고다. AI 관련 주식 투자 시 과열 가능성과 사이버 보안 위험에 대한 면밀한 점검이 필요하며, 장기적 관점에서 안정성을 고려해야 한다.",
-      "description": "국제통화기금(IMF)은 AI 관련 시장 조정과 심각한 결과를 초래할 수 있는 사이버 위협 등 잠재적 위험으로 글로벌 금융 시스템이 고조된 위험에 직면해 있다고 경고했습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
+      "summary_text": "미국 CPI 충격으로 국내 증시 코스피가 6000선이 위태로우며, 삼성전자와 SK하이닉스 등 주요 기술주가 하방 압력을 받고 있습니다. 예상치를 뛰어넘는 미국 CPI 지표는 금리 인상 장기화 우려를 심화시켜 글로벌 기술주 전반에 대한 투자 심리를 위축시켰습니다. 국내 증시는 미국발 금리 및 인플레이션 압박에 민감하게 반응할 것으로 예상되므로, 대형 기술주 중심의 포트폴리오 조정이 필요할 수 있습니다.",
+      "description": "미국 소비자물가지수(CPI) 충격으로 국내 증시 코스피 6000선이 위태로우며, 삼성전자와 SK하이닉스 등 주요 기술주가 시험대에 올랐습니다.",
+      "category": "증시·금리",
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "인공지능, 사이버 보안",
+      "related_sector": "반도체, 기술주, 국내 증시 전반",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "IMF의 경고는 AI 관련 시장 과열 가능성과 잠재적 리스크에 대한 투자자들의 주의를 요구하므로, 관련 종목 투자 시 신중한 접근이 필요하다.",
-      "key_signal": "AI 관련 기술주 포트폴리오의 리스크를 점검하고, 사이버 보안 관련 투자 기회를 모색해야 한다.",
+      "investment_reason": "미국 CPI발 충격이 국내 증시, 특히 반도체 대형주에 직접적인 하방 압력을 가하고 있어 시장 전반의 변동성 확대가 예상되기 때문입니다.",
+      "key_signal": "외국인 및 기관 투자자의 국내 대형 기술주 매매 동향과 미국 증시의 추가 조정 여부를 면밀히 관찰해야 합니다.",
       "keywords": [
-        "IMF",
-        "AI",
-        "시장조정",
-        "사이버위협",
-        "글로벌금융"
+        "국내 증시",
+        "코스피",
+        "미국 CPI",
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTDE0YndEUDFvY3c5SmIzczdha1ZsN2MyVzdmeWtldVR3TXJ4a1p0NnFLNVJ0ZlY0alRUbWpycTZzUC1SN3Q2SHJHNjFVSzF6OUZrelBPZ09kRDdPVGpHS2tXaGVZR2lJRll1WTloVHZTTEQ5LXhKOVlUTnhmWmlYc3ZKU1dkR2N1eE83NVg2M1N0ZlliU3hLSzlETTE0RGs0bzAzcW9UbVZEWkZOU2hVSkp5alp2ZGtJYjJFcTlkaXhXakpuQS10MFp6RXJJYmJzMHlZZ2Noaw?oc=5",
-      "published": "2026-10-13 22:48",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jcm5DcGp4dS0yWmRaVUFQb2lSZHVTQThMZUpURW9VQkw4VWRxYkpsdlF0YzZva1pyMmJleTZTOFN2UVFDYlZpeG9zRkgyTWc5VmJnM3BvM2ZIVllhQ3BsaWdjRWh4czF5NUZGVk03WGxVdw?oc=5",
+      "published": "2026-10-15 08:44",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,37 +69,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "마이크로소프트 AI 거래 상승에 나스닥 선물 소폭 상승, PCE, 연준 분열, 이란 공격으로 투자자들은 여전히 신중: META, AMZN, AAPL, MU, IBRX 주목",
-      "display_title": "마이크로소프트 AI 거래 상승에 나스닥 선물 소폭 상승, PCE, 연준 분열, 이란 공격으로 투자자들은 여전히 신중: META, AMZN, AAPL, MU, IBRX 주목",
-      "original_title": "Nasdaq Futures Tick Higher As Microsoft Lifts AI Trade, PCE, Fed Split, And Iran Strikes Keep Investors Cautious: Why META, AMZN, AAPL, MU, IBRX Are In Focus - Stocktwits",
+      "title": "인플레이션 악화에 미국 증시, 7월 이후 최악의 하락세 기록",
+      "display_title": "인플레이션 악화에 미국 증시, 7월 이후 최악의 하락세 기록",
+      "original_title": "US stocks drop to their worst day since July as inflation worsens - CommBank",
       "summary": [
-        "마이크로소프트의 AI 관련 강세에 힘입어 나스닥 선물이 상승했으나, PCE, 연준 분열, 이란 공격 등 복합적인 요인으로 투자 심리는 여전히 신중하다.",
-        "AI 기술주는 시장의 주요 성장 동력이지만, 거시 경제 지표와 지정학적 리스크는 시장 전반의 불확실성을 높인다.",
-        "AI 관련 대형 기술주는 여전히 유망하지만, 인플레이션 지표(PCE)와 지정학적 리스크를 지속적으로 주시하며 시장 변동성에 대비해야 한다."
+        "미국 증시가 인플레이션 악화로 인해 7월 이후 최악의 일일 하락폭을 기록했습니다.",
+        "예상보다 높은 인플레이션 지표가 금리 인상에 대한 시장의 우려를 키우면서 기술주 중심의 매도세가 나타났습니다.",
+        "인플레이션 압박이 지속될 경우 연준의 긴축 정책 장기화 가능성이 높아져 증시 전반에 부담으로 작용할 수 있습니다."
       ],
-      "summary_text": "마이크로소프트의 AI 관련 강세에 힘입어 나스닥 선물이 상승했으나, PCE, 연준 분열, 이란 공격 등 복합적인 요인으로 투자 심리는 여전히 신중하다. AI 기술주는 시장의 주요 성장 동력이지만, 거시 경제 지표와 지정학적 리스크는 시장 전반의 불확실성을 높인다. AI 관련 대형 기술주는 여전히 유망하지만, 인플레이션 지표(PCE)와 지정학적 리스크를 지속적으로 주시하며 시장 변동성에 대비해야 한다.",
-      "description": "마이크로소프트의 AI 관련 거래가 나스닥 선물을 소폭 끌어올렸지만, PCE 지표, 연준 내 의견 분열, 이란 공격 등 여러 요인으로 투자자들은 여전히 신중한 태도를 보이고 있습니다. 이에 따라 META, AMZN, AAPL, MU, IBRX 등의 종목이 주목받고 있습니다.",
+      "summary_text": "미국 증시가 인플레이션 악화로 인해 7월 이후 최악의 일일 하락폭을 기록했습니다. 예상보다 높은 인플레이션 지표가 금리 인상에 대한 시장의 우려를 키우면서 기술주 중심의 매도세가 나타났습니다. 인플레이션 압박이 지속될 경우 연준의 긴축 정책 장기화 가능성이 높아져 증시 전반에 부담으로 작용할 수 있습니다.",
+      "description": "인플레이션이 악화되면서 미국 주식 시장이 7월 이후 가장 큰 하락세를 보였습니다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "인공지능, 반도체, 클라우드 컴퓨팅",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "기술주, 성장주",
       "related_stocks": [
-        "마이크로소프트",
-        "META",
-        "AMZN"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 관련 기술주가 시장을 견인하고 있으나, 거시경제 지표와 지정학적 리스크가 잠재적 변동성을 내포하고 있어 전반적인 시장 상황을 이해하는 데 중요하다.",
-      "key_signal": "주요 기술 기업의 AI 관련 사업 확장과 함께 PCE 지표, 연준의 발언, 중동 정세 변화를 종합적으로 모니터링해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 인플레이션 심화가 금리 인상 기대를 높여 글로벌 증시 특히 기술주에 부정적 영향을 미치고 있기 때문입니다.",
+      "key_signal": "다음 발표될 미국 물가 지표와 연준 위원들의 발언을 면밀히 주시해야 합니다.",
       "keywords": [
-        "나스닥",
-        "AI",
-        "마이크로소프트",
-        "PCE",
-        "연준"
+        "미국 증시",
+        "인플레이션",
+        "금리 인상",
+        "기술주",
+        "시장 하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOFZ1THpwSUpRMUlTMzNXSFdEclhaamtybVJwWURIUW9uZzMtc3JMNWFEMy1kT1NXcnlMRU1xaktpZmRlSVhuZmpCLXFLektZM0JMTnZ4QkI5VVE2SDlGd25xdHE3RDZCMl91VDNGSFdxVFpmOUUwck43YU13UGZVNUdsc0ZZZ3BfcWJWaFZFRXUtUHgxTnpYTHB1b1c2VWNPTEUwX1hKbXo5R1k5V2lBVlhkUDJLLThiQnRHX3QzMzJ6VHoxRVpvcThiYWFidTljTUItLS1VWTJ5bUpvTFNBRmJRTV84Zw?oc=5",
-      "published": "2026-10-13 23:38",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVS14bV80ZHJmNWFZLVhWUHBTa1VVRFNXcFQ2VF9veTlTMnJCRXQyb29qTExPTnEzR05hVEFkTWlMTFRVdkxkNkpHTUU2djk0YnRDTXVhZC0zcjFzWHZFNXppZWxuNC1kLUhmRWxqaHA3VEZFeFdsdWhydzVaX1BPNDhHelRGOWp3VlZPUW5QUHdPSUtJdHpUWEZJV1lnRlFuMmdlT3FIQ0JhZ0l4RTl6WWJrRjU5MU1UbjZER0twUXpudw?oc=5",
+      "published": "2026-10-15 06:54",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -112,37 +110,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "IMF, 올해 세계 성장률 전망치 상향 조정했지만 AI 붐 경고",
-      "display_title": "IMF, 올해 세계 성장률 전망치 상향 조정했지만 AI 붐 경고",
-      "original_title": "IMF raises forecast for world growth this year but warns of AI boom - macau daily times 澳門每日時報",
+      "title": "9월 CPI 가속화에 금리 인상 기대 재점화, 나스닥 496포인트 급락",
+      "display_title": "9월 CPI 가속화에 금리 인상 기대 재점화, 나스닥 496포인트 급락",
+      "original_title": "U.S. Stocks: Nasdaq Tumbles 496 Points as September CPI Acceleration Reignites Rate-Hike Bets - BigGo Finance",
       "summary": [
-        "IMF가 올해 세계 경제 성장률 전망치를 상향 조정했으나, AI 붐이 초래할 수 있는 위험에 대해 경고했다.",
-        "AI 기술이 경제 성장을 견인할 잠재력을 인정하면서도, 급격한 기술 발전이 야기할 수 있는 시장 과열, 일자리 문제, 사회적 불평등 등 부작용에 대한 우려를 표명한 것이다.",
-        "단기적으로 AI 관련 투자가 매력적일 수 있으나, 장기적인 관점에서 AI 붐이 가져올 수 있는 구조적 변화와 잠재적 위험을 함께 고려해야 한다."
+        "9월 CPI 지표가 예상치를 상회하며 금리 인상 베팅을 재점화, 나스닥 지수가 496포인트 급락했습니다.",
+        "인플레이션 압력이 여전히 강하다는 신호로 해석되어 연방준비제도(Fed)의 긴축 기조가 장기화될 것이라는 우려가 증폭되었습니다.",
+        "고금리 환경이 장기화될 경우 성장주와 기술주의 밸류에이션 부담이 커져 국내 관련 섹터에도 부정적인 영향을 줄 수 있습니다."
       ],
-      "summary_text": "IMF가 올해 세계 경제 성장률 전망치를 상향 조정했으나, AI 붐이 초래할 수 있는 위험에 대해 경고했다. AI 기술이 경제 성장을 견인할 잠재력을 인정하면서도, 급격한 기술 발전이 야기할 수 있는 시장 과열, 일자리 문제, 사회적 불평등 등 부작용에 대한 우려를 표명한 것이다. 단기적으로 AI 관련 투자가 매력적일 수 있으나, 장기적인 관점에서 AI 붐이 가져올 수 있는 구조적 변화와 잠재적 위험을 함께 고려해야 한다.",
-      "description": "국제통화기금(IMF)이 올해 세계 경제 성장률 전망치를 상향 조정하면서도, 인공지능(AI) 붐에 대한 잠재적 위험을 경고했습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "인공지능, 소프트웨어",
+      "summary_text": "9월 CPI 지표가 예상치를 상회하며 금리 인상 베팅을 재점화, 나스닥 지수가 496포인트 급락했습니다. 인플레이션 압력이 여전히 강하다는 신호로 해석되어 연방준비제도(Fed)의 긴축 기조가 장기화될 것이라는 우려가 증폭되었습니다. 고금리 환경이 장기화될 경우 성장주와 기술주의 밸류에이션 부담이 커져 국내 관련 섹터에도 부정적인 영향을 줄 수 있습니다.",
+      "description": "9월 소비자물가지수(CPI) 가속화로 금리 인상에 대한 기대감이 다시 높아지면서 미국 나스닥 지수가 496포인트 급락했습니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "기술주, 성장주, 반도체",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
-      "investment_view": "관심",
-      "investment_reason": "세계 경제 성장 전망과 AI 관련 리스크는 거시경제 및 기술 섹터 투자 전략 수립에 필수적인 정보이므로, 면밀한 분석이 필요하다.",
-      "key_signal": "IMF의 경고를 바탕으로 AI 관련 투자 시 과열 여부와 장기적 지속 가능성을 신중하게 평가해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 CPI 지표발 금리 인상 재점화 우려가 글로벌 기술주에 큰 타격을 주어 국내 증시의 관련 섹터에도 하방 압력을 가할 수 있기 때문입니다.",
+      "key_signal": "연준의 추가적인 금리 인상 가능성과 긴축 기조 유지 여부에 대한 시장의 반응을 면밀히 살펴야 합니다.",
       "keywords": [
-        "IMF",
-        "세계경제",
-        "성장률",
-        "AI",
-        "리스크"
+        "미국 CPI",
+        "나스닥",
+        "금리 인상",
+        "기술주",
+        "인플레이션"
       ],
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1BtbUZKQlFFXzc4NGlBT2EydHZzV3RpUmR1a01Ra2tSbV8wSVJWd25pWmhvOTJrRC1vUGFvdjhRWnFhZ3FSNzF1Q3JLWEtfR3gxXy1xekVleFNITXd3VVR4eEZFRlNWdkNzbUlfUGJtdjl0MTA3Y29YaE0zVTF3WDhUaGJLTHI4OGdWWXBfTjJfU3VqUWxadklubk56RGZoOW1VNG53?oc=5",
-      "published": "2026-10-14 09:20",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vb2UtRDE5QmhsQzBUN2owV1hrVl9xS2ppZGJpblZTY3AyVGp0TW1Nc0htcGlKdWV2ZVhmbGd4akw5RVl1MHRYNmVIN0J1elNsNkdmRllYLXJGRnB2WXBWMVlsUDUzNmRuR0Vtd0N4eVdnTW9vbEE?oc=5",
+      "published": "2026-10-15 06:25",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,37 +152,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "장 초반 약세... CPI 발표에 관심 집중",
-      "display_title": "장 초반 약세... CPI 발표에 관심 집중",
-      "original_title": "Weakness Early in the Session... Attention Focused on CPI Release - SBS 뉴스",
+      "title": "미국 10년 만기 국채 금리 급등: 경제에 미치는 영향은?",
+      "display_title": "미국 10년 만기 국채 금리 급등: 경제에 미치는 영향은?",
+      "original_title": "10-year treasury: Why is US Bond market benchmark yield rising on Wednesday? What does this mean for econo - The Economic Times",
       "summary": [
-        "장 초반 시장이 약세를 보였으며, 투자자들의 관심이 CPI 발표에 쏠리고 있다.",
-        "CPI는 인플레이션 지표로, 연준의 통화정책 방향에 큰 영향을 미치기 때문에 시장의 주요 관심사다.",
-        "CPI 발표 결과에 따라 시장 변동성이 커질 수 있으므로, 관련 발표를 주시하며 신중한 투자 결정을 내려야 한다."
+        "미국 10년 만기 국채 금리가 인플레이션 우려 및 연준의 추가 긴축 가능성으로 인해 급등했습니다.",
+        "채권 금리 상승은 자금 조달 비용 증가로 이어져 기업 투자와 소비에 부담을 주고, 주식 시장의 밸류에이션 매력을 감소시킵니다.",
+        "고금리 환경이 장기화될 경우 국내 대출 금리 상승 압박과 함께 증시 전반에 조정 가능성이 높아질 수 있습니다."
       ],
-      "summary_text": "장 초반 시장이 약세를 보였으며, 투자자들의 관심이 CPI 발표에 쏠리고 있다. CPI는 인플레이션 지표로, 연준의 통화정책 방향에 큰 영향을 미치기 때문에 시장의 주요 관심사다. CPI 발표 결과에 따라 시장 변동성이 커질 수 있으므로, 관련 발표를 주시하며 신중한 투자 결정을 내려야 한다.",
-      "description": "장 초반 약세 흐름이 나타나며, 곧 발표될 소비자물가지수(CPI)에 시장의 관심이 집중되고 있습니다.",
+      "summary_text": "미국 10년 만기 국채 금리가 인플레이션 우려 및 연준의 추가 긴축 가능성으로 인해 급등했습니다. 채권 금리 상승은 자금 조달 비용 증가로 이어져 기업 투자와 소비에 부담을 주고, 주식 시장의 밸류에이션 매력을 감소시킵니다. 고금리 환경이 장기화될 경우 국내 대출 금리 상승 압박과 함께 증시 전반에 조정 가능성이 높아질 수 있습니다.",
+      "description": "수요일(발행일 기준) 미국 10년 만기 국채 금리가 상승한 이유와 이것이 경제에 미치는 의미에 대해 분석합니다.",
       "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "중립",
-      "related_sector": "금융/증권",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "금융, 성장주, 건설",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "카카오뱅크",
+        "삼성전자",
+        "현대건설"
       ],
-      "investment_view": "관심",
-      "investment_reason": "CPI 발표는 향후 금리 인상 가능성 및 시장 전반의 방향성을 결정하는 중요한 지표이므로, 모든 투자자들이 주목해야 한다.",
-      "key_signal": "CPI 발표 내용과 시장의 반응을 면밀히 분석하여 투자 전략을 조정해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 장기 국채 금리 급등은 자금 조달 비용 상승과 주식 시장 밸류에이션 압박으로 이어져 국내 금융 시장에 광범위한 부정적 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "미 국채 금리의 추가 상승 여부와 연준의 금리 정책 스탠스 변화를 예의주시해야 합니다.",
       "keywords": [
-        "CPI",
+        "미국 국채",
+        "금리 상승",
         "인플레이션",
-        "금리",
-        "증시",
-        "변동성"
+        "긴축 정책",
+        "금융시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5eV9EaVNFSVZvUWNmajlVUXd4b29naVg0MVo0cTFzVU9FektKbW9JOTIyLTg4SUo5TW5pNTZ4UWpDNFU4ekpNY194TmZIVVgwMW9rYlh0UTZybTlDWmswQjBoUnhVaVpoQ2dNM0NR0gFmQVVfeXFMTzdBSnZrMlVhV2JONGU5Z2hfNGdNdkkxLVgyT250THlTNjNIcEtHaG1JLUlWOVZDTUt1dnhIdmlCSDA0c2NvSUphN0dKbkJ6MXJUcm1HTGFKWG9pbFRKekRXMEd3WDd3?oc=5",
-      "published": "2026-10-14 07:44",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRzYtWWktTW5ISlpyOUpEWVlhMDRDaGJ1b21VcHo5NmFpZ2R0SS1fNnNRcm5QM0VJaEZaa0tSMjBmRUhpcE5fNXN3VDlCSXpRTVF3ZWxsUU1LU0IwdVZjZFQ3bjU5UHdYbmR5ZlJSeDBqM1pkVGJJTTl4eENTdHhleE1qSjJGMXNZX3BiNnpnSFZBeDlvbVlmVnBlbVJWV3pFaHhla0k5Rk1BbGt4MWl6NHVsb3pOS3JtbC14dU5CMEZzTUZhM1VzdXc5QlFablJHT2dUZjlabm91Ymswbld6VC1NYUpzZ3Exc09FckU3Q05JNWFyMlp2NmlsLUFic3pDUWE0YTBRa2ltbXJ0bVNTNm1SREhpbnVmWENtMFZoNTltNmd0RmVn0gGsAkFVX3lxTE1DanJlQmljVmdtUlJldlI0RDVQX3ZSbnRWTmh0cE9sd29DUUpScDhhbTJhN2JXRi1CVkJ3ajFYYmdWRDJWdUJlbmx0YzVaNW8xRFM0UDNlM2YxMU1aNG5LNzF0aEhuX2tPaWk0OWpXTU5wZWVDR0pXLVB1SkpDV0VJN0k2ZzZUYzFQdWtwZmdTS0pfQno1cVE4Z045cTlYYzFOVFhzSFhzR1JUMHo0UjRUdU9NRWtTVmZwNkZNRDM0dUQ5WHdMRVBjWDYwZEdpc0ZrVl92TXhVQ0NKMmZKMmdfYzVLaF8zbzI2TXNWQmRNTjBDOXdmdXFISG9iN0RGSW9wbzAzc2NCZHpBNkNBMi1YTDlUT1ZUQ1dUNVZPRkgzQlp3dHBNdFZ3S2l3dQ?oc=5",
+      "published": "2026-10-15 01:46",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,41 +191,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "투매하던 외국인 '찔끔 매수'에…코스피 2%대 상승 출발 [시황]",
-      "display_title": "투매하던 외국인 '찔끔 매수'에…코스피 2%대 상승 출발 [시황]",
-      "original_title": "투매 외국인, '찔끔 매수'하니…코스피 2%대 상승 출발 [시황] - 데일리안",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 인플레이션 및 AI 투자 지출 우려로 나스닥 종합지수 급락, 기술주 타격",
+      "display_title": "미국 인플레이션 및 AI 투자 지출 우려로 나스닥 종합지수 급락, 기술주 타격",
+      "original_title": "Nasdaq Composite sinks as US inflation and AI spending fears hit tech stocks - Beinsure",
       "summary": [
-        "매도 우위였던 외국인 투자자들이 소폭 매수로 전환하면서 코스피가 2%대의 큰 상승폭으로 출발했다.",
-        "외국인 투자자의 수급은 국내 증시의 주요 상승 동력이며, 이들의 매매 방향 전환은 시장 심리에 긍정적인 영향을 미친다.",
-        "외국인의 순매수 전환이 지속될지 여부가 시장의 추가 상승 여부를 결정할 중요한 요인이므로, 외국인 수급 동향을 예의주시해야 한다."
+        "미국 인플레이션과 함께 AI 투자 지출 둔화 우려가 기술주를 강타하며 나스닥 종합지수가 하락했습니다.",
+        "높은 인플레이션으로 인한 금리 인상 압박과 기업들의 AI 관련 투자 속도 조절 가능성이 기술주 전반의 투심을 위축시켰습니다.",
+        "AI 관련 성장 동력에 대한 시장의 의구심이 커질 경우 국내 AI 및 반도체 관련 종목에도 단기적인 변동성을 유발할 수 있습니다."
       ],
-      "summary_text": "매도 우위였던 외국인 투자자들이 소폭 매수로 전환하면서 코스피가 2%대의 큰 상승폭으로 출발했다. 외국인 투자자의 수급은 국내 증시의 주요 상승 동력이며, 이들의 매매 방향 전환은 시장 심리에 긍정적인 영향을 미친다. 외국인의 순매수 전환이 지속될지 여부가 시장의 추가 상승 여부를 결정할 중요한 요인이므로, 외국인 수급 동향을 예의주시해야 한다.",
-      "description": "외국인 투자자들이 매도세를 멈추고 소량 매수에 나서자 코스피가 2%대 상승으로 장을 시작했습니다.",
+      "summary_text": "미국 인플레이션과 함께 AI 투자 지출 둔화 우려가 기술주를 강타하며 나스닥 종합지수가 하락했습니다. 높은 인플레이션으로 인한 금리 인상 압박과 기업들의 AI 관련 투자 속도 조절 가능성이 기술주 전반의 투심을 위축시켰습니다. AI 관련 성장 동력에 대한 시장의 의구심이 커질 경우 국내 AI 및 반도체 관련 종목에도 단기적인 변동성을 유발할 수 있습니다.",
+      "description": "미국 인플레이션과 AI 관련 지출에 대한 우려가 기술주에 타격을 주면서 나스닥 종합지수가 급락했습니다.",
       "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "전반적인 국내 증시",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "기술주, 반도체, 소프트웨어",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스"
+        "SK하이닉스",
+        "네이버"
       ],
-      "investment_view": "관심",
-      "investment_reason": "외국인 수급 변화는 국내 증시의 단기 및 중기 방향성을 결정하는 핵심 요인 중 하나이므로, 투자 전략 수립에 반드시 고려해야 한다.",
-      "key_signal": "외국인 투자자들의 매매 동향이 순매수로 전환되어 지속될지, 그리고 어떤 종목에 집중하는지 확인해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 인플레이션과 AI 투자 지출 둔화 우려가 기술주 전반에 부정적인 영향을 미쳐 국내 관련 성장주에 대한 투자 심리 위축을 야기할 수 있기 때문입니다.",
+      "key_signal": "주요 AI 기업들의 실적 발표와 향후 AI 투자 계획 발표에 주목하여 시장의 AI 성장 동력 평가를 확인해야 합니다.",
       "keywords": [
-        "코스피",
-        "외국인",
-        "매수",
-        "증시상승",
-        "수급"
+        "나스닥",
+        "인플레이션",
+        "AI 투자",
+        "기술주",
+        "반도체"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTmlyNGs1RHp0TVU2UGozRVo0VEJuZnlTVGI5a1lSMFp6VEtaeUFsdXp6TThJaHItYlpkRWxOeGdDaGhWZXlYUjNZRlROWnBjMi0wakYwZ1ozdHY5dnpBMERHOGI5eGFOX0Vab2MtdXBTSUlqUkZuVWdBZDZycDQ5V1NwaVhVZF8xcHNVSFo2S04wY3FDczhRMFpweG1RRHhBbkZzLTlZeVQyNHZmS1dqaXh1U093UjZpS21qclZaYXpJcUhfeTRDUEtGcFNEMTdfQy0xeDdzd3gtZUJITUJCYjIzWDVaMjhnMkZLbVpaNTRpcDdZOGpLT2E3U1ZFUkFLZ3pJemd4UkM0bk1zUzgzQVJPX09uQzha?oc=5",
-      "published": "2026-10-14 09:31",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZS1BY2NTVzUtVTBhUmFCdnhZbVEydFlsOVNqVmRSV1FuQnVzXy1hcFo0R3dJeTh6dXhvVXhMb3Z5VDUxNXEyenRUSEV0TGJYdmprenJRSkFVdHdTUFpSU2tWOGEtcUFNT1dFYnhtVlA2bDhSV0xuU0NtTWlZd19Ub3JGUkpFc0NTRC1Z?oc=5",
+      "published": "2026-10-15 04:38",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -237,37 +236,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피 6000선 붕괴 우려…증권가 \"추가 투매 실익 제한적\"",
-      "display_title": "코스피 6000선 붕괴 우려…증권가 \"추가 투매 실익 제한적\"",
-      "original_title": "코스피 6000선마저 무너질까…증권가 “추가 투매 실익 제한적” - 쿠키뉴스",
+      "title": "10/15(목), 오늘의 투자전략",
+      "display_title": "10/15(목), 오늘의 투자전략",
+      "original_title": "10/15(목), 오늘의 투자전략 - 네이버 프리미엄콘텐츠",
       "summary": [
-        "코스피 6000선 붕괴 가능성이 언급되는 가운데, 증권가에서는 추가적인 주식 투매의 실익이 적다는 의견을 제시했다.",
-        "급락장에서는 공포 심리로 인한 투매가 발생하지만, 과도한 매도는 오히려 손실을 키울 수 있다는 분석이다.",
-        "현재의 과도한 시장 하락은 저가 매수의 기회가 될 수 있다는 신호로 해석될 수 있으므로, 기업의 본질 가치에 주목하고 분할 매수 전략을 고려할 필요가 있다."
+        "오늘(10/15 목요일)의 투자전략에 대한 분석을 제공하는 기사입니다.",
+        "미국 CPI 충격과 글로벌 증시 하락세 등 최근 시장 상황을 반영하여 국내 투자 전략을 제시할 것으로 예상됩니다.",
+        "불확실한 시장 환경 속에서 개인 투자자들이 참고할 만한 단기 및 중장기 투자 방향성에 대한 힌트를 얻을 수 있습니다."
       ],
-      "summary_text": "코스피 6000선 붕괴 가능성이 언급되는 가운데, 증권가에서는 추가적인 주식 투매의 실익이 적다는 의견을 제시했다. 급락장에서는 공포 심리로 인한 투매가 발생하지만, 과도한 매도는 오히려 손실을 키울 수 있다는 분석이다. 현재의 과도한 시장 하락은 저가 매수의 기회가 될 수 있다는 신호로 해석될 수 있으므로, 기업의 본질 가치에 주목하고 분할 매수 전략을 고려할 필요가 있다.",
-      "description": "코스피 지수가 6000선마저 무너질 수 있다는 우려가 제기되는 가운데, 증권가에서는 추가적인 투매의 실익이 제한적이라는 분석을 내놓았습니다.",
+      "summary_text": "오늘(10/15 목요일)의 투자전략에 대한 분석을 제공하는 기사입니다. 미국 CPI 충격과 글로벌 증시 하락세 등 최근 시장 상황을 반영하여 국내 투자 전략을 제시할 것으로 예상됩니다. 불확실한 시장 환경 속에서 개인 투자자들이 참고할 만한 단기 및 중장기 투자 방향성에 대한 힌트를 얻을 수 있습니다.",
+      "description": "10월 15일 목요일, 오늘의 투자전략에 대한 내용입니다.",
       "category": "증시·금리",
       "importance": 7,
       "market_impact": "중립",
-      "related_sector": "증권, 금융",
+      "related_sector": "전체 시장",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "시장의 주요 지지선 붕괴 우려와 증권가의 분석은 현재 시장 상황을 이해하고 향후 투자 전략을 수립하는 데 중요한 판단 근거를 제공한다.",
-      "key_signal": "증시의 단기 반등 가능성과 저평가된 우량주 발굴 기회를 모색하며, 시장 분위기 변화를 주시해야 한다.",
+      "investment_reason": "변동성이 큰 시장에서 오늘의 투자 전략을 통해 시장 방향성 예측과 포트폴리오 관리에 대한 아이디어를 얻을 수 있기 때문입니다.",
+      "key_signal": "기사에서 제시하는 핵심 리스크 요인과 유망 섹터 또는 투자 종목 제안에 주목해야 합니다.",
       "keywords": [
-        "코스피",
-        "투매",
-        "증권가",
-        "시장하락",
-        "저점"
+        "투자전략",
+        "시장 전망",
+        "포트폴리오",
+        "리스크 관리",
+        "증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fQ2RiZzFtb2dydkJhNHN2OFR2S0ZIWEhFWnNjbTNvc2NybUtYUUZNcDk1SUl2VzN6WDV1LXhTdDlQa1h6RmxGdlRyWlFBUVRYNVBuZ0pRaFRjMzljTkl4dXFQcw?oc=5",
-      "published": "2026-10-14 06:29",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOWlPbkhyeVFRR3d1ZkUzLVdGLTgtRjl6dk1tT1BqZVFOMlN0dkg1WjJST212aWEzN29SUUNfQUhHQ3RheDZJV05vLXRqODNuV2NodXc0RGp3UWpKQ3lfUUZxb1ZnVW1waTYyRnE2Sjk5WHc1aWZFSzlRUjE1QQ?oc=5",
+      "published": "2026-10-15 08:09",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -281,17 +280,17 @@
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "AI 시장의 성장 기대감과 외국인 순매수 유입으로 국내 증시를 견인하는 핵심 종목입니다. 다만, IMF의 AI 관련 시장 조정 경고는 잠재적 리스크로 작용할 수 있어 주의 깊은 모니터링이 필요합니다.",
+      "opinion": "주의",
+      "reason": "미국 CPI 충격과 인플레이션 악화로 인한 금리 인상 기대 재점화가 반도체 및 기술주 전반에 하방 압력을 가하고 있으며, 국내 증시의 핵심 종목인 삼성전자에 직접적인 영향을 미 미칠 것으로 예상되기 때문입니다.",
       "check_points": [
-        "AI 관련 기술 및 시장 동향",
-        "외국인 투자자 수급 변화",
-        "글로벌 경기 회복 및 반도체 업황"
+        "미국 소비자물가지수(CPI) 동향",
+        "미 연준의 금리 인상 기조 변화",
+        "글로벌 반도체 업황 회복 시그널"
       ],
       "related_news_titles": [
-        "IMF, \"AI 관련 시장 조정 및 사이버 위협으로 글로벌 금융 시스템 위험 고조\" 경고",
-        "마이크로소프트 AI 거래 상승에 나스닥 선물 소폭 상승, PCE, 연준 분열, 이란 공격으로 투자자들은 여전히 신중: META, AMZN, AAPL, MU, IBRX 주목",
-        "IMF, 올해 세계 성장률 전망치 상향 조정했지만 AI 붐 경고"
+        "[국내증시 전망] 코스피 6000선 위태…미국 CPI 충격에 삼성전자·SK하이닉스 시험대",
+        "인플레이션 악화에 미국 증시, 7월 이후 최악의 하락세 기록",
+        "9월 CPI 가속화에 금리 인상 기대 재점화, 나스닥 496포인트 급락"
       ]
     },
     {
@@ -299,50 +298,50 @@
       "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "AI 핵심 부품인 고대역폭 메모리(HBM) 시장의 선두 주자로서, AI 관련 투자 심리 개선 시 긍정적인 영향을 기대할 수 있습니다. 최근 외국인 매수세 유입 또한 긍정적입니다.",
+      "opinion": "주의",
+      "reason": "미국 인플레이션 심화와 금리 인상 우려가 글로벌 기술주 및 반도체 섹터 전반에 부정적인 영향을 미치고 있어, 메모리 반도체 시장의 주요 플레이어인 SK하이닉스 역시 직접적인 시험대에 오를 것으로 보입니다.",
       "check_points": [
-        "HBM 등 고부가 메모리 시장 성장세",
-        "AI 산업 전반의 투자 확대 여부",
-        "외국인 투자자 수급 변화"
+        "글로벌 반도체 수요 및 재고 동향",
+        "주요 고객사의 투자 지출 계획",
+        "D램/낸드 가격 변동성"
       ],
       "related_news_titles": [
-        "마이크로소프트 AI 거래 상승에 나스닥 선물 소폭 상승, PCE, 연준 분열, 이란 공격으로 투자자들은 여전히 신중: META, AMZN, AAPL, MU, IBRX 주목",
-        "투매하던 외국인 '찔끔 매수'에…코스피 2%대 상승 출발 [시황]"
+        "[국내증시 전망] 코스피 6000선 위태…미국 CPI 충격에 삼성전자·SK하이닉스 시험대",
+        "인플레이션 악화에 미국 증시, 7월 이후 최악의 하락세 기록",
+        "9월 CPI 가속화에 금리 인상 기대 재점화, 나스닥 496포인트 급락"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "관심",
-      "reason": "CPI 발표를 앞두고 시장 변동성이 예상되는 가운데, 증권 업종은 금리 및 시장 상황에 민감하게 반응합니다. 코스피 주요 지지선 붕괴 우려와 증권가의 분석이 제시되고 있어 시장 방향성 판단에 중요한 참고점이 될 것입니다.",
+      "sector": "소프트웨어, 인터넷 서비스",
+      "opinion": "주의",
+      "reason": "미국 CPI 지표발 금리 인상 재점화 우려와 AI 투자 지출 둔화 우려가 나스닥 급락으로 이어져 글로벌 기술주 전반에 큰 타격을 주고 있으며, 국내 대표 성장주인 네이버 역시 이러한 투자 심리 위축의 영향을 받을 수 있습니다.",
       "check_points": [
-        "CPI 발표 결과 및 금리 인상 기대 변화",
-        "코스피 지수 흐름 및 거래량",
-        "외국인/기관 투자자 증권주 수급 동향"
+        "미국 나스닥 지수 흐름",
+        "국내외 빅테크 기업 실적 발표",
+        "AI 관련 투자 및 기술 개발 동향"
       ],
       "related_news_titles": [
-        "장 초반 약세... CPI 발표에 관심 집중",
-        "코스피 6000선 붕괴 우려…증권가 \"추가 투매 실익 제한적\""
+        "9월 CPI 가속화에 금리 인상 기대 재점화, 나스닥 496포인트 급락",
+        "미국 인플레이션 및 AI 투자 지출 우려로 나스닥 종합지수 급락, 기술주 타격"
       ]
     },
     {
       "rank": 4,
-      "name": "카카오",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "소프트웨어",
-      "opinion": "주의",
-      "reason": "국내 대표 AI 및 플랫폼 관련 기업으로서 IMF가 경고한 AI 관련 시장 조정 및 사이버 위협 리스크에 대한 주의가 필요합니다. 하지만 세계 경제 성장률 상향 조정 및 AI 붐 기대감도 함께 존재하여 양방향 요인을 주시해야 합니다.",
+      "sector": "증권",
+      "opinion": "관심",
+      "reason": "변동성이 확대되는 시장에서 오늘의 투자 전략 수립과 포트폴리오 관리가 중요해지고 있습니다. 증권주는 시장 변동성 확대 시 거래량 증가에 따른 수혜 또는 시장 하락에 따른 영향이 복합적으로 작용할 수 있어, 시장 전반의 방향성을 파악하는 데 중요한 지표가 될 수 있기 때문입니다.",
       "check_points": [
-        "AI 서비스 개발 및 상용화 진행 상황",
-        "글로벌 AI 시장의 규제 및 정책 변화",
-        "개인정보 보호 및 사이버 보안 이슈"
+        "국내외 증시 거래량 추이",
+        "시장 변동성 지수(VIX) 변화",
+        "금리 인상 기조에 따른 증권사 수익 구조 변화"
       ],
       "related_news_titles": [
-        "IMF, \"AI 관련 시장 조정 및 사이버 위협으로 글로벌 금융 시스템 위험 고조\" 경고",
-        "IMF, 올해 세계 성장률 전망치 상향 조정했지만 AI 붐 경고"
+        "10/15(목), 오늘의 투자전략"
       ]
     }
   ],
