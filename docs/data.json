@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20 09:55",
-  "analysis_date": "2026-10-20",
+  "generated_at": "2026-10-21 09:24",
+  "analysis_date": "2026-10-21",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 증시는 중동 긴장 및 미국 금리 인상 우려로 하락했으나, 미국 증시는 AI 및 반도체주의 강세에 힘입어 반등하며 글로벌 증시의 차별화가 나타났습니다. 국내 금통위는 10월 금리 동결 후 11월 인상 가능성이 높은 것으로 전망됩니다.",
-    "국내거시경제": "한국은행은 10월 기준금리를 동결할 가능성이 높으나, 11월에는 인상될 수 있다는 전문가 전망이 우세합니다. 물가, 미국과의 금리 격차, 가계 부채를 고려한 신중한 통화정책이 예상됩니다.",
-    "글로벌경제": "미국 증시는 AI 기업 실적 발표를 앞두고 반등했지만, 프랑스 정치 불안으로 유로화는 약세를 보였습니다. 글로벌 증시는 AI 및 반도체 섹터의 강세에 민감하게 반응하고 있습니다.",
-    "증시금리": "코스피는 중동 지정학적 긴장 고조와 미국 금리 상승 우려로 인해 2%대 급락했습니다. 반면, 나스닥과 S&P 500은 반도체 및 AI 관련주 주도로 상승하며 차별화된 흐름을 보였습니다.",
-    "부동산정책": "해당 사항 없음.",
-    "기업산업": "AI 클라우드 기업들의 대규모 부채와 매출 증가에도 불구하고 적자 문제가 부각되었으나, 엔비디아 CEO의 반박 발언으로 AI 버블 우려가 일부 해소되었습니다.",
-    "오늘의투자시사점": "대외 지정학적 리스크와 미국 금리 동향을 주시하며 보수적인 접근이 필요합니다. 다만, 글로벌 AI 및 반도체 산업의 성장 모멘텀이 여전하므로, 개별 기업의 재무 건전성과 실질적인 수익 창출 능력을 고려한 선별적 투자는 유효합니다.",
-    "오늘의한줄": "국내 증시는 대외 변수로 하락했으나 AI/반도체 강세가 확인된 가운데, 한국은행의 11월 금리 인상 가능성에 대비해야 합니다."
+    "총평": "국내 증시가 급락하고 환율이 상승하며 불안한 신호가 포착된 가운데, 해외 증시는 혼조세를 보이며 단기 변동성 확대가 예상됩니다.",
+    "국내거시경제": "코스피 급락과 원/달러 환율 상승(1320원대)은 외국인 자금 유출 우려 및 국내 물가 상승 압력을 높이는 등 금융시장 불안 요인으로 작용하고 있습니다.",
+    "글로벌경제": "미국 증시는 견조한 기업 실적과 AI 신용 우려가 상충하며 혼조세를 보였습니다. 일부 투자자는 글로벌 증시의 과열과 취약성을 경고하는 반면, 장기적 상승 잠재력을 주장하는 분석도 나옵니다.",
+    "증시금리": "국내 증시는 코스피가 하루 만에 3.73% 급락하며 투자 심리가 크게 위축되었습니다. 전문가들은 코스피 반등 조건을 제시하고 있으며, 삼성전자와 SK하이닉스 등 반도체 대형주의 수급이 반등의 주요 관건으로 분석됩니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "국내 증시에서 삼성전자와 SK하이닉스 등 반도체 대형주의 수급은 코스피 전체의 방향성을 결정할 중요한 변수입니다. 미국 증시에서는 AI 관련 기업의 신용 리스크와 견조한 기업 실적 간의 균형이 주요 관심사입니다.",
+    "오늘의투자시사점": "국내 증시의 변동성 확대에 대비하여 위험 관리를 강화하고 보수적인 접근이 필요합니다. 반도체 대표주 수급 동향과 외국인·기관 매매 패턴을 면밀히 관찰하며, AI 관련 성장주 투자 시에는 리스크와 펀더멘털을 함께 고려해야 합니다.",
+    "오늘의한줄": "국내 증시의 급락과 환율 상승으로 불안정한 금융 시장 속, 신중한 접근과 철저한 위험 관리가 필요한 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[금통위 설문] 전문가 전원 \"한국은행, 10월 금리 동결 예상…11월 인상 유력\"",
-      "display_title": "[금통위 설문] 전문가 전원 \"한국은행, 10월 금리 동결 예상…11월 인상 유력\"",
-      "original_title": "[금통위폴] 전문가 전원 “한은, 10월 금리 동결 예상… 11월 인상 유력” - 조선비즈 - Chosunbiz",
+      "title": "코스피 하루 만에 3.73% 급락…환율은 1320원대로, 금융시장 '엇갈린 신호'",
+      "display_title": "코스피 하루 만에 3.73% 급락…환율은 1320원대로, 금융시장 '엇갈린 신호'",
+      "original_title": "코스피 하루 만에 3.73% 급락…환율은 1320원대로, 금융시장 '엇갈린 신호' - 지이코노미",
       "summary": [
-        "전문가 전원이 10월 한국은행 기준금리 동결을 예상하며, 11월에는 금리 인상이 유력하다고 전망했습니다.",
-        "물가 상승 압력, 미국과의 금리 격차, 가계 부채 증가 등을 고려하여 한국은행이 신중한 통화정책을 펼칠 것으로 보입니다.",
-        "10월 금리 동결은 단기적으로 시장에 안정감을 주지만, 11월 인상 가능성은 채권 시장과 금리 민감 업종에 부담으로 작용할 수 있어 주의가 필요합니다."
+        "코스피가 단 하루 만에 3.73% 급락했고, 원/달러 환율은 1320원대로 상승하며 금융 시장에 불안정한 엇갈린 신호들이 감지되었다.",
+        "코스피 급락은 투자 심리 위축을 반영하며, 환율 상승은 외국인 자금 유출 우려 및 국내 물가 상승 압력을 가중시킬 수 있다.",
+        "변동성이 큰 시장 환경에서 환율과 증시의 동향을 면밀히 살피고, 위험 관리를 강화하는 보수적인 접근이 필요하다."
       ],
-      "summary_text": "전문가 전원이 10월 한국은행 기준금리 동결을 예상하며, 11월에는 금리 인상이 유력하다고 전망했습니다. 물가 상승 압력, 미국과의 금리 격차, 가계 부채 증가 등을 고려하여 한국은행이 신중한 통화정책을 펼칠 것으로 보입니다. 10월 금리 동결은 단기적으로 시장에 안정감을 주지만, 11월 인상 가능성은 채권 시장과 금리 민감 업종에 부담으로 작용할 수 있어 주의가 필요합니다.",
-      "description": "금융통화위원회(금통위)를 앞두고 실시된 설문조사에서 모든 전문가들이 한국은행이 10월에 기준금리를 동결할 것으로 예상했으며, 11월에는 인상 가능성이 높다고 전망했습니다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 증권, 건설, 부동산",
+      "summary_text": "코스피가 단 하루 만에 3.73% 급락했고, 원/달러 환율은 1320원대로 상승하며 금융 시장에 불안정한 엇갈린 신호들이 감지되었다. 코스피 급락은 투자 심리 위축을 반영하며, 환율 상승은 외국인 자금 유출 우려 및 국내 물가 상승 압력을 가중시킬 수 있다. 변동성이 큰 시장 환경에서 환율과 증시의 동향을 면밀히 살피고, 위험 관리를 강화하는 보수적인 접근이 필요하다.",
+      "description": "코스피가 하루 만에 3.73% 급락하고 환율은 1320원대로 상승하는 등 국내 금융시장에서 엇갈린 신호가 나타나고 있습니다.",
+      "category": "증시·금리",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "광범위한 시장, 증권, 수출입 관련 업종",
       "related_stocks": [
         "KB금융",
         "신한지주",
-        "삼성화재"
+        "하나금융지주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "한국은행의 기준금리 결정은 국내 경제 전반과 주식, 채권, 부동산 시장에 지대한 영향을 미치기 때문입니다.",
-      "key_signal": "10월 금통위의 실제 결정과 함께, 한국은행 총재의 발언 및 11월 금리 인상 가능성에 대한 추가 신호를 주의 깊게 분석해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "코스피 급락과 환율 상승은 투자 심리를 크게 위축시키고 시장 전반의 불안정성을 높이는 요인이므로, 단기적인 변동성에 대비하고 신중한 투자를 해야 한다.",
+      "key_signal": "오늘 개장 후 코스피의 흐름과 원/달러 환율의 추가 변동 여부를 가장 먼저 확인하고, 외국인 및 기관의 순매수/순매도 동향을 주시해야 한다.",
       "keywords": [
-        "한국은행",
-        "금리동결",
-        "금리인상",
-        "금통위",
-        "기준금리"
+        "코스피급락",
+        "환율상승",
+        "금융시장",
+        "엇갈린신호",
+        "시장변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUUJJMWdncnlyVWgtM09rcDFxYmtTQm9jenhocUhyM1ktYVpSbjFha2JTbjVQRkdOQ0lzTGZGMmFPTTh2X244R2ljSlFzQVBjM0xOMC1XQkhmTVdZUW5wek9RMmNRNmN3WTl2eTdmQkRXS1o3Q0ZnMUM5S09QbHBTeENTUUEtOUFvaF9Cd2Y3TlBtSDNROU1sNnZ30gGaAUFVX3lxTE9RQkkxZ2dyeXJVaC0zT2twMXFia1NCb2N6eGhxSHIzWS1hWlJuMWFrYlNuNVBGR05DSXNMZkYyYU9NOHZfbjhHaWNKUXNBUGMzTE4wLVdCSGZNV1lRbnB6T1EyY1E2Y3dZOXZ5N2ZCRFdLWjdDRmcxQzlLT1BscFN4Q1NRQS05QW9oX0J3ZjdOUG1IM1E5TWw2dnc?oc=5",
-      "published": "2026-10-20 06:03",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSM3RucjM3MDhmODl1SlhnVHpDVVpPeUlacXBjZkpEdlJPWFZWaERDeXJmMG90ZTJWNGtGTFJIQ0tacmNwZm5JRnY5SzZCbHpCRGpaTFY1SE1sUS1GeHVwMzkxMjc?oc=5",
+      "published": "2026-10-21 08:16",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -70,37 +70,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "66조 원 부채 쌓인 AI 클라우드, 매출 두 배에도 적자 지속… 빅3 테크 기업 투자 전략 비상 속 젠슨 황 반박으로 AI 버블 불안 잠재워",
-      "display_title": "66조 원 부채 쌓인 AI 클라우드, 매출 두 배에도 적자 지속… 빅3 테크 기업 투자 전략 비상 속 젠슨 황 반박으로 AI 버블 불안 잠재워",
-      "original_title": "빚만 66조 원 쌓인 AI 클라우드 -> 매출 두 배에도 적자 늪에 빠졌다 > 미국 무법천지 경고와 돈줄 경색 => 빅3 테크 기업 투자 전략 비상 = 젠슨 황의 직접 반박 나선 입 > 시장 흔들던 AI 버블 불안 잠재웠다 - 데일리머니",
+      "title": "“코스피, 심폐소생 가능합니까?”…전문가 3인이 꼽은 반등 조건 [증시 긴급진단]",
+      "display_title": "“코스피, 심폐소생 가능합니까?”…전문가 3인이 꼽은 반등 조건 [증시 긴급진단]",
+      "original_title": "“코스피, 심폐소생 가능합니까?”…전문가 3인이 꼽은 반등 조건 [증시 긴급진단] - 매일경제 마켓",
       "summary": [
-        "AI 클라우드 기업들의 대규모 부채와 매출 증가에도 불구하고 적자 문제가 부각되었으나, 젠슨 황 엔비디아 CEO의 반박 발언으로 AI 버블 우려가 일부 해소되었습니다.",
-        "AI 산업의 폭발적 성장 이면에 막대한 투자 비용과 수익성 문제가 존재하며, 주요 리더들의 발언이 시장 심리에 큰 영향을 미치고 있습니다.",
-        "AI 산업의 잠재력은 크지만, 투자 시에는 개별 기업의 재무 건전성과 실질적인 수익 창출 능력을 면밀히 평가해야 합니다."
+        "국내 증시 전문가 3인이 코스피 반등 가능성을 진단하고, 지수 회복을 위한 핵심 조건들을 분석했다.",
+        "최근 코스피 하락세가 지속되면서 시장 참여자들의 불안감이 고조되고 있으며, 반등 요인에 대한 관심이 높다.",
+        "전문가들이 제시한 반등 조건을 참고하여 향후 시장의 방향성을 예측하고 투자 전략을 수정할 수 있다."
       ],
-      "summary_text": "AI 클라우드 기업들의 대규모 부채와 매출 증가에도 불구하고 적자 문제가 부각되었으나, 젠슨 황 엔비디아 CEO의 반박 발언으로 AI 버블 우려가 일부 해소되었습니다. AI 산업의 폭발적 성장 이면에 막대한 투자 비용과 수익성 문제가 존재하며, 주요 리더들의 발언이 시장 심리에 큰 영향을 미치고 있습니다. AI 산업의 잠재력은 크지만, 투자 시에는 개별 기업의 재무 건전성과 실질적인 수익 창출 능력을 면밀히 평가해야 합니다.",
-      "description": "66조 원의 부채를 가진 AI 클라우드 기업들이 매출 두 배 성장에도 적자를 면치 못하고 있어 빅3 테크 기업들의 투자 전략에 비상이 걸렸습니다. 하지만 젠슨 황 CEO의 직접적인 반박 발언으로 시장을 흔들던 AI 버블 불안감이 잠시 잠재워졌습니다.",
-      "category": "기업·산업",
+      "summary_text": "국내 증시 전문가 3인이 코스피 반등 가능성을 진단하고, 지수 회복을 위한 핵심 조건들을 분석했다. 최근 코스피 하락세가 지속되면서 시장 참여자들의 불안감이 고조되고 있으며, 반등 요인에 대한 관심이 높다. 전문가들이 제시한 반등 조건을 참고하여 향후 시장의 방향성을 예측하고 투자 전략을 수정할 수 있다.",
+      "description": "코스피 지수의 반등 가능성을 묻는 질문에 대해 전문가 3인이 현재 시장 상황을 긴급 진단하고 반등에 필요한 조건들을 제시했습니다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "중립",
-      "related_sector": "인공지능, 클라우드 컴퓨팅, 반도체",
+      "related_sector": "광범위한 시장, 증권",
       "related_stocks": [
-        "NAVER",
-        "카카오",
+        "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 버블 논란은 국내 AI 관련 기업들의 주가에도 직접적인 영향을 미칠 수 있으므로 주요 리더의 발언과 산업 동향을 주시해야 합니다.",
-      "key_signal": "AI 클라우드 기업들의 수익성 개선 노력과 젠슨 황의 발언이 실제 시장에 미치는 영향을 꾸준히 모니터링해야 합니다.",
+      "investment_reason": "국내 증시의 향방을 가늠할 수 있는 전문가들의 진단을 통해 시장 상황을 이해하고 개인 투자 전략을 수립하는 데 중요한 참고 자료가 된다.",
+      "key_signal": "전문가들이 제시한 금리, 환율, 기업 실적, 수급 등 구체적인 반등 조건을 면밀히 분석하고, 실제 시장 지표들이 해당 조건에 부합하는지 지속적으로 확인해야 한다.",
       "keywords": [
-        "AI클라우드",
-        "젠슨황",
-        "AI버블",
-        "적자",
-        "빅테크"
+        "코스피",
+        "증시전망",
+        "반등조건",
+        "국내증시",
+        "시장진단"
       ],
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fMnY4dGVvaTEtaHpPcXhVUUxVcHNSTXNYMUxrQmM4SEstSjJzZEFLdHJzSGFoNmRkdXo1elZuNjJxdUE0RWEzNE9HQV92LWwyX3FnR09ROGpCYVpJbnZsbVVkZ05tNEVtRVNqLThTeHNUT2c?oc=5",
-      "published": "2026-10-20 02:09",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iejFmUV92S1diUWlvMnZjc1hEeFRxQlE1OVNMc0pXSTJhTmE4cjRtSVdKU3Vhc0hnWEt1ZTVlVDk3YWpyX2pRaUU3R3lQcUZVc3c?oc=5",
+      "published": "2026-10-21 08:57",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -112,37 +111,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피, 중동 긴장 및 미국 금리 상승 우려로 2%대 하락... 5640선",
-      "display_title": "코스피, 중동 긴장 및 미국 금리 상승 우려로 2%대 하락... 5640선",
-      "original_title": "코스피, 중동 긴장·美 금리 상승에 2%대 하락...5640선 - 녹색경제신문",
+      "title": "국내증시 전망, 코스피 반등 시도…삼성전자·SK하이닉스 수급 관건",
+      "display_title": "국내증시 전망, 코스피 반등 시도…삼성전자·SK하이닉스 수급 관건",
+      "original_title": "국내증시 전망, 코스피 반등 시도…삼성전자·SK하이닉스 수급 관건 - 톱스타뉴스",
       "summary": [
-        "코스피 지수가 중동 지역의 지정학적 긴장 고조와 미국 금리 상승 우려로 인해 2%대 급락하며 5640선으로 마감했습니다.",
-        "지정학적 리스크와 글로벌 금리 인상 기조는 투자 심리를 위축시키고 외국인 매도세를 부추겨 국내 증시에 하방 압력을 가했습니다.",
-        "대외 변수에 매우 민감한 국내 증시 특성을 고려하여, 지정학적 상황과 미국 금리 동향을 지속적으로 모니터링하며 보수적인 접근이 필요합니다."
+        "국내 증시가 코스피 반등을 시도하는 가운데, 삼성전자와 SK하이닉스의 수급이 전체 시장 반등의 핵심 요인으로 지목되었다.",
+        "반도체 대형주들은 코스피에서 큰 비중을 차지하여 이들 종목의 수급 상황이 지수 전반의 움직임을 좌우할 수 있다.",
+        "반도체 대표주들의 수급 동향을 면밀히 관찰하고, 외국인 및 기관의 매매 패턴을 파악하여 시장의 방향성을 예측해야 한다."
       ],
-      "summary_text": "코스피 지수가 중동 지역의 지정학적 긴장 고조와 미국 금리 상승 우려로 인해 2%대 급락하며 5640선으로 마감했습니다. 지정학적 리스크와 글로벌 금리 인상 기조는 투자 심리를 위축시키고 외국인 매도세를 부추겨 국내 증시에 하방 압력을 가했습니다. 대외 변수에 매우 민감한 국내 증시 특성을 고려하여, 지정학적 상황과 미국 금리 동향을 지속적으로 모니터링하며 보수적인 접근이 필요합니다.",
-      "description": "코스피 지수가 중동 지역의 지정학적 긴장 고조와 미국 금리 상승에 대한 우려로 인해 2%대 하락하며 5640선을 기록했습니다.",
+      "summary_text": "국내 증시가 코스피 반등을 시도하는 가운데, 삼성전자와 SK하이닉스의 수급이 전체 시장 반등의 핵심 요인으로 지목되었다. 반도체 대형주들은 코스피에서 큰 비중을 차지하여 이들 종목의 수급 상황이 지수 전반의 움직임을 좌우할 수 있다. 반도체 대표주들의 수급 동향을 면밀히 관찰하고, 외국인 및 기관의 매매 패턴을 파악하여 시장의 방향성을 예측해야 한다.",
+      "description": "국내 증시가 코스피 반등을 시도하고 있는 가운데, 삼성전자와 SK하이닉스 등 주요 반도체 종목의 수급 상황이 반등의 핵심 관건이 될 것으로 전망됩니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "전 업종, 금융, 에너지",
+      "market_impact": "중립",
+      "related_sector": "반도체, IT하드웨어, 증권",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "POSCO홀딩스"
+        "SK하이닉스"
       ],
-      "investment_view": "주의",
-      "investment_reason": "중동 긴장과 미국 금리 상승은 국내 증시 전반에 부정적인 영향을 미치며 높은 변동성을 야기할 수 있기 때문입니다.",
-      "key_signal": "중동 정세의 변화와 미국 연방준비제도(Fed)의 통화정책 방향, 그리고 이에 따른 외국인 수급 동향을 집중적으로 관찰해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "국내 증시의 큰 비중을 차지하는 삼성전자와 SK하이닉스의 수급은 코스피 전체의 방향성을 결정짓는 중요한 요소이므로, 이들의 동향을 파악하는 것이 필수적이다.",
+      "key_signal": "삼성전자와 SK하이닉스에 대한 외국인 및 기관 투자자들의 순매수/순매도 추이와 프로그램 매매 동향을 매일 확인해야 한다.",
       "keywords": [
         "코스피",
-        "중동긴장",
-        "미국금리",
-        "증시하락",
-        "외국인매도"
+        "삼성전자",
+        "SK하이닉스",
+        "반도체",
+        "수급"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hcHVZYmFTVDNNaXRxdWdVa1kyZmUwazdTTTBvQ1ZKQ3NtTC1DcTZydHJVNTdwbzR0SzE1aV9vaVhpLXJXV2tLcmNqdFo3eEFib2JBT3lnaDFmckhMZ292eEd5OUJRbVdl?oc=5",
-      "published": "2026-10-20 09:44",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nLW1BTGRMM0FROVhqaVVqUlJLZzZpTVFaVUlLUDZyM2lhdU9fWDdpcm5FOFl1N0hTYk1ZdzNLYUZ3MXVyYW9LeVJOZWVHZWVDZVA2VmoyLWI0LUViYkNsUjlVQXZDRWNRWTZ5cG9TcExnUQ?oc=5",
+      "published": "2026-10-21 08:55",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -154,37 +152,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥, 반도체 및 AI 관련주 반등에 힘입어 상승",
-      "display_title": "나스닥, 반도체 및 AI 관련주 반등에 힘입어 상승",
-      "original_title": "Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters",
+      "title": "미국 증시 혼조세, 견조한 기업 실적이 AI 신용 우려 상쇄",
+      "display_title": "미국 증시 혼조세, 견조한 기업 실적이 AI 신용 우려 상쇄",
+      "original_title": "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears - WSJ",
       "summary": [
-        "나스닥 지수가 반도체 및 인공지능(AI) 관련 기술주의 강력한 반등에 힘입어 상승 마감했습니다.",
-        "최근 조정 이후 기술 성장주에 대한 투자심리가 회복되고 있으며, AI 산업의 장기 성장 기대감이 재부각된 것으로 풀이됩니다.",
-        "글로벌 AI 및 반도체 산업의 성장 모멘텀이 여전하며, 관련 국내 기업들의 주가에도 긍정적인 영향을 줄 수 있습니다."
+        "미국 증시가 견조한 기업 실적 발표와 AI 관련 신용 우려가 맞물려 혼조세를 나타냈다.",
+        "기업들의 양호한 실적이 투자 심리를 지지하는 반면, AI 기술 관련 신용 리스크에 대한 경계심이 존재한다.",
+        "AI 관련 성장주 투자 시 잠재적 리스크와 기업 펀더멘털을 함께 고려해야 한다."
       ],
-      "summary_text": "나스닥 지수가 반도체 및 인공지능(AI) 관련 기술주의 강력한 반등에 힘입어 상승 마감했습니다. 최근 조정 이후 기술 성장주에 대한 투자심리가 회복되고 있으며, AI 산업의 장기 성장 기대감이 재부각된 것으로 풀이됩니다. 글로벌 AI 및 반도체 산업의 성장 모멘텀이 여전하며, 관련 국내 기업들의 주가에도 긍정적인 영향을 줄 수 있습니다.",
-      "description": "반도체 및 인공지능(AI) 관련 기술주들의 회복세에 힘입어 나스닥 지수가 상승했습니다.",
+      "summary_text": "미국 증시가 견조한 기업 실적 발표와 AI 관련 신용 우려가 맞물려 혼조세를 나타냈다. 기업들의 양호한 실적이 투자 심리를 지지하는 반면, AI 기술 관련 신용 리스크에 대한 경계심이 존재한다. AI 관련 성장주 투자 시 잠재적 리스크와 기업 펀더멘털을 함께 고려해야 한다.",
+      "description": "미국 증시가 견조한 기업 실적 발표로 인해 AI 관련 신용 우려가 상쇄되며 혼조세를 보였습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, 인공지능, 소프트웨어",
+      "market_impact": "중립",
+      "related_sector": "인공지능, 반도체, 소프트웨어",
       "related_stocks": [
         "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 및 반도체 섹터의 강세는 국내 관련 기업들의 실적 및 주가에 직접적인 영향을 미칠 수 있기 때문입니다.",
-      "key_signal": "미국 AI 및 반도체 기업들의 실적 발표와 향후 가이던스를 면밀히 주시해야 합니다.",
+      "investment_reason": "견조한 실적과 AI 관련 우려가 혼재된 시장 환경은 섹터별 차별화된 접근을 요구하며, 관련 기업 실적을 주시해야 한다.",
+      "key_signal": "주요 기업의 AI 관련 사업 계획과 재무 건전성 발표를 확인하여 AI 신용 우려가 실제로 기업 가치에 미치는 영향을 파악해야 한다.",
       "keywords": [
-        "나스닥",
-        "반도체",
+        "미국증시",
+        "기업실적",
         "AI",
-        "기술주",
-        "증시반등"
+        "신용우려",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
-      "published": "2026-10-20 08:31",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA?oc=5",
+      "published": "2026-10-21 06:06",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -196,37 +193,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 증시 반등, AI 실적 발표 시험대 앞두고 유로화는 프랑스 불안에 하락",
-      "display_title": "미국 증시 반등, AI 실적 발표 시험대 앞두고 유로화는 프랑스 불안에 하락",
-      "original_title": "US Stocks Rebound with AI Earnings Test Ahead, Euro Falls on France Unrest - KONTAN",
+      "title": "억만장자 투자자, 주식 시장을 '속 빈 나무'라 칭하며 그의 주장을 뒷받침하는 불안한 지표들 공개",
+      "display_title": "억만장자 투자자, 주식 시장을 '속 빈 나무'라 칭하며 그의 주장을 뒷받침하는 불안한 지표들 공개",
+      "original_title": "This Billionaire Investor Called the Stock Market a 'Hollow Tree' - Here Are the Disturbing Numbers That Say He's Right - 24/7 Wall St.",
       "summary": [
-        "미국 증시가 AI 기업들의 실적 발표를 앞두고 반등했지만, 프랑스 내 정치적 불안정으로 유로화는 약세를 보였습니다.",
-        "AI 관련 기업 실적은 향후 기술주 시장의 방향성을 결정할 주요 변수이며, 유럽의 지정학적 리스크는 환율 시장에 영향을 미치고 있습니다.",
-        "미국 AI 기업의 실적 결과가 국내 기술주에도 영향을 줄 수 있으며, 글로벌 환율 변동성에도 대비하는 투자 전략이 필요합니다."
+        "억만장자 투자자가 현재 주식 시장을 '속 빈 나무'에 비유하며 내실 없는 상승에 대한 경고와 함께 불안한 시장 지표들을 제시했다.",
+        "일부 지표들이 기업 펀더멘털이나 경제 성장과 괴리된 시장 과열 또는 취약성을 시사할 수 있다.",
+        "무분별한 투기적 접근보다는 기업 가치와 거시경제 지표를 면밀히 분석하는 신중한 투자 전략이 필요하다."
       ],
-      "summary_text": "미국 증시가 AI 기업들의 실적 발표를 앞두고 반등했지만, 프랑스 내 정치적 불안정으로 유로화는 약세를 보였습니다. AI 관련 기업 실적은 향후 기술주 시장의 방향성을 결정할 주요 변수이며, 유럽의 지정학적 리스크는 환율 시장에 영향을 미치고 있습니다. 미국 AI 기업의 실적 결과가 국내 기술주에도 영향을 줄 수 있으며, 글로벌 환율 변동성에도 대비하는 투자 전략이 필요합니다.",
-      "description": "미국 증시가 반등했지만, 주요 AI 기업들의 실적 발표를 앞두고 있으며, 프랑스 내 불안정한 상황으로 유로화가 하락했습니다.",
-      "category": "글로벌 경제",
+      "summary_text": "억만장자 투자자가 현재 주식 시장을 '속 빈 나무'에 비유하며 내실 없는 상승에 대한 경고와 함께 불안한 시장 지표들을 제시했다. 일부 지표들이 기업 펀더멘털이나 경제 성장과 괴리된 시장 과열 또는 취약성을 시사할 수 있다. 무분별한 투기적 접근보다는 기업 가치와 거시경제 지표를 면밀히 분석하는 신중한 투자 전략이 필요하다.",
+      "description": "한 억만장자 투자자가 현재 주식 시장을 '속 빈 나무'에 비유했으며, 그의 주장이 옳다고 지지하는 몇 가지 불안한 수치들이 공개되었습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "인공지능, 반도체, 외환",
+      "market_impact": "부정",
+      "related_sector": "광범위한 시장, 자산운용",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 AI 산업의 핵심 기업 실적은 국내 증시의 방향성을 좌우할 수 있는 중요한 이벤트이며, 환율 변동성도 국내 투자에 영향을 줍니다.",
-      "key_signal": "이번 주 예정된 주요 AI 기업들의 실적 발표 내용과 가이던스, 그리고 유로화 및 달러화 동향을 주목해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "시장의 내재적 가치에 대한 회의론이 제기되는 만큼, 시장 전반의 과열 여부와 기업들의 실제 실적을 면밀히 분석할 필요가 있다.",
+      "key_signal": "해당 억만장자 투자자가 언급한 '불안한 지표'가 구체적으로 무엇인지 파악하고, 국내외 경제지표와 기업 실적 추이를 면밀히 비교 검토해야 한다.",
       "keywords": [
-        "미국증시",
-        "AI실적",
-        "유로화",
-        "프랑스",
-        "환율"
+        "시장비관론",
+        "속빈나무",
+        "펀더멘털",
+        "시장과열",
+        "투자주의"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0VNdVBvVzZwOVh0cU5wUmlobVZyQUpWUjlzQXM1b3g5SW16NENva0M4ZFhRcGtZdi1NWnhtM1lIdVBWaEdEcnN4NUdUQWQ0TWk3TVNGbTZ2M1dnY0xQN0R5UkhMWUFJdFRDaXZLZV9XY2JyTEVVWWVkbVEtcGhHOFRZOTZuMlhHcDRwU1FFZ09YV1NKa29HeV9mNS03ZVVCV3FaLTlEdDk2Q2PSAaYBQVVfeXFMTjVqdDdMMGpQMENvRUcza0JjNzVJQ3Z6cklya0F1bDY5TVhQRHZFakpqTHpXRE9Ud2kyN1FVTWRReHlMNGtrb3o0STFZazRTODIwbXpzb2hFRzMzNV9xcWZ2Yk9sUXRQWUluZWlfNnZRUkpMcUNkeGY0TXVuS2VqU3pIeWdJUDZFek1QVXVCVmZNd0M5T0hBd2M1azFzN0ZMWWhaczNtUQ?oc=5",
-      "published": "2026-10-20 07:39",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTnhfMGZ2QzZXT1JJZk83YUVpM08tdW5ndUZsb3o5OU9SaWpnWG51d2t3VjA0MjI4TmJhcUtrY1BNRUpXOXVGbWJ5ZlVTOU5OR2otYnVGR1RuNWVCNkRUQ3lCUHpRMW10NzRLbURCandrWHZ2SGJDWV85aG9NNU1HZVFDb004UzFrcXprWHlibXBkUmNrZ3pERnZnNEkyaXRzcTRNb0FxbXNldlJNODJSbGYwemZCa3FfcDZnM3doMXJXV3c0VDF2ZkVVY2RVN0J5c3Y1MVFfODFVVXNBSnFsdGQxa1ZoUHA4MGFLY2NEWQ?oc=5",
+      "published": "2026-10-20 23:42",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -238,37 +235,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "아침 브리프: ASX 200 하락 예상, S&P 500과 나스닥은 반도체주 주도 AI 반등으로 상승",
-      "display_title": "아침 브리프: ASX 200 하락 예상, S&P 500과 나스닥은 반도체주 주도 AI 반등으로 상승",
-      "original_title": "Morning Wrap: ASX 200 to fall, S&P 500 and Nasdaq higher as chip stocks lead AI rebound - Market Index",
+      "title": "모건스탠리 투자 책임자, S&P 500이 2027년 5월까지 8,300 도달 가능성 언급하며 증시 조정 '막바지' 예측",
+      "display_title": "모건스탠리 투자 책임자, S&P 500이 2027년 5월까지 8,300 도달 가능성 언급하며 증시 조정 '막바지' 예측",
+      "original_title": "S&P 500 Could Hit 8,300 By May 2027, Says Morgan Stanley Investment Chief Predicting ‘Final Innings’ Of Stock Market Correction - Yahoo Finance",
       "summary": [
-        "미국 증시(S&P 500, 나스닥)는 반도체 및 AI 관련주의 반등에 힘입어 상승했지만, 호주 ASX 200 지수는 하락이 예상됩니다.",
-        "글로벌 증시가 AI 및 반도체 섹터의 강세에 민감하게 반응하고 있으며, 지역별로 상이한 경제 및 투자 환경이 주가에 반영되고 있습니다.",
-        "미국 기술주의 강세는 국내 기술주에도 긍정적인 영향을 미칠 수 있으나, 전반적인 글로벌 시장의 방향성은 여전히 복합적입니다."
+        "모건스탠리 투자 책임자가 2027년 5월까지 S&P 500 지수가 8,300까지 상승할 수 있다고 예측하며 현재 시장 조정이 막바지라고 진단했다.",
+        "시장의 비관적인 전망 속에서도 장기적인 상승 잠재력을 제시하며 투자 심리에 긍정적인 영향을 미칠 수 있다.",
+        "현재 조정장을 장기적인 관점에서 매수 기회로 활용하는 전략을 고려해볼 수 있다."
       ],
-      "summary_text": "미국 증시(S&P 500, 나스닥)는 반도체 및 AI 관련주의 반등에 힘입어 상승했지만, 호주 ASX 200 지수는 하락이 예상됩니다. 글로벌 증시가 AI 및 반도체 섹터의 강세에 민감하게 반응하고 있으며, 지역별로 상이한 경제 및 투자 환경이 주가에 반영되고 있습니다. 미국 기술주의 강세는 국내 기술주에도 긍정적인 영향을 미칠 수 있으나, 전반적인 글로벌 시장의 방향성은 여전히 복합적입니다.",
-      "description": "호주 ASX 200 지수는 하락이 예상되는 반면, 미국 S&P 500과 나스닥 지수는 반도체 종목들이 AI 관련주의 반등을 이끌며 상승 마감했습니다.",
+      "summary_text": "모건스탠리 투자 책임자가 2027년 5월까지 S&P 500 지수가 8,300까지 상승할 수 있다고 예측하며 현재 시장 조정이 막바지라고 진단했다. 시장의 비관적인 전망 속에서도 장기적인 상승 잠재력을 제시하며 투자 심리에 긍정적인 영향을 미칠 수 있다. 현재 조정장을 장기적인 관점에서 매수 기회로 활용하는 전략을 고려해볼 수 있다.",
+      "description": "모건스탠리 투자 책임자가 S&P 500 지수가 2027년 5월까지 8,300에 도달할 수 있다고 전망하며, 현재 주식 시장 조정 국면이 '막바지'에 이르렀다고 예측했습니다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 7,
       "market_impact": "긍정",
-      "related_sector": "반도체, 인공지능, IT",
+      "related_sector": "증권, 자산운용, 광범위한 시장",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국 기술주, 특히 반도체 및 AI 관련주의 강세는 국내 관련 기업의 투자 심리에 직접적인 영향을 미치기 때문입니다.",
-      "key_signal": "미국 시장의 AI 및 반도체 리더 기업들의 주가 흐름과 국내 증시의 동조화 여부를 지켜봐야 합니다.",
+      "investment_reason": "주요 투자기관의 장기적인 시장 낙관론은 현재 시장 조정기에 대한 투자자들의 불안감을 완화하고 투자 계획을 세우는 데 참고할 수 있다.",
+      "key_signal": "해당 전망의 전제 조건(예: 금리, 기업 실적 등)을 파악하고, 다른 기관들의 유사한 전망이 나오는지 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "미국증시",
-        "나스닥",
         "S&P500",
-        "반도체",
-        "AI반등"
+        "모건스탠리",
+        "증시전망",
+        "시장조정",
+        "상승장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTJHT2ZRbWVoOTFLTTlPOG0wWlhEcERkb2U4OVQ5VTd6VjJOQ3FFdFhRYk5Vc2JZLXZCaDN0TmMzUUdWa3hNbEFGUDlLM0syWEJ1RlNrc3VEcGZyeDZ2ZkZJMFN0MUVvbTNrR0RJajdLSWhKLXpWYzczdGo2NmhMVmhabWxoejE1Mkw0bzhENldlbUZKbDg4cm1MM2otc0hDNG13MWJNb3JzSFVrMnc?oc=5",
-      "published": "2026-10-20 06:50",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGJYNngzZ2N5VHprWkpNZ0pfYTBvTzhJMTdXemYtaVpZSGN2cU5YaWVUbzR4RUFkY2NqTGd1SEkxaEZOOE12UE82S1U5aUN5UkRfekM4bHdjaDhzbDF4NGRyNUV0UWs3Z0FkS0lKbjg0VUcyZ0RTU0JvX0ZNYjJTQkItNG15TFVOSWc?oc=5",
+      "published": "2026-10-21 02:24",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -283,15 +280,16 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "나스닥에서 반도체 및 AI 관련주가 반등하며 상승했고, 글로벌 AI 산업의 핵심 기업 실적 발표가 국내 증시의 방향성을 좌우할 중요한 이벤트로 부각되고 있습니다. 삼성전자는 이 두 가지 흐름의 중심에 있는 국내 대표 기업입니다.",
+      "reason": "국내 증시의 방향성을 결정하는 핵심 종목으로, 코스피 반등 시도와 글로벌 AI 시장 동향에 큰 영향을 받기 때문에 지속적인 관심이 필요합니다.",
       "check_points": [
-        "미국 나스닥의 반도체 및 AI 관련주 반등 지속 여부",
-        "글로벌 AI 산업 핵심 기업들의 향후 실적 발표와 가이던스"
+        "수급 동향 (외국인, 기관)",
+        "반도체 업황 및 AI 관련 실적 전망",
+        "미국 증시 반도체 섹터 움직임"
       ],
       "related_news_titles": [
-        "나스닥, 반도체 및 AI 관련주 반등에 힘입어 상승",
-        "미국 증시 반등, AI 실적 발표 시험대 앞두고 유로화는 프랑스 불안에 하락",
-        "아침 브리프: ASX 200 하락 예상, S&P 500과 나스닥은 반도체주 주도 AI 반등으로 상승"
+        "“코스피, 심폐소생 가능합니까?”…전문가 3인이 꼽은 반등 조건 [증시 긴급진단]",
+        "국내증시 전망, 코스피 반등 시도…삼성전자·SK하이닉스 수급 관건",
+        "미국 증시 혼조세, 견조한 기업 실적이 AI 신용 우려 상쇄"
       ]
     },
     {
@@ -300,47 +298,48 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "AI 클라우드 부채 및 적자 지속 우려 속에서도 젠슨 황의 AI 버블 반박 발언으로 시장 불안이 일부 잠재워졌고, 나스닥에서 반도체 및 AI 관련주 반등이 뚜렷하게 나타나 AI 메모리 분야 선도 기업인 SK하이닉스에 대한 투자 심리가 개선될 수 있습니다.",
+      "reason": "삼성전자와 함께 국내 반도체 산업을 대표하며 코스피의 흐름을 좌우하는 핵심 종목입니다. 특히 AI 관련 반도체 수요 증가와 연관성이 높아 꾸준히 주시할 필요가 있습니다.",
       "check_points": [
-        "AI 버블 논란 관련 주요 리더들의 추가 발언 및 산업 동향",
-        "고대역폭 메모리(HBM) 시장의 실제 수요와 경쟁 구도"
+        "수급 동향 및 외국인 투자자 매매",
+        "HBM 등 고부가 반도체 실적 기여도",
+        "글로벌 AI 및 반도체 산업 전망"
       ],
       "related_news_titles": [
-        "66조 원 부채 쌓인 AI 클라우드, 매출 두 배에도 적자 지속… 빅3 테크 기업 투자 전략 비상 속 젠슨 황 반박으로 AI 버블 불안 잠재워",
-        "나스닥, 반도체 및 AI 관련주 반등에 힘입어 상승",
-        "미국 증시 반등, AI 실적 발표 시험대 앞두고 유로화는 프랑스 불안에 하락"
+        "“코스피, 심폐소생 가능합니까?”…전문가 3인이 꼽은 반등 조건 [증시 긴급진단]",
+        "국내증시 전망, 코스피 반등 시도…삼성전자·SK하이닉스 수급 관건",
+        "미국 증시 혼조세, 견조한 기업 실적이 AI 신용 우려 상쇄"
       ]
     },
     {
       "rank": 3,
-      "name": "한미반도체",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "반도체 장비",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "미국 나스닥 시장에서 반도체 및 AI 관련주가 강한 반등세를 보이며 전체 시장을 견인하고 있습니다. 이는 AI 반도체 생산에 필수적인 장비를 공급하는 국내 기업인 한미반도체의 투자 심리에 긍정적으로 작용할 수 있습니다.",
+      "reason": "주요 투자기관에서 장기적인 증시 낙관론을 제시하며 시장 조정의 막바지를 예측하고 있어, 향후 시장 반등 시 증권업종의 수혜 가능성을 눈여겨볼 필요가 있습니다.",
       "check_points": [
-        "글로벌 반도체 장비 시장의 투자 확대 흐름",
-        "주요 고객사들의 HBM 및 AI 반도체 생산 관련 증설 계획"
+        "거래대금 및 수수료 수익 추이",
+        "금리 변동에 따른 자산 건전성",
+        "시장 조정기 이후 반등 탄력성"
       ],
       "related_news_titles": [
-        "나스닥, 반도체 및 AI 관련주 반등에 힘입어 상승",
-        "미국 증시 반등, AI 실적 발표 시험대 앞두고 유로화는 프랑스 불안에 하락",
-        "아침 브리프: ASX 200 하락 예상, S&P 500과 나스닥은 반도체주 주도 AI 반등으로 상승"
+        "모건스탠리 투자 책임자, S&P 500이 2027년 5월까지 8,300 도달 가능성 언급하며 증시 조정 '막바지' 예측"
       ]
     },
     {
       "rank": 4,
-      "name": "NAVER",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "인터넷 서비스",
-      "opinion": "관심",
-      "reason": "AI 클라우드 부채 등 AI 산업의 재무적 부담에 대한 논란이 있었지만, 젠슨 황 엔비디아 CEO의 AI 버블 반박 발언으로 관련 산업에 대한 불안감이 일부 완화되었습니다. 국내 AI 기술 개발 및 서비스에 적극적인 NAVER의 사업 성과에 대한 기대감도 함께 주목할 필요가 있습니다.",
+      "sector": "은행",
+      "opinion": "주의",
+      "reason": "코스피 급락과 환율 상승은 금융 시장 전반의 불안정성을 높이며 은행주에 단기적인 변동성을 가져올 수 있습니다. 시장 불안정성 심화 시 재무 건전성 및 배당 정책을 주시해야 합니다.",
       "check_points": [
-        "국내 AI 서비스 및 플랫폼 시장에서의 경쟁 동향",
-        "실제적인 AI 사업 부문의 매출 성장 및 수익성 개선 여부"
+        "환율 변동성 및 외환 건전성",
+        "금리 인상/인하 가능성 및 순이자마진(NIM)",
+        "주주환원 정책 (배당, 자사주 매입/소각) 변화"
       ],
       "related_news_titles": [
-        "66조 원 부채 쌓인 AI 클라우드, 매출 두 배에도 적자 지속… 빅3 테크 기업 투자 전략 비상 속 젠슨 황 반박으로 AI 버블 불안 잠재워"
+        "코스피 하루 만에 3.73% 급락…환율은 1320원대로, 금융시장 '엇갈린 신호'"
       ]
     }
   ],
