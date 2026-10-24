@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23 09:25",
-  "analysis_date": "2026-10-23",
+  "generated_at": "2026-10-24 09:17",
+  "analysis_date": "2026-10-24",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 기술주 약세와 국내 경기 둔화 우려가 심화되며 증시 전반의 하방 압력이 커지고 있습니다. 정책 불확실성도 지속되어 투자 심리 위축이 예상됩니다.",
-    "국내거시경제": "한국은행의 금리 동결에도 불구하고 정부 정책과의 엇박자로 물가 상승 압력과 경기 둔화 우려가 동시에 커지고 있어 정책 조율 여부를 주시해야 합니다.",
-    "글로벌경제": "미국 국채 수익률 급락은 연준의 금리 인하 기대감을 높이지만, 동시에 글로벌 경기 둔화 가능성을 시사하여 복합적인 불안 요인으로 작용합니다.",
-    "증시금리": "AI 과열 우려로 글로벌 기술주가 주간 하락세를 예상하는 가운데, 국내 코스피도 한은 금리 동결에도 불구하고 3.52% 급락하며 주요 대형주들이 약세를 보였습니다.",
-    "부동산정책": "해당 내용 없음",
-    "기업산업": "AI 섹터의 과열과 차익 실현 매물 출회로 기술주 매도세가 심화되고 있으며, 국내 주요 반도체 기업들도 동반 하락하며 업황 부진 우려가 커지고 있습니다.",
-    "오늘의투자시사점": "글로벌 기술주 조정과 국내 증시 약세 전환 가능성에 대비해 방어적인 포트폴리오 전략을 유지하고, AI 이외의 저평가된 섹터 발굴에 관심을 가질 필요가 있습니다.",
-    "오늘의한줄": "글로벌 기술주 불안과 국내 정책 불확실성 속에서 방어적 관점을 유지해야 합니다."
+    "총평": "미국 국채 금리 급등과 유가 상승이 글로벌 증시에 하방 압력을 가하고 있으며, 잠재적 금융 위기 우려까지 제기되는 등 전반적인 불확실성이 고조되고 있습니다. 국내 증시 또한 이러한 대외 변수에 민감하게 반응할 것으로 예상됩니다.",
+    "국내거시경제": "원·달러 환율이 6거래일 만에 상승 마감했으며, 이는 미국 긴축 장기화 우려와 국내 경제 펀더멘털 불확실성이 복합적으로 작용한 결과입니다.",
+    "글로벌경제": "2027년 글로벌 경제는 고금리, 고물가, 지정학적 긴장 속에 잠재적 금융 위기 가능성이 제기되며 불확실성이 커지고 있습니다.",
+    "증시금리": "미국 장단기 국채 금리가 재차 급등하고 10년물 금리가 5%를 유지하며 증시 하락 압력을 높였습니다. 잭슨홀 미팅을 앞두고 미국 증시 선물은 혼조세를 보였습니다.",
+    "부동산정책": "특이사항 없음",
+    "기업산업": "범용 인공지능(AGI)보다는 실제 산업 현장에서의 인프라와 데이터 활용 중요성이 부각되며, 한국 제조업 데이터 기반의 AI 적용이 생존 방정식으로 제시되었습니다.",
+    "오늘의투자시사점": "글로벌 고금리·고유가 및 경기 침체 우려가 커지는 상황에서 금리 민감도가 높은 성장주보다는 경기 방어적이고 실적 안정성이 높은 섹터에 대한 보수적 접근이 필요합니다. 환율 변동성 확대에 따른 수출 기업 및 수입 물가 영향을 주시해야 합니다.",
+    "오늘의한줄": "글로벌 고금리·고유가 우려 속에 시장 불확실성이 커지며 방어적 투자 전략이 요구됩니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500 전망: AI 우려 지속으로 기술주 주도 주간 하락세 예상",
-      "display_title": "S&P 500 전망: AI 우려 지속으로 기술주 주도 주간 하락세 예상",
-      "original_title": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger - StoneX",
+      "title": "미국 10년물, 30년물, 2년물 국채 금리 재차 급등: 연준 금리 정책에 미칠 영향은?",
+      "display_title": "미국 10년물, 30년물, 2년물 국채 금리 재차 급등: 연준 금리 정책에 미칠 영향은?",
+      "original_title": "US Treasury yield on 10-year note, 30-year bond, 2-year jump again: What does this mean for US Fed interes - The Economic Times",
       "summary": [
-        "S&P 500 지수가 AI 관련 우려와 기술주 하락세에 힘입어 주간 단위 하락을 기록할 것으로 전망됩니다.",
-        "AI 섹터의 과열과 밸류에이션 부담이 지속되면서 투자 심리가 위축되고 있으며, 이는 전체 증시 하락 압력으로 작용하고 있습니다.",
-        "기술주 중심의 포트폴리오 비중 조절과 함께, 시장 조정에 대비한 방어적 자산 배분 전략을 고려할 필요가 있습니다."
+        "미국 장단기 국채 금리가 일제히 다시 급등하며, 특히 10년물, 30년물, 2년물 금리가 상승세를 보였다.",
+        "국채 금리의 지속적인 상승은 연방준비제도(Fed)의 긴축 정책 장기화 가능성 또는 추가 금리 인상에 대한 시장의 우려를 반영한다.",
+        "고금리 환경이 장기화될 수 있다는 신호이므로, 금리 민감도가 높은 성장주나 부채 비중이 높은 기업의 투자에 신중해야 한다."
       ],
-      "summary_text": "S&P 500 지수가 AI 관련 우려와 기술주 하락세에 힘입어 주간 단위 하락을 기록할 것으로 전망됩니다. AI 섹터의 과열과 밸류에이션 부담이 지속되면서 투자 심리가 위축되고 있으며, 이는 전체 증시 하락 압력으로 작용하고 있습니다. 기술주 중심의 포트폴리오 비중 조절과 함께, 시장 조정에 대비한 방어적 자산 배분 전략을 고려할 필요가 있습니다.",
-      "description": "S&P 500 지수가 AI 관련 우려가 지속되면서 기술주 하락에 이끌려 주간 단위로 하락할 것으로 전망됩니다.",
+      "summary_text": "미국 장단기 국채 금리가 일제히 다시 급등하며, 특히 10년물, 30년물, 2년물 금리가 상승세를 보였다. 국채 금리의 지속적인 상승은 연방준비제도(Fed)의 긴축 정책 장기화 가능성 또는 추가 금리 인상에 대한 시장의 우려를 반영한다. 고금리 환경이 장기화될 수 있다는 신호이므로, 금리 민감도가 높은 성장주나 부채 비중이 높은 기업의 투자에 신중해야 한다.",
+      "description": "미국 10년물, 30년물, 2년물 국채 금리가 다시 상승했으며, 이는 미국 연방준비제도(Fed)의 향후 금리 인상 정책에 대한 의문을 제기한다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "기술주, 인공지능, 반도체",
+      "related_sector": "금융, 기술주, 채권시장",
       "related_stocks": [
-        "애플",
-        "마이크로소프트",
-        "엔비디아"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "S&P 500 지수의 하락 전망은 글로벌 증시 전반에 부정적인 영향을 미칠 수 있으므로, 위험 관리에 집중해야 합니다.",
-      "key_signal": "AI 관련 기업들의 실적 발표와 기술주 전반의 밸류에이션 재평가 움직임을 주시하며 추가 하락 여부를 판단해야 합니다.",
+      "investment_reason": "미국 국채 금리 상승은 글로벌 유동성 축소와 국내 금리 인상 압력으로 이어져 국내 증시에 부정적 영향을 줄 수 있기 때문이다.",
+      "key_signal": "미국 국채 금리의 추가적인 변동성과 연준 관계자들의 발언을 면밀히 주시해야 한다.",
       "keywords": [
-        "S&P 500",
-        "기술주 하락",
-        "AI 우려",
-        "시장 조정",
-        "투자 심리"
+        "국채 금리",
+        "연준",
+        "금리 인상",
+        "통화정책",
+        "시장 금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZktHLXhFSHBWaVlnbUxVVENzb19pd1NaRkFqQndETFFpbzhBUENraThmMkp2WU1UVC1meXdROUJhVFV5UzFRYzN6WWo1MXF1OGdpRV85VnpzaWZvWFk3cmVDbUthZkRtcVEwVUlldG9OVnBpcFJES0tXN1FZY0xDUzVOX1NmOXhybFlPOHFLMXZZTUl2UG9kSGJJVjRqLWtxb0tnem5qUGkzbURXc1R5SnY1aksyLURnWkRacXVDN2ZfX2JOU2hmQmNpWGkzMGc?oc=5",
-      "published": "2026-10-23 07:26",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNVFNhUFNSWXIwSHVsUnF4Wk9DSWJLcHhybUIzaUp1eUxWMG1lTzVVY1Q5eWdaWjhURVdYZ2hhT0hmRFBnbUpqNW1JVEpUREZGX3N2YmljRHh2T3BHdDJidGd6cDZZREVjaU1CMERDaVEwZ21QSkliNmVfNEdycnNGOVcxSF9GU1k2OW5Jb2ItRnpTSFM4eVdtQ21OMnR2cENMYk5HSEpYNzhyY3FjRDlBUDRkZFlXbmxzRmhobkZITU1jZnBwZjFjc2ZMRFRZTGYxS0MxZlNQZHVORDBIbG9WbTFIcUlXWG5UOUJvN2JjZmZ0VXcwRml0ZFR1QXFFMWk0V2Z1WE1Ya0lkN2RyZzRGX1l0UdIBmAJBVV95cUxPWWVmX3ozR0dpMkdJOHpxdkx4VENEdndPN1NKVTNybW1OY3hSSXJuMUVQX1hlb1dncGpRVlo4c0pwMmZ3eDhuU0RZUVFfbjJfTmJqRWxVdXJrRXZNWTZTcTJTTnZlZjB0MzFWWWc2eC1mbzBGRktMSUpxVnRjZExWM3RlRHYxeFZNT0hqRURoMnRocEN6a0ZhT0ZMRW5ta29LQlRpWlQtdndmbTdGZVczY0pmeWpPRVZQS0RmUDJNeEt3VXp5WmJtUm5nbmVuc196aDFUakFMWkI4bmZzalBiQkxfaFJOTjVKekY4M21Dd1NVcDFscjNHZktLZk83UEJwS05UZ0puQkRvdHRySWpMZ0xCZmlqTnFB?oc=5",
+      "published": "2026-10-24 05:05",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,36 +70,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "국채 수익률, 2023년 은행 위기 이후 최대 하락 기록. 그 배경은?",
-      "display_title": "국채 수익률, 2023년 은행 위기 이후 최대 하락 기록. 그 배경은?",
-      "original_title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on. - MarketWatch",
+      "title": "S&P 500 하락, 유가 급등 및 10년물 국채 금리 5% 유지 (연준 회의 앞두고)",
+      "display_title": "S&P 500 하락, 유가 급등 및 10년물 국채 금리 5% 유지 (연준 회의 앞두고)",
+      "original_title": "S&P 500 Today: Stock Market Index Drops to 7,623.68 as Oil Surges and the 10-Year Treasury Yield Hovers at 5% Ahead of the Fed - BBN Times",
       "summary": [
-        "미국 국채 수익률이 2023년 은행 위기 이후 최대 낙폭을 기록하며 급락했습니다.",
-        "이는 연방준비제도(Fed)의 금리 인하 기대감 고조, 글로벌 경기 둔화 우려 증가, 혹은 지정학적 불안정으로 인한 안전자산 선호 심리 강화 등 복합적인 요인이 작용한 결과로 분석됩니다.",
-        "채권 수익률 급락은 주식 시장의 밸류에이션 부담을 완화할 수 있으나, 동시에 경기 침체 가능성을 경고하는 신호일 수도 있으므로 주의 깊게 해석해야 합니다."
+        "S&P 500 지수가 하락하고 유가가 급등했으며, 미국 10년물 국채 금리가 5% 수준을 유지하며 시장에 압력을 가했다.",
+        "연방준비제도(Fed)의 통화정책 회의를 앞두고 고유가와 고금리 우려가 투자 심리를 위축시키고 있다.",
+        "글로벌 시장의 불확실성이 커진 상황에서 위험자산 회피 심리가 강해질 수 있어 투자 포트폴리오의 방어적 접근이 필요하다."
       ],
-      "summary_text": "미국 국채 수익률이 2023년 은행 위기 이후 최대 낙폭을 기록하며 급락했습니다. 이는 연방준비제도(Fed)의 금리 인하 기대감 고조, 글로벌 경기 둔화 우려 증가, 혹은 지정학적 불안정으로 인한 안전자산 선호 심리 강화 등 복합적인 요인이 작용한 결과로 분석됩니다. 채권 수익률 급락은 주식 시장의 밸류에이션 부담을 완화할 수 있으나, 동시에 경기 침체 가능성을 경고하는 신호일 수도 있으므로 주의 깊게 해석해야 합니다.",
-      "description": "미국 국채 수익률이 2023년 은행 위기 이후 가장 큰 폭으로 하락했으며, 그 원인에 대한 분석이 이어지고 있습니다.",
+      "summary_text": "S&P 500 지수가 하락하고 유가가 급등했으며, 미국 10년물 국채 금리가 5% 수준을 유지하며 시장에 압력을 가했다. 연방준비제도(Fed)의 통화정책 회의를 앞두고 고유가와 고금리 우려가 투자 심리를 위축시키고 있다. 글로벌 시장의 불확실성이 커진 상황에서 위험자산 회피 심리가 강해질 수 있어 투자 포트폴리오의 방어적 접근이 필요하다.",
+      "description": "S&P 500 지수가 7,623.68로 하락했으며, 유가는 급등하고 10년물 국채 금리는 연준 회의를 앞두고 5% 수준을 유지했다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "금융, 통화정책, 채권",
+      "market_impact": "부정",
+      "related_sector": "글로벌 증시, 에너지, 금융",
       "related_stocks": [
-        "JP모건체이스",
-        "골드만삭스"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국채 수익률의 급격한 변동은 금리 인하 기대, 경기 전망, 금융 시장 안정성에 대한 중요한 시그널이므로 투자 전략 수립에 필수적입니다.",
-      "key_signal": "국채 수익률 하락의 주요 원인이 금리 인하 기대인지, 심각한 경기 둔화 우려인지를 구분하기 위해 주요 경제지표와 연준의 발언을 면밀히 모니터링해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 주요 지수 하락과 고금리, 고유가 지속은 글로벌 경제 및 국내 증시에 하방 압력으로 작용할 수 있기 때문이다.",
+      "key_signal": "연준 회의 결과와 10년물 국채 금리의 추가 변동성을 주시해야 한다.",
       "keywords": [
-        "국채 수익률",
-        "금리 하락",
-        "경기 침체",
-        "안전자산",
-        "연준 정책"
+        "S&P 500",
+        "국채 금리",
+        "유가",
+        "연준",
+        "증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDNHQlIxQkRfeVl2bWtrX2lzYTZsX0JYazZRaGdkclU5aHAwWlppV05YSTdvS0kwQXNVa0p6N0tseXVpcDZPRFBhdV9fbTExaXZZSTJJT1RXQmVXR3ZpTE5aZXp5cXFHRnB0WGxJNjVubU14LUs0eFV0SDVHWnJpYVkwYlNxZEhvZDVPa1U1MXlsYi15a2czRGJiOER5RjQ5M0toakZZbWV5S245WkM3QVNhZw?oc=5",
-      "published": "2026-10-23 07:07",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG81TzZadUxsS2VHU1doLWlEalZQclMzUFRnaUtzT2xaYm12YnM4ZzhXRFg3MjR4aHZ3N0hfQS1qMkwzVE90REViVGJRYXdpcDlrMVJ4S2E0Z0FKMkFjWFRmQy14VTlTdDg4RGE2cExQRFJVdEZmX05YQTUxdzhEOFB4dVNIVnExbW1pMmtIUjNqbWxLc2syWTZoekl0amxLMGluOEZwSDlxa3ZBRmt0VjNDVXhyUVdaZ2x4d0R2VTdDZHphQWtzMEFidWNjQ3dOUTJfQUZoTjJla0tHVXZ3Rk5QS0wtcHRCM2ctS2ZzRGc?oc=5",
+      "published": "2026-10-24 07:36",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -108,80 +109,80 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[허원순의 경제로 세상보기] 한은은 브레이크, 정부는 액셀…물가 안정 가능할까?",
-      "display_title": "[허원순의 경제로 세상보기] 한은은 브레이크, 정부는 액셀…물가 안정 가능할까?",
-      "original_title": "[허원순의 경제로 세상보기] 한은은 브레이크,정부는 액셀…이래서 물가 잡히겠나 - 글로벌경제신문",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "2027년 글로벌 경제 전망: 또 다른 금융 위기로 향하고 있는가?",
+      "display_title": "2027년 글로벌 경제 전망: 또 다른 금융 위기로 향하고 있는가?",
+      "original_title": "Global Economic Outlook 2027: Are We Heading Toward Another Financial Crisis? - BeInCrypto",
       "summary": [
-        "한국은행은 물가 안정을 위해 긴축 기조를 유지하는 반면, 정부는 경기 부양책을 추진하며 상반된 정책 방향으로 인해 물가 안정에 대한 우려가 제기됩니다.",
-        "통화정책과 재정정책의 엇박자는 정책 효과를 상쇄시키고, 물가 상승 압력을 지속시켜 가계 및 기업의 부담을 가중시킬 수 있습니다.",
-        "정책의 불확실성이 시장에 반영될 수 있으므로, 정부와 한은의 향후 정책 조율 여부와 그에 따른 경제 지표 변화를 면밀히 주시해야 합니다."
+        "2027년 글로벌 경제 전망에 대한 심층 분석이 이루어졌으며, 잠재적인 금융 위기 발생 가능성에 대한 우려가 제기되었다.",
+        "고금리, 고물가, 지정학적 긴장 등 복합적인 요인들이 글로벌 경제의 불확실성을 높이고 있으며, 과거 위기와 유사한 징후들이 포착되고 있다.",
+        "경기 침체 및 금융 위기 가능성에 대비하여 보수적인 자산 배분과 함께 경기 방어적인 섹터에 대한 관심을 고려할 필요가 있다."
       ],
-      "summary_text": "한국은행은 물가 안정을 위해 긴축 기조를 유지하는 반면, 정부는 경기 부양책을 추진하며 상반된 정책 방향으로 인해 물가 안정에 대한 우려가 제기됩니다. 통화정책과 재정정책의 엇박자는 정책 효과를 상쇄시키고, 물가 상승 압력을 지속시켜 가계 및 기업의 부담을 가중시킬 수 있습니다. 정책의 불확실성이 시장에 반영될 수 있으므로, 정부와 한은의 향후 정책 조율 여부와 그에 따른 경제 지표 변화를 면밀히 주시해야 합니다.",
-      "description": "한국은행은 금리 인상 등으로 물가 억제를 시도하는 반면 정부는 경기 부양 정책을 펼쳐 정책 방향이 상충하는 상황에서 물가 안정이 어려울 수 있다는 분석입니다.",
-      "category": "국내 거시경제",
+      "summary_text": "2027년 글로벌 경제 전망에 대한 심층 분석이 이루어졌으며, 잠재적인 금융 위기 발생 가능성에 대한 우려가 제기되었다. 고금리, 고물가, 지정학적 긴장 등 복합적인 요인들이 글로벌 경제의 불확실성을 높이고 있으며, 과거 위기와 유사한 징후들이 포착되고 있다. 경기 침체 및 금융 위기 가능성에 대비하여 보수적인 자산 배분과 함께 경기 방어적인 섹터에 대한 관심을 고려할 필요가 있다.",
+      "description": "2027년 글로벌 경제 전망을 분석하며, 현재 경제 상황이 또 다른 금융 위기로 이어질 가능성이 있는지에 대한 의문을 제기한다.",
+      "category": "글로벌 경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "국내 경제, 금융, 정부 정책",
+      "related_sector": "전반적인 경기 민감주, 금융",
       "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "정부와 중앙은행의 상충된 정책 기조는 국내 경제의 불확실성을 증대시키고 물가 및 금리 안정에 대한 우려를 높여 투자 환경에 부정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "한국은행의 다음 금리 결정과 정부의 추가 경기 부양책 발표 여부, 그리고 두 기관의 정책 조율 노력을 집중적으로 지켜봐야 합니다.",
+      "investment_reason": "잠재적인 글로벌 금융 위기 가능성 제기는 장기적인 투자 전략 수립에 있어 가장 중요한 거시경제적 고려사항이기 때문이다.",
+      "key_signal": "글로벌 주요 경제 지표(GDP 성장률, 인플레이션, 실업률)와 중앙은행 정책 변화를 지속적으로 관찰해야 한다.",
       "keywords": [
-        "한국은행",
-        "정부 정책",
-        "물가 안정",
-        "금리 정책",
-        "재정 정책"
+        "글로벌 경제",
+        "금융 위기",
+        "경기 침체",
+        "거시경제",
+        "2027년"
       ],
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93cFF3clAzN0NwT2QtWnBJaC1KUUZFY1paam1tY0lTNDh3VVozSFF2bk5ZNVVOY1ZtbnlNYkdrWmliR25yeW5zZlVQN1c1WGc1MnNCaFAwTmd4eGRKQnYzbC1HNHVDdW9GWXY0TFFDZFTSAXBBVV95cUxPd3BRd3JQMzdDcE9kLVpwSWgtSlFGRWNaWmptbWNJUzQ4d1VaM0hRdm5OWTVVTmNWbW55TWJHa1ppYkducnluc2ZVUDdXNVhnNTJzQmhQME5neHhkSkJ2M2wtRzR1Q3VvRll2NExRQ2RU?oc=5",
-      "published": "2026-10-23 04:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3ZNdXFXTWZRODV1QVA2RkJWTkN1LUgyZTJqR2VnaVBlUXBKSE9VQ0xxSGxxNVk3VXVYOGdXU2FVZGtOb21PVTdCZlFuSWFhMHYxUEZaSjBzVzBrdnFXYWJISTRlOFlsNDZqZlplU1N6eWhmZlk1Wk1DUmY2dWxUaw?oc=5",
+      "published": "2026-10-24 07:21",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "한국은행, 기준금리 3.00% 동결로 긴축 속도 조절…코스피 3.52% 급락",
-      "display_title": "한국은행, 기준금리 3.00% 동결로 긴축 속도 조절…코스피 3.52% 급락",
-      "original_title": "한은, 기준금리 연 3.00%로 동결, 긴축 속도조절…반등 믿었는데 또 급락, 코스피 3.52%↓ [시티타임스 헤드라인 5] - 시티타임스 CityTimes",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시 실시간: 잭슨홀 연설 앞두고 다우 선물은 상승, 나스닥 및 S&P 500 선물은 하락",
+      "display_title": "미국 증시 실시간: 잭슨홀 연설 앞두고 다우 선물은 상승, 나스닥 및 S&P 500 선물은 하락",
+      "original_title": "US Stock Market Today LIVE: Dow Jones Futures Up But Nasdaq, S&P 500 Futures Fall Ahead Of Jackson Hole Speech - Goodreturns",
       "summary": [
-        "한국은행이 기준금리를 연 3.00%로 동결하며 긴축 속도를 조절했지만, 코스피 지수는 오히려 3.52% 급락했습니다.",
-        "금리 동결은 시장에 긍정적으로 작용할 수도 있었으나, 글로벌 경기 둔화 우려, 외국인 매도세, 기업 실적 악화 전망 등 복합적인 악재로 인해 증시가 하락한 것으로 보입니다.",
-        "금리 동결에도 불구하고 시장이 부정적으로 반응한 것은 경기 침체 우려가 더 크게 작용했음을 시사하므로, 보수적인 투자 관점을 유지해야 합니다."
+        "잭슨홀 미팅 연설을 앞두고 미국 증시 선물 시장에서 다우 선물은 상승했으나, 기술주 중심의 나스닥과 S&P 500 선물은 하락하며 혼조세를 보였다.",
+        "잭슨홀 미팅은 연방준비제도(Fed)의 향후 통화정책 방향을 가늠할 수 있는 중요한 이벤트로, 시장은 연설 내용에 촉각을 곤두세우고 있다.",
+        "주요 중앙은행 총재들의 발언에 따라 시장의 변동성이 커질 수 있으므로, 단기적인 포지션 조정에 신중을 기해야 한다."
       ],
-      "summary_text": "한국은행이 기준금리를 연 3.00%로 동결하며 긴축 속도를 조절했지만, 코스피 지수는 오히려 3.52% 급락했습니다. 금리 동결은 시장에 긍정적으로 작용할 수도 있었으나, 글로벌 경기 둔화 우려, 외국인 매도세, 기업 실적 악화 전망 등 복합적인 악재로 인해 증시가 하락한 것으로 보입니다. 금리 동결에도 불구하고 시장이 부정적으로 반응한 것은 경기 침체 우려가 더 크게 작용했음을 시사하므로, 보수적인 투자 관점을 유지해야 합니다.",
-      "description": "한국은행이 기준금리를 연 3.00%로 동결하며 긴축 속도 조절에 나섰으나, 시장은 반등 기대와 달리 코스피가 3.52% 급락했습니다.",
+      "summary_text": "잭슨홀 미팅 연설을 앞두고 미국 증시 선물 시장에서 다우 선물은 상승했으나, 기술주 중심의 나스닥과 S&P 500 선물은 하락하며 혼조세를 보였다. 잭슨홀 미팅은 연방준비제도(Fed)의 향후 통화정책 방향을 가늠할 수 있는 중요한 이벤트로, 시장은 연설 내용에 촉각을 곤두세우고 있다. 주요 중앙은행 총재들의 발언에 따라 시장의 변동성이 커질 수 있으므로, 단기적인 포지션 조정에 신중을 기해야 한다.",
+      "description": "잭슨홀 미팅 연설을 앞두고 다우존스 선물은 상승세를 보인 반면, 나스닥 및 S&P 500 선물은 하락하며 혼조세를 나타냈다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "국내 증시, 금융, 통화정책",
+      "market_impact": "중립",
+      "related_sector": "글로벌 증시, 기술주, 금융",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "카카오"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "한국은행의 금리 동결에도 불구하고 코스피가 급락한 것은 경기 둔화에 대한 시장의 강력한 경고 신호이므로, 국내 증시 전반에 대한 위험 관리가 필요합니다.",
-      "key_signal": "금리 동결 이후 시장의 추가적인 반응과 외국인 및 기관 투자자들의 매매 동향을 면밀히 분석하여 시장의 바닥 형성 여부를 판단해야 합니다.",
+      "investment_reason": "잭슨홀 미팅 연설은 연준의 통화정책 방향에 대한 중요한 힌트를 제공하며, 이는 글로벌 금리 및 유동성 환경에 결정적인 영향을 미치기 때문이다.",
+      "key_signal": "잭슨홀 미팅에서의 연준 의장 발언 내용을 면밀히 분석하여 향후 금리 정책 방향을 예측해야 한다.",
       "keywords": [
-        "한국은행",
-        "기준금리 동결",
-        "코스피 급락",
-        "긴축 속도 조절",
-        "경기 둔화"
+        "잭슨홀",
+        "연준",
+        "통화정책",
+        "증시 선물",
+        "나스닥"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RdDJZcGt1M3AzaExHanl0azJtQmtWSUlWTXU4WktKTC1XMWFRZXNXaFdfbTYxZmJsZXB1WU5sQlRyTHNVbWg3UW1PNDBmdGc2ZmhONVItVzlWWVc4RXJkaW82SE1taXAtYlYxYkhB0gFyQVVfeXFMTjJPanRYZWJ4UXVPNkRSWm5ZejFlTFJlaFF0N1Vsc1RiQURRNGZrdjVfMllnM3paYVdqaHNWWVBQZC1xYlE2MmVUR0JmQWZ0aHRja3JRQTJESFVjUmItcVphSjI5TVhHZDdjQjM0SlEyMjl3?oc=5",
-      "published": "2026-10-22 17:38",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUE53X1d0ajFfVm4wRHdoMzFvMTQ1bDA3cnZZRHl5eUpPb0JDYUc2U2swd09IQ0lQYVpLdmFFd3ZVanJQUjBBWU5ObzU3VktDS0ZnYlZ6ckhJSG9JU3BkT1JRdl91bzY4WFBSdXlnSnJobkJvc0lXOXgwUXhUTXBWVEUtamVkTFdCOGpkbHJfT2c1Mzl5WWNUM0Fsb0ktdnR1cXBtaXhqQTR1LWtyUVBnLVJWM2JMOTFaa2Y4cjVjSHQ3MHA1OHhqZUdfVFVtSGpjR3FxUWVuS00zZ2VPWmc?oc=5",
+      "published": "2026-10-23 17:58",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -191,36 +192,35 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피 3.52% 급락, 전일 상승분 반납…삼성전자·SK하이닉스 동반 하락",
-      "display_title": "코스피 3.52% 급락, 전일 상승분 반납…삼성전자·SK하이닉스 동반 하락",
-      "original_title": "코스피 3.52% 급락해 5533…하루 전 상승분 반납, 삼성전자·하이닉스 동반 하락 - https://www.theconnectmoney.com/",
+      "title": "AGI 환상 깨고 실전 인프라 중요성 부각: 한국 제조업 데이터에 달린 생존 방정식 (팔란티어 분석)",
+      "display_title": "AGI 환상 깨고 실전 인프라 중요성 부각: 한국 제조업 데이터에 달린 생존 방정식 (팔란티어 분석)",
+      "original_title": "AGI 환상 깬 실전 인프라의 반격 => 빅테크 머니게임 끝판왕은 미국 -> 자가발전 AI 외계인 경고 현실화 > 거버넌스 붕괴가 부를 인류 파멸 >> 韓 제조업 데이터에 승부 걸렸다 = 팔란티어가 짚어낸 생존 방정식 - 데일리머니",
       "summary": [
-        "코스피 지수가 3.52% 급락하여 전일의 상승분을 모두 반납했으며, 특히 삼성전자와 SK하이닉스가 동반 하락세를 보였습니다.",
-        "이는 국내외 경기 둔화 우려, 글로벌 기술주 약세, 반도체 업황 부진 등 여러 악재가 복합적으로 작용하며 투자 심리를 급격히 위축시킨 결과로 풀이됩니다.",
-        "국내 증시의 주요 대형주들이 약세를 보인 것은 전반적인 시장의 약세 전환 가능성을 시사하므로, 방어적인 포트폴리오 전략을 고려해야 합니다."
+        "범용 인공지능(AGI)의 환상이 깨지고 실제 산업 현장에서의 인프라 중요성이 부각되며, 한국 제조업 데이터 활용의 중요성이 강조되었다.",
+        "팔란티어는 AI 시대의 진정한 경쟁 우위는 미국 빅테크의 독점적 AI 인프라와 데이터 활용 능력에 있으며, 한국은 제조업 데이터에 기반한 실용적 AI 적용으로 승부해야 한다고 분석했다.",
+        "국내 기업들은 이론적 AI 개발보다는 실제 산업 현장에서의 데이터 구축 및 활용 능력을 강화하는 방향으로 투자를 집중해야 할 필요가 있다."
       ],
-      "summary_text": "코스피 지수가 3.52% 급락하여 전일의 상승분을 모두 반납했으며, 특히 삼성전자와 SK하이닉스가 동반 하락세를 보였습니다. 이는 국내외 경기 둔화 우려, 글로벌 기술주 약세, 반도체 업황 부진 등 여러 악재가 복합적으로 작용하며 투자 심리를 급격히 위축시킨 결과로 풀이됩니다. 국내 증시의 주요 대형주들이 약세를 보인 것은 전반적인 시장의 약세 전환 가능성을 시사하므로, 방어적인 포트폴리오 전략을 고려해야 합니다.",
-      "description": "코스피 지수가 3.52% 급락하여 전일 상승분을 모두 반납했으며, 삼성전자와 SK하이닉스 등 주요 대형주들이 동반 하락했습니다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "국내 증시, 반도체, IT",
+      "summary_text": "범용 인공지능(AGI)의 환상이 깨지고 실제 산업 현장에서의 인프라 중요성이 부각되며, 한국 제조업 데이터 활용의 중요성이 강조되었다. 팔란티어는 AI 시대의 진정한 경쟁 우위는 미국 빅테크의 독점적 AI 인프라와 데이터 활용 능력에 있으며, 한국은 제조업 데이터에 기반한 실용적 AI 적용으로 승부해야 한다고 분석했다. 국내 기업들은 이론적 AI 개발보다는 실제 산업 현장에서의 데이터 구축 및 활용 능력을 강화하는 방향으로 투자를 집중해야 할 필요가 있다.",
+      "description": "범용 인공지능(AGI)에 대한 환상보다 실제 인프라의 중요성이 부각되는 가운데, 미국 빅테크가 AI 주도권을 잡고 있으며, 한국은 제조업 데이터에 승부를 걸어야 한다는 팔란티어의 생존 방정식이 제시되었다.",
+      "category": "기업·산업",
+      "importance": 8,
+      "market_impact": "긍정",
+      "related_sector": "인공지능(AI), 데이터 솔루션, 소프트웨어, 제조업",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "팔란티어"
       ],
-      "investment_view": "주의",
-      "investment_reason": "코스피의 급락과 삼성전자, SK하이닉스 등 국내 대표 주식들의 하락은 국내 증시의 전반적인 약세 흐름을 예고하므로, 적극적인 위험 관리가 요구됩니다.",
-      "key_signal": "주요 반도체 기업들의 실적 전망과 외국인 투자자들의 순매도 규모를 주시하며, 코스피 지수의 지지선과 저점 형성 여부를 확인해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "한국 산업의 미래 경쟁력 확보를 위한 AI 및 데이터 전략 방향을 제시하며, 관련 국내 기업들의 성장 가능성을 가늠할 수 있기 때문이다.",
+      "key_signal": "국내 제조업체들의 AI 및 데이터 인프라 투자 동향과 팔란티어와 같은 글로벌 선도 기업의 국내 협력 사례를 주시해야 한다.",
       "keywords": [
-        "코스피 급락",
-        "삼성전자",
-        "SK하이닉스",
-        "반도체 주식",
-        "시장 약세"
+        "AGI",
+        "AI 인프라",
+        "제조업 데이터",
+        "팔란티어",
+        "한국 경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MZmtZOEhjeTVpVEh3Zkx0R01xYU5NRGt0bnRBSmQ1SEgyeFUtTkxkaUxHZldLWHRNcW5KcXFTVGRwUENGR2thMHpHZk9HbElGanhuRWJEaC1oNzd5VlhwQQ?oc=5",
-      "published": "2026-10-22 17:23",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NajhDMkVNVHR2TTE5STMyUFJCNlp1ckhYUWdmRkFyOEFmNmRMeGpURnVlWXUyc0JMLWhlQ0c5dFA5VjVuYWJneFZnQXhfeDhnXzlRRXV3THpLLUNjcHZkODNwb2hFTUlib0xKSGx5aUZBQjA?oc=5",
+      "published": "2026-10-23 12:35",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -229,42 +229,41 @@
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "AI 주식 매도세 심화 속에서도 시장 저변의 견고한 움직임",
-      "display_title": "AI 주식 매도세 심화 속에서도 시장 저변의 견고한 움직임",
-      "original_title": "AI Selloff Gains Steam but Solid Market Action Beneath the Surface - TheStreet Pro",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "원·달러 환율 6거래일 만에 상승, 1324.6원 마감 (신현송 “원화 정상화 과정”)",
+      "display_title": "원·달러 환율 6거래일 만에 상승, 1324.6원 마감 (신현송 “원화 정상화 과정”)",
+      "original_title": "원·달러 환율, 6거래일 만에 상승…1324.6원 마감·신현송 \"원화 정상화 과정\" - 베타뉴스",
       "summary": [
-        "AI 관련 주식들의 매도세가 심화되고 있음에도 불구하고, 시장 전체적인 움직임은 비교적 견고한 상태를 유지하고 있습니다.",
-        "이는 AI 섹터의 과열에 대한 차익 실현 욕구와 함께, 다른 섹터나 업종으로의 자금 순환이 이뤄지고 있을 가능성을 시사합니다.",
-        "AI 관련주의 조정을 기회로 삼거나, AI 이외의 저평가된 섹터를 발굴하는 전략이 유효할 수 있습니다."
+        "원·달러 환율이 6거래일 만에 다시 상승하여 1324.6원에 마감되었고, 이는 원화의 가치 정상화 과정으로 해석되기도 했다.",
+        "미국 연방준비제도(Fed)의 긴축 기조 장기화 우려와 국내 경제 펀더멘털에 대한 불확실성이 환율 변동성을 높이는 주요 원인으로 작용한다.",
+        "환율 상승은 수출 기업에는 긍정적이나 수입 물가 상승 압력과 외국인 자금 유출 가능성을 높일 수 있어 전반적인 시장에 미치는 영향을 주시해야 한다."
       ],
-      "summary_text": "AI 관련 주식들의 매도세가 심화되고 있음에도 불구하고, 시장 전체적인 움직임은 비교적 견고한 상태를 유지하고 있습니다. 이는 AI 섹터의 과열에 대한 차익 실현 욕구와 함께, 다른 섹터나 업종으로의 자금 순환이 이뤄지고 있을 가능성을 시사합니다. AI 관련주의 조정을 기회로 삼거나, AI 이외의 저평가된 섹터를 발굴하는 전략이 유효할 수 있습니다.",
-      "description": "인공지능 관련 주식의 매도세가 가속화되고 있지만, 시장 저변에는 견고한 흐름이 나타나고 있습니다.",
-      "category": "증시·금리",
+      "summary_text": "원·달러 환율이 6거래일 만에 다시 상승하여 1324.6원에 마감되었고, 이는 원화의 가치 정상화 과정으로 해석되기도 했다. 미국 연방준비제도(Fed)의 긴축 기조 장기화 우려와 국내 경제 펀더멘털에 대한 불확실성이 환율 변동성을 높이는 주요 원인으로 작용한다. 환율 상승은 수출 기업에는 긍정적이나 수입 물가 상승 압력과 외국인 자금 유출 가능성을 높일 수 있어 전반적인 시장에 미치는 영향을 주시해야 한다.",
+      "description": "원·달러 환율이 6거래일 만에 상승하여 1324.6원에 마감되었으며, 신현송 씨는 이를 원화 가치의 정상화 과정으로 평가했다.",
+      "category": "국내 거시경제",
       "importance": 8,
       "market_impact": "중립",
-      "related_sector": "인공지능, 기술주, 반도체",
+      "related_sector": "수출주, 수입주, 외국인 투자",
       "related_stocks": [
-        "엔비디아",
-        "AMD",
-        "삼성전자"
+        "삼성전자",
+        "현대차"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 섹터의 조정은 전체 기술주 및 시장의 방향성을 가늠하는 중요한 지표이며, 투자 포트폴리오 재조정 기회를 제공합니다.",
-      "key_signal": "AI 관련주 낙폭 과대 여부와 더불어, 자금이 유입되는 다른 섹터가 어디인지 파악하여 시장의 새로운 주도주를 찾아야 합니다.",
+      "investment_reason": "원·달러 환율의 방향성은 국내 기업들의 실적과 외국인 투자자금 흐름에 직접적인 영향을 미치므로 투자 판단에 중요한 요소이다.",
+      "key_signal": "미국 금리 인상 기대감 변화, 국내 무역수지, 외국인 투자자 동향에 따라 환율의 추가 변동 가능성을 체크해야 한다.",
       "keywords": [
-        "AI 주식",
-        "기술주",
-        "매도세",
-        "시장 조정",
-        "섹터 순환"
+        "원달러 환율",
+        "환율 상승",
+        "원화",
+        "금리",
+        "수출입"
       ],
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEhRN2piNVV3UW5DSXR5VkNRZW5TV1hsUUlUUFNITUh1eFBMZWlOZXhIMFhkekhlaFdfTTRRM0RwUUlybmhublZCYV9id1BTdlgyWF9rUXB3bDk0NnJudzVBenB2QlVBTFV2T0NZREJkTGhOTEM4dWZsZXdrSXg3blZpREl0Q01DbVI2NWdZdG9HaFVxVXBKS09OTXVsMUVrZ0Jxa0JIc284X2NwMDB3?oc=5",
-      "published": "2026-10-23 08:17",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xek5saGNCbUx2MzFlX2toMDkySGI5bEkyMnBfb1RLb01kMS02RGh2aWFVWERRYmJoVHZYOEh4Q0k5NUZTbmFVcTVmSm9HejNjZHlYQ3VpbnZRWkxTV18wSFU3Xzg?oc=5",
+      "published": "2026-10-23 22:30",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -275,69 +274,65 @@
       "rank": 1,
       "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "반도체 및 전자제품",
       "opinion": "관심",
-      "reason": "국내 증시의 대표 종목으로서 코스피 급락 및 반도체 섹터의 전반적인 약세 속에서도, 글로벌 AI 시장의 변화와 동사의 대응에 따라 향후 시장 반등의 핵심 지표가 될 수 있습니다. 최근 AI 주식 매도세 심화 속에서도 시장 저변의 견고한 움직임이 나타나고 있다는 점을 주시하며, 반도체 업황 개선 기대감과 AI 관련 모멘텀을 주목해야 합니다.",
+      "reason": "미국 국채 금리 상승에 따른 글로벌 유동성 축소 및 국내 금리 인상 압력이 부정적으로 작용할 수 있으나, 원·달러 환율 상승은 수출 기업에 긍정적인 영향을 미칠 수 있어 상반된 요인 속에서 변동성이 예상되기 때문입니다.",
       "check_points": [
-        "글로벌 반도체 업황 개선 시점 및 속도",
-        "AI 관련 신기술 개발 및 투자 현황",
-        "외국인 및 기관 투자자 수급 동향"
+        "미국 국채 금리 변동성 및 연준 통화정책 방향",
+        "원·달러 환율 추이와 외국인 투자자금 흐름",
+        "글로벌 반도체 업황 회복 시그널"
       ],
       "related_news_titles": [
-        "한국은행, 기준금리 3.00% 동결로 긴축 속도 조절…코스피 3.52% 급락",
-        "코스피 3.52% 급락, 전일 상승분 반납…삼성전자·SK하이닉스 동반 하락",
-        "AI 주식 매도세 심화 속에서도 시장 저변의 견고한 움직임"
+        "미국 10년물, 30년물, 2년물 국채 금리 재차 급등: 연준 금리 정책에 미칠 영향은?",
+        "원·달러 환율 6거래일 만에 상승, 1324.6원 마감 (신현송 “원화 정상화 과정”)"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "자동차",
       "opinion": "관심",
-      "reason": "HBM(고대역폭 메모리) 등 고부가가치 AI 반도체 시장의 핵심 플레이어로서, 최근 코스피 급락 및 기술주 약세 속에서도 AI 관련 모멘텀 유지 여부가 중요합니다. 글로벌 AI 수요 증가가 동사의 실적 개선으로 이어질 수 있는지, 그리고 메모리 반도체 업황 회복 기대감이 주가에 어떻게 반영되는지 지속적인 관찰이 필요합니다.",
+      "reason": "원·달러 환율 상승은 수출 중심의 자동차 기업들에게 긍정적인 실적 개선 요인으로 작용할 수 있으며, 이는 외국인 투자자금 흐름에도 중요한 영향을 미치기 때문에 주목할 필요가 있습니다.",
       "check_points": [
-        "HBM 생산 능력 및 신기술 개발 속도",
-        "메모리 반도체 가격 동향 및 재고 수준",
-        "글로벌 AI 서버 시장 성장세 및 고객사 주문 현황"
+        "원·달러 환율 변동성 지속 여부",
+        "주요 시장 판매 실적 및 글로벌 경기 둔화 우려",
+        "전기차 전환 및 신기술 투자 동향"
       ],
       "related_news_titles": [
-        "한국은행, 기준금리 3.00% 동결로 긴축 속도 조절…코스피 3.52% 급락",
-        "코스피 3.52% 급락, 전일 상승분 반납…삼성전자·SK하이닉스 동반 하락"
+        "원·달러 환율 6거래일 만에 상승, 1324.6원 마감 (신현송 “원화 정상화 과정”)"
       ]
     },
     {
       "rank": 3,
-      "name": "카카오",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "IT 서비스",
+      "sector": "정유 및 화학",
       "opinion": "주의",
-      "reason": "한국은행의 금리 동결에도 불구하고 코스피가 급락하며 국내 경기 둔화 우려가 심화되는 상황에서, 국내 플랫폼 기업으로서 거시 경제 불확실성의 영향을 받을 수 있습니다. 정부와 중앙은행의 상충된 정책 기조가 국내 소비 심리 및 기업 활동에 미치는 영향이 동사의 실적과 주가에 어떻게 반영될지 면밀한 관찰이 필요합니다.",
+      "reason": "S&P 500 하락과 함께 국제 유가 급등세가 지속되고 있어, 정유 및 에너지 업종의 원가 부담과 글로벌 경기 둔화에 따른 수요 영향이 복합적으로 작용할 수 있기 때문입니다.",
       "check_points": [
-        "국내 경기 회복 속도 및 소비 심리 변화",
-        "광고 및 이커머스 등 주요 사업 부문의 성장세",
-        "신규 성장 동력(AI, 웹3 등) 확보 및 규제 환경 변화"
+        "국제 유가 동향 (WTI, 브렌트유)",
+        "정제마진 추이 및 재고 수준 변화",
+        "글로벌 경기 둔화에 따른 에너지 수요 변화"
       ],
       "related_news_titles": [
-        "한국은행, 기준금리 3.00% 동결로 긴축 속도 조절…코스피 3.52% 급락",
-        "[허원순의 경제로 세상보기] 한은은 브레이크, 정부는 액셀…물가 안정 가능할까?"
+        "S&P 500 하락, 유가 급등 및 10년물 국채 금리 5% 유지 (연준 회의 앞두고)"
       ]
     },
     {
       "rank": 4,
-      "name": "엔비디아",
-      "market": "NASDAQ",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "글로벌 AI 기술주의 선두 주자로서, 최근 AI 우려 지속으로 인한 기술주 주도 하락세 속에서도 시장 저변의 견고한 움직임이 관찰되고 있습니다. 엔비디아의 주가 방향성은 국내 반도체 기업을 포함한 전 세계 기술주 투자 심리에 큰 영향을 미치므로, 조정 이후 나타날 수 있는 시장 재편 기회와 중장기 성장 동력을 파악하기 위해 지속적으로 주목해야 합니다.",
+      "name": "미래에셋증권",
+      "market": "KOSPI",
+      "sector": "증권",
+      "opinion": "주의",
+      "reason": "잭슨홀 미팅 연설을 앞두고 연준의 통화정책 방향에 대한 불확실성이 커지면서, 글로벌 금리 및 유동성 환경 변화에 민감한 금융주의 변동성이 확대될 수 있기 때문입니다.",
       "check_points": [
-        "AI GPU 시장 경쟁 구도 및 점유율 변화",
-        "신제품 출시 및 기술 혁신 로드맵",
-        "글로벌 기술주 투자 심리 및 대외 변수 영향"
+        "잭슨홀 미팅 연설 내용 및 연준 스탠스 변화",
+        "미국 국채 금리 변동 및 국내 기준 금리 영향",
+        "국내 증시 거래대금 및 투자 심리 변화"
       ],
       "related_news_titles": [
-        "S&P 500 전망: AI 우려 지속으로 기술주 주도 주간 하락세 예상",
-        "AI 주식 매도세 심화 속에서도 시장 저변의 견고한 움직임"
+        "미국 증시 실시간: 잭슨홀 연설 앞두고 다우 선물은 상승, 나스닥 및 S&P 500 선물은 하락"
       ]
     }
   ],
