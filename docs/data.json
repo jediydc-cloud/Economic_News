@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25 09:02",
-  "analysis_date": "2026-10-25",
+  "generated_at": "2026-10-26 08:50",
+  "analysis_date": "2026-10-26",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 경제는 반도체 수출 호조로 성장 기대감이 높아지고 있으나, 글로벌 시장의 AI 기술주 우려가 증폭되며 국내 증시도 AI 테마 신용 불안과 실적 발표를 주시하는 혼조세를 보입니다.",
-    "국내거시경제": "10월 수출이 반도체 주도로 전년 대비 105% 급증하며 한국 경제 성장에 대한 기대감이 커지고 있습니다.",
-    "글로벌경제": "AI 기술주에 대한 투자 심리가 시험대에 오르며 나스닥과 S&P 500 지수 모두 하락 압력을 받고 있습니다. AI 관련 우려가 지속되며 기술주 주도의 주간 하락세가 예상됩니다.",
-    "증시금리": "코스피는 수급 불안정과 AI 관련 신용 우려로 제한적인 흐름을 보이고 있습니다. 다음 주 주요 기업들의 실적 발표가 시장의 향방을 결정할 중요한 변수가 될 것입니다.",
-    "부동산정책": "해당 사항 없음",
-    "기업산업": "엔비디아와 테슬라가 삼성전기에 조 단위 투자를 단행하며 삼성전기의 첨단 기술력이 재조명되고 있습니다. 다만, 빅테크 기업들의 AI 설비투자 규모와 지속 가능성에 대한 의구심도 공존하며 반도체 밸류체인 전반에 신중한 접근이 요구됩니다.",
-    "오늘의투자시사점": "국내 수출 호조와 일부 기업의 긍정적 소식에도 불구하고, AI 테마 과열 논란과 글로벌 기술주 하락이 국내 증시에 부담으로 작용할 수 있습니다. 다음 주 실적 발표에 따라 기업별 옥석 가리기가 중요하며, 실적 개선이 기대되는 종목 위주로 보수적인 투자 전략이 필요합니다.",
-    "오늘의한줄": "반도체 수출 훈풍 속 국내 경제 기대감과 글로벌 AI 기술주 조정 우려가 교차하며 실적 시즌을 앞두고 신중한 접근이 필요한 시점입니다."
+    "총평": "국내외 주요 경제 지표 발표와 연준 회의를 앞두고 시장 변동성이 확대될 전망입니다. 국내에서는 3분기 GDP 및 금리 결정 관련 지표에 주목하며, 해외에서는 AI 랠리가 기업 실적과 고금리 압력에 직면했습니다. K-배터리 산업의 점유율 하락은 우려되나, AI 기술 발전은 긍정적인 영향을 미칠 수 있습니다.",
+    "국내거시경제": "이번 주 3분기 GDP 발표와 11월 금리 방향을 결정할 핵심 지표들이 예정되어 있어 국내 증시 및 채권 시장의 향방을 좌우할 것입니다.",
+    "글로벌경제": "글로벌 AI 랠리가 기업 실적과 연준의 매파적 통화정책 우려로 도전에 직면했습니다. 높은 유가와 미 국채 금리 상승세가 부담으로 작용하고 있습니다.",
+    "증시금리": "S&P 500 하락 등 미 증시가 유가 및 국채 금리 상승에 압박을 받았으나, 스페이스X 등 AI 관련주의 강세로 일부 상승 마감했습니다. AI 기술주 과열 우려와 고금리 장기화 가능성에 유의해야 합니다.",
+    "부동산정책": "해당 없음",
+    "기업산업": "K-배터리 기업들의 글로벌 시장 점유율이 26.8%로 급락하며 중국에 선두를 내주었습니다. 반면, AI 기술 발전은 관련 하드웨어 및 소프트웨어 기업에 새로운 성장 동력을 제공할 전망입니다.",
+    "오늘의투자시사점": "국내외 주요 경제 지표 발표와 연준 회의를 앞두고 보수적인 접근이 필요합니다. AI 관련주는 긍정적이나 실적과 금리 영향에 주의하고, K-배터리 섹터는 점유율 하락에 대한 추가 분석이 요구됩니다.",
+    "오늘의한줄": "국내외 핵심 경제 지표와 연준 회의를 앞두고 변동성이 예상되는 가운데, AI 기술주는 기대와 우려가 교차하며 K-배터리 산업은 경쟁 심화에 직면했습니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "10월 수출 105% 급증, 반도체 호황에 한국 경제 성장률 기대감 상승",
-      "display_title": "10월 수출 105% 급증, 반도체 호황에 한국 경제 성장률 기대감 상승",
-      "original_title": "10월 수출 105% 급증…반도체 호황에 한국 경제 성장률 기대 커진다 - 지이코노미",
+      "title": "[이번 주 관전포인트] 3분기 GDP 발표, 11월 금리 방향 결정의 분수령",
+      "display_title": "[이번 주 관전포인트] 3분기 GDP 발표, 11월 금리 방향 결정의 분수령",
+      "original_title": "[이번주 관전포인트] 3분기 GDP 발표, 11월 금리 방향 판가 - 센트럴경제",
       "summary": [
-        "10월 수출이 전년 동기 대비 105% 급증했으며, 이는 특히 반도체 부문의 강력한 회복세에 힘입은 결과입니다.",
-        "글로벌 경기 둔화 우려 속에서도 반도체 수요가 예상치를 뛰어넘으며 한국 경제의 주력 수출 품목인 반도체가 성장을 견인하고 있습니다.",
-        "수출 호조, 특히 반도체 부문의 강세는 국내 경제의 전반적인 회복에 긍정적인 신호로, 관련 산업 및 기업들의 실적 개선 기대로 이어질 수 있습니다."
+        "이번 주에 3분기 GDP 발표와 11월 한국은행 금리 방향을 결정할 주요 지표가 나올 예정이다.",
+        "GDP 성장률은 경기 판단의 핵심 지표이며, 금리 결정은 가계 부채와 기업 투자에 직접적인 영향을 미친다.",
+        "발표될 경제 지표는 한국 증시 및 채권 시장의 향방을 결정하는 중요한 변수가 될 것이므로 예의주시해야 한다."
       ],
-      "summary_text": "10월 수출이 전년 동기 대비 105% 급증했으며, 이는 특히 반도체 부문의 강력한 회복세에 힘입은 결과입니다. 글로벌 경기 둔화 우려 속에서도 반도체 수요가 예상치를 뛰어넘으며 한국 경제의 주력 수출 품목인 반도체가 성장을 견인하고 있습니다. 수출 호조, 특히 반도체 부문의 강세는 국내 경제의 전반적인 회복에 긍정적인 신호로, 관련 산업 및 기업들의 실적 개선 기대로 이어질 수 있습니다.",
-      "description": "10월 수출이 전년 대비 105%라는 놀라운 급증세를 기록하며, 특히 반도체 부문의 강력한 호황이 한국 경제의 전반적인 성장률 전망을 밝게 하고 있습니다.",
+      "summary_text": "이번 주에 3분기 GDP 발표와 11월 한국은행 금리 방향을 결정할 주요 지표가 나올 예정이다. GDP 성장률은 경기 판단의 핵심 지표이며, 금리 결정은 가계 부채와 기업 투자에 직접적인 영향을 미친다. 발표될 경제 지표는 한국 증시 및 채권 시장의 향방을 결정하는 중요한 변수가 될 것이므로 예의주시해야 한다.",
+      "description": "이번 주에는 한국의 3분기 GDP 발표와 이를 통해 11월 한국은행 금융통화위원회의 금리 결정 방향을 가늠할 수 있는 중요한 이벤트가 예정되어 있습니다.",
       "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT하드웨어, 디스플레이",
+      "importance": 10,
+      "market_impact": "중립",
+      "related_sector": "은행, 증권, 건설, 부동산",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "한미반도체"
+        "KB금융",
+        "신한지주",
+        "삼성증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "수출은 한국 경제의 핵심 동력이며, 반도체 부문의 폭발적 성장은 관련 기업들의 실적 개선과 국내 증시 전반에 긍정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "반도체 수출의 지속 가능성과 다른 주력 품목의 동반 상승 여부를 확인해야 합니다.",
+      "investment_reason": "국내 GDP와 금리 방향은 한국 시장 전체의 흐름을 결정짓는 핵심 요인이므로 모든 투자자가 반드시 주목해야 합니다.",
+      "key_signal": "3분기 GDP 발표 결과와 한국은행의 11월 금리 인상 또는 동결 시사 여부를 면밀히 분석해야 합니다.",
       "keywords": [
-        "수출",
-        "반도체",
-        "경제성장",
-        "무역수지",
-        "국내경제"
+        "GDP",
+        "한국은행",
+        "금리",
+        "국내경제",
+        "금융시장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WX2hxQkl6NGNPRmVCWE8yQUtjbjFaUmRRSV9obG1Ld3J6aEtSR3hUZFA1c1BGSHJ6bmtLTVJ3Vm5rMjZzeGt0Mmw3LWw4Z2Z4cm1CVUY2R1RaYTREc3dUQ3RzMkc?oc=5",
-      "published": "2026-10-25 07:07",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CQ2YzRDlGWmg2OG1BTW9JZk1rMUt1b0NCZVZ4TkljTzZVVlZmTmdOOWZKbG4tSW5haXh5TUVsWHlBYmZjdTZSTDdDWm5xWGhpWTZwUXpCeDhJMzc3aEhRVmsxU2pzd9IBakFVX3lxTE1FMDJFRkhxb1lpTlcwVmRKZDI1T2VRWUZSRDROd252cTBzMEpGc2pRYzlRNklDY01EZmY1TEVkY1ZaRmxOSkhqS2pJSDE3N1d1QzBkZW1CYWswX1V6Vk5JejNxRU9neTdfX1E?oc=5",
+      "published": "2026-10-26 06:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -67,123 +67,126 @@
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "엔비디아·테슬라, 삼성전기에 조 단위 투자하는 이유는?",
-      "display_title": "엔비디아·테슬라, 삼성전기에 조 단위 투자하는 이유는?",
-      "original_title": "엔비디아·테슬라, 삼성전기에 조 단위 투자하는 이유는? [뉴스 쉽게보기] - 매일경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "국제 비즈니스: AI 랠리, 기업 실적 및 연준 회의로 도전 직면",
+      "display_title": "국제 비즈니스: AI 랠리, 기업 실적 및 연준 회의로 도전 직면",
+      "original_title": "International Business: AI rally faces challenge from earnings and Fed meeting - Gulf Daily News (Bahrain)",
       "summary": [
-        "엔비디아와 테슬라가 삼성전기에 조 단위의 대규모 투자를 진행하고 있습니다.",
-        "이는 삼성전기의 고성능 MLCC(적층세라믹콘덴서), FC-BGA(플립칩-볼그리드어레이) 등 첨단 전장 및 AI 반도체 핵심 부품 기술력을 인정했기 때문으로 풀이됩니다.",
-        "글로벌 빅테크 기업들의 투자는 삼성전기의 성장 가능성과 기술 경쟁력을 입증하는 것으로, 관련 부품 산업 및 삼성전기 주가에 긍정적인 영향을 미칠 수 있습니다."
+        "글로벌 AI 관련 주식의 상승세가 기업 실적과 연준 회의라는 두 가지 주요 변수로 인해 도전에 직면할 수 있다.",
+        "AI 기술주 과열 우려와 고금리 장기화 가능성이 시장에 부담으로 작용할 수 있다.",
+        "AI 관련 주식 투자자들은 향후 발표될 기업 실적과 연준의 통화 정책 변화에 특히 주의를 기울여야 한다."
       ],
-      "summary_text": "엔비디아와 테슬라가 삼성전기에 조 단위의 대규모 투자를 진행하고 있습니다. 이는 삼성전기의 고성능 MLCC(적층세라믹콘덴서), FC-BGA(플립칩-볼그리드어레이) 등 첨단 전장 및 AI 반도체 핵심 부품 기술력을 인정했기 때문으로 풀이됩니다. 글로벌 빅테크 기업들의 투자는 삼성전기의 성장 가능성과 기술 경쟁력을 입증하는 것으로, 관련 부품 산업 및 삼성전기 주가에 긍정적인 영향을 미칠 수 있습니다.",
-      "description": "엔비디아와 테슬라가 삼성전기에 조 단위 투자를 진행하는 배경과 그 이유에 대해 쉽게 풀어 설명합니다.",
-      "category": "기업·산업",
+      "summary_text": "글로벌 AI 관련 주식의 상승세가 기업 실적과 연준 회의라는 두 가지 주요 변수로 인해 도전에 직면할 수 있다. AI 기술주 과열 우려와 고금리 장기화 가능성이 시장에 부담으로 작용할 수 있다. AI 관련 주식 투자자들은 향후 발표될 기업 실적과 연준의 통화 정책 변화에 특히 주의를 기울여야 한다.",
+      "description": "글로벌 AI 관련 주식 랠리가 기업 실적 발표와 미국 연방준비제도(Fed) 회의라는 두 가지 주요 요인으로 인해 시험대에 오를 것이라는 분석입니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전자부품, 반도체, AI, 전장부품",
+      "market_impact": "부정",
+      "related_sector": "인공지능, 반도체, 소프트웨어",
       "related_stocks": [
-        "삼성전기",
+        "엔비디아",
+        "마이크로소프트",
         "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 AI 및 전기차 선도 기업들의 대규모 투자는 삼성전기의 장기적인 성장 동력을 강화하고 국내 전자부품 산업의 위상을 높일 중요한 이벤트입니다.",
-      "key_signal": "삼성전기의 투자 유치 자금 활용 계획과 실제 생산 능력 및 기술력 확대가 기업 실적에 어떻게 반영되는지 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "AI 관련주의 강세가 지속될지 여부를 가늠하는 중요한 변수들이 대기 중이므로 신중한 접근이 필요합니다.",
+      "key_signal": "연준의 금리 결정과 주요 AI 기업들의 실적 발표를 통해 AI 랠리의 지속 가능성을 판단해야 합니다.",
       "keywords": [
-        "삼성전기",
-        "엔비디아",
-        "테슬라",
-        "MLCC",
-        "FC-BGA"
+        "AI",
+        "연준",
+        "금리",
+        "기업실적",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1tVy1yQ0t2T3pIVWVGclBQNWJBNHZRVXAwRkhDQ3dLUkNqejE0bEt5b0pzdXlobHhWNVNhcnJFbGhlSGRNQlE?oc=5",
-      "published": "2026-10-25 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wVy1HWjI3Z04wSEgza2d4cmtDNVhHbmJZbDVET3prVXB0MHJwVm5jUzhDcG9KR1UtUXphN3pVVVI4dDhsdWRGN2V3RUlWOENqUnl3?oc=5",
+      "published": "2026-10-26 06:01",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "빅테크 실적 공포와 AI 설비투자: 파운드리 공급망 충격, 슈퍼마이크로와 메타의 사례를 통해 본 반도체 밸류체인과 8천억 달러 설비투자설의 진실",
-      "display_title": "빅테크 실적 공포와 AI 설비투자: 파운드리 공급망 충격, 슈퍼마이크로와 메타의 사례를 통해 본 반도체 밸류체인과 8천억 달러 설비투자설의 진실",
-      "original_title": "빅테크 실적 공포와 AI 설비투자 >> 파운드리 공급망 충격의 실체 분석 > 슈퍼마이크로 폭증과 메타의 역풍 => 반도체 벨류체인 뒤흔든 자본의 속내 = 8천억 달러 설비투자설의 진실 규명 -> 월가를 덮친 냉혹한 잣대와 진실 - 데일리머니",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 S&P 500 하락, 유가 급등 및 미 10년물 국채 금리 5% 상회 연준 회의 앞두고",
+      "display_title": "오늘 S&P 500 하락, 유가 급등 및 미 10년물 국채 금리 5% 상회 연준 회의 앞두고",
+      "original_title": "S&P 500 Today: Stock Market Index Drops to 7,623.68 as Oil Surges and the 10-Year Treasury Yield Hovers at 5% Ahead of the Fed - BBN Times",
       "summary": [
-        "빅테크 기업들의 실적에 대한 우려와 AI 설비투자 확대로 인해 파운드리 공급망에 큰 변화가 예상되며, 슈퍼마이크로의 성장과 메타의 재정적 어려움이 이러한 변화를 대변합니다.",
-        "AI 기술 경쟁 심화로 막대한 설비투자가 진행될 것이라는 기대와 함께, 실제 투자 규모 및 효율성에 대한 의구심과 빅테크 기업들의 이익률 하락 가능성이 복합적으로 작용하고 있습니다.",
-        "반도체 밸류체인 전반에 걸쳐 투자 기회가 있을 수 있지만, 빅테크 기업들의 실제 투자 계획과 재정 건전성, 그리고 AI 설비투자의 지속 가능성에 대한 면밀한 분석이 필요합니다."
+        "S&P 500 지수가 하락했으며, 유가 급등과 10년물 국채 금리의 5%대 유지 등이 원인으로 지목되었다.",
+        "높은 유가와 국채 금리는 기업의 비용 부담을 늘리고 투자를 위축시켜 증시에 부정적인 영향을 미친다.",
+        "연준의 통화정책 기조가 여전히 매파적일 수 있다는 우려가 존재하며, 이는 증시 추가 하락 압력으로 작용할 수 있다."
       ],
-      "summary_text": "빅테크 기업들의 실적에 대한 우려와 AI 설비투자 확대로 인해 파운드리 공급망에 큰 변화가 예상되며, 슈퍼마이크로의 성장과 메타의 재정적 어려움이 이러한 변화를 대변합니다. AI 기술 경쟁 심화로 막대한 설비투자가 진행될 것이라는 기대와 함께, 실제 투자 규모 및 효율성에 대한 의구심과 빅테크 기업들의 이익률 하락 가능성이 복합적으로 작용하고 있습니다. 반도체 밸류체인 전반에 걸쳐 투자 기회가 있을 수 있지만, 빅테크 기업들의 실제 투자 계획과 재정 건전성, 그리고 AI 설비투자의 지속 가능성에 대한 면밀한 분석이 필요합니다.",
-      "description": "빅테크 기업들의 실적 우려와 AI 설비투자 확대 흐름 속에서 파운드리 공급망에 미칠 충격과 슈퍼마이크로의 급증, 메타의 역풍 사례를 분석하여 반도체 밸류체인에 숨겨진 자본의 속내와 8천억 달러 설비투자설의 실체를 규명합니다.",
-      "category": "기업·산업",
+      "summary_text": "S&P 500 지수가 하락했으며, 유가 급등과 10년물 국채 금리의 5%대 유지 등이 원인으로 지목되었다. 높은 유가와 국채 금리는 기업의 비용 부담을 늘리고 투자를 위축시켜 증시에 부정적인 영향을 미친다. 연준의 통화정책 기조가 여전히 매파적일 수 있다는 우려가 존재하며, 이는 증시 추가 하락 압력으로 작용할 수 있다.",
+      "description": "S&P 500 지수가 유가 급등과 10년물 국채 금리의 5%대 유지 속에 하락했으며, 이는 연방준비제도(Fed) 회의를 앞두고 시장의 불안감을 반영합니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, 파운드리, AI, 클라우드, 데이터센터",
+      "market_impact": "부정",
+      "related_sector": "에너지, 금융, 전체 증시",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "관심",
-      "investment_reason": "글로벌 빅테크 기업들의 AI 설비투자 동향과 파운드리 공급망 변화는 국내 반도체 산업 전체에 매우 중요한 영향을 미치므로, 그 실체와 진실을 파악하는 것이 중요합니다.",
-      "key_signal": "빅테크 기업들의 실제 설비투자 집행 규모와 파운드리 업체들의 수주 동향을 꾸준히 확인하여 AI 투자 열풍의 지속 가능성을 판단해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "고유가와 고금리가 지속될 경우 기업 실적과 소비자 구매력에 부정적인 영향을 미쳐 글로벌 경기 둔화 우려를 키울 수 있으므로 경계해야 합니다.",
+      "key_signal": "연준의 통화정책 스탠스와 10년물 국채 금리 및 유가의 추가적인 변동성을 주시해야 합니다.",
       "keywords": [
-        "반도체",
-        "AI설비투자",
-        "파운드리",
-        "빅테크",
-        "공급망"
+        "S&P500",
+        "유가",
+        "국채금리",
+        "연준",
+        "고금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YVTBvRzBDc004MmFSbUdnSllZZzJ5ODhvZnJFRl8tVG1xU2pxczlyTEVZX0hDenJIcFR3ZGMzSXVJdVJIX1RFR2U4cmFZX3RyZkJOQjAzYzNLU1BaRG94ZkQ0eWJBaHpXbFRuVTkwb3B3SFE?oc=5",
-      "published": "2026-10-24 18:04",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG81TzZadUxsS2VHU1doLWlEalZQclMzUFRnaUtzT2xaYm12YnM4ZzhXRFg3MjR4aHZ3N0hfQS1qMkwzVE90REViVGJRYXdpcDlrMVJ4S2E0Z0FKMkFjWFRmQy14VTlTdDg4RGE2cExQRFJVdEZmX05YQTUxdzhEOFB4dVNIVnExbW1pMmtIUjNqbWxLc2syWTZoekl0amxLMGluOEZwSDlxa3ZBRmt0VjNDVXhyUVdaZ2x4d0R2VTdDZHphQWtzMEFidWNjQ3dOUTJfQUZoTjJla0tHVXZ3Rk5QS0wtcHRCM2ctS2ZzRGc?oc=5",
+      "published": "2026-10-25 19:35",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 4,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "수급 공백과 AI 신용 불안 속에 갇힌 코스피, 다음 주 '실적 슈퍼위크'가 분수령",
-      "display_title": "수급 공백과 AI 신용 불안 속에 갇힌 코스피, 다음 주 '실적 슈퍼위크'가 분수령",
-      "original_title": "수급 공백·AI 신용 불안에 갇힌 코스피…다음 주 ‘실적 슈퍼위크’가 분수령[주간증시] - 에너지경제신문",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "K-배터리 시장 점유율 26.8%로 급락, 전기차 시장 반등에도 중국에 리더십 내줘",
+      "display_title": "K-배터리 시장 점유율 26.8%로 급락, 전기차 시장 반등에도 중국에 리더십 내줘",
+      "original_title": "K-Battery Market Share Plunges to 26.8% Despite EV Market Rebound... Leadership Ceded to China - BigGo Finance",
       "summary": [
-        "코스피가 수급 불안정과 AI 관련 신용 우려로 인해 제한적인 흐름을 보이고 있으며, 다음 주 주요 기업들의 실적 발표가 시장의 향방을 결정할 중요한 변수가 될 것입니다.",
-        "최근 AI 테마의 과열에 대한 회의론과 외국인 및 기관의 수급 공백이 지수 상승을 저해하는 요인으로 작용하고 있습니다.",
-        "실적 발표 결과에 따라 AI 관련주의 옥석 가리기가 가속화될 수 있으며, 실적 호전 기업 위주로 투자 전략을 재정비할 필요가 있습니다."
+        "K-배터리 기업들의 글로벌 시장 점유율이 26.8%로 크게 하락하며 중국에 선두를 내주었다.",
+        "전기차 시장의 전반적인 성장세에도 불구하고, K-배터리 기업들이 경쟁 심화 및 기술/가격 경쟁력에서 밀리는 양상을 보이고 있다.",
+        "국내 배터리 기업들은 시장 점유율 방어를 위한 기술 개발 및 원가 절감 노력이 더욱 중요해졌으며, 장기적인 성장 동력에 대한 우려가 커질 수 있다."
       ],
-      "summary_text": "코스피가 수급 불안정과 AI 관련 신용 우려로 인해 제한적인 흐름을 보이고 있으며, 다음 주 주요 기업들의 실적 발표가 시장의 향방을 결정할 중요한 변수가 될 것입니다. 최근 AI 테마의 과열에 대한 회의론과 외국인 및 기관의 수급 공백이 지수 상승을 저해하는 요인으로 작용하고 있습니다. 실적 발표 결과에 따라 AI 관련주의 옥석 가리기가 가속화될 수 있으며, 실적 호전 기업 위주로 투자 전략을 재정비할 필요가 있습니다.",
-      "description": "수급 불안정과 AI 관련 신용 불안정성으로 코스피가 제한적인 흐름을 보이는 가운데, 다음 주 대기업들의 실적 발표가 집중되는 '실적 슈퍼위크'가 시장의 향방을 가를 중요한 전환점이 될 전망입니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, AI 관련주, IT하드웨어",
+      "summary_text": "K-배터리 기업들의 글로벌 시장 점유율이 26.8%로 크게 하락하며 중국에 선두를 내주었다. 전기차 시장의 전반적인 성장세에도 불구하고, K-배터리 기업들이 경쟁 심화 및 기술/가격 경쟁력에서 밀리는 양상을 보이고 있다. 국내 배터리 기업들은 시장 점유율 방어를 위한 기술 개발 및 원가 절감 노력이 더욱 중요해졌으며, 장기적인 성장 동력에 대한 우려가 커질 수 있다.",
+      "description": "전기차 시장이 회복되고 있음에도 불구하고 한국 배터리(K-배터리) 기업들의 글로벌 시장 점유율이 26.8%로 급락하며 중국 기업들에게 선두 자리를 내주었다는 소식입니다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "2차전지, 전기차, 소재",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "LG에너지솔루션",
+        "삼성SDI",
+        "SK이노베이션"
       ],
-      "investment_view": "관심",
-      "investment_reason": "다음 주 대기업들의 실적 발표가 코스피의 단기적인 방향성과 AI 관련 테마의 투자심리에 큰 영향을 미칠 예정이기 때문입니다.",
-      "key_signal": "주요 IT 기업들의 실적 발표 내용과 AI 관련 기업들의 신뢰도 변화를 면밀히 체크해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 2차전지 산업의 경쟁력 약화는 관련 기업들의 실적 및 주가에 직접적인 부정적 영향을 미칠 수 있으므로 신중한 접근이 필요합니다.",
+      "key_signal": "국내 배터리 기업들의 점유율 회복 전략, 신기술 개발 현황 및 중국 기업들과의 경쟁 심화 양상을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "코스피",
-        "실적발표",
-        "AI테마",
-        "수급불안",
-        "주간증시"
+        "K-배터리",
+        "2차전지",
+        "전기차",
+        "시장점유율",
+        "중국"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sdEV1OU1FVmZnS0U3b1J1VDJfUUNONlRKVUZQY2g4eUxUQ3J2YXB4N085NjdWYnVYUjRoZnZVdFpkUzV0eG1sbFVmWWlsVlI0Z1lCeGV5cVJvZHAyelc0S2VR?oc=5",
-      "published": "2026-10-25 08:56",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wZWlOZUhYTHpGWXZwYlRzbWhPbTBWVDh3aDBUTm9DbmxxTzVSZ0FEamZFckZ6bUd3aFk0QlJMaFNJRjRCMXN1RXRZYzhOTzlNY0U2WjhXOWEwWlMtZHp2QnhiT0dIMWdLUDFVT2t6UUNRTGZ4UXc?oc=5",
+      "published": "2026-10-26 01:55",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -193,37 +196,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥, 국채수익률 및 달러, 주요 AI 심리 시험대에 직면",
-      "display_title": "나스닥, 국채수익률 및 달러, 주요 AI 심리 시험대에 직면",
-      "original_title": "Nasdaq, Treasury yields and dollar face a major AI sentiment test - StoneX",
+      "title": "북미 증시, 스페이스X 및 슈퍼 마이크로 발 AI 열풍으로 상승",
+      "display_title": "북미 증시, 스페이스X 및 슈퍼 마이크로 발 AI 열풍으로 상승",
+      "original_title": "North American Stock Markets Today: S&P 500, Dow Jones, Nasdaq and TSX Rise as SpaceX and Super Micro Revive the AI Trade - BBN Times",
       "summary": [
-        "나스닥 지수, 미국 국채 수익률, 달러 가치가 AI 관련 투자 심리의 변화에 따라 큰 영향을 받을 것으로 전망됩니다.",
-        "최근 AI 기술에 대한 기대감으로 나스닥이 강세를 보였으나, AI 관련 기업들의 실적 및 미래 성장성에 대한 회의론이 부각되면서 투자 심리가 시험받는 국면에 진입했습니다.",
-        "AI 테마의 건전성에 대한 시장의 평가가 나스닥을 비롯한 기술주, 더 나아가 글로벌 금융 시장 전반의 방향성을 좌우할 수 있으므로 관련 흐름을 주시해야 합니다."
+        "S&P 500, 다우존스, 나스닥 등 북미 주요 증시가 상승 마감했다.",
+        "스페이스X와 슈퍼 마이크로 등 AI 관련 기업들의 강세가 시장에 긍정적인 영향을 미쳤다.",
+        "AI 관련 기술주에 대한 투자심리가 회복되며 시장 전반에 긍정적인 신호를 제공하고 있다."
       ],
-      "summary_text": "나스닥 지수, 미국 국채 수익률, 달러 가치가 AI 관련 투자 심리의 변화에 따라 큰 영향을 받을 것으로 전망됩니다. 최근 AI 기술에 대한 기대감으로 나스닥이 강세를 보였으나, AI 관련 기업들의 실적 및 미래 성장성에 대한 회의론이 부각되면서 투자 심리가 시험받는 국면에 진입했습니다. AI 테마의 건전성에 대한 시장의 평가가 나스닥을 비롯한 기술주, 더 나아가 글로벌 금융 시장 전반의 방향성을 좌우할 수 있으므로 관련 흐름을 주시해야 합니다.",
-      "description": "나스닥 지수와 미국 국채 수익률, 달러 가치 모두 AI 관련 투자 심리의 중요한 시험대에 오를 것으로 예상됩니다.",
-      "category": "글로벌 경제",
+      "summary_text": "S&P 500, 다우존스, 나스닥 등 북미 주요 증시가 상승 마감했다. 스페이스X와 슈퍼 마이크로 등 AI 관련 기업들의 강세가 시장에 긍정적인 영향을 미쳤다. AI 관련 기술주에 대한 투자심리가 회복되며 시장 전반에 긍정적인 신호를 제공하고 있다.",
+      "description": "오늘 북미 증시(S&P 500, 다우존스, 나스닥, TSX)가 스페이스X와 슈퍼 마이크로 등의 영향으로 AI 관련 주식의 강세에 힘입어 상승했습니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "기술주, 반도체, AI 관련주",
+      "market_impact": "긍정",
+      "related_sector": "인공지능, 반도체, IT하드웨어",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "슈퍼마이크로컴퓨터",
+        "엔비디아",
+        "테슬라"
       ],
-      "investment_view": "주의",
-      "investment_reason": "AI 테마에 대한 투자 심리 변화는 국내외 기술주 전반에 직접적인 영향을 미칠 수 있으므로 리스크 관리가 필요합니다.",
-      "key_signal": "AI 관련 주요 기업들의 실적 발표와 애널리스트들의 AI 산업 전망치 변화를 주시해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 기술주 중심의 북미 증시 강세는 국내 관련 섹터에도 긍정적인 영향을 미칠 수 있으므로 주목해야 합니다.",
+      "key_signal": "북미 AI 관련 기술주 강세가 국내 반도체 및 AI 섹터로 이어지는지 확인해야 합니다.",
       "keywords": [
-        "나스닥",
-        "AI테마",
-        "국채수익률",
-        "달러",
-        "투자심리"
+        "북미증시",
+        "AI",
+        "기술주",
+        "S&P500",
+        "나스닥"
       ],
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlpmc3pTTnVwTkp5aS1HMXpISUhTSnBndTNiTWdzMmlkZ21QOUJsRm1CaWtidGtKVWVvV3N2cm5KTnE0NW93X2JfRUtzcjZoR1VVZWp5NzFheUEyOWFRd19vTjBCTUFVdnFaMWhaTXBBOW5rSDBRakQzNXBraTEyVklqajEyUjhaWUFIZXViVWZ3SFpkZmhfQmh1N1NQRXZjVUQyeDZyMGlaemNNdElyNGdB?oc=5",
-      "published": "2026-10-25 02:43",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRkZfaGZBVmExSlUzUVhzQ05YcW9xcnMyckYySnNHTEotOUxxejBDNk1URmlHeU1IenlYTkQzREt2LTItNHdWaFI1ei1ZQ0dtNFd3V1hNa0UwWUZCd2p6bEhoRlV0V3c5NFQ3d0hxeFZneDAxUjhGaE9wLTdPZUppZjBKakhXMnJxbms2Q1ZUeW5CQlo4enJTRFBDM3RPYzFzby1seUJXaERZUldoejl2MjRDNnQ2UzRVem5WRmlPa2oyTzJvMlRKN3lRcDc0OVh3cjEyUVl5NDVtb3cwUGdyVEowcEVzTU90NVpyZm92UQ?oc=5",
+      "published": "2026-10-26 06:53",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -232,42 +235,42 @@
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "S&P 500 전망: AI 우려 지속으로 기술주 하락 주도, 주간 하락세 예상",
-      "display_title": "S&P 500 전망: AI 우려 지속으로 기술주 하락 주도, 주간 하락세 예상",
-      "original_title": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger - StoneX",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "GTC 베를린 2026, AICA 테크세미나의 의미 분석",
+      "display_title": "GTC 베를린 2026, AICA 테크세미나의 의미 분석",
+      "original_title": "﻿GTC 베를린 2026, AICA 테크세미나 의미 [윤석빈의 Thinking] - IT조선",
       "summary": [
-        "S&P 500 지수가 AI 관련 우려 지속으로 인해 기술주 주도로 주간 하락세를 기록할 것으로 예상됩니다.",
-        "최근 AI 기술주들에 대한 기대감이 과도했다는 인식이 확산되며 차익 실현 매물 출회 및 투자심리 위축으로 이어지고 있습니다.",
-        "미국 기술주의 하락세는 국내 기술주 및 증시 전반에 부정적인 영향을 미칠 수 있으므로, AI 테마 관련 종목들에 대한 신중한 접근이 필요합니다."
+        "GTC 베를린 2026에서 진행된 AICA 테크세미나의 내용과 의미가 분석되었다.",
+        "해당 세미나는 최신 AI 기술 동향과 산업 적용 사례를 공유하며 AI 기술 발전의 방향성을 제시했을 것으로 예상된다.",
+        "AI 기술의 발전은 관련 하드웨어 및 소프트웨어 기업들의 성장 동력으로 작용하며 새로운 투자 기회를 창출할 수 있다."
       ],
-      "summary_text": "S&P 500 지수가 AI 관련 우려 지속으로 인해 기술주 주도로 주간 하락세를 기록할 것으로 예상됩니다. 최근 AI 기술주들에 대한 기대감이 과도했다는 인식이 확산되며 차익 실현 매물 출회 및 투자심리 위축으로 이어지고 있습니다. 미국 기술주의 하락세는 국내 기술주 및 증시 전반에 부정적인 영향을 미칠 수 있으므로, AI 테마 관련 종목들에 대한 신중한 접근이 필요합니다.",
-      "description": "S&P 500 지수가 AI 관련 우려가 지속되면서 기술주가 하락을 주도하여 주간 단위로 하락할 것으로 전망됩니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "기술주, 반도체, AI 관련주",
+      "summary_text": "GTC 베를린 2026에서 진행된 AICA 테크세미나의 내용과 의미가 분석되었다. 해당 세미나는 최신 AI 기술 동향과 산업 적용 사례를 공유하며 AI 기술 발전의 방향성을 제시했을 것으로 예상된다. AI 기술의 발전은 관련 하드웨어 및 소프트웨어 기업들의 성장 동력으로 작용하며 새로운 투자 기회를 창출할 수 있다.",
+      "description": "GTC 베를린 2026에서 열린 AICA 테크세미나의 중요성을 분석하고, AI 기술 발전 및 산업 동향에 미치는 영향을 다룬 기사입니다.",
+      "category": "기업·산업",
+      "importance": 7,
+      "market_impact": "긍정",
+      "related_sector": "인공지능, 반도체, 소프트웨어, IT서비스",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
-      "investment_view": "주의",
-      "investment_reason": "S&P 500 지수의 하락, 특히 기술주 주도의 하락은 국내 증시의 투자 심리에도 부정적인 영향을 미칠 수 있어 리스크 관리가 중요합니다.",
-      "key_signal": "미국 증시, 특히 나스닥과 기술주의 흐름과 AI 관련 기업들의 추가적인 뉴스에 촉각을 세워야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "글로벌 AI 기술 컨퍼런스 내용은 국내 AI 관련 기업들의 기술 개발 방향성과 시장 경쟁력을 판단하는 데 중요한 정보를 제공합니다.",
+      "key_signal": "세미나에서 발표된 핵심 AI 기술 트렌드와 산업별 적용 가능성을 파악하여 관련 기업들의 성장 잠재력을 평가해야 합니다.",
       "keywords": [
-        "S&P500",
-        "기술주",
-        "AI우려",
-        "주간하락",
-        "증시전망"
+        "GTC",
+        "AI",
+        "테크세미나",
+        "인공지능",
+        "기술혁신"
       ],
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZktHLXhFSHBWaVlnbUxVVENzb19pd1NaRkFqQndETFFpbzhBUENraThmMkp2WU1UVC1meXdROUJhVFV5UzFRYzN6WWo1MXF1OGdpRV85VnpzaWZvWFk3cmVDbUthZkRtcVEwVUlldG9OVnBpcFJES0tXN1FZY0xDUzVOX1NmOXhybFlPOHFLMXZZTUl2UG9kSGJJVjRqLWtxb0tnem5qUGkzbURXc1R5SnY1aksyLURnWkRacXVDN2ZfX2JOU2hmQmNpWGkzMGc?oc=5",
-      "published": "2026-10-25 02:19",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53U1d5VWQ0dVl3R0QzSDM5S0RTYmo5RndPMUxwSlJKZktFRkUzTXBVS1I2dVV4ZGRSRUsxdWNQOWVJaTdTN3dtWDJzdzctdVNWMTF3TWRvY3dUWmQwQlBUd1JabHh5UDRGQjN4dkUzaXFKSEVX0gF0QVVfeXFMTndTV3lVZDR1WXdHRDNIMzlLRFNiajlGd08xTHBKUkpmS0VGRTNNcFVLUjZ1VXhkZFJFSzF1Y1A5ZUlpN1M3d21YMnN3Ny11U1YxMXdNZG9jd1RaZDBCUFR3UlpseHlQNEZCM3h2RTNpcUpIRVc?oc=5",
+      "published": "2026-10-26 06:12",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -280,66 +283,64 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "10월 수출 급증의 핵심 동력인 반도체 부문의 호황과 글로벌 AI 설비투자 동향 속 파운드리 공급망 변화의 중심에 있어 국내외 시장의 중요한 이정표가 될 수 있습니다.",
+      "reason": "AI 기술주 중심의 글로벌 증시 강세와 기술 컨퍼런스 소식은 국내 반도체 및 IT 기업에 긍정적인 영향을 미칠 수 있으나, AI 랠리의 지속 여부에 대한 도전 요인도 함께 주목해야 합니다.",
       "check_points": [
-        "10월 수출 실적의 지속성 및 반도체 업황 개선 추이",
-        "글로벌 빅테크 기업의 AI 투자 확대 여부",
-        "다음 주 예정된 실적 발표 내용"
+        "글로벌 AI 기술 개발 동향",
+        "반도체 업황 회복 속도",
+        "기업 실적 발표"
       ],
       "related_news_titles": [
-        "10월 수출 105% 급증, 반도체 호황에 한국 경제 성장률 기대감 상승",
-        "빅테크 실적 공포와 AI 설비투자: 파운드리 공급망 충격, 슈퍼마이크로와 메타의 사례를 통해 본 반도체 밸류체인과 8천억 달러 설비투자설의 진실",
-        "수급 공백과 AI 신용 불안 속에 갇힌 코스피, 다음 주 '실적 슈퍼위크'가 분수령"
+        "국제 비즈니스: AI 랠리, 기업 실적 및 연준 회의로 도전 직면",
+        "GTC 베를린 2026, AICA 테크세미나의 의미 분석"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "LG에너지솔루션",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "반도체 수출 호황의 직접적인 수혜가 예상되며, AI 관련 설비투자 확대 및 다음 주 예정된 대기업들의 실적 발표가 주가에 긍정적인 모멘텀으로 작용할 수 있습니다.",
+      "sector": "2차전지",
+      "opinion": "주의",
+      "reason": "K-배터리 시장 점유율 하락 뉴스는 국내 2차전지 산업의 경쟁력 약화 우려를 키우며 관련 기업 실적에 직접적인 부정적 영향을 미칠 수 있습니다.",
       "check_points": [
-        "10월 반도체 수출 데이터의 추세 및 메모리 반도체 시장 회복 속도",
-        "글로벌 AI 산업의 실제 투자 규모 및 HBM(고대역폭 메모리) 수요 증가",
-        "다음 주 발표될 기업 실적 및 가이던스"
+        "국내 2차전지 기업들의 시장 점유율 변화",
+        "중국 경쟁사 동향",
+        "전기차 시장 성장률"
       ],
       "related_news_titles": [
-        "10월 수출 105% 급증, 반도체 호황에 한국 경제 성장률 기대감 상승",
-        "빅테크 실적 공포와 AI 설비투자: 파운드리 공급망 충격, 슈퍼마이크로와 메타의 사례를 통해 본 반도체 밸류체인과 8천억 달러 설비투자설의 진실",
-        "수급 공백과 AI 신용 불안 속에 갇힌 코스피, 다음 주 '실적 슈퍼위크'가 분수령"
+        "K-배터리 시장 점유율 26.8%로 급락, 전기차 시장 반등에도 중국에 리더십 내줘"
       ]
     },
     {
       "rank": 3,
-      "name": "삼성전기",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "전자부품",
+      "sector": "은행",
       "opinion": "관심",
-      "reason": "엔비디아, 테슬라 등 글로벌 AI 및 전기차 선도 기업들의 조 단위 투자가 예정되어 있어 장기적인 성장 동력과 국내 전자부품 산업의 위상 강화에 기여할 것으로 기대됩니다.",
+      "reason": "3분기 GDP 발표와 11월 금리 방향 결정은 국내 거시경제의 핵심 변수이며, 이는 은행을 포함한 금융업 전반의 실적 및 시장 흐름에 중요한 영향을 미칩니다.",
       "check_points": [
-        "글로벌 빅테크 기업들의 실제 투자 진행 상황 및 규모",
-        "AI 및 전기차 시장의 성장세 지속 여부 및 MLCC 등 핵심 부품 수요",
-        "전장용 부품 시장에서의 경쟁력 확보"
+        "3분기 GDP 성장률 발표",
+        "한국은행 금융통화위원회 금리 결정",
+        "국내외 경기 지표"
       ],
       "related_news_titles": [
-        "엔비디아·테슬라, 삼성전기에 조 단위 투자하는 이유는?"
+        "[이번 주 관전포인트] 3분기 GDP 발표, 11월 금리 방향 결정의 분수령"
       ]
     },
     {
       "rank": 4,
-      "name": "한미반도체",
+      "name": "SK이노베이션",
       "market": "KOSPI",
-      "sector": "반도체 장비",
-      "opinion": "관심",
-      "reason": "10월 반도체 수출 급증과 함께 국내 반도체 산업 호황의 직접적인 수혜주로 언급되며, 반도체 장비 업황 개선에 따른 실적 기대감이 높아지고 있습니다.",
+      "sector": "정유, 2차전지",
+      "opinion": "주의",
+      "reason": "고유가 지속 가능성과 국내 K-배터리 산업의 경쟁력 약화 우려가 동시에 제기되며, 이는 정유 및 2차전지 사업을 영위하는 기업의 실적과 주가에 복합적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "글로벌 반도체 설비투자 사이클 및 장비 수요 증가 추이",
-        "고대역폭 메모리(HBM) 관련 장비 투자 확대 여부",
-        "핵심 고객사들의 Capex(자본적 지출) 계획"
+        "국제 유가 및 정제마진 추이",
+        "2차전지 사업부문의 시장 점유율 변화",
+        "미국 금리 인상 기조"
       ],
       "related_news_titles": [
-        "10월 수출 105% 급증, 반도체 호황에 한국 경제 성장률 기대감 상승"
+        "오늘 S&P 500 하락, 유가 급등 및 미 10년물 국채 금리 5% 상회 연준 회의 앞두고",
+        "K-배터리 시장 점유율 26.8%로 급락, 전기차 시장 반등에도 중국에 리더십 내줘"
       ]
     }
   ],
