@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29 10:34",
-  "analysis_date": "2026-10-29",
+  "generated_at": "2026-10-30 10:34",
+  "analysis_date": "2026-10-30",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미 연준 금리 동결로 글로벌 증시가 상승 모멘텀을 얻었으나, 국내 한은의 추가 금리 인상 가능성과 주요 AI 기술주의 실적 우려가 혼재된 상황이다. 오늘 발표될 삼성 실적과 미국 물가 지표가 국내 증시의 핵심 변수가 될 것이다.",
-    "국내거시경제": "미국 연준의 금리 동결에도 불구하고, 한국은행이 국내 물가 및 가계 부채 안정화를 위해 11월 선제적 추가 금리 인상을 단행할 수 있다는 관측이 제기되어 국내 증시와 부동산 시장에 부담이 될 수 있다.",
-    "글로벌경제": "미 연준의 금리 동결과 향후 회의 일정 축소는 긴축 종료 기대감을 높여 글로벌 증시에 긍정적이나, 알파벳의 부진한 실적이 AI 투자 둔화 우려를 키우며 기술주에 경고등을 켰다.",
-    "증시금리": "미 연준 금리 동결 이후 S&P 500과 나스닥이 3일 연속 상승하며 기술주 중심의 투자 심리가 회복되었지만, 알파벳 실적 부진으로 AI 관련 대형 기술주의 단기 조정 가능성도 상존한다. 국내 증시는 삼성 실적 발표와 미국 물가 지표에 따라 단기 변동성이 확대될 수 있다.",
-    "부동산정책": "한국은행의 추가 금리 인상 가능성은 국내 주택담보대출 금리에 영향을 미쳐 부동산 시장에 직접적인 부담으로 작용할 수 있으므로, 관련 발표를 주시해야 한다.",
-    "기업산업": "알파벳 실적 부진은 AI 산업 성장 기대감에 찬물을 끼얹으며 AI 반도체 및 소프트웨어 관련 기업들의 투자 심리를 위축시킬 수 있다. 한편, 미-일 간 반도체 생산 협력 강화는 글로벌 공급망 재편 속 국내 반도체 장비·소재 기업들의 경쟁 환경 변화를 예고한다.",
-    "오늘의투자시사점": "미 연준 금리 동결로 인한 기술주 강세 모멘텀 활용과 동시에, 알파벳 실적 부진이 국내 AI 관련 기업에 미칠 잠재적 영향을 고려한 신중한 접근이 필요하다. 오늘 발표될 삼성전자 실적과 미국 물가 지표에 따라 코스피의 향방이 결정될 것이므로, 관련 내용을 확인 후 투자 전략을 수립해야 한다.",
-    "오늘의한줄": "연준 금리 동결로 글로벌 증시는 훈풍, 국내 한은의 금리 인상 가능성과 AI 기술주 실적 우려가 혼재된 가운데 삼성 실적과 미국 물가 지표에 오늘 코스피 향방이 달렸다."
+    "총평": "미국 10년물 국채 금리가 다시 5%를 상회하고, 알파벳 등 주요 빅테크 기업의 실적 부진이 미국 증시 전반을 끌어내리며 글로벌 금융시장에 부담을 주었습니다. 국내 증시는 코스피가 이중바닥을 다지며 지지선 확보를 시도하고 있으나, 해외발 악재와 국내 주주환원 이슈 등으로 여전히 불확실성이 높은 상황입니다.",
+    "국내거시경제": "코스피는 이중바닥을 형성하며 지지선을 구축하려 하지만, 미국 금리 부담과 주주환원 압박 등 복합적인 요인으로 불확실성이 지속되고 있습니다. 국내 증시는 글로벌 경기 둔화 우려 속에 기업들의 주주환원 이슈가 더해져 복잡한 흐름을 보입니다.",
+    "글로벌경제": "미국 10년물 국채 금리가 연준 결정 이후 5%를 다시 넘어서며 금융시장 전반에 부담을 주었습니다. 글로벌 빅테크 기업들의 실적 부진은 기술 산업 전반의 수요와 투자 심리에 부정적인 영향을 미치고 있습니다.",
+    "증시금리": "미국 10년물 국채 금리 5% 상회는 증시 하락 압력으로 작용하며 고금리 환경 지속 가능성을 높였습니다. 알파벳 주가의 기록적인 하락이 나스닥 1.4% 하락을 주도하는 등 미국 주요 지수가 전반적으로 약세를 보이며 월스트리트에 광범위한 투자 심리 위축을 가져왔습니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "글로벌 빅테크 기업들의 실적 부진은 코스피 반도체 섹터에 직접적인 영향을 미칠 것으로 우려됩니다. 미국 빅테크 기업의 재고 조정 및 투자 계획은 국내 반도체 기업들의 실적 전망에 중요한 변수가 될 것입니다.",
+    "오늘의투자시사점": "고금리 환경 지속 가능성이 높아지며 성장주보다는 가치주나 고금리 수혜주에 대한 관심이 필요합니다. 미국 빅테크 기업의 실적 부진이 국내 반도체 등 기술주에 미칠 파급 효과를 주시하며, 국내 기업의 펀더멘털과 주주환원 정책, 그리고 금리 동향을 면밀히 분석해야 합니다.",
+    "오늘의한줄": "미국발 고금리와 빅테크 실적 쇼크가 국내 증시에도 부담을 주는 가운데, 보수적인 관점으로 기업 펀더멘털과 금리 동향을 주시해야 합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미국 연준, 10월 28일 회의 후 금리 3.75%~4%로 동결, 향후 회의 일정 축소",
-      "display_title": "미국 연준, 10월 28일 회의 후 금리 3.75%~4%로 동결, 향후 회의 일정 축소",
-      "original_title": "US Fed holds rates at 3.75%–4% after October 28 vote, scales back future meeting schedule - Nation Thailand",
+      "title": "연준 결정 후 미국 10년물 국채 금리 다시 5% 상회",
+      "display_title": "연준 결정 후 미국 10년물 국채 금리 다시 5% 상회",
+      "original_title": "10-Year Treasury Yield Climbs Back Above 5% After Fed Decision - 24/7 Wall St.",
       "summary": [
-        "미국 연방준비제도(Fed)가 10월 28일 회의에서 기준금리를 현 수준(3.75%~4%)으로 동결하고, 향후 회의 일정을 축소한다고 발표했다.",
-        "시장의 예상대로 금리를 동결하며 긴축 사이클 종료에 대한 기대감을 높였으나, 향후 통화정책 불확실성은 여전히 남아있다.",
-        "금리 인상 사이클의 중단은 증시 전반에 긍정적인 신호로 작용할 수 있으나, 연준의 스탠스 변화와 추가적인 경제 지표를 확인하는 것이 중요하다."
+        "미국 10년물 국채 금리가 연준 결정 이후 다시 5%를 넘어섰으며, 이는 금융시장에 부담으로 작용할 수 있습니다.",
+        "국채 금리 상승은 차입 비용 증가로 이어져 기업 실적과 소비 심리에 부정적인 영향을 미치며, 증시 하락 압력으로 작용합니다.",
+        "고금리 환경 지속 가능성이 높아져 성장주보다는 가치주, 혹은 고금리 수혜주에 대한 관심이 필요할 수 있습니다."
       ],
-      "summary_text": "미국 연방준비제도(Fed)가 10월 28일 회의에서 기준금리를 현 수준(3.75%~4%)으로 동결하고, 향후 회의 일정을 축소한다고 발표했다. 시장의 예상대로 금리를 동결하며 긴축 사이클 종료에 대한 기대감을 높였으나, 향후 통화정책 불확실성은 여전히 남아있다. 금리 인상 사이클의 중단은 증시 전반에 긍정적인 신호로 작용할 수 있으나, 연준의 스탠스 변화와 추가적인 경제 지표를 확인하는 것이 중요하다.",
-      "description": "미국 연방준비제도(Fed)는 10월 28일 투표 결과, 정책 금리를 3.75%~4%로 동결했으며, 향후 회의 일정을 축소하기로 결정했다.",
+      "summary_text": "미국 10년물 국채 금리가 연준 결정 이후 다시 5%를 넘어섰으며, 이는 금융시장에 부담으로 작용할 수 있습니다. 국채 금리 상승은 차입 비용 증가로 이어져 기업 실적과 소비 심리에 부정적인 영향을 미치며, 증시 하락 압력으로 작용합니다. 고금리 환경 지속 가능성이 높아져 성장주보다는 가치주, 혹은 고금리 수혜주에 대한 관심이 필요할 수 있습니다.",
+      "description": "연방준비제도(Fed)의 결정 이후 미국 10년물 국채 금리가 다시 5%를 넘어섰다는 소식입니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전 업종, 금융, 기술",
+      "market_impact": "부정",
+      "related_sector": "전반적인 시장, 금융, 기술주",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "연준의 금리 동결은 시장의 불확실성을 일부 해소하고 투자 심리 개선에 기여할 수 있는 중요한 결정이다.",
-      "key_signal": "연준의 향후 통화정책 방향에 대한 추가 발언과 고용, 물가 등 주요 경제 지표 발표를 주의 깊게 살펴야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 장기 국채 금리의 5% 재돌파는 주식 시장 전반에 하락 압력을 가하며 투자 심리를 위축시킬 수 있기 때문입니다.",
+      "key_signal": "추가적인 금리 인상 가능성 및 연준의 향후 통화 정책 방향에 대한 시장의 해석과 반응을 주시해야 합니다.",
       "keywords": [
+        "미국 국채",
+        "금리",
         "연준",
-        "금리 동결",
-        "통화정책",
-        "기준금리",
-        "인플레이션"
+        "인플레이션",
+        "시장 변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UHlvRDlPMjhrSzMtcVRsRTFwdjFGb3BNN2Q3YlduYW15bVRSbWF3bmFEclpZSVRYQUZuX3BkdU9NLWYta3J3Y3l0czlaaGxXV3FpQnhNZFJud090NUF3?oc=5",
-      "published": "2026-10-29 09:48",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNnFBMXppa1d6cWYtODNONmFtTl9RRFZCa250cm1yZGFjUUNXc002TlIycUpUNlYweHZXTkFtUGhVX2tKOWtuYlBTbFplNFdLemdaNjFWRG9OQmFPWGduMTV1U1kzOTVwS2lwU0wyZ1lzVDEwNXotdG9BZ0pYcHFxMFp5WEtZY2Jha0pUbWM0NEk0V3Y0Uk1XOEFzRkZ5UTZ2RHNWQU9BQXF4enR1S2FHX25WbVo0WXFLUnZmTUpEb1FyemNRc0NZ?oc=5",
+      "published": "2026-10-30 08:00",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -70,37 +70,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "미국 연준 금리 동결에도…한은, 11월 ‘선제’ 추가 인상 나서나",
-      "display_title": "미국 연준 금리 동결에도…한은, 11월 ‘선제’ 추가 인상 나서나",
-      "original_title": "美 연준 금리 동결에도…한은, 11월 ‘선제’ 추가 인상 나서나 - 서울경제TV",
+      "title": "[오늘의 이슈] 빅테크 실적 쇼크, 코스피 반도체 버틸까",
+      "display_title": "[오늘의 이슈] 빅테크 실적 쇼크, 코스피 반도체 버틸까",
+      "original_title": "[오늘의 이슈]빅테크 실적 쇼크, 코스피 반도체 버틸까 - 센트럴경제",
       "summary": [
-        "미국 연준의 금리 동결에도 불구하고, 한국은행이 11월에 물가 안정 등을 위해 선제적인 추가 금리 인상을 단행할 수 있다는 관측이 제기되고 있다.",
-        "미국의 금리 동결로 한미 금리차가 확대되지 않으면서 한국은행의 통화정책 운용에 여유가 생겼지만, 국내 물가 및 가계 부채 등의 압박은 여전하다.",
-        "한국은행의 금리 결정은 국내 증시, 특히 금융주와 부동산 시장에 직접적인 영향을 미칠 수 있으므로 발표를 예의주시해야 한다."
+        "글로벌 빅테크 기업들의 실적 부진이 국내 코스피 시장의 핵심 섹터인 반도체에 미칠 영향에 대한 우려가 제기되었습니다.",
+        "미국 빅테크 기업의 실적은 전 세계 기술 산업의 수요와 공급에 직접적인 영향을 미치며, 특히 반도체 산업은 민감하게 반응합니다.",
+        "국내 반도체 기업들의 실적 전망과 미국 빅테크 기업의 재고 조정 및 투자 계획을 면밀히 분석하여 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "미국 연준의 금리 동결에도 불구하고, 한국은행이 11월에 물가 안정 등을 위해 선제적인 추가 금리 인상을 단행할 수 있다는 관측이 제기되고 있다. 미국의 금리 동결로 한미 금리차가 확대되지 않으면서 한국은행의 통화정책 운용에 여유가 생겼지만, 국내 물가 및 가계 부채 등의 압박은 여전하다. 한국은행의 금리 결정은 국내 증시, 특히 금융주와 부동산 시장에 직접적인 영향을 미칠 수 있으므로 발표를 예의주시해야 한다.",
-      "description": "미국 연방준비제도(Fed)가 금리를 동결했음에도 불구하고, 한국은행이 11월에 '선제적인' 추가 금리 인상에 나설지 여부에 대한 관심이 커지고 있다.",
-      "category": "국내 거시경제",
+      "summary_text": "글로벌 빅테크 기업들의 실적 부진이 국내 코스피 시장의 핵심 섹터인 반도체에 미칠 영향에 대한 우려가 제기되었습니다. 미국 빅테크 기업의 실적은 전 세계 기술 산업의 수요와 공급에 직접적인 영향을 미치며, 특히 반도체 산업은 민감하게 반응합니다. 국내 반도체 기업들의 실적 전망과 미국 빅테크 기업의 재고 조정 및 투자 계획을 면밀히 분석하여 투자 전략을 수립해야 합니다.",
+      "description": "빅테크 기업들의 실적 쇼크가 발생한 가운데, 국내 코스피 시장의 반도체 섹터가 이러한 충격을 버틸 수 있을지에 대한 분석입니다.",
+      "category": "기업·산업",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 건설, 부동산, 증권",
+      "related_sector": "반도체, IT 하드웨어",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "삼성생명"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "한국은행의 금리 인상 여부는 국내 금융시장과 주요 업종에 중대한 영향을 미치므로, 투자 포트폴리오 조정에 앞서 결정 사항을 반드시 확인해야 한다.",
-      "key_signal": "11월 한국은행 금융통화위원회 회의 결과와 통화정책방향 발표를 통해 금리 인상 여부와 향후 통화정책 스탠스를 확인하는 것이 가장 중요하다.",
+      "investment_reason": "글로벌 빅테크 실적 쇼크는 국내 증시의 큰 비중을 차지하는 반도체 산업에 직접적인 영향을 미치므로 투자자들은 관련 기업의 실적과 전망을 주의 깊게 살펴야 합니다.",
+      "key_signal": "국내 반도체 기업들의 4분기 실적 가이던스 및 내년 투자 계획 발표와 미국 빅테크 기업들의 향후 주문 동향을 주목해야 합니다.",
       "keywords": [
-        "한국은행",
-        "금리 인상",
-        "통화정책",
-        "한미 금리차",
-        "물가"
+        "빅테크",
+        "반도체",
+        "실적 쇼크",
+        "코스피",
+        "IT 산업"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15RW5FT2UwLXhoVEo2MnpmNmZyNGg0ckdCSTZtOTNuN2Y3TDAtdjlRZ01RaW1VdS1kdGc3c1VaNzJhbUZVaHNzalZpVDZjQmJNN2VYT2gzREI3OEt5b2dRS0tDN08?oc=5",
-      "published": "2026-10-29 09:15",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xbU5JWHNQSGhVbGhHeEo1anhfY05aYjN6UzlDRzVpNDU1dEoyN3gxZXJjNWJwQ1pycU0wcHI5Nno1RlBzRU1HZC0waExHcTh1c1RLZUhIQ09pelRWeHVWejNaTHFjOTjSAWpBVV95cUxPQURtcWRfamVfb3FsM1VDWm5WWHFRWTA5ZHBaY3ZtOGx0UnRXOGl1Z1diemhIc2dQc0Z0aG03RkZXTDg3VHRYOXNiWWdUdEY0aUNaRDlsbURGZ0x2TV9Id3VoWkxtS1AxenVB?oc=5",
+      "published": "2026-10-30 07:51",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -112,37 +111,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500, 나스닥 선물 하락: 알파벳 실적 부진으로 AI 지출 우려 재점화 – GOOGL, MSFT, ORCL, NVDA, MRVL 주목",
-      "display_title": "S&P 500, 나스닥 선물 하락: 알파벳 실적 부진으로 AI 지출 우려 재점화 – GOOGL, MSFT, ORCL, NVDA, MRVL 주목",
-      "original_title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus - Yahoo Finance",
+      "title": "알파벳 주가의 기록적인 하락이 미국 시장을 끌어내려",
+      "display_title": "알파벳 주가의 기록적인 하락이 미국 시장을 끌어내려",
+      "original_title": "Historic drop for Alphabet's stock drags the US market lower - hngnews.com",
       "summary": [
-        "알파벳(구글)의 실적이 예상치를 하회하며 AI 투자 지출 둔화 가능성에 대한 시장의 우려가 증폭되었다.",
-        "AI 산업 성장에 대한 기대감이 높았던 상황에서 주요 기업의 실적 부진은 기술주 전반에 대한 투자 심리를 위축시킬 수 있다.",
-        "AI 관련 대형 기술주들의 단기적인 조정 가능성이 있으며, 국내 AI 반도체 및 소프트웨어 관련 기업에도 영향을 미칠 수 있으므로 주의 깊게 관찰해야 한다."
+        "구글 모회사 알파벳(Alphabet) 주가가 기록적인 하락을 보이며 미국 증시 전체의 하락을 주도했습니다.",
+        "주요 빅테크 기업의 실적 부진은 기술주 중심의 나스닥 지수에 직접적인 타격을 주며, 광범위한 시장 불안감을 조성합니다.",
+        "빅테크 기업의 실적 발표와 전망이 국내외 증시 흐름에 미치는 영향이 커, 관련 기업들의 동향을 면밀히 살펴야 합니다."
       ],
-      "summary_text": "알파벳(구글)의 실적이 예상치를 하회하며 AI 투자 지출 둔화 가능성에 대한 시장의 우려가 증폭되었다. AI 산업 성장에 대한 기대감이 높았던 상황에서 주요 기업의 실적 부진은 기술주 전반에 대한 투자 심리를 위축시킬 수 있다. AI 관련 대형 기술주들의 단기적인 조정 가능성이 있으며, 국내 AI 반도체 및 소프트웨어 관련 기업에도 영향을 미칠 수 있으므로 주의 깊게 관찰해야 한다.",
-      "description": "알파벳(GOOGL)의 예상보다 부진한 실적 발표로 AI 투자 지출에 대한 우려가 다시 불거지면서 S&P 500과 나스닥 선물 지수가 하락했다. 마이크로소프트(MSFT), 오라클(ORCL), 엔비디아(NVDA), 마벨(MRVL) 등 관련 기술주들이 주목받고 있다.",
+      "summary_text": "구글 모회사 알파벳(Alphabet) 주가가 기록적인 하락을 보이며 미국 증시 전체의 하락을 주도했습니다. 주요 빅테크 기업의 실적 부진은 기술주 중심의 나스닥 지수에 직접적인 타격을 주며, 광범위한 시장 불안감을 조성합니다. 빅테크 기업의 실적 발표와 전망이 국내외 증시 흐름에 미치는 영향이 커, 관련 기업들의 동향을 면밀히 살펴야 합니다.",
+      "description": "알파벳 주식의 기록적인 하락이 미국 증시 전반에 부정적인 영향을 미쳐 시장을 끌어내렸다는 소식입니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "인공지능, 반도체, 클라우드 컴퓨팅",
+      "related_sector": "IT, 기술주, 인터넷 플랫폼",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "네이버"
+        "네이버",
+        "카카오"
       ],
       "investment_view": "주의",
-      "investment_reason": "글로벌 AI 기술 기업의 실적 부진은 국내 관련 기업들의 투자 심리에도 부정적인 영향을 미칠 수 있기 때문에 주의 깊은 접근이 필요하다.",
-      "key_signal": "주요 글로벌 AI 관련 기업들의 다음 실적 발표와 AI 투자 동향 변화에 대한 추가 뉴스를 주시해야 한다.",
+      "investment_reason": "글로벌 빅테크 기업의 실적 부진은 국내 기술주 및 성장주에 대한 투자 심리에도 부정적인 영향을 미칠 수 있기 때문입니다.",
+      "key_signal": "알파벳 실적 하락의 구체적인 원인과 다른 빅테크 기업으로의 확산 여부를 주시하며, 국내 유사 기업들의 실적 전망을 점검해야 합니다.",
       "keywords": [
-        "AI",
-        "실적",
+        "알파벳",
+        "빅테크",
         "기술주",
-        "나스닥",
-        "알파벳"
+        "실적 부진",
+        "미국 증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHFrQlZMOWZ1cW96WjF6VHJLWkI0c0dPcmJweHlhU0swOFh5aW9tMDVEM1BpUzNnQndUVEs3cXpsa2hUX0FPMTFIa0pZc3pFWlJBMzRhbFNLTkhrZThfTTVVVzhUTWNyZm9PMkVvOWdGSDNaQkJZbjB1clJiT1RaamRTUGVMX0ptN3ZwUFEtb3lyQVk?oc=5",
-      "published": "2026-10-29 09:10",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSThoMXhuWXFIRHNWakRJZTBvRGRFaWF0VmVOaERMV1dYUHRzU2V1bS14V2Nhb3RhcExzaURycjh5MVJBNjRJOHFXeFdCUmF5dEN0NGtseHBPSWZKMml6TmthdnJQd0lOX1JZaU5iR1NlMzQzc2J0OURpd3dOcG1KaDY2NDFZYVh6NFVUT2tUdHJpeFFpRDhhNTY5YUhSUkQ3WlZpQ2pLc0o2T2hFTkI3T2ZHUXFHY2RscDN1YUpmTnFSV1Y1YkNwRlJEcFpBNzVkZUgtLVFFNDBZeUs3RGc?oc=5",
+      "published": "2026-10-30 05:06",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,37 +152,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "업데이트: 연준 금리 동결 후 S&P 500, 나스닥 3일 연속 상승",
-      "display_title": "업데이트: 연준 금리 동결 후 S&P 500, 나스닥 3일 연속 상승",
-      "original_title": "Update: S&P 500, Nasdaq Rise For Third Day Following Fed Pause - Yahoo Finance",
+      "title": "알파벳의 기록적인 하락으로 나스닥 1.4% 하락, 미국 증시 전반적 고통 (S&P 500 포함)",
+      "display_title": "알파벳의 기록적인 하락으로 나스닥 1.4% 하락, 미국 증시 전반적 고통 (S&P 500 포함)",
+      "original_title": "Nasdaq sheds 1.4% as Alphabet’s historic drop rattles the markets, U.S. stocks suffer (SP500:) - Seeking Alpha",
       "summary": [
-        "미국 연준의 금리 동결 결정 이후 S&P 500과 나스닥 지수가 3일 연속 상승하며 강한 상승 모멘텀을 보였다.",
-        "금리 인상 중단이 시장에 긍정적인 영향을 미치며, 특히 성장주 중심의 기술주에 대한 투자 심리가 빠르게 회복되고 있음을 시사한다.",
-        "금리 인하 기대감으로 이어질 경우 추가적인 기술주 강세가 예상되므로, 관련 국내 기업들의 투자 기회를 모색할 필요가 있다."
+        "알파벳 주가의 급락으로 인해 나스닥 지수가 1.4% 하락하고 S&P 500을 포함한 미국 증시 전반이 약세를 보였습니다.",
+        "주요 기술주의 실적 부진이 시장 전반의 투자 심리를 위축시키고, 특히 기술주 비중이 높은 나스닥에 큰 충격을 주었습니다.",
+        "미국 기술주의 조정이 국내 증시에 미칠 파급 효과를 주시하며, 국내 기술주 투자에 대한 신중한 접근이 필요합니다."
       ],
-      "summary_text": "미국 연준의 금리 동결 결정 이후 S&P 500과 나스닥 지수가 3일 연속 상승하며 강한 상승 모멘텀을 보였다. 금리 인상 중단이 시장에 긍정적인 영향을 미치며, 특히 성장주 중심의 기술주에 대한 투자 심리가 빠르게 회복되고 있음을 시사한다. 금리 인하 기대감으로 이어질 경우 추가적인 기술주 강세가 예상되므로, 관련 국내 기업들의 투자 기회를 모색할 필요가 있다.",
-      "description": "연방준비제도(Fed)의 금리 인상 중단 결정 이후 S&P 500과 나스닥 지수가 3일 연속 상승세를 기록했다.",
+      "summary_text": "알파벳 주가의 급락으로 인해 나스닥 지수가 1.4% 하락하고 S&P 500을 포함한 미국 증시 전반이 약세를 보였습니다. 주요 기술주의 실적 부진이 시장 전반의 투자 심리를 위축시키고, 특히 기술주 비중이 높은 나스닥에 큰 충격을 주었습니다. 미국 기술주의 조정이 국내 증시에 미칠 파급 효과를 주시하며, 국내 기술주 투자에 대한 신중한 접근이 필요합니다.",
+      "description": "알파벳 주가의 기록적인 하락으로 나스닥 지수가 1.4% 하락했으며, S&P 500을 비롯한 미국 증시 전반이 어려움을 겪고 있다는 소식입니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "기술주, 성장주, 반도체",
+      "market_impact": "부정",
+      "related_sector": "IT, 기술주, 인터넷 플랫폼",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스",
-        "카카오"
+        "네이버"
       ],
-      "investment_view": "관심",
-      "investment_reason": "연준의 금리 동결이 기술주 중심의 시장 반등을 이끌고 있어, 국내 기술주 투자 전략 수립에 중요한 단서가 된다.",
-      "key_signal": "기술주 중심의 상승세가 지속될지 여부와 다른 섹터로의 온기 확산 여부를 확인하여 시장의 폭넓은 회복세를 판단해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 기술주의 약세는 국내 증시, 특히 기술주 전반에 부정적인 투자 심리로 작용할 수 있어 주의 깊게 지켜봐야 합니다.",
+      "key_signal": "알파벳 실적 하락의 근본 원인이 구조적인 문제인지 일시적인 요인인지 파악하고, 국내 IT 기업들의 실적 가이던스를 비교 분석해야 합니다.",
       "keywords": [
-        "기술주",
-        "성장주",
         "나스닥",
-        "S&P 500",
-        "연준"
+        "알파벳",
+        "기술주",
+        "미국 증시",
+        "주가 하락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVE9pXzV6aEE4Rk1WdmFrSURVMTlTUDgtTmU4c0x2bWdILW1DVzRyZkY1RksxQ2hqNFdqSi1aeXlzd293ei1NZUtaUGtRM3lLYzZQZzRDSEZmRXphNktwNlNjS2ZEMmFHNXJnRjJPekxQTW41c08xYTlZS3pBVDJEY01ZWmpjLV9UX0EzOTNkSlQ5QQ?oc=5",
-      "published": "2026-10-29 06:08",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUV6dFhuR01rank3aWpLU2xRekpweVNOWk12SEFGNFhaRlNheGpJRUg0VTB5R09SSEtQWUVjaktfWXVhWmlCdkViS24wREhvd2k4cXRJYWNvcll6Tnp4Y1BKOXlhelBBLXRtcWtWb3g4bzAtNzF5c2RON21felkwaFR5a2NoZE5XNWI2cDRjVDN6RnNtM0lQQTg1aWNCTXZ1U1pWSTc0cS1lVzhBTldfWE1IcmZxaDM1?oc=5",
+      "published": "2026-10-30 05:04",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,82 +191,83 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[오늘의 이슈] 삼성 실적 발표·미국 물가가 코스피 향방 가른다",
-      "display_title": "[오늘의 이슈] 삼성 실적 발표·미국 물가가 코스피 향방 가른다",
-      "original_title": "[오늘의 이슈] 삼성 실적 발표·美 물가가 코스피 향방 가른다 - 센트럴경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "알파벳 급락이 월스트리트를 끌어내려",
+      "display_title": "알파벳 급락이 월스트리트를 끌어내려",
+      "original_title": "Alphabet plunge drags Wall Street lower - CommBank",
       "summary": [
-        "삼성의 실적 발표와 미국의 물가 지표가 오늘 코스피 시장의 향방을 결정하는 주요 변수로 작용할 것으로 예상된다.",
-        "삼성전자의 실적은 국내 증시 전체에 미치는 영향이 크고, 미국 물가는 연준의 향후 통화정책 결정에 중요한 단서를 제공한다.",
-        "이 두 가지 핵심 이슈의 결과에 따라 코스피의 단기적인 변동성이 커질 수 있으므로, 발표 내용을 확인하고 투자 전략을 세워야 한다."
+        "알파벳 주가의 큰 폭 하락이 미국 월스트리트 전체 지수를 하락시키는 주요 원인으로 작용했습니다.",
+        "빅테크 기업의 실적은 전체 증시 분위기를 좌우하는 중요한 요소로, 이들 기업의 부진은 광범위한 투자 심리 악화로 이어집니다.",
+        "특정 빅테크 기업의 실적 악화가 시장 전반에 미치는 파급 효과를 예의주시하며, 관련 기업 및 국내 유사 기업의 동향을 지속적으로 파악해야 합니다."
       ],
-      "summary_text": "삼성의 실적 발표와 미국의 물가 지표가 오늘 코스피 시장의 향방을 결정하는 주요 변수로 작용할 것으로 예상된다. 삼성전자의 실적은 국내 증시 전체에 미치는 영향이 크고, 미국 물가는 연준의 향후 통화정책 결정에 중요한 단서를 제공한다. 이 두 가지 핵심 이슈의 결과에 따라 코스피의 단기적인 변동성이 커질 수 있으므로, 발표 내용을 확인하고 투자 전략을 세워야 한다.",
-      "description": "오늘 국내 증시 코스피의 방향성을 결정할 주요 이슈로 삼성의 실적 발표와 미국 물가 지표가 지목되고 있다.",
+      "summary_text": "알파벳 주가의 큰 폭 하락이 미국 월스트리트 전체 지수를 하락시키는 주요 원인으로 작용했습니다. 빅테크 기업의 실적은 전체 증시 분위기를 좌우하는 중요한 요소로, 이들 기업의 부진은 광범위한 투자 심리 악화로 이어집니다. 특정 빅테크 기업의 실적 악화가 시장 전반에 미치는 파급 효과를 예의주시하며, 관련 기업 및 국내 유사 기업의 동향을 지속적으로 파악해야 합니다.",
+      "description": "구글 모회사 알파벳 주가가 급락하면서 월스트리트 전반이 하락세로 전환했다는 소식입니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT, 국내 증시 전반",
+      "market_impact": "부정",
+      "related_sector": "IT, 기술주, 인터넷 플랫폼",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "네이버",
+        "카카오"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시의 핵심 종목 실적과 글로벌 거시경제 지표가 복합적으로 코스피에 영향을 미치는 만큼, 시장 흐름을 파악하는 데 필수적인 정보이다.",
-      "key_signal": "삼성의 실적 발표 내용과 미국의 주요 물가 지표(CPI 등)를 즉시 확인하고, 이에 따른 코스피와 관련 섹터의 반응을 분석해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "알파벳의 급락은 다른 빅테크 기업과 국내 유사 산업에 대한 투자 심리를 위축시킬 수 있으므로 주의 깊게 살펴봐야 합니다.",
+      "key_signal": "알파벳 실적 발표 이후 관련 빅테크 기업들의 주가 흐름과 애널리스트들의 목표주가 조정 여부를 확인해야 합니다.",
       "keywords": [
-        "코스피",
-        "삼성전자",
-        "실적 발표",
-        "미국 물가",
-        "인플레이션"
+        "알파벳",
+        "빅테크",
+        "월스트리트",
+        "주가 하락",
+        "시장 영향"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10SWFCVi0yZEc5YnRjbXdydThjRXJ6R2tBcmcwYVlvbHQ0Zm1scXFNNS01MHF3SDVKRUEwcXp4VFotYU5Hck5ONjV6eExnOTc4dnlidHFXYWdTLXBCcEdmbUVlVkdYd9IBakFVX3lxTE9lczhIU3YwbkhvZDU1bTE0Y0tZX21zSzlCZnhGSlExa0hWTFFXeURsWGN2QmFtNXd2R3dWWHVWc3luRUdleUZvS3pIb2RoVGRLX2IzalZ0Zk1uTnRwSE41ZFBEQ29MV25YdGc?oc=5",
-      "published": "2026-10-29 07:34",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVd5bTRfeDVYdFpjSEZRSkdCbnpZQ0N5WFBiRGhSd2tFN0Jyc2VzNEZ3WnlHRmFBMHI0R0JTRFAxMDM5VmVFZW4xcWxRNkhpdFZOMzhTb2I0dFVSU0hPMXdwc05CVW81S0V6RjNKMHJtdkdpc0l6TUxzblBQQldnNVJzNm9INXlvNnI0VDY3TktRTWJ1V3M4NHJIMGpkUzQ?oc=5",
+      "published": "2026-10-30 06:34",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 반도체 공장 건설 지원으로 일본 장비 시장 확대: 일본, 미국 파운드리와 협력하여 장비 수출 및 생산 협력 강화",
-      "display_title": "미국 반도체 공장 건설 지원으로 일본 장비 시장 확대: 일본, 미국 파운드리와 협력하여 장비 수출 및 생산 협력 강화",
-      "original_title": "“Supporting U.S. Fab Construction to Expand Markets for Japanese Equipment”: Japan Partners With U.S. Foundry to Expand Equipment Exports and Production Cooperation - https://economy.ac/",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "이중바닥 다지는 코스피...주주환원·美 금리부담에 '불확실성 여전'",
+      "display_title": "이중바닥 다지는 코스피...주주환원·美 금리부담에 '불확실성 여전'",
+      "original_title": "이중바닥 다지는 코스피...주주환원·美 금리부담에 '불확실성 여전' - 월요신문",
       "summary": [
-        "일본이 미국 파운드리 업체들과 협력하여 미국 내 반도체 공장 건설을 지원하고 일본 반도체 장비의 수출을 확대하려 한다.",
-        "글로벌 반도체 공급망 재편 및 자국 내 생산 강화 기조 속에서 미국과 일본 간의 전략적 협력이 강화되고 있다.",
-        "글로벌 반도체 장비 산업의 변화와 미-일 협력 강화는 국내 반도체 장비 및 소재 기업들의 경쟁 환경에 영향을 줄 수 있다."
+        "코스피 지수가 이중바닥 패턴을 보이며 지지선 다지기를 시도하고 있으나, 주주환원 이슈와 미국 금리 부담으로 불확실성이 상존합니다.",
+        "국내 증시는 미국 금리 인상 기조와 글로벌 경기 둔화 우려 속에 기업들의 주주환원 압박까지 더해져 복합적인 영향을 받고 있습니다.",
+        "불확실성이 높은 만큼 개별 기업의 펀더멘털과 주주환원 정책을 면밀히 분석하고, 금리 동향에 대한 지속적인 관찰이 필요합니다."
       ],
-      "summary_text": "일본이 미국 파운드리 업체들과 협력하여 미국 내 반도체 공장 건설을 지원하고 일본 반도체 장비의 수출을 확대하려 한다. 글로벌 반도체 공급망 재편 및 자국 내 생산 강화 기조 속에서 미국과 일본 간의 전략적 협력이 강화되고 있다. 글로벌 반도체 장비 산업의 변화와 미-일 협력 강화는 국내 반도체 장비 및 소재 기업들의 경쟁 환경에 영향을 줄 수 있다.",
-      "description": "일본은 미국 파운드리와 협력하여 미국 내 반도체 공장 건설을 지원하고 일본 장비 수출 시장을 확대하며 생산 협력을 강화하고 있다.",
-      "category": "기업·산업",
+      "summary_text": "코스피 지수가 이중바닥 패턴을 보이며 지지선 다지기를 시도하고 있으나, 주주환원 이슈와 미국 금리 부담으로 불확실성이 상존합니다. 국내 증시는 미국 금리 인상 기조와 글로벌 경기 둔화 우려 속에 기업들의 주주환원 압박까지 더해져 복합적인 영향을 받고 있습니다. 불확실성이 높은 만큼 개별 기업의 펀더멘털과 주주환원 정책을 면밀히 분석하고, 금리 동향에 대한 지속적인 관찰이 필요합니다.",
+      "description": "코스피 지수가 이중바닥을 형성하며 지지선을 다지고 있지만, 주주환원 정책과 미국 금리 인상 부담으로 여전히 불확실성이 크다는 내용입니다.",
+      "category": "국내 거시경제",
       "importance": 7,
       "market_impact": "중립",
-      "related_sector": "반도체 장비, 반도체 소재",
+      "related_sector": "전반적인 시장",
       "related_stocks": [
-        "주성엔지니어링",
-        "한미반도체"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "글로벌 반도체 공급망의 지정학적 변화와 주요국 간의 협력 동향은 국내 반도체 산업의 중장기적인 경쟁력에 영향을 미칠 수 있다.",
-      "key_signal": "미국 내 반도체 공장 건설 진행 상황과 일본 장비 기업들의 수혜 여부를 지속적으로 모니터링해야 한다.",
+      "investment_reason": "코스피의 불확실성 속에서 주요 리스크 요인(미국 금리, 주주환원)을 파악하고 투자 전략을 세우는 데 중요한 단서가 되기 때문입니다.",
+      "key_signal": "코스피 지수가 이중바닥을 성공적으로 다지고 반등할 수 있을지, 미국 금리 정책의 변화 가능성을 주시해야 합니다.",
       "keywords": [
-        "반도체",
-        "파운드리",
-        "장비",
-        "일본",
-        "미국"
+        "코스피",
+        "이중바닥",
+        "주주환원",
+        "미국 금리",
+        "시장 불확실성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoMjBTUW5jTUR5aXg5WHlmYTlJR3JSeGV5Q19FbERRQjZ5ZzY2ZWdfQnVKTnVFR0lyVVRjQVNqWEtzLUZtM1FYVU5EekEzbHdRdjVUNUhMQQ?oc=5",
-      "published": "2026-10-29 00:12",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0Tk9YWHN4S0VmY0pLS2Q4U3l1clBvZDdHSDBfZktqY2c5Q2h5LUlZclZPMHQtRDlKVWRmendITUxycDBEM3N5NDBnTGZNaXJCaXJEZWpVa2FidU01VUVhWEhvMGNxTHVZOEE?oc=5",
+      "published": "2026-10-30 08:18",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -279,69 +278,68 @@
       "rank": 1,
       "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체, IT",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "연준의 금리 동결로 인한 시장 불확실성 해소와 기술주 반등 기대감 속에서, 국내 증시의 핵심 종목으로서 자체 실적 발표 내용과 글로벌 AI 기술 기업의 동향이 코스피 향방을 가를 중요한 변수가 될 것입니다.",
+      "reason": "글로벌 빅테크 기업들의 실적 쇼크와 미국 기술주 전반의 약세는 국내 증시의 큰 비중을 차지하는 반도체 산업의 대표 주자인 삼성전자의 투자 심리에 직접적인 영향을 미칠 수 있어 면밀한 관찰이 필요합니다.",
       "check_points": [
-        "미국 소비자물가지수 발표 영향",
-        "자체 실적 발표 결과 및 가이던스",
-        "글로벌 AI 및 반도체 업황 개선 여부"
+        "글로벌 반도체 수요 및 재고 상황",
+        "경쟁사의 실적 및 전망치 변화",
+        "외국인 및 기관 투자자 매매 동향"
       ],
       "related_news_titles": [
-        "미국 연준, 10월 28일 회의 후 금리 3.75%~4%로 동결, 향후 회의 일정 축소",
-        "S&P 500, 나스닥 선물 하락: 알파벳 실적 부진으로 AI 지출 우려 재점화 – GOOGL, MSFT, ORCL, NVDA, MRVL 주목",
-        "업데이트: 연준 금리 동결 후 S&P 500, 나스닥 3일 연속 상승"
+        "[오늘의 이슈] 빅테크 실적 쇼크, 코스피 반도체 버틸까",
+        "알파벳의 기록적인 하락으로 나스닥 1.4% 하락, 미국 증시 전반적 고통 (S&P 500 포함)"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "반도체",
+      "sector": "인터넷 플랫폼",
       "opinion": "관심",
-      "reason": "연준 금리 동결 이후 기술주 및 반도체 섹터의 시장 반등이 관측되는 가운데, 삼성전자와 함께 국내 반도체 산업을 대표하는 기업으로 메모리 반도체 업황 개선과 AI 반도체 시장 내 경쟁력 강화 여부가 주목됩니다.",
+      "reason": "알파벳 등 글로벌 빅테크 기업의 주가 급락은 국내 인터넷 플랫폼 및 기술주에 대한 투자 심리에 부정적인 영향을 미칠 수 있으므로, 관련 기업인 네이버의 움직임을 주시해야 합니다.",
       "check_points": [
-        "글로벌 메모리 반도체 수요 회복 신호",
-        "HBM 등 고부가가치 AI 반도체 시장 동향",
-        "경쟁사의 실적 발표 및 투자 계획"
+        "국내외 경기 둔화에 따른 광고 시장 변화",
+        "신규 사업(예: AI)의 성과 및 성장성",
+        "해외 유사 플랫폼 기업의 주가 동향"
       ],
       "related_news_titles": [
-        "S&P 500, 나스닥 선물 하락: 알파벳 실적 부진으로 AI 지출 우려 재점화 – GOOGL, MSFT, ORCL, NVDA, MRVL 주목",
-        "업데이트: 연준 금리 동결 후 S&P 500, 나스닥 3일 연속 상승",
-        "[오늘의 이슈] 삼성 실적 발표·미국 물가가 코스피 향방 가른다"
+        "알파벳 주가의 기록적인 하락이 미국 시장을 끌어내려",
+        "알파벳 급락이 월스트리트를 끌어내려"
       ]
     },
     {
       "rank": 3,
-      "name": "네이버",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "IT, 소프트웨어, 플랫폼",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "연준의 금리 동결로 인해 성장주 및 기술주 전반에 대한 투자 심리가 개선될 것으로 기대되며, 국내 대표 플랫폼 기업으로서 광고 시장 회복 여부와 AI 기술 투자 및 신규 서비스 확장 동향이 중요합니다.",
+      "reason": "미국 10년물 국채 금리의 5% 재돌파는 주식 시장 전반에 하락 압력을 가하며, 코스피의 불확실성이 여전한 상황에서 국내 증권업종의 실적과 투자 심리에 직접적인 영향을 줄 수 있으므로 대표 증권사를 주목할 필요가 있습니다.",
       "check_points": [
-        "국내외 광고 시장 회복 속도",
-        "생성형 AI '하이퍼클로바X'의 시장 반응 및 수익화 모델",
-        "플랫폼 규제 환경 변화"
+        "미국 국채 금리 변동성 및 향후 연준의 금리 정책",
+        "국내 주식시장 거래대금 추이 및 투자자 예탁금 변화",
+        "증권사의 브로커리지 및 IB 부문 실적 전망"
       ],
       "related_news_titles": [
-        "미국 연준, 10월 28일 회의 후 금리 3.75%~4%로 동결, 향후 회의 일정 축소",
-        "S&P 500, 나스닥 선물 하락: 알파벳 실적 부진으로 AI 지출 우려 재점화 – GOOGL, MSFT, ORCL, NVDA, MRVL 주목"
+        "연준 결정 후 미국 10년물 국채 금리 다시 5% 상회",
+        "이중바닥 다지는 코스피...주주환원·美 금리부담에 '불확실성 여전'"
       ]
     },
     {
       "rank": 4,
-      "name": "한미반도체",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "반도체 장비",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 반도체 공장 건설 지원 및 일본과의 반도체 장비 시장 협력 강화 등 글로벌 반도체 공급망 변화 속에서 국내 반도체 장비 산업의 중장기적인 성장 동력이 주목되며, 특히 HBM 관련 장비 경쟁력이 부각될 수 있습니다.",
+      "reason": "글로벌 빅테크 기업들의 실적 쇼크와 미국 기술주 전반의 약세는 국내 반도체 산업의 핵심 기업인 SK하이닉스의 주가와 투자 심리에 부정적인 영향을 미칠 수 있으므로 주요 관찰 대상입니다.",
       "check_points": [
-        "미국과 일본의 반도체 산업 정책 구체화",
-        "주요 파운드리 및 메모리 업체의 CAPEX 투자 계획",
-        "HBM 등 첨단 패키징 장비 수요 증가세"
+        "메모리 반도체(DRAM, NAND) 가격의 실질적인 반등 여부",
+        "주요 고객사의 재고 소진 속도 및 신규 주문 동향",
+        "환율 변동성 및 기업 실적에 미치는 영향"
       ],
       "related_news_titles": [
-        "미국 반도체 공장 건설 지원으로 일본 장비 시장 확대: 일본, 미국 파운드리와 협력하여 장비 수출 및 생산 협력 강화"
+        "[오늘의 이슈] 빅테크 실적 쇼크, 코스피 반도체 버틸까",
+        "알파벳의 기록적인 하락으로 나스닥 1.4% 하락, 미국 증시 전반적 고통 (S&P 500 포함)"
       ]
     }
   ],
