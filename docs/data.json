@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01 09:43",
-  "analysis_date": "2026-11-01",
+  "generated_at": "2026-11-02 10:18",
+  "analysis_date": "2026-11-02",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,53 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 금리 불확실성 증폭, 주요 기술주 실적 부진, 지정학적 리스크가 복합 작용하며 시장 전반의 변동성이 확대되고 있습니다. 전반적인 시장 하방 압력에 대비한 신중한 접근이 요구됩니다.",
-    "국내거시경제": "국내 증시는 AI 투자 회의론과 반도체 투톱의 실적 대비 주가 하락으로 변동성이 커졌습니다. 미국 중간선거 및 중동 지정학적 리스크가 국내 시장에 추가 불확실성을 가중시키고 있습니다.",
-    "글로벌경제": "연준의 금리 동결 결정에도 불구하고 일부 고위 관계자들의 추가 금리 인상 주장은 통화 정책 불확실성을 키우고 있습니다. 유가 급등 및 미 국채 10년물 금리 5% 유지는 인플레이션 압력과 고금리 환경을 지속시키고 있습니다.",
-    "증시금리": "미 증시는 연준 금리 동결 후 국채 수익률 혼조세 속 S&P 500이 하락했습니다. 유가 급등과 메타, 테슬라 등 주요 기술주의 실적 부진이 기술주 주도 하락을 이끌었습니다. 국내 코스피 또한 AI 투자 회의론 속에 변동성 확대를 보였습니다.",
+    "총평": "국내 증시는 뉴욕 반도체주 급락 영향으로 약세를 보였으나, 미국 중간선거 이후 반등 기대감과 기술주 실적 발표를 앞둔 관망세가 혼재되어 있습니다. 전례 없는 복합적 시장 압력 속 주요 이벤트들이 시장 변동성을 시험할 전망입니다.",
+    "국내거시경제": "코스피는 뉴욕 반도체주 급락 여파로 5650선까지 후퇴하며 약세를 보였습니다. 다만, 미국 중간선거 이후 국내외 증시의 단기 반등 가능성도 제기됩니다.",
+    "글로벌경제": "월스트리트는 고금리, 인플레이션, 지정학적 리스크 등 전례 없이 복합적인 시장 압력에 직면했습니다. 높은 변동성에 대한 대비가 필요합니다.",
+    "증시금리": "이번 주 애플 실적, 미국 중간선거, 고용지표, FOMC 금리 결정 등 주요 이벤트가 시장 변동성을 키울 것으로 예상됩니다. S&P 500은 이들 이벤트를 앞두고 보합세를 유지할 것으로 보이나, 일부 기술주 반등에 힘입어 상승하기도 했습니다.",
     "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "국내 반도체 대표 기업들은 역대급 실적에도 불구하고 차익 실현 및 미래 성장성에 대한 보수적 시각으로 주가가 하락했습니다. 해외에서는 메타와 테슬라의 실적 부진이 기술주 전반에 부정적 영향을 미쳤습니다.",
-    "오늘의투자시사점": "글로벌 금리 정책의 불확실성 확대와 지정학적 리스크를 면밀히 주시해야 합니다. 기업 실적 발표 이후 주가 흐름을 실적과 단순 연동하기보다 시장 기대치, 향후 전망, 차익 실현 압력 등 복합적인 요소를 고려한 방어적 투자 전략이 필요합니다.",
-    "오늘의한줄": "글로벌 금리, 기업 실적, 지정학적 리스크가 복합 작용하며 시장 변동성 확대, 신중한 접근이 요구됩니다."
+    "기업산업": "국내 반도체 대표주인 삼성전자와 SK하이닉스는 뉴욕 반도체주의 급락 영향으로 동반 약세를 보였습니다. 글로벌 반도체 업황에 대한 우려가 국내 증시에도 직접적인 악영향을 미치고 있습니다.",
+    "오늘의투자시사점": "글로벌 반도체 업황과 미국 기술주 동향을 주의 깊게 살피고, 복합적인 시장 환경의 높은 변동성에 대비해야 합니다. 이번 주 주요 이벤트(애플 실적, 중간선거, 고용지표, FOMC)가 시장 방향을 좌우할 수 있으므로 신중한 접근이 요구됩니다. 중간선거 후 반등 기대를 바탕으로 펀더멘털이 견고한 실적 및 수급 회복주를 선별하고 분산 투자를 고려하십시오.",
+    "오늘의한줄": "변동성이 큰 시장에서 주요 이벤트들을 주시하며, 신중하고 선별적인 투자 전략이 필요한 시점입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미 증시 상승, 연준 금리 동결 후 국채 수익률은 혼조세",
-      "display_title": "미 증시 상승, 연준 금리 동결 후 국채 수익률은 혼조세",
-      "original_title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold - WSJ",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피, 뉴욕 반도체주 급락 여파로 5650선 후퇴...삼성전자·SK하이닉스 동반 약세",
+      "display_title": "코스피, 뉴욕 반도체주 급락 여파로 5650선 후퇴...삼성전자·SK하이닉스 동반 약세",
+      "original_title": "코스피, 뉴욕 반도체주 급락 여파에 5650선 후퇴...삼성전자·SK하이닉스 동반 약세 - 핀포인트뉴스",
       "summary": [
-        "연준의 금리 동결 결정 이후 미국 증시가 상승세를 보였으나, 국채 수익률은 상승과 하락이 엇갈리며 불확실성을 나타냈습니다.",
-        "시장은 연준의 금리 동결을 긍정적으로 해석했으나, 향후 금리 인하 기대감과 인플레이션 압력 사이에서 국채 시장은 방향성을 찾지 못하는 모습입니다.",
-        "연준의 동결 결정은 단기적으로 증시에 긍정적이나, 채권 시장의 혼조세는 여전히 금리 불확실성이 존재함을 시사하므로 신중한 접근이 필요합니다."
+        "뉴욕 반도체주의 급락으로 코스피 지수가 5650선까지 하락했으며, 삼성전자와 SK하이닉스 등 국내 대표 반도체 기업들이 약세를 면치 못했습니다.",
+        "글로벌 반도체 업황에 대한 우려와 미국 기술주의 조정이 국내 증시, 특히 반도체 섹터에 직접적인 악영향을 미치고 있음을 보여줍니다.",
+        "글로벌 반도체 시장의 동향과 미국 기술주의 움직임은 국내 증시, 특히 시가총액 비중이 큰 반도체 관련주에 큰 영향을 미치므로 주의 깊게 살펴야 합니다."
       ],
-      "summary_text": "연준의 금리 동결 결정 이후 미국 증시가 상승세를 보였으나, 국채 수익률은 상승과 하락이 엇갈리며 불확실성을 나타냈습니다. 시장은 연준의 금리 동결을 긍정적으로 해석했으나, 향후 금리 인하 기대감과 인플레이션 압력 사이에서 국채 시장은 방향성을 찾지 못하는 모습입니다. 연준의 동결 결정은 단기적으로 증시에 긍정적이나, 채권 시장의 혼조세는 여전히 금리 불확실성이 존재함을 시사하므로 신중한 접근이 필요합니다.",
-      "description": "연방준비제도(Fed)가 금리를 동결한 이후 미국 증시는 상승했고, 국채 수익률은 혼조세를 보였습니다.",
-      "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "글로벌 증시, 채권 시장",
+      "summary_text": "뉴욕 반도체주의 급락으로 코스피 지수가 5650선까지 하락했으며, 삼성전자와 SK하이닉스 등 국내 대표 반도체 기업들이 약세를 면치 못했습니다. 글로벌 반도체 업황에 대한 우려와 미국 기술주의 조정이 국내 증시, 특히 반도체 섹터에 직접적인 악영향을 미치고 있음을 보여줍니다. 글로벌 반도체 시장의 동향과 미국 기술주의 움직임은 국내 증시, 특히 시가총액 비중이 큰 반도체 관련주에 큰 영향을 미치므로 주의 깊게 살펴야 합니다.",
+      "description": "뉴욕 증시의 반도체주 급락 여파로 국내 코스피 지수가 5650선으로 후퇴했으며, 대형 반도체주인 삼성전자와 SK하이닉스도 동반 약세를 보였습니다.",
+      "category": "기업·산업",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "연준의 금리 동결은 시장에 단기적인 안도감을 주지만, 채권 시장의 반응을 통해 향후 금리 정책의 추가적인 변화 가능성을 예측할 수 있습니다.",
-      "key_signal": "연준의 다음 회의에서 금리 인상 또는 인하에 대한 추가적인 힌트가 나올지 주목해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "국내 증시의 핵심인 반도체 섹터가 글로벌 시장의 영향을 직접적으로 받아 변동성이 커지고 있어 투자 리스크 관리가 중요합니다.",
+      "key_signal": "뉴욕 반도체 지수의 움직임과 삼성전자, SK하이닉스 등 주요 반도체 기업들의 주가 흐름을 지속적으로 관찰해야 합니다.",
       "keywords": [
-        "연준",
-        "금리 동결",
-        "미국 증시",
-        "국채 수익률",
-        "통화정책"
+        "코스피",
+        "반도체주",
+        "뉴욕증시",
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
-      "published": "2026-11-01 07:31",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mS0xJQ2lSVTBnbGwtcl9kTFZMWXk0QVNua3hvTXl1Tkp6ek9QenZ2dmpJdGtfMFRDWWlhT1VSeVN4ZExmQ2pMSXJySmJsX3c1RDlFTDlSQndPTlo4RW9UVzZua1hYX196Y0hpNk9MNXlud2_SAXdBVV95cUxPN2EyMEpWUmlocC1LY2FVZzczc3lzSTlvMnNwUWx5TVZycEVYN1cwY0pNX0hXcV9lcVNoMER2cUJVYTNIRW1zN3NiR1dOTWNMYmJIbk5DRlB6SkJ1bWhnRTRsVlAyTjVxc19ZTENheHF2bTloc1ZsWQ?oc=5",
+      "published": "2026-11-02 09:22",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,37 +69,33 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 두 명의 고위 관계자, 조만간 추가 금리 인상 필요성 주장",
-      "display_title": "연준 두 명의 고위 관계자, 조만간 추가 금리 인상 필요성 주장",
-      "original_title": "Two Fed Officials Just Called for More Rate Hikes, Starting Soon - 24/7 Wall St.",
+      "title": "월스트리트, 전례 없는 복합적 시장 압력 직면",
+      "display_title": "월스트리트, 전례 없는 복합적 시장 압력 직면",
+      "original_title": "Wall Street Has Never Faced This Many Market Forces at Once, NYSE Veteran Says - Yahoo Finance",
       "summary": [
-        "연준 내부에서 두 명의 고위 인사가 추가 금리 인상의 필요성을 제기하며, 금리 인상 종료에 대한 시장의 기대를 꺾을 수 있습니다.",
-        "연준은 최근 금리를 동결했지만, 일부 위원들은 여전히 인플레이션 억제를 위해 추가 긴축이 필요하다고 보고 있어 통화 정책의 불확실성이 지속됩니다.",
-        "예상치 못한 금리 인상 가능성은 증시에 부정적인 영향을 미칠 수 있으므로, 연준 위원들의 발언을 면밀히 주시하고 금리 변동성에 대비해야 합니다."
+        "NYSE 베테랑은 현재 월스트리트가 전례 없이 많은 복합적인 시장 요인에 직면해 있다고 경고했습니다.",
+        "고금리, 인플레이션, 지정학적 리스크 등 다양한 거시경제 및 금융 시장 변동성이 복합적으로 작용하는 상황을 의미합니다.",
+        "투자자들은 복잡한 시장 환경에서 높은 변동성에 대비하고 신중한 접근이 필요하며, 특정 섹터에 대한 집중보다 분산 투자를 고려해야 합니다."
       ],
-      "summary_text": "연준 내부에서 두 명의 고위 인사가 추가 금리 인상의 필요성을 제기하며, 금리 인상 종료에 대한 시장의 기대를 꺾을 수 있습니다. 연준은 최근 금리를 동결했지만, 일부 위원들은 여전히 인플레이션 억제를 위해 추가 긴축이 필요하다고 보고 있어 통화 정책의 불확실성이 지속됩니다. 예상치 못한 금리 인상 가능성은 증시에 부정적인 영향을 미칠 수 있으므로, 연준 위원들의 발언을 면밀히 주시하고 금리 변동성에 대비해야 합니다.",
-      "description": "연방준비제도(Fed)의 두 명의 고위 관계자가 조만간 추가적인 금리 인상이 필요하다고 주장했습니다.",
-      "category": "증시·금리",
+      "summary_text": "NYSE 베테랑은 현재 월스트리트가 전례 없이 많은 복합적인 시장 요인에 직면해 있다고 경고했습니다. 고금리, 인플레이션, 지정학적 리스크 등 다양한 거시경제 및 금융 시장 변동성이 복합적으로 작용하는 상황을 의미합니다. 투자자들은 복잡한 시장 환경에서 높은 변동성에 대비하고 신중한 접근이 필요하며, 특정 섹터에 대한 집중보다 분산 투자를 고려해야 합니다.",
+      "description": "뉴욕 증권거래소(NYSE) 베테랑이 현재 월스트리트가 동시에 맞닥뜨린 수많은 시장 압력은 전례 없는 수준이라고 언급했습니다.",
+      "category": "글로벌 경제",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "글로벌 증시, 금융",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
+      "related_sector": "전반적인 시장",
+      "related_stocks": [],
       "investment_view": "주의",
-      "investment_reason": "연준 위원들의 매파적 발언은 시장의 금리 인하 기대를 약화시키고 금리 인상 가능성을 다시 높여 투자 심리를 위축시킬 수 있습니다.",
-      "key_signal": "연준의 다음 FOMC 회의록 및 다른 위원들의 발언을 통해 추가 금리 인상에 대한 컨센서스 변화를 확인해야 합니다.",
+      "investment_reason": "복합적인 시장 압력은 글로벌 증시 전반의 변동성을 키우고 예측 불가능성을 높여 투자 전략 수립에 신중을 기해야 하기 때문입니다.",
+      "key_signal": "고금리, 인플레이션, 지정학적 위험 등 다양한 복합 요인들이 시장에 미치는 영향을 주시해야 합니다.",
       "keywords": [
-        "연준",
-        "금리 인상",
-        "통화정책",
-        "인플레이션",
-        "매파적"
+        "월스트리트",
+        "시장압력",
+        "변동성",
+        "거시경제",
+        "글로벌증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEpuWVJGczZvbGU4TXZ2V25CRnNkVG1JS0NrRTgwSjVFSl9zTmFwa2xOMkl5OHJxRDlPOS16SWp0SDZJS19KNG0wbTNkNmQzdFFlRUk4anRSM09ibEVsOUd3NzZIUU4zTEJ6X1NOdXVNNnZaUkJpczdSc1doUEhJdWRVUmtNZ19qaGNsY3M1RXFrQ3F0bGdRRldrN3plM0stbF9CM2Jfb3hvZk0?oc=5",
-      "published": "2026-11-01 00:27",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTBXQWd4bHowdzBsd2dQQU1PSnBQVjV5amxkdVpZRGg5WVJBX1RCckpqWWF0MUpkZkxUMVJueExUZG5PU0xPRVNPb2gyVUxnRjNwVkMtTDY5b2VCdkVqWWhMV2pHR2hObGJ0WXFYUGZWUHNJeHRmSy1tbTE2Z0dIZ2xsQ1JjZmsydjdFV3FoZGJhaXo0OExUbg?oc=5",
+      "published": "2026-11-02 08:59",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,41 +104,40 @@
     },
     {
       "rank": 3,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "반도체 투톱, 역대급 실적에도 주가 하락의 배경은?",
-      "display_title": "반도체 투톱, 역대급 실적에도 주가 하락의 배경은?",
-      "original_title": "반도체 투톱, 실적은 역대급인데 주가는 왜 곤두박질쳤나 : 금융 - 재경일보",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "이번 주 증시 주요 이슈: 애플 실적, 중간선거, 고용지표가 시장 변동성 시험",
+      "display_title": "이번 주 증시 주요 이슈: 애플 실적, 중간선거, 고용지표가 시장 변동성 시험",
+      "original_title": "The Week Ahead – Apple, Midterms and Jobs Test a Market on Edge - RealMoney Pro",
       "summary": [
-        "국내 반도체 대표 기업들이 사상 최대 실적을 기록했음에도 불구하고 주가는 오히려 하락하는 현상이 나타났습니다.",
-        "이는 주로 차익실현 매물 출회, 미래 성장성에 대한 시장의 보수적인 시각, 또는 이미 실적이 주가에 선반영되었다는 인식이 복합적으로 작용한 결과로 보입니다.",
-        "실적 발표 이후 주가 흐름을 단순히 실적과 연동하기보다는, 시장의 기대치, 향후 전망, 그리고 차익실현 압력 등 다양한 요소를 종합적으로 고려해야 합니다."
+        "이번 주 애플 실적, 미국 중간선거, 고용지표 발표 등 주요 이벤트가 예정되어 있어 시장의 변동성이 커질 것으로 예상됩니다.",
+        "이들 이벤트는 기술주 실적, 정치적 불확실성 해소 여부, 금리 인상 속도 조절 등 시장의 주요 변수에 직접적인 영향을 미칠 수 있습니다.",
+        "이번 주 발표되는 주요 지표와 이벤트 결과에 따라 시장의 단기적 방향이 결정될 수 있으므로, 관련 기업 및 업종에 대한 투자 판단에 신중해야 합니다."
       ],
-      "summary_text": "국내 반도체 대표 기업들이 사상 최대 실적을 기록했음에도 불구하고 주가는 오히려 하락하는 현상이 나타났습니다. 이는 주로 차익실현 매물 출회, 미래 성장성에 대한 시장의 보수적인 시각, 또는 이미 실적이 주가에 선반영되었다는 인식이 복합적으로 작용한 결과로 보입니다. 실적 발표 이후 주가 흐름을 단순히 실적과 연동하기보다는, 시장의 기대치, 향후 전망, 그리고 차익실현 압력 등 다양한 요소를 종합적으로 고려해야 합니다.",
-      "description": "국내 반도체 대표 기업들이 역대급 실적을 발표했음에도 불구하고 주가가 하락세를 보인 원인에 대해 분석합니다.",
-      "category": "기업·산업",
+      "summary_text": "이번 주 애플 실적, 미국 중간선거, 고용지표 발표 등 주요 이벤트가 예정되어 있어 시장의 변동성이 커질 것으로 예상됩니다. 이들 이벤트는 기술주 실적, 정치적 불확실성 해소 여부, 금리 인상 속도 조절 등 시장의 주요 변수에 직접적인 영향을 미칠 수 있습니다. 이번 주 발표되는 주요 지표와 이벤트 결과에 따라 시장의 단기적 방향이 결정될 수 있으므로, 관련 기업 및 업종에 대한 투자 판단에 신중해야 합니다.",
+      "description": "이번 주에는 애플의 실적 발표, 미국 중간선거 결과, 그리고 고용지표 발표가 예정되어 있어 불안정한 시장에 중요한 시험대가 될 것으로 전망됩니다.",
+      "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "반도체",
+      "market_impact": "중립",
+      "related_sector": "IT/기술",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "애플"
       ],
-      "investment_view": "주의",
-      "investment_reason": "국내 대표 반도체 기업들의 주가 흐름은 시장의 전반적인 기술주 평가 방식과 투자 심리를 반영하므로 주의 깊게 살펴봐야 합니다.",
-      "key_signal": "반도체 기업들의 향후 가이던스와 기관 투자자들의 수급 동향, 그리고 추가적인 외부 악재 발생 여부를 집중적으로 확인해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "이번 주 예정된 주요 이벤트들이 글로벌 증시 전반과 특정 업종에 미칠 영향이 크므로, 투자 전략 수립 시 반드시 고려해야 합니다.",
+      "key_signal": "애플 실적 발표 내용, 미국 중간선거 결과, 그리고 고용지표 수치에 따라 시장이 어떻게 반응하는지 면밀히 관찰해야 합니다.",
       "keywords": [
-        "반도체",
-        "실적",
-        "주가 하락",
-        "삼성전자",
-        "SK하이닉스"
+        "애플실적",
+        "미국중간선거",
+        "고용지표",
+        "시장변동성",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91ekFNeHkwMGlSTzYyNGhtQjBOa1VkdjZpeGc1cVRXX3E2MkdtQkVLYk1mS1V2TVVvZHh4NVVpWE1RNDF1Z01kMlBqdw?oc=5",
-      "published": "2026-11-01 07:23",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFlPdF9na2lsc0VfVlYwQnJtcnRvZThocHI1Qmo5YlMzcGpJeWljMGl4Q2ZJYnRXR1RxUW04OFFBMGVCVlhDZlduWm9wdWo0MWZBN2ZyYXFmUmc4ZDYyRGM4RWwyWjJHaENSakhsbG9CQnlVUTlTakdsRUxpX0NpOUg0UVZaMFpRdVp0X29qV1NvTzRIRHNQV192RGF4S1d1UnJLUVVDdEJNTGpGaTlr?oc=5",
+      "published": "2026-11-02 06:23",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -153,37 +147,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500 하락, 유가 급등 및 미 국채 10년물 금리 5% 유지",
-      "display_title": "S&P 500 하락, 유가 급등 및 미 국채 10년물 금리 5% 유지",
-      "original_title": "S&P 500 Today: Stock Market Index Drops to 7,623.68 as Oil Surges and the 10-Year Treasury Yield Hovers at 5% Ahead of the Fed - BBN Times",
+      "title": "S&P 500 전망: FOMC 금리 결정 및 기술주 실적 앞두고 보합세 예상",
+      "display_title": "S&P 500 전망: FOMC 금리 결정 및 기술주 실적 앞두고 보합세 예상",
+      "original_title": "S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings - StoneX",
       "summary": [
-        "S&P 500 지수가 하락했으며, 유가 급등과 10년물 미 국채 금리 5% 유지가 시장 불안감을 키우고 있습니다.",
-        "연방준비제도(Fed)의 금리 결정 회의를 앞두고 인플레이션 압력(유가)과 고금리 환경(국채 금리)이 증시에 부정적인 영향을 미치는 상황입니다.",
-        "미국 증시 전반의 하방 압력을 주시하며, 금리 인상 가능성과 유가 변동성에 따른 시장 영향을 대비해야 합니다."
+        "S&P 500 지수가 FOMC의 금리 결정과 기술주 실적 발표를 앞두고 관망세가 짙어져 보합세를 유지할 것으로 예측됩니다.",
+        "투자자들이 주요 거시경제 이벤트와 기업 실적이라는 두 가지 큰 불확실성을 앞두고 신중한 태도를 보이며 시장 방향 탐색 중임을 나타냅니다.",
+        "향후 시장의 큰 변곡점이 될 FOMC 금리 결정과 기술주 실적에 따라 시장의 방향성이 달라질 수 있으므로, 이들 발표에 대한 철저한 분석이 필요합니다."
       ],
-      "summary_text": "S&P 500 지수가 하락했으며, 유가 급등과 10년물 미 국채 금리 5% 유지가 시장 불안감을 키우고 있습니다. 연방준비제도(Fed)의 금리 결정 회의를 앞두고 인플레이션 압력(유가)과 고금리 환경(국채 금리)이 증시에 부정적인 영향을 미치는 상황입니다. 미국 증시 전반의 하방 압력을 주시하며, 금리 인상 가능성과 유가 변동성에 따른 시장 영향을 대비해야 합니다.",
-      "description": "S&P 500 지수가 7,623.68로 하락했으며, 연준 회의를 앞두고 유가가 급등하고 미 국채 10년물 금리가 5% 수준을 유지하고 있습니다.",
+      "summary_text": "S&P 500 지수가 FOMC의 금리 결정과 기술주 실적 발표를 앞두고 관망세가 짙어져 보합세를 유지할 것으로 예측됩니다. 투자자들이 주요 거시경제 이벤트와 기업 실적이라는 두 가지 큰 불확실성을 앞두고 신중한 태도를 보이며 시장 방향 탐색 중임을 나타냅니다. 향후 시장의 큰 변곡점이 될 FOMC 금리 결정과 기술주 실적에 따라 시장의 방향성이 달라질 수 있으므로, 이들 발표에 대한 철저한 분석이 필요합니다.",
+      "description": "StoneX는 S&P 500 지수가 연방공개시장위원회(FOMC)의 금리 결정과 기술 기업들의 실적 발표를 앞두고 보합세를 유지할 것으로 전망했습니다.",
       "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "글로벌 증시, 유가 관련 산업",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "IT/기술",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "주요 시장 지표들이 증시에 부정적인 신호를 보내고 있어 투자 심리 위축 가능성이 높습니다.",
-      "key_signal": "연준의 향후 금리 정책 방향과 국제 유가 추이를 면밀히 주시해야 합니다.",
+      "investment_reason": "FOMC 금리 결정과 주요 기술 기업들의 실적 발표는 글로벌 증시의 향방을 결정할 수 있는 중대한 요인이므로, 결과에 따라 시장 변동성이 커질 수 있습니다.",
+      "key_signal": "이번 주 예정된 FOMC의 금리 결정 내용과 주요 기술 기업들의 실적 발표 결과에 촉각을 세워야 합니다.",
       "keywords": [
-        "S&P 500",
-        "유가",
-        "미 국채 금리",
-        "연준",
-        "인플레이션"
+        "S&P500",
+        "FOMC",
+        "금리결정",
+        "기술주실적",
+        "시장관망"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG81TzZadUxsS2VHU1doLWlEalZQclMzUFRnaUtzT2xaYm12YnM4ZzhXRFg3MjR4aHZ3N0hfQS1qMkwzVE90REViVGJRYXdpcDlrMVJ4S2E0Z0FKMkFjWFRmQy14VTlTdDg4RGE2cExQRFJVdEZmX05YQTUxdzhEOFB4dVNIVnExbW1pMmtIUjNqbWxLc2syWTZoekl0amxLMGluOEZwSDlxa3ZBRmt0VjNDVXhyUVdaZ2x4d0R2VTdDZHphQWtzMEFidWNjQ3dOUTJfQUZoTjJla0tHVXZ3Rk5QS0wtcHRCM2ctS2ZzRGc?oc=5",
-      "published": "2026-11-01 04:55",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjgxZzVKblZ0aDNsQUN0azRrZHN6LVdDd2ZIV3R5TFlaSTRYQ2xnNnFFQmZmVHN4RkhTTEpudUpUelVmbE5rX0N2cEZBRU5JX1cyZ09SeDhldUJJOXU3cHNsdndJNlFiUzlWYzlSWU8zUXVCM3hFd3o2cVRqNm5KUk5RN1pLcEZ1Z2pKelNxUjRKTzFQMEVGUUs2dXRFZUN5Qms1a3NfQ2hNaEE4aS1QY0VHMmdtSUo5aXF1SFNR?oc=5",
+      "published": "2026-11-02 04:29",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -192,83 +186,84 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "S&P 500 지수, 메타와 테슬라 실적 부진으로 기술주 주도 하락 전망",
-      "display_title": "S&P 500 지수, 메타와 테슬라 실적 부진으로 기술주 주도 하락 전망",
-      "original_title": "S&P 500 Forecast: SPX falls, led by tech after Meta, Tesla earnings - StoneX",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[주간투자전략] 미국 중간선거 후 반등 기대, 실적 및 수급 회복주 선별 필요 (11/2~11/6)",
+      "display_title": "[주간투자전략] 미국 중간선거 후 반등 기대, 실적 및 수급 회복주 선별 필요 (11/2~11/6)",
+      "original_title": "[주간투자전략] “미국 중간선거 이후 반등, 실적과 수급 회복주를 선별하라“ , 11/2(월)~11/6(금) - 네이버 프리미엄콘텐츠",
       "summary": [
-        "메타와 테슬라 등 주요 기술 기업의 실적 부진으로 S&P 500 지수, 특히 기술 섹터가 하락 압력을 받고 있습니다.",
-        "대형 기술 기업들의 실적은 전체 증시의 방향성을 결정하는 중요한 요소로, 이들의 부진은 시장 전반에 부정적인 영향을 미칠 수 있습니다.",
-        "기술주 투자에 대한 경계심을 유지하고, 실적 발표 시즌 동안 기업들의 실적과 향후 가이던스를 면밀히 분석하여 투자 전략을 조정해야 합니다."
+        "미국 중간선거 이후 국내외 증시의 반등 가능성이 제기되며, 실적 개선 및 수급이 회복되는 종목에 주목할 필요가 있습니다.",
+        "중간선거 결과에 따라 정치적 불확실성이 해소되고 시장의 방향성이 명확해질 수 있다는 기대감이 반영된 전략입니다.",
+        "선거 이후 시장의 단기적 방향성에 주목하고, 펀더멘털이 견고한 종목 중심으로 포트폴리오를 재편하는 기회로 활용해야 합니다."
       ],
-      "summary_text": "메타와 테슬라 등 주요 기술 기업의 실적 부진으로 S&P 500 지수, 특히 기술 섹터가 하락 압력을 받고 있습니다. 대형 기술 기업들의 실적은 전체 증시의 방향성을 결정하는 중요한 요소로, 이들의 부진은 시장 전반에 부정적인 영향을 미칠 수 있습니다. 기술주 투자에 대한 경계심을 유지하고, 실적 발표 시즌 동안 기업들의 실적과 향후 가이던스를 면밀히 분석하여 투자 전략을 조정해야 합니다.",
-      "description": "S&P 500 지수가 메타와 테슬라의 실적 발표 이후 기술주 주도로 하락할 것으로 전망됩니다.",
+      "summary_text": "미국 중간선거 이후 국내외 증시의 반등 가능성이 제기되며, 실적 개선 및 수급이 회복되는 종목에 주목할 필요가 있습니다. 중간선거 결과에 따라 정치적 불확실성이 해소되고 시장의 방향성이 명확해질 수 있다는 기대감이 반영된 전략입니다. 선거 이후 시장의 단기적 방향성에 주목하고, 펀더멘털이 견고한 종목 중심으로 포트폴리오를 재편하는 기회로 활용해야 합니다.",
+      "description": "이번 주간 투자 전략은 미국 중간선거 이후 시장 반등 가능성을 제시하며, 우수한 실적과 수급이 회복되는 종목을 선별하여 투자할 것을 권고합니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "기술주, 전기차, 소셜 미디어",
+      "market_impact": "긍정",
+      "related_sector": "전반적인 시장",
       "related_stocks": [
-        "Meta",
-        "Tesla"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "주요 기술 기업들의 실적 부진은 시장 전반의 투자 심리를 위축시키고 관련 섹터에 대한 하방 압력을 가중시킬 수 있습니다.",
-      "key_signal": "다른 대형 기술 기업들의 실적 발표와 이들이 시장에 미치는 영향에 주목하며, 기술주 투자 비중 조정을 고려해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 중간선거 이후 시장 불확실성 해소와 함께 실적 및 수급이 개선되는 종목을 선별하여 투자 기회를 모색할 수 있기 때문입니다.",
+      "key_signal": "이번 주 미국 중간선거 결과와 그에 따른 시장 반응을 주시하고, 실적 개선이 예상되는 기업들의 발표를 면밀히 살펴봐야 합니다.",
       "keywords": [
-        "S&P 500",
-        "기술주",
-        "실적 발표",
-        "메타",
-        "테슬라"
+        "주간전략",
+        "미국중간선거",
+        "시장반등",
+        "실적개선",
+        "수급회복"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakxVVDI1b0tDV1ozbWZXd29kTFR0VU5QOU9USWFDeWtoWXVfY2dDS3NoWGFmWTNyTkxUQVNCaDVXTjJNSk85SmE5eVVSNlQxbmhVUkZLSTB6R2xiWDJYeE1GM1BHVDhQRGtwN3BlMC1taWlrX0JUYmZockc1c0hKVnV4VWRqLWlZWkZGRDExQjZVQ28tdFJIN2REQVFQSXVhQmMySnptRURVUTU0endoUFNMOGo?oc=5",
-      "published": "2026-11-01 02:43",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdmZsSjBjc05yTGxZZTlTWE14amRUekxHWEpqNS1NcUF3UFozdHhSb0FJVTZvUGRJS0dyUTlLNXk4c3EzWmFobXFRdkRRWHkza0MyRi1Danc2b3FBVnhVSTl5TUMtOGlzaWtmNFRYNEpvYWFBZm9fZTdGYjZTZw?oc=5",
+      "published": "2026-11-02 08:15",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "코스피, AI 투자 회의론 속 변동성 확대... 미 중간선거·중동 리스크 주시",
-      "display_title": "코스피, AI 투자 회의론 속 변동성 확대... 미 중간선거·중동 리스크 주시",
-      "original_title": "코스피, AI 투자 회의론에 롤러코스터…내주 美 중간선거·중동리스크 '변수' - 데일리한국",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "S&P 500 전망: 실적 발표 앞두고 기술주 반등하며 SPX 상승",
+      "display_title": "S&P 500 전망: 실적 발표 앞두고 기술주 반등하며 SPX 상승",
+      "original_title": "S&P 500 Forecast: SPX rises as tech rebounds ahead of earnings - StoneX",
       "summary": [
-        "코스피 지수가 AI 투자 회의론으로 인해 변동성이 커졌으며, 다가오는 미국 중간선거와 중동 지역의 지정학적 리스크가 추가적인 불확실성을 가중시키고 있습니다.",
-        "AI 기술주의 과열 논란과 함께 글로벌 정치적 이벤트 및 지정학적 불안정은 국내 증시에 큰 영향을 미치는 외부 요인으로 작용합니다.",
-        "시장의 주요 변수들이 동시다발적으로 발생할 예정이므로, 불확실성에 대비하여 방어적인 투자 전략을 고려하고, 관련 리스크 해소 여부를 주시해야 합니다."
+        "S&P 500 지수가 기술주의 반등에 힘입어 상승세를 보일 것으로 전망되며, 이는 주요 기업들의 실적 발표를 앞두고 나타나는 현상입니다.",
+        "최근 기술주가 조정을 겪었으나, 다가오는 실적 시즌에 대한 기대감으로 저가 매수세가 유입되며 반등하고 있는 것으로 해석됩니다.",
+        "기술주 중심의 미국 증시 반등은 국내 증시에도 긍정적인 영향을 미칠 수 있으며, 실적 발표가 임박한 기술 기업들에 주목해야 합니다."
       ],
-      "summary_text": "코스피 지수가 AI 투자 회의론으로 인해 변동성이 커졌으며, 다가오는 미국 중간선거와 중동 지역의 지정학적 리스크가 추가적인 불확실성을 가중시키고 있습니다. AI 기술주의 과열 논란과 함께 글로벌 정치적 이벤트 및 지정학적 불안정은 국내 증시에 큰 영향을 미치는 외부 요인으로 작용합니다. 시장의 주요 변수들이 동시다발적으로 발생할 예정이므로, 불확실성에 대비하여 방어적인 투자 전략을 고려하고, 관련 리스크 해소 여부를 주시해야 합니다.",
-      "description": "코스피 지수가 인공지능(AI) 투자에 대한 회의론이 확산되면서 롤러코스터 장세를 보였으며, 다음 주 미국 중간선거와 중동 리스크가 주요 변수로 작용할 전망입니다.",
+      "summary_text": "S&P 500 지수가 기술주의 반등에 힘입어 상승세를 보일 것으로 전망되며, 이는 주요 기업들의 실적 발표를 앞두고 나타나는 현상입니다. 최근 기술주가 조정을 겪었으나, 다가오는 실적 시즌에 대한 기대감으로 저가 매수세가 유입되며 반등하고 있는 것으로 해석됩니다. 기술주 중심의 미국 증시 반등은 국내 증시에도 긍정적인 영향을 미칠 수 있으며, 실적 발표가 임박한 기술 기업들에 주목해야 합니다.",
+      "description": "실적 발표를 앞두고 기술주가 반등세를 보이며 S&P 500 지수가 상승할 것으로 StoneX가 전망했습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "국내 증시, IT, 반도체",
+      "market_impact": "긍정",
+      "related_sector": "IT/기술",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "AI 관련 투자 심리 변화와 함께 지정학적 리스크, 미국 중간선거 등 복합적인 대외 변수들이 코스피 시장의 향방을 결정할 수 있어 면밀한 분석이 필요합니다.",
-      "key_signal": "미국 중간선거 결과와 중동 정세 변화에 따른 시장 반응, 그리고 AI 관련 기업들의 실제 성과를 꾸준히 체크해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 S&P 500 지수와 기술주의 반등은 국내 기술주 및 전체 증시에 긍정적인 투자 심리를 형성할 수 있기 때문입니다.",
+      "key_signal": "주요 기술 기업들의 실적 발표 내용과 시장의 반응을 주시하고, 기술주의 지속적인 상승 여부를 확인해야 합니다.",
       "keywords": [
-        "코스피",
-        "AI 회의론",
-        "미국 중간선거",
-        "중동 리스크",
-        "변동성"
+        "S&P500",
+        "기술주반등",
+        "실적발표",
+        "미국증시",
+        "IT섹터"
       ],
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42bU1BQm9oa0hpWF9lazZ5N2s1bU14TTJ2d2prTTAtN0dRSTFsNWxXcGc1OUpoWFdXYWExS3kxdlBXdFdkMU51OGh0VzczQ2ZFODQ0Q0dYRnUxWUVXLXdJazdRTjRCd0cwbEZfZEFlY9IBc0FVX3lxTE0ycV9mRVJHR1VTelhSbEJrejVjNnZwUnJKNUkyajFiY0JKWVJWc2RqYmIyN0V1WWVFTjM2UUh2cG1pV3Z0a2VBTTFRa01EeWZEN2RuTlVRTHRINExYdGVPVk96LURxdV9ZUDBNY2dtVnNJd28?oc=5",
-      "published": "2026-10-31 14:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXJtdmRLMmFmVF90Zl83WXNEbjVjaF84SFVqVUdJcmNxM3Zodi14a1poMzJGb0I1N2hxSm0xNWRWeUE4dlBFRXpEVW1MRXluSUlmcjZ5M0t5NnZ6cTctZE45MXFJVHdZOXlUNUZhUUROZkdSclF2UThlX1l1bVJLUk4tNTFsazRBbjVlYUMzVEhJaWtFZ0xzbnZDRFlGMmlxNS1WYjVzbmVTamVZMWNJTA?oc=5",
+      "published": "2026-11-02 05:08",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -280,66 +275,66 @@
       "name": "삼성전자",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "국내 증시의 핵심 종목이자 반도체 섹터의 대표주로서, 최근 실적에도 불구하고 주가 하락 압력을 받고 있어 기술주 전반의 투자 심리와 향후 반도체 업황의 변화를 가늠할 수 있는 중요한 지표입니다.",
+      "opinion": "주의",
+      "reason": "뉴욕 반도체주 급락 여파로 동반 약세를 보이며 국내 증시 하락을 주도했습니다. 글로벌 반도체 시장의 변동성이 커지고 있어, 뉴욕 반도체주의 흐름과 국내외 수급 변화에 따른 리스크 관리가 중요합니다.",
       "check_points": [
-        "글로벌 기술주 투자 심리 회복 여부",
-        "메모리 반도체 가격 동향 및 수요 전망",
-        "외국인 및 기관 투자자 매매 동향"
+        "뉴욕 반도체주 흐름 및 실적 발표",
+        "외국인/기관 수급 동향",
+        "글로벌 반도체 업황 전망"
       ],
       "related_news_titles": [
-        "반도체 투톱, 역대급 실적에도 주가 하락의 배경은?",
-        "코스피, AI 투자 회의론 속 변동성 확대..."
+        "코스피, 뉴욕 반도체주 급락 여파로 5650선 후퇴...삼성전자·SK하이닉스 동반 약세"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "주의",
-      "reason": "삼성전자와 함께 국내 반도체 투톱으로, 역대급 실적에도 주가 하락 배경에 대한 시장의 의구심이 존재하여 글로벌 기술주 투자 심리 및 반도체 업종 전반의 변동성을 주시해야 합니다.",
+      "sector": "증권",
+      "opinion": "관심",
+      "reason": "미국 중간선거 이후 시장 불확실성 해소와 S&P 500 기술주의 반등 기대감이 증시 전반의 거래 활성화 및 투자 심리 개선으로 이어질 경우, 증권업종의 수혜가 예상됩니다.",
       "check_points": [
-        "HBM 등 고부가 메모리 제품의 시장 반응 및 경쟁 구도",
-        "글로벌 경기 둔화 가능성 및 IT 기기 수요 영향",
-        "해외 반도체 기업들의 주가 흐름"
+        "미국 중간선거 결과 및 시장 반응",
+        "글로벌 증시 거래량 추이",
+        "외국인 투자자 순매수 동향"
       ],
       "related_news_titles": [
-        "반도체 투톱, 역대급 실적에도 주가 하락의 배경은?",
-        "코스피, AI 투자 회의론 속 변동성 확대..."
+        "[주간투자전략] 미국 중간선거 후 반등 기대, 실적 및 수급 회복주 선별 필요 (11/2~11/6)",
+        "S&P 500 전망: 실적 발표 앞두고 기술주 반등하며 SPX 상승"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "카카오",
       "market": "KOSPI",
-      "sector": "금융",
+      "sector": "IT/기술",
       "opinion": "관심",
-      "reason": "연준의 금리 정책에 대한 상반된 시각(금리 동결 vs 추가 인상 주장)과 국채 수익률의 혼조세는 금융업 전반에 직접적인 영향을 미 미칠 것으로 예상되어, 향후 금리 정책 방향에 따라 변동성이 커질 수 있습니다.",
+      "reason": "이번 주 예정된 애플 실적 발표 및 S&P 500 기술주의 반등 기대감은 국내 IT/기술 대표주에 긍정적인 투자 심리를 형성할 수 있습니다. 주요 이벤트 결과와 글로벌 기술주의 흐름에 따라 주가 변동성이 확대될 수 있습니다.",
       "check_points": [
-        "미 연준의 향후 금리 정책 방향 및 위원들의 발언",
-        "국채 수익률 안정화 여부 및 채권 시장 동향",
-        "글로벌 증시 및 국내 증시의 거래량 변화"
+        "애플 등 글로벌 기술주 실적 발표 결과",
+        "환율 변동성",
+        "외국인/기관 순매수 전환 여부"
       ],
       "related_news_titles": [
-        "미 증시 상승, 연준 금리 동결 후 국채 수익률은 혼조세",
-        "연준 두 명의 고위 관계자, 조만간 추가 금리 인상 필요성 주장"
+        "이번 주 증시 주요 이슈: 애플 실적, 중간선거, 고용지표가 시장 변동성 시험",
+        "S&P 500 전망: 실적 발표 앞두고 기술주 반등하며 SPX 상승"
       ]
     },
     {
       "rank": 4,
-      "name": "SK이노베이션",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "정유 및 화학",
+      "sector": "은행",
       "opinion": "주의",
-      "reason": "유가 급등과 미 국채 금리 상승이 시장 전반에 부정적인 영향을 미치고 있어, 정유 및 화학 산업의 실적 변동성과 함께 유가 추이에 따른 주가 흐름을 면밀히 관찰할 필요가 있습니다.",
+      "reason": "FOMC 금리 결정과 월스트리트의 복합적인 시장 압력은 전반적인 금융 시장의 변동성을 키울 수 있습니다. 금리 변화에 민감한 금융주로서, 주요 경제 지표 발표와 시장 불확실성 요인들을 면밀히 관찰해야 합니다.",
       "check_points": [
-        "국제 유가(WTI, 브렌트유)의 추가 상승 여부 및 안정화 시점",
-        "정제 마진 추이 및 재고 수준 변화",
-        "글로벌 경기 둔화 우려에 따른 석유화학 제품 수요 변화"
+        "FOMC 금리 결정 내용",
+        "국내외 금리 변동성 및 시장 영향",
+        "글로벌 경기 침체 우려"
       ],
       "related_news_titles": [
-        "S&P 500 하락, 유가 급등 및 미 국채 10년물 금리 5% 유지"
+        "S&P 500 전망: FOMC 금리 결정 및 기술주 실적 앞두고 보합세 예상",
+        "월스트리트, 전례 없는 복합적 시장 압력 직면"
       ]
     }
   ],
