@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04 10:55",
-  "analysis_date": "2026-11-04",
+  "generated_at": "2026-11-05 11:01",
+  "analysis_date": "2026-11-05",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 중간선거 결과에 대한 불확실성으로 국내외 증시 및 금리 시장의 변동성이 확대되는 하루입니다. 코스피는 전일 급락 후 반등을 시도 중이며, 선거 결과가 시장 방향을 결정할 핵심 변수입니다.",
-    "국내거시경제": "인베스트 코리아 서밋을 통해 역대 최대 규모인 20억 달러의 외국인 투자를 유치하며 국내 경제 활성화에 긍정적 기대를 더했습니다.",
-    "글로벌경제": "미국 중간선거 개표가 시작된 가운데, 민주당의 '블루 웨이브' 발생 시 증세 및 규제 강화로 시장에 부정적인 영향을 줄 수 있다는 경고가 나옵니다.",
-    "증시금리": "코스피는 엔비디아 상승에 힘입어 반등을 시도하나, 미국 중간선거 결과 대기 속 국채 금리가 상승하며 증시에 부담을 주고 있습니다. 선거 결과에 따라 시장 변동성이 크게 확대될 수 있습니다.",
+    "총평": "오늘 시장은 거시 변수와 금리, 정책 변화, 기업 모멘텀이 동시에 반영되는 흐름으로 보입니다.",
+    "국내거시경제": "국내 경기와 물가, 수출 흐름은 정책 기대와 함께 업종별 차별화를 만들 수 있습니다.",
+    "글로벌경제": "미국 금리와 글로벌 경기, 지정학 변수는 국내 증시의 방향성에 계속 영향을 줄 가능성이 큽니다.",
+    "증시금리": "금리와 환율 흐름은 성장주와 금융주, 수출주 밸류에이션에 직접적인 변수입니다.",
     "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "엔비디아 주가 흐름은 국내 반도체 업종에 지속적으로 영향을 미칠 것으로 보이며, 미 중간선거 결과에 따라 주요 산업별 정책 변화를 주시해야 합니다.",
-    "오늘의투자시사점": "미국 중간선거 결과 발표 전까지는 시장 변동성 확대 가능성이 높아 보수적인 접근이 필요합니다. 상원 다수당 향방 및 글로벌 기술주 동향, 주요 경제 지표를 면밀히 주시하며 투자 전략을 수립해야 합니다.",
-    "오늘의한줄": "미국 중간선거 결과가 오늘 증시의 방향성을 결정할 핵심 변수이므로, 발표 전까지는 관망세가 필요합니다."
+    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
+    "오늘의투자시사점": "단기 뉴스 반응보다 금리·실적·정책과 연결되는 업종별 흐름을 우선적으로 점검하는 것이 좋겠습니다.",
+    "오늘의한줄": "오늘은 거시 변수와 업종 모멘텀을 함께 읽어야 하는 장입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피 3.59% 급락 후 반등 시도, 엔비디아 상승 및 미 중간선거 개표가 주요 변수",
-      "display_title": "코스피 3.59% 급락 후 반등 시도, 엔비디아 상승 및 미 중간선거 개표가 주요 변수",
-      "original_title": "[증시 전망] 코스피 3.59% 급락 뒤 반등 시도…엔비디아 상승·미국 중간선거 개표가 변수 - 톱스타뉴스",
+      "title": "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내",
+      "display_title": "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내",
+      "original_title": "[핫이슈] 미국 중간선거 이후 뉴욕 증시는 급등, 한국 증시는 급락…엇갈린 시장의 속내 - CEONEWS",
       "summary": [
-        "코스피가 전일 급락 이후 반등을 모색하는 가운데, 엔비디아의 상승과 미국 중간선거 개표 결과가 증시 방향성을 결정할 핵심 변수로 작용합니다.",
-        "글로벌 기술주 흐름과 미국 정치 불확실성은 국내 증시에 큰 영향을 미치며, 특히 반도체 업종은 엔비디아와 밀접한 관계를 가집니다.",
-        "미 중간선거 결과에 따라 시장의 불확실성이 해소되거나 증폭될 수 있으므로, 결과 확인 전까지는 보수적인 접근이 필요하며, 반도체 업종은 엔비디아 흐름을 주시해야 합니다."
+        "미국 중간선거 이후 뉴욕 증시가 급등한 반면, 한국 증시는 급락하는 대조적인 모습을 보였다.",
+        "미국 민주당의 의회 장악이 미국 증시에는 긍정적으로 작용한 반면, 국내 증시에는 불확실성 증대 또는 다른 요인으로 작용한 것으로 추정된다.",
+        "글로벌 시장과의 동조화가 깨지는 현상에 대한 원인 분석이 필요하며, 국내 시장의 고유한 하방 압력 요인을 파악해야 한다."
       ],
-      "summary_text": "코스피가 전일 급락 이후 반등을 모색하는 가운데, 엔비디아의 상승과 미국 중간선거 개표 결과가 증시 방향성을 결정할 핵심 변수로 작용합니다. 글로벌 기술주 흐름과 미국 정치 불확실성은 국내 증시에 큰 영향을 미치며, 특히 반도체 업종은 엔비디아와 밀접한 관계를 가집니다. 미 중간선거 결과에 따라 시장의 불확실성이 해소되거나 증폭될 수 있으므로, 결과 확인 전까지는 보수적인 접근이 필요하며, 반도체 업종은 엔비디아 흐름을 주시해야 합니다.",
-      "description": "코스피가 3.59% 급락한 후 반등을 시도하고 있으며, 엔비디아 주가 상승과 미국 중간선거 개표 결과가 시장의 주요 변수로 작용하고 있습니다.",
+      "summary_text": "미국 중간선거 이후 뉴욕 증시가 급등한 반면, 한국 증시는 급락하는 대조적인 모습을 보였다. 미국 민주당의 의회 장악이 미국 증시에는 긍정적으로 작용한 반면, 국내 증시에는 불확실성 증대 또는 다른 요인으로 작용한 것으로 추정된다. 글로벌 시장과의 동조화가 깨지는 현상에 대한 원인 분석이 필요하며, 국내 시장의 고유한 하방 압력 요인을 파악해야 한다.",
+      "description": "미국 중간선거 결과 이후 뉴욕 증시는 급등했지만, 한국 증시는 급락하며 시장의 엇갈린 속마음을 보여주고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, IT하드웨어, 증권",
+      "importance": 10,
+      "market_impact": "부정",
+      "related_sector": "전반적 시장, 국내 주식 시장",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "엔비디아(NVDA)"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미 중간선거 결과에 따라 시장 변동성이 커질 수 있어 투자 결정에 신중을 기해야 하기 때문입니다.",
-      "key_signal": "미 중간선거 개표 결과와 미국 증시의 반응, 특히 엔비디아 주가 흐름을 면밀히 관찰하여 국내 증시 방향성을 예측해야 합니다.",
+      "investment_reason": "미국 증시와 상반된 국내 증시의 움직임은 투자 전략 재검토가 필요하다는 중요한 신호이다.",
+      "key_signal": "국내 증시가 미국 증시와 디커플링되는 원인이 무엇인지, 그리고 이러한 추세가 지속될지 여부를 면밀히 분석해야 한다.",
       "keywords": [
-        "코스피",
-        "미중간선거",
-        "엔비디아",
-        "반도체",
-        "증시전망"
+        "뉴욕 증시",
+        "한국 증시",
+        "미국 중간선거",
+        "시장 괴리",
+        "급락"
       ],
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nUVRUa2FqRXR3LVVaQTh2NFY2NXBkVGp6am1YX0xxUkhCV1JwRTFzMUhicWZOdG9zVUlQWG1vSjVxUHdRSTlIVTkwUjkyb2hQUUxNWVRVejlxYjdyRVAxVWEwWldHU01oZmFzc2hKZWxPZw?oc=5",
-      "published": "2026-11-04 07:58",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRUlZNXd0RFJDUVlfSEU3UzRsamdXLXZCZ0F5SjUwUVloWFVzSUl6VWM1NEVjelJONGh5ZHZzNENkMVl6S2xISkJXMzJPRkxyM2ozS2NYZnZxR1M4cURr?oc=5",
+      "published": "2026-11-05 10:41",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -67,124 +67,81 @@
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "오늘의 이슈: 미국 중간선거 개표 시작, 상원 결과는 오후에 윤곽 드러낼 듯",
-      "display_title": "오늘의 이슈: 미국 중간선거 개표 시작, 상원 결과는 오후에 윤곽 드러낼 듯",
-      "original_title": "[오늘의 이슈] 미 중간선거 개표 시작…상원 윤곽은 오후 나온다 - 센트럴경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "오늘 주식 시장: 민주당 의회 압승과 유가 급락으로 다우 1,500포인트 이상 폭등, 금 3.30% 상승",
+      "display_title": "오늘 주식 시장: 민주당 의회 압승과 유가 급락으로 다우 1,500포인트 이상 폭등, 금 3.30% 상승",
+      "original_title": "Stock Market Today: Dow Surges Over 1,500 Points as Democrats Sweep Congress and Oil Plunges, Gold Gains +3.30% - Eurasia Business News",
       "summary": [
-        "미국 중간선거 개표가 시작되었고, 특히 상원 선거 결과가 오늘 오후 중으로 윤곽을 드러낼 예정입니다.",
-        "중간선거 결과는 미국 국내외 정책 방향과 글로벌 금융 시장에 큰 영향을 미치며, 특히 상원 다수당 변화는 입법 환경을 좌우할 수 있습니다.",
-        "선거 결과에 따라 시장 변동성이 커질 수 있으므로, 상원 다수당 향방에 따른 예상 정책 변화와 이에 따른 산업별 영향을 주시해야 합니다."
+        "미국 중간선거에서 민주당이 의회를 장악하며 다우존스 지수가 1,500포인트 이상 급등하고 금 가격이 3.30% 상승했다.",
+        "민주당의 의회 장악은 시장에 긍정적인 신호로 해석되며 유가 급락과 함께 위험자산 선호 심리를 자극했다.",
+        "미국 시장의 강력한 상승세는 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있으나, 국내 시장에 미칠 파급 효과를 주시해야 한다."
       ],
-      "summary_text": "미국 중간선거 개표가 시작되었고, 특히 상원 선거 결과가 오늘 오후 중으로 윤곽을 드러낼 예정입니다. 중간선거 결과는 미국 국내외 정책 방향과 글로벌 금융 시장에 큰 영향을 미치며, 특히 상원 다수당 변화는 입법 환경을 좌우할 수 있습니다. 선거 결과에 따라 시장 변동성이 커질 수 있으므로, 상원 다수당 향방에 따른 예상 정책 변화와 이에 따른 산업별 영향을 주시해야 합니다.",
-      "description": "미국 중간선거 개표가 시작되었으며, 상원 선거의 윤곽은 오늘 오후에 드러날 것으로 예상됩니다.",
+      "summary_text": "미국 중간선거에서 민주당이 의회를 장악하며 다우존스 지수가 1,500포인트 이상 급등하고 금 가격이 3.30% 상승했다. 민주당의 의회 장악은 시장에 긍정적인 신호로 해석되며 유가 급락과 함께 위험자산 선호 심리를 자극했다. 미국 시장의 강력한 상승세는 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있으나, 국내 시장에 미칠 파급 효과를 주시해야 한다.",
+      "description": "오늘 주식 시장에서는 민주당이 의회를 장악하고 유가가 급락하면서 다우 지수가 1,500포인트 이상 폭등했으며, 금 가격은 3.30% 상승했습니다.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "증권, 국제정치",
+      "market_impact": "긍정",
+      "related_sector": "전반적 시장, 에너지",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
-      "investment_view": "주의",
-      "investment_reason": "미국 중간선거 결과는 글로벌 증시에 큰 불확실성을 제공하며, 국내 증시에도 민감하게 반응할 수 있기 때문입니다.",
-      "key_signal": "상원 다수당의 변화 가능성과 이에 따른 미국 정부의 정책 방향성 변화 예상을 최우선으로 체크해야 합니다.",
+      "investment_view": "관심",
+      "investment_reason": "미국 중간선거 결과에 따른 글로벌 시장의 즉각적인 반응은 국내 투자 전략 수립에 중요한 기준이 된다.",
+      "key_signal": "미국 증시의 상승 동력이 지속될지, 그리고 국내 증시에 어떤 식으로 반영될지 오늘 장 흐름을 체크해야 한다.",
       "keywords": [
-        "미중간선거",
-        "상원",
-        "개표",
-        "정치",
-        "시장변동성"
+        "민주당 승리",
+        "다우존스",
+        "유가 급락",
+        "금 가격",
+        "미국 증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HdERMMGR6RGhWUkZYYl8zZ01UaDgybUxkR1Q4aGI0X2V4Y3lSQ3hKUnBlSVExZGprdWdXclA5Yll0OW5KcEZ1aU5NYUhHaUxlVm1IajA2RDJmb0RUbFliRlZJR1hHdHfSAWpBVV95cUxPR2FPcnBlZVpIYkJ5SWQxdkhWOEtZMlpESE1ad0tGRTg4VFZGY2JjNzF4aFVkOEhHc0tSa2xsd3VTTjlaRm5QbVJqdmc5aFhyODNfMWdqanZBRUVJQUt2c0JEQjc0T1JIRE5n?oc=5",
-      "published": "2026-11-04 07:46",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaHhMckwwVGJ0RGZKdHlldV83ZThJZTU0SWhwaXc3N3ZiNERQU0VaTlcyYVRPWmFjSXQwdi1HdkRXa2gwSHVnM0lqcTR4REdLNXNndE5pUXdvSks0WVRhQ3Q0bUgtS0pyamQtaEhHUGZBbXp3eEQ1UEVmVmpSZjBZT2xxY3F4REpXWU1JdGxwODJOd2dSajR4UXBoVlZXcGg0cDVJbWlvX3BQVWVqUkJpRXlXRm10emRWVzd3RTVyUllpSkxvek9iRFNhQ3ZjM01rX3M3bTlHeUcyUW9IUmFvY1hXbW0?oc=5",
+      "published": "2026-11-05 05:55",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미 중간선거: 야데니는 '블루 웨이브'가 증시에 냉수 끼얹을 수 있다고 경고, UBS는 단기 변동성 예상",
-      "display_title": "미 중간선거: 야데니는 '블루 웨이브'가 증시에 냉수 끼얹을 수 있다고 경고, UBS는 단기 변동성 예상",
-      "original_title": "US Midterm Elections: Yardeni Warns A Blue Wave Could Deliver ‘A Cold Shower For Stocks’ — UBS Sees Near-Term Volatility - Yahoo Finance",
-      "summary": [
-        "야데니 연구소는 미국 중간선거에서 민주당의 '블루 웨이브'가 발생하면 주식 시장에 부정적인 영향을 미칠 수 있다고 경고했으며, UBS는 단기적인 시장 변동성 확대를 전망했습니다.",
-        "민주당의 완전 장악은 기업 규제 강화, 증세 등의 정책 가능성을 높여 기업 이익과 투자 심리에 부담을 줄 수 있다는 우려가 존재합니다.",
-        "중간선거 결과에 따라 시장의 불확실성이 해소되거나 증폭될 수 있으므로, '블루 웨이브' 발생 시 예상되는 정책 변화와 이에 따른 섹터별 영향에 대비해야 합니다."
-      ],
-      "summary_text": "야데니 연구소는 미국 중간선거에서 민주당의 '블루 웨이브'가 발생하면 주식 시장에 부정적인 영향을 미칠 수 있다고 경고했으며, UBS는 단기적인 시장 변동성 확대를 전망했습니다. 민주당의 완전 장악은 기업 규제 강화, 증세 등의 정책 가능성을 높여 기업 이익과 투자 심리에 부담을 줄 수 있다는 우려가 존재합니다. 중간선거 결과에 따라 시장의 불확실성이 해소되거나 증폭될 수 있으므로, '블루 웨이브' 발생 시 예상되는 정책 변화와 이에 따른 섹터별 영향에 대비해야 합니다.",
-      "description": "미국 중간선거에서 민주당이 압승하는 '블루 웨이브'가 발생할 경우 주식 시장에 부정적인 영향을 줄 수 있으며, UBS는 단기적인 시장 변동성 확대를 예상했습니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "증권, 국제정치",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "미 중간선거 결과, 특히 '블루 웨이브'는 글로벌 증시에 부정적인 영향을 미쳐 국내 시장에도 하방 압력을 가할 수 있기 때문입니다.",
-      "key_signal": "미 중간선거 개표 결과에서 민주당의 상원 및 하원 다수당 확보 여부, 그리고 시장의 초기 반응을 면밀히 주시해야 합니다.",
-      "keywords": [
-        "미중간선거",
-        "블루웨이브",
-        "증시변동성",
-        "정책변화",
-        "투자심리"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1kxdzNSMm4wRVlFOXBYajBOV1VkM0pTY1Qzal9BNUxkaE1yVm1fWm5nOEJoekk4Z0ZqWmtlb3RCNTlmdFVkZ1hNZlBPN1hlVVF0Yi1rb2NSbnZJV2xWdWVrU3NoTWZQQlBUNTlGeWEyWmkzWjJ0NnpNWFJrczNLZWx5RElzaEljWFY1czIxWEhUMWxEMVhIVzFldXVBWG04?oc=5",
-      "published": "2026-11-03 22:26",
-      "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 4,
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "인베스트 코리아 서밋 개막, 역대 최대 20억 달러 투자 유치",
-      "display_title": "인베스트 코리아 서밋 개막, 역대 최대 20억 달러 투자 유치",
-      "original_title": "인베스트코리아서밋 개막…역대 최대 20억달러 투자 유치 - 연합뉴스",
+      "title": "민주당 미 의회 장악에 다우 3% 급등…반도체는 약세",
+      "display_title": "민주당 미 의회 장악에 다우 3% 급등…반도체는 약세",
+      "original_title": "[오늘의 이슈]민주당 미 의회 장악에 다우 3% 급등…반도체는 약세 - 센트럴경제",
       "summary": [
-        "인베스트 코리아 서밋이 개막하며 역대 최대 규모인 20억 달러(약 2조 7천억 원)의 외국인 투자를 유치하는 데 성공했습니다.",
-        "외국인 직접 투자 유치는 국내 경제 활성화와 고용 창출에 기여하며, 한국의 투자 매력을 높이는 긍정적인 신호로 해석됩니다.",
-        "유치된 투자금이 특정 산업군이나 기업에 집중될 경우 해당 분야의 성장 동력이 될 수 있으므로, 어떤 분야에 투자가 이루어졌는지 주목해야 합니다."
+        "미국 중간선거에서 민주당이 의회를 장악하며 다우존스 지수는 3% 급등했으나, 반도체 관련주는 오히려 약세를 보였다.",
+        "전반적인 증시 강세 속에서도 특정 업종인 반도체는 다른 외부 요인이나 정책적 불확실성으로 인해 하방 압력을 받은 것으로 풀이된다.",
+        "미국 시장의 전반적인 상승세와 별개로, 국내 비중이 높은 반도체 섹터의 약세는 국내 증시에 부담으로 작용할 수 있으므로 주의 깊은 관찰이 필요하다."
       ],
-      "summary_text": "인베스트 코리아 서밋이 개막하며 역대 최대 규모인 20억 달러(약 2조 7천억 원)의 외국인 투자를 유치하는 데 성공했습니다. 외국인 직접 투자 유치는 국내 경제 활성화와 고용 창출에 기여하며, 한국의 투자 매력을 높이는 긍정적인 신호로 해석됩니다. 유치된 투자금이 특정 산업군이나 기업에 집중될 경우 해당 분야의 성장 동력이 될 수 있으므로, 어떤 분야에 투자가 이루어졌는지 주목해야 합니다.",
-      "description": "인베스트 코리아 서밋이 개막하여 역대 최대 규모인 20억 달러의 외국인 투자를 유치했습니다.",
-      "category": "국내 거시경제",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "투자, 외국인투자, 산업 전반",
+      "summary_text": "미국 중간선거에서 민주당이 의회를 장악하며 다우존스 지수는 3% 급등했으나, 반도체 관련주는 오히려 약세를 보였다. 전반적인 증시 강세 속에서도 특정 업종인 반도체는 다른 외부 요인이나 정책적 불확실성으로 인해 하방 압력을 받은 것으로 풀이된다. 미국 시장의 전반적인 상승세와 별개로, 국내 비중이 높은 반도체 섹터의 약세는 국내 증시에 부담으로 작용할 수 있으므로 주의 깊은 관찰이 필요하다.",
+      "description": "민주당이 미국 의회를 장악하면서 다우 지수가 3% 급등했지만, 반도체 관련주는 약세를 보였습니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "대규모 외국인 투자 유치는 국내 경제 성장 동력 확충 및 특정 산업 분야의 발전 기회로 이어질 수 있기 때문입니다.",
-      "key_signal": "유치된 20억 달러의 외국인 투자가 어떤 산업 분야 또는 기업에 집중될 것인지 구체적인 내용을 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "미국 증시 강세에도 불구하고 반도체 업종이 약세를 보인 것은 국내 증시에 큰 영향을 미칠 수 있는 중요한 지표이다.",
+      "key_signal": "미국 내 반도체 약세의 구체적인 원인을 파악하고, 이것이 국내 반도체 기업들에 미칠 영향을 분석해야 한다.",
       "keywords": [
-        "인베스트코리아",
-        "외국인투자",
-        "투자유치",
-        "경제활성화",
-        "산업성장"
+        "민주당",
+        "다우존스",
+        "반도체 약세",
+        "미국 증시",
+        "업종별 차별화"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yVVNKOGVlazNIQmp5aWtubmhpSENaSVpic2FWU1c1ODRGTVBwMHpNUnVvR3AwSUpNQjVoaURRNERXQjBYeWNqS3ZEd2NQNnRWaWJ1ZFZXMzl6WFpXTE9xetIBYEFVX3lxTE9yVVNKOGVlazNIQmp5aWtubmhpSENaSVpic2FWU1c1ODRGTVBwMHpNUnVvR3AwSUpNQjVoaURRNERXQjBYeWNqS3ZEd2NQNnRWaWJ1ZFZXMzl6WFpXTE9xeg?oc=5",
-      "published": "2026-11-04 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VQVAwZnB0MmEwVzk5SG9XVWdsam5vbFBILUMxOEFCQkFYZnhKaktjMHpRdERZcExhampwMlFRVy1XOFd3TC1CNlpiQy1zdEhrUkwyY0RuQmVTX053NnUwdWZibE9GY1nSAWpBVV95cUxOS1U2QjhNWkh0eVJVRnhYV3ljTWoyOTc1MUczNjN1Z29fOU5TN0dETEVoQWdzcXQwd3daQThHQ3lrNjJzY3VnSGpsZGc2ZFlKR1lWQ3JMcGJ3MEFlSlgxUmVUZGtxSTJqbHpn?oc=5",
+      "published": "2026-11-05 07:28",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -192,43 +149,84 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "미 중간선거 결과 대기 속 미 국채 및 유럽 국채 금리 상승",
-      "display_title": "미 중간선거 결과 대기 속 미 국채 및 유럽 국채 금리 상승",
-      "original_title": "Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results - WSJ",
+      "title": "10월 글로벌 ETF 수익률에 부담을 준 반도체 및 메모리 주식",
+      "display_title": "10월 글로벌 ETF 수익률에 부담을 준 반도체 및 메모리 주식",
+      "original_title": "Semiconductor and Memory Stocks Weigh on ETF Returns Globally in October - Morningstar",
       "summary": [
-        "미국 중간선거 결과 발표를 앞두고 시장 불확실성이 커지면서 미국 국채 및 유럽 국채 금리가 동반 상승했습니다.",
-        "금리 상승은 일반적으로 투자자들이 안전 자산을 선호하거나, 미래 인플레이션 기대감 또는 통화 정책 변화 가능성을 반영할 때 나타납니다.",
-        "채권 금리 상승은 주식 시장에 부담으로 작용할 수 있으며, 중간선거 결과에 따라 시장의 금리 전망이 달라질 수 있으므로 주시해야 합니다."
+        "10월 한 달간 글로벌 ETF 수익률이 반도체 및 메모리 관련 주식의 약세로 인해 부정적인 영향을 받았다.",
+        "전 세계적인 경기 둔화 우려와 반도체 업황의 불확실성이 지속되면서 주요 반도체 기업들의 실적 전망이 약화된 것으로 보인다.",
+        "국내 증시의 핵심 산업인 반도체 섹터의 글로벌 약세는 국내 투자자들에게 중요한 경고 신호이며, 신중한 접근이 필요하다."
       ],
-      "summary_text": "미국 중간선거 결과 발표를 앞두고 시장 불확실성이 커지면서 미국 국채 및 유럽 국채 금리가 동반 상승했습니다. 금리 상승은 일반적으로 투자자들이 안전 자산을 선호하거나, 미래 인플레이션 기대감 또는 통화 정책 변화 가능성을 반영할 때 나타납니다. 채권 금리 상승은 주식 시장에 부담으로 작용할 수 있으며, 중간선거 결과에 따라 시장의 금리 전망이 달라질 수 있으므로 주시해야 합니다.",
-      "description": "시장이 미국 중간선거 결과를 기다리는 가운데, 미국 국채와 유럽 국채 금리가 상승했습니다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "10월 한 달간 글로벌 ETF 수익률이 반도체 및 메모리 관련 주식의 약세로 인해 부정적인 영향을 받았다. 전 세계적인 경기 둔화 우려와 반도체 업황의 불확실성이 지속되면서 주요 반도체 기업들의 실적 전망이 약화된 것으로 보인다. 국내 증시의 핵심 산업인 반도체 섹터의 글로벌 약세는 국내 투자자들에게 중요한 경고 신호이며, 신중한 접근이 필요하다.",
+      "description": "10월 한 달 동안 전 세계적으로 반도체 및 메모리 주식들이 ETF 수익률에 하방 압력을 가했습니다.",
+      "category": "기업·산업",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "채권, 증권, 금융",
+      "related_sector": "반도체, 메모리 반도체",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "채권 금리 상승은 주식 시장의 매력도를 상대적으로 낮추고, 기업의 자금 조달 비용을 증가시켜 전반적인 투자심리에 부정적 영향을 줄 수 있기 때문입니다.",
-      "key_signal": "미 중간선거 결과에 따른 국채 금리 변동성 확대 여부와 중앙은행의 향후 통화 정책 스탠스 변화 가능성을 확인해야 합니다.",
+      "investment_reason": "글로벌 반도체 시장의 약세는 국내 경제와 증시에 지대한 영향을 미치므로, 관련 기업들의 실적 전망과 투자 심리 변화에 유의해야 한다.",
+      "key_signal": "반도체 업황의 바닥 확인 시점과 주요 기업들의 실적 발표를 통해 회복 가능성을 면밀히 탐색해야 한다.",
       "keywords": [
-        "국채금리",
-        "유럽국채",
-        "미중간선거",
-        "시장불확실성",
-        "통화정책"
+        "반도체",
+        "메모리 주식",
+        "글로벌 ETF",
+        "업황 둔화",
+        "실적 부진"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUFIeDZYYmVzNlpvem1wamJOSFE3dlhxdnYzandzUUhNVXd4TnBoZ3RTekUxY1NOUDEzQmt4cnZCUTVsSTNhSHhjbkZGWmUtTU1yY3Z3cnVxdWR2a2NnaXdEOVlIeEEzeUZ6VTJPTzdRRGtFSW5GUklpLW5zRHZqS0pVdnYxRGktV0ZLM2tPQ2o2STgxcGtqZzQ0Zm9wdFZCZWdrV081b3l6SHNzN0hkTWNSVQ?oc=5",
-      "published": "2026-11-04 04:53",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmpGMlBDQVFKQi0yVGZPbFNGcDlHdmhDUFB3RER3QTJjd3ZjREVPOU5qSW5QWjJoNEhrOXVSVnJfd2o4dVJJRVFxTG9YSmJQZmwzWGxMNlFLZWROZzRjWGRPQloydzR1OXdIT3RfNy04eFdGWDJOYmhxQ1VlNVZfSlNPXzM3LXhwbmNOVUc4NkhsLVpYNElJT0lxR3k?oc=5",
+      "published": "2026-11-05 03:45",
       "quality": {
         "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 5,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "미국 선거 종료…국내 증시, 정책 수혜·실적 장세로 급속 전환",
+      "display_title": "미국 선거 종료…국내 증시, 정책 수혜·실적 장세로 급속 전환",
+      "original_title": "美 선거 종료…국내 증시, 정책 수혜·실적 장세로 급속 전환 - 뉴시스",
+      "summary": [
+        "미국 선거 결과 이후 국내 증시가 정책 수혜주와 기업 실적에 집중하는 장세로 전환될 것이라는 전망이 나왔다.",
+        "미국 선거로 인한 불확실성이 해소되면서 시장의 관심이 국내 정책 변화와 기업의 펀더멘털로 이동할 가능성을 시사한다.",
+        "국내 증시의 방향성이 실적과 정책 기대감에 따라 움직일 수 있으므로, 관련 기업 및 산업에 대한 선별적 투자가 유효할 수 있다."
+      ],
+      "summary_text": "미국 선거 결과 이후 국내 증시가 정책 수혜주와 기업 실적에 집중하는 장세로 전환될 것이라는 전망이 나왔다. 미국 선거로 인한 불확실성이 해소되면서 시장의 관심이 국내 정책 변화와 기업의 펀더멘털로 이동할 가능성을 시사한다. 국내 증시의 방향성이 실적과 정책 기대감에 따라 움직일 수 있으므로, 관련 기업 및 산업에 대한 선별적 투자가 유효할 수 있다.",
+      "description": "미국 선거가 종료됨에 따라 국내 증시는 정책 수혜와 기업 실적 중심의 장세로 빠르게 전환될 것으로 예상됩니다.",
+      "category": "기업·산업",
+      "importance": 8,
+      "market_impact": "중립",
+      "related_sector": "정책 수혜주, 실적 우량주",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "관심",
+      "investment_reason": "미국 선거 이후 국내 증시의 투자 테마가 변화할 수 있으므로, 새로운 시장의 주도주를 발굴하는 데 중요한 정보이다.",
+      "key_signal": "정책 수혜가 예상되는 분야와 견고한 실적을 발표할 기업들을 중심으로 포트폴리오를 점검해야 한다.",
+      "keywords": [
+        "국내 증시",
+        "정책 수혜",
+        "실적 장세",
+        "미국 선거",
+        "투자 테마"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pdGJScXE2anotVTc0YXhOWnNSOHhjb2UtZmJrWHFicVNwN0dMRE9PeGtSZWFZUllRQ0gxZEVPMk9kVW1fbHNJVEszUGFtWXdnWS1hcVJWQ2tRUFhEaFl4NUgzS1VEOU50R3lTNmJDUWk3djFyY1Z4LdIBeEFVX3lxTE9pdGJScXE2anotVTc0YXhOWnNSOHhjb2UtZmJrWHFicVNwN0dMRE9PeGtSZWFZUllRQ0gxZEVPMk9kVW1fbHNJVEszUGFtWXdnWS1hcVJWQ2tRUFhEaFl4NUgzS1VEOU50R3lTNmJDUWk3djFyY1Z4LQ?oc=5",
+      "published": "2026-11-05 08:26",
+      "quality": {
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -238,37 +236,35 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "중간선거 이후 월스트리트: 주목해야 할 핵심 지표들",
-      "display_title": "중간선거 이후 월스트리트: 주목해야 할 핵심 지표들",
-      "original_title": "Wall Street the Day After: Which Indicators to Watch Closely After the Midterms - El Cronista",
+      "title": "오늘 주식 시장: 민주당 의회 장악으로 다우존스, S&P 500, 나스닥 100 선물 상승 - AMD, AMGN, NVO 주목",
+      "display_title": "오늘 주식 시장: 민주당 의회 장악으로 다우존스, S&P 500, 나스닥 100 선물 상승 - AMD, AMGN, NVO 주목",
+      "original_title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise as Democrats Take Control of Congress—AMD, AMGN, NVO in Focus (UPDATED) - TradingView",
       "summary": [
-        "미국 중간선거 이후 월스트리트가 주목해야 할 핵심 경제 지표들에 대한 가이드라인이 제시되었습니다.",
-        "중간선거 결과는 향후 정부의 정책 방향과 경기 부양책 등에 영향을 미치므로, 시장은 관련 지표들을 통해 그 효과를 가늠하려 할 것입니다.",
-        "선거 후 시장의 반응을 예측하고 투자 전략을 수립하기 위해 GDP 성장률, 인플레이션 지표, 금리 동향 등 주요 거시경제 지표들을 지속적으로 모니터링해야 합니다."
+        "민주당이 의회를 장악한 후 미국 주요 지수 선물(다우존스, S&P 500, 나스닥 100)이 상승했으며, AMD, AMGN, NVO 등 일부 종목들이 주목받았다.",
+        "민주당의 승리가 시장에 긍정적으로 해석되어 기술주와 헬스케어 등 특정 섹터에 대한 기대감을 높인 것으로 보인다.",
+        "미국 증시의 전반적인 상승세와 함께 특정 성장주 및 헬스케어 관련주의 강세를 확인하고, 이들이 국내 시장에 미칠 영향을 고려해야 한다."
       ],
-      "summary_text": "미국 중간선거 이후 월스트리트가 주목해야 할 핵심 경제 지표들에 대한 가이드라인이 제시되었습니다. 중간선거 결과는 향후 정부의 정책 방향과 경기 부양책 등에 영향을 미치므로, 시장은 관련 지표들을 통해 그 효과를 가늠하려 할 것입니다. 선거 후 시장의 반응을 예측하고 투자 전략을 수립하기 위해 GDP 성장률, 인플레이션 지표, 금리 동향 등 주요 거시경제 지표들을 지속적으로 모니터링해야 합니다.",
-      "description": "미국 중간선거 이후 월스트리트에서 면밀히 관찰해야 할 주요 경제 지표들에 대한 분석입니다.",
+      "summary_text": "민주당이 의회를 장악한 후 미국 주요 지수 선물(다우존스, S&P 500, 나스닥 100)이 상승했으며, AMD, AMGN, NVO 등 일부 종목들이 주목받았다. 민주당의 승리가 시장에 긍정적으로 해석되어 기술주와 헬스케어 등 특정 섹터에 대한 기대감을 높인 것으로 보인다. 미국 증시의 전반적인 상승세와 함께 특정 성장주 및 헬스케어 관련주의 강세를 확인하고, 이들이 국내 시장에 미칠 영향을 고려해야 한다.",
+      "description": "오늘 주식 시장에서 민주당이 의회를 장악한 후 다우존스, S&P 500, 나스닥 100 선물 지수가 상승했으며, AMD, AMGN, NVO와 같은 종목들이 주목받고 있습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "증권, 금융, 거시경제",
+      "market_impact": "긍정",
+      "related_sector": "기술주, 헬스케어, 반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "AMD"
       ],
       "investment_view": "관심",
-      "investment_reason": "중간선거 이후 미국 경제 지표의 변화는 글로벌 경제 및 국내 증시의 방향성을 예측하는 데 중요한 단서가 되기 때문입니다.",
-      "key_signal": "중간선거 결과 발표 후 미국 연준의 통화 정책 스탠스 변화 가능성과 이에 따른 주식, 채권, 환율 시장의 초기 반응을 확인해야 합니다.",
+      "investment_reason": "미국 증시의 상승세를 이끄는 주요 섹터와 종목을 파악하여 국내 관련주 투자 아이디어를 얻을 수 있다.",
+      "key_signal": "미국 기술주 및 성장주 강세가 지속될지, 그리고 국내 기술주에 대한 투자 심리 개선으로 이어질지 지켜봐야 한다.",
       "keywords": [
-        "미중간선거",
-        "월스트리트",
-        "경제지표",
-        "시장전망",
-        "정책효과"
+        "민주당 승리",
+        "다우존스",
+        "나스닥",
+        "S&P 500",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0tvTmw4V0VpVkJDQk1IVWl1WEMxUDB2eEJpV3BKSlktYTVwNG45aVBTUU5ObnV0eEVSNWhIVzFTdm1kMXZGbm4zLUJUb3V0Qm9nSHNpX0xsNVQ0RUpodDFkcU9NWmhWSHB6VFpJS2V6MzBaQ3ZoZkw5Q2EzUkVFd1dEUEFjcXpubnV0YlFCVllZdEtDbktJVUxCSm9oWjFqdC1IRHdpY3kzSnloN011RnAwNlhuUQ?oc=5",
-      "published": "2026-11-04 02:16",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQREl1eVNaQ0t6S1dLNHBPaGp6OU9PdDdKZnBTcHp2TGZ2ZGEwSWVXSjJuUFlEM0lZOHFFRmhBN1htNHh3RFhqMzF4YU4wVDgxUFlBSW5ZSUhxOFdXNVBuMjFHMzJVWUxaTDFlRTYtZmp6YVJDb0tnV0hTVENLdXpPejZhUWtxQnV0SnpzSFJJTnlMYlp2azhDZWtpbS1sejROanhhTXVvWWVZeVNxenZ5UEk4OTZldVRXMEFnVUFpMkc3cklKMUI1WnljTGhQVHFSZzJIYWhqZm5tMEpwQXZXTm5kdi01dV9SLWRwNVY2dF9tTWQ2Y24zWXFDU1BFaUpvLVlNV1JPNGwydG9oTFY2dEJub1NjZw?oc=5",
+      "published": "2026-11-04 22:40",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -279,69 +275,58 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "sector": "반도체",
+      "name": "미래에셋증권",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "전반적 시장, 국내 주식 시장",
       "opinion": "주의",
-      "reason": "엔비디아 상승세로 반도체 업황 개선에 대한 기대감이 있지만, 미국 중간선거 결과에 따른 시장 변동성 확대 및 국채 금리 상승이 기업의 자금 조달 비용 증가와 투자심리에 부정적 영향을 줄 수 있기 때문입니다.",
+      "reason": "미국 증시와 상반된 국내 증시의 움직임은 투자 전략 재검토가 필요하다는 중요한 신호이다.",
       "check_points": [
-        "미 중간선거 결과가 글로벌 반도체 수요 및 증시에 미칠 영향",
-        "미 국채 금리 변동 추이",
-        "엔비디아 등 주요 반도체 기업의 주가 동향"
+        "국내 증시가 미국 증시와 디커플링되는 원인이 무엇인지, 그리고 이러한 추세가 지속될지 여부를 면밀히 분석해야 한다."
       ],
       "related_news_titles": [
-        "코스피 3.59% 급락 후 반등 시도, 엔비디아 상승 및 미 중간선거 개표가 주요 변수",
-        "미 중간선거 결과 대기 속 미 국채 및 유럽 국채 금리 상승"
+        "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내"
       ]
     },
     {
       "rank": 2,
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "sector": "반도체",
+      "name": "한국금융지주",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "전반적 시장, 국내 주식 시장",
       "opinion": "주의",
-      "reason": "삼성전자와 함께 엔비디아 강세가 긍정적 신호로 작용하고 있으나, 전반적인 시장의 불확실성과 반도체 업황 변동성에 대한 지속적인 모니터링이 필요합니다.",
+      "reason": "미국 증시와 상반된 국내 증시의 움직임은 투자 전략 재검토가 필요하다는 중요한 신호이다.",
       "check_points": [
-        "글로벌 메모리 반도체 시장의 수급 상황",
-        "주요 IT 기업들의 투자 동향 및 기술 수요 변화",
-        "미 중간선거 결과에 따른 기술주 투자 심리 변화"
+        "국내 증시가 미국 증시와 디커플링되는 원인이 무엇인지, 그리고 이러한 추세가 지속될지 여부를 면밀히 분석해야 한다."
       ],
       "related_news_titles": [
-        "코스피 3.59% 급락 후 반등 시도, 엔비디아 상승 및 미 중간선거 개표가 주요 변수"
+        "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
-      "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "중립",
-      "reason": "미국 중간선거 결과에 따른 국내 증시의 변동성 확대가 예상되나, 인베스트 코리아 서밋을 통한 역대 최대 규모의 외국인 투자 유치 소식은 증권업계에 긍정적인 영향을 미칠 수 있어 양방향 요인에 주목해야 합니다.",
+      "name": "NH투자증권",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "전반적 시장, 국내 주식 시장",
+      "opinion": "주의",
+      "reason": "미국 증시와 상반된 국내 증시의 움직임은 투자 전략 재검토가 필요하다는 중요한 신호이다.",
       "check_points": [
-        "미 중간선거 결과가 국내 증권 시장에 미칠 구체적인 영향",
-        "외국인 투자 유치의 실제 집행 및 산업 전반에 미치는 파급 효과",
-        "금융 시장의 전반적인 변동성과 투자 심리 변화"
+        "국내 증시가 미국 증시와 디커플링되는 원인이 무엇인지, 그리고 이러한 추세가 지속될지 여부를 면밀히 분석해야 한다."
       ],
       "related_news_titles": [
-        "오늘의 이슈: 미국 중간선거 개표 시작, 상원 결과는 오후에 윤곽 드러낼 듯",
-        "미 중간선거: 야데니는 '블루 웨이브'가 증시에 냉수 끼얹을 수 있다고 경고, UBS는 단기 변동성 예상",
-        "인베스트 코리아 서밋 개막, 역대 최대 20억 달러 투자 유치"
+        "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내"
       ]
     },
     {
       "rank": 4,
-      "name": "카카오",
-      "market": "KOSPI",
-      "sector": "IT서비스",
-      "opinion": "주의",
-      "reason": "미국 및 유럽 국채 금리 상승은 성장주의 매력도를 상대적으로 낮추고 기업의 자금 조달 비용을 증가시켜, 플랫폼 기업인 카카오에 대한 투자 심리에 부정적인 영향을 줄 수 있기 때문입니다.",
+      "name": "SK이노베이션",
+      "market": "KOSPI/KOSDAQ",
+      "sector": "전반적 시장, 에너지",
+      "opinion": "관심",
+      "reason": "미국 중간선거 결과에 따른 글로벌 시장의 즉각적인 반응은 국내 투자 전략 수립에 중요한 기준이 된다.",
       "check_points": [
-        "글로벌 국채 금리 변동 추이 및 금융 시장의 반응",
-        "국내 IT 플랫폼 기업에 대한 전반적인 투자 심리 변화",
-        "금리 인상 사이클의 지속 여부 및 거시 경제 환경 변화"
+        "미국 증시의 상승 동력이 지속될지, 그리고 국내 증시에 어떤 식으로 반영될지 오늘 장 흐름을 체크해야 한다."
       ],
       "related_news_titles": [
-        "미 중간선거 결과 대기 속 미 국채 및 유럽 국채 금리 상승"
+        "오늘 주식 시장: 민주당 의회 압승과 유가 급락으로 다우 1,500포인트 이상 폭등, 금 3.30% 상승"
       ]
     }
   ],
