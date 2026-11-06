@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05 11:01",
-  "analysis_date": "2026-11-05",
+  "generated_at": "2026-11-06 11:00",
+  "analysis_date": "2026-11-06",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "오늘 시장은 거시 변수와 금리, 정책 변화, 기업 모멘텀이 동시에 반영되는 흐름으로 보입니다.",
-    "국내거시경제": "국내 경기와 물가, 수출 흐름은 정책 기대와 함께 업종별 차별화를 만들 수 있습니다.",
-    "글로벌경제": "미국 금리와 글로벌 경기, 지정학 변수는 국내 증시의 방향성에 계속 영향을 줄 가능성이 큽니다.",
-    "증시금리": "금리와 환율 흐름은 성장주와 금융주, 수출주 밸류에이션에 직접적인 변수입니다.",
+    "총평": "글로벌 기술주와 반도체 섹터의 급락이 전 세계 증시를 강타하며 위험 회피 심리가 고조, 안전자산 선호 현상이 뚜렷합니다.",
+    "국내거시경제": "국내 증시 하락세와 동반하여 원/달러 환율이 상승하고 국내 금값이 급등하는 등 전반적인 시장 불안정성이 확대되고 있습니다.",
+    "글로벌경제": "뉴욕 나스닥과 반도체 지수가 큰 폭으로 폭락했으며, 이에 대한 반작용으로 금과 미국 국채 가격이 급등했습니다. 12월 금리 인상 기대감은 약화되는 양상입니다.",
+    "증시금리": "미국발 기술주 및 반도체 섹터 폭락은 국내 코스피에 강한 하방 압력을 가할 전망입니다. 삼성전자, SK하이닉스 등 주요 반도체주의 외국인 매도세에 주목해야 합니다.",
     "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
     "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
-    "오늘의투자시사점": "단기 뉴스 반응보다 금리·실적·정책과 연결되는 업종별 흐름을 우선적으로 점검하는 것이 좋겠습니다.",
-    "오늘의한줄": "오늘은 거시 변수와 업종 모멘텀을 함께 읽어야 하는 장입니다."
+    "오늘의투자시사점": "글로벌 시장의 불확실성이 증대된 만큼 투자자들은 당분간 보수적인 접근을 유지하고, 자산 포트폴리오의 안정성과 환율 변동성 위험에 대비해야 합니다.",
+    "오늘의한줄": "글로벌 기술주 폭락에 안전자산 선호 현상이 뚜렷하며 국내 증시 하방 압력 확대에 주의해야 합니다."
   },
   "top_news": [
     {
@@ -28,37 +28,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내",
-      "display_title": "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내",
-      "original_title": "[핫이슈] 미국 중간선거 이후 뉴욕 증시는 급등, 한국 증시는 급락…엇갈린 시장의 속내 - CEONEWS",
+      "title": "코스피 또 시험대: 나스닥 5.5%, 반도체 12% 폭락, 삼성전자·SK하이닉스 외국인 매도가 관건",
+      "display_title": "코스피 또 시험대: 나스닥 5.5%, 반도체 12% 폭락, 삼성전자·SK하이닉스 외국인 매도가 관건",
+      "original_title": "[국내증시 전망] 코스피 또 시험대…나스닥 5.5%·반도체 12% 폭락, 삼성전자·SK하이닉스 ‘외국인 매도’가 관건 - 톱스타뉴스",
       "summary": [
-        "미국 중간선거 이후 뉴욕 증시가 급등한 반면, 한국 증시는 급락하는 대조적인 모습을 보였다.",
-        "미국 민주당의 의회 장악이 미국 증시에는 긍정적으로 작용한 반면, 국내 증시에는 불확실성 증대 또는 다른 요인으로 작용한 것으로 추정된다.",
-        "글로벌 시장과의 동조화가 깨지는 현상에 대한 원인 분석이 필요하며, 국내 시장의 고유한 하방 압력 요인을 파악해야 한다."
+        "미국 나스닥 지수가 5.5%, 반도체 지수가 12% 폭락하면서 국내 코스피 지수가 또다시 시험대에 올랐습니다.",
+        "특히 삼성전자와 SK하이닉스 등 주요 반도체 기업에 대한 외국인 투자자들의 매도세가 국내 증시의 향방을 결정할 주요 변수로 지목되고 있습니다.",
+        "글로벌 기술주 및 반도체 섹터의 급락은 국내 증시, 특히 시가총액 비중이 큰 대형 기술주에 직접적인 하방 압력을 가할 수 있어 투자에 주의가 필요합니다."
       ],
-      "summary_text": "미국 중간선거 이후 뉴욕 증시가 급등한 반면, 한국 증시는 급락하는 대조적인 모습을 보였다. 미국 민주당의 의회 장악이 미국 증시에는 긍정적으로 작용한 반면, 국내 증시에는 불확실성 증대 또는 다른 요인으로 작용한 것으로 추정된다. 글로벌 시장과의 동조화가 깨지는 현상에 대한 원인 분석이 필요하며, 국내 시장의 고유한 하방 압력 요인을 파악해야 한다.",
-      "description": "미국 중간선거 결과 이후 뉴욕 증시는 급등했지만, 한국 증시는 급락하며 시장의 엇갈린 속마음을 보여주고 있습니다.",
+      "summary_text": "미국 나스닥 지수가 5.5%, 반도체 지수가 12% 폭락하면서 국내 코스피 지수가 또다시 시험대에 올랐습니다. 특히 삼성전자와 SK하이닉스 등 주요 반도체 기업에 대한 외국인 투자자들의 매도세가 국내 증시의 향방을 결정할 주요 변수로 지목되고 있습니다. 글로벌 기술주 및 반도체 섹터의 급락은 국내 증시, 특히 시가총액 비중이 큰 대형 기술주에 직접적인 하방 압력을 가할 수 있어 투자에 주의가 필요합니다.",
+      "description": "국내 증시 전망에서 코스피가 다시 시험대에 올랐으며, 나스닥 5.5%와 반도체 섹터 12% 폭락에 따라 삼성전자·SK하이닉스에 대한 외국인 매도세가 주요 변수로 부각됩니다.",
       "category": "증시·금리",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전반적 시장, 국내 주식 시장",
+      "related_sector": "반도체, IT",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 증시와 상반된 국내 증시의 움직임은 투자 전략 재검토가 필요하다는 중요한 신호이다.",
-      "key_signal": "국내 증시가 미국 증시와 디커플링되는 원인이 무엇인지, 그리고 이러한 추세가 지속될지 여부를 면밀히 분석해야 한다.",
+      "investment_reason": "주요 수출 산업인 반도체 섹터의 글로벌 폭락과 외국인 매도세가 국내 증시에 직접적인 하방 압력을 가하기 때문입니다.",
+      "key_signal": "외국인 투자자들의 삼성전자, SK하이닉스 매매 동향과 나스닥 및 필라델피아 반도체 지수의 움직임을 주시해야 합니다.",
       "keywords": [
-        "뉴욕 증시",
-        "한국 증시",
-        "미국 중간선거",
-        "시장 괴리",
-        "급락"
+        "코스피",
+        "나스닥",
+        "반도체",
+        "외국인매도",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRUlZNXd0RFJDUVlfSEU3UzRsamdXLXZCZ0F5SjUwUVloWFVzSUl6VWM1NEVjelJONGh5ZHZzNENkMVl6S2xISkJXMzJPRkxyM2ozS2NYZnZxR1M4cURr?oc=5",
-      "published": "2026-11-05 10:41",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeklkSEFNUEYyUU1TNlllc0Z2RkhOeVAwZlRibW4tdVB5LXhaMjhTR1R3NUN0NThqOWFDRUtucnJOS0V4enFsMlZBOEN1ZW5oclJ2UEw5V3VsN2ZBOXJ2Ynl3bnd4cFg3bWdxOG5DRXpJZw?oc=5",
+      "published": "2026-11-06 07:55",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -70,37 +69,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 주식 시장: 민주당 의회 압승과 유가 급락으로 다우 1,500포인트 이상 폭등, 금 3.30% 상승",
-      "display_title": "오늘 주식 시장: 민주당 의회 압승과 유가 급락으로 다우 1,500포인트 이상 폭등, 금 3.30% 상승",
-      "original_title": "Stock Market Today: Dow Surges Over 1,500 Points as Democrats Sweep Congress and Oil Plunges, Gold Gains +3.30% - Eurasia Business News",
+      "title": "나스닥 100 지수 폭락 및 12월 금리 인상 기대 약화에 금값 4,100달러 돌파 랠리",
+      "display_title": "나스닥 100 지수 폭락 및 12월 금리 인상 기대 약화에 금값 4,100달러 돌파 랠리",
+      "original_title": "Gold rallies above $4,100 as NASDAQ 100 crashes, December hike bets fade - FXStreet",
       "summary": [
-        "미국 중간선거에서 민주당이 의회를 장악하며 다우존스 지수가 1,500포인트 이상 급등하고 금 가격이 3.30% 상승했다.",
-        "민주당의 의회 장악은 시장에 긍정적인 신호로 해석되며 유가 급락과 함께 위험자산 선호 심리를 자극했다.",
-        "미국 시장의 강력한 상승세는 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있으나, 국내 시장에 미칠 파급 효과를 주시해야 한다."
+        "나스닥 100 지수가 급락하자 안전자산인 금값이 온스당 4,100달러를 돌파하며 강력한 랠리를 펼쳤습니다.",
+        "동시에 12월 연방준비제도(Fed)의 금리 인상 가능성에 대한 기대감이 약화된 것으로 나타났습니다.",
+        "이는 시장의 강한 위험 회피 심리와 함께 통화 긴축 속도 조절에 대한 기대가 커지고 있음을 시사하며, 향후 시장의 변동성 확대에 대비한 투자 전략이 필요합니다."
       ],
-      "summary_text": "미국 중간선거에서 민주당이 의회를 장악하며 다우존스 지수가 1,500포인트 이상 급등하고 금 가격이 3.30% 상승했다. 민주당의 의회 장악은 시장에 긍정적인 신호로 해석되며 유가 급락과 함께 위험자산 선호 심리를 자극했다. 미국 시장의 강력한 상승세는 글로벌 투자 심리에 긍정적인 영향을 미칠 수 있으나, 국내 시장에 미칠 파급 효과를 주시해야 한다.",
-      "description": "오늘 주식 시장에서는 민주당이 의회를 장악하고 유가가 급락하면서 다우 지수가 1,500포인트 이상 폭등했으며, 금 가격은 3.30% 상승했습니다.",
-      "category": "증시·금리",
+      "summary_text": "나스닥 100 지수가 급락하자 안전자산인 금값이 온스당 4,100달러를 돌파하며 강력한 랠리를 펼쳤습니다. 동시에 12월 연방준비제도(Fed)의 금리 인상 가능성에 대한 기대감이 약화된 것으로 나타났습니다. 이는 시장의 강한 위험 회피 심리와 함께 통화 긴축 속도 조절에 대한 기대가 커지고 있음을 시사하며, 향후 시장의 변동성 확대에 대비한 투자 전략이 필요합니다.",
+      "description": "나스닥 100 지수가 폭락하고 12월 금리 인상 베팅이 약화되면서 금값이 4,100달러를 넘어 상승했습니다.",
+      "category": "글로벌 경제",
       "importance": 9,
-      "market_impact": "긍정",
-      "related_sector": "전반적 시장, 에너지",
+      "market_impact": "부정",
+      "related_sector": "금, 안전자산",
       "related_stocks": [
-        "SK이노베이션",
-        "S-Oil",
-        "한국전력"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 중간선거 결과에 따른 글로벌 시장의 즉각적인 반응은 국내 투자 전략 수립에 중요한 기준이 된다.",
-      "key_signal": "미국 증시의 상승 동력이 지속될지, 그리고 국내 증시에 어떤 식으로 반영될지 오늘 장 흐름을 체크해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "나스닥 급락과 함께 안전자산인 금값이 폭등하고 12월 금리 인상 기대가 약화되는 것은 시장의 위험 회피 심화와 통화 정책 변화 가능성을 동시에 시사합니다.",
+      "key_signal": "금 가격 추이와 함께 미국 연준의 금리 인상 스탠스 변화 여부를 지속적으로 확인해야 합니다.",
       "keywords": [
-        "민주당 승리",
-        "다우존스",
-        "유가 급락",
-        "금 가격",
-        "미국 증시"
+        "금값",
+        "나스닥",
+        "안전자산",
+        "금리인상",
+        "연준"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaHhMckwwVGJ0RGZKdHlldV83ZThJZTU0SWhwaXc3N3ZiNERQU0VaTlcyYVRPWmFjSXQwdi1HdkRXa2gwSHVnM0lqcTR4REdLNXNndE5pUXdvSks0WVRhQ3Q0bUgtS0pyamQtaEhHUGZBbXp3eEQ1UEVmVmpSZjBZT2xxY3F4REpXWU1JdGxwODJOd2dSajR4UXBoVlZXcGg0cDVJbWlvX3BQVWVqUkJpRXlXRm10emRWVzd3RTVyUllpSkxvek9iRFNhQ3ZjM01rX3M3bTlHeUcyUW9IUmFvY1hXbW0?oc=5",
-      "published": "2026-11-05 05:55",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazV5eG8zU2RRTDJoWjR2X1VDc0tWeHdQUDFMbkU1X21wRFFnQ2daZ19DQjBOWUhBWFFEeHZUT0I3ODF4cTFoQzhJR0ExNW1RcWctUEdFS2djQ0FrMHNKRW9FME9DdnFTZmRPdUl5NXFaRkVyNmdmc1dybTV1X2tXbDMzd2hlbWRyZlJFYkpVSEJUeWxlY0NIRmtpTE9BdlZjZ2p1cEpQa3RJano2dF9kd0RMYw?oc=5",
+      "published": "2026-11-06 05:23",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -112,36 +111,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "민주당 미 의회 장악에 다우 3% 급등…반도체는 약세",
-      "display_title": "민주당 미 의회 장악에 다우 3% 급등…반도체는 약세",
-      "original_title": "[오늘의 이슈]민주당 미 의회 장악에 다우 3% 급등…반도체는 약세 - 센트럴경제",
+      "title": "증시 급락에 환율 '껑충'…국내 금값 1.81% 상승",
+      "display_title": "증시 급락에 환율 '껑충'…국내 금값 1.81% 상승",
+      "original_title": "[오늘 금시세]증시 급락에 환율 ‘껑충’…국내 금값 1.81% ↑ - 남도일보",
       "summary": [
-        "미국 중간선거에서 민주당이 의회를 장악하며 다우존스 지수는 3% 급등했으나, 반도체 관련주는 오히려 약세를 보였다.",
-        "전반적인 증시 강세 속에서도 특정 업종인 반도체는 다른 외부 요인이나 정책적 불확실성으로 인해 하방 압력을 받은 것으로 풀이된다.",
-        "미국 시장의 전반적인 상승세와 별개로, 국내 비중이 높은 반도체 섹터의 약세는 국내 증시에 부담으로 작용할 수 있으므로 주의 깊은 관찰이 필요하다."
+        "국내 증시가 급락하면서 원/달러 환율이 크게 상승(원화 가치 하락)하고 국내 금 시세가 1.81% 급등했습니다.",
+        "이는 글로벌 시장의 위험 회피 심리가 국내로 확산되고 있음을 보여주며, 투자 자금의 이탈 가능성과 안전자산 선호 심리를 동시에 나타냅니다.",
+        "증시 하락, 환율 상승, 금값 상승은 복합적인 시장 불안정 신호이므로, 투자자들은 자산 포트폴리오의 안정성과 환율 변동 위험에 대비해야 합니다."
       ],
-      "summary_text": "미국 중간선거에서 민주당이 의회를 장악하며 다우존스 지수는 3% 급등했으나, 반도체 관련주는 오히려 약세를 보였다. 전반적인 증시 강세 속에서도 특정 업종인 반도체는 다른 외부 요인이나 정책적 불확실성으로 인해 하방 압력을 받은 것으로 풀이된다. 미국 시장의 전반적인 상승세와 별개로, 국내 비중이 높은 반도체 섹터의 약세는 국내 증시에 부담으로 작용할 수 있으므로 주의 깊은 관찰이 필요하다.",
-      "description": "민주당이 미국 의회를 장악하면서 다우 지수가 3% 급등했지만, 반도체 관련주는 약세를 보였습니다.",
-      "category": "증시·금리",
+      "summary_text": "국내 증시가 급락하면서 원/달러 환율이 크게 상승(원화 가치 하락)하고 국내 금 시세가 1.81% 급등했습니다. 이는 글로벌 시장의 위험 회피 심리가 국내로 확산되고 있음을 보여주며, 투자 자금의 이탈 가능성과 안전자산 선호 심리를 동시에 나타냅니다. 증시 하락, 환율 상승, 금값 상승은 복합적인 시장 불안정 신호이므로, 투자자들은 자산 포트폴리오의 안정성과 환율 변동 위험에 대비해야 합니다.",
+      "description": "증시 급락과 함께 환율이 크게 오르면서 국내 금값이 1.81% 상승했습니다.",
+      "category": "국내 거시경제",
       "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체",
+      "market_impact": "부정",
+      "related_sector": "금, 외환",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 증시 강세에도 불구하고 반도체 업종이 약세를 보인 것은 국내 증시에 큰 영향을 미칠 수 있는 중요한 지표이다.",
-      "key_signal": "미국 내 반도체 약세의 구체적인 원인을 파악하고, 이것이 국내 반도체 기업들에 미칠 영향을 분석해야 한다.",
+      "investment_reason": "증시 급락과 환율 상승, 국내 금값 급등은 전반적인 시장 불안정과 자본 유출 가능성을 시사하므로 국내 투자 환경을 파악하는 데 중요합니다.",
+      "key_signal": "코스피 지수, 원/달러 환율, 국내 금 시세의 변화를 종합적으로 모니터링하여 시장의 위험 회피 심리를 판단해야 합니다.",
       "keywords": [
-        "민주당",
-        "다우존스",
-        "반도체 약세",
-        "미국 증시",
-        "업종별 차별화"
+        "국내증시",
+        "금값",
+        "환율",
+        "안전자산",
+        "시장불안"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VQVAwZnB0MmEwVzk5SG9XVWdsam5vbFBILUMxOEFCQkFYZnhKaktjMHpRdERZcExhampwMlFRVy1XOFd3TC1CNlpiQy1zdEhrUkwyY0RuQmVTX053NnUwdWZibE9GY1nSAWpBVV95cUxOS1U2QjhNWkh0eVJVRnhYV3ljTWoyOTc1MUczNjN1Z29fOU5TN0dETEVoQWdzcXQwd3daQThHQ3lrNjJzY3VnSGpsZGc2ZFlKR1lWQ3JMcGJ3MEFlSlgxUmVUZGtxSTJqbHpn?oc=5",
-      "published": "2026-11-05 07:28",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RblhfYnYtVFVSc204M1VjN0pMenhXSUJRVVkzdmZVRzN4WEUwUi1HemtsQVRUbm5OLW9OQ1VDTWVtREdTSGcyZUwwdnlwNkxJWk1VbUFaN0RHX0Jub2QyektueUlTTjRKVGdvM9IBcEFVX3lxTE5UcTdUVUFfcExKa2tWRTd0UEYydHFWNG94VTBrd0xIYzdxU0RQZTRJTWI5RHI5Y0xzaFlmUFJpMFVFc2RhcXljeFFJd2FNekRpMms1TU1SMjhvaTVKMkgzRTBpeFlNVWQ5X3d5Nm5Ld2I?oc=5",
+      "published": "2026-11-06 09:13",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -150,83 +150,79 @@
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "10월 글로벌 ETF 수익률에 부담을 준 반도체 및 메모리 주식",
-      "display_title": "10월 글로벌 ETF 수익률에 부담을 준 반도체 및 메모리 주식",
-      "original_title": "Semiconductor and Memory Stocks Weigh on ETF Returns Globally in October - Morningstar",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "뉴욕 반도체 폭락으로 코스피 추가 하락 압력",
+      "display_title": "뉴욕 반도체 폭락으로 코스피 추가 하락 압력",
+      "original_title": "[오늘의 이슈] 뉴욕 반도체 폭락에 코스피 추가 하락 압력 - 센트럴경제",
       "summary": [
-        "10월 한 달간 글로벌 ETF 수익률이 반도체 및 메모리 관련 주식의 약세로 인해 부정적인 영향을 받았다.",
-        "전 세계적인 경기 둔화 우려와 반도체 업황의 불확실성이 지속되면서 주요 반도체 기업들의 실적 전망이 약화된 것으로 보인다.",
-        "국내 증시의 핵심 산업인 반도체 섹터의 글로벌 약세는 국내 투자자들에게 중요한 경고 신호이며, 신중한 접근이 필요하다."
+        "미국 뉴욕 증시의 반도체 지수 폭락이 국내 코스피 지수에 추가적인 하락 압력으로 작용할 전망입니다.",
+        "이는 글로벌 반도체 시장의 불안정성이 국내 대표 산업인 반도체 섹터와 연동되어 국내 증시 전반의 투자 심리를 위축시키고 있음을 보여줍니다.",
+        "코스피 주요 종목인 삼성전자와 SK하이닉스 등 반도체 대형주들의 주가 흐름과 필라델피아 반도체 지수의 향방이 국내 증시의 단기 방향을 결정할 핵심 지표가 될 것입니다."
       ],
-      "summary_text": "10월 한 달간 글로벌 ETF 수익률이 반도체 및 메모리 관련 주식의 약세로 인해 부정적인 영향을 받았다. 전 세계적인 경기 둔화 우려와 반도체 업황의 불확실성이 지속되면서 주요 반도체 기업들의 실적 전망이 약화된 것으로 보인다. 국내 증시의 핵심 산업인 반도체 섹터의 글로벌 약세는 국내 투자자들에게 중요한 경고 신호이며, 신중한 접근이 필요하다.",
-      "description": "10월 한 달 동안 전 세계적으로 반도체 및 메모리 주식들이 ETF 수익률에 하방 압력을 가했습니다.",
-      "category": "기업·산업",
+      "summary_text": "미국 뉴욕 증시의 반도체 지수 폭락이 국내 코스피 지수에 추가적인 하락 압력으로 작용할 전망입니다. 이는 글로벌 반도체 시장의 불안정성이 국내 대표 산업인 반도체 섹터와 연동되어 국내 증시 전반의 투자 심리를 위축시키고 있음을 보여줍니다. 코스피 주요 종목인 삼성전자와 SK하이닉스 등 반도체 대형주들의 주가 흐름과 필라델피아 반도체 지수의 향방이 국내 증시의 단기 방향을 결정할 핵심 지표가 될 것입니다.",
+      "description": "오늘의 주요 이슈는 뉴욕 반도체 지수의 폭락으로 인해 국내 코스피 지수가 추가 하락 압력을 받고 있다는 것입니다.",
+      "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "반도체, 메모리 반도체",
+      "related_sector": "반도체, IT",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "글로벌 반도체 시장의 약세는 국내 경제와 증시에 지대한 영향을 미치므로, 관련 기업들의 실적 전망과 투자 심리 변화에 유의해야 한다.",
-      "key_signal": "반도체 업황의 바닥 확인 시점과 주요 기업들의 실적 발표를 통해 회복 가능성을 면밀히 탐색해야 한다.",
+      "investment_reason": "뉴욕 반도체 지수 폭락이 국내 증시의 추가 하락 압력으로 작용하는 만큼, 글로벌 반도체 시장의 상황이 국내 투자에 미치는 영향을 주시해야 합니다.",
+      "key_signal": "필라델피아 반도체 지수와 국내 반도체 대형주들의 주가 움직임을 면밀히 추적하여 KOSPI의 향방을 가늠해야 합니다.",
       "keywords": [
+        "코스피",
         "반도체",
-        "메모리 주식",
-        "글로벌 ETF",
-        "업황 둔화",
-        "실적 부진"
+        "뉴욕증시",
+        "하락압력",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmpGMlBDQVFKQi0yVGZPbFNGcDlHdmhDUFB3RER3QTJjd3ZjREVPOU5qSW5QWjJoNEhrOXVSVnJfd2o4dVJJRVFxTG9YSmJQZmwzWGxMNlFLZWROZzRjWGRPQloydzR1OXdIT3RfNy04eFdGWDJOYmhxQ1VlNVZfSlNPXzM3LXhwbmNOVUc4NkhsLVpYNElJT0lxR3k?oc=5",
-      "published": "2026-11-05 03:45",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxclQ3b3J0MjE5R21LWGgtVXNBUVJvNnVXcFU4RnpkdjVMU2hHaGxrTWRCTXZ6X3dhMG5TNGViYXFHeGJBRlA5ME1hck4xcVJNWGJhV1pLR0VoOThqQzhFQm1xT0txcDDSAWpBVV95cUxQNTQ5dlN3UnBNZmt0b09YdXBkaTg3b3lTaUpkS3U0RlRhaUJ0dmZvMG1YT1YyN2VZdUJlYk14VlgwMGJ0XzByc1dyRUFYR2xhZ2YxYkRyLVB5YkpYMkRsQlFqd0RPQTZWNndB?oc=5",
+      "published": "2026-11-06 07:33",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "미국 선거 종료…국내 증시, 정책 수혜·실적 장세로 급속 전환",
-      "display_title": "미국 선거 종료…국내 증시, 정책 수혜·실적 장세로 급속 전환",
-      "original_title": "美 선거 종료…국내 증시, 정책 수혜·실적 장세로 급속 전환 - 뉴시스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "거래일: 11월 5일 시장 대폭락",
+      "display_title": "거래일: 11월 5일 시장 대폭락",
+      "original_title": "Trading Day: A November 5 market bonfire - Global Banking & Finance Review",
       "summary": [
-        "미국 선거 결과 이후 국내 증시가 정책 수혜주와 기업 실적에 집중하는 장세로 전환될 것이라는 전망이 나왔다.",
-        "미국 선거로 인한 불확실성이 해소되면서 시장의 관심이 국내 정책 변화와 기업의 펀더멘털로 이동할 가능성을 시사한다.",
-        "국내 증시의 방향성이 실적과 정책 기대감에 따라 움직일 수 있으므로, 관련 기업 및 산업에 대한 선별적 투자가 유효할 수 있다."
+        "11월 5일 글로벌 증시가 크게 하락하며 '시장 대폭락'으로 묘사될 정도로 불안정한 모습을 보였습니다.",
+        "이는 전반적인 시장 심리가 위축되고 투자자들이 위험 자산 회피에 나섰음을 시사하며, 앞서 언급된 기술주 및 반도체 섹터의 폭락과 맥락을 같이 합니다.",
+        "글로벌 시장의 광범위한 하락은 국내 증시에도 부정적인 영향을 미칠 수 있으므로 전반적인 시장 분위기 및 주요 지수들의 움직임에 대한 지속적인 관찰이 필요합니다."
       ],
-      "summary_text": "미국 선거 결과 이후 국내 증시가 정책 수혜주와 기업 실적에 집중하는 장세로 전환될 것이라는 전망이 나왔다. 미국 선거로 인한 불확실성이 해소되면서 시장의 관심이 국내 정책 변화와 기업의 펀더멘털로 이동할 가능성을 시사한다. 국내 증시의 방향성이 실적과 정책 기대감에 따라 움직일 수 있으므로, 관련 기업 및 산업에 대한 선별적 투자가 유효할 수 있다.",
-      "description": "미국 선거가 종료됨에 따라 국내 증시는 정책 수혜와 기업 실적 중심의 장세로 빠르게 전환될 것으로 예상됩니다.",
-      "category": "기업·산업",
+      "summary_text": "11월 5일 글로벌 증시가 크게 하락하며 '시장 대폭락'으로 묘사될 정도로 불안정한 모습을 보였습니다. 이는 전반적인 시장 심리가 위축되고 투자자들이 위험 자산 회피에 나섰음을 시사하며, 앞서 언급된 기술주 및 반도체 섹터의 폭락과 맥락을 같이 합니다. 글로벌 시장의 광범위한 하락은 국내 증시에도 부정적인 영향을 미칠 수 있으므로 전반적인 시장 분위기 및 주요 지수들의 움직임에 대한 지속적인 관찰이 필요합니다.",
+      "description": "11월 5일 거래일은 시장 전반에 걸친 대폭락(market bonfire)으로 기록되었습니다.",
+      "category": "글로벌 경제",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "정책 수혜주, 실적 우량주",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "미국 선거 이후 국내 증시의 투자 테마가 변화할 수 있으므로, 새로운 시장의 주도주를 발굴하는 데 중요한 정보이다.",
-      "key_signal": "정책 수혜가 예상되는 분야와 견고한 실적을 발표할 기업들을 중심으로 포트폴리오를 점검해야 한다.",
+      "market_impact": "부정",
+      "related_sector": "글로벌 증시",
+      "related_stocks": [],
+      "investment_view": "주의",
+      "investment_reason": "글로벌 증시의 전반적인 하락 분위기는 국내 시장에도 부정적인 영향을 미칠 수 있으므로 전반적인 시장 심리를 파악하는 것이 중요합니다.",
+      "key_signal": "뉴욕 증시의 주요 지수(다우, S&P 500, 나스닥)의 전반적인 움직임과 시장 불안 요인들을 확인해야 합니다.",
       "keywords": [
-        "국내 증시",
-        "정책 수혜",
-        "실적 장세",
-        "미국 선거",
-        "투자 테마"
+        "글로벌증시",
+        "시장하락",
+        "위험회피",
+        "투자심리",
+        "미국증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pdGJScXE2anotVTc0YXhOWnNSOHhjb2UtZmJrWHFicVNwN0dMRE9PeGtSZWFZUllRQ0gxZEVPMk9kVW1fbHNJVEszUGFtWXdnWS1hcVJWQ2tRUFhEaFl4NUgzS1VEOU50R3lTNmJDUWk3djFyY1Z4LdIBeEFVX3lxTE9pdGJScXE2anotVTc0YXhOWnNSOHhjb2UtZmJrWHFicVNwN0dMRE9PeGtSZWFZUllRQ0gxZEVPMk9kVW1fbHNJVEszUGFtWXdnWS1hcVJWQ2tRUFhEaFl4NUgzS1VEOU50R3lTNmJDUWk3djFyY1Z4LQ?oc=5",
-      "published": "2026-11-05 08:26",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnhZc2EwNGVoSUhTamJCZWhiNGpjNG8yQ0FMSHc2SmRiNUR3WllWcmJMQ1VSUWJuZjVabDFCSWhaT2doWFUxTGFlbVZ6RUw5RC1DWkVkWFAzVWVTZkdYX3EwZENJaWUyZ1haM2ttT1RjTlA2SjM0dDJFRjBadFpHakc5anY?oc=5",
+      "published": "2026-11-06 07:18",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -236,35 +232,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "오늘 주식 시장: 민주당 의회 장악으로 다우존스, S&P 500, 나스닥 100 선물 상승 - AMD, AMGN, NVO 주목",
-      "display_title": "오늘 주식 시장: 민주당 의회 장악으로 다우존스, S&P 500, 나스닥 100 선물 상승 - AMD, AMGN, NVO 주목",
-      "original_title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise as Democrats Take Control of Congress—AMD, AMGN, NVO in Focus (UPDATED) - TradingView",
+      "title": "기술주 매도세로 안전자산 수요 촉발, 국채 급등",
+      "display_title": "기술주 매도세로 안전자산 수요 촉발, 국채 급등",
+      "original_title": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand - Bloomberg.com",
       "summary": [
-        "민주당이 의회를 장악한 후 미국 주요 지수 선물(다우존스, S&P 500, 나스닥 100)이 상승했으며, AMD, AMGN, NVO 등 일부 종목들이 주목받았다.",
-        "민주당의 승리가 시장에 긍정적으로 해석되어 기술주와 헬스케어 등 특정 섹터에 대한 기대감을 높인 것으로 보인다.",
-        "미국 증시의 전반적인 상승세와 함께 특정 성장주 및 헬스케어 관련주의 강세를 확인하고, 이들이 국내 시장에 미칠 영향을 고려해야 한다."
+        "미국 기술주 매도세가 심화되면서 투자자들이 안전자산으로 몰려 미국 국채 가격이 크게 상승했습니다.",
+        "국채 가격의 상승은 채권 금리 하락을 의미하며, 이는 주식 시장의 위험 회피 심리가 고조되고 있음을 명확히 보여주는 신호입니다.",
+        "전 세계적인 위험 자산 회피 현상은 국내 증시에도 영향을 미칠 수 있으며, 향후 금리 인상 속도 조절 기대감에도 불구하고 단기적으로는 투자 심리 위축을 야기할 수 있습니다."
       ],
-      "summary_text": "민주당이 의회를 장악한 후 미국 주요 지수 선물(다우존스, S&P 500, 나스닥 100)이 상승했으며, AMD, AMGN, NVO 등 일부 종목들이 주목받았다. 민주당의 승리가 시장에 긍정적으로 해석되어 기술주와 헬스케어 등 특정 섹터에 대한 기대감을 높인 것으로 보인다. 미국 증시의 전반적인 상승세와 함께 특정 성장주 및 헬스케어 관련주의 강세를 확인하고, 이들이 국내 시장에 미칠 영향을 고려해야 한다.",
-      "description": "오늘 주식 시장에서 민주당이 의회를 장악한 후 다우존스, S&P 500, 나스닥 100 선물 지수가 상승했으며, AMD, AMGN, NVO와 같은 종목들이 주목받고 있습니다.",
-      "category": "증시·금리",
+      "summary_text": "미국 기술주 매도세가 심화되면서 투자자들이 안전자산으로 몰려 미국 국채 가격이 크게 상승했습니다. 국채 가격의 상승은 채권 금리 하락을 의미하며, 이는 주식 시장의 위험 회피 심리가 고조되고 있음을 명확히 보여주는 신호입니다. 전 세계적인 위험 자산 회피 현상은 국내 증시에도 영향을 미칠 수 있으며, 향후 금리 인상 속도 조절 기대감에도 불구하고 단기적으로는 투자 심리 위축을 야기할 수 있습니다.",
+      "description": "기술주 매도세가 심화되면서 안전자산에 대한 수요가 촉발되어 미국 국채 가격이 급등했습니다.",
+      "category": "글로벌 경제",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "기술주, 헬스케어, 반도체",
+      "market_impact": "부정",
+      "related_sector": "채권, 기술주",
       "related_stocks": [
-        "AMD"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 증시의 상승세를 이끄는 주요 섹터와 종목을 파악하여 국내 관련주 투자 아이디어를 얻을 수 있다.",
-      "key_signal": "미국 기술주 및 성장주 강세가 지속될지, 그리고 국내 기술주에 대한 투자 심리 개선으로 이어질지 지켜봐야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "기술주 매도세가 안전자산 선호를 강화하며 채권 가격을 상승시키는 것은 전반적인 시장의 위험 회피 심리를 보여주는 중요한 지표이기 때문입니다.",
+      "key_signal": "미국 국채 금리 변화와 기술주 매도세의 지속 여부를 주시하며, 시장의 안전자산 선호 심리가 확산되는지 확인해야 합니다.",
       "keywords": [
-        "민주당 승리",
-        "다우존스",
-        "나스닥",
-        "S&P 500",
-        "기술주"
+        "미국채",
+        "안전자산",
+        "기술주",
+        "매도세",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQREl1eVNaQ0t6S1dLNHBPaGp6OU9PdDdKZnBTcHp2TGZ2ZGEwSWVXSjJuUFlEM0lZOHFFRmhBN1htNHh3RFhqMzF4YU4wVDgxUFlBSW5ZSUhxOFdXNVBuMjFHMzJVWUxaTDFlRTYtZmp6YVJDb0tnV0hTVENLdXpPejZhUWtxQnV0SnpzSFJJTnlMYlp2azhDZWtpbS1sejROanhhTXVvWWVZeVNxenZ5UEk4OTZldVRXMEFnVUFpMkc3cklKMUI1WnljTGhQVHFSZzJIYWhqZm5tMEpwQXZXTm5kdi01dV9SLWRwNVY2dF9tTWQ2Y24zWXFDU1BFaUpvLVlNV1JPNGwydG9oTFY2dEJub1NjZw?oc=5",
-      "published": "2026-11-04 22:40",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkloRjhzaFhUVFFUc1hMQWpZVk9IZmNTRE5KYTBhekdoN0xXby1MOUVpaGRmYnJjdW5rc1hfanFVYUNIdXVYbGV1MDhUX1Q5Wk1yTk1DWVFuM1lzMERVRVhnMmhSOW5EcWp3dl94eS1JcHZMNEhiOFNtUVlialFYNS1Vb3dOeENpazN5SmVyUWJKNTJDMXFUUm9TRFZreUlObm40S0lpUmQ3YVFNUUFJ?oc=5",
+      "published": "2026-11-06 05:46",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -275,58 +273,58 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "미래에셋증권",
+      "name": "삼성전자",
       "market": "KOSPI/KOSDAQ",
-      "sector": "전반적 시장, 국내 주식 시장",
+      "sector": "반도체, IT",
       "opinion": "주의",
-      "reason": "미국 증시와 상반된 국내 증시의 움직임은 투자 전략 재검토가 필요하다는 중요한 신호이다.",
+      "reason": "주요 수출 산업인 반도체 섹터의 글로벌 폭락과 외국인 매도세가 국내 증시에 직접적인 하방 압력을 가하기 때문입니다.",
       "check_points": [
-        "국내 증시가 미국 증시와 디커플링되는 원인이 무엇인지, 그리고 이러한 추세가 지속될지 여부를 면밀히 분석해야 한다."
+        "외국인 투자자들의 삼성전자, SK하이닉스 매매 동향과 나스닥 및 필라델피아 반도체 지수의 움직임을 주시해야 합니다."
       ],
       "related_news_titles": [
-        "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내"
+        "코스피 또 시험대: 나스닥 5.5%, 반도체 12% 폭락, 삼성전자·SK하이닉스 외국인 매도가 관건"
       ]
     },
     {
       "rank": 2,
-      "name": "한국금융지주",
+      "name": "SK하이닉스",
       "market": "KOSPI/KOSDAQ",
-      "sector": "전반적 시장, 국내 주식 시장",
+      "sector": "반도체, IT",
       "opinion": "주의",
-      "reason": "미국 증시와 상반된 국내 증시의 움직임은 투자 전략 재검토가 필요하다는 중요한 신호이다.",
+      "reason": "주요 수출 산업인 반도체 섹터의 글로벌 폭락과 외국인 매도세가 국내 증시에 직접적인 하방 압력을 가하기 때문입니다.",
       "check_points": [
-        "국내 증시가 미국 증시와 디커플링되는 원인이 무엇인지, 그리고 이러한 추세가 지속될지 여부를 면밀히 분석해야 한다."
+        "외국인 투자자들의 삼성전자, SK하이닉스 매매 동향과 나스닥 및 필라델피아 반도체 지수의 움직임을 주시해야 합니다."
       ],
       "related_news_titles": [
-        "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내"
+        "코스피 또 시험대: 나스닥 5.5%, 반도체 12% 폭락, 삼성전자·SK하이닉스 외국인 매도가 관건"
       ]
     },
     {
       "rank": 3,
-      "name": "NH투자증권",
+      "name": "미래에셋증권",
       "market": "KOSPI/KOSDAQ",
-      "sector": "전반적 시장, 국내 주식 시장",
+      "sector": "금, 안전자산",
       "opinion": "주의",
-      "reason": "미국 증시와 상반된 국내 증시의 움직임은 투자 전략 재검토가 필요하다는 중요한 신호이다.",
+      "reason": "나스닥 급락과 함께 안전자산인 금값이 폭등하고 12월 금리 인상 기대가 약화되는 것은 시장의 위험 회피 심화와 통화 정책 변화 가능성을 동시에 시사합니다.",
       "check_points": [
-        "국내 증시가 미국 증시와 디커플링되는 원인이 무엇인지, 그리고 이러한 추세가 지속될지 여부를 면밀히 분석해야 한다."
+        "금 가격 추이와 함께 미국 연준의 금리 인상 스탠스 변화 여부를 지속적으로 확인해야 합니다."
       ],
       "related_news_titles": [
-        "미국 중간선거 이후 뉴욕 증시 급등, 한국 증시 급락…엇갈린 시장의 속내"
+        "나스닥 100 지수 폭락 및 12월 금리 인상 기대 약화에 금값 4,100달러 돌파 랠리"
       ]
     },
     {
       "rank": 4,
-      "name": "SK이노베이션",
+      "name": "한국금융지주",
       "market": "KOSPI/KOSDAQ",
-      "sector": "전반적 시장, 에너지",
-      "opinion": "관심",
-      "reason": "미국 중간선거 결과에 따른 글로벌 시장의 즉각적인 반응은 국내 투자 전략 수립에 중요한 기준이 된다.",
+      "sector": "금, 안전자산",
+      "opinion": "주의",
+      "reason": "나스닥 급락과 함께 안전자산인 금값이 폭등하고 12월 금리 인상 기대가 약화되는 것은 시장의 위험 회피 심화와 통화 정책 변화 가능성을 동시에 시사합니다.",
       "check_points": [
-        "미국 증시의 상승 동력이 지속될지, 그리고 국내 증시에 어떤 식으로 반영될지 오늘 장 흐름을 체크해야 한다."
+        "금 가격 추이와 함께 미국 연준의 금리 인상 스탠스 변화 여부를 지속적으로 확인해야 합니다."
       ],
       "related_news_titles": [
-        "오늘 주식 시장: 민주당 의회 압승과 유가 급락으로 다우 1,500포인트 이상 폭등, 금 3.30% 상승"
+        "나스닥 100 지수 폭락 및 12월 금리 인상 기대 약화에 금값 4,100달러 돌파 랠리"
       ]
     }
   ],
