@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07 10:38",
-  "analysis_date": "2026-11-07",
+  "generated_at": "2026-11-08 10:07",
+  "analysis_date": "2026-11-08",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,52 +13,94 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내 증시는 코스닥의 급격한 하락으로 투자 심리가 크게 위축되었으나, 해외 증시는 연준 정책 변화 기대감과 주요 이벤트 대기 속에 관망세와 회복세가 엇갈렸습니다. AI 시대의 핵심인 전력 반도체 산업의 한국 투자 확대 소식도 주목됩니다.",
-    "국내거시경제": "고금리, 경기 침체 우려, 기업 실적 부진 등이 복합적으로 작용하며 중소형주 중심의 코스닥 시장 심리 위축을 심화시키고 있습니다.",
-    "글로벌경제": "미국 민주당의 중간선거 상하원 동시 장악은 한국의 대미 투자와 주요 산업에 정책적 변수가 될 수 있으며, FOMC 금리 결정에 대한 글로벌 시장의 관망세가 짙어지고 있습니다.",
-    "증시금리": "국내 코스닥 지수는 과거 계엄 당시 수준으로 급락하며 심리 위축이 심화되었으나, 미국 다우존스는 연준의 금리 인상 사이클 종료 기대감에 회복세를 보였고 S&P 500은 주요 발표를 앞두고 보합세를 유지하고 있습니다.",
-    "부동산정책": "해당 사항 없음",
-    "기업산업": "온세미(onsemi)가 AI 시대의 전력 효율 중요성을 강조하며 한국 부천 SiC 생산 거점 확장을 발표, 이는 국내 반도체 소부장 기업에도 긍정적인 영향을 미칠 것으로 예상됩니다.",
-    "오늘의투자시사점": "코스닥 시장의 과도한 하락은 저점 매수 기회를 제공할 수 있으나, 철저한 기업 분석과 리스크 관리가 필수적입니다. AI 시대의 전력 효율 경쟁 심화는 SiC 등 관련 반도체 산업의 성장 동력이 될 수 있으므로 관련 기업에 대한 지속적인 관심이 필요하며, 글로벌 주요 이벤트 결과를 예의주시하며 시장 방향성을 탐색해야 합니다.",
-    "오늘의한줄": "코스닥 시장은 깊은 침체를 겪고 있지만, AI 시대 전력 반도체 같은 특정 산업의 성장 동력과 글로벌 연준 정책 변화 가능성은 투자 기회를 모색하게 합니다."
+    "총평": "미국발 경기 침체 우려와 국내 고물가, 고환율 압력이 겹치며 국내 증시가 큰 폭 하락했고, 한국은행의 금리 결정 딜레마가 부각되고 있습니다. 다만, 해외 AI 산업의 긍정적 소식도 존재합니다.",
+    "국내거시경제": "국내 물가 상승률이 3%에 근접하며, 한국은행은 경기 침체와 인플레이션 사이에서 금리 인상 여부를 두고 심각한 딜레마에 빠져 있습니다.",
+    "글로벌경제": "미국 10월 CPI 발표를 앞두고 12월 금리 인상 확률이 80%에 육박하며 글로벌 긴축 우려가 커지고 있습니다.",
+    "증시금리": "미국 경기 침체 우려로 국내 증시 시가총액 500조 원이 증발했으며, 코스피 5000선이 위협받고 있습니다. 외국인 매도세로 원/달러 환율은 1,350원대로 급등하며 당분간 변동성 확대가 예상됩니다.",
+    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
+    "기업산업": "AI 스타트업 Anthropic의 IPO 신청 소식에 힘입어 나스닥 100 지수가 반등하며 AI 산업에 대한 긍정적인 투자 심리가 확인되었습니다.",
+    "오늘의투자시사점": "미국 CPI 발표와 한국은행 금통위 결정 등 주요 이벤트를 주시하며 시장 변동성 확대에 대비해야 합니다. 고환율 장기화 가능성 속 수출 경쟁력 있는 기업과 AI 등 성장 산업에 대한 관심이 필요합니다.",
+    "오늘의한줄": "글로벌 경기 불확실성과 국내 고물가·고환율 압력 속 신중한 리스크 관리가 필요한 시점입니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "\"코스피보다 더 심각\" 코스닥 지수, 계엄 당시 수준으로 하락",
-      "display_title": "\"코스피보다 더 심각\" 코스닥 지수, 계엄 당시 수준으로 하락",
-      "original_title": "\"코스피보다 더 하네\"…코스닥, 계엄 당시 수준으로 회귀 - 뉴시스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 10월 CPI 화요일 발표 예정, 12월 금리 인상 확률 80% 근접",
+      "display_title": "미국 10월 CPI 화요일 발표 예정, 12월 금리 인상 확률 80% 근접",
+      "original_title": "U.S. October CPI Due Tuesday, December Rate-Hike Bets Approach 80% - BigGo Finance",
       "summary": [
-        "코스닥 지수가 코스피보다 더 큰 폭으로 하락하여 과거 계엄령 선포 시점과 유사한 매우 낮은 수준으로 떨어졌습니다.",
-        "고금리, 경기 침체 우려, 기업 실적 부진 등이 복합적으로 작용하며 중소형주 중심의 코스닥 시장에 더 큰 타격을 주고 있습니다.",
-        "코스닥 시장의 심리 위축이 심화되고 있으며, 저점 매수의 기회가 될 수 있으나 충분한 기업 분석과 리스크 관리가 필요합니다."
+        "핵심사실: 미국 10월 소비자물가지수(CPI)가 화요일에 발표되며, 시장에서는 12월 연방준비제도(Fed)의 금리 인상 확률을 80%에 가깝게 예상하고 있습니다.",
+        "배경·맥락: 높은 인플레이션이 지속될 경우 Fed의 긴축 정책이 강화되어 글로벌 증시와 경제에 부담으로 작용할 수 있습니다.",
+        "투자 시사점: CPI 발표 결과에 따라 글로벌 금리 인상 속도와 강도가 결정될 수 있으므로, 관련 시장 변동성에 대비하고 금리 민감주에 대한 투자 전략을 재검토해야 합니다."
       ],
-      "summary_text": "코스닥 지수가 코스피보다 더 큰 폭으로 하락하여 과거 계엄령 선포 시점과 유사한 매우 낮은 수준으로 떨어졌습니다. 고금리, 경기 침체 우려, 기업 실적 부진 등이 복합적으로 작용하며 중소형주 중심의 코스닥 시장에 더 큰 타격을 주고 있습니다. 코스닥 시장의 심리 위축이 심화되고 있으며, 저점 매수의 기회가 될 수 있으나 충분한 기업 분석과 리스크 관리가 필요합니다.",
-      "description": "코스닥 지수가 코스피 지수보다 더 큰 폭으로 하락하여 과거 계엄령이 선포되었던 시기와 비슷한 수준으로 돌아갔다는 내용입니다.",
-      "category": "증시·금리",
-      "importance": 9,
+      "summary_text": "핵심사실: 미국 10월 소비자물가지수(CPI)가 화요일에 발표되며, 시장에서는 12월 연방준비제도(Fed)의 금리 인상 확률을 80%에 가깝게 예상하고 있습니다. 배경·맥락: 높은 인플레이션이 지속될 경우 Fed의 긴축 정책이 강화되어 글로벌 증시와 경제에 부담으로 작용할 수 있습니다. 투자 시사점: CPI 발표 결과에 따라 글로벌 금리 인상 속도와 강도가 결정될 수 있으므로, 관련 시장 변동성에 대비하고 금리 민감주에 대한 투자 전략을 재검토해야 합니다.",
+      "description": "미국 10월 소비자물가지수(CPI)가 화요일에 발표될 예정이며, 시장에서는 12월 연방준비제도(Fed)의 금리 인상 가능성을 약 80%로 보고 있습니다.",
+      "category": "글로벌 경제",
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "제약바이오, IT하드웨어, 2차전지",
+      "related_sector": "금융, 기술주",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "코스닥 시장의 과도한 하락은 투자 심리 위축을 심화시키고 추가적인 변동성을 유발할 수 있어 주의 깊은 접근이 필요하기 때문입니다.",
-      "key_signal": "코스닥 시장의 거래량, 신용잔고 추이와 더불어 금리 인하 기대감, 국내 경기 회복 시그널 등을 면밀히 체크해야 합니다.",
+      "investment_reason": "미국 CPI는 연준의 금리 인상 결정에 결정적인 영향을 미치며, 이는 글로벌 증시, 환율, 원자재 가격 등 전반적인 금융 시장에 큰 변동성을 야기할 수 있기 때문입니다.",
+      "key_signal": "화요일 발표될 미국 10월 CPI 수치를 확인하고, 예상치를 상회할 경우 연준의 매파적 스탠스 강화 가능성에 대비해야 합니다.",
       "keywords": [
-        "코스닥",
-        "코스피",
-        "주가지수",
-        "하락장",
-        "계엄"
+        "미국CPI",
+        "금리인상",
+        "연준",
+        "인플레이션",
+        "글로벌증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sOTNmTDZDV0FfTW4xb3c5eHE0cFBIVmZscnc3Z011OU5ZbWdpSVV1Mm1PdlhUYWRNbWpIdVNERjNGMUZlZWV6am00VEI0V3p1VHRxeDIxN2o4cGVzdWJLQjMtcXBFajlZWGRfRUtfbTRja3hhZG9pcdIBeEFVX3lxTE1sOTNmTDZDV0FfTW4xb3c5eHE0cFBIVmZscnc3Z011OU5ZbWdpSVV1Mm1PdlhUYWRNbWpIdVNERjNGMUZlZWV6am00VEI0V3p1VHRxeDIxN2o4cGVzdWJLQjMtcXBFajlZWGRfRUtfbTRja3hhZG9pcQ?oc=5",
-      "published": "2026-11-07 07:00",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fU1JWUEF2d3BSYld0eTVNNVJBUDdha0g0T21QaHdWR1NhSEhSaWlwRHRvdFhSUHBvQTdEdTUyMjFBZmM2QmgxbWx5VGlTU1BQeW1iSDA0QXRZRHpTMjJKZ29qX1piSnFwQkNjNUpFdGo0di02WUE?oc=5",
+      "published": "2026-11-08 08:55",
+      "quality": {
+        "title_status": "번역완료",
+        "summary_status": "AI요약",
+        "analysis_status": "ai"
+      }
+    },
+    {
+      "rank": 2,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "미국 경기 침체 공포로 국내 증시 이틀 만에 시총 500조 원 증발",
+      "display_title": "미국 경기 침체 공포로 국내 증시 이틀 만에 시총 500조 원 증발",
+      "original_title": "미국발 경기 침체 공포에 휩쓸린 국내 증시의 냉혹한 현실 - 이틀 만에 증발한 시총 오백조 원과 처참한 개미의 눈물 > 주식 몰빵 투자의 최후와 파멸로 이끄는 편향된 확신 | - 데일리머니",
+      "summary": [
+        "핵심사실: 미국발 경기 침체 공포로 국내 증시에서 이틀 만에 시가총액 약 500조 원이 증발했으며, 개인 투자자들의 손실이 심화되고 있습니다.",
+        "배경·맥락: 글로벌 경제 둔화 우려가 한국 증시에 직접적인 영향을 미치며, 투자 심리가 급격히 위축되고 시장 변동성이 확대되는 상황입니다.",
+        "투자 시사점: 글로벌 경기 침체 가능성과 그에 따른 국내 증시의 하방 압력을 인지하고, 과도한 집중 투자보다는 리스크 관리에 집중해야 합니다."
+      ],
+      "summary_text": "핵심사실: 미국발 경기 침체 공포로 국내 증시에서 이틀 만에 시가총액 약 500조 원이 증발했으며, 개인 투자자들의 손실이 심화되고 있습니다. 배경·맥락: 글로벌 경제 둔화 우려가 한국 증시에 직접적인 영향을 미치며, 투자 심리가 급격히 위축되고 시장 변동성이 확대되는 상황입니다. 투자 시사점: 글로벌 경기 침체 가능성과 그에 따른 국내 증시의 하방 압력을 인지하고, 과도한 집중 투자보다는 리스크 관리에 집중해야 합니다.",
+      "description": "미국발 경기 침체 우려가 국내 증시에 확산되며 이틀 새 시가총액 500조 원이 사라지고 개인 투자자들의 피해가 커지는 현실을 다룹니다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "전 업종",
+      "related_stocks": [
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
+      ],
+      "investment_view": "주의",
+      "investment_reason": "미국 경기 침체 우려가 국내 증시에 미치는 광범위한 부정적 영향과 개인 투자자 손실 확대로 시장 전반의 투자 심리가 크게 위축될 수 있기 때문입니다.",
+      "key_signal": "미국 경제 지표와 글로벌 경기 침체 가능성 관련 뉴스를 지속적으로 주시하며 시장의 추가 하락 가능성에 대비해야 합니다.",
+      "keywords": [
+        "경기침체",
+        "국내증시",
+        "시가총액",
+        "개인투자자",
+        "글로벌경제"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uakVoeFM2VGs1b0JMX2Z4S28zSVYtcDZDdzFVMzBJbGZTbWJtT0dGcFh2UXJ5dFo3RF80ckR2elFsVDVfYlpKVHM5MjRlWVk4NjR0Ung4WDNtYmQ3aEY1VUx3VUdKMHFKVzN2S09SS1lCOVl3RWc?oc=5",
+      "published": "2026-11-07 22:10",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -66,85 +108,42 @@
       }
     },
     {
-      "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "S&P 500, FOMC 금리 결정 및 기술주 실적 발표 앞두고 보합세 전망",
-      "display_title": "S&P 500, FOMC 금리 결정 및 기술주 실적 발표 앞두고 보합세 전망",
-      "original_title": "S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings - StoneX",
+      "rank": 3,
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "물가 3% 육박, 코스피 5000선 위협…금리 결정 앞둔 한국은행의 딜레마",
+      "display_title": "물가 3% 육박, 코스피 5000선 위협…금리 결정 앞둔 한국은행의 딜레마",
+      "original_title": "물가는 3% 육박, 코스피는 5000선 위태…금리 결정 앞둔 한은 딜레마 - 파이낸셜뉴스",
       "summary": [
-        "S&P 500 지수는 다음 주 예정된 FOMC 금리 결정과 주요 기술 기업 실적 발표를 앞두고 관망세를 보일 것으로 예상됩니다.",
-        "투자자들은 통화 정책 불확실성과 기업 실적에 대한 기대로 인해 신중한 태도를 유지하고 있습니다.",
-        "주요 이벤트 전까지는 시장 변동성이 제한적일 수 있으며, 발표 결과에 따라 방향성이 결정될 것입니다."
+        "핵심사실: 국내 물가 상승률이 3%에 근접하고 코스피 지수가 5000선이 위태로운 상황에서, 한국은행이 금리 인상 여부를 두고 심각한 딜레마에 빠져 있습니다.",
+        "배경·맥락: 물가를 잡기 위한 금리 인상은 경기 침체 가능성을 높이고, 금리 동결은 인플레이션을 악화시킬 수 있어 한국은행의 정책 결정이 매우 중요합니다.",
+        "투자 시사점: 한국은행의 금리 결정은 국내 증시와 경제 전반에 큰 영향을 미칠 것이므로, 금통위의 통화 정책 방향을 주시하고 이에 따른 투자 전략을 수립해야 합니다."
       ],
-      "summary_text": "S&P 500 지수는 다음 주 예정된 FOMC 금리 결정과 주요 기술 기업 실적 발표를 앞두고 관망세를 보일 것으로 예상됩니다. 투자자들은 통화 정책 불확실성과 기업 실적에 대한 기대로 인해 신중한 태도를 유지하고 있습니다. 주요 이벤트 전까지는 시장 변동성이 제한적일 수 있으며, 발표 결과에 따라 방향성이 결정될 것입니다.",
-      "description": "FOMC 금리 결정과 주요 기술 기업들의 실적 발표를 앞두고 S&P 500 지수가 보합세를 보일 것이라는 전망입니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "기술주, IT, 반도체",
+      "summary_text": "핵심사실: 국내 물가 상승률이 3%에 근접하고 코스피 지수가 5000선이 위태로운 상황에서, 한국은행이 금리 인상 여부를 두고 심각한 딜레마에 빠져 있습니다. 배경·맥락: 물가를 잡기 위한 금리 인상은 경기 침체 가능성을 높이고, 금리 동결은 인플레이션을 악화시킬 수 있어 한국은행의 정책 결정이 매우 중요합니다. 투자 시사점: 한국은행의 금리 결정은 국내 증시와 경제 전반에 큰 영향을 미칠 것이므로, 금통위의 통화 정책 방향을 주시하고 이에 따른 투자 전략을 수립해야 합니다.",
+      "description": "소비자 물가 상승률이 3%에 육박하고 코스피 지수가 5000선 유지가 위태로운 상황에서, 한국은행이 금리 결정을 앞두고 직면한 딜레마를 다룹니다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "금융, 전 업종",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "카카오뱅크"
       ],
       "investment_view": "주의",
-      "investment_reason": "FOMC 금리 결정과 주요 기술주 실적이라는 중요한 변수가 예정되어 있어 불확실성이 높은 시기이기 때문입니다.",
-      "key_signal": "FOMC의 금리 결정 내용과 향후 통화정책 가이드라인, 그리고 기술 기업들의 실적 발표 결과에 주목해야 합니다.",
+      "investment_reason": "높은 물가와 불안정한 증시 상황에서 한국은행의 금리 결정이 시장에 큰 변동성을 줄 수 있습니다.",
+      "key_signal": "한국은행 금융통화위원회의 금리 결정 발표를 주목하고, 동결 또는 인상 여부에 따라 시장이 어떻게 반응할지 면밀히 분석해야 합니다.",
       "keywords": [
-        "S&P500",
-        "FOMC",
-        "금리",
-        "기술주",
-        "실적"
+        "한국은행",
+        "물가상승률",
+        "코스피",
+        "금리결정",
+        "경제딜레마"
       ],
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjgxZzVKblZ0aDNsQUN0azRrZHN6LVdDd2ZIV3R5TFlaSTRYQ2xnNnFFQmZmVHN4RkhTTEpudUpUelVmbE5rX0N2cEZBRU5JX1cyZ09SeDhldUJJOXU3cHNsdndJNlFiUzlWYzlSWU8zUXVCM3hFd3o2cVRqNm5KUk5RN1pLcEZ1Z2pKelNxUjRKTzFQMEVGUUs2dXRFZUN5Qms1a3NfQ2hNaEE4aS1QY0VHMmdtSUo5aXF1SFNR?oc=5",
-      "published": "2026-11-07 08:15",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiOFVDSXdIUHg1RVFZMXU4RG9aUjdoanJuWDRVQlptaTg2YWlZbjdXMmRXU3QzMG5QTXNrUVZ4QUpPWUt2TmVXQllNbG1OZS1nNlc1OFZGZE9IUQ?oc=5",
+      "published": "2026-11-08 07:05",
       "quality": {
-        "title_status": "번역완료",
-        "summary_status": "AI요약",
-        "analysis_status": "ai"
-      }
-    },
-    {
-      "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "다우존스, 급락 후 회복세…월스트리트 연준 전망 재평가",
-      "display_title": "다우존스, 급락 후 회복세…월스트리트 연준 전망 재평가",
-      "original_title": "Dow Jones stock market today: Dow recovers after crash as Wall Street reassesses Fed outlook - Beinsure",
-      "summary": [
-        "다우존스 산업평균지수가 급락 후 반등하며 회복세를 보였고, 이는 연준의 통화정책 전망에 대한 월스트리트의 재평가에 기인합니다.",
-        "시장은 연준의 금리 인상 사이클 종료 가능성 또는 속도 조절 기대감에 민감하게 반응하고 있으며, 과도한 우려가 완화된 것으로 보입니다.",
-        "연준의 스탠스 변화 가능성에 대한 지속적인 모니터링이 중요하며, 시장은 금리 인하 기대감에 따라 추가 상승 여력을 보일 수 있습니다."
-      ],
-      "summary_text": "다우존스 산업평균지수가 급락 후 반등하며 회복세를 보였고, 이는 연준의 통화정책 전망에 대한 월스트리트의 재평가에 기인합니다. 시장은 연준의 금리 인상 사이클 종료 가능성 또는 속도 조절 기대감에 민감하게 반응하고 있으며, 과도한 우려가 완화된 것으로 보입니다. 연준의 스탠스 변화 가능성에 대한 지속적인 모니터링이 중요하며, 시장은 금리 인하 기대감에 따라 추가 상승 여력을 보일 수 있습니다.",
-      "description": "다우존스 지수가 급락 이후 회복세를 보이며, 월스트리트가 연방준비제도(Fed)의 향후 통화정책 전망을 재평가하고 있다는 내용입니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "금융, 경기민감주",
-      "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
-      ],
-      "investment_view": "관심",
-      "investment_reason": "연준의 통화정책 기조 변화에 대한 기대감은 글로벌 증시 전반에 긍정적인 영향을 미칠 수 있어 주목해야 합니다.",
-      "key_signal": "다음 FOMC 회의록 및 연준 관계자 발언을 통해 금리 인상 종료 또는 인하 시점에 대한 힌트를 찾아야 합니다.",
-      "keywords": [
-        "다우존스",
-        "연준",
-        "금리",
-        "통화정책",
-        "시장회복"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0hSZW5JYjlfN2dpNFRHZVg4WGhsR2tFVDZJc2Y3enFna0lIOE00YlhjU3RCWm1ZMEVaQkdLcUhZTW0xblAtLXB5QmN6UFpMLUJHQjRLU3FhZlpLZHJmX3FLWjNWam1rWGY1X3hqZUV0Ml92RWhjS0x4eDNibHpCVE9aNDgycDRfZWdReEhuZUVHNEI5alhheG1waEE?oc=5",
-      "published": "2026-11-07 04:40",
-      "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,37 +153,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "美 민주당, 중간선거서 상·하원 장악…한국의 3,500억 달러 대미 투자 및 반도체·조선업 영향 촉각",
-      "display_title": "美 민주당, 중간선거서 상·하원 장악…한국의 3,500억 달러 대미 투자 및 반도체·조선업 영향 촉각",
-      "original_title": "美 민주당, 중간선거서 상·하원 동시 장악…한국 3500억 달러 대미 투자·반도체·조선업 영향 촉각 - THE NEWS",
+      "title": "환율 1,320원에서 1,350원대로 급등…수출 호조에도 외국인 매도세가 발목 잡아",
+      "display_title": "환율 1,320원에서 1,350원대로 급등…수출 호조에도 외국인 매도세가 발목 잡아",
+      "original_title": "1320원서 1350원대로…수출 호조 속 환율 발목 잡은 '외국인 매도' - 뉴스1",
       "summary": [
-        "미국 중간선거에서 민주당이 상하원을 동시에 장악하며, 이는 한국의 대미 투자와 주요 산업(반도체, 조선업 등)에 영향을 미칠 것으로 예상됩니다.",
-        "민주당의 정책 방향은 환경 규제 강화, 노동 정책 변화 등으로 한국 기업들의 미국 투자 전략과 사업 운영에 변수가 될 수 있습니다.",
-        "미국과의 경제 협력 및 투자 규모가 큰 한국 기업들은 민주당의 정책 변화에 따른 리스크와 기회를 면밀히 분석해야 합니다."
+        "핵심사실: 국내 수출이 호조를 보임에도 불구하고 외국인 투자자들의 국내 주식 대규모 매도세로 인해 원/달러 환율이 1,320원대에서 1,350원대로 급등했습니다.",
+        "배경·맥락: 외국인 매도세는 국내 증시의 불안정성과 글로벌 달러 강세 압력이 복합적으로 작용한 결과로 보이며, 이는 국내 경제에 추가적인 부담을 줄 수 있습니다.",
+        "투자 시사점: 환율 상승은 수출 기업에 단기적으로 긍정적일 수 있으나, 외국인 자금 이탈과 수입 물가 상승 압력 등 부정적 측면도 고려하여 전반적인 시장 리스크 관리가 필요합니다."
       ],
-      "summary_text": "미국 중간선거에서 민주당이 상하원을 동시에 장악하며, 이는 한국의 대미 투자와 주요 산업(반도체, 조선업 등)에 영향을 미칠 것으로 예상됩니다. 민주당의 정책 방향은 환경 규제 강화, 노동 정책 변화 등으로 한국 기업들의 미국 투자 전략과 사업 운영에 변수가 될 수 있습니다. 미국과의 경제 협력 및 투자 규모가 큰 한국 기업들은 민주당의 정책 변화에 따른 리스크와 기회를 면밀히 분석해야 합니다.",
-      "description": "미국 중간선거에서 민주당이 상하원을 모두 장악한 가운데, 한국의 3,500억 달러 대미 투자와 반도체, 조선업 등 주요 산업에 미칠 영향에 대한 관심이 집중되고 있습니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "반도체, 조선, 2차전지, 자동차",
+      "summary_text": "핵심사실: 국내 수출이 호조를 보임에도 불구하고 외국인 투자자들의 국내 주식 대규모 매도세로 인해 원/달러 환율이 1,320원대에서 1,350원대로 급등했습니다. 배경·맥락: 외국인 매도세는 국내 증시의 불안정성과 글로벌 달러 강세 압력이 복합적으로 작용한 결과로 보이며, 이는 국내 경제에 추가적인 부담을 줄 수 있습니다. 투자 시사점: 환율 상승은 수출 기업에 단기적으로 긍정적일 수 있으나, 외국인 자금 이탈과 수입 물가 상승 압력 등 부정적 측면도 고려하여 전반적인 시장 리스크 관리가 필요합니다.",
+      "description": "국내 수출 호조에도 불구하고 외국인 투자자들의 주식 매도세가 원/달러 환율을 1,320원에서 1,350원대로 끌어올렸다는 내용입니다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "수출주, 항공/여행",
       "related_stocks": [
-        "삼성전자",
         "현대차",
-        "삼성중공업"
+        "삼성전자"
       ],
-      "investment_view": "관심",
-      "investment_reason": "미국 집권당의 변화는 한국 기업들의 대미 투자 및 수출 환경에 중대한 영향을 미치므로 관련 기업의 사업 전략 변화를 주목해야 합니다.",
-      "key_signal": "미국 민주당의 구체적인 산업 정책, 통상 압력, 친환경 정책 방향 등을 면밀히 분석하고 한국 정부 및 기업들의 대응 전략을 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "고환율과 외국인 매도세가 국내 증시 전반에 미칠 부정적 영향을 주시해야 합니다.",
+      "key_signal": "외국인 투자자들의 국내 증시 매매 동향과 미국 연준의 긴축 강도에 따른 달러 인덱스 변화를 예의주시해야 합니다.",
       "keywords": [
-        "미국 중간선거",
-        "민주당",
-        "대미투자",
-        "반도체",
-        "조선업"
+        "환율",
+        "외국인매도",
+        "수출호조",
+        "달러강세",
+        "증시변동성"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWXhRcWhmSklKVVdfMF8ySjM4bC1HdTVEaUFialktYUM2c3doZWh6NlZtSDh6Uy1DVHZWN29NYWF0MHhVNTFKbHoteEVsdVB0WHF4bnBfVm90LTk1M0dVOTRjWnB4Y0FucF930gFvQVVfeXFMT0ZYckZWVUQxTVhfOV94aEZSUlZmRnF3Z2JBYUZjZXdQZWJ1THhFVmZNcnZqYVBvT2M4N3J0LVMtUWNWeEE4N0psSnptN3pHR1hwZUZLa1RHbGtxQW5NWUVnYXBGMnU2Y2tPOWVaMTZn?oc=5",
-      "published": "2026-11-06 15:03",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NcHFQbXQ2VVFHMDVuNk1oN2gzV2E0RUJSWDVtNXJxT1RlbmpFaTVsMFR5MHUwME9fcXZRcm5acEFEYVFUdXZQQXFyeWNvM2t4amVMYg?oc=5",
+      "published": "2026-11-08 07:50",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -193,41 +191,41 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "온세미 CEO \"AI 시대, 전력은 곧 경쟁력\"…부천 SiC 허브 확장",
-      "display_title": "온세미 CEO \"AI 시대, 전력은 곧 경쟁력\"…부천 SiC 허브 확장",
-      "original_title": "Onsemi CEO: \"In the AI Era, Power Is Competitiveness\" — Expanding Bucheon SiC Hub - BigGo Finance",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "환율 1,350원대로 급등하며 '블루쓰나미', 당분간 변동성 확대 전망",
+      "display_title": "환율 1,350원대로 급등하며 '블루쓰나미', 당분간 변동성 확대 전망",
+      "original_title": "1350원대로 뛰며 ‘블루쓰나미’ 휩쓸린 환율…\"당분간 변동성 커질 듯\" - 세계일보",
       "summary": [
-        "온세미(onsemi) CEO는 AI 시대에 전력 효율의 중요성을 강조하며, 한국 부천의 SiC(탄화규소) 생산 거점 확장을 발표했습니다.",
-        "AI 기술의 발전은 고성능 반도체를 요구하며, 이는 효율적인 전력 반도체(SiC)의 수요 증가로 이어지고 있습니다.",
-        "SiC 전력 반도체는 전기차, AI 데이터센터 등 고성장 산업의 핵심 부품으로, 관련 기업의 투자 확대는 긍정적인 신호입니다."
+        "핵심사실: 원/달러 환율이 1,350원대로 급등하며 시장에 '블루쓰나미'라는 표현으로 국내 경제에 미치는 부정적 영향이 부각되었고, 당분간 환율 변동성이 커질 것으로 전망됩니다.",
+        "배경·맥락: 환율 급등은 미국 금리 인상 기대감, 글로벌 달러 강세, 국내 경기 둔화 우려 등 복합적인 요인에 기인하며, 이는 수입 물가 상승 및 외국인 투자 이탈을 심화시킬 수 있습니다.",
+        "투자 시사점: 고환율 장기화 가능성에 대비하여 수출 경쟁력 있는 기업과 내수 방어주에 대한 관심을 높이고, 환율 변동성에 취약한 기업들의 리스크를 점검해야 합니다."
       ],
-      "summary_text": "온세미(onsemi) CEO는 AI 시대에 전력 효율의 중요성을 강조하며, 한국 부천의 SiC(탄화규소) 생산 거점 확장을 발표했습니다. AI 기술의 발전은 고성능 반도체를 요구하며, 이는 효율적인 전력 반도체(SiC)의 수요 증가로 이어지고 있습니다. SiC 전력 반도체는 전기차, AI 데이터센터 등 고성장 산업의 핵심 부품으로, 관련 기업의 투자 확대는 긍정적인 신호입니다.",
-      "description": "온세미의 CEO가 AI 시대에 전력 효율이 경쟁력이라고 강조하며, 한국 부천의 탄화규소(SiC) 생산 허브를 확장한다고 밝혔습니다.",
-      "category": "기업·산업",
+      "summary_text": "핵심사실: 원/달러 환율이 1,350원대로 급등하며 시장에 '블루쓰나미'라는 표현으로 국내 경제에 미치는 부정적 영향이 부각되었고, 당분간 환율 변동성이 커질 것으로 전망됩니다. 배경·맥락: 환율 급등은 미국 금리 인상 기대감, 글로벌 달러 강세, 국내 경기 둔화 우려 등 복합적인 요인에 기인하며, 이는 수입 물가 상승 및 외국인 투자 이탈을 심화시킬 수 있습니다. 투자 시사점: 고환율 장기화 가능성에 대비하여 수출 경쟁력 있는 기업과 내수 방어주에 대한 관심을 높이고, 환율 변동성에 취약한 기업들의 리스크를 점검해야 합니다.",
+      "description": "원/달러 환율이 1,350원대로 급등하며 국내 시장에 큰 파급효과를 일으키는 '블루쓰나미' 현상이 나타났고, 당분간 높은 변동성이 지속될 것으로 예상됩니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "전력반도체, SiC, AI, 전기차",
+      "market_impact": "부정",
+      "related_sector": "수출주, 원자재수입업",
       "related_stocks": [
-        "LX세미콘",
-        "DB하이텍"
+        "LG전자",
+        "대한항공"
       ],
-      "investment_view": "관심",
-      "investment_reason": "AI 시대의 핵심 경쟁력인 전력 효율과 SiC 반도체 기술 발전은 장기적인 투자 기회를 제공할 수 있기 때문입니다.",
-      "key_signal": "SiC 전력 반도체 시장 성장률과 온세미와 같은 선두 기업들의 추가 투자 계획, 국내 공급망 협력 여부를 주시해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "환율 급등과 변동성 확대는 국내 기업들의 실적과 외국인 투자 심리에 부정적인 영향을 줄 수 있습니다.",
+      "key_signal": "미국 연준의 금리 정책과 국내외 경제 지표 변화가 환율에 미치는 영향을 지속적으로 모니터링해야 합니다.",
       "keywords": [
-        "온세미",
-        "SiC",
-        "전력반도체",
-        "AI",
-        "부천"
+        "환율급등",
+        "블루쓰나미",
+        "환율변동성",
+        "외국인자금",
+        "수입물가"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQXhTRE9tSXhPcnJQVEJqY09tNV8zVjgzNmQxVkpxWVFkVERtRVB4TzdYUGFjWXBBR003VHZxRDdPY180NTloU0Z6cm9rSzViN2c0ZWtLaU43NGIzNjNNOEtiYzNfYngzVzNzRGZHcWw5N3gxMEE?oc=5",
-      "published": "2026-11-07 06:55",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lZWp0Q2VkYTVhSVp2SnJsM2dzemVXbTMzUlM2aEtrdVlUZ0M4cTFYWlpyR180WlpBQnlSdmY2UXNvajFUWnZCcV9fT3ZKSlZEQjRiTtIBVEFVX3lxTE1lZWp0Q2VkYTVhSVp2SnJsM2dzemVXbTMzUlM2aEtrdVlUZ0M4cTFYWlpyR180WlpBQnlSdmY2UXNvajFUWnZCcV9fT3ZKSlZEQjRiTg?oc=5",
+      "published": "2026-11-08 05:52",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -237,37 +235,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "온세미, AI 시대 전력 효율 경쟁 심화에 한국 SiC 생산 능력 증대",
-      "display_title": "온세미, AI 시대 전력 효율 경쟁 심화에 한국 SiC 생산 능력 증대",
-      "original_title": "Onsemi boosts Korea SiC capacity as AI drives power efficiency race - Chosunbiz",
+      "title": "나스닥 100 지수, Anthropic IPO 신청에 반등",
+      "display_title": "나스닥 100 지수, Anthropic IPO 신청에 반등",
+      "original_title": "Nasdaq 100 Forecast: NDX rebounds as Anthropic files for IPO - StoneX",
       "summary": [
-        "온세미(onsemi)가 AI 기술 발전에 따른 전력 효율 경쟁 심화에 대응하기 위해 한국 내 SiC(탄화규소) 생산 능력을 증설합니다.",
-        "AI 데이터센터, 전기차 등 고성능 애플리케이션에서 에너지 효율이 갈수록 중요해지면서 SiC 전력 반도체 수요가 급증하고 있습니다.",
-        "한국의 반도체 생산 인프라와 결합된 SiC 전력 반도체 분야의 투자는 국내 관련 소부장(소재·부품·장비) 기업들에게 긍정적인 영향을 미칠 수 있습니다."
+        "핵심사실: AI 스타트업 Anthropic의 IPO 신청 소식에 힘입어 나스닥 100 지수가 반등하는 모습을 보였습니다.",
+        "배경·맥락: AI 기술 기업에 대한 시장의 높은 관심이 지속되는 가운데, 주요 AI 기업의 IPO는 섹터 전반에 긍정적인 투자 심리를 불러올 수 있습니다.",
+        "투자 시사점: 글로벌 AI 산업의 성장 잠재력을 재확인하며, AI 관련 기술주 및 소프트웨어 기업들에 대한 관심이 필요합니다."
       ],
-      "summary_text": "온세미(onsemi)가 AI 기술 발전에 따른 전력 효율 경쟁 심화에 대응하기 위해 한국 내 SiC(탄화규소) 생산 능력을 증설합니다. AI 데이터센터, 전기차 등 고성능 애플리케이션에서 에너지 효율이 갈수록 중요해지면서 SiC 전력 반도체 수요가 급증하고 있습니다. 한국의 반도체 생산 인프라와 결합된 SiC 전력 반도체 분야의 투자는 국내 관련 소부장(소재·부품·장비) 기업들에게 긍정적인 영향을 미칠 수 있습니다.",
-      "description": "온세미가 AI 발전에 따른 전력 효율 경쟁에 맞춰 한국에서의 탄화규소(SiC) 생산 능력을 확대한다는 내용입니다.",
+      "summary_text": "핵심사실: AI 스타트업 Anthropic의 IPO 신청 소식에 힘입어 나스닥 100 지수가 반등하는 모습을 보였습니다. 배경·맥락: AI 기술 기업에 대한 시장의 높은 관심이 지속되는 가운데, 주요 AI 기업의 IPO는 섹터 전반에 긍정적인 투자 심리를 불러올 수 있습니다. 투자 시사점: 글로벌 AI 산업의 성장 잠재력을 재확인하며, AI 관련 기술주 및 소프트웨어 기업들에 대한 관심이 필요합니다.",
+      "description": "인공지능(AI) 스타트업 Anthropic이 기업공개(IPO)를 신청하면서 나스닥 100 지수가 반등하는 움직임을 보였습니다.",
       "category": "기업·산업",
-      "importance": 8,
+      "importance": 7,
       "market_impact": "긍정",
-      "related_sector": "전력반도체, SiC, AI, 소부장",
+      "related_sector": "인공지능(AI), 소프트웨어, 기술주",
       "related_stocks": [
-        "LX세미콘",
-        "DB하이텍",
-        "한미반도체"
+        "엔비디아",
+        "어도비"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 시대의 전력 효율 경쟁에서 SiC 반도체의 중요성이 커지며 한국 내 생산 능력 증대는 국내 관련 산업에 파급 효과를 줄 수 있기 때문입니다.",
-      "key_signal": "온세미의 한국 생산 시설 증설 규모와 국내 반도체 소재·부품·장비 기업들과의 협력 확대 여부를 면밀히 관찰해야 합니다.",
+      "investment_reason": "Anthropic의 IPO는 AI 산업에 대한 투자자들의 기대감을 높이고 관련 기술주에 긍정적인 영향을 미칠 수 있으며, 장기적인 성장 동력을 제공할 수 있기 때문입니다.",
+      "key_signal": "AI 관련 기업들의 IPO 동향과 기술 혁신 소식에 주목하여 AI 섹터의 투자 기회를 탐색해야 합니다.",
       "keywords": [
-        "온세미",
-        "SiC",
-        "전력반도체",
-        "AI",
-        "생산능력"
+        "나스닥",
+        "Anthropic",
+        "IPO",
+        "인공지능",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sV2VhM0tNdHhNSVZDRTRkMlg2QkFuempfOWh3UnFVdDNkUzEzUVN3Njg1WFFTZ1RuR05tWVluZUVZLTc2MDVPQzJIUWo3YS1RdlZjVHQtd0dpVnlHZHk2SWp0ckN6ckszUFhldTRtaW5BUUNfM2R6SjB30gGOAUFVX3lxTFBpUk5UQWd3TjNoamFaS3pqTzRKdnUzbmZvbTljajNfZHBEY1FYQUJWOXN5bjZtMy0tbmszMkNzX0JQUVBaNkVqZmg1V2ZnZjFIek9NaUwtczc3SGo5VndiYlM0QVZXMW8tc21wcG45d0xmVW5DOHdObTVPMHJyNWVicVBuS1FCb0NwZFdoNlE?oc=5",
-      "published": "2026-11-07 06:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUhySmR1aHB6eTVtLTRrNGt4RmF0MnJQdjNBaGZuZ3RXbGNkZnZNLVYwQnlsX3BjS1ptUVJTd3c1NGYxTFlUN2FHVDJJazE4c25vblVwSVlITlp0bU1mMU5wQUZzbjNqaXZsNm5GcVZ0OVViaE5WR0FHZDBnWEQ0b3VfTmRmQldGeTVhNUN1c19VV083blU0UTV1QmUwUDFmM1NQT2VQNjNuVXc?oc=5",
+      "published": "2026-11-08 06:53",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -278,65 +275,69 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "LX세미콘",
-      "market": "KOSDAQ",
-      "sector": "반도체 (전력반도체, SiC)",
-      "opinion": "관심",
-      "reason": "AI 시대의 핵심 경쟁력인 전력 효율과 SiC 반도체 기술 발전에 대한 관심이 커지고 있습니다. 온세미의 한국 SiC 생산 능력 증대는 국내 전력반도체 관련 기업에 긍정적인 영향을 미칠 수 있으며, LX세미콘은 SiC 웨이퍼 관련 투자 이력이 있어 주목할 필요가 있습니다.",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "sector": "반도체, IT",
+      "opinion": "주의",
+      "reason": "국내 높은 물가와 불안정한 증시 상황 속 한국은행의 금리 결정 불확실성이 증시 전반에 변동성을 줄 수 있으며, 고환율과 외국인 매도세가 겹쳐 국내 대표 수출 기업인 삼성전자에 대한 투자 심리를 위축시킬 수 있습니다.",
       "check_points": [
-        "AI 시대 전력 효율 관련 기술 발전 동향 및 적용 범위",
-        "SiC 반도체 시장 성장성 및 국내 기업의 경쟁력 변화"
+        "한국은행 금리 결정",
+        "국내 물가 상승률 발표",
+        "원/달러 환율 추이"
       ],
       "related_news_titles": [
-        "온세미 CEO \"AI 시대, 전력은 곧 경쟁력\"…부천 SiC 허브 확장",
-        "온세미, AI 시대 전력 효율 경쟁 심화에 한국 SiC 생산 능력 증대"
+        "물가 3% 육박, 코스피 5000선 위협…금리 결정 앞둔 한국은행의 딜레마",
+        "환율 1,320원에서 1,350원대로 급등…수출 호조에도 외국인 매도세가 발목 잡아"
       ]
     },
     {
       "rank": 2,
-      "name": "삼성전자",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "반도체, IT",
-      "opinion": "관심",
-      "reason": "미국 민주당의 중간선거 승리는 한국 기업들의 대미 투자 및 반도체 산업에 중대한 영향을 미칠 수 있습니다. 한국의 대표 반도체 기업인 삼성전자는 미국의 정책 변화와 글로벌 반도체 시장의 흐름에 민감하게 반응할 것으로 예상되어 관련 동향을 주시해야 합니다.",
+      "sector": "금융 (증권)",
+      "opinion": "주의",
+      "reason": "미국 10월 CPI 발표가 연준의 금리 인상 결정에 결정적인 영향을 미치고 12월 금리 인상 확률이 80%에 근접하는 상황, 그리고 미국 경기 침체 공포로 인한 국내 증시의 광범위한 침체 우려가 증권업종의 실적과 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "미국 대미 투자 정책 및 관련 법안의 실제 변화",
-        "글로벌 반도체 수요 회복 및 삼성전자의 실적 발표 동향"
+        "미국 10월 CPI 발표 결과",
+        "미국 연준의 금리 인상 기조 변화",
+        "미국 경기 지표 발표"
       ],
       "related_news_titles": [
-        "美 민주당, 중간선거서 상·하원 장악…한국의 3,500억 달러 대미 투자 및 반도체·조선업 영향 촉각",
-        "S&P 500, FOMC 금리 결정 및 기술주 실적 발표 앞두고 보합세 전망"
+        "미국 10월 CPI 화요일 발표 예정, 12월 금리 인상 확률 80% 근접",
+        "미국 경기 침체 공포로 국내 증시 이틀 만에 시총 500조 원 증발"
       ]
     },
     {
       "rank": 3,
       "name": "현대차",
       "market": "KOSPI",
-      "sector": "자동차",
-      "opinion": "관심",
-      "reason": "미국 민주당의 상·하원 장악은 한국 자동차 기업의 대미 투자 및 수출 환경에 중요한 변수로 작용할 수 있습니다. 미국 시장에서의 사업 전략 변화와 인플레이션 감축법(IRA) 등 정책적 영향에 대한 현대차의 대응 전략이 주목됩니다.",
+      "sector": "자동차 (수출주)",
+      "opinion": "주의",
+      "reason": "원/달러 환율이 1,320원에서 1,350원대로 급등하며 '블루쓰나미' 우려가 제기되고 있습니다. 이는 수출 호조에도 불구하고 외국인 매도세를 유발하며 국내 증시 전반에 부정적 영향을 미치고, 수출 기업인 현대차의 실적과 외국인 투자 심리에 변동성을 확대시킬 수 있습니다.",
       "check_points": [
-        "미국 시장 판매량 및 정책 수혜 여부",
-        "전기차 전환 가속화 및 배터리 공급망 구축 전략"
+        "원/달러 환율 변동 추이",
+        "외국인 투자자 매매 동향",
+        "글로벌 자동차 시장 수요 변화"
       ],
       "related_news_titles": [
-        "美 민주당, 중간선거서 상·하원 장악…한국의 3,500억 달러 대미 투자 및 반도체·조선업 영향 촉각"
+        "환율 1,320원에서 1,350원대로 급등…수출 호조에도 외국인 매도세가 발목 잡아",
+        "환율 1,350원대로 급등하며 '블루쓰나미', 당분간 변동성 확대 전망"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "카카오뱅크",
       "market": "KOSPI",
-      "sector": "금융 (증권)",
-      "opinion": "관심",
-      "reason": "다우존스 지수의 급락 후 회복세와 월스트리트의 연준 전망 재평가는 글로벌 증시 전반에 긍정적인 기대감을 불어넣을 수 있습니다. 이는 증권업종의 투자 심리 개선과 거래대금 증가로 이어져 실적 기대감으로 연결될 가능성이 있습니다.",
+      "sector": "금융 (인터넷은행)",
+      "opinion": "주의",
+      "reason": "국내 물가가 3%에 육박하고 코스피가 5000선 위협을 받는 등 불안정한 국내 거시경제 상황에서 한국은행의 금리 결정 딜레마가 금융 시장 전반에 큰 변동성을 야기할 수 있으며, 이는 인터넷은행인 카카오뱅크에도 직간접적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "미 연준의 통화정책 기조 변화 및 금리 인하 기대감",
-        "국내외 증시 거래대금 추이 및 투자 심리 회복 여부"
+        "한국은행 금리 결정 결과",
+        "국내 물가 지표 발표",
+        "대출 금리 및 예금 금리 변동 추이"
       ],
       "related_news_titles": [
-        "다우존스, 급락 후 회복세…월스트리트 연준 전망 재평가",
-        "S&P 500, FOMC 금리 결정 및 기술주 실적 발표 앞두고 보합세 전망"
+        "물가 3% 육박, 코스피 5000선 위협…금리 결정 앞둔 한국은행의 딜레마"
       ]
     }
   ],
