@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11 10:43",
-  "analysis_date": "2026-11-11",
+  "generated_at": "2026-11-12 11:43",
+  "analysis_date": "2026-11-12",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,54 +13,54 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국발 인플레이션 압력 고조로 글로벌 증시가 하방 압력을 받는 가운데, 국내 증시는 환율 안정과 코스닥 강세로 상대적 회복력을 보였습니다.",
-    "국내거시경제": "미국 물가 충격에도 원/달러 환율이 1330원대로 하락하며 국내 경제의 펀더멘털 재평가와 외국인 자금 유입 기대를 높였습니다.",
-    "글로벌경제": "미국의 예상보다 높은 인플레이션 데이터와 연준의 매파적 발언으로 금리 인상 우려가 고조되며 글로벌 증시가 하락 마감했습니다.",
-    "증시금리": "월스트리트는 인플레이션 발발에 주식과 채권이 동반 하락했으나, 국내 증시는 코스피 보합, 코스닥 1%대 상승으로 차별화된 모습을 보였습니다.",
-    "부동산정책": "관련 뉴스 없음.",
-    "기업산업": "관련 뉴스 없음.",
-    "오늘의투자시사점": "글로벌 긴축 우려 속 국내 증시의 코스닥 성장주 강세에 주목하며, 인플레이션 헤지 또는 성장성 높은 중소형주에 대한 선별적 접근이 유효합니다.",
-    "오늘의한줄": "미국발 인플레이션 압력이 글로벌 시장을 흔드는 가운데, 국내는 환율 안정과 코스닥 강세로 상대적 선방을 보였습니다."
+    "총평": "미국 연준의 매파적 스탠스와 물가 압력으로 국내 금리 인상 압박이 커져 시장 변동성이 예상됩니다. 한편 글로벌 증시는 AI 테마의 강한 실적과 투자심리 회복으로 긍정적인 흐름을 보이고 있습니다.",
+    "국내거시경제": "한국은행은 11월 기준금리 인상 가능성을 시사했으나, 이후 통화정책은 국내 소비 회복 강도에 따라 유동적일 전망입니다. 고물가와 가계부채 부담 속에서 소비 동향이 정책 방향을 결정할 핵심 변수입니다.",
+    "글로벌경제": "유가 하락에도 불구하고 복합적인 요인들로 인해 주요 채권 시장의 차입 비용은 여전히 높게 유지될 수 있습니다. AI 산업은 견조한 실적을 바탕으로 투자가 지속되며 글로벌 경제 성장을 견인할 것으로 보입니다.",
+    "증시금리": "미국 국채금리 급등은 한국은행의 금리 인상 압력을 높여 국내 증시 변동성 확대를 야기할 수 있습니다. 반면 S&P 500 지수는 AI 열풍 재점화와 관련 기업 실적 호조에 힘입어 긍정적인 흐름을 이어갈 것으로 전망됩니다.",
+    "부동산정책": "해당 뉴스 없음.",
+    "기업산업": "AI 인프라 기업들의 양호한 실적이 AI 투자 둔화 우려를 완화하며 관련 산업 전반에 긍정적인 영향을 미치고 있습니다. 2026년까지 AI 산업 성장이 기대되며, 관련 ETF 투자를 통한 분산 투자가 유효합니다.",
+    "오늘의투자시사점": "국내는 금리 인상 가능성과 경기 둔화 우려로 보수적 접근이 필요합니다. 반면 글로벌 AI 테마는 견조한 실적과 기대감으로 투자심리가 양호하므로, AI 관련 기술주 및 ETF에 대한 관심은 유지하되 옥석 가리기가 중요합니다.",
+    "오늘의한줄": "국내 금리 인상 압력과 글로벌 AI 열풍이 교차하는 혼조세 속, 국내 시장은 관망하며 AI 테마의 선별적 투자를 고려해야 합니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "월스트리트, 뜨거운 인플레이션 데이터와 연준 발언에 금리 우려 고조되며 하락 마감",
-      "display_title": "월스트리트, 뜨거운 인플레이션 데이터와 연준 발언에 금리 우려 고조되며 하락 마감",
-      "original_title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries - Reuters",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "美 연준 빅스텝 경고와 물가 지표 부합, 국채금리 급등…한국은행 26일 결정 주목",
+      "display_title": "美 연준 빅스텝 경고와 물가 지표 부합, 국채금리 급등…한국은행 26일 결정 주목",
+      "original_title": "美 연준 '빅스텝' 경고에 물가 지표까지 부합…국채금리 급등, 한국은행 26일 결정 주목 - 시사프리즘",
       "summary": [
-        "최근 발표된 미국 인플레이션 데이터가 예상보다 높아 투자자들의 금리 인상 우려를 자극했습니다.",
-        "연방준비제도(Fed) 관계자들의 매파적 발언이 더해지며 시장은 추가적인 긴축 가능성을 가격에 반영했습니다.",
-        "이는 글로벌 증시 전반에 하방 압력으로 작용하며 변동성 확대에 유의할 필요가 있습니다."
+        "미국 연준의 매파적 발언과 높은 물가 지표로 미 국채 금리가 급등했으며, 이는 한국은행의 금리 인상 압력을 높일 것.",
+        "글로벌 금리 인상 기조가 지속되는 가운데, 한미 금리 역전 심화 우려로 한국은행 역시 통화 정책 결정에 상당한 부담을 느끼고 있음.",
+        "국내 기준금리 추가 인상 가능성이 높아져 금융 시장 변동성 확대 및 기업 대출 비용 증가 등의 영향이 예상되므로 보수적인 접근이 필요함."
       ],
-      "summary_text": "최근 발표된 미국 인플레이션 데이터가 예상보다 높아 투자자들의 금리 인상 우려를 자극했습니다. 연방준비제도(Fed) 관계자들의 매파적 발언이 더해지며 시장은 추가적인 긴축 가능성을 가격에 반영했습니다. 이는 글로벌 증시 전반에 하방 압력으로 작용하며 변동성 확대에 유의할 필요가 있습니다.",
-      "description": "월스트리트 증시가 높은 인플레이션 데이터와 연방준비제도(Fed) 관계자들의 발언으로 금리 인상 우려가 증폭되며 하락 마감했습니다.",
+      "summary_text": "미국 연준의 매파적 발언과 높은 물가 지표로 미 국채 금리가 급등했으며, 이는 한국은행의 금리 인상 압력을 높일 것. 글로벌 금리 인상 기조가 지속되는 가운데, 한미 금리 역전 심화 우려로 한국은행 역시 통화 정책 결정에 상당한 부담을 느끼고 있음. 국내 기준금리 추가 인상 가능성이 높아져 금융 시장 변동성 확대 및 기업 대출 비용 증가 등의 영향이 예상되므로 보수적인 접근이 필요함.",
+      "description": "미국 연방준비제도(Fed)의 '빅스텝' 금리 인상 경고와 예상치를 웃도는 물가 지표가 맞물려 미국 국채 금리가 급등했으며, 이는 한국은행의 26일 금리 결정에 큰 영향을 미칠 것으로 전망된다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "전반적 증시, 성장주",
+      "related_sector": "금융, 건설, 증권",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "카카오",
+        "네이버",
+        "현대건설"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 금리 인상 우려는 글로벌 유동성 축소로 이어져 국내 증시에도 부정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "향후 발표될 미국 고용 지표와 소비자물가지수(CPI) 추이를 통해 연준의 통화 정책 스탠스를 예측해야 합니다.",
+      "investment_reason": "미국 금리 인상 기조와 국내 물가 압력이 한국은행의 추가 금리 인상을 부추길 가능성이 커 시장 변동성이 확대되고 금융 비용 부담이 증가할 수 있어 주의가 필요합니다.",
+      "key_signal": "26일 한국은행 금융통화위원회의 금리 결정과 동결 또는 인상 시 발표될 정책 스탠스에 시장의 모든 관심이 집중될 것입니다.",
       "keywords": [
-        "미국증시",
-        "인플레이션",
         "연준",
         "금리인상",
-        "월스트리트"
+        "빅스텝",
+        "한국은행",
+        "국채금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
-      "published": "2026-11-11 06:27",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRGhOVHBVU1FoRWdvbngzdkJtU0J1N3BpdUJwaUl1SmRvcFNCdno0bzNIb2pVd2dfbS14emdBam41blJHa2VpaFdhazRhXzRrcThubGtJTnNjYmZuNW41Yi1vd1l0M1d6?oc=5",
+      "published": "2026-11-12 08:27",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -70,37 +70,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "CPI 데이터가 연준 금리 인상 베팅에 불을 지피며 주식과 채권 동반 하락: 시장 동향",
-      "display_title": "CPI 데이터가 연준 금리 인상 베팅에 불을 지피며 주식과 채권 동반 하락: 시장 동향",
-      "original_title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap - Bloomberg.com",
+      "title": "S&P 500 지수, AI 열풍 재점화로 반등 전망",
+      "display_title": "S&P 500 지수, AI 열풍 재점화로 반등 전망",
+      "original_title": "S&P 500 Forecast: SPX rebounds amid revived AI enthusiasm - StoneX",
       "summary": [
-        "예상보다 높은 소비자물가지수(CPI) 발표 이후 연준의 금리 인상 가능성이 높아지면서 시장의 긴축 우려가 커졌습니다.",
-        "이에 따라 주식 시장은 물론 채권 시장에서도 매도세가 나타나며 주가와 채권 가격이 동반 하락했습니다.",
-        "이러한 현상은 금리 상승에 대한 시장의 민감도를 보여주며, 향후 통화 정책 방향이 투자 결정에 중요한 변수가 될 것입니다."
+        "S&P 500 지수가 AI 기술에 대한 투자심리 회복에 힘입어 상승세를 보일 것으로 예상.",
+        "최근 AI 관련 기업들의 실적 개선 또는 긍정적인 전망이 투자자들의 AI 산업 성장에 대한 기대를 다시 높이고 있음.",
+        "AI 관련 기술주 및 해당 산업 전반에 대한 투자 관심이 다시 증가할 수 있으며, 이는 증시 전반의 상승 동력으로 작용할 가능성."
       ],
-      "summary_text": "예상보다 높은 소비자물가지수(CPI) 발표 이후 연준의 금리 인상 가능성이 높아지면서 시장의 긴축 우려가 커졌습니다. 이에 따라 주식 시장은 물론 채권 시장에서도 매도세가 나타나며 주가와 채권 가격이 동반 하락했습니다. 이러한 현상은 금리 상승에 대한 시장의 민감도를 보여주며, 향후 통화 정책 방향이 투자 결정에 중요한 변수가 될 것입니다.",
-      "description": "소비자물가지수(CPI) 데이터가 연방준비제도(Fed)의 추가 금리 인상 가능성을 높이자 주식과 채권 시장이 동반 하락세를 보였습니다.",
+      "summary_text": "S&P 500 지수가 AI 기술에 대한 투자심리 회복에 힘입어 상승세를 보일 것으로 예상. 최근 AI 관련 기업들의 실적 개선 또는 긍정적인 전망이 투자자들의 AI 산업 성장에 대한 기대를 다시 높이고 있음. AI 관련 기술주 및 해당 산업 전반에 대한 투자 관심이 다시 증가할 수 있으며, 이는 증시 전반의 상승 동력으로 작용할 가능성.",
+      "description": "인공지능(AI) 기술에 대한 투자자들의 열기가 다시 살아나면서 S&P 500 지수가 반등할 것으로 예측됨.",
       "category": "증시·금리",
       "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "채권시장, 증시 전반",
+      "market_impact": "긍정",
+      "related_sector": "인공지능(AI), 반도체, 소프트웨어, IT 서비스",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "엔비디아",
+        "마이크로소프트"
       ],
-      "investment_view": "주의",
-      "investment_reason": "주식과 채권의 동반 하락은 포트폴리오 다변화 효과를 약화시킬 수 있어 전반적인 투자 전략 재검토가 필요합니다.",
-      "key_signal": "단기 채권 금리와 장기 채권 금리의 스프레드 변화를 통해 시장의 경기 침체 전망을 확인할 수 있습니다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 테마가 여전히 시장의 주요 상승 동력으로 작용하며 관련 기술주에 대한 투자 매력이 높다고 판단됩니다.",
+      "key_signal": "AI 관련 주요 기업들의 실적 발표와 신기술 개발 동향, 그리고 S&P 500 지수 내 기술주의 흐름을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "CPI",
-        "금리인상",
-        "연준",
-        "주식하락",
-        "채권하락"
+        "S&P 500",
+        "AI",
+        "인공지능",
+        "기술주",
+        "증시반등"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
-      "published": "2026-11-11 06:45",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3pXQ3ZCRDd3N0laV3lRNHJHdzc2S09DSEhuc1ZnQTJiekU0MXNxSnpSMHJ2ZXBxLVZTN1oteVZFMlozSjBvV0F2UFAtUVVlVEN2dkZoU18xNEx1RHdiX1o1NWhjUDFxTDBmelFFNThvSmlEX3JfSkZPZmJ5dlg5RXVXTmttWFpzT2tPVGk4N1NBQW9YVnlhRlVORW1SZzVKMWJsQ2tuZUlUUQ?oc=5",
+      "published": "2026-11-12 02:27",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -109,42 +108,41 @@
     },
     {
       "rank": 3,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "오늘 주식 시장, 11월 10일: 월스트리트 랠리, 뜨거운 인플레이션으로 연준의 부담 커지며 난관에 봉착",
-      "display_title": "오늘 주식 시장, 11월 10일: 월스트리트 랠리, 뜨거운 인플레이션으로 연준의 부담 커지며 난관에 봉착",
-      "original_title": "Stock Market Today, Nov. 10: Wall Street's Rally Hits a Roadblock as Hot Inflation Raises the Stakes for the Fed - The Motley Fool",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "11월 금리 인상 전망에도, 그 이후의 통화 정책 방향은 소비 동향에 달려있다",
+      "display_title": "11월 금리 인상 전망에도, 그 이후의 통화 정책 방향은 소비 동향에 달려있다",
+      "original_title": "11월엔 올린다지만 그다음은…금통위가 주목한 소비의 온도 - KB Think",
       "summary": [
-        "월스트리트의 최근 상승세가 고조된 인플레이션 압력에 부딪히며 시장이 조정을 받았습니다.",
-        "이는 연준이 인플레이션 억제를 위해 추가적인 긴축 정책을 고려할 수 있다는 신호를 강화했습니다.",
-        "투자자들은 인플레이션 추이와 연준의 대응에 따라 시장 변동성이 커질 것에 대비해야 합니다."
+        "한국은행 금통위는 11월 기준금리 인상 가능성을 시사했지만, 그 이후의 정책 방향은 소비 회복 강도에 따라 유동적일 것으로 예상됨.",
+        "고물가 압력으로 금리 인상은 불가피할 수 있으나, 가계 부채 및 경기 둔화 우려로 소비 활성화가 필요한 상황.",
+        "향후 금리 인상 속도 조절 가능성이 존재하며, 소비 동향에 따라 내수 관련 산업 및 증시 전반에 미치는 영향이 달라질 수 있음."
       ],
-      "summary_text": "월스트리트의 최근 상승세가 고조된 인플레이션 압력에 부딪히며 시장이 조정을 받았습니다. 이는 연준이 인플레이션 억제를 위해 추가적인 긴축 정책을 고려할 수 있다는 신호를 강화했습니다. 투자자들은 인플레이션 추이와 연준의 대응에 따라 시장 변동성이 커질 것에 대비해야 합니다.",
-      "description": "11월 10일 월스트리트 증시의 랠리가 예상치를 상회하는 인플레이션 수치로 인해 연방준비제도(Fed)의 금리 인상 부담이 커지면서 제동이 걸렸습니다.",
-      "category": "증시·금리",
-      "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "기술주, 성장주",
+      "summary_text": "한국은행 금통위는 11월 기준금리 인상 가능성을 시사했지만, 그 이후의 정책 방향은 소비 회복 강도에 따라 유동적일 것으로 예상됨. 고물가 압력으로 금리 인상은 불가피할 수 있으나, 가계 부채 및 경기 둔화 우려로 소비 활성화가 필요한 상황. 향후 금리 인상 속도 조절 가능성이 존재하며, 소비 동향에 따라 내수 관련 산업 및 증시 전반에 미치는 영향이 달라질 수 있음.",
+      "description": "한국은행 금융통화위원회가 11월 기준금리 인상을 시사했음에도 불구하고, 향후 통화 정책의 방향은 국내 소비의 회복 여부에 달려있다고 분석한다.",
+      "category": "국내 거시경제",
+      "importance": 9,
+      "market_impact": "중립",
+      "related_sector": "금융, 유통, 소비재, 내수 산업",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "신세계",
+        "KB금융"
       ],
       "investment_view": "주의",
-      "investment_reason": "인플레이션 압력은 연준의 매파적 기조를 유지하게 하여 국내 증시의 유동성 환경에 부정적 영향을 줄 수 있습니다.",
-      "key_signal": "다음 연준 회의록 공개를 통해 통화정책 위원들의 인플레이션 인식과 향후 정책 방향을 면밀히 분석해야 합니다.",
+      "investment_reason": "금리 인상 기조와 소비 둔화 가능성이 상충하며 국내 증시에 불확실성을 가중시킬 수 있으므로, 내수 관련 기업 투자 시 신중한 접근이 필요합니다.",
+      "key_signal": "11월 한국은행 금통위의 금리 결정과 발표문, 그리고 향후 발표될 국내 소비 지표들을 면밀히 주시해야 합니다.",
       "keywords": [
-        "인플레이션",
-        "연준",
-        "금리인상",
-        "미국증시",
-        "시장조정"
+        "한국은행",
+        "금통위",
+        "기준금리",
+        "소비",
+        "내수"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSHlmQlFUSlpKcTRIbXJkT1FpaFhQdmNOeHd6UlB1TThxS1VXRXhqbmg1QmhkUGhySjhxREZBT1M1NVpHVzZNV1EyMkswWERCaTZxcElTRXNrVUdpY3RtREc1TExIRkdGYnpBV2dYcnAtTk9qSW9jSXFLRHNlUWRfWXEwbXZOXzQxUXlRUXBBT2hZRWpSQUM4YjJMSVZyR3QtQnlIb0FqalJZZHlZTmt2alRzMDhpa2FVYmJnbmdKOS1ncXI4enFoQXJIdlZCaUszUDdQZHRPMUdWZVgtTk9BRE5Uem5mT1JwVVJCZ1RYcm9UT1J1Mm5QX0xOcFVxTlE?oc=5",
-      "published": "2026-11-11 07:30",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCbi1TeUJBOGhTbWtldmJvbFdXNFNUN25hNXJZTWY4bWhwNG53RzJ2dDdUdFRqWmZiV2VFdi1VZjE0Z3h6MUQ3U2U5c1B5VWtRVHlxUk8tRUVQV2JzcUNJZ1M2ZmNKRWYtNTlNZlFOdURBdw?oc=5",
+      "published": "2026-11-12 08:40",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -154,37 +152,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "실망스러운 인플레이션 업데이트에 미국 증시 하락",
-      "display_title": "실망스러운 인플레이션 업데이트에 미국 증시 하락",
-      "original_title": "U.S. stocks slip following a discouraging update on inflation - BNN Bloomberg",
+      "title": "유가 하락만으로는 채권 시장의 차입 비용을 낮추기 어렵다",
+      "display_title": "유가 하락만으로는 채권 시장의 차입 비용을 낮추기 어렵다",
+      "original_title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market - MarketWatch",
       "summary": [
-        "미국에서 발표된 인플레이션 지표가 시장의 기대를 충족시키지 못하며 투자 심리를 위축시켰습니다.",
-        "인플레이션 압력의 지속은 연방준비제도(Fed)의 긴축 정책 장기화 가능성을 높이며 증시 하방 압력으로 작용했습니다.",
-        "개인 투자자들은 인플레이션 헤지 전략을 고려하거나 변동성이 낮은 자산에 대한 관심을 높일 필요가 있습니다."
+        "유가 하락에도 불구하고 세계 주요 채권 시장의 차입 비용(금리)이 여전히 높게 유지될 수 있음.",
+        "과거 유가 하락이 인플레이션 완화 및 금리 인하 기대 요인이었으나, 이제는 다른 복합적 요인들이 금리 하락을 제약하고 있음.",
+        "유가 변동 외 다른 요인들이 금리 방향성에 더 큰 영향을 미칠 수 있으므로, 채권 시장 및 금리 관련 투자 결정 시 복합적인 분석이 필요함."
       ],
-      "summary_text": "미국에서 발표된 인플레이션 지표가 시장의 기대를 충족시키지 못하며 투자 심리를 위축시켰습니다. 인플레이션 압력의 지속은 연방준비제도(Fed)의 긴축 정책 장기화 가능성을 높이며 증시 하방 압력으로 작용했습니다. 개인 투자자들은 인플레이션 헤지 전략을 고려하거나 변동성이 낮은 자산에 대한 관심을 높일 필요가 있습니다.",
-      "description": "실망스러운 인플레이션 데이터 업데이트 소식에 따라 미국 주식 시장이 전반적으로 하락세를 기록했습니다.",
+      "summary_text": "유가 하락에도 불구하고 세계 주요 채권 시장의 차입 비용(금리)이 여전히 높게 유지될 수 있음. 과거 유가 하락이 인플레이션 완화 및 금리 인하 기대 요인이었으나, 이제는 다른 복합적 요인들이 금리 하락을 제약하고 있음. 유가 변동 외 다른 요인들이 금리 방향성에 더 큰 영향을 미칠 수 있으므로, 채권 시장 및 금리 관련 투자 결정 시 복합적인 분석이 필요함.",
+      "description": "세계 주요 채권 시장에서 유가 하락이 더 이상 차입 비용(금리)을 낮추는 데 충분하지 않다는 분석.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "소비재, 산업재",
+      "related_sector": "채권, 금융, 증권",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "SK이노베이션",
+        "S-Oil",
+        "한국전력"
       ],
       "investment_view": "주의",
-      "investment_reason": "인플레이션 장기화는 기업의 비용 부담을 가중시키고 소비 심리를 위축시켜 국내 기업 실적에도 영향을 줄 수 있습니다.",
-      "key_signal": "기업들의 분기 실적 발표에서 인플레이션이 비용과 마진에 미치는 영향을 주시해야 합니다.",
+      "investment_reason": "금리 인하 기대가 약화될 수 있다는 신호로, 주식 시장 전반에 걸쳐 유동성 압박이 지속될 가능성이 있어 투자 시 보수적인 접근이 필요합니다.",
+      "key_signal": "유가 외 글로벌 금리에 영향을 미치는 다른 핵심 요인들이 무엇인지 파악하고, 각국 중앙은행의 통화 정책 스탠스를 주시해야 합니다.",
       "keywords": [
+        "유가",
+        "금리",
+        "채권시장",
         "인플레이션",
-        "미국증시",
-        "투자심리",
-        "긴축정책",
-        "주가하락"
+        "통화정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDB1OUxfdVFDWXdiQjJ0SDZYU0E2QnVhNmhfZVZiTGdLYkZaN3ZFdTBwN3RaX3pnMWNhSTdHRUFjSURaalMwdnVwWkl5X1VMZ255NWxtbzBSYW5fS2IzVkNOS2RWdW8tUXlEVks0b0J0N3FTa3U2LTlzN19KNmJ2R1hlTm5ZSGRjdG92cHdOOVFLTFM5QVdMZDVzclBqMGdUcXl5NTJKYnVIY0cwMkhxYW9TcEY3N3NCS3BCMFdMU0hiUWs?oc=5",
-      "published": "2026-11-11 06:24",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMUZSb1dkVEFCS2ZrMHJPWnFuNTQ0dkxQUjVTYW1OdUpaaW1HT3BqajFKalhlTFZVNDFDcnQzWTJTSXdQZTlkVVYwX2VkQ0NocTM3Vld2Mms2WW5HR0dEVnpkMHA4UVlWdVRYWWc2U0ZPMnAtRFg0QUhWT3JJclo3WG5BbUF6WUlBOGRmMTZJWkl2ZlFZSnhNb014NWtmSDJoM3BGYVhhMjdRVWR2M2VMMm5IcVBlaGY0Z0tiQ2NmaUFMLW11YTAyd25MNUZmcXMzOFNFaU1sdVdHQjhKekdwdUhRb2ZHbVVJ?oc=5",
+      "published": "2026-11-12 06:42",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,83 +191,84 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "미국 물가 충격 비껴간 환율, 1330원대로 하락",
-      "display_title": "미국 물가 충격 비껴간 환율, 1330원대로 하락",
-      "original_title": "美물가 충격 비껴간 환율, 1330원대로 하락 - 이데일리",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "CoreWeave 실적에 AI 투자 우려 완화, 증시 상승 마감",
+      "display_title": "CoreWeave 실적에 AI 투자 우려 완화, 증시 상승 마감",
+      "original_title": "Stocks end higher as CoreWeave results ease AI spending worries - The Detroit News",
       "summary": [
-        "미국의 인플레이션 지표 충격에도 불구하고 원/달러 환율이 오히려 하락세를 보이며 1330원대로 진입했습니다.",
-        "이는 외국인 투자 자금 유입 기대감과 국내 경제의 펀더멘털에 대한 재평가 등 복합적인 요인이 작용한 것으로 해석됩니다.",
-        "환율 안정은 수입 물가 안정 및 기업의 원가 부담 완화에 긍정적으로 작용할 수 있으므로 관련 섹터에 주목할 필요가 있습니다."
+        "AI 인프라 기업 CoreWeave의 양호한 실적이 시장의 AI 투자 둔화 우려를 잠재우며 증시 전반에 긍정적인 영향을 미침.",
+        "최근 AI 버블론과 투자 속도 조절에 대한 우려가 있었으나, 실제 기업들의 견조한 성장이 이를 반박하며 투자심리를 개선.",
+        "AI 관련 투자가 지속될 것이라는 확신을 제공하며, AI 인프라 및 관련 하드웨어, 소프트웨어 기업들에 대한 긍정적인 시각이 유지될 수 있음."
       ],
-      "summary_text": "미국의 인플레이션 지표 충격에도 불구하고 원/달러 환율이 오히려 하락세를 보이며 1330원대로 진입했습니다. 이는 외국인 투자 자금 유입 기대감과 국내 경제의 펀더멘털에 대한 재평가 등 복합적인 요인이 작용한 것으로 해석됩니다. 환율 안정은 수입 물가 안정 및 기업의 원가 부담 완화에 긍정적으로 작용할 수 있으므로 관련 섹터에 주목할 필요가 있습니다.",
-      "description": "미국의 높은 물가 발표에도 불구하고 원/달러 환율이 1330원대로 오히려 하락하며 충격에서 비껴가는 모습을 보였습니다.",
-      "category": "국내 거시경제",
+      "summary_text": "AI 인프라 기업 CoreWeave의 양호한 실적이 시장의 AI 투자 둔화 우려를 잠재우며 증시 전반에 긍정적인 영향을 미침. 최근 AI 버블론과 투자 속도 조절에 대한 우려가 있었으나, 실제 기업들의 견조한 성장이 이를 반박하며 투자심리를 개선. AI 관련 투자가 지속될 것이라는 확신을 제공하며, AI 인프라 및 관련 하드웨어, 소프트웨어 기업들에 대한 긍정적인 시각이 유지될 수 있음.",
+      "description": "AI 인프라 기업 CoreWeave의 긍정적인 실적 발표로 인공지능(AI) 관련 지출 둔화 우려가 해소되면서 주식 시장이 상승 마감했다.",
+      "category": "증시·금리",
       "importance": 8,
       "market_impact": "긍정",
-      "related_sector": "항공, 여행, 정유, 가스",
+      "related_sector": "인공지능(AI), 반도체, 클라우드 컴퓨팅, IT 서비스",
       "related_stocks": [
-        "대한항공",
-        "아시아나항공",
-        "SK이노베이션"
+        "엔비디아",
+        "SK하이닉스",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "원/달러 환율 하락은 국내 기업들의 원자재 수입 비용을 절감하고 투자 심리 안정에 기여할 수 있습니다.",
-      "key_signal": "환율 하락세가 지속될지, 그리고 국내 수출 기업들의 가격 경쟁력에 어떤 영향을 미칠지 지속적으로 관찰해야 합니다.",
+      "investment_reason": "AI 산업에 대한 투자 지속 가능성이 확인되면서 관련 기술주 및 인프라 기업들의 성장 모멘텀이 유지될 것으로 기대됩니다.",
+      "key_signal": "AI 인프라 및 핵심 기술 기업들의 실적 발표와 가이던스를 지속적으로 확인하여 AI 투자 사이클의 강도를 파악해야 합니다.",
       "keywords": [
-        "환율",
-        "원달러환율",
-        "미국물가",
-        "국내경제",
-        "수입물가"
+        "AI",
+        "인공지능",
+        "CoreWeave",
+        "기술주",
+        "증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlA3SnNJbmwzTHB6N1RnQmdRSU5ZbS1aa3ZQaU0yUjhMWWFyNy1ZYzI4NVpUTk52bng2MDFmd0FSUFBiOU1yTVdOTlpnLUVncEZaeUpGcTEySmcyZDIxNUdDNUZ6a2U1YmxrUzZMS0FGU2lnX0FkYjA2dGZOM1RwMA?oc=5",
-      "published": "2026-11-11 10:34",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0JEODZ4T1lPYXpaX3I1UG5UTERtMm1LbzBEbG83QVAtZl9CUEhOYUwyQ0pvNGNjdTdBY1cxZXFRZk1hRkNQVVVIZFFQczhsMU9RWV9fMG5KUG1TUWpUOWE1X3REYWJzMDk1Y1NZQ3NYRlgwYTNjSWJtUVdKY0UxdDN3TW5xbHduZEludXpETFJfQUNtYTRncnRiOHBDclJjUEpvbWJIaEVrUXFYWHdpMEY1LV9rLUFhREJ4eUNhVEVPVjVJQnN3cFhWdw?oc=5",
+      "published": "2026-11-12 06:12",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[개장시황] 코스피, 美 물가 부담에 보합 출발…코스닥은 1%대 상승",
-      "display_title": "[개장시황] 코스피, 美 물가 부담에 보합 출발…코스닥은 1%대 상승",
-      "original_title": "[개장시황] 코스피, 美 물가 부담에 보합 출발…코스닥은 1%대 상승 - 뉴스핌",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "2026년에 투자할 만한 최고의 AI(인공지능) ETF 5가지",
+      "display_title": "2026년에 투자할 만한 최고의 AI(인공지능) ETF 5가지",
+      "original_title": "5 Best Artificial Intelligence (AI) ETFs to Buy in 2026 - The Motley Fool",
       "summary": [
-        "미국 물가 상승의 부담에도 불구하고 코스피는 보합권에서 출발했으며, 코스닥 지수는 오히려 1%대의 상승률을 기록했습니다.",
-        "이는 코스피 대형주가 글로벌 매크로 환경에 더 민감하게 반응하는 반면, 코스닥의 성장주는 개별 모멘텀에 집중하는 경향을 보여줍니다.",
-        "시장 전반의 변동성이 높은 시기에는 성장성과 기술력을 갖춘 코스닥 내 중소형주에 대한 선별적 접근이 유효할 수 있습니다."
+        "2026년에도 AI 산업의 성장이 지속될 것으로 예상되며, AI 관련 ETF는 이러한 성장에 투자하는 효과적인 방법으로 제시됨.",
+        "개별 AI 기업 투자의 위험을 분산하고, AI 기술 발전의 전반적인 수혜를 누리기 위한 대안으로 ETF가 주목받고 있음.",
+        "AI 테마에 대한 장기적인 투자 관점을 유지하며, 다양한 AI 관련 기술과 산업에 분산 투자할 수 있는 ETF를 고려할 수 있음."
       ],
-      "summary_text": "미국 물가 상승의 부담에도 불구하고 코스피는 보합권에서 출발했으며, 코스닥 지수는 오히려 1%대의 상승률을 기록했습니다. 이는 코스피 대형주가 글로벌 매크로 환경에 더 민감하게 반응하는 반면, 코스닥의 성장주는 개별 모멘텀에 집중하는 경향을 보여줍니다. 시장 전반의 변동성이 높은 시기에는 성장성과 기술력을 갖춘 코스닥 내 중소형주에 대한 선별적 접근이 유효할 수 있습니다.",
-      "description": "국내 코스피 지수는 미국 물가 상승 부담으로 보합세로 출발한 반면, 코스닥 지수는 1%대 상승하며 대조적인 모습을 보였습니다.",
-      "category": "증시·금리",
+      "summary_text": "2026년에도 AI 산업의 성장이 지속될 것으로 예상되며, AI 관련 ETF는 이러한 성장에 투자하는 효과적인 방법으로 제시됨. 개별 AI 기업 투자의 위험을 분산하고, AI 기술 발전의 전반적인 수혜를 누리기 위한 대안으로 ETF가 주목받고 있음. AI 테마에 대한 장기적인 투자 관점을 유지하며, 다양한 AI 관련 기술과 산업에 분산 투자할 수 있는 ETF를 고려할 수 있음.",
+      "description": "2026년 인공지능(AI) 산업의 성장 전망을 고려하여 투자하기에 유망한 AI 관련 상장지수펀드(ETF) 5개를 소개한다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "IT, 헬스케어, 바이오",
+      "market_impact": "긍정",
+      "related_sector": "인공지능(AI), 반도체, 소프트웨어, ETF",
       "related_stocks": [
-        "에코프로비엠",
-        "셀트리온헬스케어"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "관심",
-      "investment_reason": "코스닥 시장의 상대적 강세는 개별 기업의 성장성에 대한 시장의 기대감을 반영하며, 투자 기회를 제공할 수 있습니다.",
-      "key_signal": "코스닥 시장 내 특정 테마나 업종의 상승세를 주시하며, 실적 개선이 기대되는 중소형주 발굴에 집중해야 합니다.",
+      "investment_reason": "AI 산업의 성장은 여전히 유효하며, 개별 종목 리스크를 줄이면서 AI 테마에 효율적으로 투자할 수 있는 ETF는 매력적인 대안이 될 수 있습니다.",
+      "key_signal": "AI 기술 발전의 속도와 산업 적용 범위 확대 추이를 지속적으로 모니터링하고, 주요 AI ETF의 구성 종목 및 수익률을 비교 분석해야 합니다.",
       "keywords": [
-        "코스피",
-        "코스닥",
-        "미국물가",
-        "개장시황",
-        "중소형주"
+        "AI",
+        "인공지능",
+        "ETF",
+        "투자전략",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BcGJCTVRwWGJUY2hQNnpScHJPaEhybEJxWEVnT0FmYVpyVkxVX0o5LXJvQ2IwUTRJaC1yT1BTZ2h2Rm5iLXdjUjFQd0I0SEZnaUxqS3NrTlNLTlNR?oc=5",
-      "published": "2026-11-11 09:54",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzA2Wld0QkFFTkVjZGlIQ3JfdklNNS1SeUVIb21TMFlFZTc4ejB1UWZqN3FLT2FlWVhEeW5QOFM1STZCM0kxRE9lcERjRTY4ZjlDZFNLaVNiSDVZMDhMdjEwbUQ2WG9XeUZ5M2hBeENWaENUbE5tTE1tU2tBS0x5TV9Gak8wVUlMTmlqRl85SkQzSnJmMGd0T1JaelpWS3lvVWc?oc=5",
+      "published": "2026-11-12 06:52",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -278,64 +277,67 @@
   "watchlist": [
     {
       "rank": 1,
-      "name": "대한항공",
+      "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "항공운수",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "원/달러 환율 하락은 항공사의 유류비 등 외화 지출 부담을 경감시키고, 장기적으로는 해외 여행 수요 회복에 긍정적인 영향을 미칠 수 있습니다.",
+      "reason": "AI 산업 투자 지속 가능성이 확인되고 AI 테마가 시장의 주요 상승 동력으로 작용하는 가운데, AI 반도체 및 관련 기술 개발에 필수적인 삼성전자의 역할이 부각될 것으로 기대됩니다.",
       "check_points": [
-        "국제 유가 및 환율 변동성",
-        "국제선 여객 회복 속도"
+        "AI 반도체 수요 및 HBM 생산 능력",
+        "글로벌 IT 경기 회복세 및 메모리 반도체 가격 동향"
       ],
       "related_news_titles": [
-        "미국 물가 충격 비껴간 환율, 1330원대로 하락"
+        "S&P 500 지수, AI 열풍 재점화로 반등 전망",
+        "CoreWeave 실적에 AI 투자 우려 완화, 증시 상승 마감",
+        "2026년에 투자할 만한 최고의 AI(인공지능) ETF 5가지"
       ]
     },
     {
       "rank": 2,
-      "name": "SK이노베이션",
+      "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "정유 및 화학",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "원/달러 환율 하락은 원유 등 원자재 수입 의존도가 높은 정유 및 화학 기업의 비용 부담을 완화하여 수익성 개선에 기여할 수 있습니다.",
+      "reason": "AI 산업에 대한 투자가 지속될 것이라는 기대감이 형성되면서, AI 연산에 필수적인 고대역폭 메모리(HBM) 시장의 선두 주자인 SK하이닉스의 성장 모멘텀이 더욱 강화될 것으로 판단됩니다.",
       "check_points": [
-        "국제 유가 동향 및 정제 마진 변화",
-        "환율 변동성 지속 여부"
+        "HBM 경쟁 심화 및 기술 우위 유지 여부",
+        "글로벌 AI 서버 투자 확대 동향"
       ],
       "related_news_titles": [
-        "미국 물가 충격 비껴간 환율, 1330원대로 하락"
+        "CoreWeave 실적에 AI 투자 우려 완화, 증시 상승 마감",
+        "S&P 500 지수, AI 열풍 재점화로 반등 전망"
       ]
     },
     {
       "rank": 3,
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "sector": "2차전지 소재",
+      "name": "네이버",
+      "market": "KOSPI",
+      "sector": "IT 서비스, 소프트웨어",
       "opinion": "관심",
-      "reason": "미국 물가 부담에도 불구하고 코스닥 시장이 상대적 강세를 보이며 성장주에 대한 기대감을 반영하고 있으며, 특히 2차전지 섹터의 개별 기업 모멘텀에 주목할 필요가 있습니다.",
+      "reason": "AI 테마가 시장의 주요 동력으로 재점화되고 AI 산업 성장이 여전히 유효한 가운데, 자체 AI 기술 개발 및 서비스 확대를 추진하는 국내 대표 IT 기업으로서 AI 관련 투자 대안으로 주목할 필요가 있습니다.",
       "check_points": [
-        "글로벌 전기차 시장 성장세 유지 여부",
-        "핵심 소재 가격 변동 및 수급 상황"
+        "자체 AI 모델 '하이퍼클로바X' 사업화 성과",
+        "클라우드 및 AI 서비스 확대를 통한 신규 수익 창출 여부"
       ],
       "related_news_titles": [
-        "[개장시황] 코스피, 美 물가 부담에 보합 출발…코스닥은 1%대 상승"
+        "S&P 500 지수, AI 열풍 재점화로 반등 전망",
+        "2026년에 투자할 만한 최고의 AI(인공지능) ETF 5가지"
       ]
     },
     {
       "rank": 4,
-      "name": "삼성전자",
+      "name": "카카오",
       "market": "KOSPI",
-      "sector": "반도체 및 전자제품",
-      "opinion": "주의",
-      "reason": "미국 인플레이션 압력과 연준의 매파적 기조 유지로 기술주 전반의 유동성 환경이 악화될 수 있으나, 국내 증시를 대표하는 종목으로서 시장의 전반적인 방향성을 가늠하는 중요한 지표로 면밀한 관찰이 필요합니다.",
+      "sector": "IT 서비스, 소프트웨어",
+      "opinion": "관심",
+      "reason": "AI 산업의 성장이 지속될 것으로 전망되며 AI 관련 ETF의 투자 매력이 부각되는 상황에서, 카카오톡 기반의 AI 서비스 접목 및 다양한 AI 기술 개발을 통해 장기적인 성장 동력을 확보할 가능성이 있습니다.",
       "check_points": [
-        "글로벌 IT 수요 회복 시점 및 강도",
-        "미국 기술주 실적 발표 및 주가 흐름",
-        "반도체 업황 개선 여부"
+        "AI 기반 신규 서비스 도입 및 사용자 반응",
+        "계열사별 AI 기술 활용을 통한 시너지 효과"
       ],
       "related_news_titles": [
-        "오늘 주식 시장, 11월 10일: 월스트리트 랠리, 뜨거운 인플레이션으로 연준의 부담 커지며 난관에 봉착",
-        "월스트리트, 뜨거운 인플레이션 데이터와 연준 발언에 금리 우려 고조되며 하락 마감"
+        "S&P 500 지수, AI 열풍 재점화로 반등 전망",
+        "2026년에 투자할 만한 최고의 AI(인공지능) ETF 5가지"
       ]
     }
   ],
