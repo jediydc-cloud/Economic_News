@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20 11:51",
-  "analysis_date": "2026-11-20",
+  "generated_at": "2026-11-21 12:00",
+  "analysis_date": "2026-11-21",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,95 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 인플레이션 우려와 외국인 매도세가 증시 변동성을 키우는 가운데, AI 테마는 시장별 다른 흐름을 보입니다.",
-    "국내거시경제": "외국인 국내 주식 평가액은 급감했지만, 순대외금융자산은 역대 최대치를 기록하며 한국의 대외 건전성은 양호한 편입니다. 다만, 외국인 매도세는 국내 증시 투자심리 위축 요인으로 작용합니다.",
-    "글로벌경제": "미국 증시는 인플레이션과 연준의 긴축 우려로 급락했고, 아시아 증시도 AI 기대감 약화로 부진했습니다. 그러나 미국 S&P 500은 AI 투자 열기 재점화로 반등 기대감도 존재합니다.",
-    "증시금리": "국내 증시는 외국인의 45조원 규모 '셀 코리아' 기조가 두 달째 이어지며 상승 탄력을 제한받고 있습니다. 글로벌 증시는 인플레이션과 AI 기대감 약화로 전반적인 약세를 보였습니다.",
-    "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "AI 관련 기술주는 아시아 증시에서 매도세 심화와 기대감 약화로 어려움을 겪는 반면, 미국 증시에서는 성장 잠재력에 대한 기대감으로 반등 가능성이 제기됩니다.",
-    "오늘의투자시사점": "외국인 매도세 지속과 글로벌 증시의 인플레이션 우려에 따른 변동성 확대에 대비해야 합니다. AI 관련주는 단기 변동성을 주시하며 장기 성장 관점에서 저점 매수 기회를 탐색할 수 있습니다.",
-    "오늘의한줄": "글로벌 불확실성과 외국인 매도세 속에서 증시 변동성 확대가 예상되나, AI 기술주의 시장별 차별화된 흐름을 주목해야 할 때입니다."
+    "총평": "글로벌 기술주 중심의 증시 폭락으로 전반적인 시장 불안 심리가 확대되었으며, 국내 증시도 반도체 대형주 하락에 코스피 5000선이 붕괴되는 등 조정 압력이 커지고 있습니다.",
+    "국내거시경제": "강달러 현상으로 원/달러 환율 상승 압력이 지속되며, 다음주 한국은행 금융통화위원회(금통위)의 금리 결정이 환율 및 국내 증시의 향방에 중대한 영향을 미칠 것입니다.",
+    "글로벌경제": "미국 증시가 5.28% 폭락하고 나스닥이 연간 하락 전환했으며, 특히 필라델피아 반도체 지수와 엔비디아가 급락하며 기술주 과열에 대한 조정이 심화되었습니다. 안전자산 선호 심리로 국채 수익률은 하락했습니다.",
+    "증시금리": "미국 나스닥과 필라델피아 반도체 지수의 급락은 국내 반도체주 약세로 이어져 코스피 5000선 붕괴를 초래했습니다. VIX 지수가 35를 상회하며 전반적인 시장 변동성이 크게 확대된 상황입니다.",
+    "부동산정책": "특이사항 없음",
+    "기업산업": "엔비디아가 7주 연속 하락하고 삼성전자, SK하이닉스 등 국내 반도체 대형주가 동반 약세를 보였습니다. 다만, 단기 조정에도 불구하고 AI 산업의 장기 성장 잠재력에 대한 기대는 여전히 유효하며, 엔비디아 실적 발표와 앤트로픽 데뷔에 시장의 관심이 집중되고 있습니다.",
+    "오늘의투자시사점": "글로벌 기술주 및 반도체 섹터의 추가 하락 가능성을 염두에 두고 국내 관련 종목에 대한 보수적인 접근이 필요합니다. 단기적인 시장 변동성 속에서도 AI 기술의 본질적 가치에 주목하여 우량 AI 기업들을 선별적으로 탐색하고, 환율 및 국내 금리 정책 변화에 대한 지속적인 모니터링이 필수입니다.",
+    "오늘의한줄": "글로벌 기술주 조정으로 증시 불안이 확대되었으나, AI 산업의 장기 성장 가치는 여전히 유효합니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "외국인 두 달간 45조원 '셀 코리아'…반도체 호실적에도 자금 이탈 지속, 귀환 시점은?",
-      "display_title": "외국인 두 달간 45조원 '셀 코리아'…반도체 호실적에도 자금 이탈 지속, 귀환 시점은?",
-      "original_title": "[마켓 뷰] 외국인 두 달 새 45조 '셀코리아'…반도체 실적도 못 막은 자금 이탈, 귀환은 언제 - https://www.moneystorm.kr/",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "미국 증시 마감 | 5.28% 폭락! 나스닥 연간 하락 전환, VIX 35 상회; 필라델피아 반도체 지수 11% 급락, 엔비디아 사상 최고치 이후 7주 연속 하락",
+      "display_title": "미국 증시 마감 | 5.28% 폭락! 나스닥 연간 하락 전환, VIX 35 상회; 필라델피아 반도체 지수 11% 급락, 엔비디아 사상 최고치 이후 7주 연속 하락",
+      "original_title": "U.S. stocks close | Plunged 5.28%! The Nasdaq turned lower for the year, and the VIX rose above 35; the Philadelphia Semiconductor Index tumbled 11%, and NVIDIA posted its seventh consecutive weekly decline after hitting a record high; gold narrowly held - 富途牛牛",
       "summary": [
-        "외국인 투자자들이 두 달간 국내 주식 시장에서 약 45조원 규모의 대규모 순매도를 기록하며 '셀 코리아' 기조를 이어가고 있다.",
-        "반도체 등 국내 주요 산업의 호실적 발표에도 불구하고, 높은 환율과 글로벌 불확실성, 금리 인상 등 복합적인 요인이 외국인 자금 이탈을 부추기는 것으로 분석된다.",
-        "외국인 매도세 지속은 국내 증시의 상승 탄력을 제한하며, 환율 및 글로벌 금리 동향을 주시하여 외국인 수급 변화에 대비해야 한다."
+        "미국 증시가 5.28% 폭락했고, 특히 나스닥과 필라델피아 반도체 지수가 급락하며 엔비디아는 7주 연속 하락세를 보였다.",
+        "AI 관련주를 중심으로 한 기술주의 과열에 대한 조정 압력이 커지며 전반적인 시장 심리가 위축된 것으로 보인다.",
+        "글로벌 기술주 및 반도체 섹터의 추가 하락 가능성을 염두에 두고 국내 관련 종목에도 주의 깊은 접근이 필요하다."
       ],
-      "summary_text": "외국인 투자자들이 두 달간 국내 주식 시장에서 약 45조원 규모의 대규모 순매도를 기록하며 '셀 코리아' 기조를 이어가고 있다. 반도체 등 국내 주요 산업의 호실적 발표에도 불구하고, 높은 환율과 글로벌 불확실성, 금리 인상 등 복합적인 요인이 외국인 자금 이탈을 부추기는 것으로 분석된다. 외국인 매도세 지속은 국내 증시의 상승 탄력을 제한하며, 환율 및 글로벌 금리 동향을 주시하여 외국인 수급 변화에 대비해야 한다.",
-      "description": "외국인 투자자들이 두 달간 한국 주식 시장에서 45조원 규모의 대규모 순매도를 기록했으며, 반도체 기업들의 호실적에도 불구하고 자금 유출이 계속되고 있어 귀환 시점에 대한 관심이 커지고 있다.",
+      "summary_text": "미국 증시가 5.28% 폭락했고, 특히 나스닥과 필라델피아 반도체 지수가 급락하며 엔비디아는 7주 연속 하락세를 보였다. AI 관련주를 중심으로 한 기술주의 과열에 대한 조정 압력이 커지며 전반적인 시장 심리가 위축된 것으로 보인다. 글로벌 기술주 및 반도체 섹터의 추가 하락 가능성을 염두에 두고 국내 관련 종목에도 주의 깊은 접근이 필요하다.",
+      "description": "미국 증시가 5.28% 급락하며 마감했으며, 나스닥은 연간 기준으로 하락 전환했고 변동성 지수(VIX)는 35를 넘어섰다. 필라델피아 반도체 지수가 11% 폭락하고 엔비디아는 사상 최고가 달성 이후 7주 연속 하락세를 기록했다.",
       "category": "증시·금리",
       "importance": 10,
       "market_impact": "부정",
-      "related_sector": "전 섹터",
+      "related_sector": "반도체, 기술주",
       "related_stocks": [
+        "엔비디아",
         "삼성전자",
-        "SK하이닉스",
-        "LG에너지솔루션"
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "외국인의 대규모 '셀 코리아'는 국내 증시 전반의 하방 압력을 높이며, 반도체 등 핵심 산업의 주가에도 부정적 영향을 미치기 때문이다.",
-      "key_signal": "외국인 매매 동향, 원/달러 환율, 그리고 미국 금리 인상 기조 변화 여부를 면밀히 모니터링해야 한다.",
+      "investment_reason": "미국 증시, 특히 기술주와 반도체 섹터의 급락은 국내 증시에도 큰 영향을 미칠 수 있으므로 시장 전반의 변동성 확대에 대비해야 합니다.",
+      "key_signal": "나스닥 및 필라델피아 반도체 지수의 추가 하락 여부와 엔비디아를 비롯한 주요 AI 반도체 기업들의 실적 및 가이던스 발표를 주시해야 합니다.",
       "keywords": [
-        "외국인 매매",
-        "셀 코리아",
-        "반도체",
-        "자금 이탈",
-        "환율"
+        "미국 증시",
+        "나스닥",
+        "반도체 지수",
+        "엔비디아",
+        "VIX"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JczJtcWgzbXpwMFpJTDZ6N0hyaU1HN3E4a2swT05DODhwcVdqNzhlM1ZTMHFzNnFwTlJycDRvNlVxNmx3Y0lkYTBPY19hU0dXNTdKOWlCTGRBVGVWYWpxekJsdi1iU3FsZ2c?oc=5",
-      "published": "2026-11-20 07:28",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3FLemNQRENoOW5qTHM2Zk1sbmZod3B0cnF5WkxVT2xNUnZuZzJHUnBjbGJHbDdXeWIyNkRIWUZiRGtYRlZDMjUzaGh3Q0pjem5GRHJvWW5GRTc2LWdZdVF1UVlMaTUwdy14OVN0aGlmUnhsc3ZjUllFRXlKSU1LX2NNRVdza3VaVHZ5UXhRVEdRQlp2a0dTWWVlQQ?oc=5",
+      "published": "2026-11-21 08:06",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "11월 19일 미국 증시, 다우 1,100포인트 급락 및 S&P 500 6거래일 연속 하락",
-      "display_title": "11월 19일 미국 증시, 다우 1,100포인트 급락 및 S&P 500 6거래일 연속 하락",
-      "original_title": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses - Yahoo Finance",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "삼성전자, SK하이닉스 하락에 코스피 5000선 붕괴… 금리 변수까지 겹친 국내 증시 반등할까",
+      "display_title": "삼성전자, SK하이닉스 하락에 코스피 5000선 붕괴… 금리 변수까지 겹친 국내 증시 반등할까",
+      "original_title": "삼전닉스 무너지자 오천피 붕괴… ‘금리 변수’까지 만난 국장 반등할까 [주간 증시해설서] - 더스쿠프",
       "summary": [
-        "다우존스 지수가 1,100포인트 급락하고 S&P 500 지수가 6거래일 연속 하락하는 등 미국 주요 증시가 크게 약세를 보였다.",
-        "지속적인 인플레이션 우려, 기업 실적 부진 또는 연준의 긴축 우려 등 복합적인 요인이 시장에 반영된 것으로 추정된다.",
-        "글로벌 증시 전반의 투자심리 위축 가능성이 있으며, 기술적 반등 여부와 추가적인 하락 리스크를 함께 고려해야 한다."
+        "삼성전자와 SK하이닉스 등 대형 반도체주의 약세로 코스피 5000선이 붕괴되었으며, 금리 인상 가능성 등 추가 악재가 겹쳤다.",
+        "글로벌 반도체 시장의 조정과 국내외 금리 인상 압박이 국내 증시 투자 심리를 크게 위축시키고 있다.",
+        "국내 증시의 핵심인 반도체 섹터의 흐름과 금리 정책 변화에 대한 모니터링이 필수적이며, 보수적인 투자 접근이 요구된다."
       ],
-      "summary_text": "다우존스 지수가 1,100포인트 급락하고 S&P 500 지수가 6거래일 연속 하락하는 등 미국 주요 증시가 크게 약세를 보였다. 지속적인 인플레이션 우려, 기업 실적 부진 또는 연준의 긴축 우려 등 복합적인 요인이 시장에 반영된 것으로 추정된다. 글로벌 증시 전반의 투자심리 위축 가능성이 있으며, 기술적 반등 여부와 추가적인 하락 리스크를 함께 고려해야 한다.",
-      "description": "11월 19일 미국 증시에서 다우존스 지수가 1,100포인트 급락하고 S&P 500 지수도 6거래일 연속 하락세를 기록했다.",
+      "summary_text": "삼성전자와 SK하이닉스 등 대형 반도체주의 약세로 코스피 5000선이 붕괴되었으며, 금리 인상 가능성 등 추가 악재가 겹쳤다. 글로벌 반도체 시장의 조정과 국내외 금리 인상 압박이 국내 증시 투자 심리를 크게 위축시키고 있다. 국내 증시의 핵심인 반도체 섹터의 흐름과 금리 정책 변화에 대한 모니터링이 필수적이며, 보수적인 투자 접근이 요구된다.",
+      "description": "삼성전자와 SK하이닉스 등 주요 반도체 기업들의 주가 하락으로 코스피 지수 5000선이 붕괴되었고, 금리 인상 가능성 등 거시 경제 변수까지 겹쳐 국내 증시의 반등 여부가 주목된다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "전 섹터",
+      "related_sector": "반도체, 증권, IT",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 증시의 급락은 한국 시장의 투자심리와 외국인 수급에 직접적인 부정적 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "오늘 국내 증시 개장 시 외국인 매매 동향과 미국 선물 지수 흐름을 집중적으로 확인해야 한다.",
+      "investment_reason": "국내 증시를 대표하는 반도체 대형주 하락과 금리 변수는 시장 전반의 방향성을 좌우하므로, 국내 투자자들은 매우 신중하게 접근해야 합니다.",
+      "key_signal": "삼성전자와 SK하이닉스의 주가 흐름, 한국은행 금융통화위원회의 금리 결정, 그리고 외국인 투자자들의 매매 동향을 집중적으로 살펴야 합니다.",
       "keywords": [
-        "미국 증시",
-        "다우존스",
-        "S&P 500",
-        "시장 하락",
-        "투자심리"
+        "코스피",
+        "반도체",
+        "삼성전자",
+        "SK하이닉스",
+        "금리 인상"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVh4Wm5XZk1VNWd4YmtfRFp3cW1iR0M2ZURsVWdjc3N5VzQwSlljV3dYdHRxYWFMVmRqay1JV0g0VEZtMElCeU5qdnA1YlVBMFNEMlJ2NTYxYWhJSmlXTUpUbTkyQlFvQzhSNkV1VXhQMV85Sk5NeDVQcks0ZnYxejhQdmhfREEwcVhBYkt1WTlnYzRW?oc=5",
-      "published": "2026-11-20 07:10",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pc2tYWjdoTFBYQUpGc0xkd3J3dG5Ka0l2cl9NU3dxRHU4dVRDdDg4RTB6NVM4STRnNjJORmpXR2dVQWtzUUlkUFE0LXljVUpLaDZRQV9LRnc2TXFab3FOcW91MVZsU2JBaERUQXFR?oc=5",
+      "published": "2026-11-21 10:03",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +111,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "11월 19일 미국 외환시장 뉴스 브리프: 인플레이션 우려로 증시 하락",
-      "display_title": "11월 19일 미국 외환시장 뉴스 브리프: 인플레이션 우려로 증시 하락",
-      "original_title": "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks - investingLive",
+      "title": "기술주 주도로 글로벌 증시 폭락, 국채 수익률 하락",
+      "display_title": "기술주 주도로 글로벌 증시 폭락, 국채 수익률 하락",
+      "original_title": "Tech leads global stocks rout, Treasury yields fall - Yahoo Finance",
       "summary": [
-        "11월 19일 미국 증시에서 인플레이션에 대한 투자자들의 우려가 재점화되며 주식 시장이 하락세를 보였다.",
-        "지속적인 고물가 압력은 연방준비제도(Fed)의 추가적인 긴축 가능성을 높여 투자심리를 위축시키는 주요 요인이다.",
-        "인플레이션 지표와 연준의 통화 정책 스탠스 변화에 민감하게 반응해야 하며, 방어적인 투자 전략을 고려할 필요가 있다."
+        "글로벌 증시가 기술주 주도로 폭락했으며, 안전자산 선호 심리로 인해 국채 수익률이 하락했다.",
+        "기술주에 대한 차익 실현 압력과 글로벌 경제 불확실성이 복합적으로 작용하여 시장 전반의 위험 회피 심리가 확산된 것으로 분석된다.",
+        "기술주 중심의 조정은 국내 증시에도 영향을 미칠 수 있으며, 금리 하락은 일부 성장주에 긍정적일 수 있으나 전반적인 시장 불안정성에 대비해야 한다."
       ],
-      "summary_text": "11월 19일 미국 증시에서 인플레이션에 대한 투자자들의 우려가 재점화되며 주식 시장이 하락세를 보였다. 지속적인 고물가 압력은 연방준비제도(Fed)의 추가적인 긴축 가능성을 높여 투자심리를 위축시키는 주요 요인이다. 인플레이션 지표와 연준의 통화 정책 스탠스 변화에 민감하게 반응해야 하며, 방어적인 투자 전략을 고려할 필요가 있다.",
-      "description": "11월 19일 미국 외환시장 마감 뉴스에서 인플레이션 우려가 다시 부각되며 주식 시장의 하락을 이끌었다는 소식이다.",
+      "summary_text": "글로벌 증시가 기술주 주도로 폭락했으며, 안전자산 선호 심리로 인해 국채 수익률이 하락했다. 기술주에 대한 차익 실현 압력과 글로벌 경제 불확실성이 복합적으로 작용하여 시장 전반의 위험 회피 심리가 확산된 것으로 분석된다. 기술주 중심의 조정은 국내 증시에도 영향을 미칠 수 있으며, 금리 하락은 일부 성장주에 긍정적일 수 있으나 전반적인 시장 불안정성에 대비해야 한다.",
+      "description": "기술주가 주도하여 글로벌 증시가 폭락하는 가운데, 국채 수익률은 하락했다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "전 섹터",
+      "related_sector": "기술주, 반도체, 소프트웨어",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "인플레이션 우려로 인한 미국 증시 하락은 국내 시장의 투자심리를 악화시키고 변동성을 확대시킬 수 있기 때문이다.",
-      "key_signal": "이번 주 예정된 미국 물가 지표 발표와 연준 관계자들의 발언을 통해 인플레이션 추이와 통화 정책 기조를 확인해야 한다.",
+      "investment_reason": "글로벌 기술주의 급락은 한국 증시, 특히 기술 성장주에 대한 투자 심리를 위축시킬 수 있으므로 전반적인 시장 변동성 확대에 주의해야 합니다.",
+      "key_signal": "기술주 중심의 하락세가 지속될지, 그리고 국채 금리 하락이 기업들의 자금 조달에 어떤 영향을 미칠지 주시해야 합니다.",
       "keywords": [
-        "인플레이션",
-        "미국 증시",
-        "금리 인상",
-        "통화 정책",
-        "시장 하락"
+        "글로벌 증시",
+        "기술주",
+        "국채 수익률",
+        "시장 폭락",
+        "위험 회피"
       ],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWVnSXpJQkUxcVZqZTd4Zi1ZbTRyY2w5cWJKeEZ3N2JMU0lCNXNOSFk2MFNEUUR5OVZhMWVRWXVTRXM2VF9lOFVMOXpINGdkVEp0WEswS1ZLOC1fclZieDNPUUx0RjdRcHNqeVdKSWdnNl9iOUNJMS00VkJIUng1V2xqOUt0UlZmRVQ1Yk4yUHF0UlNDUkNCSjROZUdINE5TOGlGbDZYdw?oc=5",
-      "published": "2026-11-20 06:50",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjlpWS1YQTlya1VJSTJGT0tCMHZjbzBEYVdsSGhqLWdlOVk3eF8yS003U0ptdW1EcGpqbWx0NnZWSC1Qck95NVlRcDhMN0w5cWg4V19JelZqaVNxRDA1VGVON205SVNQUFhaZ2YwM3g2dDVPdENpNUVKd05ubzFNQVFydHBPMnVURW9UY2VlYWh5SGdfaVR6dDRsWTVSUlNodGc?oc=5",
+      "published": "2026-11-21 07:33",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,36 +153,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "아시아 증시, AI 투자 기대감 약화로 2020년 이후 최악의 한 주 전망",
-      "display_title": "아시아 증시, AI 투자 기대감 약화로 2020년 이후 최악의 한 주 전망",
-      "original_title": "Asian shares head for worst week since 2020 as AI trade gloom fails to abate - WTVB",
+      "title": "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다",
+      "display_title": "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다",
+      "original_title": "Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI - WKZO",
       "summary": [
-        "아시아 증시가 AI 관련 투자 기대감 약화와 매도세 심화로 2020년 이후 최악의 주간 성적을 기록할 것으로 전망된다.",
-        "최근 과열되었던 AI 테마에 대한 거품 우려와 고금리 환경 지속에 따른 전반적인 시장 조정 압력이 복합적으로 작용하고 있다.",
-        "AI 관련 성장주에 대한 옥석 가리기가 심화될 수 있으며, 변동성 확대에 대비한 투자 전략이 필요하다."
+        "앤트로픽 데뷔 다음 날 나스닥이 5% 급락했으나, 시장 전문가들은 AI 산업의 장기적 성장 잠재력에 대한 믿음은 유지하고 있다.",
+        "AI 기술주의 단기 과열에 따른 조정 장세로 풀이되며, 단기적인 변동성과 장기적인 성장 가능성 사이의 괴리를 보여준다.",
+        "단기적인 시장 조정에도 불구하고 AI 기술의 본질적인 가치에 주목하여, 우량 AI 관련 기업들을 선별적으로 접근하는 전략이 필요하다."
       ],
-      "summary_text": "아시아 증시가 AI 관련 투자 기대감 약화와 매도세 심화로 2020년 이후 최악의 주간 성적을 기록할 것으로 전망된다. 최근 과열되었던 AI 테마에 대한 거품 우려와 고금리 환경 지속에 따른 전반적인 시장 조정 압력이 복합적으로 작용하고 있다. AI 관련 성장주에 대한 옥석 가리기가 심화될 수 있으며, 변동성 확대에 대비한 투자 전략이 필요하다.",
-      "description": "아시아 증시가 인공지능(AI) 관련 투자 심리 위축으로 2020년 이후 가장 부진한 한 주를 보낼 것으로 예상된다.",
+      "summary_text": "앤트로픽 데뷔 다음 날 나스닥이 5% 급락했으나, 시장 전문가들은 AI 산업의 장기적 성장 잠재력에 대한 믿음은 유지하고 있다. AI 기술주의 단기 과열에 따른 조정 장세로 풀이되며, 단기적인 변동성과 장기적인 성장 가능성 사이의 괴리를 보여준다. 단기적인 시장 조정에도 불구하고 AI 기술의 본질적인 가치에 주목하여, 우량 AI 관련 기업들을 선별적으로 접근하는 전략이 필요하다.",
+      "description": "앤트로픽 데뷔 다음 날 나스닥 지수가 5% 폭락했지만, 투자자들은 여전히 AI의 잠재력을 신뢰하고 있다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "반도체, IT, 소프트웨어, 인공지능",
+      "related_sector": "인공지능 (AI), 소프트웨어, 반도체",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
-      "investment_view": "주의",
-      "investment_reason": "AI 테마의 조정은 국내 반도체 및 IT 성장주에 대한 투자심리에 부정적 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "아시아 시장 개장 후 AI 관련 주요 기업들의 주가 흐름과 외국인 매매 동향을 면밀히 관찰해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "AI 섹터의 단기적 조정은 불가피하나, 장기적인 성장 가능성이 여전히 유효하므로 저점 매수 기회를 모색하는 관점에서 시장을 지켜봐야 합니다.",
+      "key_signal": "AI 기술 관련 기업들의 실제 수익성 개선 여부와 기술 혁신 속도를 지속적으로 확인하여 장기적인 투자 관점을 유지해야 합니다.",
       "keywords": [
-        "아시아 증시",
+        "나스닥",
         "AI 투자",
-        "시장 조정",
-        "기술주",
-        "투자심리"
+        "앤트로픽",
+        "기술주 조정",
+        "장기 성장"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1dPbk1tQ1E5V3YzRVBIVERibUdQWTdpOGpWa3RYbU1Ea0pUczQ3dXlabWxZcVJzcG9hem5GZFVGZHRObUwwRVctWWI0NXJFY2UwdTV0OV9aWmdCVjV4bGJpTVp0eTZtZk1oRUQ3Vl9nYkw4VDUyQkJ0aTB1cXBEVEF3NldKRWotVWM2NEw0dW1aaDlNYVppMFY5UC1ZbFZ2Wk9hdWVUamM4WGc?oc=5",
-      "published": "2026-11-20 10:58",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZk1GTHBNSXRTaEpSemV5a2RISlBmSENLMmU2SkhlS19rRVBKOWZheDQxVnVldWczNHdzaGJZZkx2ekRXTE5QRG1QNGtXYmI3aV9KbnphdWNRMDFGM0kxUnlkdWI5b1dPc2FlX2xMS2wxWkprM1hWUUJJUXh5V1JYLXZ6OHpodFlYbWU3SFhDenVJLUtSdnlQclpYVm9CeExxNW85MVdhYjV2eXM?oc=5",
+      "published": "2026-11-21 06:34",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -195,37 +195,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "외국인 주식 평가액 급감에도 순대외금융자산 역대 최대폭 증가",
-      "display_title": "외국인 주식 평가액 급감에도 순대외금융자산 역대 최대폭 증가",
-      "original_title": "외국인 주식 평가액 급감에…순대외금융자산 역대 최대폭 증가 [Pick코노미] - 서울경제",
+      "title": "[다음주 환율전망] 강달러 영향으로 다시 상승하는 환율…한국은행 금통위가 향방 결정할 것",
+      "display_title": "[다음주 환율전망] 강달러 영향으로 다시 상승하는 환율…한국은행 금통위가 향방 결정할 것",
+      "original_title": "[다음주 환율전망] 강달러에 다시 고개 든 환율…한은 금통위가 방향 가른다 - 굿모닝경제",
       "summary": [
-        "외국인 주식 평가액 급감에도 불구하고 한국의 순대외금융자산이 역대 최대폭으로 증가하여 2026년 3분기 말 기준 8,400억 달러를 넘어섰다.",
-        "국내 기업의 해외 직접 투자 확대 및 해외 주식 평가액 증가 등이 외국인 국내 주식 평가액 감소분을 상쇄하고 순자산 증가를 이끌었다.",
-        "한국의 대외 건전성은 양호하지만, 외국인 국내 주식 평가액 감소는 국내 증시의 투자심리 약화와 연결될 수 있어 주의 깊게 봐야 한다."
+        "강달러 현상으로 원/달러 환율이 상승할 것으로 전망되며, 다음주 한국은행 금융통화위원회(금통위)의 금리 결정이 환율의 향방을 좌우할 것이다.",
+        "미국 연방준비제도(Fed)의 긴축 기조 유지 가능성과 국내 물가 압력 등으로 인해 환율 및 금리 변동성이 확대되고 있다.",
+        "환율 상승은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 압력과 외국인 투자자 이탈 가능성을 야기하므로 전반적인 시장에 주의해야 한다."
       ],
-      "summary_text": "외국인 주식 평가액 급감에도 불구하고 한국의 순대외금융자산이 역대 최대폭으로 증가하여 2026년 3분기 말 기준 8,400억 달러를 넘어섰다. 국내 기업의 해외 직접 투자 확대 및 해외 주식 평가액 증가 등이 외국인 국내 주식 평가액 감소분을 상쇄하고 순자산 증가를 이끌었다. 한국의 대외 건전성은 양호하지만, 외국인 국내 주식 평가액 감소는 국내 증시의 투자심리 약화와 연결될 수 있어 주의 깊게 봐야 한다.",
-      "description": "외국인 투자자들이 보유한 국내 주식의 평가액이 크게 감소했음에도 불구하고, 우리나라의 순대외금융자산은 역대 최대 폭으로 증가했다는 소식이다.",
+      "summary_text": "강달러 현상으로 원/달러 환율이 상승할 것으로 전망되며, 다음주 한국은행 금융통화위원회(금통위)의 금리 결정이 환율의 향방을 좌우할 것이다. 미국 연방준비제도(Fed)의 긴축 기조 유지 가능성과 국내 물가 압력 등으로 인해 환율 및 금리 변동성이 확대되고 있다. 환율 상승은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 압력과 외국인 투자자 이탈 가능성을 야기하므로 전반적인 시장에 주의해야 한다.",
+      "description": "다음주 환율은 강달러 현상으로 인해 다시 상승할 가능성이 있으며, 한국은행 금융통화위원회의 금리 결정이 환율의 방향성을 가를 주요 변수가 될 것으로 전망된다.",
       "category": "국내 거시경제",
-      "importance": 8,
+      "importance": 9,
       "market_impact": "중립",
-      "related_sector": "금융, 증권",
+      "related_sector": "수출주, 증권, 운송",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "하나금융지주"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "국가의 대외 건전성을 보여주는 중요한 지표로, 장기적인 국가 신용도와 환율 안정성에 영향을 미칠 수 있기 때문이다.",
-      "key_signal": "순대외금융자산 구성 항목 중 국내 기업의 해외 투자 동향과 외국인 국내 주식 투자 추이를 함께 분석해야 한다.",
+      "investment_reason": "환율 변동과 한은 금통위의 결정은 국내 기업의 실적, 물가, 외국인 자금 유출입에 직접적인 영향을 미치므로 투자 결정에 중요한 고려 사항입니다.",
+      "key_signal": "한국은행 금통위의 금리 결정 결과와 그에 따른 원/달러 환율의 움직임을 예의주시하고, 수출 기업들의 수혜 여부를 파악해야 합니다.",
       "keywords": [
-        "순대외금융자산",
-        "외국인 투자",
-        "환율 안정",
-        "국가 신용도",
-        "해외 투자"
+        "환율",
+        "강달러",
+        "한국은행",
+        "금통위",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Vd1hnQkZZVWZYbHVDTWRtTjNsS2NEaWFFVktRTFNvbWhuaG13d09qbXVIblBNa2lFd0dWX0NfM0l6Q3JnOFhvbUtYVG1yT3dxdlHSAVNBVV95cUxNNWRsbXh1MzhYcFM5UXZtS3llc3F3QUdaLVdYVHpmcUhXYmlsOEtSay1VNndyTmtfbENQbTRZRjdnRWR5SHVXcUhCdFZQOGxiRmFrOA?oc=5",
-      "published": "2026-11-20 06:00",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tcGhMdFY5S0lIY1JtTm9IS2RQVEZOWWRabVBWSW5nalVxS0dkTVJ1QUZjandPcTJrUFNudTIxSy1XN1ctOVlybmhHRDRyWm0wNlBSaldqRkFoTXVJT0Z4LVoyNm0yUU00VDB5TA?oc=5",
+      "published": "2026-11-21 07:00",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -237,36 +237,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "S&P 500 전망: AI 투자 열기 재점화로 SPX 반등 예상",
-      "display_title": "S&P 500 전망: AI 투자 열기 재점화로 SPX 반등 예상",
-      "original_title": "S&P 500 Forecast: SPX rebounds amid revived AI enthusiasm - StoneX",
+      "title": "나스닥 100 전망: 엔비디아 실적 발표와 앤트로픽 데뷔 앞두고 하락",
+      "display_title": "나스닥 100 전망: 엔비디아 실적 발표와 앤트로픽 데뷔 앞두고 하락",
+      "original_title": "Nasdaq 100 Forecast: NDX falls ahead of Nvidia’s earnings & Anthropic’s debut this week - StoneX",
       "summary": [
-        "S&P 500 지수가 AI에 대한 투자 열기가 다시 불붙으면서 반등할 것이라는 전망이 나왔다.",
-        "전일의 아시아 증시 약세와는 달리, 미국 시장에서는 AI 기술의 성장 잠재력에 대한 기대감이 여전히 유효할 수 있음을 시사한다.",
-        "AI 관련 기술주의 단기 변동성이 크지만, 장기적인 성장 동력은 여전하며, 저점 매수 기회를 탐색할 수 있다."
+        "나스닥 100 지수가 엔비디아 실적 발표와 AI 기업 앤트로픽 데뷔를 앞두고 하락했다.",
+        "AI 관련주에 대한 기대감과 동시에 불확실성이 공존하며 주요 이벤트 전 관망세가 형성된 것으로 보인다.",
+        "엔비디아 실적은 AI 반도체 산업의 방향성을 제시할 중요한 지표이며, 앤트로픽 데뷔는 AI 기술 경쟁의 새로운 국면을 알릴 수 있다."
       ],
-      "summary_text": "S&P 500 지수가 AI에 대한 투자 열기가 다시 불붙으면서 반등할 것이라는 전망이 나왔다. 전일의 아시아 증시 약세와는 달리, 미국 시장에서는 AI 기술의 성장 잠재력에 대한 기대감이 여전히 유효할 수 있음을 시사한다. AI 관련 기술주의 단기 변동성이 크지만, 장기적인 성장 동력은 여전하며, 저점 매수 기회를 탐색할 수 있다.",
-      "description": "S&P 500 지수가 인공지능(AI) 관련 투자 열기가 다시 살아나면서 반등할 것으로 예측된다.",
+      "summary_text": "나스닥 100 지수가 엔비디아 실적 발표와 AI 기업 앤트로픽 데뷔를 앞두고 하락했다. AI 관련주에 대한 기대감과 동시에 불확실성이 공존하며 주요 이벤트 전 관망세가 형성된 것으로 보인다. 엔비디아 실적은 AI 반도체 산업의 방향성을 제시할 중요한 지표이며, 앤트로픽 데뷔는 AI 기술 경쟁의 새로운 국면을 알릴 수 있다.",
+      "description": "엔비디아 실적 발표와 앤트로픽 데뷔를 앞두고 나스닥 100 지수가 하락세를 보였다.",
       "category": "증시·금리",
-      "importance": 7,
-      "market_impact": "긍정",
-      "related_sector": "인공지능, IT, 반도체, 소프트웨어",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "반도체, 인공지능 (AI), 클라우드 컴퓨팅",
       "related_stocks": [
         "엔비디아",
-        "마이크로소프트"
+        "삼성전자",
+        "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 테마의 부활은 국내 반도체 및 IT 관련주에 대한 투자심리를 개선시키고 반등의 기회를 제공할 수 있기 때문이다.",
-      "key_signal": "AI 관련 주요 기술 기업들의 실적과 신기술 발표 동향을 주시하며 투자 심리 변화를 예측해야 한다.",
+      "investment_reason": "엔비디아의 실적 발표와 주요 AI 기업의 동향은 AI 관련 투자 심리와 시장 전반의 기술주 흐름에 결정적인 영향을 미칠 수 있습니다.",
+      "key_signal": "엔비디아의 실적 발표 내용과 가이던스, 그리고 앤트로픽의 시장 반응을 면밀히 분석하여 AI 섹터의 향방을 예측해야 합니다.",
       "keywords": [
-        "S&P 500",
-        "AI",
-        "기술주",
-        "시장 반등",
-        "투자심리"
+        "나스닥 100",
+        "엔비디아 실적",
+        "앤트로픽",
+        "AI 주식",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3pXQ3ZCRDd3N0laV3lRNHJHdzc2S09DSEhuc1ZnQTJiekU0MXNxSnpSMHJ2ZXBxLVZTN1oteVZFMlozSjBvV0F2UFAtUVVlVEN2dkZoU18xNEx1RHdiX1o1NWhjUDFxTDBmelFFNThvSmlEX3JfSkZPZmJ5dlg5RXVXTmttWFpzT2tPVGk4N1NBQW9YVnlhRlVORW1SZzVKMWJsQ2tuZUlUUQ?oc=5",
-      "published": "2026-11-20 07:56",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0dWb0gzbllYanhUZC1zS1Z3VGx6ZnFoWmxrdFpFb0ZOVmxiNUNsdFkwTTQ5R0VEeXNZT1pyM0lCNVBGZlJ2SzN0RTA4QXdhdEdDNEp1YTlXLXNuZmt2V2dvQm4zc1VGUmw5SHZIREJWM2NfS0xkVVFlcDlrM2JwOFE2Tjd3cTMxQ0dwRUtseE1nVVdPY3FDa0FoM1lvQUY4cVB3TU9IMlg1cERLbS1YU1JHVkktcjB4RnRBaXIxU1h4bm81blg5Y0dxVHpUTE5HQWc?oc=5",
+      "published": "2026-11-21 07:27",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -279,68 +280,68 @@
       "rank": 1,
       "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "주의",
-      "reason": "외국인의 대규모 '셀 코리아' 기조와 미국 증시 급락으로 인한 투자심리 위축, 그리고 AI 투자 기대감 약화가 복합적으로 작용하며 하방 압력이 높습니다. 다만, AI 투자 열기 재점화에 대한 기대감도 존재하여 높은 변동성을 보일 수 있습니다.",
+      "sector": "반도체, IT",
+      "opinion": "관심",
+      "reason": "미국 반도체 및 기술주 폭락의 직접적인 영향으로 하락했으나, AI 산업의 장기 성장성과 국내 증시의 핵심 종목이라는 점에서 조정 시 저점 매수 기회를 모색하는 관점에서 관심이 필요합니다.",
       "check_points": [
-        "외국인 수급 동향 및 매도세 전환 여부",
-        "미국 증시 및 반도체 섹터의 추가 하락 여부",
-        "글로벌 AI 관련 산업 투자 심리 변화"
+        "글로벌 반도체 시장 동향 및 재고 수준",
+        "AI 반도체(HBM 등) 수요 및 기술 경쟁력",
+        "외국인 투자자 수급 및 환율 변동성"
       ],
       "related_news_titles": [
-        "외국인 두 달간 45조원 '셀 코리아'…반도체 호실적에도 자금 이탈 지속, 귀환 시점은?",
-        "11월 19일 미국 증시, 다우 1,100포인트 급락 및 S&P 500 6거래일 연속 하락",
-        "아시아 증시, AI 투자 기대감 약화로 2020년 이후 최악의 한 주 전망"
+        "미국 증시 마감 | 5.28% 폭락! 나스닥 연간 하락 전환, VIX 35 상회; 필라델피아 반도체 지수 11% 급락, 엔비디아 사상 최고치 이후 7주 연속 하락",
+        "삼성전자, SK하이닉스 하락에 코스피 5000선 붕괴… 금리 변수까지 겹친 국내 증시 반등할까",
+        "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다"
       ]
     },
     {
       "rank": 2,
       "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "주의",
-      "reason": "삼성전자와 마찬가지로 외국인 매도세와 아시아 증시 전반의 AI 기대감 약화라는 부정적 요인의 직접적인 영향을 받습니다. AI 투자 열기 재점화 소식은 긍정적이나, 단기적인 시장 하방 압력을 무시할 수 없습니다.",
+      "sector": "반도체, IT",
+      "opinion": "관심",
+      "reason": "글로벌 반도체 시장의 조정과 국내 증시의 동반 하락 속에서도 HBM(고대역폭 메모리) 등 AI 메모리 핵심 기업으로서 장기적인 AI 성장 모멘텀을 주목하며, 조정 시 관심있게 지켜볼 필요가 있습니다.",
       "check_points": [
-        "외국인 및 기관 투자자의 수급 변화",
-        "글로벌 반도체 업황 및 가격 동향",
-        "AI 관련 신기술 및 수요 변화에 대한 정보"
+        "HBM 등 AI 메모리 시장 경쟁 구도 및 기술 리더십",
+        "글로벌 D램 및 낸드 가격 동향",
+        "주요 고객사 주문 동향 및 재고 상황"
       ],
       "related_news_titles": [
-        "외국인 두 달간 45조원 '셀 코리아'…반도체 호실적에도 자금 이탈 지속, 귀환 시점은?",
-        "아시아 증시, AI 투자 기대감 약화로 2020년 이후 최악의 한 주 전망",
-        "S&P 500 전망: AI 투자 열기 재점화로 SPX 반등 예상"
+        "미국 증시 마감 | 5.28% 폭락! 나스닥 연간 하락 전환, VIX 35 상회; 필라델피아 반도체 지수 11% 급락, 엔비디아 사상 최고치 이후 7주 연속 하락",
+        "삼성전자, SK하이닉스 하락에 코스피 5000선 붕괴… 금리 변수까지 겹친 국내 증시 반등할까",
+        "나스닥 100 전망: 엔비디아 실적 발표와 앤트로픽 데뷔 앞두고 하락"
       ]
     },
     {
       "rank": 3,
-      "name": "KB금융",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "은행",
+      "sector": "인터넷, 소프트웨어, 인공지능 (AI)",
       "opinion": "관심",
-      "reason": "대부분의 시장 뉴스가 부정적인 가운데, 외국인 주식 평가액 급감에도 불구하고 국가 순대외금융자산이 역대 최대폭으로 증가했다는 긍정적인 거시경제 지표가 발표되었습니다. 이는 국가의 대외 건전성을 보여주는 중요한 지표로, 금융 섹터에 대한 장기적 투자심리 안정화에 기여할 수 있습니다.",
+      "reason": "글로벌 기술주 폭락으로 인한 투자 심리 위축은 불가피하나, '투자자들은 여전히 AI를 믿는다'는 뉴스처럼 국내 대표 AI 관련주로서 장기적인 성장 가능성을 보고 조정 시 저점 매수 기회를 모색해볼 수 있습니다.",
       "check_points": [
-        "국내외 금리 인상 사이클 및 금융 정책 변화",
-        "가계부채 및 기업 대출 건전성 지표",
-        "배당 정책 등 주주 환원 정책"
+        "AI 신사업 및 서비스 출시 현황과 시장 반응",
+        "광고 및 커머스 등 본업의 실적 회복세",
+        "글로벌 빅테크 기업들과의 AI 기술 경쟁 및 협력"
       ],
       "related_news_titles": [
-        "외국인 주식 평가액 급감에도 순대외금융자산 역대 최대폭 증가"
+        "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "카카오",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "주의",
-      "reason": "미국 인플레이션 우려로 인한 증시 하락과 국내 시장의 변동성 확대는 증권사의 거래대금 및 투자심리에 직접적인 부정적 영향을 미칠 수 있습니다. 시장 불확실성이 커지는 시기에 증권주의 흐름을 면밀히 관찰할 필요가 있습니다.",
+      "sector": "인터넷, 소프트웨어, 인공지능 (AI)",
+      "opinion": "관심",
+      "reason": "글로벌 기술주의 급락에도 불구하고 AI 산업에 대한 장기적 신뢰가 유지되는 가운데, 국내 주요 IT 플랫폼으로서 AI 기술 도입 및 서비스 확장에 대한 기대감으로 조정 시 관심있게 지켜볼 필요가 있습니다.",
       "check_points": [
-        "국내외 증시 거래대금 추이 및 투자심리 지수",
-        "시장 변동성 확대에 따른 위탁매매 수수료 수익 변화",
-        "금리 인상 및 환율 변동이 회사 실적에 미치는 영향"
+        "AI 기반 신규 서비스 도입 및 수익화 전략",
+        "플랫폼 사업의 수익성 개선 및 경쟁 환경",
+        "규제 환경 변화 및 신사업 리스크 관리"
       ],
       "related_news_titles": [
-        "11월 19일 미국 외환시장 뉴스 브리프: 인플레이션 우려로 증시 하락"
+        "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다"
       ]
     }
   ],
