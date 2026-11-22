@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21 12:00",
-  "analysis_date": "2026-11-21",
+  "generated_at": "2026-11-22 10:55",
+  "analysis_date": "2026-11-22",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,95 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "글로벌 기술주 중심의 증시 폭락으로 전반적인 시장 불안 심리가 확대되었으며, 국내 증시도 반도체 대형주 하락에 코스피 5000선이 붕괴되는 등 조정 압력이 커지고 있습니다.",
-    "국내거시경제": "강달러 현상으로 원/달러 환율 상승 압력이 지속되며, 다음주 한국은행 금융통화위원회(금통위)의 금리 결정이 환율 및 국내 증시의 향방에 중대한 영향을 미칠 것입니다.",
-    "글로벌경제": "미국 증시가 5.28% 폭락하고 나스닥이 연간 하락 전환했으며, 특히 필라델피아 반도체 지수와 엔비디아가 급락하며 기술주 과열에 대한 조정이 심화되었습니다. 안전자산 선호 심리로 국채 수익률은 하락했습니다.",
-    "증시금리": "미국 나스닥과 필라델피아 반도체 지수의 급락은 국내 반도체주 약세로 이어져 코스피 5000선 붕괴를 초래했습니다. VIX 지수가 35를 상회하며 전반적인 시장 변동성이 크게 확대된 상황입니다.",
-    "부동산정책": "특이사항 없음",
-    "기업산업": "엔비디아가 7주 연속 하락하고 삼성전자, SK하이닉스 등 국내 반도체 대형주가 동반 약세를 보였습니다. 다만, 단기 조정에도 불구하고 AI 산업의 장기 성장 잠재력에 대한 기대는 여전히 유효하며, 엔비디아 실적 발표와 앤트로픽 데뷔에 시장의 관심이 집중되고 있습니다.",
-    "오늘의투자시사점": "글로벌 기술주 및 반도체 섹터의 추가 하락 가능성을 염두에 두고 국내 관련 종목에 대한 보수적인 접근이 필요합니다. 단기적인 시장 변동성 속에서도 AI 기술의 본질적 가치에 주목하여 우량 AI 기업들을 선별적으로 탐색하고, 환율 및 국내 금리 정책 변화에 대한 지속적인 모니터링이 필수입니다.",
-    "오늘의한줄": "글로벌 기술주 조정으로 증시 불안이 확대되었으나, AI 산업의 장기 성장 가치는 여전히 유효합니다."
+    "총평": "AI 기술주 조정과 고금리 장기화 우려가 글로벌 증시를 압박하며 국내외 증시 모두 하방 압력을 받고 있습니다. 미국 물가 지표와 연준의 통화 정책 방향이 시장 반등의 핵심 변수로 작용할 전망입니다.",
+    "국내거시경제": "AI 관련주 충격으로 코스피가 4900선이 무너지며 투자 심리가 위축되고 있습니다. 고금리 장기화 우려가 국내 증시의 부담 요인으로 작용하고 있습니다.",
+    "글로벌경제": "미국 증시에서 AI 붐 균열 발생과 연준 이사의 추가 금리 인상 가능성 경고가 맞물려 매도세가 심화되고 있습니다. 국채 수익률이 주식 수익률을 상회하며 안전자산 선호 심리가 확산되고 있습니다.",
+    "증시금리": "국내외 AI 기술주들의 조정이 증시 전반에 영향을 미치고 있습니다. 연준의 매파적 발언은 금리 인하 기대를 낮추며 시장 변동성을 키우고 있으며, 엔비디아 실적 발표는 AI 관련주의 향방을 가늠할 중요한 지표가 될 것입니다.",
+    "부동산정책": "관련 주요 뉴스 없음.",
+    "기업산업": "무디스는 삼성전자와 SK하이닉스가 반도체 업황 회복과 AI 관련 고성능 메모리 수요에 힘입어 내년에도 견조한 성장을 지속할 것으로 전망하며 국내 반도체 대형주에 긍정적인 시그널을 제시했습니다.",
+    "오늘의투자시사점": "AI 기술주 중심의 포트폴리오 변동성에 대비하고, 미국 물가 및 금리 관련 발언에 촉각을 세워야 합니다. 안전자산 선호 심리 확대를 고려한 포트폴리오 다변화와 함께, 낙폭 과대 종목의 기술적 반등 가능성도 함께 주시할 필요가 있습니다.",
+    "오늘의한줄": "글로벌 AI 기술주 조정과 고금리 우려가 증시를 압박하는 가운데, 반도체 대형주는 장기 성장이 기대됩니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "미국 증시 마감 | 5.28% 폭락! 나스닥 연간 하락 전환, VIX 35 상회; 필라델피아 반도체 지수 11% 급락, 엔비디아 사상 최고치 이후 7주 연속 하락",
-      "display_title": "미국 증시 마감 | 5.28% 폭락! 나스닥 연간 하락 전환, VIX 35 상회; 필라델피아 반도체 지수 11% 급락, 엔비디아 사상 최고치 이후 7주 연속 하락",
-      "original_title": "U.S. stocks close | Plunged 5.28%! The Nasdaq turned lower for the year, and the VIX rose above 35; the Philadelphia Semiconductor Index tumbled 11%, and NVIDIA posted its seventh consecutive weekly decline after hitting a record high; gold narrowly held - 富途牛牛",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[주간증시전망] 'AI 쇼크'로 4900선 붕괴된 코스피, 美 물가·금리에 반등 기대",
+      "display_title": "[주간증시전망] 'AI 쇼크'로 4900선 붕괴된 코스피, 美 물가·금리에 반등 기대",
+      "original_title": "[주간증시전망] 'AI 쇼크'에 4900선 무너진 코스피…美 물가·금리에 반등 달렸다 - www.ebn.co.kr",
       "summary": [
-        "미국 증시가 5.28% 폭락했고, 특히 나스닥과 필라델피아 반도체 지수가 급락하며 엔비디아는 7주 연속 하락세를 보였다.",
-        "AI 관련주를 중심으로 한 기술주의 과열에 대한 조정 압력이 커지며 전반적인 시장 심리가 위축된 것으로 보인다.",
-        "글로벌 기술주 및 반도체 섹터의 추가 하락 가능성을 염두에 두고 국내 관련 종목에도 주의 깊은 접근이 필요하다."
+        "AI 관련주의 충격으로 코스피가 4900선이 무너진 채 마감되었으며, 다음 주 미국 물가와 금리 정책이 증시 반등의 핵심 요인으로 지목된다.",
+        "글로벌 AI 기술주들의 조정이 국내 증시에 직접적인 영향을 미쳤고, 고금리 장기화 우려가 투자 심리를 위축시키고 있다.",
+        "미국 물가 지표와 연준의 금리 관련 발언에 촉각을 세우고, AI 관련주의 추가 조정 가능성 및 낙폭 과대 종목의 기술적 반등 여부를 주시해야 한다."
       ],
-      "summary_text": "미국 증시가 5.28% 폭락했고, 특히 나스닥과 필라델피아 반도체 지수가 급락하며 엔비디아는 7주 연속 하락세를 보였다. AI 관련주를 중심으로 한 기술주의 과열에 대한 조정 압력이 커지며 전반적인 시장 심리가 위축된 것으로 보인다. 글로벌 기술주 및 반도체 섹터의 추가 하락 가능성을 염두에 두고 국내 관련 종목에도 주의 깊은 접근이 필요하다.",
-      "description": "미국 증시가 5.28% 급락하며 마감했으며, 나스닥은 연간 기준으로 하락 전환했고 변동성 지수(VIX)는 35를 넘어섰다. 필라델피아 반도체 지수가 11% 폭락하고 엔비디아는 사상 최고가 달성 이후 7주 연속 하락세를 기록했다.",
+      "summary_text": "AI 관련주의 충격으로 코스피가 4900선이 무너진 채 마감되었으며, 다음 주 미국 물가와 금리 정책이 증시 반등의 핵심 요인으로 지목된다. 글로벌 AI 기술주들의 조정이 국내 증시에 직접적인 영향을 미쳤고, 고금리 장기화 우려가 투자 심리를 위축시키고 있다. 미국 물가 지표와 연준의 금리 관련 발언에 촉각을 세우고, AI 관련주의 추가 조정 가능성 및 낙폭 과대 종목의 기술적 반등 여부를 주시해야 한다.",
+      "description": "AI 관련주 부진으로 코스피가 4900선 아래로 하락했으며, 이번 주 발표될 미국 물가 지표와 연준의 금리 정책이 국내 증시 반등의 중요한 변수가 될 것으로 전망된다.",
       "category": "증시·금리",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "반도체, 기술주",
+      "related_sector": "인공지능(AI), 반도체, IT",
       "related_stocks": [
-        "엔비디아",
-        "삼성전자",
-        "SK하이닉스"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "미국 증시, 특히 기술주와 반도체 섹터의 급락은 국내 증시에도 큰 영향을 미칠 수 있으므로 시장 전반의 변동성 확대에 대비해야 합니다.",
-      "key_signal": "나스닥 및 필라델피아 반도체 지수의 추가 하락 여부와 엔비디아를 비롯한 주요 AI 반도체 기업들의 실적 및 가이던스 발표를 주시해야 합니다.",
+      "investment_reason": "코스피 지수의 핵심 지지선이 붕괴된 상황에서 글로벌 매크로 변수가 불확실성을 가중시키고 있어 신중한 접근이 필요하다.",
+      "key_signal": "이번 주 발표될 미국 소비자물가지수(CPI)와 생산자물가지수(PPI), 그리고 연준 관계자들의 발언을 면밀히 관찰해야 한다.",
       "keywords": [
-        "미국 증시",
-        "나스닥",
-        "반도체 지수",
-        "엔비디아",
-        "VIX"
+        "코스피",
+        "AI 쇼크",
+        "미국 물가",
+        "금리",
+        "주간 증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3FLemNQRENoOW5qTHM2Zk1sbmZod3B0cnF5WkxVT2xNUnZuZzJHUnBjbGJHbDdXeWIyNkRIWUZiRGtYRlZDMjUzaGh3Q0pjem5GRHJvWW5GRTc2LWdZdVF1UVlMaTUwdy14OVN0aGlmUnhsc3ZjUllFRXlKSU1LX2NNRVdza3VaVHZ5UXhRVEdRQlp2a0dTWWVlQQ?oc=5",
-      "published": "2026-11-21 08:06",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WTRTc1ZtbEVJYU1xTlBvRVk5LTNDZGJPaC04Tk41LXFScURyS2EzU0FYQ0JGLWcwSmhrdVlxZTlLcEJEbkNncXY1QmtuR3dKdlhwYm82ZHBHR3k3Wk1RMUJTbV9CNWl1?oc=5",
+      "published": "2026-11-22 10:05",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "삼성전자, SK하이닉스 하락에 코스피 5000선 붕괴… 금리 변수까지 겹친 국내 증시 반등할까",
-      "display_title": "삼성전자, SK하이닉스 하락에 코스피 5000선 붕괴… 금리 변수까지 겹친 국내 증시 반등할까",
-      "original_title": "삼전닉스 무너지자 오천피 붕괴… ‘금리 변수’까지 만난 국장 반등할까 [주간 증시해설서] - 더스쿠프",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "AI 붐 균열 발생, S&P 500 및 다우지수 조정선 아래로 하락하며 美 증시 매도세 심화",
+      "display_title": "AI 붐 균열 발생, S&P 500 및 다우지수 조정선 아래로 하락하며 美 증시 매도세 심화",
+      "original_title": "AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below Correction Line - BigGo Finance",
       "summary": [
-        "삼성전자와 SK하이닉스 등 대형 반도체주의 약세로 코스피 5000선이 붕괴되었으며, 금리 인상 가능성 등 추가 악재가 겹쳤다.",
-        "글로벌 반도체 시장의 조정과 국내외 금리 인상 압박이 국내 증시 투자 심리를 크게 위축시키고 있다.",
-        "국내 증시의 핵심인 반도체 섹터의 흐름과 금리 정책 변화에 대한 모니터링이 필수적이며, 보수적인 투자 접근이 요구된다."
+        "AI 붐이 주춤하며 미국 증시에서 매도세가 강해져 S&P 500과 다우지수가 조정 국면에 진입했다.",
+        "AI 기술주의 과열 논란과 차익 실현 매물, 그리고 고금리 장기화 우려가 복합적으로 작용하여 시장 하락을 이끌고 있다.",
+        "미국 증시의 AI 관련주 조정이 국내 시장에도 영향을 미칠 수 있으므로, 기술주 중심의 포트폴리오를 점검하고 시장 변동성에 대비해야 한다."
       ],
-      "summary_text": "삼성전자와 SK하이닉스 등 대형 반도체주의 약세로 코스피 5000선이 붕괴되었으며, 금리 인상 가능성 등 추가 악재가 겹쳤다. 글로벌 반도체 시장의 조정과 국내외 금리 인상 압박이 국내 증시 투자 심리를 크게 위축시키고 있다. 국내 증시의 핵심인 반도체 섹터의 흐름과 금리 정책 변화에 대한 모니터링이 필수적이며, 보수적인 투자 접근이 요구된다.",
-      "description": "삼성전자와 SK하이닉스 등 주요 반도체 기업들의 주가 하락으로 코스피 지수 5000선이 붕괴되었고, 금리 인상 가능성 등 거시 경제 변수까지 겹쳐 국내 증시의 반등 여부가 주목된다.",
+      "summary_text": "AI 붐이 주춤하며 미국 증시에서 매도세가 강해져 S&P 500과 다우지수가 조정 국면에 진입했다. AI 기술주의 과열 논란과 차익 실현 매물, 그리고 고금리 장기화 우려가 복합적으로 작용하여 시장 하락을 이끌고 있다. 미국 증시의 AI 관련주 조정이 국내 시장에도 영향을 미칠 수 있으므로, 기술주 중심의 포트폴리오를 점검하고 시장 변동성에 대비해야 한다.",
+      "description": "인공지능(AI) 관련 성장세가 둔화 조짐을 보이며 미국 주식 시장에서 매도세가 확대, S&P 500과 다우지수 모두 조정선(correction line) 아래로 떨어졌다.",
       "category": "증시·금리",
-      "importance": 10,
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "반도체, 증권, IT",
+      "related_sector": "인공지능(AI), 기술주, 반도체",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "네이버",
+        "카카오",
+        "삼성전자"
       ],
       "investment_view": "주의",
-      "investment_reason": "국내 증시를 대표하는 반도체 대형주 하락과 금리 변수는 시장 전반의 방향성을 좌우하므로, 국내 투자자들은 매우 신중하게 접근해야 합니다.",
-      "key_signal": "삼성전자와 SK하이닉스의 주가 흐름, 한국은행 금융통화위원회의 금리 결정, 그리고 외국인 투자자들의 매매 동향을 집중적으로 살펴야 합니다.",
+      "investment_reason": "AI 기술주의 조정이 미국 주요 지수를 하락시키며 글로벌 증시 전반에 대한 불안감을 키우고 있어 투자 리스크 관리가 중요하다.",
+      "key_signal": "미국 기술주, 특히 AI 대형주의 추가 하락 여부와 지수 지지선 회복 여부를 면밀히 주시해야 한다.",
       "keywords": [
-        "코스피",
-        "반도체",
-        "삼성전자",
-        "SK하이닉스",
-        "금리 인상"
+        "AI 붐",
+        "미국 증시",
+        "S&P 500",
+        "다우지수",
+        "기술주 조정"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pc2tYWjdoTFBYQUpGc0xkd3J3dG5Ka0l2cl9NU3dxRHU4dVRDdDg4RTB6NVM4STRnNjJORmpXR2dVQWtzUUlkUFE0LXljVUpLaDZRQV9LRnc2TXFab3FOcW91MVZsU2JBaERUQXFR?oc=5",
-      "published": "2026-11-21 10:03",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NR1VZR0dEaVJFS1ZrV2pNQWhjeTAyN1lKM3JVeTdvLWx5TlEzcVV0em1EV20tLTlxYUI0Rm5kU2Y0V0pTN1M2WURzNzV4eVByZzZPdGExNTdVOUVuUWo5Y3lzdkMwOGNmUXhyZ1hLTkdGeGxKT0E?oc=5",
+      "published": "2026-11-22 08:35",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -111,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "기술주 주도로 글로벌 증시 폭락, 국채 수익률 하락",
-      "display_title": "기술주 주도로 글로벌 증시 폭락, 국채 수익률 하락",
-      "original_title": "Tech leads global stocks rout, Treasury yields fall - Yahoo Finance",
+      "title": "연준 이사 리사 쿡, 향후 더 큰 폭의 금리 인상 가능성 경고",
+      "display_title": "연준 이사 리사 쿡, 향후 더 큰 폭의 금리 인상 가능성 경고",
+      "original_title": "Fed’s Lisa Cook Warns of Larger Rate Hikes Ahead - 24/7 Wall St.",
       "summary": [
-        "글로벌 증시가 기술주 주도로 폭락했으며, 안전자산 선호 심리로 인해 국채 수익률이 하락했다.",
-        "기술주에 대한 차익 실현 압력과 글로벌 경제 불확실성이 복합적으로 작용하여 시장 전반의 위험 회피 심리가 확산된 것으로 분석된다.",
-        "기술주 중심의 조정은 국내 증시에도 영향을 미칠 수 있으며, 금리 하락은 일부 성장주에 긍정적일 수 있으나 전반적인 시장 불안정성에 대비해야 한다."
+        "연준 이사 리사 쿡이 인플레이션 대응을 위해 향후 더 큰 폭의 금리 인상이 필요할 수 있다고 경고했다.",
+        "이는 인플레이션 압력이 여전히 높다는 연준 내부의 인식을 보여주며, 시장의 금리 인하 기대감을 낮추고 매파적 기조를 강화하는 발언으로 해석된다.",
+        "고금리 장기화 가능성이 더욱 높아졌으므로, 채권 및 주식 시장 모두에 부담으로 작용할 수 있으며, 기업 실적과 가치 평가에 대한 보수적인 접근이 요구된다."
       ],
-      "summary_text": "글로벌 증시가 기술주 주도로 폭락했으며, 안전자산 선호 심리로 인해 국채 수익률이 하락했다. 기술주에 대한 차익 실현 압력과 글로벌 경제 불확실성이 복합적으로 작용하여 시장 전반의 위험 회피 심리가 확산된 것으로 분석된다. 기술주 중심의 조정은 국내 증시에도 영향을 미칠 수 있으며, 금리 하락은 일부 성장주에 긍정적일 수 있으나 전반적인 시장 불안정성에 대비해야 한다.",
-      "description": "기술주가 주도하여 글로벌 증시가 폭락하는 가운데, 국채 수익률은 하락했다.",
+      "summary_text": "연준 이사 리사 쿡이 인플레이션 대응을 위해 향후 더 큰 폭의 금리 인상이 필요할 수 있다고 경고했다. 이는 인플레이션 압력이 여전히 높다는 연준 내부의 인식을 보여주며, 시장의 금리 인하 기대감을 낮추고 매파적 기조를 강화하는 발언으로 해석된다. 고금리 장기화 가능성이 더욱 높아졌으므로, 채권 및 주식 시장 모두에 부담으로 작용할 수 있으며, 기업 실적과 가치 평가에 대한 보수적인 접근이 요구된다.",
+      "description": "리사 쿡 연방준비제도(Fed) 이사가 인플레이션을 억제하기 위해 향후 더 큰 폭의 금리 인상이 필요할 수 있다고 경고했다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "기술주, 반도체, 소프트웨어",
+      "related_sector": "금융, 채권, 기술주",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "글로벌 기술주의 급락은 한국 증시, 특히 기술 성장주에 대한 투자 심리를 위축시킬 수 있으므로 전반적인 시장 변동성 확대에 주의해야 합니다.",
-      "key_signal": "기술주 중심의 하락세가 지속될지, 그리고 국채 금리 하락이 기업들의 자금 조달에 어떤 영향을 미칠지 주시해야 합니다.",
+      "investment_reason": "연준의 고위 관계자가 매파적 발언을 이어가는 것은 고금리 환경 장기화에 대한 시장의 우려를 심화시키고 투자 전략 재검토를 필요하게 만든다.",
+      "key_signal": "연준의 다른 위원들 발언, 물가 지표, 고용 지표를 종합적으로 보며 금리 인상 경로에 대한 시장의 컨센서스 변화를 주시해야 한다.",
       "keywords": [
-        "글로벌 증시",
-        "기술주",
-        "국채 수익률",
-        "시장 폭락",
-        "위험 회피"
+        "연준",
+        "금리 인상",
+        "리사 쿡",
+        "인플레이션",
+        "매파"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjlpWS1YQTlya1VJSTJGT0tCMHZjbzBEYVdsSGhqLWdlOVk3eF8yS003U0ptdW1EcGpqbWx0NnZWSC1Qck95NVlRcDhMN0w5cWg4V19JelZqaVNxRDA1VGVON205SVNQUFhaZ2YwM3g2dDVPdENpNUVKd05ubzFNQVFydHBPMnVURW9UY2VlYWh5SGdfaVR6dDRsWTVSUlNodGc?oc=5",
-      "published": "2026-11-21 07:33",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRzZ3V1pyTlFTOFpvRGwxSHRJMkhhbXMyc3c1V0tfYndiajJmdk50ZzM1aWR5X1lkaGJ0WXBhcmVndDd5ZGJsSXUwU1B2Rk5UbDdraUJtUk5jT3lrQkYwbVpjOXRBRjVGbU5DZzEzelpOMlJ1dW9NMlFPU0lyOUVmSUtGYUN6YnRjT2dvYzRTYXdMS2VoRnc?oc=5",
+      "published": "2026-11-22 01:03",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -153,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다",
-      "display_title": "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다",
-      "original_title": "Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI - WKZO",
+      "title": "올해 국채 수익률, 나스닥·S&P 500·다우지수 상회",
+      "display_title": "올해 국채 수익률, 나스닥·S&P 500·다우지수 상회",
+      "original_title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year - Yahoo Finance",
       "summary": [
-        "앤트로픽 데뷔 다음 날 나스닥이 5% 급락했으나, 시장 전문가들은 AI 산업의 장기적 성장 잠재력에 대한 믿음은 유지하고 있다.",
-        "AI 기술주의 단기 과열에 따른 조정 장세로 풀이되며, 단기적인 변동성과 장기적인 성장 가능성 사이의 괴리를 보여준다.",
-        "단기적인 시장 조정에도 불구하고 AI 기술의 본질적인 가치에 주목하여, 우량 AI 관련 기업들을 선별적으로 접근하는 전략이 필요하다."
+        "올해 미국 단기 국채(T-Bills) 수익률이 주요 주가지수(나스닥, S&P 500, 다우)를 넘어섰다.",
+        "높은 기준금리 환경에서 국채 투자 매력이 부각되며, 안전자산 선호 심리가 반영된 결과로 해석된다.",
+        "주식 시장 변동성이 커지는 시기에 안전자산으로서의 국채 매력을 고려하고, 포트폴리오 다변화를 검토할 필요가 있다."
       ],
-      "summary_text": "앤트로픽 데뷔 다음 날 나스닥이 5% 급락했으나, 시장 전문가들은 AI 산업의 장기적 성장 잠재력에 대한 믿음은 유지하고 있다. AI 기술주의 단기 과열에 따른 조정 장세로 풀이되며, 단기적인 변동성과 장기적인 성장 가능성 사이의 괴리를 보여준다. 단기적인 시장 조정에도 불구하고 AI 기술의 본질적인 가치에 주목하여, 우량 AI 관련 기업들을 선별적으로 접근하는 전략이 필요하다.",
-      "description": "앤트로픽 데뷔 다음 날 나스닥 지수가 5% 폭락했지만, 투자자들은 여전히 AI의 잠재력을 신뢰하고 있다.",
+      "summary_text": "올해 미국 단기 국채(T-Bills) 수익률이 주요 주가지수(나스닥, S&P 500, 다우)를 넘어섰다. 높은 기준금리 환경에서 국채 투자 매력이 부각되며, 안전자산 선호 심리가 반영된 결과로 해석된다. 주식 시장 변동성이 커지는 시기에 안전자산으로서의 국채 매력을 고려하고, 포트폴리오 다변화를 검토할 필요가 있다.",
+      "description": "미국 단기 국채(T-Bills)가 올해 나스닥, S&P 500, 다우지수 등 주요 주가지수보다 높은 수익률을 기록하고 있다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 8,
       "market_impact": "부정",
-      "related_sector": "인공지능 (AI), 소프트웨어, 반도체",
+      "related_sector": "채권, 주식시장",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "관심",
-      "investment_reason": "AI 섹터의 단기적 조정은 불가피하나, 장기적인 성장 가능성이 여전히 유효하므로 저점 매수 기회를 모색하는 관점에서 시장을 지켜봐야 합니다.",
-      "key_signal": "AI 기술 관련 기업들의 실제 수익성 개선 여부와 기술 혁신 속도를 지속적으로 확인하여 장기적인 투자 관점을 유지해야 합니다.",
+      "investment_reason": "안전자산 선호 심화 및 주식 시장의 상대적 매력도 하락 가능성을 보여주므로 투자 포트폴리오 조정에 참고해야 한다.",
+      "key_signal": "국채 금리 추이와 주요 주가지수의 반등 여부를 함께 확인하여 시장의 위험 선호도 변화를 파악해야 한다.",
       "keywords": [
-        "나스닥",
-        "AI 투자",
-        "앤트로픽",
-        "기술주 조정",
-        "장기 성장"
+        "국채",
+        "T-Bills",
+        "주식시장",
+        "안전자산",
+        "금리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZk1GTHBNSXRTaEpSemV5a2RISlBmSENLMmU2SkhlS19rRVBKOWZheDQxVnVldWczNHdzaGJZZkx2ekRXTE5QRG1QNGtXYmI3aV9KbnphdWNRMDFGM0kxUnlkdWI5b1dPc2FlX2xMS2wxWkprM1hWUUJJUXh5V1JYLXZ6OHpodFlYbWU3SFhDenVJLUtSdnlQclpYVm9CeExxNW85MVdhYjV2eXM?oc=5",
-      "published": "2026-11-21 06:34",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2o5MjhzNnF2Q05WQTZCSjBkU01IZk5hMFRROVhmd2RrSmlsUGtqMW14aDZkZDB4aEEwM2J1V1NvSjcwNTlwYWYyd2E0SkFSZkNZNU51XzdPZkdtOUR2NWkyQ2NnM3gzc0dDOVlFTHF1YjBfMjhjWTlJODNvTS1iSWt0ZlJyeEh2dnZ6SmZNbDk0VnBs?oc=5",
+      "published": "2026-11-22 04:22",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -192,84 +193,81 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[다음주 환율전망] 강달러 영향으로 다시 상승하는 환율…한국은행 금통위가 향방 결정할 것",
-      "display_title": "[다음주 환율전망] 강달러 영향으로 다시 상승하는 환율…한국은행 금통위가 향방 결정할 것",
-      "original_title": "[다음주 환율전망] 강달러에 다시 고개 든 환율…한은 금통위가 방향 가른다 - 굿모닝경제",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "엔비디아 실적 발표 및 앤스로픽 데뷔 앞두고 나스닥 100 지수 하락 전망",
+      "display_title": "엔비디아 실적 발표 및 앤스로픽 데뷔 앞두고 나스닥 100 지수 하락 전망",
+      "original_title": "Nasdaq 100 Forecast: NDX falls ahead of Nvidia’s earnings & Anthropic’s debut this week - StoneX",
       "summary": [
-        "강달러 현상으로 원/달러 환율이 상승할 것으로 전망되며, 다음주 한국은행 금융통화위원회(금통위)의 금리 결정이 환율의 향방을 좌우할 것이다.",
-        "미국 연방준비제도(Fed)의 긴축 기조 유지 가능성과 국내 물가 압력 등으로 인해 환율 및 금리 변동성이 확대되고 있다.",
-        "환율 상승은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 압력과 외국인 투자자 이탈 가능성을 야기하므로 전반적인 시장에 주의해야 한다."
+        "엔비디아 실적 발표와 앤스로픽 데뷔를 앞두고 나스닥 100 지수의 하락 가능성이 제기되었다.",
+        "AI 기술주에 대한 기대감과 함께 최근 AI 붐 둔화 및 금리 인상 우려가 겹치면서 투자 심리가 위축되고 있다.",
+        "엔비디아 실적은 AI 산업 전반의 건전성을 가늠하는 중요한 지표이며, 관련 기술주 및 반도체 섹터의 변동성 확대에 대비해야 한다."
       ],
-      "summary_text": "강달러 현상으로 원/달러 환율이 상승할 것으로 전망되며, 다음주 한국은행 금융통화위원회(금통위)의 금리 결정이 환율의 향방을 좌우할 것이다. 미국 연방준비제도(Fed)의 긴축 기조 유지 가능성과 국내 물가 압력 등으로 인해 환율 및 금리 변동성이 확대되고 있다. 환율 상승은 수출 기업에 긍정적일 수 있으나, 수입 물가 상승 압력과 외국인 투자자 이탈 가능성을 야기하므로 전반적인 시장에 주의해야 한다.",
-      "description": "다음주 환율은 강달러 현상으로 인해 다시 상승할 가능성이 있으며, 한국은행 금융통화위원회의 금리 결정이 환율의 방향성을 가를 주요 변수가 될 것으로 전망된다.",
-      "category": "국내 거시경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "수출주, 증권, 운송",
+      "summary_text": "엔비디아 실적 발표와 앤스로픽 데뷔를 앞두고 나스닥 100 지수의 하락 가능성이 제기되었다. AI 기술주에 대한 기대감과 함께 최근 AI 붐 둔화 및 금리 인상 우려가 겹치면서 투자 심리가 위축되고 있다. 엔비디아 실적은 AI 산업 전반의 건전성을 가늠하는 중요한 지표이며, 관련 기술주 및 반도체 섹터의 변동성 확대에 대비해야 한다.",
+      "description": "엔비디아의 실적 발표와 AI 스타트업 앤스로픽(Anthropic)의 데뷔를 앞두고 이번 주 나스닥 100 지수가 하락할 것으로 예측된다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "반도체, 인공지능(AI), 소프트웨어",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "엔비디아"
       ],
-      "investment_view": "관심",
-      "investment_reason": "환율 변동과 한은 금통위의 결정은 국내 기업의 실적, 물가, 외국인 자금 유출입에 직접적인 영향을 미치므로 투자 결정에 중요한 고려 사항입니다.",
-      "key_signal": "한국은행 금통위의 금리 결정 결과와 그에 따른 원/달러 환율의 움직임을 예의주시하고, 수출 기업들의 수혜 여부를 파악해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "엔비디아 실적은 글로벌 AI 및 반도체 시장의 향방을 결정할 주요 이벤트이므로 국내 관련 기업 투자에 큰 영향을 미칠 수 있다.",
+      "key_signal": "엔비디아의 실적 발표 내용과 가이던스를 면밀히 분석하여 AI 산업의 모멘텀 변화를 파악해야 한다.",
       "keywords": [
-        "환율",
-        "강달러",
-        "한국은행",
-        "금통위",
-        "금리"
+        "나스닥 100",
+        "엔비디아",
+        "실적 발표",
+        "앤스로픽",
+        "AI 기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tcGhMdFY5S0lIY1JtTm9IS2RQVEZOWWRabVBWSW5nalVxS0dkTVJ1QUZjandPcTJrUFNudTIxSy1XN1ctOVlybmhHRDRyWm0wNlBSaldqRkFoTXVJT0Z4LVoyNm0yUU00VDB5TA?oc=5",
-      "published": "2026-11-21 07:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0dWb0gzbllYanhUZC1zS1Z3VGx6ZnFoWmxrdFpFb0ZOVmxiNUNsdFkwTTQ5R0VEeXNZT1pyM0lCNVBGZlJ2SzN0RTA4QXdhdEdDNEp1YTlXLXNuZmt2V2dvQm4zc1VGUmw5SHZIREJWM2NfS0xkVVFlcDlrM2JwOFE2Tjd3cTMxQ0dwRUtseE1nVVdPY3FDa0FoM1lvQUY4cVB3TU9IMlg1cERLbS1YU1JHVkktcjB4RnRBaXIxU1h4bm81blg5Y0dxVHpUTE5HQWc?oc=5",
+      "published": "2026-11-22 03:33",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 6,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "나스닥 100 전망: 엔비디아 실적 발표와 앤트로픽 데뷔 앞두고 하락",
-      "display_title": "나스닥 100 전망: 엔비디아 실적 발표와 앤트로픽 데뷔 앞두고 하락",
-      "original_title": "Nasdaq 100 Forecast: NDX falls ahead of Nvidia’s earnings & Anthropic’s debut this week - StoneX",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "삼성전자 SK하이닉스 내년에도 성장 지속 전망...무디스 분석",
+      "display_title": "삼성전자 SK하이닉스 내년에도 성장 지속 전망...무디스 분석",
+      "original_title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유 - 파이낸셜뉴스",
       "summary": [
-        "나스닥 100 지수가 엔비디아 실적 발표와 AI 기업 앤트로픽 데뷔를 앞두고 하락했다.",
-        "AI 관련주에 대한 기대감과 동시에 불확실성이 공존하며 주요 이벤트 전 관망세가 형성된 것으로 보인다.",
-        "엔비디아 실적은 AI 반도체 산업의 방향성을 제시할 중요한 지표이며, 앤트로픽 데뷔는 AI 기술 경쟁의 새로운 국면을 알릴 수 있다."
+        "신용평가사 무디스는 삼성전자와 SK하이닉스가 내년에도 양호한 실적을 기록할 것으로 전망했다.",
+        "이는 반도체 업황 회복과 AI 관련 고성능 메모리 수요 증가에 대한 긍정적인 전망에 기반한 것으로 분석된다.",
+        "글로벌 반도체 시장의 긍정적인 전망은 국내 대표 반도체 기업들의 투자 매력을 높이며, 장기적인 관점에서 접근할 필요가 있다."
       ],
-      "summary_text": "나스닥 100 지수가 엔비디아 실적 발표와 AI 기업 앤트로픽 데뷔를 앞두고 하락했다. AI 관련주에 대한 기대감과 동시에 불확실성이 공존하며 주요 이벤트 전 관망세가 형성된 것으로 보인다. 엔비디아 실적은 AI 반도체 산업의 방향성을 제시할 중요한 지표이며, 앤트로픽 데뷔는 AI 기술 경쟁의 새로운 국면을 알릴 수 있다.",
-      "description": "엔비디아 실적 발표와 앤트로픽 데뷔를 앞두고 나스닥 100 지수가 하락세를 보였다.",
-      "category": "증시·금리",
+      "summary_text": "신용평가사 무디스는 삼성전자와 SK하이닉스가 내년에도 양호한 실적을 기록할 것으로 전망했다. 이는 반도체 업황 회복과 AI 관련 고성능 메모리 수요 증가에 대한 긍정적인 전망에 기반한 것으로 분석된다. 글로벌 반도체 시장의 긍정적인 전망은 국내 대표 반도체 기업들의 투자 매력을 높이며, 장기적인 관점에서 접근할 필요가 있다.",
+      "description": "국제 신용평가사 무디스(Moody's)가 삼성전자와 SK하이닉스가 내년에도 견조한 성장세를 이어갈 것이라고 전망하며 그 이유를 밝혔다.",
+      "category": "기업·산업",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "반도체, 인공지능 (AI), 클라우드 컴퓨팅",
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT 하드웨어, 메모리 반도체",
       "related_stocks": [
-        "엔비디아",
         "삼성전자",
         "SK하이닉스"
       ],
       "investment_view": "관심",
-      "investment_reason": "엔비디아의 실적 발표와 주요 AI 기업의 동향은 AI 관련 투자 심리와 시장 전반의 기술주 흐름에 결정적인 영향을 미칠 수 있습니다.",
-      "key_signal": "엔비디아의 실적 발표 내용과 가이던스, 그리고 앤트로픽의 시장 반응을 면밀히 분석하여 AI 섹터의 향방을 예측해야 합니다.",
+      "investment_reason": "국내 증시에서 큰 비중을 차지하는 반도체 대형주에 대한 긍정적 전망은 전체 시장 분위기에도 긍정적인 영향을 미칠 수 있다.",
+      "key_signal": "실제 기업들의 실적 발표와 글로벌 반도체 시장의 공급 및 수요 변화 추이를 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "나스닥 100",
-        "엔비디아 실적",
-        "앤트로픽",
-        "AI 주식",
-        "기술주"
+        "삼성전자",
+        "SK하이닉스",
+        "무디스",
+        "반도체 호황",
+        "AI 메모리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0dWb0gzbllYanhUZC1zS1Z3VGx6ZnFoWmxrdFpFb0ZOVmxiNUNsdFkwTTQ5R0VEeXNZT1pyM0lCNVBGZlJ2SzN0RTA4QXdhdEdDNEp1YTlXLXNuZmt2V2dvQm4zc1VGUmw5SHZIREJWM2NfS0xkVVFlcDlrM2JwOFE2Tjd3cTMxQ0dwRUtseE1nVVdPY3FDa0FoM1lvQUY4cVB3TU9IMlg1cERLbS1YU1JHVkktcjB4RnRBaXIxU1h4bm81blg5Y0dxVHpUTE5HQWc?oc=5",
-      "published": "2026-11-21 07:27",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Md3J0VzZqdUI5eGhVMVRiSGIteWVIT3laQVZOcHlVdjhpM2lWaFFKaGNZclRxOHF0aDVlaGZ1WVI0OEFQd1VlV3lRcmpSVFRxcExlbHozb3J1Zw?oc=5",
+      "published": "2026-11-22 08:22",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -280,68 +278,68 @@
       "rank": 1,
       "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체, IT",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "미국 반도체 및 기술주 폭락의 직접적인 영향으로 하락했으나, AI 산업의 장기 성장성과 국내 증시의 핵심 종목이라는 점에서 조정 시 저점 매수 기회를 모색하는 관점에서 관심이 필요합니다.",
+      "reason": "글로벌 AI 시장의 불확실성 및 기술주 조정 압박 속에서도 무디스가 내년 성장 지속을 전망하며 상반된 시그널을 보여주고 있어, 국내 증시 대형주로서 흐름을 주시할 필요가 있습니다.",
       "check_points": [
-        "글로벌 반도체 시장 동향 및 재고 수준",
-        "AI 반도체(HBM 등) 수요 및 기술 경쟁력",
-        "외국인 투자자 수급 및 환율 변동성"
+        "글로벌 AI 및 반도체 업황의 실제 회복 속도",
+        "엔비디아 실적 발표가 국내 반도체 시장에 미칠 영향",
+        "주요국 물가 및 금리 동향에 따른 매크로 변수"
       ],
       "related_news_titles": [
-        "미국 증시 마감 | 5.28% 폭락! 나스닥 연간 하락 전환, VIX 35 상회; 필라델피아 반도체 지수 11% 급락, 엔비디아 사상 최고치 이후 7주 연속 하락",
-        "삼성전자, SK하이닉스 하락에 코스피 5000선 붕괴… 금리 변수까지 겹친 국내 증시 반등할까",
-        "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다"
+        "[주간증시전망] 'AI 쇼크'로 4900선 붕괴된 코스피, 美 물가·금리에 반등 기대",
+        "AI 붐 균열 발생, S&P 500 및 다우지수 조정선 아래로 하락하며 美 증시 매도세 심화",
+        "삼성전자 SK하이닉스 내년에도 성장 지속 전망...무디스 분석"
       ]
     },
     {
       "rank": 2,
       "name": "SK하이닉스",
       "market": "KOSPI",
-      "sector": "반도체, IT",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 반도체 시장의 조정과 국내 증시의 동반 하락 속에서도 HBM(고대역폭 메모리) 등 AI 메모리 핵심 기업으로서 장기적인 AI 성장 모멘텀을 주목하며, 조정 시 관심있게 지켜볼 필요가 있습니다.",
+      "reason": "삼성전자와 마찬가지로 무디스로부터 내년에도 성장이 지속될 것이라는 긍정적인 분석이 제시되어 투자자들의 이목을 끌고 있습니다. AI 반도체 핵심인 HBM 시장에서의 경쟁력과 업황 개선 기대감을 함께 살펴보아야 합니다.",
       "check_points": [
-        "HBM 등 AI 메모리 시장 경쟁 구도 및 기술 리더십",
-        "글로벌 D램 및 낸드 가격 동향",
-        "주요 고객사 주문 동향 및 재고 상황"
+        "HBM(고대역폭 메모리) 시장의 수요 및 공급 동향",
+        "글로벌 반도체 경기 회복의 구체적인 신호",
+        "경쟁사 대비 기술 우위 유지 여부"
       ],
       "related_news_titles": [
-        "미국 증시 마감 | 5.28% 폭락! 나스닥 연간 하락 전환, VIX 35 상회; 필라델피아 반도체 지수 11% 급락, 엔비디아 사상 최고치 이후 7주 연속 하락",
-        "삼성전자, SK하이닉스 하락에 코스피 5000선 붕괴… 금리 변수까지 겹친 국내 증시 반등할까",
-        "나스닥 100 전망: 엔비디아 실적 발표와 앤트로픽 데뷔 앞두고 하락"
+        "삼성전자 SK하이닉스 내년에도 성장 지속 전망...무디스 분석"
       ]
     },
     {
       "rank": 3,
       "name": "네이버",
       "market": "KOSPI",
-      "sector": "인터넷, 소프트웨어, 인공지능 (AI)",
-      "opinion": "관심",
-      "reason": "글로벌 기술주 폭락으로 인한 투자 심리 위축은 불가피하나, '투자자들은 여전히 AI를 믿는다'는 뉴스처럼 국내 대표 AI 관련주로서 장기적인 성장 가능성을 보고 조정 시 저점 매수 기회를 모색해볼 수 있습니다.",
+      "sector": "IT 서비스",
+      "opinion": "주의",
+      "reason": "AI 붐 균열과 미국 주요 지수의 매도세 심화 소식은 국내 대표 AI 관련주인 네이버의 투자 심리를 위축시킬 수 있습니다. 글로벌 AI 기술주 전반의 조정이 국내 시장에 미칠 영향을 면밀히 관찰해야 합니다.",
       "check_points": [
-        "AI 신사업 및 서비스 출시 현황과 시장 반응",
-        "광고 및 커머스 등 본업의 실적 회복세",
-        "글로벌 빅테크 기업들과의 AI 기술 경쟁 및 협력"
+        "글로벌 AI 시장의 변동성 및 기술주 조정 심화 여부",
+        "네이버의 자체 AI 기술 개발 및 서비스 상용화 진전",
+        "광고, 커머스 등 핵심 사업 부문의 실적 변화"
       ],
       "related_news_titles": [
-        "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다"
+        "[주간증시전망] 'AI 쇼크'로 4900선 붕괴된 코스피, 美 물가·금리에 반등 기대",
+        "AI 붐 균열 발생, S&P 500 및 다우지수 조정선 아래로 하락하며 美 증시 매도세 심화"
       ]
     },
     {
       "rank": 4,
-      "name": "카카오",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "인터넷, 소프트웨어, 인공지능 (AI)",
+      "sector": "증권",
       "opinion": "관심",
-      "reason": "글로벌 기술주의 급락에도 불구하고 AI 산업에 대한 장기적 신뢰가 유지되는 가운데, 국내 주요 IT 플랫폼으로서 AI 기술 도입 및 서비스 확장에 대한 기대감으로 조정 시 관심있게 지켜볼 필요가 있습니다.",
+      "reason": "연준 이사의 매파적 발언으로 고금리 환경 장기화 우려가 커지는 상황에서, 국채 수익률이 주요 주식 지수를 상회하며 안전자산 선호 심리가 부각되고 있습니다. 이는 주식 시장 전반에 부정적일 수 있지만, 증권사의 채권 관련 사업 및 투자심리 위축에 따른 변화를 주시할 필요가 있습니다.",
       "check_points": [
-        "AI 기반 신규 서비스 도입 및 수익화 전략",
-        "플랫폼 사업의 수익성 개선 및 경쟁 환경",
-        "규제 환경 변화 및 신사업 리스크 관리"
+        "연준의 향후 금리 인상 정책 방향 및 강도",
+        "국내외 채권 시장의 변동성 및 수익률 추이",
+        "증권업종의 거래량 및 수수료 수입 등 실적에 미치는 영향"
       ],
       "related_news_titles": [
-        "나스닥, 앤트로픽 데뷔 다음 날 5% 폭락했지만 투자자들은 여전히 AI를 믿는다"
+        "연준 이사 리사 쿡, 향후 더 큰 폭의 금리 인상 가능성 경고",
+        "올해 국채 수익률, 나스닥·S&P 500·다우지수 상회"
       ]
     }
   ],
