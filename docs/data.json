@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22 10:55",
-  "analysis_date": "2026-11-22",
+  "generated_at": "2026-11-23 11:15",
+  "analysis_date": "2026-11-23",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,96 +13,96 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "AI 기술주 조정과 고금리 장기화 우려가 글로벌 증시를 압박하며 국내외 증시 모두 하방 압력을 받고 있습니다. 미국 물가 지표와 연준의 통화 정책 방향이 시장 반등의 핵심 변수로 작용할 전망입니다.",
-    "국내거시경제": "AI 관련주 충격으로 코스피가 4900선이 무너지며 투자 심리가 위축되고 있습니다. 고금리 장기화 우려가 국내 증시의 부담 요인으로 작용하고 있습니다.",
-    "글로벌경제": "미국 증시에서 AI 붐 균열 발생과 연준 이사의 추가 금리 인상 가능성 경고가 맞물려 매도세가 심화되고 있습니다. 국채 수익률이 주식 수익률을 상회하며 안전자산 선호 심리가 확산되고 있습니다.",
-    "증시금리": "국내외 AI 기술주들의 조정이 증시 전반에 영향을 미치고 있습니다. 연준의 매파적 발언은 금리 인하 기대를 낮추며 시장 변동성을 키우고 있으며, 엔비디아 실적 발표는 AI 관련주의 향방을 가늠할 중요한 지표가 될 것입니다.",
-    "부동산정책": "관련 주요 뉴스 없음.",
-    "기업산업": "무디스는 삼성전자와 SK하이닉스가 반도체 업황 회복과 AI 관련 고성능 메모리 수요에 힘입어 내년에도 견조한 성장을 지속할 것으로 전망하며 국내 반도체 대형주에 긍정적인 시그널을 제시했습니다.",
-    "오늘의투자시사점": "AI 기술주 중심의 포트폴리오 변동성에 대비하고, 미국 물가 및 금리 관련 발언에 촉각을 세워야 합니다. 안전자산 선호 심리 확대를 고려한 포트폴리오 다변화와 함께, 낙폭 과대 종목의 기술적 반등 가능성도 함께 주시할 필요가 있습니다.",
-    "오늘의한줄": "글로벌 AI 기술주 조정과 고금리 우려가 증시를 압박하는 가운데, 반도체 대형주는 장기 성장이 기대됩니다."
+    "총평": "글로벌 긴축 기조와 경기 침체 우려가 심화되며 국내외 증시가 일제히 급락했습니다. 주요국 증시는 조정장에 진입했으며, 국내 증시도 정부의 증시안정펀드 가동 준비 소식에도 불구하고 하방 압력을 크게 받고 있습니다.",
+    "국내거시경제": "코스피가 4700선까지 밀리며 2%대 급락세를 보였고, 정부는 18년 만에 증시안정펀드 가동을 준비 중입니다. 외국인 매도세와 원화 약세가 가속화되며 국내 증시의 불안정성이 심화되고 있습니다.",
+    "글로벌경제": "나스닥 지수가 10% 급락하고 S&P 500과 나스닥 100 모두 조정장에 진입했습니다. 연준의 12월 50bp 금리 인상 논의 소식이 고금리 우려를 키우며 글로벌 증시 하락을 이끌고 있습니다. 달러 강세 기조는 유지될 전망입니다.",
+    "증시금리": "미국 연준의 매파적 스탠스와 글로벌 경기 둔화 우려로 증시 하방 압력이 커졌습니다. 국내외 주요 지수가 급락하며 투자 심리가 크게 위축되었으며, 고성장 기술주보다는 가치주나 경기 방어주에 대한 관심이 필요한 시점입니다. 외국인 매도세 진정 여부가 단기 반등의 관건입니다.",
+    "부동산정책": "관련 뉴스 없음",
+    "기업산업": "관련 뉴스 없음",
+    "오늘의투자시사점": "글로벌 긴축과 경기 침체 우려로 시장 변동성이 매우 높은 상황입니다. 방어적인 포트폴리오 전략을 유지하고, 외국인 수급 및 환율 동향을 면밀히 주시하며 신중하게 접근해야 합니다. 고성장 기술주보다 안정적인 가치주 및 경기 방어주에 관심을 둘 필요가 있습니다.",
+    "오늘의한줄": "글로벌 금리 인상 가속화와 경기 침체 공포가 국내외 증시를 강타하며 극도의 신중한 접근이 요구됩니다."
   },
   "top_news": [
     {
       "rank": 1,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[주간증시전망] 'AI 쇼크'로 4900선 붕괴된 코스피, 美 물가·금리에 반등 기대",
-      "display_title": "[주간증시전망] 'AI 쇼크'로 4900선 붕괴된 코스피, 美 물가·금리에 반등 기대",
-      "original_title": "[주간증시전망] 'AI 쇼크'에 4900선 무너진 코스피…美 물가·금리에 반등 달렸다 - www.ebn.co.kr",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "나스닥 10% 급락과 연준의 12월 50bp 금리 인상 논의 충돌",
+      "display_title": "나스닥 10% 급락과 연준의 12월 50bp 금리 인상 논의 충돌",
+      "original_title": "Middle Market Debt Weekly: Nasdaq’s 10% Plunge Collides with a Fed Openly Debating a 50 Basis Point December Hike - ABF Journal",
       "summary": [
-        "AI 관련주의 충격으로 코스피가 4900선이 무너진 채 마감되었으며, 다음 주 미국 물가와 금리 정책이 증시 반등의 핵심 요인으로 지목된다.",
-        "글로벌 AI 기술주들의 조정이 국내 증시에 직접적인 영향을 미쳤고, 고금리 장기화 우려가 투자 심리를 위축시키고 있다.",
-        "미국 물가 지표와 연준의 금리 관련 발언에 촉각을 세우고, AI 관련주의 추가 조정 가능성 및 낙폭 과대 종목의 기술적 반등 여부를 주시해야 한다."
+        "나스닥 지수가 10% 급락한 상황에서, 연준이 12월에 50bp(0.5%p) 금리 인상 가능성을 논의하고 있다는 소식이 전해졌습니다.",
+        "고금리 환경에 대한 우려가 기술주 중심의 나스닥 지수 하락을 가속화시키고 있으며, 연준의 매파적 스탠스가 시장에 큰 부담으로 작용하고 있습니다.",
+        "금리 인상 속도와 강도가 예상보다 빨라질 수 있어, 고성장 기술주보다는 안정적인 가치주나 경기 방어주에 대한 관심이 필요합니다."
       ],
-      "summary_text": "AI 관련주의 충격으로 코스피가 4900선이 무너진 채 마감되었으며, 다음 주 미국 물가와 금리 정책이 증시 반등의 핵심 요인으로 지목된다. 글로벌 AI 기술주들의 조정이 국내 증시에 직접적인 영향을 미쳤고, 고금리 장기화 우려가 투자 심리를 위축시키고 있다. 미국 물가 지표와 연준의 금리 관련 발언에 촉각을 세우고, AI 관련주의 추가 조정 가능성 및 낙폭 과대 종목의 기술적 반등 여부를 주시해야 한다.",
-      "description": "AI 관련주 부진으로 코스피가 4900선 아래로 하락했으며, 이번 주 발표될 미국 물가 지표와 연준의 금리 정책이 국내 증시 반등의 중요한 변수가 될 것으로 전망된다.",
+      "summary_text": "나스닥 지수가 10% 급락한 상황에서, 연준이 12월에 50bp(0.5%p) 금리 인상 가능성을 논의하고 있다는 소식이 전해졌습니다. 고금리 환경에 대한 우려가 기술주 중심의 나스닥 지수 하락을 가속화시키고 있으며, 연준의 매파적 스탠스가 시장에 큰 부담으로 작용하고 있습니다. 금리 인상 속도와 강도가 예상보다 빨라질 수 있어, 고성장 기술주보다는 안정적인 가치주나 경기 방어주에 대한 관심이 필요합니다.",
+      "description": "나스닥 지수가 10% 급락하는 가운데, 연방준비제도(Fed)가 12월에 50bp 금리 인상을 공개적으로 논의하고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "인공지능(AI), 반도체, IT",
+      "related_sector": "기술주, 성장주",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "코스피 지수의 핵심 지지선이 붕괴된 상황에서 글로벌 매크로 변수가 불확실성을 가중시키고 있어 신중한 접근이 필요하다.",
-      "key_signal": "이번 주 발표될 미국 소비자물가지수(CPI)와 생산자물가지수(PPI), 그리고 연준 관계자들의 발언을 면밀히 관찰해야 한다.",
+      "investment_reason": "연준의 공격적인 금리 인상 기조는 기술주를 비롯한 성장주에 치명적이며, 전반적인 유동성 축소로 이어져 시장에 큰 하방 압력을 줄 수 있기 때문입니다.",
+      "key_signal": "연준의 12월 FOMC 결과와 금리 인상 폭에 대한 시장의 반응을 면밀히 관찰해야 합니다.",
       "keywords": [
-        "코스피",
-        "AI 쇼크",
-        "미국 물가",
-        "금리",
-        "주간 증시"
+        "나스닥",
+        "금리 인상",
+        "연준",
+        "FOMC",
+        "기술주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WTRTc1ZtbEVJYU1xTlBvRVk5LTNDZGJPaC04Tk41LXFScURyS2EzU0FYQ0JGLWcwSmhrdVlxZTlLcEJEbkNncXY1QmtuR3dKdlhwYm82ZHBHR3k3Wk1RMUJTbV9CNWl1?oc=5",
-      "published": "2026-11-22 10:05",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTk92V2x3VS1SYzVRNktCRllPdG9GLW1WNGFBRVMxTFhuRWZBX2tTdlJHYmgwNjhRQ19WbjVkODg3NTlKRjREOXMydExxZ3FuWlN6ZURXeGNrY2ljYXl3STk4aFBPZV85cS1Kdy05S0ExRXl1d0loQzk0SmJXSC1QNEtnMFZyTDN5VXhCb283U3E5eGZmRkdtNndlLWlzM05XU294YmRGemNkRmx4ZEVONVdaQ2ZUXzV1Uk5SeFpfYnJRb3NZUFhjU0RoSjU5djRCN2hTUw?oc=5",
+      "published": "2026-11-23 11:10",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
     },
     {
       "rank": 2,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "AI 붐 균열 발생, S&P 500 및 다우지수 조정선 아래로 하락하며 美 증시 매도세 심화",
-      "display_title": "AI 붐 균열 발생, S&P 500 및 다우지수 조정선 아래로 하락하며 美 증시 매도세 심화",
-      "original_title": "AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below Correction Line - BigGo Finance",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "코스피 2%대 하락하며 4700선 개장…증시안정펀드 18년 만에 준비",
+      "display_title": "코스피 2%대 하락하며 4700선 개장…증시안정펀드 18년 만에 준비",
+      "original_title": "코스피 2%대 하락 4700대 개장…증안펀드 18년 만에 준비 - 코리아리포트",
       "summary": [
-        "AI 붐이 주춤하며 미국 증시에서 매도세가 강해져 S&P 500과 다우지수가 조정 국면에 진입했다.",
-        "AI 기술주의 과열 논란과 차익 실현 매물, 그리고 고금리 장기화 우려가 복합적으로 작용하여 시장 하락을 이끌고 있다.",
-        "미국 증시의 AI 관련주 조정이 국내 시장에도 영향을 미칠 수 있으므로, 기술주 중심의 포트폴리오를 점검하고 시장 변동성에 대비해야 한다."
+        "코스피 지수가 2% 넘게 하락하여 4700선에서 개장했으며, 정부는 18년 만에 증시안정펀드(증안펀드) 가동을 준비하고 있습니다.",
+        "글로벌 경기 침체 우려와 외국인 매도세가 겹치면서 국내 증시가 급락하자, 시장 불안을 해소하기 위해 정부가 개입할 가능성이 커지고 있습니다.",
+        "증안펀드 가동 준비는 시장의 하방 경직성을 확보하려는 노력으로 해석되지만, 실제 가동 여부와 그 효과는 지켜봐야 하며, 단기적 반등 기대보다는 신중한 접근이 필요합니다."
       ],
-      "summary_text": "AI 붐이 주춤하며 미국 증시에서 매도세가 강해져 S&P 500과 다우지수가 조정 국면에 진입했다. AI 기술주의 과열 논란과 차익 실현 매물, 그리고 고금리 장기화 우려가 복합적으로 작용하여 시장 하락을 이끌고 있다. 미국 증시의 AI 관련주 조정이 국내 시장에도 영향을 미칠 수 있으므로, 기술주 중심의 포트폴리오를 점검하고 시장 변동성에 대비해야 한다.",
-      "description": "인공지능(AI) 관련 성장세가 둔화 조짐을 보이며 미국 주식 시장에서 매도세가 확대, S&P 500과 다우지수 모두 조정선(correction line) 아래로 떨어졌다.",
+      "summary_text": "코스피 지수가 2% 넘게 하락하여 4700선에서 개장했으며, 정부는 18년 만에 증시안정펀드(증안펀드) 가동을 준비하고 있습니다. 글로벌 경기 침체 우려와 외국인 매도세가 겹치면서 국내 증시가 급락하자, 시장 불안을 해소하기 위해 정부가 개입할 가능성이 커지고 있습니다. 증안펀드 가동 준비는 시장의 하방 경직성을 확보하려는 노력으로 해석되지만, 실제 가동 여부와 그 효과는 지켜봐야 하며, 단기적 반등 기대보다는 신중한 접근이 필요합니다.",
+      "description": "코스피 지수가 2%대 하락한 4700선으로 개장했으며, 증시안정펀드 가동이 18년 만에 준비되고 있습니다.",
       "category": "증시·금리",
-      "importance": 9,
+      "importance": 10,
       "market_impact": "부정",
-      "related_sector": "인공지능(AI), 기술주, 반도체",
+      "related_sector": "증권, 금융",
       "related_stocks": [
-        "네이버",
-        "카카오",
-        "삼성전자"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "AI 기술주의 조정이 미국 주요 지수를 하락시키며 글로벌 증시 전반에 대한 불안감을 키우고 있어 투자 리스크 관리가 중요하다.",
-      "key_signal": "미국 기술주, 특히 AI 대형주의 추가 하락 여부와 지수 지지선 회복 여부를 면밀히 주시해야 한다.",
+      "investment_reason": "코스피 급락과 증안펀드 준비는 현재 시장이 매우 불안정하며 정부 개입이 필요한 수준임을 시사하므로, 당분간 변동성이 클 것으로 예상됩니다.",
+      "key_signal": "증시안정펀드의 실제 가동 시점과 규모, 그리고 외국인 투자자들의 매도세 진정 여부를 집중적으로 확인해야 합니다.",
       "keywords": [
-        "AI 붐",
-        "미국 증시",
-        "S&P 500",
-        "다우지수",
-        "기술주 조정"
+        "코스피",
+        "증시 급락",
+        "증시안정펀드",
+        "외국인 매도",
+        "정부 개입"
       ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NR1VZR0dEaVJFS1ZrV2pNQWhjeTAyN1lKM3JVeTdvLWx5TlEzcVV0em1EV20tLTlxYUI0Rm5kU2Y0V0pTN1M2WURzNzV4eVByZzZPdGExNTdVOUVuUWo5Y3lzdkMwOGNmUXhyZ1hLTkdGeGxKT0E?oc=5",
-      "published": "2026-11-22 08:35",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wYjBKMjVyNXR6dklYLVVpOHVUZFJKeGgxSDhWeHFoSXRWLU5YX0lYZlFjUXdTUTZOTFRERzBUZ0ZWUWNoMkxPODY3Z0NwTHVhUkkyWWpzcG92SkE3TTlKRmE3MEMxWEp0eWpSV0syTmU?oc=5",
+      "published": "2026-11-23 09:13",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -112,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "연준 이사 리사 쿡, 향후 더 큰 폭의 금리 인상 가능성 경고",
-      "display_title": "연준 이사 리사 쿡, 향후 더 큰 폭의 금리 인상 가능성 경고",
-      "original_title": "Fed’s Lisa Cook Warns of Larger Rate Hikes Ahead - 24/7 Wall St.",
+      "title": "S&P 500과 나스닥 100, 조정장 진입",
+      "display_title": "S&P 500과 나스닥 100, 조정장 진입",
+      "original_title": "S&P 500, Nasdaq 100 Drive into Correction Territory - FOREX.com",
       "summary": [
-        "연준 이사 리사 쿡이 인플레이션 대응을 위해 향후 더 큰 폭의 금리 인상이 필요할 수 있다고 경고했다.",
-        "이는 인플레이션 압력이 여전히 높다는 연준 내부의 인식을 보여주며, 시장의 금리 인하 기대감을 낮추고 매파적 기조를 강화하는 발언으로 해석된다.",
-        "고금리 장기화 가능성이 더욱 높아졌으므로, 채권 및 주식 시장 모두에 부담으로 작용할 수 있으며, 기업 실적과 가치 평가에 대한 보수적인 접근이 요구된다."
+        "S&P 500과 나스닥 100 지수가 모두 조정장(Correction Territory)에 진입하며 시장의 불안감이 커지고 있습니다.",
+        "연이은 금리 인상 우려와 글로벌 경기 둔화 가능성이 투자 심리를 위축시키며 주요 지수 하락을 이끌었습니다.",
+        "미국 증시의 조정은 국내 증시에도 부정적인 영향을 미칠 수 있으므로 방어적인 포트폴리오 전략을 고려해야 합니다."
       ],
-      "summary_text": "연준 이사 리사 쿡이 인플레이션 대응을 위해 향후 더 큰 폭의 금리 인상이 필요할 수 있다고 경고했다. 이는 인플레이션 압력이 여전히 높다는 연준 내부의 인식을 보여주며, 시장의 금리 인하 기대감을 낮추고 매파적 기조를 강화하는 발언으로 해석된다. 고금리 장기화 가능성이 더욱 높아졌으므로, 채권 및 주식 시장 모두에 부담으로 작용할 수 있으며, 기업 실적과 가치 평가에 대한 보수적인 접근이 요구된다.",
-      "description": "리사 쿡 연방준비제도(Fed) 이사가 인플레이션을 억제하기 위해 향후 더 큰 폭의 금리 인상이 필요할 수 있다고 경고했다.",
+      "summary_text": "S&P 500과 나스닥 100 지수가 모두 조정장(Correction Territory)에 진입하며 시장의 불안감이 커지고 있습니다. 연이은 금리 인상 우려와 글로벌 경기 둔화 가능성이 투자 심리를 위축시키며 주요 지수 하락을 이끌었습니다. 미국 증시의 조정은 국내 증시에도 부정적인 영향을 미칠 수 있으므로 방어적인 포트폴리오 전략을 고려해야 합니다.",
+      "description": "S&P 500과 나스닥 100 지수가 조정 영역으로 진입했습니다.",
       "category": "증시·금리",
       "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 채권, 기술주",
+      "related_sector": "기술주, 성장주",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "연준의 고위 관계자가 매파적 발언을 이어가는 것은 고금리 환경 장기화에 대한 시장의 우려를 심화시키고 투자 전략 재검토를 필요하게 만든다.",
-      "key_signal": "연준의 다른 위원들 발언, 물가 지표, 고용 지표를 종합적으로 보며 금리 인상 경로에 대한 시장의 컨센서스 변화를 주시해야 한다.",
+      "investment_reason": "미국 주요 지수의 조정은 글로벌 증시 전반에 하방 압력을 가하며 국내 증시에도 직접적인 영향을 미치기 때문입니다.",
+      "key_signal": "미국 증시의 추가 하락 여부와 연방준비제도(Fed)의 금리 인상 스탠스 변화를 주시해야 합니다.",
       "keywords": [
-        "연준",
-        "금리 인상",
-        "리사 쿡",
-        "인플레이션",
-        "매파"
+        "미국 증시",
+        "조정장",
+        "S&P 500",
+        "나스닥 100",
+        "금리 인상"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRzZ3V1pyTlFTOFpvRGwxSHRJMkhhbXMyc3c1V0tfYndiajJmdk50ZzM1aWR5X1lkaGJ0WXBhcmVndDd5ZGJsSXUwU1B2Rk5UbDdraUJtUk5jT3lrQkYwbVpjOXRBRjVGbU5DZzEzelpOMlJ1dW9NMlFPU0lyOUVmSUtGYUN6YnRjT2dvYzRTYXdMS2VoRnc?oc=5",
-      "published": "2026-11-22 01:03",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHZDWmtVSXI3aWVsT1EtbUNXRXljUmZrYkdqOUZlQTZORkM0M2hyZmM1UlV4czA0X2JMcEIxVjItRW1GSVRleG1LWGhYYXBJcnRHZDJyTmt3M3JwaXBuV3NUNzJrNVozSXQxYjNLSFVmakxxOUU3Y25xMVBjZXNSOUp4emRxQnBwQlVqbExDcDJpZl9WSHgxZVJfNGZ4RjJH?oc=5",
+      "published": "2026-11-23 06:13",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -154,37 +154,36 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "올해 국채 수익률, 나스닥·S&P 500·다우지수 상회",
-      "display_title": "올해 국채 수익률, 나스닥·S&P 500·다우지수 상회",
-      "original_title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year - Yahoo Finance",
+      "title": "금리 전망: 12월 연준 금리 인상 기대가 미국 달러 강세 지지",
+      "display_title": "금리 전망: 12월 연준 금리 인상 기대가 미국 달러 강세 지지",
+      "original_title": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar - FXEmpire",
       "summary": [
-        "올해 미국 단기 국채(T-Bills) 수익률이 주요 주가지수(나스닥, S&P 500, 다우)를 넘어섰다.",
-        "높은 기준금리 환경에서 국채 투자 매력이 부각되며, 안전자산 선호 심리가 반영된 결과로 해석된다.",
-        "주식 시장 변동성이 커지는 시기에 안전자산으로서의 국채 매력을 고려하고, 포트폴리오 다변화를 검토할 필요가 있다."
+        "12월 연준의 금리 인상 가능성이 커지면서, 이는 미국 달러화 강세를 지지하는 요인으로 작용하고 있습니다.",
+        "연준의 매파적 스탠스와 글로벌 경기 둔화 우려 속 안전자산 선호 심리가 맞물려 달러 강세 기조가 이어지고 있습니다.",
+        "강달러 기조는 국내 수출 기업의 가격 경쟁력에 긍정적일 수 있으나, 수입 물가 상승 압력과 외국인 투자자금 유출 우려를 동반하므로 환율 동향을 주시해야 합니다."
       ],
-      "summary_text": "올해 미국 단기 국채(T-Bills) 수익률이 주요 주가지수(나스닥, S&P 500, 다우)를 넘어섰다. 높은 기준금리 환경에서 국채 투자 매력이 부각되며, 안전자산 선호 심리가 반영된 결과로 해석된다. 주식 시장 변동성이 커지는 시기에 안전자산으로서의 국채 매력을 고려하고, 포트폴리오 다변화를 검토할 필요가 있다.",
-      "description": "미국 단기 국채(T-Bills)가 올해 나스닥, S&P 500, 다우지수 등 주요 주가지수보다 높은 수익률을 기록하고 있다.",
+      "summary_text": "12월 연준의 금리 인상 가능성이 커지면서, 이는 미국 달러화 강세를 지지하는 요인으로 작용하고 있습니다. 연준의 매파적 스탠스와 글로벌 경기 둔화 우려 속 안전자산 선호 심리가 맞물려 달러 강세 기조가 이어지고 있습니다. 강달러 기조는 국내 수출 기업의 가격 경쟁력에 긍정적일 수 있으나, 수입 물가 상승 압력과 외국인 투자자금 유출 우려를 동반하므로 환율 동향을 주시해야 합니다.",
+      "description": "12월 연방준비제도(Fed)의 금리 인상 가능성이 높아지면서 미국 달러화 가치 상승을 지지하고 있습니다.",
       "category": "증시·금리",
       "importance": 8,
-      "market_impact": "부정",
-      "related_sector": "채권, 주식시장",
+      "market_impact": "중립",
+      "related_sector": "외환, 수출주",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "현대차"
       ],
       "investment_view": "관심",
-      "investment_reason": "안전자산 선호 심화 및 주식 시장의 상대적 매력도 하락 가능성을 보여주므로 투자 포트폴리오 조정에 참고해야 한다.",
-      "key_signal": "국채 금리 추이와 주요 주가지수의 반등 여부를 함께 확인하여 시장의 위험 선호도 변화를 파악해야 한다.",
+      "investment_reason": "강달러 및 금리 인상 기조는 국내 증시의 외국인 자금 유출과 환율 변동성에 직접적인 영향을 미치므로 투자 전략 수립에 필수적입니다.",
+      "key_signal": "연준의 12월 금리 인상 폭과 달러 인덱스 추이를 지속적으로 모니터링하며 국내 증시의 외국인 수급 동향을 살펴야 합니다.",
       "keywords": [
-        "국채",
-        "T-Bills",
-        "주식시장",
-        "안전자산",
-        "금리"
+        "금리 인상",
+        "달러 강세",
+        "연준",
+        "환율",
+        "외국인 수급"
       ],
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2o5MjhzNnF2Q05WQTZCSjBkU01IZk5hMFRROVhmd2RrSmlsUGtqMW14aDZkZDB4aEEwM2J1V1NvSjcwNTlwYWYyd2E0SkFSZkNZNU51XzdPZkdtOUR2NWkyQ2NnM3gzc0dDOVlFTHF1YjBfMjhjWTlJODNvTS1iSWt0ZlJyeEh2dnZ6SmZNbDk0VnBs?oc=5",
-      "published": "2026-11-22 04:22",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ0allURzByRktqOG9jVVR3Mlc4elhCeVMyWTQ3eHQ1YUdlOXhIa29ZWU5kY2JmRTlyVW5QeEpSN1lROWxMdWM0bDdjbGtpZUJwc0F1RTRJbm1CVjhxdndULVJiZzF1X0h0aUh0eDMwM0ZyZy1XY0xscFQ0SUVHNEhDSWxvZ1BoRkZnUUprcVEtWm5DVG9mUHFnSHBvY1Rza3RqdUdlM3RMYVJJazU3eWlpQjA?oc=5",
+      "published": "2026-11-23 08:02",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -193,40 +192,42 @@
     },
     {
       "rank": 5,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "엔비디아 실적 발표 및 앤스로픽 데뷔 앞두고 나스닥 100 지수 하락 전망",
-      "display_title": "엔비디아 실적 발표 및 앤스로픽 데뷔 앞두고 나스닥 100 지수 하락 전망",
-      "original_title": "Nasdaq 100 Forecast: NDX falls ahead of Nvidia’s earnings & Anthropic’s debut this week - StoneX",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "[신윤우의 외환분석] 엄습하는 증시 급락의 어두운 그림자",
+      "display_title": "[신윤우의 외환분석] 엄습하는 증시 급락의 어두운 그림자",
+      "original_title": "[신윤우의 외환분석] 엄습하는 증시 급락의 어두운 그림자 | - 연합인포맥스",
       "summary": [
-        "엔비디아 실적 발표와 앤스로픽 데뷔를 앞두고 나스닥 100 지수의 하락 가능성이 제기되었다.",
-        "AI 기술주에 대한 기대감과 함께 최근 AI 붐 둔화 및 금리 인상 우려가 겹치면서 투자 심리가 위축되고 있다.",
-        "엔비디아 실적은 AI 산업 전반의 건전성을 가늠하는 중요한 지표이며, 관련 기술주 및 반도체 섹터의 변동성 확대에 대비해야 한다."
+        "국내 외환 전문가가 증시 급락의 위험성을 경고하며, 외환 시장의 불안정한 흐름이 증시에 부정적 영향을 미치고 있다고 분석했습니다.",
+        "글로벌 고금리 기조와 경기 둔화 우려로 인한 외국인 자금 유출, 원화 약세 등이 복합적으로 작용하여 증시 하방 압력을 높이고 있습니다.",
+        "외환 시장 불안정은 외국인 투자자 이탈을 가속화할 수 있으므로, 환율 변동성과 외국인 수급 동향에 대한 면밀한 주의가 필요합니다."
       ],
-      "summary_text": "엔비디아 실적 발표와 앤스로픽 데뷔를 앞두고 나스닥 100 지수의 하락 가능성이 제기되었다. AI 기술주에 대한 기대감과 함께 최근 AI 붐 둔화 및 금리 인상 우려가 겹치면서 투자 심리가 위축되고 있다. 엔비디아 실적은 AI 산업 전반의 건전성을 가늠하는 중요한 지표이며, 관련 기술주 및 반도체 섹터의 변동성 확대에 대비해야 한다.",
-      "description": "엔비디아의 실적 발표와 AI 스타트업 앤스로픽(Anthropic)의 데뷔를 앞두고 이번 주 나스닥 100 지수가 하락할 것으로 예측된다.",
+      "summary_text": "국내 외환 전문가가 증시 급락의 위험성을 경고하며, 외환 시장의 불안정한 흐름이 증시에 부정적 영향을 미치고 있다고 분석했습니다. 글로벌 고금리 기조와 경기 둔화 우려로 인한 외국인 자금 유출, 원화 약세 등이 복합적으로 작용하여 증시 하방 압력을 높이고 있습니다. 외환 시장 불안정은 외국인 투자자 이탈을 가속화할 수 있으므로, 환율 변동성과 외국인 수급 동향에 대한 면밀한 주의가 필요합니다.",
+      "description": "증시 급락의 어두운 그림자가 드리우는 가운데 외환 시장의 동향을 분석합니다.",
       "category": "증시·금리",
       "importance": 8,
       "market_impact": "부정",
-      "related_sector": "반도체, 인공지능(AI), 소프트웨어",
+      "related_sector": "금융, 증권",
       "related_stocks": [
-        "엔비디아"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "엔비디아 실적은 글로벌 AI 및 반도체 시장의 향방을 결정할 주요 이벤트이므로 국내 관련 기업 투자에 큰 영향을 미칠 수 있다.",
-      "key_signal": "엔비디아의 실적 발표 내용과 가이던스를 면밀히 분석하여 AI 산업의 모멘텀 변화를 파악해야 한다.",
+      "investment_reason": "국내 증시의 급락 가능성을 경고하며 환율 불안정성이 외국인 투자자금 이탈을 부추길 수 있어 투자 심리에 부정적인 영향을 주기 때문입니다.",
+      "key_signal": "원/달러 환율의 급등락 여부와 외국인 투자자들의 국내 주식 순매도 규모를 매일 확인해야 합니다.",
       "keywords": [
-        "나스닥 100",
-        "엔비디아",
-        "실적 발표",
-        "앤스로픽",
-        "AI 기술주"
+        "증시 급락",
+        "외환 시장",
+        "원화 약세",
+        "외국인 매도",
+        "환율"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0dWb0gzbllYanhUZC1zS1Z3VGx6ZnFoWmxrdFpFb0ZOVmxiNUNsdFkwTTQ5R0VEeXNZT1pyM0lCNVBGZlJ2SzN0RTA4QXdhdEdDNEp1YTlXLXNuZmt2V2dvQm4zc1VGUmw5SHZIREJWM2NfS0xkVVFlcDlrM2JwOFE2Tjd3cTMxQ0dwRUtseE1nVVdPY3FDa0FoM1lvQUY4cVB3TU9IMlg1cERLbS1YU1JHVkktcjB4RnRBaXIxU1h4bm81blg5Y0dxVHpUTE5HQWc?oc=5",
-      "published": "2026-11-22 03:33",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54QV84RnV6V09nM2pYSWQwcndRSlhGeXgzUUxaQ25sQ1R1QTYyMGxMMVlYeEtZWVE4T2IydlU1MFdSWk82OHpIR0plRzI1N3ljSzdOY3VKOXhVUTk3R2N3cDZneEttMVBCWnlZNkJVWjQzdUY0?oc=5",
+      "published": "2026-11-23 09:53",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -236,36 +237,36 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "삼성전자 SK하이닉스 내년에도 성장 지속 전망...무디스 분석",
-      "display_title": "삼성전자 SK하이닉스 내년에도 성장 지속 전망...무디스 분석",
-      "original_title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유 - 파이낸셜뉴스",
+      "title": "[오늘 증시 전망] 코스피 4,800선 후퇴…외국인 매도세 진정 여부가 반등 관건",
+      "display_title": "[오늘 증시 전망] 코스피 4,800선 후퇴…외국인 매도세 진정 여부가 반등 관건",
+      "original_title": "[오늘 증시 전망] 코스피 4,800선 후퇴…23일 외국인 매도세 진정 여부가 반등 관건 - 업코리아",
       "summary": [
-        "신용평가사 무디스는 삼성전자와 SK하이닉스가 내년에도 양호한 실적을 기록할 것으로 전망했다.",
-        "이는 반도체 업황 회복과 AI 관련 고성능 메모리 수요 증가에 대한 긍정적인 전망에 기반한 것으로 분석된다.",
-        "글로벌 반도체 시장의 긍정적인 전망은 국내 대표 반도체 기업들의 투자 매력을 높이며, 장기적인 관점에서 접근할 필요가 있다."
+        "코스피 지수가 4,800선 아래로 후퇴한 가운데, 오늘 외국인 투자자들의 매도세 진정 여부가 단기적인 증시 반등의 핵심 요소로 제시되었습니다.",
+        "글로벌 긴축 기조와 경기 침체 우려로 외국인 투자자금이 이탈하면서 국내 증시에 큰 하방 압력을 가하고 있습니다.",
+        "외국인 매매 동향은 국내 증시의 단기적인 방향성을 결정하는 중요한 변수이므로, 장 초반 외국인 수급을 주의 깊게 살피며 시장 대응 전략을 수립해야 합니다."
       ],
-      "summary_text": "신용평가사 무디스는 삼성전자와 SK하이닉스가 내년에도 양호한 실적을 기록할 것으로 전망했다. 이는 반도체 업황 회복과 AI 관련 고성능 메모리 수요 증가에 대한 긍정적인 전망에 기반한 것으로 분석된다. 글로벌 반도체 시장의 긍정적인 전망은 국내 대표 반도체 기업들의 투자 매력을 높이며, 장기적인 관점에서 접근할 필요가 있다.",
-      "description": "국제 신용평가사 무디스(Moody's)가 삼성전자와 SK하이닉스가 내년에도 견조한 성장세를 이어갈 것이라고 전망하며 그 이유를 밝혔다.",
-      "category": "기업·산업",
+      "summary_text": "코스피 지수가 4,800선 아래로 후퇴한 가운데, 오늘 외국인 투자자들의 매도세 진정 여부가 단기적인 증시 반등의 핵심 요소로 제시되었습니다. 글로벌 긴축 기조와 경기 침체 우려로 외국인 투자자금이 이탈하면서 국내 증시에 큰 하방 압력을 가하고 있습니다. 외국인 매매 동향은 국내 증시의 단기적인 방향성을 결정하는 중요한 변수이므로, 장 초반 외국인 수급을 주의 깊게 살피며 시장 대응 전략을 수립해야 합니다.",
+      "description": "코스피 지수가 4,800선 아래로 후퇴했으며, 오늘 외국인 매도세 진정 여부가 증시 반등의 중요한 관건이 될 것입니다.",
+      "category": "증시·금리",
       "importance": 8,
-      "market_impact": "긍정",
-      "related_sector": "반도체, IT 하드웨어, 메모리 반도체",
+      "market_impact": "부정",
+      "related_sector": "전반적인 국내 증시",
       "related_stocks": [
         "삼성전자",
         "SK하이닉스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "국내 증시에서 큰 비중을 차지하는 반도체 대형주에 대한 긍정적 전망은 전체 시장 분위기에도 긍정적인 영향을 미칠 수 있다.",
-      "key_signal": "실제 기업들의 실적 발표와 글로벌 반도체 시장의 공급 및 수요 변화 추이를 지속적으로 모니터링해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "오늘 외국인 매도세 진정 여부가 코스피의 단기 반등 여부를 가르는 핵심 요소이므로, 시장의 방향성을 파악하기 위해 면밀한 관찰이 필요하기 때문입니다.",
+      "key_signal": "장 초반부터 외국인 투자자들의 순매수 전환 여부와 매매 강도를 지속적으로 확인해야 합니다.",
       "keywords": [
-        "삼성전자",
-        "SK하이닉스",
-        "무디스",
-        "반도체 호황",
-        "AI 메모리"
+        "코스피",
+        "증시 전망",
+        "외국인 매도",
+        "반등",
+        "수급"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Md3J0VzZqdUI5eGhVMVRiSGIteWVIT3laQVZOcHlVdjhpM2lWaFFKaGNZclRxOHF0aDVlaGZ1WVI0OEFQd1VlV3lRcmpSVFRxcExlbHozb3J1Zw?oc=5",
-      "published": "2026-11-22 08:22",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fTm9XMi1md1ZsbjZxb2lUX3NmMXFMVThNQUVpTWZjaG96eXM4ZDlXdW44VVR4dmFBU1czZ0d3Y0M2LXkwcHpoRE9GTW9URlB4TFhmbDdsR0t5REdrenQyd0VzaVYtM2c5YXdDUlpR?oc=5",
+      "published": "2026-11-23 07:48",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -280,16 +281,14 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "글로벌 AI 시장의 불확실성 및 기술주 조정 압박 속에서도 무디스가 내년 성장 지속을 전망하며 상반된 시그널을 보여주고 있어, 국내 증시 대형주로서 흐름을 주시할 필요가 있습니다.",
+      "reason": "강달러 기조가 유지될 경우 수출 경쟁력에 긍정적인 영향을 줄 수 있으며, 외국인 매도세 진정 여부를 판단하는 핵심 종목입니다.",
       "check_points": [
-        "글로벌 AI 및 반도체 업황의 실제 회복 속도",
-        "엔비디아 실적 발표가 국내 반도체 시장에 미칠 영향",
-        "주요국 물가 및 금리 동향에 따른 매크로 변수"
+        "오늘 외국인 순매수 전환 여부",
+        "달러-원 환율 추이"
       ],
       "related_news_titles": [
-        "[주간증시전망] 'AI 쇼크'로 4900선 붕괴된 코스피, 美 물가·금리에 반등 기대",
-        "AI 붐 균열 발생, S&P 500 및 다우지수 조정선 아래로 하락하며 美 증시 매도세 심화",
-        "삼성전자 SK하이닉스 내년에도 성장 지속 전망...무디스 분석"
+        "금리 전망: 12월 연준 금리 인상 기대가 미국 달러 강세 지지",
+        "[오늘 증시 전망] 코스피 4,800선 후퇴…외국인 매도세 진정 여부가 반등 관건"
       ]
     },
     {
@@ -297,49 +296,46 @@
       "name": "SK하이닉스",
       "market": "KOSPI",
       "sector": "반도체",
-      "opinion": "관심",
-      "reason": "삼성전자와 마찬가지로 무디스로부터 내년에도 성장이 지속될 것이라는 긍정적인 분석이 제시되어 투자자들의 이목을 끌고 있습니다. AI 반도체 핵심인 HBM 시장에서의 경쟁력과 업황 개선 기대감을 함께 살펴보아야 합니다.",
+      "opinion": "주의",
+      "reason": "삼성전자와 함께 외국인 매도세에 민감하게 반응하는 종목으로, 전반적인 시장 분위기 반전을 위한 외국인 수급 변화를 관찰해야 합니다.",
       "check_points": [
-        "HBM(고대역폭 메모리) 시장의 수요 및 공급 동향",
-        "글로벌 반도체 경기 회복의 구체적인 신호",
-        "경쟁사 대비 기술 우위 유지 여부"
+        "외국인 순매도 규모 변화",
+        "글로벌 반도체 업황 지표"
       ],
       "related_news_titles": [
-        "삼성전자 SK하이닉스 내년에도 성장 지속 전망...무디스 분석"
+        "[오늘 증시 전망] 코스피 4,800선 후퇴…외국인 매도세 진정 여부가 반등 관건"
       ]
     },
     {
       "rank": 3,
-      "name": "네이버",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "IT 서비스",
+      "sector": "증권",
       "opinion": "주의",
-      "reason": "AI 붐 균열과 미국 주요 지수의 매도세 심화 소식은 국내 대표 AI 관련주인 네이버의 투자 심리를 위축시킬 수 있습니다. 글로벌 AI 기술주 전반의 조정이 국내 시장에 미칠 영향을 면밀히 관찰해야 합니다.",
+      "reason": "코스피 급락, 증시안정펀드 준비 등 시장의 불안정성 심화와 유동성 축소는 증권업 전반의 수익성 악화로 이어질 수 있습니다.",
       "check_points": [
-        "글로벌 AI 시장의 변동성 및 기술주 조정 심화 여부",
-        "네이버의 자체 AI 기술 개발 및 서비스 상용화 진전",
-        "광고, 커머스 등 핵심 사업 부문의 실적 변화"
+        "코스피 지수 하락 폭 및 변동성",
+        "증시안정펀드 관련 정부/금융당국 발표"
       ],
       "related_news_titles": [
-        "[주간증시전망] 'AI 쇼크'로 4900선 붕괴된 코스피, 美 물가·금리에 반등 기대",
-        "AI 붐 균열 발생, S&P 500 및 다우지수 조정선 아래로 하락하며 美 증시 매도세 심화"
+        "나스닥 10% 급락과 연준의 12월 50bp 금리 인상 논의 충돌",
+        "코스피 2%대 하락하며 4700선 개장…증시안정펀드 18년 만에 준비",
+        "S&P 500과 나스닥 100, 조정장 진입"
       ]
     },
     {
       "rank": 4,
-      "name": "미래에셋증권",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "증권",
+      "sector": "자동차",
       "opinion": "관심",
-      "reason": "연준 이사의 매파적 발언으로 고금리 환경 장기화 우려가 커지는 상황에서, 국채 수익률이 주요 주식 지수를 상회하며 안전자산 선호 심리가 부각되고 있습니다. 이는 주식 시장 전반에 부정적일 수 있지만, 증권사의 채권 관련 사업 및 투자심리 위축에 따른 변화를 주시할 필요가 있습니다.",
+      "reason": "강달러 기조가 지속될 경우 원화 환산 매출 및 수익성 개선에 긍정적인 영향을 기대할 수 있어 환율 흐름에 주목해야 합니다.",
       "check_points": [
-        "연준의 향후 금리 인상 정책 방향 및 강도",
-        "국내외 채권 시장의 변동성 및 수익률 추이",
-        "증권업종의 거래량 및 수수료 수입 등 실적에 미치는 영향"
+        "원/달러 환율 추이 및 변동성",
+        "주요 수출 시장 판매량 동향"
       ],
       "related_news_titles": [
-        "연준 이사 리사 쿡, 향후 더 큰 폭의 금리 인상 가능성 경고",
-        "올해 국채 수익률, 나스닥·S&P 500·다우지수 상회"
+        "금리 전망: 12월 연준 금리 인상 기대가 미국 달러 강세 지지"
       ]
     }
   ],
