@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24 14:45",
-  "analysis_date": "2026-11-24",
+  "generated_at": "2026-11-25 13:47",
+  "analysis_date": "2026-11-25",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "국내외 긴축 압력이 고조되는 가운데, 국내 증시는 급락 후 정부의 안정화 노력에 기대감을 보이며, 글로벌 시장은 기술주 변동성과 S&P 500 지수 전망의 엇갈림으로 불확실성이 고조되고 있습니다.",
-    "국내거시경제": "채권시장 전문가 54%가 한국은행의 11월 기준금리 인상을 전망하며, 높은 물가와 미국 연준의 기조에 따라 긴축 전환 가능성이 커져 국내 채권, 부동산, 대출 시장에 직접적인 영향을 미칠 것으로 보입니다.",
-    "글로벌경제": "금리 인상 경고에도 불구하고 일부 전문가들은 S&P 500 지수 10,000을 낙관적으로 전망하고 있어 금리 압력과 주식 시장 상승 여력 간의 괴리를 주시하며, 장기 금리 및 기업 이익 성장을 면밀히 분석해야 합니다.",
-    "증시금리": "코스피 급락에 정부가 18년 만에 증시 안정화 펀드를 재가동하며 시장 심리를 지지하고 있으며, 이번 주 예정된 미국 PCE 물가와 한국은행 금통위 결과에 따라 국내외 금융 시장의 변동성이 확대될 것으로 예상됩니다. 나스닥 100은 엔비디아 실적 발표를 앞두고 하락세를 보여 기술주 리스크 관리가 필요합니다.",
+    "총평": "미국 증시가 조정 영역에 진입하고 기술주 하락 우려가 커지면서 글로벌 증시 전반에 불확실성이 고조되고 있습니다. 국내 증시는 급반등했지만, 대외 리스크와 내수 부진 우려가 상승세에 부담을 줄 전망입니다.",
+    "국내거시경제": "은행 가계대출 금리가 35개월 만에 5%대에 진입하며 가계 이자 부담이 커지고 있습니다. 골드만삭스는 내년 한국 경제 성장률을 3.2%로 전망하면서 반도체 호황에도 불구하고 내수 부진이 지속될 것으로 분석했습니다.",
+    "글로벌경제": "트럼프 전 대통령의 재집권 시 한국 등 16개국에 대한 추가 관세 압박으로 무역장벽 강화가 예상되며, 이는 글로벌 무역 환경 변화와 국내 수출 기업에 부정적인 영향을 미칠 수 있습니다.",
+    "증시금리": "코스피가 6.32% 급반등했으나, 미국 S&P 500과 나스닥 100 지수가 조정 영역에 진입하며 국내 증시의 추가 조정 가능성이 제기됩니다. 연준의 12월 금리 인상 기대감 고조로 금 가격이 하루 만에 2% 이상 급락했습니다.",
     "부동산정책": "부동산과 정책 변화는 건설, 금융, 소비 관련 업종에 파급될 수 있어 점검이 필요합니다.",
-    "기업산업": "기업 실적과 산업 투자 뉴스는 개별 종목과 섹터별 모멘텀을 구분하는 기준이 됩니다.",
-    "오늘의투자시사점": "국내외 금리 정책 변화에 촉각을 세우고, 정부의 증시 안정화 노력이 단기적인 시장 지지력을 제공할 수 있으나, 글로벌 기술주의 변동성에 대비한 포트폴리오 리스크 관리가 중요합니다.",
-    "오늘의한줄": "긴축 기조와 시장 변동성 확대 속, 정책 동향과 기업 실적에 기반한 신중한 접근이 필요한 한 주입니다."
+    "기업산업": "트럼프 전 대통령의 추가 관세 압박은 국내 주요 수출 산업에 직접적인 타격을 줄 우려가 큽니다. 반도체 등 수출 주도형 산업은 긍정적일 수 있으나, 고금리·고물가로 인한 내수 소비 관련 기업들은 어려움을 겪을 수 있습니다.",
+    "오늘의투자시사점": "미국 증시 조정과 연준의 긴축 기대감 등 대외 불확실성 증대에 대비하여 방어적인 포트폴리오 전략이 필요합니다. 트럼프발 무역 관세 리스크에 노출될 수 있는 수출 기업과 내수 소비 둔화 우려가 있는 관련 기업에 대한 면밀한 분석이 요구됩니다. 반도체 등 특정 섹터의 호황에도 불구하고, 전반적인 시장 환경은 섹터별 차별화된 접근을 중요하게 만들고 있습니다.",
+    "오늘의한줄": "글로벌 불확실성과 국내 내수 부진이 지속되는 가운데, 보수적 접근과 섹터별 차별화 전략이 필수적인 시점입니다."
   },
   "top_news": [
     {
@@ -28,37 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "한은, 다시 긴축으로 전환할까…채권시장 전문가 54% \"11월 기준금리 인상\" 전망",
-      "display_title": "한은, 다시 긴축으로 전환할까…채권시장 전문가 54% \"11월 기준금리 인상\" 전망",
-      "original_title": "한은 다시 긴축 나서나…채권시장 전문가 54% \"11월 기준금리 인상\" - www.ebn.co.kr",
+      "title": "[오늘 증시 전망] 코스피 6.32% 급반등하며 5,000선 회복... 미국 기술주 재하락에 25일 증시 시험대",
+      "display_title": "[오늘 증시 전망] 코스피 6.32% 급반등하며 5,000선 회복... 미국 기술주 재하락에 25일 증시 시험대",
+      "original_title": "[오늘 증시 전망] 코스피 6.32% 급반등에 5,000선 회복…미국 기술주 재하락에 25일 증시 시험대 - 업코리아",
       "summary": [
-        "한국은행의 11월 기준금리 인상 가능성에 대한 채권시장 전문가들의 기대감이 54%에 달하며 다시 긴축 전환 여부가 주목됩니다.",
-        "이는 높은 물가 상승 압력과 미국 연준의 금리 인상 기조 등 대내외 경제 환경 변화에 대한 한국은행의 대응으로 해석될 수 있습니다.",
-        "기준금리 인상은 국내 채권 시장, 부동산 시장, 그리고 대출 금리에 직접적인 영향을 미쳐 전반적인 투자 환경에 변화를 가져올 수 있습니다."
+        "코스피 지수가 6.32% 급반등하여 5,000선을 회복했으나, 미국 기술주의 하락세가 다시 나타나며 국내 증시에 부담을 줄 것으로 예상된다.",
+        "글로벌 증시의 동조화 현상으로 인해 미국 기술주의 움직임은 국내 증시, 특히 성장주에 큰 영향을 미친다.",
+        "코스피의 단기 급등에도 불구하고 미국 기술주의 하락이 지속될 경우 국내 증시의 추가 조정 가능성을 염두에 두어야 한다."
       ],
-      "summary_text": "한국은행의 11월 기준금리 인상 가능성에 대한 채권시장 전문가들의 기대감이 54%에 달하며 다시 긴축 전환 여부가 주목됩니다. 이는 높은 물가 상승 압력과 미국 연준의 금리 인상 기조 등 대내외 경제 환경 변화에 대한 한국은행의 대응으로 해석될 수 있습니다. 기준금리 인상은 국내 채권 시장, 부동산 시장, 그리고 대출 금리에 직접적인 영향을 미쳐 전반적인 투자 환경에 변화를 가져올 수 있습니다.",
-      "description": "한국은행이 다시 긴축 정책을 펼칠 가능성이 제기되는 가운데, 채권시장 전문가의 54%가 11월 기준금리 인상을 전망하고 있습니다.",
-      "category": "국내 거시경제",
-      "importance": 10,
+      "summary_text": "코스피 지수가 6.32% 급반등하여 5,000선을 회복했으나, 미국 기술주의 하락세가 다시 나타나며 국내 증시에 부담을 줄 것으로 예상된다. 글로벌 증시의 동조화 현상으로 인해 미국 기술주의 움직임은 국내 증시, 특히 성장주에 큰 영향을 미친다. 코스피의 단기 급등에도 불구하고 미국 기술주의 하락이 지속될 경우 국내 증시의 추가 조정 가능성을 염두에 두어야 한다.",
+      "description": "코스피가 6.32% 급반등하여 5,000선을 회복했으나, 미국 기술주의 재하락으로 인해 25일 국내 증시가 다시 시험대에 오를 전망이다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "부정",
-      "related_sector": "금융, 증권, 건설, 부동산",
+      "related_sector": "기술주",
       "related_stocks": [
-        "KB금융",
-        "신한지주",
-        "삼성화재"
+        "삼성전자",
+        "SK하이닉스",
+        "네이버"
       ],
-      "investment_view": "관심",
-      "investment_reason": "기준금리 인상 여부는 국내 금융시장 전반과 개인 투자자의 자산 배분에 중대한 영향을 미치므로 면밀한 주시가 필요합니다.",
-      "key_signal": "한국은행 금융통화위원회의 11월 기준금리 결정 결과와 동결 시 향후 금리 인상 가능성에 대한 총재의 발언에 주목해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "코스피가 급반등했지만, 미국 기술주 재하락이라는 대외 변수가 국내 증시의 추가 상승을 제한하고 변동성을 키울 수 있기 때문이다.",
+      "key_signal": "오늘 미국 기술주의 움직임과 이에 따른 국내 기관 및 외국인 투자자의 수급 방향을 면밀히 관찰해야 한다.",
       "keywords": [
-        "한국은행",
-        "기준금리",
-        "긴축",
-        "채권시장",
-        "물가"
+        "코스피",
+        "기술주",
+        "미국증시",
+        "변동성",
+        "성장주"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMW4tMGlJWndncjdzXzlOdTlBZVY4YVZwZ19SVkppWWVSeUNTSFBzZHFzcGRHVUMweUdQdlV4X28ydGtlYTBRU1YyYXdzam04Y2l4MlVGQWx1eFNTWFF1YzR0WXRTRG9E?oc=5",
-      "published": "2026-11-24 13:19",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoMUlKUjRBMmY3NENKb0E1bjhocUhLTy1aQ1g2amQyRUwxMTU5eHpxSF9meFQ0VlZ0ZVJQcXp3ZzBjMjl2WVFmS0c4SU9vblNyaEl4S21qWGtfTTRaNUJoSEFhNkxTRFR2dFFHQjNn?oc=5",
+      "published": "2026-11-25 08:18",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -70,37 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피 이틀 만에 8.36% 급락, 정부 18년 만에 '증시 안정화 펀드' 재가동",
-      "display_title": "코스피 이틀 만에 8.36% 급락, 정부 18년 만에 '증시 안정화 펀드' 재가동",
-      "original_title": "이틀 새 코스피 8.36% 급락…정부, 18년 만에 '증안펀드' 다시 꺼내 들었다 - 진일보 | 전남일보",
+      "title": "[로드픽] 트럼프, 한국·중국 등 16개국에 추가 관세 압박... '과잉생산' 구실로 무역장벽 강화",
+      "display_title": "[로드픽] 트럼프, 한국·중국 등 16개국에 추가 관세 압박... '과잉생산' 구실로 무역장벽 강화",
+      "original_title": "[로드픽] 트럼프, 韓·中 등 16개국 추가 관세 압박…‘과잉생산’ 구실로 무역장벽 강화 - 뉴스로드",
       "summary": [
-        "코스피 지수가 이틀 만에 8.36% 급락하는 사태가 발생하자 정부가 18년 만에 증시 안정화 펀드를 재가동하는 비상 조치를 발표했습니다.",
-        "이는 급격한 시장 불안정에 대한 정부의 개입 의지를 보여주는 것으로, 과거 금융 위기 시에도 사용되었던 정책 수단입니다.",
-        "증안펀드 재가동은 단기적으로 시장의 심리적 지지선 역할을 하여 추가 급락을 방어할 수 있지만, 근본적인 시장 회복은 대내외 경제 환경에 달려 있습니다."
+        "트럼프 전 대통령이 한국, 중국 등 16개국에 '과잉생산'을 명분으로 추가 관세 부과를 압박하며 무역장벽 강화를 시도하고 있다.",
+        "이는 미국 우선주의 정책의 일환으로, 재집권 시 글로벌 무역 환경에 큰 변화를 가져올 수 있으며, 국내 주요 수출 기업에 직접적인 타격을 줄 수 있다.",
+        "한국의 주요 수출 산업에 관세 장벽이 현실화될 경우 관련 기업들의 실적 악화가 불가피하므로, 통상 정책 변화에 대한 면밀한 분석이 필요하다."
       ],
-      "summary_text": "코스피 지수가 이틀 만에 8.36% 급락하는 사태가 발생하자 정부가 18년 만에 증시 안정화 펀드를 재가동하는 비상 조치를 발표했습니다. 이는 급격한 시장 불안정에 대한 정부의 개입 의지를 보여주는 것으로, 과거 금융 위기 시에도 사용되었던 정책 수단입니다. 증안펀드 재가동은 단기적으로 시장의 심리적 지지선 역할을 하여 추가 급락을 방어할 수 있지만, 근본적인 시장 회복은 대내외 경제 환경에 달려 있습니다.",
-      "description": "코스피 지수가 이틀 만에 8.36% 급락하자 정부가 18년 만에 증시 안정화 펀드(증안펀드)를 다시 가동하기로 했습니다.",
-      "category": "증시·금리",
-      "importance": 10,
-      "market_impact": "긍정",
-      "related_sector": "증권, 금융, 전 업종",
+      "summary_text": "트럼프 전 대통령이 한국, 중국 등 16개국에 '과잉생산'을 명분으로 추가 관세 부과를 압박하며 무역장벽 강화를 시도하고 있다. 이는 미국 우선주의 정책의 일환으로, 재집권 시 글로벌 무역 환경에 큰 변화를 가져올 수 있으며, 국내 주요 수출 기업에 직접적인 타격을 줄 수 있다. 한국의 주요 수출 산업에 관세 장벽이 현실화될 경우 관련 기업들의 실적 악화가 불가피하므로, 통상 정책 변화에 대한 면밀한 분석이 필요하다.",
+      "description": "트럼프 전 대통령이 한국, 중국을 포함한 16개국에 추가 관세를 부과하며 '과잉생산'을 구실로 무역장벽을 강화하려 하고 있다.",
+      "category": "기업·산업",
+      "importance": 9,
+      "market_impact": "부정",
+      "related_sector": "자동차",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스",
-        "현대차"
+        "현대차",
+        "기아",
+        "포스코홀딩스"
       ],
-      "investment_view": "관심",
-      "investment_reason": "정부의 증시 안정화 펀드 재가동은 국내 증시의 단기적인 방향성과 투자 심리에 매우 큰 영향을 미치므로 면밀히 주시해야 합니다.",
-      "key_signal": "증안펀드의 실제 집행 규모 및 방식, 그리고 시장의 반응을 통해 코스피의 단기 저점 형성 여부와 반등 탄력을 확인해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "트럼프의 추가 관세 압박은 한국의 주력 수출 산업에 직접적인 타격을 줄 수 있으며, 이는 관련 기업들의 실적과 주가에 심각한 악영향을 미칠 수 있기 때문이다.",
+      "key_signal": "향후 미국 대선 결과와 트럼프의 실제 정책 구체화 여부, 그리고 한국 정부의 대응 전략을 면밀히 주시해야 한다.",
       "keywords": [
-        "코스피",
-        "급락",
-        "증안펀드",
-        "정부정책",
-        "시장안정화"
+        "트럼프",
+        "관세",
+        "무역분쟁",
+        "과잉생산",
+        "수출규제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVGJyNmI1N3BobjI1ak0wUVFnREpndVBnOGZ3UXkyZ1VvTTJTejhrcnM4aF8wTm50ak8tQVVWWDVXQVJhWmhEenA5dGhESi1FbnNvazNrdnR2NndZUWN6Xy02aFg4U2R0QU5KN1JfRQ?oc=5",
-      "published": "2026-11-24 09:18",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mMGU4WnJyZGRLN2FqWjRhWkxnMVBqUWpzcXpXSHFURDhZcnBrTVFkN3ZPRE4yVFJEWHZGNDhGUkxCLVA4ZjhjZTNsdU50ODdfREdNRmFIbWNVYXBndDJfTnp4b19BYWpnTVlsWtIBb0FVX3lxTFAwTVkwZ2pTRExSUkFCYzAyV1piNmxGYW9OaDhabzQ1dmNWdWM4UXFuWDJnWDlkb0xxWndmQlA2ZGVjNG1Hai1UQk42dmxyQWpwbFpxR1RHMWhFU2pFdDNyZ1ZDSTVEV0cxWVBvcEp3SQ?oc=5",
+      "published": "2026-11-25 08:19",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -112,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "금리 경고에도 불구하고 전문가들은 왜 S&P 500 지수 10,000을 여전히 전망하는가?",
-      "display_title": "금리 경고에도 불구하고 전문가들은 왜 S&P 500 지수 10,000을 여전히 전망하는가?",
-      "original_title": "Why Are Forecasters Still Eyeing 10,000 for the S&P 500 Amid Rate Warnings for SPDR S&P 500 ETF Trust (NYSEARCA:SPY), iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT), iShares Core S&P 500 ETF (NYSEARCA:IVV) and Vanguard Total Stock Ma - kalkine.ca",
+      "title": "S&P 500과 나스닥 100 지수, 조정 영역 진입",
+      "display_title": "S&P 500과 나스닥 100 지수, 조정 영역 진입",
+      "original_title": "S&P 500, Nasdaq 100 Drive into Correction Territory - FOREX.com",
       "summary": [
-        "높은 금리에 대한 경고에도 불구하고 일부 전문가들은 S&P 500 지수가 10,000에 도달할 것이라는 낙관적인 전망을 유지하고 있습니다.",
-        "이는 금리 인상 압력과 주식 시장의 잠재적 상승 여력 사이의 괴리를 보여주며, 시장 참여자들에게 혼란을 야기하고 있습니다.",
-        "장기 금리 전망과 기업 이익 성장률을 면밀히 분석하여 S&P 500의 중장기 방향성을 판단하는 것이 중요합니다."
+        "미국 주요 지수인 S&P 500과 나스닥 100이 조정 영역(Correction Territory)에 진입하며 시장 전반의 하락세를 나타냈다.",
+        "조정은 통상적으로 고점 대비 10% 이상 하락을 의미하며, 이는 투자 심리 위축과 추가 하락 가능성에 대한 우려를 높인다.",
+        "미국 증시의 조정은 국내 증시에도 부정적인 영향을 미칠 수 있으므로, 방어적인 포트폴리오 전략을 고려해야 한다."
       ],
-      "summary_text": "높은 금리에 대한 경고에도 불구하고 일부 전문가들은 S&P 500 지수가 10,000에 도달할 것이라는 낙관적인 전망을 유지하고 있습니다. 이는 금리 인상 압력과 주식 시장의 잠재적 상승 여력 사이의 괴리를 보여주며, 시장 참여자들에게 혼란을 야기하고 있습니다. 장기 금리 전망과 기업 이익 성장률을 면밀히 분석하여 S&P 500의 중장기 방향성을 판단하는 것이 중요합니다.",
-      "description": "SPY, TLT, IVV 등 ETF들이 금리 경고로 압박받는 상황에서 S&P 500 지수 10,000 전망을 유지하는 전문가들의 의견에 대한 의문이 제기됩니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "자산운용, 증권, 금융",
+      "summary_text": "미국 주요 지수인 S&P 500과 나스닥 100이 조정 영역(Correction Territory)에 진입하며 시장 전반의 하락세를 나타냈다. 조정은 통상적으로 고점 대비 10% 이상 하락을 의미하며, 이는 투자 심리 위축과 추가 하락 가능성에 대한 우려를 높인다. 미국 증시의 조정은 국내 증시에도 부정적인 영향을 미칠 수 있으므로, 방어적인 포트폴리오 전략을 고려해야 한다.",
+      "description": "S&P 500과 나스닥 100 지수가 조정 영역에 진입했다.",
+      "category": "증시·금리",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "기술주",
       "related_stocks": [
         "미래에셋증권",
         "한국금융지주",
         "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "금리 경고와 S&P 500 지수의 낙관적 목표치 사이의 괴리를 이해하는 것이 글로벌 증시 방향성 예측에 필수적입니다.",
-      "key_signal": "향후 미국 연준의 금리 정책 스탠스와 기업 실적 전망치 변화를 주시하며 시장 컨센서스의 변화를 파악해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "글로벌 증시의 핵심 지수가 조정 영역에 진입하면서 전반적인 투자 심리 위축과 국내 증시의 동반 하락 가능성이 커졌기 때문이다.",
+      "key_signal": "미국 주요 지수들이 추가 하락 없이 반등에 성공할지 여부와 조정의 기간 및 깊이를 예의주시해야 한다.",
       "keywords": [
         "S&P500",
-        "금리",
-        "전망",
+        "나스닥100",
+        "조정장",
         "미국증시",
-        "ETF"
+        "글로벌증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQOWIxcjNlTmJVMEZxMDd1dElIQkpOMXlKQzhlZVJEVzVtZS1tbDdGUzluQVpLVnZ3WDlTMWJ0Y0VJRk80NmM3d05oV2plUTlFdldrWDhzOWJ5VERkbDY2c2xOdHpHNWdSdmtIMU5FVElVYVRxZkN3X2NDZTVSUWZPRXYxVTJFdFp3a0JmR1N5MHdtX0hWUzRzcTFra0tPUUprNUNReHBpYzBNT0lBU2JtOWw4QzJQdVp2VmY0RVdNZEU2TWMtZG4tZVZEbmE2bHF6RERyTVRGeTlOdThiSmFnbGhhWWNvbU1KT0Z3d1h0WFlvRUg1UWU2STVIc2xISmE4Mm5WbkJUZzhKcV81RGoyZ1dfLXlaX2Q4TjlLRXU2LWRCaHVicmp3cTRma09tdXRGaThfNkZNUkhkM2ZTQ3VyZU9RVjJjS2hvVkRpYTdRU0tNM0l0TVFOeVVMMVdsYWxmaDVHb0ZEQy1WZk1OMllUZjVTdlFIbW9XTl83Zjg5Tm8tVzRlUHdUS0FJaw?oc=5",
-      "published": "2026-11-23 23:37",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmVNR3I3LXY2RUluQ05YaFQwVlBVT1RuYkVnTThNTmtkTktOVzlGdDlzVFBUelg0RlpBcHptY0JqZE9GUDM1dUNKOVdyVVJ1SmJGUGVEaFhZZUd6amFFNlRQS3RITXk0TlowQzFvWGdmMVpmdlcyM21tNURFdGVkT1pZMkF0X1Q5WHZjZVdKeW5yRzc5b3VEbHJIc0ZpWVZC?oc=5",
+      "published": "2026-11-25 08:06",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -151,42 +151,42 @@
     },
     {
       "rank": 4,
-      "region": "해외",
-      "classification": "해외",
-      "source": "Google News Global",
-      "title": "금리 경고 압력 속에서도 전략가들은 왜 S&P 500 지수 10,000을 고수하는가?",
-      "display_title": "금리 경고 압력 속에서도 전략가들은 왜 S&P 500 지수 10,000을 고수하는가?",
-      "original_title": "Why Do Strategists Still Point to 10,000 for the S&P 500 While Rate Warnings Pressure Vanguard Total Stock Market ETF (NYSEARCA:VTI), iShares Core S&P 500 ETF (NYSEARCA:IVV), SPDR S&P 500 ETF Trust (NYSEARCA:SPY) and iShares 20+ Year Tr - Kalkine",
+      "region": "국내",
+      "classification": "국내",
+      "source": "Google News Korea",
+      "title": "은행 가계대출 금리 연 5.02% 기록, 35개월 만에 5%대 진입",
+      "display_title": "은행 가계대출 금리 연 5.02% 기록, 35개월 만에 5%대 진입",
+      "original_title": "은행 가계대출 금리 연 5.02% 찍었다…35개월 만에 5%대 진입 - 데이터투자",
       "summary": [
-        "미국 금리 인상에 대한 경고가 지속되는 가운데서도, 일부 시장 전략가들은 S&P 500 지수의 10,000 도달 가능성을 여전히 강조하고 있습니다.",
-        "이는 채권 시장의 압박과 주식 시장의 잠재적 낙관론 사이의 상충된 시각을 보여주며 투자 심리에 영향을 미치고 있습니다.",
-        "금리 환경 변화가 기업 이익과 주식 밸류에이션에 미치는 영향을 종합적으로 고려하여 투자 전략을 수립해야 합니다."
+        "은행권 가계대출 평균 금리가 연 5.02%를 기록하며 약 3년 만에 5%대에 진입했다.",
+        "이는 한국은행의 기준금리 인상과 시장 금리 상승 추세가 가계대출 금리에도 반영된 결과로, 대출자들의 이자 부담이 가중될 수 있다.",
+        "가계 이자 부담 증가는 소비 심리 위축 및 부동산 시장 위축으로 이어질 수 있으며, 이는 전반적인 내수 경제에 부정적인 영향을 미칠 수 있다."
       ],
-      "summary_text": "미국 금리 인상에 대한 경고가 지속되는 가운데서도, 일부 시장 전략가들은 S&P 500 지수의 10,000 도달 가능성을 여전히 강조하고 있습니다. 이는 채권 시장의 압박과 주식 시장의 잠재적 낙관론 사이의 상충된 시각을 보여주며 투자 심리에 영향을 미치고 있습니다. 금리 환경 변화가 기업 이익과 주식 밸류에이션에 미치는 영향을 종합적으로 고려하여 투자 전략을 수립해야 합니다.",
-      "description": "VTI, IVV, SPY 등 ETF가 금리 경고로 압박받는 상황에서도 전략가들이 S&P 500 지수 10,000 전망을 고수하는 이유에 대한 의문이 제기됩니다.",
-      "category": "글로벌 경제",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "자산운용, 증권, 금융",
+      "summary_text": "은행권 가계대출 평균 금리가 연 5.02%를 기록하며 약 3년 만에 5%대에 진입했다. 이는 한국은행의 기준금리 인상과 시장 금리 상승 추세가 가계대출 금리에도 반영된 결과로, 대출자들의 이자 부담이 가중될 수 있다. 가계 이자 부담 증가는 소비 심리 위축 및 부동산 시장 위축으로 이어질 수 있으며, 이는 전반적인 내수 경제에 부정적인 영향을 미칠 수 있다.",
+      "description": "은행의 가계대출 금리가 연 5.02%를 기록하며 35개월 만에 5%대에 진입했다.",
+      "category": "국내 거시경제",
+      "importance": 8,
+      "market_impact": "부정",
+      "related_sector": "금융",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "KB금융",
+        "신한지주",
+        "하나금융지주"
       ],
-      "investment_view": "관심",
-      "investment_reason": "상충되는 시장 전망 속에서 금리 변화가 미국 증시에 미칠 영향을 파악하고 합리적인 투자 결정을 내리는 것이 중요합니다.",
-      "key_signal": "미국 장단기 금리 동향과 주요 경제지표 발표를 면밀히 분석하여 S&P 500 시장의 예상 경로 변화를 추적해야 합니다.",
+      "investment_view": "주의",
+      "investment_reason": "가계대출 금리 상승은 소비 위축과 부동산 시장 둔화를 야기하여 국내 경제 전반에 부정적인 영향을 미칠 수 있기 때문이다.",
+      "key_signal": "가계 이자 부담 증가가 소비 지표와 부동산 거래량에 미치는 영향을 주시하고, 추가적인 금리 인상 가능성을 함께 고려해야 한다.",
       "keywords": [
-        "S&P500",
-        "금리",
-        "전략가",
-        "미국증시",
-        "전망"
+        "가계대출",
+        "금리인상",
+        "가계부채",
+        "내수경제",
+        "부동산"
       ],
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNRFdWRVZLUUl2dWVwWHVmNWVKMjV5LWJSQWtKbFRwNG16cGJZRk1jTzd0SjcwSGtXR2N4dWtnVWlLcjNtdTdId3VTUkNIeXhkS1RCdjRHNWNCaHlHNE16NlRrMVpsNjFTUUV3Z2RuWEpQdVB6cnFxV0hDR0JITUR0ZVZyVzFleFlVOFJvRjhxQ2hwdzRQejVzbHJfdVd5d0Nnem00M09reFZTZ1RvT1hSTTU1WnhjdGZDTmJEZTVXcl9NTW5YVE1fMkMxMFlia0RRQmFlRVdQUjM0Rlk0V2FKcklsZzVlUVR5bktocC1DaVNxbHk1bnd1b0sxRHdzX05KdzBPaXkyX3prNEc5d0VLTFMyYnFGYmdoUmtsWHVTY2x0amRNVy1GM0xfNnZIeTJ3dTdISW9MVnlnZ1pSaFlxLXlxamF2ZUZENWJ5bi14MGp0WVFoQ1RmMC1lX3VBcjJzNVBnZUJYVWVqLW9CUWlXV2hpNEU3WFdYQjZOcThFWXJ5YW9hSXZrbjR6OFhPbmRHNXpCcUEzaHZqdw?oc=5",
-      "published": "2026-11-23 23:32",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yN0ZDMy02YzUtaFdwdGtNUEQ1eUhLTmhLSEVDQkstUWtJSE5BdFREcHZrQ3ZOMi1BTGtPaEF4NzJvYVFraWZKd0pjdk5oZm5FS0xqZzEyRU9Pay1rbW1OX0U1Y3BKVEZkYk9yaWxEREg2UFE?oc=5",
+      "published": "2026-11-25 12:45",
       "quality": {
-        "title_status": "번역완료",
+        "title_status": "원문한국어",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -196,37 +196,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "이번 주, 미국 PCE 물가와 한국은행 금융통화위원회에 주목해야 할 시점",
-      "display_title": "이번 주, 미국 PCE 물가와 한국은행 금융통화위원회에 주목해야 할 시점",
-      "original_title": "PCE 물가, 금통위에 주목해야 할 한 주 - KB Think",
+      "title": "골드만삭스, \"내년 한국 성장률 3.2%, 반도체 호황에도 내수 부진\" 전망",
+      "display_title": "골드만삭스, \"내년 한국 성장률 3.2%, 반도체 호황에도 내수 부진\" 전망",
+      "original_title": "골드만삭스 “내년 韓 성장률 3.2%…반도체 호황에도 내수 부진” - 서울경제",
       "summary": [
-        "이번 주에는 미국 개인소비지출(PCE) 물가 지표 발표와 한국은행 금융통화위원회 회의가 예정되어 있어 주요 경제 이벤트가 집중됩니다.",
-        "PCE 물가는 미국 연준의 통화정책에, 금통위는 한국의 기준금리 결정에 핵심적인 영향을 미치는 지표 및 회의입니다.",
-        "두 이벤트의 결과에 따라 글로벌 및 국내 금융 시장의 금리, 환율, 증시 변동성이 확대될 수 있어 투자자들의 면밀한 모니터링이 필요합니다."
+        "골드만삭스는 내년 한국 경제 성장률을 3.2%로 예상하며, 반도체 산업의 호황에도 불구하고 내수 부진이 지속될 것이라고 분석했다.",
+        "이는 수출 중심의 성장 모델과 내수 회복 지연이라는 한국 경제의 구조적 문제를 반영하며, 고금리, 고물가 등이 내수 소비를 억제하고 있음을 시사한다.",
+        "반도체 등 수출 주도형 산업은 긍정적일 수 있으나, 내수 소비 관련 기업들은 어려움을 겪을 수 있어 섹터별 차별화된 전략이 필요하다."
       ],
-      "summary_text": "이번 주에는 미국 개인소비지출(PCE) 물가 지표 발표와 한국은행 금융통화위원회 회의가 예정되어 있어 주요 경제 이벤트가 집중됩니다. PCE 물가는 미국 연준의 통화정책에, 금통위는 한국의 기준금리 결정에 핵심적인 영향을 미치는 지표 및 회의입니다. 두 이벤트의 결과에 따라 글로벌 및 국내 금융 시장의 금리, 환율, 증시 변동성이 확대될 수 있어 투자자들의 면밀한 모니터링이 필요합니다.",
-      "description": "이번 주는 미국 PCE 물가 지표 발표와 한국은행 금융통화위원회 회의가 예정되어 있어 통화정책 방향성에 대한 관심이 집중됩니다.",
-      "category": "증시·금리",
-      "importance": 9,
+      "summary_text": "골드만삭스는 내년 한국 경제 성장률을 3.2%로 예상하며, 반도체 산업의 호황에도 불구하고 내수 부진이 지속될 것이라고 분석했다. 이는 수출 중심의 성장 모델과 내수 회복 지연이라는 한국 경제의 구조적 문제를 반영하며, 고금리, 고물가 등이 내수 소비를 억제하고 있음을 시사한다. 반도체 등 수출 주도형 산업은 긍정적일 수 있으나, 내수 소비 관련 기업들은 어려움을 겪을 수 있어 섹터별 차별화된 전략이 필요하다.",
+      "description": "골드만삭스가 내년 한국 경제 성장률을 3.2%로 전망하면서, 반도체 산업의 호황에도 불구하고 내수 부진이 지속될 것이라고 밝혔다.",
+      "category": "국내 거시경제",
+      "importance": 8,
       "market_impact": "중립",
-      "related_sector": "금융, 증권, 채권",
+      "related_sector": "반도체",
       "related_stocks": [
-        "미래에셋증권",
-        "한국금융지주",
-        "NH투자증권"
+        "삼성전자",
+        "SK하이닉스",
+        "신세계"
       ],
       "investment_view": "관심",
-      "investment_reason": "미국과 한국의 핵심 통화정책 관련 이벤트가 동시에 예정되어 있어 시장의 주요 변동성 요인이 될 수 있습니다.",
-      "key_signal": "PCE 물가 수치와 금통위의 기준금리 결정 및 향후 정책 방향에 대한 코멘트를 통해 시장의 단기 방향성을 예측해야 합니다.",
+      "investment_reason": "한국 경제의 전반적인 성장 경로를 제시하고, 특히 수출과 내수 간의 불균형을 지적하며 투자 전략 수립에 중요한 가이드라인을 제공하기 때문이다.",
+      "key_signal": "반도체 업황의 실제 개선 속도와 내수 부진 해소를 위한 정부 정책 변화 및 그 효과를 지속적으로 모니터링해야 한다.",
       "keywords": [
-        "PCE물가",
-        "금통위",
-        "통화정책",
-        "기준금리",
-        "환율"
+        "한국경제",
+        "성장률",
+        "반도체",
+        "내수부진",
+        "골드만삭스"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUlZWdUp5V21EM29ZRGc2Q1k1VWJQaXRfU25uMWphQ2NobzIyUHBTOW9YaDdQdVppR01DMDNablJTa1FoOGFROHRFN2hUZjNITFFZVFVLQnZ1b1YxblJ1RFFENHVyZw?oc=5",
-      "published": "2026-11-24 09:51",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nRVVyQjR0Zzl3VXc1S2RFemMwUVpSOVcyQnRTY1paNHdJU09ZTGdsWTM3SVNFQlNfSDBJQjhVT3pKLS12bEpBOTZGVFkwZktHUWfSAVNBVV95cUxNZ1NoNG9sTHJ1UHRmMzF3MzFKS3p6d2dmMWFnY0d0T2gxLWZYRFI5SC01bXpCVnlYdlE4M3gySXJBRFhnTjdnaU14djhnVWxFMXlLYw?oc=5",
+      "published": "2026-11-25 10:38",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -238,37 +238,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "나스닥 100 지수, 엔비디아 실적 발표 및 앤트로픽 데뷔 앞두고 하락 전망",
-      "display_title": "나스닥 100 지수, 엔비디아 실적 발표 및 앤트로픽 데뷔 앞두고 하락 전망",
-      "original_title": "Nasdaq 100 Forecast: NDX falls ahead of Nvidia’s earnings & Anthropic’s debut this week - StoneX",
+      "title": "금 가격 하루 만에 2% 이상 폭락, 연준 12월 금리 인상 기대감 고조에 $3,600 지지선 위협",
+      "display_title": "금 가격 하루 만에 2% 이상 폭락, 연준 12월 금리 인상 기대감 고조에 $3,600 지지선 위협",
+      "original_title": "Gold Plunges More Than 2% in a Single Day; $3,600 Support Line in Jeopardy as Fed December Rate-Hike Expectations Build - BigGo Finance",
       "summary": [
-        "나스닥 100 지수가 엔비디아 실적 발표와 AI 기업 앤트로픽의 시장 데뷔를 앞두고 하락세를 보이고 있습니다.",
-        "이는 주요 기술 기업의 실적 불확실성과 신규 AI 기업의 시장 평가에 대한 경계심리가 반영된 결과입니다.",
-        "미국 기술주의 단기 변동성 확대 가능성이 있어 관련 포트폴리오의 리스크 관리가 필요합니다."
+        "금 가격이 연준의 12월 금리 인상 가능성으로 인해 하루 만에 2% 이상 급락하며 $3,600 지지선이 위험에 처했다.",
+        "금은 인플레이션 헤지 수단이자 안전자산으로 여겨지지만, 금리 인상은 금 보유의 기회비용을 높여 가격 하락 압력을 가한다.",
+        "연준의 긴축 정책 기대감이 강화될 경우 금 및 관련 자산에 대한 투자 심리가 위축될 수 있다."
       ],
-      "summary_text": "나스닥 100 지수가 엔비디아 실적 발표와 AI 기업 앤트로픽의 시장 데뷔를 앞두고 하락세를 보이고 있습니다. 이는 주요 기술 기업의 실적 불확실성과 신규 AI 기업의 시장 평가에 대한 경계심리가 반영된 결과입니다. 미국 기술주의 단기 변동성 확대 가능성이 있어 관련 포트폴리오의 리스크 관리가 필요합니다.",
-      "description": "나스닥 100 지수가 이번 주 엔비디아의 실적 발표와 앤트로픽의 시장 데뷔를 앞두고 하락할 것으로 전망됩니다.",
+      "summary_text": "금 가격이 연준의 12월 금리 인상 가능성으로 인해 하루 만에 2% 이상 급락하며 $3,600 지지선이 위험에 처했다. 금은 인플레이션 헤지 수단이자 안전자산으로 여겨지지만, 금리 인상은 금 보유의 기회비용을 높여 가격 하락 압력을 가한다. 연준의 긴축 정책 기대감이 강화될 경우 금 및 관련 자산에 대한 투자 심리가 위축될 수 있다.",
+      "description": "연방준비제도(Fed)의 12월 금리 인상 기대감이 커지면서 금 가격이 하루 만에 2% 이상 급락하며 $3,600 지지선이 위태로워졌다.",
       "category": "증시·금리",
-      "importance": 8,
+      "importance": 7,
       "market_impact": "부정",
-      "related_sector": "반도체, 인공지능 (AI), 기술주",
+      "related_sector": "원자재",
       "related_stocks": [
-        "엔비디아",
-        "마이크로소프트",
-        "애플"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
       "investment_view": "주의",
-      "investment_reason": "주요 기술 기업 실적 발표와 신규 AI 기업 데뷔가 미국 기술주 전반의 방향성을 결정할 수 있어 투자자들의 주의가 요구됩니다.",
-      "key_signal": "엔비디아 실적 발표 결과와 앤트로픽 시장 반응을 통해 AI 및 기술주 섹터의 단기 모멘텀 변화를 확인해야 합니다.",
+      "investment_reason": "연준의 금리 인상 기대감이 안전자산인 금 가격에 직접적인 하락 압력을 가하며, 이는 전반적인 시장의 위험 회피 심리 강화로 이어질 수 있기 때문이다.",
+      "key_signal": "연준의 12월 금리 인상 가능성에 대한 시장의 컨센서스 변화와 이에 따른 금 가격의 추가적인 움직임을 주시해야 한다.",
       "keywords": [
-        "나스닥",
-        "엔비디아",
-        "AI",
-        "실적",
-        "기술주"
+        "금",
+        "연준",
+        "금리인상",
+        "안전자산",
+        "원자재"
       ],
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0dWb0gzbllYanhUZC1zS1Z3VGx6ZnFoWmxrdFpFb0ZOVmxiNUNsdFkwTTQ5R0VEeXNZT1pyM0lCNVBGZlJ2SzN0RTA4QXdhdEdDNEp1YTlXLXNuZmt2V2dvQm4zc1VGUmw5SHZIREJWM2NfS0xkVVFlcDlrM2JwOFE2Tjd3cTMxQ0dwRUtseE1nVVdPY3FDa0FoM1lvQUY4cVB3TU9IMlg1cERLbS1YU1JHVkktcjB4RnRBaXIxU1h4bm81blg5Y0dxVHpUTE5HQWc?oc=5",
-      "published": "2026-11-24 12:50",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nRThPY0FZdzQ1TnE0Q25qTmtOR1hPUy1DT09tRXJmVnNKalVRc01sM2xQZzNsUlJtZHkxU2lRN25JM0RUMVAzaWtaN1E2MVdNemwzc3hrNF8tUW1HWmluTWd0enQwVlEzZUEyNkJHT2Z5SXoyNFE?oc=5",
+      "published": "2026-11-25 08:05",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -283,62 +283,64 @@
       "market": "KOSPI",
       "sector": "반도체",
       "opinion": "관심",
-      "reason": "정부의 증시 안정화 펀드 재가동 소식은 코스피 전반의 단기적인 방향성과 투자 심리에 긍정적인 영향을 미칠 수 있으며, 삼성전자는 국내 증시를 대표하는 종목으로 시장 안정화 노력의 수혜를 기대할 수 있습니다.",
+      "reason": "골드만삭스가 내년 한국 경제 성장률을 반도체 호황에 기반하여 3.2%로 전망하며 투자 전략 수립에 긍정적인 가이드라인을 제공했습니다. 다만, 미국 기술주 재하락 가능성 및 글로벌 증시 조정 영역 진입은 주의가 필요합니다.",
       "check_points": [
-        "정부 증시 안정화 펀드의 실제 효과",
-        "외국인 및 기관 투자자 매매 동향"
+        "미국 기술주 동향 및 나스닥 지수 흐름",
+        "글로벌 반도체 수요 및 가격 추이",
+        "외국인 투자자 매매 동향"
       ],
       "related_news_titles": [
-        "코스피 이틀 만에 8.36% 급락, 정부 18년 만에 '증시 안정화 펀드' 재가동"
+        "[오늘 증시 전망] 코스피 6.32% 급반등하며 5,000선 회복... 미국 기술주 재하락에 25일 증시 시험대",
+        "골드만삭스, \"내년 한국 성장률 3.2%, 반도체 호황에도 내수 부진\" 전망"
       ]
     },
     {
       "rank": 2,
-      "name": "KB금융",
+      "name": "현대차",
       "market": "KOSPI",
-      "sector": "은행",
-      "opinion": "관심",
-      "reason": "한국은행의 기준금리 인상 가능성 제기는 국내 금융시장 전반에 중대한 영향을 미치며, 은행주는 금리 변동에 민감하게 반응하므로 관련 동향을 면밀히 주시해야 합니다.",
+      "sector": "자동차",
+      "opinion": "주의",
+      "reason": "트럼프 전 대통령의 한국 등 주요 수출국에 대한 추가 관세 압박 가능성이 제기되며, 이는 한국의 주력 수출 산업인 자동차 부문에 직접적인 타격으로 작용할 수 있습니다.",
       "check_points": [
-        "한국은행 금융통화위원회 최종 결정",
-        "채권시장 금리 변동성 추이"
+        "미국 대선 관련 후보들의 무역 정책 발언",
+        "글로벌 자동차 시장의 경쟁 심화 여부",
+        "환율 변동성 (수출 기업 실적에 영향)"
       ],
       "related_news_titles": [
-        "한은, 다시 긴축으로 전환할까…채권시장 전문가 54% \"11월 기준금리 인상\" 전망",
-        "이번 주, 미국 PCE 물가와 한국은행 금융통화위원회에 주목해야 할 시점"
+        "[로드픽] 트럼프, 한국·중국 등 16개국에 추가 관세 압박... '과잉생산' 구실로 무역장벽 강화"
       ]
     },
     {
       "rank": 3,
-      "name": "미래에셋증권",
+      "name": "KB금융",
       "market": "KOSPI",
-      "sector": "증권",
-      "opinion": "관심",
-      "reason": "미국 PCE 물가 발표 및 한국은행 금융통화위원회 등 주요 통화정책 관련 이벤트가 예정되어 있어 시장의 변동성이 확대될 수 있으며, 이는 증권업종의 실적과 투자 심리에 직접적인 영향을 미칠 수 있습니다.",
+      "sector": "금융",
+      "opinion": "주의",
+      "reason": "은행 가계대출 금리가 연 5.02%로 35개월 만에 5%대에 진입하며, 이는 국내 소비 위축과 부동산 시장 둔화를 야기하여 국내 경제 전반에 부정적인 영향을 미칠 수 있어 금융권의 건전성 및 실적에 부담으로 작용할 수 있습니다.",
       "check_points": [
-        "미국 PCE 물가 지수 발표 결과 및 시장 반응",
-        "한국은행 금통위 회의록 및 주요 인사 발언"
+        "한국은행의 기준금리 정책 방향",
+        "가계부채 증가 속도 및 건전성 지표",
+        "부동산 시장 동향"
       ],
       "related_news_titles": [
-        "이번 주, 미국 PCE 물가와 한국은행 금융통화위원회에 주목해야 할 시점",
-        "금리 경고에도 불구하고 전문가들은 왜 S&P 500 지수 10,000을 여전히 전망하는가?",
-        "금리 경고 압력 속에서도 전략가들은 왜 S&P 500 지수 10,000을 고수하는가?"
+        "은행 가계대출 금리 연 5.02% 기록, 35개월 만에 5%대 진입"
       ]
     },
     {
       "rank": 4,
-      "name": "SK하이닉스",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "관심",
-      "reason": "정부의 증시 안정화 펀드 재가동 소식은 국내 증시 전반에 긍정적인 투자 심리 개선을 가져올 수 있으며, SK하이닉스는 삼성전자와 함께 국내 반도체 산업을 대표하는 종목으로 시장 안정화 및 글로벌 기술주 동향에 민감하게 반응할 것입니다.",
+      "sector": "증권",
+      "opinion": "주의",
+      "reason": "S&P 500과 나스닥 100 지수가 조정 영역에 진입하고 연준의 12월 금리 인상 기대감으로 금 가격이 폭락하는 등 글로벌 증시의 전반적인 투자 심리 위축 및 변동성 확대가 국내 증권사의 수익성에 부정적인 영향을 미칠 수 있습니다.",
       "check_points": [
-        "글로벌 반도체 시장 수요 및 가격 동향",
-        "미국 기술주 실적 발표 및 향방 (특히 AI 관련)"
+        "글로벌 주요 증시(S&P 500, 나스닥)의 변동성 및 추이",
+        "국내 증시 거래량 및 투자자 예탁금 동향",
+        "연준의 금리 인상 관련 발언 및 정책"
       ],
       "related_news_titles": [
-        "코스피 이틀 만에 8.36% 급락, 정부 18년 만에 '증시 안정화 펀드' 재가동",
-        "나스닥 100 지수, 엔비디아 실적 발표 및 앤트로픽 데뷔 앞두고 하락 전망"
+        "S&P 500과 나스닥 100 지수, 조정 영역 진입",
+        "금 가격 하루 만에 2% 이상 폭락, 연준 12월 금리 인상 기대감 고조에 $3,600 지지선 위협"
       ]
     }
   ],
