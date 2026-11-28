@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27 12:57",
-  "analysis_date": "2026-11-27",
+  "generated_at": "2026-11-28 12:44",
+  "analysis_date": "2026-11-28",
   "project_overview": {
     "project_name": "경제 뉴스 브리프",
     "purpose": "국내외 경제·증시·금리·부동산·기업 뉴스를 자동 수집·분석하여 투자 판단에 참고할 수 있는 일일 브리프를 제공하는 시스템",
@@ -13,14 +13,14 @@
     "final_deliverable": "Economic_News 홈페이지용 data.json"
   },
   "brief": {
-    "총평": "미국 통상 압박과 고금리 부담 속 국내 증시는 코스피와 코스닥의 차별화된 흐름을 보였고, 글로벌 시장은 단기 회복세를 나타냈으나 강달러 기조가 유지될 전망입니다.",
-    "국내거시경제": "미국이 호남 지역 반도체 산업을 통상 협상 의제로 삼으면서 국내 산업 육성 방식에 대한 압박이 커지고 있으며, 미중 기술 패권 경쟁의 영향이 국내 핵심 산업에 미치고 있습니다.",
-    "글로벌경제": "한 달간의 부진 끝에 글로벌 주식 시장이 회복세를 보이고 있으나, 고금리 지속과 경제 불확실성으로 자산 전반의 하락세도 관측됩니다. 달러는 세 번째 월간 상승세를 기록할 전망이며, 월가는 12월 중순 이후 실질적 반등을 예상하고 있습니다.",
-    "증시금리": "고금리와 고유가 경계감으로 코스피는 불안정한 상승세 또는 하락 압력을 받는 반면, 정부 정책 기대감에 코스닥은 강세를 보이며 양 시장의 차별화된 흐름이 지속되고 있습니다.",
-    "부동산정책": "관련 뉴스 없음.",
-    "기업산업": "미국이 호남 반도체 산업을 통상 협상 의제로 삼아 국내 반도체 기업들의 투자 및 생산 전략에 중대한 영향을 미칠 수 있어 정책 변화에 대한 면밀한 주시가 요구됩니다.",
-    "오늘의투자시사점": "미국의 통상 압력과 고금리 부담이라는 대외 리스크를 주시하며, 국내 증시의 코스피-코스닥 차별화에 따른 시장별 접근 전략이 필요합니다. 연말 글로벌 시장의 반등 가능성도 염두에 두되, 단기 변동성에 대비하고 중장기 관점의 포트폴리오 점검이 중요합니다.",
-    "오늘의한줄": "미국 통상 압박과 고금리 부담 속 국내 증시는 코스피와 코스닥의 차별화된 흐름을 보이며, 대외 변수와 정책 변화에 대한 면밀한 주시가 필요합니다."
+    "총평": "국내 금융당국의 증시 안정화 노력과 글로벌 AI 테마 강세가 시장에 긍정적인 신호를 보내고 있으나, 주요 경제 지표 발표를 앞두고 변동성 관리가 필요합니다.",
+    "국내거시경제": "금융당국이 증시 안정화를 위해 증안펀드 가동을 시사하며 시장 불안정성 해소에 나설 움직임입니다. 다음 주에는 증시 안정화 대책 논의와 잠재성장률, 예산안 처리에 대한 동향에 주목해야 합니다.",
+    "글로벌경제": "글로벌 증시는 높은 변동성을 보이며 향후 발표될 고용 지표와 중앙은행의 금리 결정에 촉각을 세우고 있습니다. 인플레이션 및 경기 침체 우려가 상존하므로 주요 경제 지표 발표에 주의해야 합니다.",
+    "증시금리": "미국 AI 테마 강세로 주요 지수가 큰 폭 상승하며 국내 기술주에도 긍정적인 영향을 미치고 있습니다. 국내에서는 삼성전자와 SK하이닉스 등 반도체 투톱이 주 후반 반등에 성공하며 12월 첫째 주 증시 반전 기대감을 높이고 있습니다. 다만, 글로벌 증시는 고용 지표와 금리 전망에 따른 변동성 확대 가능성이 있습니다.",
+    "부동산정책": "해당 사항 없음",
+    "기업산업": "애플과 OpenAI 간 경쟁 심화는 AI 인프라 구축을 가속화하며 고성능 반도체 수요 증가로 이어질 전망입니다. AI 인프라 및 반도체 관련 기업들의 장기 성장 가능성에 주목할 필요가 있습니다.",
+    "오늘의투자시사점": "금융당국의 증시 안정화 노력과 반도체 투톱의 반등으로 국내 증시 전반의 투자 심리가 개선될 것으로 기대됩니다. AI 테마 강세에 따라 국내외 기술주 및 AI 인프라 관련 기업에 대한 관심이 유효합니다. 다만, 글로벌 고용 지표와 금리 결정 등 주요 변수를 앞두고 시장 변동성 확대에 대비하며 투자 전략을 신중하게 가져갈 필요가 있습니다.",
+    "오늘의한줄": "금융당국 개입과 AI 테마에 힘입은 반도체 반등으로 시장 기대감 고조, 하지만 주요 경제 지표를 앞둔 변동성에 대비 필요."
   },
   "top_news": [
     {
@@ -28,36 +28,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[뉴스 분석] 미국 표적이 된 호남 반도체…산업 육성 방식이 통상 협상 의제로",
-      "display_title": "[뉴스 분석] 미국 표적이 된 호남 반도체…산업 육성 방식이 통상 협상 의제로",
-      "original_title": "[뉴스 분석] 미국 표적이 된 호남 반도체…산업 육성 방식이 통상 협상 의제로 - www.theleader.co.kr",
+      "title": "증시 급락에 금융당국 개입 시사…증시안정화 펀드 가동 임박, 증권주 반등 기대감",
+      "display_title": "증시 급락에 금융당국 개입 시사…증시안정화 펀드 가동 임박, 증권주 반등 기대감",
+      "original_title": "증시 급락에 금융당국 움직인다…증안펀드 가동 임박, 증권주 반등할까 - 핀포인트뉴스",
       "summary": [
-        "미국이 호남 지역의 반도체 산업을 표적으로 삼아 한국의 산업 육성 방식이 통상 협상 의제로 부상했다.",
-        "미중 기술 패권 경쟁 심화 속에서 미국의 자국 우선주의 정책이 동맹국인 한국의 핵심 산업에까지 영향을 미치고 있다.",
-        "반도체 산업에 대한 통상 압박은 국내 반도체 기업들의 투자 및 생산 전략에 중대한 영향을 미칠 수 있으므로 정책 변화를 주시해야 한다."
+        "국내 증시 급락에 금융당국이 증안펀드 가동을 통해 시장 안정화에 나설 움직임을 보이고 있다.",
+        "최근 증시 불안정성이 심화되면서 정책 당국의 시장 개입 가능성이 커졌으며, 이는 투자 심리에 긍정적 영향을 줄 수 있다.",
+        "증안펀드 가동 시 증시 전반의 낙폭이 줄어들 수 있으며, 특히 저평가된 증권주 등 금융주에 반등 기회가 생길 수 있다."
       ],
-      "summary_text": "미국이 호남 지역의 반도체 산업을 표적으로 삼아 한국의 산업 육성 방식이 통상 협상 의제로 부상했다. 미중 기술 패권 경쟁 심화 속에서 미국의 자국 우선주의 정책이 동맹국인 한국의 핵심 산업에까지 영향을 미치고 있다. 반도체 산업에 대한 통상 압박은 국내 반도체 기업들의 투자 및 생산 전략에 중대한 영향을 미칠 수 있으므로 정책 변화를 주시해야 한다.",
-      "description": "미국이 호남 지역의 반도체 산업을 표적으로 삼으면서, 한국의 산업 육성 방식이 통상 협상 의제로 떠올랐다는 분석입니다.",
-      "category": "기업·산업",
-      "importance": 9,
-      "market_impact": "부정",
-      "related_sector": "반도체, 외교, 무역",
+      "summary_text": "국내 증시 급락에 금융당국이 증안펀드 가동을 통해 시장 안정화에 나설 움직임을 보이고 있다. 최근 증시 불안정성이 심화되면서 정책 당국의 시장 개입 가능성이 커졌으며, 이는 투자 심리에 긍정적 영향을 줄 수 있다. 증안펀드 가동 시 증시 전반의 낙폭이 줄어들 수 있으며, 특히 저평가된 증권주 등 금융주에 반등 기회가 생길 수 있다.",
+      "description": "국내 증시 급락세가 이어지자 금융당국이 시장 안정화를 위해 움직임을 보이고 있으며, 증시안정화 펀드(증안펀드) 가동이 임박해 증권주 반등 여부에 관심이 쏠리고 있다.",
+      "category": "국내 거시경제",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "증권, 금융, 정책수혜주",
       "related_stocks": [
-        "삼성전자",
-        "SK하이닉스"
+        "미래에셋증권",
+        "한국투자증권",
+        "삼성증권"
       ],
-      "investment_view": "주의",
-      "investment_reason": "한국의 주력 산업인 반도체에 대한 미국의 통상 압박은 관련 기업들의 사업 환경에 직접적인 영향을 미칠 수 있어 투자에 주의가 필요하다.",
-      "key_signal": "한미 통상 협상 진행 상황과 정부의 반도체 산업 정책 변화를 면밀히 모니터링해야 한다.",
+      "investment_view": "관심",
+      "investment_reason": "금융당국의 시장 안정화 조치는 국내 증시 전반의 하방 경직성을 확보하고 투자 심리를 개선할 수 있기 때문에 주목해야 한다.",
+      "key_signal": "증안펀드의 구체적인 가동 시점과 규모, 그리고 증권주의 수급 변화를 오늘 장에 집중적으로 확인해야 한다.",
       "keywords": [
-        "반도체",
-        "통상 협상",
-        "미국",
-        "호남",
-        "산업 육성"
+        "증시안정화펀드",
+        "금융당국",
+        "증권주",
+        "국내증시",
+        "시장개입"
       ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTzZxVE9Vd1BRaHRHLWkzMkJMZXZLemVmSFZBaFgyWWw3LTF4N1F3YUJTMngtLXVmekNfdHd0SUM5OGVFYk1XbDBvWk82SEJwSGR6SHNZbG1MT0JYNDFwMENyeVhmZGZkTlFyOHJR?oc=5",
-      "published": "2026-11-27 07:09",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SQVZzVENuNXFNVWFCMWwzWnBVUjFDbUI0TjRsVTFxT2F3VGJULTVXMFVHZTJmcFBuN0JLWURYeFExX0N1TlNmdHFBTjVEZTNzdmFrS2RWeHRPTEV5ZE5FWXd5d3FDWTc1eHNqYThjUl9Oc2PSAXdBVV95cUxNMDd2OWgyQWp5bmJGb3hfNjc4T2dGUjYwSjNMZDNiSVNzMzdkNFNPSXpLYWwtWlVXTGlQUHVkV2hGc1dReFNSeWlGMFNLU0NhOWkzT0JhbmNwWUZBLU1WNWdqclV4T2dOdFZ4dHREV3NjdTZlVGdHcw?oc=5",
+      "published": "2026-11-28 10:27",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -69,37 +70,37 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "코스피 장중 금리 인상 부담에 '하락 전환' 4700선, 코스닥은 정책 기대감에 3%대 상승",
-      "display_title": "코스피 장중 금리 인상 부담에 '하락 전환' 4700선, 코스닥은 정책 기대감에 3%대 상승",
-      "original_title": "코스피 장중 금리 인상 부담에 '하락 전환' 4700선, 코스닥은 정책 기대감에 3%대 올라 - 비즈니스포스트",
+      "title": "막판에 살아난 삼성전자·SK하이닉스…12월 첫째주 '반전 드라마' 기대 [주간 증시해설서]",
+      "display_title": "막판에 살아난 삼성전자·SK하이닉스…12월 첫째주 '반전 드라마' 기대 [주간 증시해설서]",
+      "original_title": "막판에 살아난 삼전닉스…12월 첫째주 ‘반전 드라마’ 쓸까 [주간 증시해설서] - 더스쿠프",
       "summary": [
-        "장중 코스피는 금리 인상 부담으로 하락 전환하여 4700선에 머물렀으나, 코스닥은 정부 정책 기대감으로 3%대 강세를 보였다.",
-        "고금리 환경은 대형주 위주의 코스피에 부담으로 작용하는 반면, 정부의 중소기업 및 성장주 지원 정책은 코스닥 시장에 긍정적으로 작용하고 있다.",
-        "금리 부담과 정책 기대감이라는 상반된 요인에 따라 코스피와 코스닥 시장의 차별화된 흐름이 나타날 수 있으므로 각 시장의 특성을 고려한 전략이 필요하다."
+        "삼성전자와 SK하이닉스가 주 후반 강한 매수세에 힘입어 상승 전환하며 12월 첫째 주 반등에 대한 기대감을 높였다.",
+        "AI 반도체 수요 증가와 반도체 업황 회복 기대감이 국내 대표 반도체 기업 주가에 긍정적으로 작용한 것으로 풀이된다.",
+        "국내 증시의 대장주인 반도체 투톱의 상승은 시장 전반의 투자 심리 개선과 지수 상승을 견인할 수 있다."
       ],
-      "summary_text": "장중 코스피는 금리 인상 부담으로 하락 전환하여 4700선에 머물렀으나, 코스닥은 정부 정책 기대감으로 3%대 강세를 보였다. 고금리 환경은 대형주 위주의 코스피에 부담으로 작용하는 반면, 정부의 중소기업 및 성장주 지원 정책은 코스닥 시장에 긍정적으로 작용하고 있다. 금리 부담과 정책 기대감이라는 상반된 요인에 따라 코스피와 코스닥 시장의 차별화된 흐름이 나타날 수 있으므로 각 시장의 특성을 고려한 전략이 필요하다.",
-      "description": "코스피는 장중 금리 인상 부담으로 4700선에서 하락 전환했지만, 코스닥은 정책 기대감에 힘입어 3%대 상승을 기록했습니다.",
+      "summary_text": "삼성전자와 SK하이닉스가 주 후반 강한 매수세에 힘입어 상승 전환하며 12월 첫째 주 반등에 대한 기대감을 높였다. AI 반도체 수요 증가와 반도체 업황 회복 기대감이 국내 대표 반도체 기업 주가에 긍정적으로 작용한 것으로 풀이된다. 국내 증시의 대장주인 반도체 투톱의 상승은 시장 전반의 투자 심리 개선과 지수 상승을 견인할 수 있다.",
+      "description": "주 후반 막판에 상승세로 돌아서며 강한 회복력을 보인 삼성전자와 SK하이닉스가 12월 첫째 주에 반전 드라마를 쓸 수 있을지 관심이 모인다.",
       "category": "증시·금리",
-      "importance": 9,
-      "market_impact": "중립",
-      "related_sector": "증권, 금융, 정책수혜주, 중소형주",
+      "importance": 10,
+      "market_impact": "긍정",
+      "related_sector": "반도체, IT하드웨어",
       "related_stocks": [
-        "카카오",
-        "셀트리온",
-        "HLB"
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
       ],
       "investment_view": "관심",
-      "investment_reason": "금리 인상 부담과 정책 기대감이라는 상반된 요소가 코스피와 코스닥 시장에 미치는 차별적 영향을 이해하는 것은 효과적인 투자 전략 수립에 필수적이다.",
-      "key_signal": "장중 금리 인상 관련 소식과 정부 정책 발표에 대한 시장의 반응을 지속적으로 확인하여 양 시장의 추가적인 차별화 여부를 판단해야 한다.",
+      "investment_reason": "국내 증시의 방향성을 결정하는 핵심 종목인 삼성전자와 SK하이닉스의 상승세는 시장 전반에 긍정적인 신호로 작용하므로 주목해야 한다.",
+      "key_signal": "외국인 및 기관 투자자들의 반도체 투톱 순매수 전환 여부와 연말 IT 수요 전망을 오늘 장에서 확인해야 한다.",
       "keywords": [
-        "코스피",
-        "코스닥",
-        "금리 인상",
-        "정책 기대감",
-        "하락 전환"
+        "삼성전자",
+        "SK하이닉스",
+        "반도체",
+        "AI반도체",
+        "국내증시"
       ],
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92anBJRnZ4d0xaNERmYTB2d2FSMjFNekVOUXM2RENTNVNRZlZDaHRnWC05eGYzSU5pMl9nVjY3R2M5Z2tnSVJMNkNPbXdBMlFPVHlSZ2plMVlZVlNIUGJsRjhLd2VLNzlSQkQwMTcxMHUxQzg?oc=5",
-      "published": "2026-11-27 09:43",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSQTEzRWtfeEgySWJoQlFJM19fSlZfWWVtc3ZiRGVXQ200ZzJOVUd6bjViMWJnb01aU3hiemJQSTlkdmp0a0NFNDUyZDVrU1VIMUxmcGlVbDZjYmUwOXIxRTRFY0ZNZWdJaVRNVUtB?oc=5",
+      "published": "2026-11-28 10:14",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -111,37 +112,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "한 달간의 부진 끝에 주식 시장 회복세, 달러는 세 번째 월간 상승세 기록 전망",
-      "display_title": "한 달간의 부진 끝에 주식 시장 회복세, 달러는 세 번째 월간 상승세 기록 전망",
-      "original_title": "Shares find footing after bruising month, dollar set for third monthly gain - KELO-AM",
+      "title": "AI 테마 부활에 미 주요 3대 지수 주간 큰 폭 상승, 공포 지수 10% 이상 급락",
+      "display_title": "AI 테마 부활에 미 주요 3대 지수 주간 큰 폭 상승, 공포 지수 10% 이상 급락",
+      "original_title": "Fear Gauge Plunges More Than 10% Overnight as AI Trade Revival Lifts All Three Major US Indexes to Big Weekly Gains - BigGo Finance",
       "summary": [
-        "한 달간의 하락세 이후 글로벌 주식 시장이 지지선을 찾고 반등하는 모습을 보였으며, 달러는 3개월 연속 월간 상승을 기록할 전망이다.",
-        "글로벌 금융 시장에서 주식 시장의 회복과 달러 강세는 투자 심리 및 자본 흐름에 큰 영향을 미친다.",
-        "주식 시장의 단기적인 안도 랠리 가능성과 함께 강달러 기조가 유지될 경우 신흥국 증시에는 부담으로 작용할 수 있다."
+        "AI 테마 강세에 힘입어 미국 3대 주요 지수가 주간 큰 폭으로 상승하고 공포 지수는 10% 넘게 급락했다.",
+        "AI 관련 기업들의 실적 기대감 및 기술 발전이 투자 심리를 개선시키며 시장의 위험 선호도가 높아진 것으로 풀이된다.",
+        "미국 증시의 긍정적인 흐름은 국내 기술주 및 AI 관련 주식에 대한 투자 심리 개선으로 이어질 수 있다."
       ],
-      "summary_text": "한 달간의 하락세 이후 글로벌 주식 시장이 지지선을 찾고 반등하는 모습을 보였으며, 달러는 3개월 연속 월간 상승을 기록할 전망이다. 글로벌 금융 시장에서 주식 시장의 회복과 달러 강세는 투자 심리 및 자본 흐름에 큰 영향을 미친다. 주식 시장의 단기적인 안도 랠리 가능성과 함께 강달러 기조가 유지될 경우 신흥국 증시에는 부담으로 작용할 수 있다.",
-      "description": "힘든 한 달을 보낸 후 주식 시장이 회복세를 보이고 있으며, 달러는 3개월 연속 월간 상승세를 기록할 것으로 예상됩니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
-      "market_impact": "중립",
-      "related_sector": "환율, 증권, 수출주",
+      "summary_text": "AI 테마 강세에 힘입어 미국 3대 주요 지수가 주간 큰 폭으로 상승하고 공포 지수는 10% 넘게 급락했다. AI 관련 기업들의 실적 기대감 및 기술 발전이 투자 심리를 개선시키며 시장의 위험 선호도가 높아진 것으로 풀이된다. 미국 증시의 긍정적인 흐름은 국내 기술주 및 AI 관련 주식에 대한 투자 심리 개선으로 이어질 수 있다.",
+      "description": "AI 테마가 부활하며 미국 주요 3대 지수가 주간 큰 폭으로 상승했고, 이에 따라 시장의 공포 지수(VIX)가 하루 만에 10% 이상 급락했다.",
+      "category": "증시·금리",
+      "importance": 9,
+      "market_impact": "긍정",
+      "related_sector": "인공지능, 반도체, 기술주",
       "related_stocks": [
         "삼성전자",
-        "현대차",
-        "키움증권"
+        "SK하이닉스",
+        "네이버"
       ],
       "investment_view": "관심",
-      "investment_reason": "글로벌 증시의 회복세와 달러 강세는 국내 증시의 방향성과 외국인 자금 유출입에 중요한 영향을 미치므로 주시해야 한다.",
-      "key_signal": "오늘 글로벌 증시의 추가 상승 여부와 원/달러 환율 변동성을 주의 깊게 살펴야 한다.",
+      "investment_reason": "미국 기술주와 AI 관련주의 강세가 국내 증시에도 긍정적인 영향을 미칠 수 있기 때문에 주목해야 한다.",
+      "key_signal": "미국 증시의 AI 관련주 흐름과 국내 기술주에 대한 외국인 매수세를 오늘 장에 체크해야 한다.",
       "keywords": [
-        "주식시장",
-        "달러 강세",
-        "환율",
-        "글로벌 증시",
-        "투자심리"
+        "AI",
+        "미국증시",
+        "기술주",
+        "공포지수",
+        "시장심리"
       ],
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDEwSHdfanlHM1pxYmxMQW5wY0kya0pTa2JzbFphQ2JGVGhzTWF4a2dESWRlajMtNEQ2cDYtQU9TSWxmeTdlZlQ5OTR4N0JJUzRlNjltcURTTlR1cjZYeDg0ejVRWTdrUm9SY2ZoaVl2RjloUzhVbWZBNlVyZUtQOF9vRTZSOEhjbUtZUmg2YkpLd0YtUGpDa1VjSUtmekRTYmM2eG9R?oc=5",
-      "published": "2026-11-27 11:36",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmRUc4TWFhVlIweGpSdGVfUXJQYURrRGtuVGZZS1l3c3NTY2xUc0owb2xCN0ZQZXlOVlY4cGxHN1JXRkFVaUFvUlJkYjBGOHhablpYZ2pjTkFqcVNKejlDQmdyQVJSYi1oMmh2UGtKZmJRd21weXc?oc=5",
+      "published": "2026-11-28 10:05",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -153,37 +154,37 @@
       "region": "해외",
       "classification": "해외",
       "source": "Google News Global",
-      "title": "주식, 금, 암호화폐 모두 하락세, 월가는 12월 15일경 실질적 반등 예상",
-      "display_title": "주식, 금, 암호화폐 모두 하락세, 월가는 12월 15일경 실질적 반등 예상",
-      "original_title": "Stocks, Gold and Crypto Are All Falling — Wall Street Sees the Real Rebound Starting Around Dec. 15 - bloomingbit",
+      "title": "변동성 큰 증시, 다음 시험대로 고용 데이터와 금리 전망 직면",
+      "display_title": "변동성 큰 증시, 다음 시험대로 고용 데이터와 금리 전망 직면",
+      "original_title": "Volatile stock market confronts jobs data, rate view as next tests By Reuters - Investing.com",
       "summary": [
-        "최근 주식, 금, 암호화폐 등 주요 투자 자산이 동반 하락하고 있으나, 월가는 12월 15일경에 실질적인 시장 반등을 예상하고 있다.",
-        "고금리 지속과 경제 불확실성으로 인한 위험 회피 심리가 다양한 자산 시장에 영향을 미치고 있다.",
-        "연말 시즌을 앞두고 시장의 전환점을 예상하는 시각이 제시되는 만큼, 단기적인 변동성에 대비하고 중장기적인 투자 전략을 점검해야 한다."
+        "글로벌 증시가 높은 변동성을 보이며 향후 발표될 고용 지표와 중앙은행의 금리 결정에 촉각을 세우고 있다.",
+        "인플레이션과 경기 침체 우려가 상존하는 가운데, 고용 상황과 금리 정책은 시장 방향을 결정하는 핵심 변수이다.",
+        "주요 경제 지표 발표 전후로 시장 변동성 확대에 대비하고, 금리 정책 변화 가능성을 주시해야 한다."
       ],
-      "summary_text": "최근 주식, 금, 암호화폐 등 주요 투자 자산이 동반 하락하고 있으나, 월가는 12월 15일경에 실질적인 시장 반등을 예상하고 있다. 고금리 지속과 경제 불확실성으로 인한 위험 회피 심리가 다양한 자산 시장에 영향을 미치고 있다. 연말 시즌을 앞두고 시장의 전환점을 예상하는 시각이 제시되는 만큼, 단기적인 변동성에 대비하고 중장기적인 투자 전략을 점검해야 한다.",
-      "description": "주식, 금, 암호화폐 시장이 모두 하락하고 있으며, 월가는 12월 15일경부터 진정한 시장 반등이 시작될 것으로 보고 있습니다.",
-      "category": "글로벌 경제",
-      "importance": 8,
+      "summary_text": "글로벌 증시가 높은 변동성을 보이며 향후 발표될 고용 지표와 중앙은행의 금리 결정에 촉각을 세우고 있다. 인플레이션과 경기 침체 우려가 상존하는 가운데, 고용 상황과 금리 정책은 시장 방향을 결정하는 핵심 변수이다. 주요 경제 지표 발표 전후로 시장 변동성 확대에 대비하고, 금리 정책 변화 가능성을 주시해야 한다.",
+      "description": "변동성이 큰 주식 시장이 다가오는 고용 데이터 발표와 연방준비제도(Fed)의 금리 인상 또는 인하 전망을 다음 시험대로 맞이하고 있다.",
+      "category": "증시·금리",
+      "importance": 9,
       "market_impact": "중립",
-      "related_sector": "증권, 투자, 블록체인",
+      "related_sector": "금융, 경기민감주",
       "related_stocks": [
-        "카카오",
-        "우리기술투자",
-        "비덴트"
+        "미래에셋증권",
+        "한국금융지주",
+        "NH투자증권"
       ],
-      "investment_view": "관심",
-      "investment_reason": "주요 자산의 동반 하락은 투자 심리 위축을 나타내며, 월가의 반등 시점 전망은 향후 시장 대응 전략 수립에 중요하므로 주시해야 한다.",
-      "key_signal": "12월 중순으로 제시된 반등 시점까지 시장의 변동성을 면밀히 관찰하며 주요 경제 지표를 확인해야 한다.",
+      "investment_view": "주의",
+      "investment_reason": "고용 데이터와 금리 전망에 따라 시장 변동성이 커질 수 있으므로 신중한 접근이 필요하다.",
+      "key_signal": "이번 주 발표될 미국의 고용지표와 연준 당국자들의 발언을 면밀히 모니터링해야 한다.",
       "keywords": [
-        "주식",
-        "금",
-        "암호화폐",
-        "월가",
-        "시장 반등"
+        "금리",
+        "고용지표",
+        "증시변동성",
+        "연준",
+        "거시경제"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Wa1BQZU1aYnd4UVphS2VWbUowQjZId09yYUpyc0kyRjJMclhwc1NvbjMzNnJ3YmtwSGl1SUNRdm1VUmNHdUxlTmNuM1dEVTVoZDc4OQ?oc=5",
-      "published": "2026-11-27 09:13",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGpOdzNCcFVBRGNESmpKYWtXNjhHcXZkSUlnNW9CQUR3Q3B0c1VWZjNvUUVWcjkwOF9ySVVFWGVPZ1UxclJ4b2l6REh0TVNUdV8tcXd3WFRUeUZTQlJlQlNtbS00VFo4ZU9hdkF2TGg2czkzb2F0bGVyOFNsaXVnQlYtN2VBTjVvR1IwWWdrN1dDam40dUlyaXJsUTN3VzZ4ZUZHOGp5dkRpQ3EzZFAyMU9LQjlER1E?oc=5",
+      "published": "2026-11-28 06:58",
       "quality": {
         "title_status": "번역완료",
         "summary_status": "AI요약",
@@ -192,42 +193,42 @@
     },
     {
       "rank": 5,
-      "region": "국내",
-      "classification": "국내",
-      "source": "Google News Korea",
-      "title": "[개장시황] 코스피 4750선 상승…코스닥 2%대 강세",
-      "display_title": "[개장시황] 코스피 4750선 상승…코스닥 2%대 강세",
-      "original_title": "[개장시황] 코스피 4750선 상승…코스닥 2%대 강세 - 자본시장뉴스",
+      "region": "해외",
+      "classification": "해외",
+      "source": "Google News Global",
+      "title": "애플과 OpenAI 간 경쟁 심화 속 주목할 만한 AI 인프라 주식 3가지",
+      "display_title": "애플과 OpenAI 간 경쟁 심화 속 주목할 만한 AI 인프라 주식 3가지",
+      "original_title": "3 AI Infrastructure Stocks to Watch As Apple OpenAI Fight Tests Chip Demand - Yahoo Finance",
       "summary": [
-        "개장 초 코스피가 4750선까지 상승하고 코스닥은 2%대 강세를 보이는 등 국내 증시가 양호한 흐름을 보였다.",
-        "최근 글로벌 증시 흐름 및 국내 기업 실적 기대감이 복합적으로 작용하여 투자 심리가 개선된 것으로 보인다.",
-        "코스피와 코스닥 동반 강세는 시장 전반의 활력 회복 신호일 수 있으며, 특히 코스닥 시장의 강세는 중소형주 및 성장주에 대한 관심 증대를 의미한다."
+        "애플과 OpenAI의 경쟁이 심화되면서 AI 인프라 구축에 필수적인 반도체 수요가 늘어날 것으로 예상되며 관련주가 주목받고 있다.",
+        "빅테크 기업들의 AI 경쟁은 AI 데이터센터, 클라우드 컴퓨팅 등 인프라 투자를 촉진하고, 이는 고성능 반도체 수요 증가로 이어진다.",
+        "AI 경쟁의 수혜를 받는 AI 인프라 및 반도체 관련 기업들의 장기적인 성장 가능성을 고려해야 한다."
       ],
-      "summary_text": "개장 초 코스피가 4750선까지 상승하고 코스닥은 2%대 강세를 보이는 등 국내 증시가 양호한 흐름을 보였다. 최근 글로벌 증시 흐름 및 국내 기업 실적 기대감이 복합적으로 작용하여 투자 심리가 개선된 것으로 보인다. 코스피와 코스닥 동반 강세는 시장 전반의 활력 회복 신호일 수 있으며, 특히 코스닥 시장의 강세는 중소형주 및 성장주에 대한 관심 증대를 의미한다.",
-      "description": "국내 증시 개장 초 코스피 지수는 4750선으로 상승했으며, 코스닥 지수는 2%대 강세를 보였습니다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "애플과 OpenAI의 경쟁이 심화되면서 AI 인프라 구축에 필수적인 반도체 수요가 늘어날 것으로 예상되며 관련주가 주목받고 있다. 빅테크 기업들의 AI 경쟁은 AI 데이터센터, 클라우드 컴퓨팅 등 인프라 투자를 촉진하고, 이는 고성능 반도체 수요 증가로 이어진다. AI 경쟁의 수혜를 받는 AI 인프라 및 반도체 관련 기업들의 장기적인 성장 가능성을 고려해야 한다.",
+      "description": "애플과 OpenAI 간 경쟁이 심화되면서 반도체 수요에 대한 시험대가 되는 가운데 주목할 만한 AI 인프라 관련 주식 3가지.",
+      "category": "기업·산업",
+      "importance": 9,
       "market_impact": "긍정",
-      "related_sector": "증권, 기술주, 제약바이오",
+      "related_sector": "반도체, 인공지능, 클라우드 컴퓨팅",
       "related_stocks": [
-        "셀트리온",
-        "에코프로비엠",
-        "카카오"
+        "삼성전자",
+        "SK하이닉스",
+        "한미반도체"
       ],
       "investment_view": "관심",
-      "investment_reason": "코스피와 코스닥의 동반 강세는 시장 전반의 투자 심리 개선을 나타내며, 특히 코스닥의 강세는 성장주 투자 기회를 모색하는 데 중요한 단서가 된다.",
-      "key_signal": "장중 상승세가 유지되는지, 그리고 코스닥 시장을 이끄는 주도 섹터가 무엇인지 확인해야 한다.",
+      "investment_reason": "AI 인프라 구축 경쟁이 국내 반도체 기업들의 실적 개선에 긍정적인 영향을 미칠 수 있어 면밀히 살펴봐야 한다.",
+      "key_signal": "AI 기술 개발 경쟁에 따른 반도체 기업들의 수주 동향과 실적 발표를 주시해야 한다.",
       "keywords": [
-        "코스피",
-        "코스닥",
-        "강세",
-        "상승",
-        "개장시황"
+        "AI인프라",
+        "반도체",
+        "애플",
+        "OpenAI",
+        "클라우드"
       ],
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNWDVFNFMzTlNXYW1ZMXczSzFLVGZtbzlCWkpYVVpiUlRnTUU5bU1wV2YtX2dGd3dwcTR6d3N5RWVOXzFxek5yUnhqaWwzNlNjOXVnLVRtSkpQUFFXZzI5WTlQX0o3U2M?oc=5",
-      "published": "2026-11-27 09:56",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSld3TDJPS2R6Y3RhcHdMN3RMMTVTaU04aUF2ZVY5emp5dGpuYnJDdkRKeXlsZUpuR01FRmoydzlhMVIzVEFfcXRWVWo1dFhzaGUtdGZkME56dWVBN2NTbDR4SEV4MWxvaTZuNEJCbmw0QmxzUS1zS0xqbEJua3hMeV91akFGSzNWb1lFS1BCZ1kzYVFiRzZLVU1BYnM?oc=5",
+      "published": "2026-11-28 09:14",
       "quality": {
-        "title_status": "원문한국어",
+        "title_status": "번역완료",
         "summary_status": "AI요약",
         "analysis_status": "ai"
       }
@@ -237,37 +238,33 @@
       "region": "국내",
       "classification": "국내",
       "source": "Google News Korea",
-      "title": "[마켓펄스] 고유가·고금리 경계감 확산...코스피, 불안한 상승세",
-      "display_title": "[마켓펄스] 고유가·고금리 경계감 확산...코스피, 불안한 상승세",
-      "original_title": "[마켓펄스] 고유가·고금리 경계감 확산...코스피, 불안한 상승세 - 투데이신문",
+      "title": "[다음주 경제] 증시 안정 대책 논의, 잠재성장률 상향 및 예산안 처리 동향 주목",
+      "display_title": "[다음주 경제] 증시 안정 대책 논의, 잠재성장률 상향 및 예산안 처리 동향 주목",
+      "original_title": "[다음주 경제] 증시 안정 대책 논의…잠재성장률 상향·예산안 처리 관심 - 산경투데이",
       "summary": [
-        "고유가와 고금리 기조에 대한 경계감이 확산되면서 코스피는 상승세를 보이고 있지만, 그 흐름이 불안정하다.",
-        "국제 유가 상승은 인플레이션 압력을 가중시키고, 고금리 지속은 기업의 투자 및 소비 심리에 부정적 영향을 미칠 수 있다.",
-        "대외 변수에 대한 경계심이 높은 상황에서 국내 증시의 불안정한 상승세는 투자 시 신중한 접근이 필요함을 시사한다."
+        "다음 주에는 증시 안정화 대책 논의, 잠재성장률 상향 조정 검토, 그리고 국회 예산안 처리 등 국내 경제의 주요 이슈들이 예정되어 있다.",
+        "국내 경기 하방 압력 속에서 정부의 시장 안정화 의지와 경제 성장 동력 확보 노력이 집중될 것으로 보인다.",
+        "정책 방향성과 경제 지표 변화는 국내 증시 및 특정 산업에 큰 영향을 미칠 수 있으므로 주요 발표와 논의에 주목해야 한다."
       ],
-      "summary_text": "고유가와 고금리 기조에 대한 경계감이 확산되면서 코스피는 상승세를 보이고 있지만, 그 흐름이 불안정하다. 국제 유가 상승은 인플레이션 압력을 가중시키고, 고금리 지속은 기업의 투자 및 소비 심리에 부정적 영향을 미칠 수 있다. 대외 변수에 대한 경계심이 높은 상황에서 국내 증시의 불안정한 상승세는 투자 시 신중한 접근이 필요함을 시사한다.",
-      "description": "고유가와 고금리에 대한 경계감이 확산되는 가운데, 코스피 지수는 불안한 상승세를 보이고 있습니다.",
-      "category": "증시·금리",
-      "importance": 8,
+      "summary_text": "다음 주에는 증시 안정화 대책 논의, 잠재성장률 상향 조정 검토, 그리고 국회 예산안 처리 등 국내 경제의 주요 이슈들이 예정되어 있다. 국내 경기 하방 압력 속에서 정부의 시장 안정화 의지와 경제 성장 동력 확보 노력이 집중될 것으로 보인다. 정책 방향성과 경제 지표 변화는 국내 증시 및 특정 산업에 큰 영향을 미칠 수 있으므로 주요 발표와 논의에 주목해야 한다.",
+      "description": "다음 주 경제 주요 이슈로는 증시 안정 대책 논의, 잠재성장률 상향 조정 가능성, 그리고 국회 예산안 처리 진행 상황이 관심사로 떠오르고 있다.",
+      "category": "국내 거시경제",
+      "importance": 9,
       "market_impact": "중립",
-      "related_sector": "정유, 금융, 증권",
-      "related_stocks": [
-        "S-Oil",
-        "SK이노베이션",
-        "카카오뱅크"
-      ],
-      "investment_view": "주의",
-      "investment_reason": "고유가와 고금리 압박은 기업 실적과 투자 심리를 위축시킬 수 있어 국내 증시의 상승 여력을 제한할 가능성이 높으므로 주의해야 한다.",
-      "key_signal": "유가와 금리 동향, 그리고 외국인/기관 투자자의 순매수 전환 여부를 면밀히 관찰해야 한다.",
+      "related_sector": "전반, 정책수혜주, 건설, 인프라",
+      "related_stocks": [],
+      "investment_view": "관심",
+      "investment_reason": "다음 주 예정된 국내 경제 주요 이슈들은 시장 안정화 및 성장 기대감에 영향을 미칠 수 있으므로 전반적인 시장 방향성을 파악하기 위해 관심 있게 지켜봐야 한다.",
+      "key_signal": "다음 주 발표될 정부의 증시 안정화 대책과 국회 예산안 처리 결과가 국내 증시에 미칠 영향을 미리 예상해봐야 한다.",
       "keywords": [
-        "고유가",
-        "고금리",
-        "코스피",
-        "불안한 상승",
-        "인플레이션"
+        "국내경제",
+        "증시안정",
+        "잠재성장률",
+        "예산안",
+        "정책"
       ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Tam04TzhYZFRJZGF3YjBZVnBldGJvSjhjWTJKUjk4a3c0X29VLXdyeVpiRHdHdTRCT3Z5dU1TNkZMdV9tN3pWT1dPZDFUVnBiNUZIQ084c2tjZkxsRm5TQWxxR0FBbFVEbTNZ0gFvQVVfeXFMT0NGUS03R1g2TUEyQ2tscktmYk94eGpTNzlyOU5ncFRPTDR5WDBxVEZ5SUp1R1hrVm9HN2lQY21rNmR0eDN1Uy1RTzd0bkRwR3J0cXFJSF9zU05ncXdGUGsxbTgxb0JmdlB6cm1oWlFJ?oc=5",
-      "published": "2026-11-27 09:49",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13ck5fWU9kbVVEOTgwMmY0WFZSRkd3RU14N2hIVFpUS1ZpLUVBLWc1VXBpcE4zanAwb3A4WmMtakJ4TW9aZVc0S1JEOERsM0NyNG0wSWNNNm9DWm02dEpPMVZxdWdQWS0wMUJrYlA5czZUaEhK0gF0QVVfeXFMTXdyTl9ZT2RtVUQ5ODAyZjRYVlJGR3dFTXg3aEhUWlRLVmktRUEtZzVVcGlwTjNqcDBvcDhaYy1qQnhNb1plVzRLUkQ4RGwzQ3I0bTBJY002b0NabTZ0Sk8xVnF1Z1BZLTAxQmtiUDlzNlRoSEo?oc=5",
+      "published": "2026-11-28 11:22",
       "quality": {
         "title_status": "원문한국어",
         "summary_status": "AI요약",
@@ -280,66 +277,68 @@
       "rank": 1,
       "name": "삼성전자",
       "market": "KOSPI",
-      "sector": "반도체",
-      "opinion": "주의",
-      "reason": "미국의 반도체 통상 압박이 한국의 주력 산업인 반도체 기업들의 사업 환경에 직접적인 부정적 영향을 미칠 수 있으므로, 관련 뉴스에 대한 지속적인 모니터링과 신중한 접근이 필요합니다.",
+      "sector": "반도체, IT하드웨어",
+      "opinion": "관심",
+      "reason": "국내 증시의 방향성을 결정하는 핵심 종목이며, AI 테마 부활 및 AI 인프라 구축 경쟁 심화에 따른 반도체 업황 개선 기대감이 높아지고 있어 주목해야 합니다.",
       "check_points": [
-        "미국발 통상 압박 관련 후속 뉴스 및 정부 대응 방안",
-        "글로벌 반도체 시장의 수급 및 재고 변화 추이",
-        "달러 강세가 반도체 수출 실적에 미치는 영향"
+        "글로벌 반도체 수요 회복 동향",
+        "AI 반도체(HBM 등) 실적 기여도",
+        "미국 기술주 및 AI 관련주 동향"
       ],
       "related_news_titles": [
-        "[뉴스 분석] 미국 표적이 된 호남 반도체…산업 육성 방식이 통상 협상 의제로"
+        "막판에 살아난 삼성전자·SK하이닉스…12월 첫째주 '반전 드라마' 기대 [주간 증시해설서]",
+        "AI 테마 부활에 미 주요 3대 지수 주간 큰 폭 상승, 공포 지수 10% 이상 급락",
+        "애플과 OpenAI 간 경쟁 심화 속 주목할 만한 AI 인프라 주식 3가지"
       ]
     },
     {
       "rank": 2,
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "sector": "이차전지, 기술주",
+      "name": "한미반도체",
+      "market": "KOSPI",
+      "sector": "반도체",
       "opinion": "관심",
-      "reason": "코스닥 시장이 정책 기대감과 함께 2%대 이상의 강세를 보이며 전반적인 투자 심리가 개선되고 있습니다. 특히 코스닥 성장주에 대한 관심이 높아질 수 있습니다.",
+      "reason": "AI 인프라 구축 경쟁이 심화되면서 AI 반도체 생산에 필수적인 HBM 관련 장비 기업들의 실적 개선에 긍정적인 영향을 미칠 것으로 예상되어 면밀히 살펴볼 필요가 있습니다.",
       "check_points": [
-        "코스닥 시장의 외국인 및 기관 투자자 동향",
-        "정부의 중소형주 및 혁신 성장 정책 발표 여부",
-        "2차전지 산업의 전방 산업 수요 변화"
+        "AI 반도체(HBM) 시장 성장세",
+        "주요 고객사 투자 및 수주 동향",
+        "경쟁사 대비 기술력 우위 유지 여부"
       ],
       "related_news_titles": [
-        "코스피 장중 금리 인상 부담에 '하락 전환' 4700선, 코스닥은 정책 기대감에 3%대 상승",
-        "[개장시황] 코스피 4750선 상승…코스닥 2%대 강세"
+        "막판에 살아난 삼성전자·SK하이닉스…12월 첫째주 '반전 드라마' 기대 [주간 증시해설서]",
+        "애플과 OpenAI 간 경쟁 심화 속 주목할 만한 AI 인프라 주식 3가지"
       ]
     },
     {
       "rank": 3,
-      "name": "현대차",
+      "name": "미래에셋증권",
       "market": "KOSPI",
-      "sector": "자동차, 수출",
+      "sector": "증권, 금융",
       "opinion": "관심",
-      "reason": "글로벌 증시의 회복세와 달러 강세는 국내 주요 수출 기업의 실적 개선에 긍정적인 영향을 미칠 수 있습니다. 외국인 자금 유입 흐름과 달러 강세 추이를 함께 주시해야 합니다.",
+      "reason": "금융당국의 증시 안정화 펀드 가동 임박 소식은 국내 증시 전반의 하방 경직성을 확보하고 투자 심리를 개선하여 증권업종에 긍정적으로 작용할 수 있으므로 관심 있게 봐야 합니다.",
       "check_points": [
-        "글로벌 주요국 경제 지표 및 소비 심리 동향",
-        "원/달러 환율 변동성 및 추이",
-        "각국 정부의 자동차 산업 정책 변화 및 경쟁 심화 여부"
+        "금융당국의 실제 시장 개입 시점 및 규모",
+        "국내 증시 거래량 및 투자 심리 변화",
+        "금리 변동성 및 채권 시장 동향"
       ],
       "related_news_titles": [
-        "한 달간의 부진 끝에 주식 시장 회복세, 달러는 세 번째 월간 상승세 기록 전망"
+        "증시 급락에 금융당국 개입 시사…증시안정화 펀드 가동 임박, 증권주 반등 기대감",
+        "변동성 큰 증시, 다음 시험대로 고용 데이터와 금리 전망 직면"
       ]
     },
     {
       "rank": 4,
-      "name": "키움증권",
+      "name": "네이버",
       "market": "KOSPI",
-      "sector": "증권, 금융",
-      "opinion": "중립",
-      "reason": "코스피 시장이 금리 인상 부담과 고유가 경계감 속에서 불안정한 상승세를 보이는 가운데, 증권 업종은 시장 전반의 거래량 및 투자 심리에 직접적인 영향을 받으므로 복합적인 분석이 요구됩니다.",
+      "sector": "IT소프트웨어, 인공지능",
+      "opinion": "관심",
+      "reason": "미국 주요 지수의 AI 테마 부활에 따른 기술주 강세는 국내 AI 관련 기술주에도 긍정적인 영향을 미칠 수 있으며, 국내 대표 AI 기술 기업으로서의 행보에 주목할 필요가 있습니다.",
       "check_points": [
-        "국내외 금리 인상 속도 및 방향성",
-        "국내 증시의 일평균 거래량 및 투자자 예탁금 추이",
-        "고유가 지속 여부 및 거시 경제에 미치는 영향"
+        "글로벌 AI 기술 동향 및 투자 확대",
+        "자체 AI 모델 '하이퍼클로바X' 성과",
+        "광고 및 커머스 등 본업과의 시너지"
       ],
       "related_news_titles": [
-        "코스피 장중 금리 인상 부담에 '하락 전환' 4700선, 코스닥은 정책 기대감에 3%대 상승",
-        "[마켓펄스] 고유가·고금리 경계감 확산...코스피, 불안한 상승세"
+        "AI 테마 부활에 미 주요 3대 지수 주간 큰 폭 상승, 공포 지수 10% 이상 급락"
       ]
     }
   ],
